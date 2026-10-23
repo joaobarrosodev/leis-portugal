@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/04400/0118501191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2013/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2013-259263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97a6cbc43b1839bf5ec94077fe1c32f0c0b5e6308e87c07b1e72049ac5f55ad3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa6e233825aa13016b0f4d05aea1d0eda1d12fa76c375605e6a0a3f548170d44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
 - Assistência Médica
 - Consulta a Tempo e Horas
 - Consulta Médica
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
-- Administração Central do Sistema de Saúde
 - Cuidados Médicos
-- Regulamento
-- Estabelecimento Hospitalar
 - Direitos do Utente
+- Estabelecimento Hospitalar
+- Regulamento
+- Serviço Nacional de Saúde
 - TAXA Moderadora
 - Utente
 relationships:
@@ -91,16 +91,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615/2008/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615/2008/07/11/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640915:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106938486:por
+  label: Revogada, a partir de 01.05.2017, pelo(a) Portaria n.º 147/2017 - Diário da República n.º 82/2017, Série I de 2017-04-27
+    nos termos do se art. 26.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-2017-106938486
+  date: '2017-04-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:28Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +171,7 @@ O coordenador nacional do CTH é nomeado por despacho do conselho diretivo da AC
 
 A presente portaria produz efeitos no dia um do mês seguinte ao da sua publicação.
 
-**O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 25 de fevereiro de 2013.**
+O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 25 de fevereiro de 2013.
 
 ## ANEXO
 

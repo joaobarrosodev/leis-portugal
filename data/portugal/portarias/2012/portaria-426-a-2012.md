@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/2012, 2º Suplemento, Série I de 2012-12-28
   number: '251'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7294-(20) a 7294-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25102/0002000021.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426-a/2012/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-a-2012-401016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2860591175840717dabcc7c000931371c930186a36ffe4b8911c583e67cdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee861a39adf1412eae2801ee5f08f9b78beb4b08e55e86b4dc57efc63bee113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Contribuições e Impostos
+- Documento Eletrónico
 - Factura
 - Fiscalização
 - Formulário Eletrónico
 - Impresso
-- Contribuições e Impostos
-- IVA
 - Informatização
-- Isenção Fiscal
-- Documento Eletrónico
 - Internet
+- Isenção Fiscal
+- IVA
 - Transacção Comercial
 relationships:
 - type: amended_by
   target: pt:dre:164404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Determinado que se aplica durante o ano de 2014 a disposição transitória prevista no art. 7.º do presente diploma,\
+    \ pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:65983259:por
+  label: Determinada a aplicação durante o ano de 2015 da disposição transitória prevista no art. 7.º pelo(a) Portaria n.º
+    278/2014 - Diário da República n.º 250/2014, Série I de 2014-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-2014-65983259
+  date: '2014-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/2012/08/24/p/dre
   label: null
@@ -95,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:09Z'
   warnings: []
   errors: []
 ---
@@ -183,6 +207,6 @@ Em tudo o que não estiver expressamente regulado neste diploma é aplicável o 
 
 A presente portaria entra em vigor em 1 de janeiro de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 26 de dezembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 26 de dezembro de 2012.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25102/0002000021.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25102/0002000021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25102/0002000021.pdf)

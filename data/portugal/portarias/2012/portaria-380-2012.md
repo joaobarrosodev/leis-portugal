@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/380/2012/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-2012-191079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af633761680f2469ac2ec88acd26e43abe3dd01fd903dfbaebd9bbd2227dfc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51ba5d798c373c655fd1a0e79c8535f47ff5c624922755572db8414860d09532
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Entidade Certificadora
 - Etiquetagem
 - Instituto da Vinha e do Vinho
 - Política Agrícola Comum
 - Produto Vitivinícola
 - Vinha
+- Vinho
 relationships:
+- type: amended_by
+  target: pt:dre:2642974:por
+  label: "Alterada [incluindo o sinónimo «Chenin Blanc» para a casta Chenin B (PRT53512)] a lista de castas anexa, pelo AV.6051/2013.09.05.2013.IVV-MAMAOT,\
+    \ DR.IIS [89] de 09.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6051-2013-2642974
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:114513283:por
+  label: Anexado o sinónimo "Malvasia Corada" para a casta "Vital" (PRT52614) pelo(a) Aviso n.º 734/2018 - Diário da República
+    n.º 9/2018, Série II de 2018-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/734-2018-114513283
+  date: '2018-01-12'
+- type: amended_by
+  target: pt:dre:127380024:por
+  label: Anexadas castas e sinónimos à lista de castas anexa, pelo(a) Aviso n.º 20435/2019 - Diário da República n.º 244/2019,
+    Série II de 2019-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/20435-2019-127380024
+  date: '2019-12-19'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -88,13 +106,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:52Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +159,8 @@ A presente portaria estabelece as castas de uvas aptas à produção de vinho em
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 8 de novembro de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 8 de novembro de 2012.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22600/0671206715.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22600/0671206715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22600/0671206715.pdf)

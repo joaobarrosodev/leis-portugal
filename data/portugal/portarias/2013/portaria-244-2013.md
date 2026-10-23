@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/2013/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-2013-498528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ff3f090452c43818560e3d001553895cfb835e15b62a611dec7756d323a7935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49fd4ee953a827970ca6120e35ffceed3a436722ecc62389d3ce5f409362f2ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Embarcação
-- Financiamento
+- Apoio ao Investimento
+- Comércio
 - Construção Naval
 - Definição de Competências
-- Pesca
-- Apoio ao Investimento
+- Embarcação
+- Financiamento
 - IFAP
+- Indústria Transformadora
+- Intervenção Operacional Pescas
+- Pesca
 - Regime de Apoio
 - Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura
 - Regime de Apoio ao Desenvolvimento da Aquicultura
-- Intervenção Operacional Pescas
-- Indústria Transformadora
 - Regulamento do Regime de Apoio à Construção de Novas Embarcações de Pesca
 - Regulamento do Regime de Apoio à Modernização das Embarcações de Pesca
 - Subsídio
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1071/2000/11/07/p/dre
@@ -125,16 +125,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-g/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-g/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693789:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:21Z'
   warnings: []
   errors: []
 ---
@@ -273,4 +349,4 @@ Os planos de reembolso que, à data da entrada em vigor da presente portaria, se
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos montantes ainda não reembolsados ou cobrados, relativos a investimentos em situação regular.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de julho de 2013. - O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 17 de julho de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de julho de 2013. - O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 17 de julho de 2013.

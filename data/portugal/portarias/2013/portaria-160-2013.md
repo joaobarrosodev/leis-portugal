@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/2013/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7254093b85e4828a84ae49305485465c0a89610bb7863698620d6654b245c2ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e102862b4b5c44cf223e2b7da5b5d7dfc1883fbf15f953340a17e6f47d8f328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,37 @@ subjects:
 - Acreditação
 - Atividade Agrícola
 - Atividade Industrial
-- Ficheiro Informático
-- Empresa
-- Contabilidade
 - Código do IRC
-- Software
+- Comércio
+- Contabilidade
 - Direcção Geral dos Impostos
+- Empresa
+- Ficheiro Informático
+- Inspecção Tributária
+- IRC
 - IRS
 - IVA
-- Inspecção Tributária
-- Sistema de Informação
-- IRC
 - Registo Comercial
-- Comércio
+- Sistema de Informação
+- Software
 relationships:
 - type: amended_by
   target: pt:dre:503842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499051:por
+  label: "Determinado que o ficheiro a que se refere o art. 1º da Port. 321-A/2007, de 26-mar, na redação do presente diploma,\
+    \ passa a ter a estrutura de dados (que entra em vigor em 01.10.2013) constante do anexo à PORT.274/2013.21.08.2013.MF,\
+    \ DR.IS [160] de 21.08.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2013-499051
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:503842:por
+  label: "Alterados a partir de 01.01.2014, os arts. 2.º, 6º e 9º da Port. 363/2010, de 23-jun, na redação do presente diploma,\
+    \ pela PORT.340/2013.22.11.2013.MF, DR.IS [227] de 22.11.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-2013-503842
+  date: '2013-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
   label: null
@@ -104,16 +117,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/363/2010/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/363/2010/06/23/p/dre
+- type: cites
+  target: pt:dre:402697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:53Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +189,9 @@ b) [...];
 
 c) [Revogada].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os sujeitos passivos de imposto sobre o rendimento das pessoas singulares (IRS) ou de imposto sobre o rendimento das pessoas coletivas (IRC), para emissão de faturas, nos termos dos artigos 36.º e 40.º do Código do Imposto sobre o Valor Acrescentado (IVA), estão obrigados a utilizar, exclusivamente, programas informáticos de faturação que tenham sido objeto de prévia certificação pela Autoridade Tributária e Aduaneira (AT).
 
@@ -178,7 +209,9 @@ d) [...].
 
 4 - Para efeitos do disposto no n.º 1, consideram-se também programas de faturação os programas que emitam apenas guias de transporte ou de remessa, que sirvam de documento de transporte, de acordo com o disposto no regime de bens em circulação, aprovado pelo [Decreto-Lei n.º 147/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554), de 11 de julho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A certificação dos programas de faturação depende da verificação cumulativa dos seguintes requisitos:
 
@@ -192,7 +225,9 @@ d) [...];
 
 e) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O sistema de identificação a que se refere a alínea b) do artigo 3.º deve utilizar o algoritmo de cifra assimétrica RSA, recebendo como argumento os seguintes dados concatenados, pela ordem indicada, com o separador «;» (ponto e vírgula), que constituem a mensagem a assinar com a chave privada, constantes da tabela 4.1 - Documentos comerciais a clientes (SalesInvoices):
 
@@ -214,7 +249,9 @@ a) [...];
 
 b) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -244,7 +281,9 @@ iv) O valor do documento de conferência [campo 4.3.4.13.3 - total do documento 
 
 v) A assinatura gerada no documento anterior, do mesmo tipo e série do documento [campo 4.3.4.3 - chave do documento (Hash) do SAF-T (PT)].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os equipamentos ou programas de faturação não certificados que, para além das faturas, emitam para os clientes quaisquer documentos de conferência da entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa, devem:
 
@@ -376,7 +415,7 @@ l) Na exportação dos valores não são aceites valores negativos. Quando exist
 
 Esta tabela contém informação geral alusiva ao sujeito passivo a que respeita o SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 2. - * Tabelas mestres (Masterfiles):
 
@@ -388,19 +427,19 @@ A tabela de código de contas a exportar é a prevista pelo sistema de normaliza
 
 No caso de contas agregadoras que contenham subcontas com saldos devedores e subcontas com saldos credores, devem ser evidenciados esses saldos devedores e credores na conta agregadora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 2.2. - Tabela de clientes (Customer).
 
 Esta tabela deve conter todos os registos movimentados no período de tributação no respetivo ficheiro de clientes, bem como aqueles que sejam implícitos nos movimentos e não constem do respectivo ficheiro. Se, por exemplo, existir uma fatura com o registo do número de contribuinte e morada do cliente, que não conste no ficheiro de clientes da aplicação, este deve ser exportado como cliente no SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 2.3. - Tabela de Fornecedores (Supplier).
 
 Esta tabela deve conter todos os registos movimentados no período de tributação na respetiva base de dados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 2.4. - Tabela de produtos/serviços (Product).
 
@@ -410,19 +449,19 @@ Se, por exemplo, existir uma fatura com uma linha de portes que não conste no f
 
 Devem constar ainda os impostos, taxas, ecotaxas e encargos parafiscais que aparecem mencionados na fatura e que contribuam ou não para a base tributável do IVA ou IS - exceto o IVA e o IS, os quais deverão ser refletidos na 2.5. - Tabela de impostos (TaxTable).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 2.5. - Tabela de impostos (TaxTable).
 
 Nesta tabela registam-se os regimes fiscais de IVA, praticados em cada espaço fiscal e as rubricas do imposto do selo a liquidar, aplicáveis nas linhas dos documentos, registados na tabela 4. - Documentos comerciais (SourceDocuments).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 3. - Movimentos contabilísticos (GeneralLedgerEntries).
 
 Nesta tabela registam-se os movimentos contabilísticos correspondentes ao período de exportação a que diz respeito o SAF-T (PT), não devendo os movimentos de abertura ser objeto de exportação, na medida em que estes são apenas refletidos ao nível da tabela 2.1. - Tabela de código de contas (GeneralLedger) nos campos 2.1.3. - Saldo de abertura a débito da conta do plano de contas (OpeningDebitBalance) e 2.1.4. - Saldo de abertura a crédito da conta do plano de contas (OpeningCreditBalance).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 4. - Documentos comerciais (SourceDocuments):
 
@@ -434,11 +473,11 @@ Devem constar nesta tabela todos os documentos de venda e retificativos emitidos
 
 Para registos até 2012-12-31 e para não duplicar o montante das vendas ou anulações, quando existir um registo de talão de venda ou talão de devolução e outro registo de fatura ou nota de crédito correspondente, o talão deve ser assinalado no campo 4.1.4.2.1 - Estado atual do documento" (InvoiceStatus) como "F".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
 
 4.3 - Documentos de conferência de entrega de mercadorias ou da prestação de serviços (WorkingDocuments).
 
@@ -448,4 +487,4 @@ Não devem ser exportados nesta tabela aqueles documentos que devam constar nas 
 
 4.1 - Documentos comerciais a clientes (SalesInvoices) ou 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07900/0245702483.pdf)

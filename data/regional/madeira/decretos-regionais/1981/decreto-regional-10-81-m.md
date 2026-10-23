@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/10-1981-573154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c188f0cf08dd303014c88867228ab97f34192b858f40a4bee3d88f81b5bdc0d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a72d080d33857ac12ac5998c8dcb0c09b3a888f53d153897b2d4e24dbb16d8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Tabaco
+- Transporte Público
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:37Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +95,17 @@ Por outro lado, não basta alertar contra os malefícios do tabaco sem correspon
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República, a Assembleia Regional decreta, para vigorar como lei na Região Autónoma da Madeira, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma da Madeira é proibido fumar nos transportes colectivos públicos de passageiros.
+Artigo 1.º Na Região Autónoma da Madeira é proibido fumar nos transportes colectivos públicos de passageiros.
 
-###### Art. 2.º A interdição de fumar no interior dos veículos deverá ser assinalada mediante a afixação de dísticos apropriados.
+Art. 2.º A interdição de fumar no interior dos veículos deverá ser assinalada mediante a afixação de dísticos apropriados.
 
-###### Art. 3.º Os infractores ao disposto no artigo 1.º incorrem na multa de 200$00, podendo a mesma ser elevada ao dobro em caso de reincidência.
+Art. 3.º Os infractores ao disposto no artigo 1.º incorrem na multa de 200$00, podendo a mesma ser elevada ao dobro em caso de reincidência.
 
-###### Art. 4.º - 1 - Às entidades responsáveis pela fiscalização do funcionamento das carreiras de transportes colectivos públicos de passageiros e à PSP incumbe o cumprimento do disposto no presente diploma.
+Art. 4.º - 1 - Às entidades responsáveis pela fiscalização do funcionamento das carreiras de transportes colectivos públicos de passageiros e à PSP incumbe o cumprimento do disposto no presente diploma.
 
 2 - São igualmente responsáveis pelo cumprimento deste diploma as empresas de transportes colectivos públicos de passageiros, através dos seus agentes fiscais, revisores, cobradores e motoristas.
 
-###### Art. 5.º - 1 - Sempre que qualquer agente de autoridade com competência para o efeito presenciar qualquer infracção, e a multa não for paga no momento, levantará o competente auto de notícia.
+Art. 5.º - 1 - Sempre que qualquer agente de autoridade com competência para o efeito presenciar qualquer infracção, e a multa não for paga no momento, levantará o competente auto de notícia.
 
 2 - Na ausência de qualquer agente de autoridade competente, sempre que a infracção seja detectada por qualquer das entidades referidas no n.º 2 do artigo anterior, deverá comunicar, por escrito, à PSP, indicando testemunhas.
 
@@ -112,14 +115,14 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da 
 
 5 - Findo o prazo fixado no número anterior, se o pagamento não se mostrar efectuado, será o auto de notícia ou a comunicação remetido ao tribunal da comarca do local da infracção, dentro de cinco dias.
 
-###### Art. 6.º Os agentes ao serviço das empresas transportadoras que não cumprirem com o disposto no artigo 5.º incorrem na multa de 500$00 a 1000$00, elevada ao dobro em caso de reincidência, que será imposta pelo tribunal competente, em processo instaurado para esse fim, logo que haja conhecimento da falta em juízo e sem prejuízo de aplicação de sanções disciplinares.
+Art. 6.º Os agentes ao serviço das empresas transportadoras que não cumprirem com o disposto no artigo 5.º incorrem na multa de 500$00 a 1000$00, elevada ao dobro em caso de reincidência, que será imposta pelo tribunal competente, em processo instaurado para esse fim, logo que haja conhecimento da falta em juízo e sem prejuízo de aplicação de sanções disciplinares.
 
-###### Art. 7.º Este diploma será regulamentado pelo Governo Regional.
+Art. 7.º Este diploma será regulamentado pelo Governo Regional.
 
-###### Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Assembleia Regional da Madeira, 7 de Abril de 1981. - O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 24 de Abril de 1981.**
+Assinado em 24 de Abril de 1981.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

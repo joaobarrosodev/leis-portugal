@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2011/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2011-670536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5e6d41378bc38df564f1e78b5ab7ee00aeb32c525f2f68c60c44e9e2bcff05b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a9093f596a1acfb3000d43fa2ae626107f71d35f4b95920ab26b8a8a948d642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:28Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +160,4 @@ b) Relativamente à moeda de (euro) 0,25 o limite é de (euro) 3125.
 
 2 - Com excepção do Estado, através das caixas do tesouro, do Banco de Portugal e das instituições de crédito cuja actividade consista em receber depósitos do público, ninguém pode ser obrigado a receber num único pagamento mais de 50 destas moedas.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Junho de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Junho de 2011.

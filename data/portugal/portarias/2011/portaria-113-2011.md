@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/2011/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2011-278772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4192103f54f7f90fb5f758be53200e6212c946f0ce6f035b718423b0f58dce7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420de98a4acfe40f614defd2eb411a72a10735b090544bd294deb12ac15fd460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
-- Definição de Competências
-- Proteção da Floresta
-- Fundo Florestal Permanente
-- Pagamento
-- IFAP
 - Autoridade Florestal Nacional
+- Definição de Competências
+- Financiamento
+- Fundo Florestal Permanente
+- Garantia
+- IFAP
+- Pagamento
+- Proteção da Floresta
 - Regulamento
 - Relatório de Actividade
 - Relatório e Contas
@@ -84,6 +84,23 @@ relationships:
   target: pt:dre:66761451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Determinada a reestruturação do Fundo Florestal Permanente, cujo regulamento consta deste diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 4 do aseu art. 34º, passando a funcionar junto do Instituto da\
+    \ Conservação da Natureza e das Florestas, I.P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:500217:por
+  label: "Alterados os arts 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º,\
+    \ 21.º, 22.º, 23.º, 24.º, 25.º e 26.º (este último na redação do Dec Lei 16/2013, de 28-jan), a organização sistemática\
+    \ da sec. II do cap. III, que passa a ser composta pelos arts 18.º a 20.º-A, aditados os arts 3.º-A e 20.º-A, bem como\
+    \ revogado o art. 6.º, o n.º 2 do art. 16.º, o n.º 3 do art. 24.º e a al. c) do n.º 1 do art. 26.º do Regulamento do Fundo\
+    \ Florestal Permanente, aprovado pelo presente diploma e republicado, pela PORT.296/2013.02.10.2013.MAGM, DR.IS [190]\
+    \ de 02.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-2013-500217
+  date: '2013-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
   label: null
@@ -92,16 +109,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogada a al. b) do nº 1 do art. 26º do Regulamento do Fundo Florestal Permanente, pelo DEC LEI.16/2013.28.01.2013.MAMAOT,\
+    \ DR.IS [19] de 28.01.2013, na parte em que contrarie o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
+- type: repealed_by
+  target: pt:dre:66761451:por
+  label: Revogada, sem prejuízo do disposto no art. 2º, a presente Portaria, na redação do Dec Lei 16/2013, de 28-jan, e na
+    redação e republicação da Port 296/2013, de 02-out, pelo(a) Portaria n.º 77/2015 - Diário da República n.º 52/2015, Série
+    I de 2015-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-2015-66761451
+  date: '2015-03-16'
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:45Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +174,7 @@ Manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rura
 
 2 - Os artigos 22.º e 23.º, do Regulamento do Fundo Florestal Permanente, anexo à presente portaria, aplicam-se às candidaturas e aos protocolos celebrados até à data de entrada em vigor da presente portaria.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 17 de Março de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 17 de Março de 2011.
 
 ## ANEXO — REGULAMENTO DO FUNDO FLORESTAL PERMANENTE
 

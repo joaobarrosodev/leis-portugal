@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-2011-670284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a861f211306f53b9974f3ebdf3781458d9afd28fc0294d37f314263f1f73af44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d494298b91c27e6f44c0b9cb4545b5868df586caa8d6712bbe723fab838150a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Avaliação de Conhecimentos
+- Currículo Nacional
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Exame
 - Habilitações Literárias
-- Currículo Nacional
-- Avaliação de Conhecimentos
+- Plano de Estudos
 - Sistema de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:175162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552788:por
+  label: "Dada nova redação aos arts. 9º, 16º, 17º e 28º da Port 550-D/2004 de 21-mai, alterada e republicada pelo presente\
+    \ diploma, pela PORT.105/2012.17.04.2012.MECI, DR.IS [76] de 17.04.2012 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/105-2012-552788
+  date: '2012-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
   label: null
@@ -112,16 +118,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/550-d/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/550-d/2004/05/21/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175162:por
+  label: "Revogada, a partir de 15.08.2012, a Port 550-D/2004, de 21-maio, na redação da Port 259/2006, de 14-mar, da Port\
+    \ 673/2007, de 04-jun, da Port 1322/2007, de 04-out, da Port 56/2010, de 21-jan, do presente diploma e da Port 105/2012,\
+    \ de 17-abr, pela PORT.243/2012.10.08.2012.MECI, DR.IS [155] de 10.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-2012-175162
+  date: '2012-08-10'
 article_structure:
-  article_count: 59
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:25Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +203,17 @@ Os artigos 2.º, 4.º, 5.º, 8.º, 9.º, 11.º, 13.º, 14.º, 15.º, 16.º, 17.�
 
 5 - A carga horária da Formação Cívica é de quarenta e cinco minutos.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O incumprimento reiterado do dever de assiduidade por parte do aluno em qualquer disciplina ou em Formação Cívica, conforme estabelecido nos artigos 21.º e 22.º do Estatuto do Aluno dos Ensinos Básico e Secundário, tendo em conta o regime de funcionamento do ensino secundário, determina a exclusão nas disciplinas em causa ou em Formação Cívica.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A avaliação incide sobre as aprendizagens globalmente fixadas para as disciplinas e para a Formação Cívica constantes dos respectivos planos de estudo.
 
@@ -168,7 +221,9 @@ Os artigos 2.º, 4.º, 5.º, 8.º, 9.º, 11.º, 13.º, 14.º, 15.º, 16.º, 17.�
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Compete ao conselho pedagógico do agrupamento de escolas ou escola não agrupada, de acordo com as orientações do currículo nacional, definir, no início do ano lectivo, os critérios de avaliação para cada ano de escolaridade, disciplina e Formação Cívica, sob proposta dos departamentos curriculares, contemplando obrigatoriamente critérios de avaliação da componente prática e ou experimental, de acordo com a natureza das disciplinas e da Formação Cívica.
 
@@ -176,7 +231,9 @@ Os artigos 2.º, 4.º, 5.º, 8.º, 9.º, 11.º, 13.º, 14.º, 15.º, 16.º, 17.�
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +257,9 @@ e) (Revogada.)
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As modalidades de avaliação das aprendizagens são as seguintes:
 
@@ -208,7 +267,9 @@ a) Avaliação formativa;
 
 b) Avaliação sumativa, interna e externa.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +279,9 @@ b) Avaliação sumativa, interna e externa.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A avaliação sumativa interna destina-se a:
 
@@ -228,7 +291,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +311,9 @@ c) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transiç�
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As disciplinas em que existem provas de equivalência à frequência são as que constam do anexo i, no qual se define igualmente o tipo e a duração das respectivas provas.
 
@@ -290,7 +357,9 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 16 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +399,9 @@ b) No momento previsto na alínea anterior é indicada a disciplina bienal da co
 
 17 - (Anterior n.º 15.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 ...
 
@@ -346,7 +417,9 @@ e) ...
 
 f) ...
 
-###### Artigo 21.º — Classificação final das disciplinas
+Artigo 21.º
+
+Classificação final das disciplinas
 
 1 - A classificação final das disciplinas não sujeitas a exame final nacional no plano de estudo do aluno é obtida da seguinte forma:
 
@@ -368,13 +441,17 @@ CE = classificação em exame final.
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A classificação final do curso é o resultado da média aritmética simples, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas do plano de estudo do respectivo curso.
 
 2 - A disciplina de Educação Moral e Religiosa e a Formação Cívica não são consideradas para efeitos de apuramento da classificação a que se refere o número anterior.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A aprovação do aluno em cada disciplina depende da obtenção de uma classificação final igual ou superior a 10 valores.
 
@@ -402,7 +479,9 @@ CE = classificação em exame final.
 
 13 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -422,7 +501,9 @@ CE = classificação em exame final.
 
 9 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As classificações e as menções qualitativas em Formação Cívica atribuídas no final dos 1.º, 2.º e 3.º períodos são registadas em pauta, bem como nos restantes documentos previstos para esse efeito, os quais não devem mencionar, caso existam alunos com necessidades educativas especiais, a natureza das mesmas.
 
@@ -438,7 +519,9 @@ CE = classificação em exame final.
 
 7 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Concluem o nível secundário de educação os alunos que obtenham aprovação em todas as disciplinas do plano de estudo do respectivo curso e realizem a Formação Cívica.
 
@@ -456,7 +539,9 @@ b) Um certificado que discrimine as disciplinas e as respectivas classificaçõe
 
 6 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Sempre que, em qualquer disciplina anual ou em Formação Cívica, o número de aulas ministradas durante todo o ano lectivo não tenha atingido o número previsto para oito semanas completas, considera-se o aluno aprovado, sem atribuição de classificação nessa disciplina, ou com a Formação Cívica realizada, sem atribuição da menção qualitativa.
 
@@ -506,7 +591,9 @@ d) No caso de disciplinas sujeitas a exame final nacional no plano de estudo do 
 
 e) ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Ao aluno que transita de ano com classificação igual a 9 ou 8 valores em uma ou duas disciplinas, é permitida a matrícula em todas as disciplinas do ano de escolaridade seguinte, incluindo aquela ou aquelas em que obteve essas classificações.
 
@@ -526,7 +613,9 @@ e) ...
 
 9 - Os alunos que realizaram todo o ensino secundário na qualidade de autopropostos, através de provas de equivalência à frequência ou exames finais nacionais, conforme os casos, ficam dispensados da realização da Formação Cívica.
 
-###### Artigo 32.º — Planos de estudo anteriores ao [Decreto-Lei n.º 272/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2007-636712)
+Artigo 32.º
+
+Planos de estudo anteriores ao [Decreto-Lei n.º 272/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2007-636712)
 
 1 - (Revogado.)
 
@@ -552,13 +641,17 @@ Os anexos i e ii da [Portaria n.º 550-D/2004](https://diariodarepublica.pt/dr/d
 
 Provas de equivalência à frequência: Tipos de provas em cada disciplina e respectiva duração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
 
-## ANEXO II — Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
 
-###### Artigo 3.º — Aditamento
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+
+Artigo 3.º
+
+Aditamento
 
 É aditado à [Portaria n.º 550-D/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-d-2004-238850), de 21 de Maio, com as alterações introduzidas pelas Portarias n.os [259/2006](https://diariodarepublica.pt/dr/detalhe/portaria/259-2006-667373), de 14 de Março, [1322/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1322-2007-641762), de 4 de Outubro, e 56/2010, de 21 de Janeiro, o artigo 16.º-A, com a seguinte redacção:
 
@@ -570,7 +663,9 @@ Disciplinas com oferta de exame final nacional
 
 2 - Nos casos referidos no número anterior, as provas realizadas pelos alunos são enviadas ao agrupamento de exames para efeito de classificação.»
 
-###### Artigo 4.º — Disposições transitórias
+Artigo 4.º
+
+Disposições transitórias
 
 1 - Os alunos retidos no 10.º ano de escolaridade no ano lectivo de 2010-2011 são integrados no mesmo ano de escolaridade nos planos de estudo aprovados pelo [Decreto-Lei n.º 50/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2011-276832), de 8 de Abril.
 
@@ -586,15 +681,21 @@ Disciplinas com oferta de exame final nacional
 
 7 - Os alunos que tenham ingressado no 10.º ano de escolaridade antes do ano lectivo de 2010-2011 e só venham a concluir o ensino secundário no ano lectivo de 2012-2013, ou seguintes, podem, desde que reúnam as condições estabelecidas no n.º 9 do artigo 17.º da [Portaria n.º 550-D/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-d-2004-238850), de 21 de Maio, com as alterações introduzidas pelas Portarias n.os [259/2006](https://diariodarepublica.pt/dr/detalhe/portaria/259-2006-667373), de 14 de Março, [1322/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1322-2007-641762), de 4 de Outubro, e 56/2010, de 21 de Janeiro, com a redacção actual, optar pela realização do exame final nacional nas duas disciplinas bienais da componente de formação específica, ou numa dessas disciplinas e na disciplina de Filosofia da componente de formação geral.
 
-###### Artigo 5.º — Revogação
+Artigo 5.º
+
+Revogação
 
 São revogados a alínea e) do n.º 3 do artigo 9.º, os n.os 8, 11 e 16 do artigo 16.º, a alínea c) do artigo 20.º, os n.os 1, 4, 5, 6, 7 e 8 do artigo 32.º e o anexo v da [Portaria n.º 550-D/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-d-2004-238850), de 21 de Maio, com as alterações introduzidas pelas Portarias n.os [259/2006](https://diariodarepublica.pt/dr/detalhe/portaria/259-2006-667373), de 14 de Março, [1322/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1322-2007-641762), de 4 de Outubro, e 56/2010, de 21 de Janeiro.
 
-###### Artigo 6.º — Republicação
+Artigo 6.º
+
+Republicação
 
 É republicada, como anexo da presente portaria, da qual faz parte integrante, a [Portaria n.º 550-D/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-d-2004-238850), de 21 de Maio, com as alterações introduzidas pelas Portarias n.os [259/2006](https://diariodarepublica.pt/dr/detalhe/portaria/259-2006-667373), de 14 de Março, [1322/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1322-2007-641762), de 4 de Outubro, e 56/2010, de 21 de Janeiro, com a redacção actual.
 
-###### Artigo 7.º — Aplicação no tempo
+Artigo 7.º
+
+Aplicação no tempo
 
 1 - A presente portaria produz efeitos a 1 de Setembro de 2011, em consonância com as regras de aplicação no tempo constantes do artigo 6.º do [Decreto-Lei n.º 50/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2011-276832), de 8 de Abril.
 
@@ -602,17 +703,23 @@ São revogados a alínea e) do n.º 3 do artigo 9.º, os n.os 8, 11 e 16 do arti
 
 Pela Ministra da Educação, José Alexandre da Rocha Ventura Silva, Secretário de Estado Adjunto e da Educação, em 9 de Junho de 2011.
 
-## ANEXO — CAPÍTULO I
+ANEXO
+
+CAPÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º — Objecto e fins
+Artigo 1.º
+
+Objecto e fins
 
 1 - O presente regime de organização, funcionamento e avaliação aplica-se aos cursos científico-humanísticos de nível secundário de educação, ministrados em estabelecimentos de ensino público, particular e cooperativo.
 
 2 - Estabelece ainda os princípios e os procedimentos a observar na avaliação, bem como os efeitos da mesma.
 
-###### Artigo 2.º — Cargas horárias
+Artigo 2.º
+
+Cargas horárias
 
 1 - As cargas horárias constantes das matrizes são estabelecidas a partir de uma unidade lectiva de noventa minutos correspondente à duração efectiva do tempo de leccionação, sem prejuízo do disposto nos números seguintes.
 
@@ -630,7 +737,9 @@ c) Disciplina trienal de Desenho A e disciplinas anuais de Oficina de Artes, de 
 
 5 - A carga horária da Formação Cívica é de quarenta e cinco minutos.
 
-###### Artigo 3.º — Gestão do currículo
+Artigo 3.º
+
+Gestão do currículo
 
 1 - As escolas, no âmbito da sua autonomia e no desenvolvimento do seu projecto educativo, podem apresentar propostas que, cumprindo no mínimo as matrizes curriculares legalmente estabelecidas, as complementem.
 
@@ -670,17 +779,25 @@ d) A Língua Estrangeira I, como disciplina facultativa, a que se refere a alín
 
 7 - A classificação obtida nas disciplinas referidas no número anterior pode contar, por opção do aluno, para efeitos de cálculo da média final de curso, desde que a frequência seja iniciada no ano seguinte ao da conclusão do curso, as disciplinas integrem o plano de estudo do curso concluído e sejam concluídas no período correspondente ao ciclo de estudo das mesmas.
 
-###### Artigo 4.º — Assiduidade
+Artigo 4.º
+
+Assiduidade
 
 1 - O incumprimento reiterado do dever de assiduidade por parte do aluno em qualquer disciplina ou em Formação Cívica, conforme estabelecido nos artigos 21.º e 22.º do Estatuto do Aluno dos Ensinos Básico e Secundário, tendo em conta o regime de funcionamento do ensino secundário, determina a exclusão nas disciplinas em causa ou em Formação Cívica.
 
 2 - Para os efeitos previstos no número anterior, o tempo de leccionação de cento e trinta e cinco minutos, resultante do reforço de quarenta e cinco minutos associado a uma unidade lectiva de noventa minutos, estabelecido no n.º 2 do artigo 2.º, corresponde a uma aula e a uma falta para o aluno.
 
-### CAPÍTULO II — Avaliação das aprendizagens
+CAPÍTULO II
 
-#### SECÇÃO I — Objecto e princípios
+Avaliação das aprendizagens
 
-###### Artigo 5.º — Objecto e finalidades
+SECÇÃO I
+
+Objecto e princípios
+
+Artigo 5.º
+
+Objecto e finalidades
 
 1 - A avaliação incide sobre as aprendizagens globalmente fixadas para as disciplinas e para a Formação Cívica constantes dos respectivos planos de estudo.
 
@@ -694,7 +811,9 @@ b) Certificar as competências adquiridas pelo aluno à saída do ensino secund�
 
 c) Contribuir para melhorar a qualidade do sistema educativo, possibilitando a tomada de decisões para o seu aperfeiçoamento e o reforço da confiança social no seu funcionamento.
 
-###### Artigo 6.º — Princípios
+Artigo 6.º
+
+Princípios
 
 A avaliação das aprendizagens orienta-se pelos seguintes princípios:
 
@@ -710,9 +829,13 @@ e) Transparência do processo de avaliação, nomeadamente através da explicita
 
 f) Valorização da informação sistemática ao aluno sobre o seu desempenho, com vista à melhoria das aprendizagens.
 
-#### SECÇÃO II — Processo de avaliação
+SECÇÃO II
 
-###### Artigo 7.º — Intervenientes
+Processo de avaliação
+
+Artigo 7.º
+
+Intervenientes
 
 1 - Intervêm no processo de avaliação:
 
@@ -734,7 +857,9 @@ g) A administração educativa.
 
 3 - A escola deve assegurar as condições de participação dos alunos e dos encarregados de educação, dos serviços com competência em matéria de apoio sócio-educativo e dos demais intervenientes, nos termos definidos no regulamento interno.
 
-###### Artigo 8.º — Critérios de avaliação
+Artigo 8.º
+
+Critérios de avaliação
 
 1 - Compete ao conselho pedagógico do agrupamento de escolas ou escola não agrupada, de acordo com as orientações do currículo nacional, definir, no início do ano lectivo, os critérios de avaliação para cada ano de escolaridade, disciplina e Formação Cívica, sob proposta dos departamentos curriculares, contemplando obrigatoriamente critérios de avaliação da componente prática e ou experimental, de acordo com a natureza das disciplinas e da Formação Cívica.
 
@@ -742,7 +867,9 @@ g) A administração educativa.
 
 3 - Os órgãos de gestão da escola asseguram a divulgação dos critérios referidos nos números anteriores aos vários intervenientes, em especial aos alunos e aos encarregados de educação.
 
-###### Artigo 9.º — Produção, tratamento e análise de informação sobre as aprendizagens dos alunos
+Artigo 9.º
+
+Produção, tratamento e análise de informação sobre as aprendizagens dos alunos
 
 1 - A produção de informação é da responsabilidade:
 
@@ -778,13 +905,17 @@ b) Na disciplina de Língua Estrangeira a componente de oralidade tem um peso de
 
 c) Nas disciplinas bienais de Física e Química A e de Biologia e Geologia, nas disciplinas anuais de Biologia, de Física, de Geologia e de Química, a componente prática e ou experimental tem um peso mínimo de 30 % no cálculo da classificação a atribuir em cada momento formal de avaliação, nos termos da alínea a) do n.º 2 do artigo 14.º
 
-###### Artigo 10.º — Registo, tratamento e análise da informação
+Artigo 10.º
+
+Registo, tratamento e análise da informação
 
 1 - Em cada estabelecimento de ensino devem ser desenvolvidos procedimentos de registo, de tratamento e de análise dos resultados da informação relativa à avaliação das aprendizagens dos alunos, proporcionando o desenvolvimento de práticas de auto-avaliação da escola que visem a melhoria do seu desempenho.
 
 2 - A informação tratada e analisada é disponibilizada à comunidade escolar.
 
-###### Artigo 11.º — Modalidades de avaliação
+Artigo 11.º
+
+Modalidades de avaliação
 
 As modalidades de avaliação das aprendizagens são as seguintes:
 
@@ -792,7 +923,9 @@ a) Avaliação formativa;
 
 b) Avaliação sumativa, interna e externa.
 
-###### Artigo 12.º — Avaliação formativa
+Artigo 12.º
+
+Avaliação formativa
 
 1 - A avaliação formativa é contínua e sistemática e tem função diagnóstica, permitindo ao professor, ao aluno, ao encarregado de educação e a outras pessoas ou entidades legalmente autorizadas obter informação sobre o desenvolvimento das aprendizagens, com vista à definição e ao ajustamento de processos e estratégias.
 
@@ -802,7 +935,9 @@ b) Avaliação sumativa, interna e externa.
 
 4 - Compete ao conselho pedagógico apoiar e acompanhar o processo definido no número anterior.
 
-###### Artigo 13.º — Avaliação sumativa
+Artigo 13.º
+
+Avaliação sumativa
 
 1 - A avaliação sumativa consiste na formulação de um juízo globalizante sobre o grau de desenvolvimento das aprendizagens do aluno e tem como objectivos a classificação e a certificação.
 
@@ -816,7 +951,9 @@ a) A avaliação sumativa interna;
 
 b) A avaliação sumativa externa.
 
-###### Artigo 14.º — Avaliação sumativa interna
+Artigo 14.º
+
+Avaliação sumativa interna
 
 1 - A avaliação sumativa interna destina-se a:
 
@@ -830,7 +967,9 @@ a) Integrada no processo de ensino-aprendizagem e formalizada em reuniões do co
 
 b) Através de provas de equivalência à frequência.
 
-###### Artigo 15.º — Avaliação sumativa interna integrada no processo de ensino-aprendizagem
+Artigo 15.º
+
+Avaliação sumativa interna integrada no processo de ensino-aprendizagem
 
 1 - A avaliação sumativa interna integrada no processo de ensino-aprendizagem é formalizada em reuniões do conselho de turma, no final dos 1.º, 2.º e 3.º períodos lectivos, tendo, no final do 3.º período, as seguintes finalidades:
 
@@ -848,7 +987,9 @@ c) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transiç�
 
 5 - Compete ao director de turma coordenar o processo de tomada de decisões relativas a esta forma de avaliação sumativa interna e garantir tanto a sua natureza globalizante como o respeito pelos critérios de avaliação referidos no n.º 1 do artigo 8.º
 
-###### Artigo 16.º — Provas de equivalência à frequência
+Artigo 16.º
+
+Provas de equivalência à frequência
 
 1 - As disciplinas em que existem provas de equivalência à frequência são as que constam do anexo i, no qual se define igualmente o tipo e a duração das respectivas provas.
 
@@ -892,13 +1033,17 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 16 - (Revogado.)
 
-###### Artigo 16.º-A — Disciplinas com oferta de exame final nacional
+Artigo 16.º-A
+
+Disciplinas com oferta de exame final nacional
 
 1 - Na disciplina bienal de Filosofia da componente de formação geral e nas disciplinas bienais da componente de formação específica, havendo oferta de exame final nacional, não há lugar à elaboração de provas de equivalência à frequência, sendo estas substituídas pelas provas dos exames finais nacionais correspondentes.
 
 2 - Nos casos referidos no número anterior, as provas realizadas pelos alunos são enviadas ao agrupamento de exames para efeito de classificação.
 
-###### Artigo 17.º — Avaliação sumativa externa
+Artigo 17.º
+
+Avaliação sumativa externa
 
 1 - A avaliação sumativa externa destina-se a aferir o grau de desenvolvimento das aprendizagens dos alunos, mediante o recurso a instrumentos de avaliação definidos a nível nacional.
 
@@ -938,17 +1083,25 @@ b) No momento previsto na alínea anterior é indicada a disciplina bienal da co
 
 17 - Os procedimentos específicos a observar no desenvolvimento da avaliação sumativa externa são objecto de regulamentação própria.
 
-###### Artigo 18.º — Candidatos com necessidades educativas especiais de carácter permanente
+Artigo 18.º
+
+Candidatos com necessidades educativas especiais de carácter permanente
 
 Os candidatos com necessidades educativas especiais de carácter permanente, devidamente comprovadas, prestam em cada curso as provas de exame previstas para os restantes examinandos, podendo, no entanto, beneficiar de condições especiais de avaliação, ao abrigo da legislação em vigor.
 
-#### SECÇÃO III — Efeitos da avaliação
+SECÇÃO III
 
-###### Artigo 19.º — Efeitos da avaliação formativa
+Efeitos da avaliação
+
+Artigo 19.º
+
+Efeitos da avaliação formativa
 
 A avaliação formativa resulta na adopção de medidas de diferenciação pedagógica adequadas às características dos alunos e às aprendizagens a desenvolver.
 
-###### Artigo 20.º — Efeitos da avaliação sumativa
+Artigo 20.º
+
+Efeitos da avaliação sumativa
 
 A avaliação sumativa permite tomar decisões relativamente à:
 
@@ -964,7 +1117,9 @@ e) Admissão de matrícula;
 
 f) Conclusão do ensino secundário.
 
-###### Artigo 21.º — Classificação final das disciplinas
+Artigo 21.º
+
+Classificação final das disciplinas
 
 1 - A classificação final das disciplinas não sujeitas a exame final nacional no plano de estudo do aluno é obtida da seguinte forma:
 
@@ -986,13 +1141,17 @@ CE = classificação em exame final.
 
 3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva de provas de equivalência à frequência ou exames finais nacionais, conforme os casos, nos termos definidos no presente diploma, sendo a classificação final, em caso de aprovação, a obtida na prova ou no exame.
 
-###### Artigo 22.º — Classificação final de curso
+Artigo 22.º
+
+Classificação final de curso
 
 1 - A classificação final do curso é o resultado da média aritmética simples, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas do plano de estudo do respectivo curso.
 
 2 - A disciplina de Educação Moral e Religiosa e a Formação Cívica não são consideradas para efeitos de apuramento da classificação a que se refere o número anterior.
 
-###### Artigo 23.º — Aprovação, transição e progressão
+Artigo 23.º
+
+Aprovação, transição e progressão
 
 1 - A aprovação do aluno em cada disciplina depende da obtenção de uma classificação final igual ou superior a 10 valores.
 
@@ -1020,9 +1179,13 @@ CE = classificação em exame final.
 
 13 - (Revogado.)
 
-#### SECÇÃO IV — Conselhos de turma de avaliação
+SECÇÃO IV
 
-###### Artigo 24.º — Constituição e funcionamento do conselho de turma
+Conselhos de turma de avaliação
+
+Artigo 24.º
+
+Constituição e funcionamento do conselho de turma
 
 1 - Para efeitos de avaliação dos alunos, o conselho de turma é constituído por todos os professores da turma, sendo seu presidente o director de turma, e o secretário nomeado pelo órgão de gestão do estabelecimento de ensino ou, no caso dos estabelecimentos de ensino particular e cooperativo, pelo órgão de direcção pedagógica.
 
@@ -1042,7 +1205,9 @@ CE = classificação em exame final.
 
 9 - Na acta da reunião de conselho de turma devem ficar registadas todas as deliberações e a respectiva fundamentação.
 
-###### Artigo 25.º — Registo das classificações e ratificação das deliberações do conselho de turma
+Artigo 25.º
+
+Registo das classificações e ratificação das deliberações do conselho de turma
 
 1 - As classificações e as menções qualitativas em Formação Cívica atribuídas no final dos 1.º, 2.º e 3.º períodos são registadas em pauta, bem como nos restantes documentos previstos para esse efeito, os quais não devem mencionar, caso existam alunos com necessidades educativas especiais, a natureza das mesmas.
 
@@ -1058,7 +1223,9 @@ CE = classificação em exame final.
 
 7 - Se, após a repetição da reunião, subsistirem factos que, no entender do responsável do órgão de gestão do estabelecimento de ensino, impeçam a ratificação da deliberação do conselho de turma, deve a situação ser apreciada em reunião do conselho pedagógico.
 
-###### Artigo 26.º — Revisão das deliberações do conselho de turma
+Artigo 26.º
+
+Revisão das deliberações do conselho de turma
 
 1 - Após a afixação das pautas referentes ao 3.º período, o encarregado de educação, ou o próprio aluno, quando maior de idade, poderá requerer a revisão das deliberações do conselho de turma.
 
@@ -1092,13 +1259,17 @@ f) Ficha de avaliação do aluno relativa aos três períodos lectivos.
 
 10 - Da decisão do recurso hierárquico não cabe qualquer outra forma de impugnação administrativa.
 
-###### Artigo 27.º — Situações especiais
+Artigo 27.º
+
+Situações especiais
 
 1 - O conselho de turma de avaliação do 3.º período deve ter em atenção a ocorrência de algumas situações especiais previstas no artigo 29.º
 
 2 - Quando, ao abrigo das situações previstas no número anterior, se tenha realizado a prova extraordinária de avaliação (PEA), proceder-se-á à realização de uma reunião extraordinária do conselho de turma, para ratificação das classificações do aluno.
 
-### CAPÍTULO III — Artigo 28.º
+CAPÍTULO III
+
+Artigo 28.º
 
 Conclusão e certificação
 
@@ -1118,7 +1289,9 @@ b) Um certificado que discrimine as disciplinas e as respectivas classificaçõe
 
 6 - Os modelos de diploma e certificado previstos nos números anteriores são aprovados por despacho do Ministro da Educação.
 
-###### Artigo 29.º — Situações especiais de classificação
+Artigo 29.º
+
+Situações especiais de classificação
 
 1 - Sempre que, em qualquer disciplina anual ou em Formação Cívica, o número de aulas ministradas durante todo o ano lectivo não tenha atingido o número previsto para oito semanas completas, considera-se o aluno aprovado, sem atribuição de classificação nessa disciplina, ou com a Formação Cívica realizada, sem atribuição da menção qualitativa.
 
@@ -1178,7 +1351,9 @@ d) No caso de disciplinas sujeitas a exame final nacional no plano de estudo do 
 
 e) Se a classificação interna final, calculada nos termos da alínea anterior, for inferior a 10 valores, esta não é considerada para efeitos do cálculo da classificação final da disciplina, prevista no n.º 2 do artigo 21.º
 
-###### Artigo 30.º — Condições especiais e restrições de matrícula
+Artigo 30.º
+
+Condições especiais e restrições de matrícula
 
 1 - Ao aluno que transita de ano com classificação igual a 9 ou 8 valores em uma ou duas disciplinas, é permitida a matrícula em todas as disciplinas do ano de escolaridade seguinte, incluindo aquela ou aquelas em que obteve essas classificações.
 
@@ -1198,11 +1373,15 @@ e) Se a classificação interna final, calculada nos termos da alínea anterior,
 
 9 - Os alunos que realizaram todo o ensino secundário na qualidade de autopropostos, através de provas de equivalência à frequência ou exames finais nacionais, conforme os casos, ficam dispensados da realização da Formação Cívica.
 
-###### Artigo 31.º — Reclamação e recursos
+Artigo 31.º
+
+Reclamação e recursos
 
 As decisões referentes às provas de equivalência e aos exames finais nacionais são passíveis de impugnação administrativa nos termos legais.
 
-###### Artigo 32.º — Planos de estudo anteriores ao [Decreto-Lei n.º 272/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2007-636712)
+Artigo 32.º
+
+Planos de estudo anteriores ao [Decreto-Lei n.º 272/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2007-636712)
 
 1 - (Revogado.)
 
@@ -1220,15 +1399,21 @@ As decisões referentes às provas de equivalência e aos exames finais nacionai
 
 8 - (Revogado.)
 
-## ANEXO I — Provas de equivalência à frequência: Tipos de provas em cada disciplina e respectiva duração
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+Provas de equivalência à frequência: Tipos de provas em cada disciplina e respectiva duração
 
-## ANEXO II — Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+ANEXO II
 
-## ANEXO III — Procedimentos específicos a observar no desenvolvimento da prova extraordinária de avaliação (PEA)
+Exames finais nacionais: Tipo de prova a realizar em cada disciplina e respectiva duração
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+
+ANEXO III
+
+Procedimentos específicos a observar no desenvolvimento da prova extraordinária de avaliação (PEA)
 
 1 - Cabe aos departamentos curriculares, de acordo com as orientações do conselho pedagógico da escola, estabelecer a modalidade que a prova extraordinária de avaliação (PEA) deve assumir, tendo em conta a natureza e especificidade de cada disciplina.
 
@@ -1246,10 +1431,14 @@ As decisões referentes às provas de equivalência e aos exames finais nacionai
 
 8 - Após a realização da PEA, é necessário proceder-se a uma reunião extraordinária do conselho de turma para ratificação das classificações do aluno.
 
-## ANEXO IV — Disciplinas anuais do 12.º ano
+ANEXO IV
+
+Disciplinas anuais do 12.º ano
 
 Tabela de precedências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803656.pdf)
 
-## ANEXO V — (Revogado.)
+ANEXO V
+
+(Revogado.)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/02300/0065700657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2011/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2011-280497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa03cb77e6188fa7f631857bbc153f15f2cb8adf5e9b802b6a309ed5c511e33f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 347262fd98742b6287045edb45991400f4a7b951d2d1e21edcf5465a8784a825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
-- Egipto
-- Importação
-- Embalagem
-- Proteção Fitossanitária
-- Produto Fitofarmacêutico
 - Comércio
+- Egipto
+- Embalagem
+- Importação
+- Produto Fitofarmacêutico
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:543900:por
@@ -99,16 +99,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1420/2009/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1420/2009/12/17/p/dre
+- type: repealed_by
+  target: pt:dre:543900:por
+  label: "Revogada, a partir de 01.02.2012, a Port 1420/2009 de 17-dez, alterada pelo presente diploma, pela PORT.34/2012.31.01.2012.MAMAOT,\
+    \ DR.IS [22] de 31.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2012-543900
+  date: '2012-01-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:03Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +149,4 @@ O artigo 2.º da Portaria n.º 1420/2009, de 17 de Dezembro, passa a ter a segui
 
 2 - ...»
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 25 de Janeiro de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 25 de Janeiro de 2011.

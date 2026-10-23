@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/2025/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a1fc3f95f311b5b6aa7918dd48cbc64ccd00f22b8f4847f5a52eca28fae7e16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c050f3ff00802b430bf13d3f0fa129d12df0057dae3c013920c88707e6b097d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Certificado de Conformidade
-- Metrologia
-- Regulamentação de Atos Legislativos
-- Fiscalização
 - Aparelho de Medição
-- Veículo
+- Certificado de Conformidade
 - Certificado de Qualidade
-- Regulamento
 - Controlo Metrológico
-- Taximetro
+- Fiscalização
+- Metrologia
 - Normalização
+- Regulamentação de Atos Legislativos
+- Regulamento
 - Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição
+- Taximetro
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:portaria:321/2019
+  label: Altera, a partir de 13 de março de 2025, os artigos 4.º, 5.º, 7.º e 9.º do Regulamento do Controlo Metrológico Legal
+    dos Instrumentos de Medição aprovado em anexo à Portaria n.º 321/2019, de 19 de setembro, Diário da República n.º 180/2019,
+    Série I
+  source: null
+  date: '2019-09-19'
 - type: cites
   target: celex:32014L0032
   label: null
@@ -103,6 +110,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/321/2019/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/321/2019/09/19/p/dre
+- type: cites
+  target: pt:dre:106938487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124831331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200139611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0032
   label: null
@@ -112,15 +147,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:22Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +192,9 @@ São alterados os artigos 4.º, 5.º, 7.º e 9.º do Regulamento do Controlo Met
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -169,13 +206,17 @@ c) [...]
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A verificação periódica tem uma periodicidade anual e é válida durante um ano após a sua realização, salvo no caso dos contadores de água, dos contadores de gás e instrumentos de conversão de volume e dos contadores de energia elétrica ativa, cuja periodicidade é a indicada no quadro 1, constante do anexo ao presente Regulamento e que dele faz parte integrante, e é válida durante o prazo aí designado após a sua última realização.
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -199,4 +240,6 @@ b) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 20 de fevereiro de 2025.**
+O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 20 de fevereiro de 2025.
+
+118792409

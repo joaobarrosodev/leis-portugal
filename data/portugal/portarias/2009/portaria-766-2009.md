@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/766/2009/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-2009-492250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28738d90fb930adf6ddbc616141e75de08c5828a09ff3b565221dc75a56e05f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c042e4f5fb93242f03017bc95d291888364afcfe58b0efe788e6c14a06729b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
+- Cirurgia
 - Ensino Médico
 - Internato Médico
+- Médico
 - Programa de Formação
 - Radioterapia
-- Cirurgia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/616/1996/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/616/1996/10/30/p/dre
+- type: cites
+  target: pt:dre:174568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:11Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +165,7 @@ São actualizados os programas de formação das áreas profissionais de especia
 
 A aplicação e desenvolvimento dos programas compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 26 de Junho de 2009.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 26 de Junho de 2009.
 
 ## ANEXO — Programa de formação do internato médico da área profissional de especialização de angiologia/cirurgia vascular
 

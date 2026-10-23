@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2017/05/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87a0e242c1e92ab69084749be5cbd8b2c1ef4c0259c73e46e4ed6305d83deca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63f19afaebbc5e958b202495888dec94669d47c7ebf56489e67105382cf36ef9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterado, com efeitos desde 01.01.2020, o art. 20.º do DLR 24/89/M de 07-set, na versão republicada pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I
+    de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2014/08/20/m/dre
   label: null
@@ -114,16 +121,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:175275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56305786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 95
+  article_count: 85
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:08Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +209,9 @@ Os artigos 1.º, 11.º, 21.º, 30.º, 46.º, 47.º, 48.º, 49.º, 50.º e 51.º 
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -168,7 +221,9 @@ Os artigos 1.º, 11.º, 21.º, 30.º, 46.º, 47.º, 48.º, 49.º, 50.º e 51.º 
 
 4 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Ao secretário-geral compete:
 
@@ -198,7 +253,9 @@ k) [Anterior alínea j).]
 
 3 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +265,9 @@ k) [Anterior alínea j).]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 46.º — Subvenção à Atividade Parlamentar
+Artigo 46.º
+
+Subvenção à Atividade Parlamentar
 
 1 - Os grupos parlamentares e deputado único representante de um partido dispõem, para encargos de assessoria aos deputados, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, para atividade política e partidária em que participem e para outras despesas de funcionamento, de uma subvenção anual.
 
@@ -224,7 +283,9 @@ k) [Anterior alínea j).]
 
 7 - Os membros dos gabinetes previstos no presente artigo são portadores de um cartão de identificação conforme anexo IV do presente diploma.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A cada partido que haja concorrido a eleição para a Assembleia Legislativa da Madeira, ainda que em coligação, e que nela obtenha representação é concedida uma subvenção anual, desde que requerida ao Presidente da Assembleia, que consiste numa quantia em dinheiro, fixada nos termos dos números seguintes, adequada às suas necessidades de organização e funcionamento.
 
@@ -236,7 +297,9 @@ Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retr
 
 4 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos dos números anteriores, corresponder à respetiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido, salvo disposição expressa em sentido distinto constante de acordo da coligação.
 
-###### Artigo 48.º — Apoio logístico
+Artigo 48.º
+
+Apoio logístico
 
 1 - Os grupos e representações parlamentares têm direito a dispor de locais de trabalho, com a dimensão, os equipamentos e o mobiliário indispensável ao respetivo funcionamento, segundo o critério da proporcionalidade ao número de deputados que integram.
 
@@ -248,7 +311,9 @@ Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retr
 
 5 - Os locais de trabalho podem situar-se dentro ou fora da sede da Assembleia.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - O projeto do orçamento anual é elaborado pelo Departamento Financeiro até ao dia 31 de outubro do ano anterior àquele a que respeita, sob a coordenação do secretário-geral da Assembleia Legislativa, de acordo com as orientações e objetivos previamente fixados pelo Conselho de Administração.
 
@@ -258,7 +323,9 @@ Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retr
 
 4 - [...]
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - As alterações do orçamento da Assembleia Legislativa, que envolvam o aumento ou a diminuição da despesa, são realizadas através de resoluções da Assembleia Legislativa, as quais serão elaboradas nos termos e com as devidas adaptações do artigo anterior.
 
@@ -268,7 +335,9 @@ Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retr
 
 4 - [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -302,7 +371,9 @@ Antigos deputados
 
 4 - O apoio previsto no número anterior é concedido por despacho do Presidente da Assembleia, mediante requerimento dos interessados e sob proposta do Conselho de Administração, ouvido o Conselho Consultivo.
 
-###### Artigo 50.º-A — Cativações orçamentais
+Artigo 50.º-A
+
+Cativações orçamentais
 
 1 - Em casos excecionais devidamente fundamentados poderão ser descativadas as dotações do orçamento privativo da Assembleia Legislativa da Madeira, com compensação ou não em outras rubricas.
 
@@ -352,11 +423,11 @@ A expressão «cartão de identidade» constante da Estrutura Orgânica da Assem
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 20 de abril de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 5 de maio de 2017.**
+Assinado em 5 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -366,11 +437,11 @@ Modelo de cartão a que alude o n.º 2 do artigo 9.º, o n.º 1 do artigo 12.º 
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
 
@@ -382,11 +453,11 @@ Modelo de cartão que alude o n.º 4 do artigo 30.º e o n.º 3 do artigo 45.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações: - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
 
@@ -398,11 +469,11 @@ Modelo de cartão a que alude o n.º 7 do artigo 46.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
 
@@ -414,11 +485,11 @@ Modelo de cartão a que alude o n.º 1 do artigo 48.º-A
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
 
@@ -500,7 +571,7 @@ c) O Conselho de Administração.
 
 ###### Artigo 9.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar nos vice-presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.**
+O Presidente da Assembleia Legislativa pode delegar nos vice-presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.
 
 ###### Artigo 10.º — Gabinete do Presidente
 
@@ -642,7 +713,7 @@ A organização interna dos serviços e as suas condições de funcionamento sã
 
 ###### Artigo 24.º — Atribuições e competências
 
-**O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.**
+O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.
 
 ###### Artigo 25.º — Estatuto
 
@@ -1456,17 +1527,17 @@ b) Para categoria de outra carreira correspondente às funções que efetivament
 
 ## ANEXO I — Carreira de consultor parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Carreira de técnico de apoio parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Carreira de assistente operacional parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 ## ANEXO III — Cartão de identificação
 
@@ -1474,11 +1545,11 @@ Modelo de cartão a que alude o n.º 2 do artigo 10.º, o n.º 1 do artigo 13.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
 
@@ -1490,11 +1561,11 @@ Modelo de cartão que alude o n.º 4 do artigo 39.º e o n.º 3 do artigo 58.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
 
@@ -1506,11 +1577,11 @@ Modelo de cartão a que alude o n.º 7 do artigo 59.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
 
@@ -1522,14 +1593,14 @@ Modelo de cartão a que alude o n.º 1 do artigo 62.º
 
 Modelo da face do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Modelo do verso do cartão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
 
 Dimensões do cartão: 85,60 x 53,98 mm, correspondente ao formato ID-1 da norma internacional ISO/IEC 7810:2003.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09900/0249502518.pdf)

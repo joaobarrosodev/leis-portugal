@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 147/2012, 1º Suplemento, Série I de 2012-07-31
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3962-(2) a 3962-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/14701/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225-a/2012/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-a-2012-627000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c45cafd8412160dd7c09821f0a44ff15fb04d7d7d5f83257b80ce0181a7611e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d916a35b552646bba0f42d4cc7464be5e96c4d95e66692069d5f0a5c6334ce7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,32 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Apoio à Criação do Próprio Emprego
-- Empreendedorismo
 - Associação Juvenil
-- Financiamento
-- Formação Profissional
-- Programa COOP Jovem
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
-- Impulso Jovem
-- Passaporte para o Empreendedorismo
-- Programa de Estágios Profissionais Passaporte Emprego
-- Jovem
-- Criação de Emprego
+- Empreendedorismo
 - Emprego
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Impulso Jovem
+- Jovem
+- Passaporte para o Empreendedorismo
+- Programa COOP Jovem
+- Programa de Estágios Profissionais Passaporte Emprego
 relationships:
 - type: amended_by
   target: pt:dre:546031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483101:por
+  label: "Alterados os art.s 1º, 3º, 4º, 6º, 7º, 8º, 12º, 13º, 14º, 15º e 17º, aditado o art. 12º-A, revogados a al. a) do\
+    \ nº 5 do art. 1º, nº 2 do art. 3º e nº 4 do art. 8º e republicada a presente portaria, pela PORT.65-B/2013.13.02.2013.MEE,\
+    \ DR.IS [31-Supl] de 13.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-b-2013-483101
+  date: '2013-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -115,16 +122,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:321718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:260089:por
+  label: "Retificado o art. 1º da Port 65-B/2013 de 13-fev (na parte em que altera o nº 1 do art. 3º e a al. b) do nº 4 do\
+    \ art. 15º do presente diploma), assim como a republicação deste mesmo diploma anexa à citada Port 65-B/2013 (relativamente\
+    \ ao nº 1 do art. 3º, ao nº 4 do art. 5º, à al. e) do nº 2 do art. 11º e à al. b) do nº 4 do art. 15º) pela DECL-RECT.18/2013.26.03.2013.PCM,\
+    \ DR.IS [60] de 26.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/18-2013-260089
+  date: '2013-03-26'
+- type: repealed_by
+  target: pt:dre:546031:por
+  label: "Revogado, a partir de 19.07.2013, o presente diploma, alterado e republicado pela Port 65-B/2013 de 13-fev, pela\
+    \ PORT.204-B/2013.18.06.2013.MEE, DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma,\
+    \ nos termos do disposto no nº 2 do seu art. 22º, as remissões legais ou regulamentares efetuadas para o presente\0e\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-b-2013-546031
+  date: '2013-06-18'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:57Z'
   warnings: []
   errors: []
 ---
@@ -437,4 +491,4 @@ O IEFP define, através de regulamento específico, os elementos procedimentais 
 
 2 - As candidaturas ao prémio de integração referentes a estágios em execução podem ser apresentadas e aprovadas após o termo de vigência referido no número anterior.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 20 de julho de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 20 de julho de 2012.

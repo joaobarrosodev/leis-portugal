@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16100/0008600092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/267/2023/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-2023-220113540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b1fdf230b1439a39e51b3b76c2b59d477449d87ba1b6a2554e25b4f4e86643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80390cb6e750a67116e055f0ac7fb5b1d50fdd03da0a9bd1d1115a4061e9fd8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Vegetal
 - Contra-ordenação
-- Regulamentação de Atos Legislativos
-- Direcção Regional de Agricultura e Pescas
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
+- Dados Pessoais
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Doença Vegetal
 - Fiscalização
 - Instituto da Vinha e do Vinho
 - Página na Internet
+- Plataforma Eletrónica
 - Proteção do Ambiente
-- Zona de Proteção
 - Proteção Fitossanitária
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Dados Pessoais
 - Vegetais
 - Vinha
-- Plataforma Eletrónica
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32016R2031
@@ -118,16 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/201/2021/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/201/2021/09/23/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171783818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541592:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:16Z'
   warnings: []
   errors: []
 ---
@@ -306,4 +326,6 @@ Todo o material vitícola proveniente de uma vinha-mãe de porta-enxertos locali
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 16 de agosto de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 16 de agosto de 2023.
+
+116782297

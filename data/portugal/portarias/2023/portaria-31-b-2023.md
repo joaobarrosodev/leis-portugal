@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 14/2023, 1º Suplemento, Série I de 2023-01-19
   number: '14'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 53-(4) a 53-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01401/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31-b/2023/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-b-2023-206347149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2383c8d97bda20a29ee1184b25a6109c173fd3eb111a7e1b4fd0bf4cbb501272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7fbf67643b29efb6818b2f83add314587ef488aa4e34a0f30ac115c2c4b8986
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acumulação de Prestações Sociais
-- Regulamentação de Atos Legislativos
-- Pessoa em Situação de Dependência
-- Proteção ao Deficiente
-- Prestações da Segurança Social
+- Deficiente
 - Inserção Social
+- Pessoa em Situação de Dependência
+- Prestação Social para a Inclusão
+- Prestações da Segurança Social
+- Proteção ao Deficiente
 - Proteção Social
+- Regulamentação de Atos Legislativos
 - Rendimento
 - Segurança Social
 - Valor de Referência
-- Prestação Social para a Inclusão
 relationships:
 - type: amended_by
   target: pt:dre:229857701:por
@@ -116,16 +116,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/5/2021/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/5/2021/01/06/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153013705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156720777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857701:por
+  label: Revogado, a partir de 12.12.2023, com efeitos a partir de 01.01.2024, o presente diploma pelo(a) Portaria n.º 425/2023
+    - Diário da República n.º 237/2023, Série I de 2023-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-2023-229857701
+  date: '2023-12-11'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:33Z'
   warnings: []
   errors: []
 ---
@@ -172,4 +210,6 @@ O limite máximo anual de acumulação da componente base da prestação social 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do dia 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de janeiro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de janeiro de 2023.
+
+116080722

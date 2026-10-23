@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1980-692821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdf9ddb5bd17a3e3f5484f984571cbfab716e313fec3b75bbe7765288ef68647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68143f5f37c29c94f158b2968814819b30785003de902dba1b7546d410cd0c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Regional da Administração Pública
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678777:por
+  label: Rectificado pela DECL.DD6753.18.02.1980.PCM, DR.IS [54] de 05.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678777
+  date: '1980-02-18'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:59Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Em execução do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º Os artigos 13.º, 19.º e 20.º do [Decreto Regulamentar Regional n.º 13/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1979-383870), de 1 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º, 19.º e 20.º do [Decreto Regulamentar Regional n.º 13/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1979-383870), de 1 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 13.º — (Secretaria)
 
@@ -111,12 +131,12 @@ O provimento e promoção do pessoal administrativo desenrola-se segundo as regr
 
 O provimento e promoção do pessoal auxiliar efectua-se nos termos preceituados pela legislação referida no artigo anterior.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Janeiro de 1980.**
+Assinado em 18 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

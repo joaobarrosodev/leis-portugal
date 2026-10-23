@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04600/0003100032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2024/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2024-854130980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b089e8b183184aa0050d7cb2965826a91cc850adb789f89bc79baa5a2a96f18a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d97e0cfe84fa72b940233b4e4aca76f79062757d58c4dee528a631c9a56b09bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Autoridade Tributária e Aduaneira
 - Ficheiro Informático
-- Regulamentação de Atos Legislativos
 - Plataforma Eletrónica
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32006L0112
@@ -91,6 +91,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2023/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2023/12/28/p/dre
+- type: cites
+  target: pt:dre:835809048:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0112
   label: null
@@ -102,13 +106,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:41Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +127,7 @@ Esta lei impõe aos prestadores de serviços de pagamento de obrigações de con
 
 A introdução destas obrigações visa reforçar a capacidade das administrações fiscais dos Estados-Membros no controlo das transmissões de bens e prestações de serviços efetuadas na União Europeia, de modo a combater a fraude ao imposto sobre o valor acrescentado, em especial no domínio do comércio eletrónico.
 
-Nos termos dos n.<sup>os</sup>1 e 2 do artigo 7.º da [Lei n.º 81/2023](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048), de 28 de dezembro, os prestadores de serviços de pagamento estão obrigados a comunicar trimestralmente à AT os elementos dos registos definidos no artigo 6.º da referida lei até ao final do mês seguinte a cada trimestre civil a que as informações dizem respeito.
+Nos termos dos n.os1 e 2 do artigo 7.º da [Lei n.º 81/2023](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048), de 28 de dezembro, os prestadores de serviços de pagamento estão obrigados a comunicar trimestralmente à AT os elementos dos registos definidos no artigo 6.º da referida lei até ao final do mês seguinte a cada trimestre civil a que as informações dizem respeito.
 
 Por sua vez, o n.º 3 do artigo 7.º da [Lei n.º 81/2023](https://diariodarepublica.pt/dr/detalhe/lei/81-2023-835809048), de 28 de dezembro, estabelece que as comunicações previstas nesse artigo são efetuadas utilizando formulários eletrónicos normalizados cujo conteúdo, estrutura e condições para a submissão por via eletrónica são definidos por portaria do membro do Governo responsável pela área das finanças.
 
@@ -159,4 +163,6 @@ Os prestadores de serviços de pagamento devem, no prazo previsto no n.º 2 do a
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 28 de fevereiro de 2024.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 28 de fevereiro de 2024.
+
+117416097

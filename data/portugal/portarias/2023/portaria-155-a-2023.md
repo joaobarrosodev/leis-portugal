@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06
   number: '109'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 280-(2) a 280-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10901/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155-a/2023/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fc9f5fad2e1ce7a6648299d23cdeae9601e8070e56dd0ba54cfdf731ed7a166
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8492e8d283196ff76fd3fea525e023b625aedfcbb5d9914b06c2f7495d08ad04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
+- Apoio Domiciliário
+- Direção Executiva do Serviço Nacional de Saúde
 - Financiamento
+- Fundos CE
+- Plano de Recuperação e Resiliência
+- Rede
+- Rede Nacional de Cuidados Continuados Integrados de Saúde Mental
 - Rede Nacional de Cuidados Paliativos
+- Regulamento
 - Saúde Pública
 - Serviço Nacional de Saúde
-- Fundos CE
-- Apoio Domiciliário
-- Regulamento
-- Plano de Recuperação e Resiliência
-- Rede Nacional de Cuidados Continuados Integrados de Saúde Mental
-- Direção Executiva do Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/134-a/2022/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/134-a/2022/03/30/p/dre
+- type: cites
+  target: pt:dre:175923961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181364880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:35Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +165,9 @@ Os artigos 16.º e 25.º do Regulamento de Atribuição de Apoios Financeiros pa
 
 9 - A apreciação de candidaturas referida no n.º 1 é realizada em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.).
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -169,4 +187,6 @@ d) 25 000,00 (euro) por cada novo lugar de cuidados continuados integrados de sa
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 5 de junho de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 2 de junho de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 5 de junho de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 5 de junho de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 2 de junho de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 5 de junho de 2023.
+
+116549073

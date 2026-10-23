@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02700/0020700214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/30/2025/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-2025-906519106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c9fc53fbcefd261f225c985061a2da01d68fd6e986c4c8c3af4fc97717d1c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e137d88ca595b5ff90fc018bc467a7497426af4ff33881f725a66287701ec88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,17 @@ reuse:
 subjects:
 - Contrato de Concessão
 - CTT
-- Qualidade dos Serviços
 - Fiscalização
+- Qualidade dos Serviços
 - REDE Postal
 - Serviço Postal Universal
 relationships:
+- type: amends
+  target: pt:numero:portaria:216/2024
+  label: Altera, a partir de 8 de fevereiro de 2025, os artigos 2.º, 3.º e 4.º, o anexo n.º 1 e o anexo n.º 2 da Portaria
+    n.º 216/2024/1, de 23 de setembro, Diário da República n.º 184/2024, Série I
+  source: null
+  date: '2024-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/216/2024/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/216/2024/09/23/p/dre
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888585886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:56Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +157,7 @@ Assim, nos termos do n.º 1 do artigo 13.º e do artigo 47.º da [Lei n.º 17/20
 
 ###### Artigo 2.º — Critérios e procedimentos de determinação dos mecanismos de compensação
 
-1 - Os critérios e procedimentos para aplicação do mecanismo de compensação por incumprimento dos objetivos de desempenho associados à prestação do serviço postal universal que os CTT, enquanto PSU, são obrigados a cumprir, conforme previsto nos n.<sup>os</sup> 1 e 2 do artigo 47.º da Lei Postal, são os constantes do anexo à presente portaria, da qual faz parte integrante.
+1 - Os critérios e procedimentos para aplicação do mecanismo de compensação por incumprimento dos objetivos de desempenho associados à prestação do serviço postal universal que os CTT, enquanto PSU, são obrigados a cumprir, conforme previsto nos n.os 1 e 2 do artigo 47.º da Lei Postal, são os constantes do anexo à presente portaria, da qual faz parte integrante.
 
 2 - Os critérios e procedimentos referidos no número anterior aplicam-se por incumprimento dos objetivos de desempenho associados à prestação do serviço postal universal definidos na [Portaria n.º 216/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/216-2024-888585886), de 23 de setembro.
 
@@ -165,7 +187,9 @@ Os artigos 2.º, 3.º e 4.º, o anexo n.º 1 e o anexo n.º 2 da [Portaria n.º 
 
 9 - Os CTT obrigam-se a introduzir alterações ao sistema de medição dos IQS que sejam determinadas pelo Governo, sob proposta da ANACOM, na sequência de auditorias ao sistema de medição dos mesmos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -179,13 +203,15 @@ Os artigos 2.º, 3.º e 4.º, o anexo n.º 1 e o anexo n.º 2 da [Portaria n.º 
 
 6 - [...]
 
-| IQS | Informação adicional a remeter pelos CTT à ANACOM | Informação adicional a remeter pelos CTT à ANACOM |
+| IQS | Informação adicional a remeter pelos CTT à ANACOM |  |
 | --- | --- | --- |
 | IQS1 | Demora de encaminhamento da correspondência prioritária - continente | Informação referida no ponto 7.4 da norma EN 13850:2020 |
-| IQS1 | [...] | [...] |
+| [...] | [...] |  |
 | [...] | [...] | [...] |
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Até ao final do mês de abril, os CTT devem publicar num «microsite», disponibilizado num endereço específico do seu sítio da Internet, o qual deve estar identificado de forma clara na página inicial e permitir uma ligação direta para o mesmo, e em todos os estabelecimentos postais, bem como em outros locais que os CTT entendam adequados para uma vasta divulgação de informação, os valores efetivamente verificados no ano civil anterior relativamente a cada um dos indicadores de qualidade de serviço (IQS) que se encontre(m) obrigados a cumprir, bem como os respetivos objetivos de desempenho. Esta informação deve permanecer publicada até à sua substituição por nova informação, nos termos previstos nesta regra.
 
@@ -193,7 +219,9 @@ Os artigos 2.º, 3.º e 4.º, o anexo n.º 1 e o anexo n.º 2 da [Portaria n.º 
 
 3 - Devem ainda os CTT manter disponível, no seu sítio da Internet, pelo menos no «microsite» referido no n.º 1, o histórico da informação relativa aos valores verificados em cada ano civil relativamente a cada IQS.
 
-## ANEXO N.º 1 — [...]
+ANEXO N.º 1
+
+[...]
 
 1 - [...]
 
@@ -265,7 +293,9 @@ IQS 7 - [...]
 
 2 - [...]
 
-## ANEXO N.º 2 — [...]
+ANEXO N.º 2
+
+[...]
 
 I - [...]
 
@@ -311,7 +341,7 @@ IV - [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 31 de janeiro de 2025.**
+O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 31 de janeiro de 2025.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -400,3 +430,5 @@ iii) O(s) mecanismo(s) de compensação a aplicar, que podem consistir, designad
 10 - O membro do Governo responsável pela área das comunicações, após receção da proposta de concretização referida no número anterior, pode determinar que os CTT, no prazo máximo de 30 dias úteis, substituam ou modifiquem a referida proposta relativamente a aspetos que, fundamentadamente, não constituam um adequado benefício para a prestação dos serviços abrangidos pela concessão e/ou os utilizadores finais.
 
 11 - A proposta apresentada pelos CTT considera-se aprovada caso o membro do Governo responsável pela área das comunicações não se pronuncie sobre a mesma no prazo de 90 ou 30 dias úteis, consoante se trate de proposta inicial ou de proposta alterada ou de substituição.
+
+118648561

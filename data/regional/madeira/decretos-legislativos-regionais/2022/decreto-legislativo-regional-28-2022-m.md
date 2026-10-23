@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2022/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2022-205493449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97f7e00f0ed6c9307557327c5982313019f3fe89b1ee41524ada030a3302c68b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a6fc80ae44f21de06b798118debd73db1674f9b0849841cdf9445d79c719bdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extinção de Carreiras
-- Formação Profissional
-- Pessoal Dirigente
+- Administração Pública
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Avaliação do Pessoal
+- Carreira Profissional
 - Comissão de Serviço
 - Concurso
 - Concurso de Ingresso
-- Administração Pública
-- Carreira Profissional
-- SIADAP
-- Recrutamento de Pessoal
-- Inspecção Tributária
-- Fundo de Estabilização Tributário
 - Descrição de Funções
-- Período Experimental
+- Estatuto Remuneratório
+- Extinção de Carreiras
+- Formação Profissional
+- Fundo de Estabilização Tributário
+- Inspecção Tributária
 - Madeira.região Autónoma
+- Período Experimental
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Remuneração
-- Avaliação do Pessoal
-- Estatuto Remuneratório
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- SIADAP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2019/08/30/p/dre
@@ -129,16 +129,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124324704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159087823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72942084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74878702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
+  article_count: 53
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:38Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +281,9 @@ Os artigos 17.º, 23.º, 24.º, 35.º, 41.º e 42.º do [Decreto Legislativo Reg
 
 5 - Os trabalhadores da AT-RAM, com pelo menos 12 anos de carreira, que tenham exercido, na área das finanças ou administração tributária, cargo de direção superior ou intermédio por um período mínimo de 8 anos, e que possuam formação no âmbito do Curso Avançado em Gestão Pública (CAGEP) ou do Programa de Formação em Gestão Pública (FORGEP), consideram-se como possuindo o curso de chefia tributária para os efeitos previstos no presente diploma.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -203,7 +293,9 @@ Os artigos 17.º, 23.º, 24.º, 35.º, 41.º e 42.º do [Decreto Legislativo Reg
 
 4 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -217,7 +309,9 @@ Os artigos 17.º, 23.º, 24.º, 35.º, 41.º e 42.º do [Decreto Legislativo Reg
 
 6 - (Revogado.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -241,7 +335,9 @@ c) Em posição remuneratória correspondente à remuneração atualmente auferi
 
 8 - Aos procedimentos concursais referidos no presente artigo é aplicável o n.º 2 do artigo 36.º da LTFP, não havendo lugar a prova de conhecimentos.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +353,9 @@ c) Em posição remuneratória correspondente à remuneração atualmente auferi
 
 7 - O pagamento do suplemento de produtividade referido no n.º 1 constitui encargo direto da secretaria regional que tutela a área das finanças.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -293,11 +391,11 @@ O diploma que procede à revisão das carreiras especiais da Autoridade Tributá
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 26 de dezembro de 2022.**
+Assinado em 26 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -837,13 +935,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Carreira especial de gestão e inspeção tributária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
 Carreira especial de inspeção e auditoria tributária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
 
 ## ANEXO III — (a que se refere o artigo 9.º)
 
@@ -897,16 +995,18 @@ h) Praticar os demais atos ou diligências necessárias à prossecução das atr
 
 Posições remuneratórias/níveis remuneratórios da carreira especial de gestão e inspeção tributária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
 
 ## ANEXO VI — (a que se referem o artigo 32.º e o n.º 4 do artigo 35.º)
 
 Posições remuneratórias/níveis remuneratórios da carreira especial de inspeção e auditoria tributária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
 
 ## ANEXO VII — [a que se referem o n.º 1 do artigo 23.º e a alínea a) do n.º 3 do artigo 39.º]
 
 Posições remuneratórias/níveis remuneratórios das chefias tributárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0005100073.pdf)
+
+116007596

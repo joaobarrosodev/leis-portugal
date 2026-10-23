@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24500/35523558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1980-462781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2015fc7e30092e10da3ef361e841785de73c0a30eeadb8cb5cbbec4f0bcd98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99f6be8eab1e47fd6cb0d942ce209ee33ea96a7b910f0826f81538e05e527334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Empresa Pública de Saneamento Básico da Região da Madeira
+- Estatuto
+- Madeira.região Autónoma
+- Saneamento Básico
 relationships:
 - type: amended_by
   target: pt:dre:196183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:196183:por
+  label: "Revogado pelo DLR.2/86/M.1986.02.27.ARM, DR.IS [74] de 31/Mar/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1986-196183
+  date: '1986-02-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:33Z'
   warnings: []
   errors: []
 ---
@@ -94,31 +108,31 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Empresa Pública Saneamento Básico da Região da Madeira, em anexo, que se considera parte integrante deste decreto regional.
+Artigo 1.º É aprovado o Estatuto da Empresa Pública Saneamento Básico da Região da Madeira, em anexo, que se considera parte integrante deste decreto regional.
 
-###### Art. 2.º Para efeitos do presente diploma, a Secretaria Regional da tutela é a do Equipamento Social.
+Art. 2.º Para efeitos do presente diploma, a Secretaria Regional da tutela é a do Equipamento Social.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 31 de Julho de 1980.
 
-**O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 18 de Agosto de 1980.**
+Assinado em 18 de Agosto de 1980.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 ESTATUTO DA EMPRESA PÚBLICA SANEAMENTO BÁSICO DA REGIÃO DA MADEIRA
 
 ### CAPÍTULO I — Denominação e sede
 
-###### Artigo 1.º - 1 - A empresa pública Saneamento Básico da Região da Madeira, E. P., adiante designada, abreviadamente, por Sabam, E. P., é uma pessoa colectiva de direito público com património próprio, dotada de autonomia administrativa e financeira.
+Artigo 1.º - 1 - A empresa pública Saneamento Básico da Região da Madeira, E. P., adiante designada, abreviadamente, por Sabam, E. P., é uma pessoa colectiva de direito público com património próprio, dotada de autonomia administrativa e financeira.
 
 2 - A Sabam, E. P., tem sede no Funchal e poderá estabelecer e encerrar as delegações ou instalações que considere necessárias à prossecução dos seus fins.
 
-###### Art. 2.º A Sabam, E. P., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelo presente Estatuto e respectivos regulamentos de execução; nos casos omissos, pelas normas aplicáveis às empresas públicas e, na sua falta, pelas normas de direito privado.
+Art. 2.º A Sabam, E. P., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelo presente Estatuto e respectivos regulamentos de execução; nos casos omissos, pelas normas aplicáveis às empresas públicas e, na sua falta, pelas normas de direito privado.
 
-###### Art. 3.º - 1 - A Sabam, E. P., tem por objecto assegurar, em moldes empresariais, a satisfação das necessidades primárias de salubridade e bem-estar das populações da Região Autónoma da Madeira, em termos de:
+Art. 3.º - 1 - A Sabam, E. P., tem por objecto assegurar, em moldes empresariais, a satisfação das necessidades primárias de salubridade e bem-estar das populações da Região Autónoma da Madeira, em termos de:
 
 a) Abastecimento de água potável;
 
@@ -134,11 +148,11 @@ c) Limpeza pública, remoção, tratamento e destino final dos lixos.
 
 5 - Para a prossecução do seu objecto, a Sabam, E. P., pode criar ou participar em associações, empresas ou sociedades.
 
-###### Art. 4.º A Sabam, E. P., explora em regime exclusivo os serviços referidos no n.º 1 do artigo anterior, sem prejuízo do disposto no artigo 6.º do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto.
+Art. 4.º A Sabam, E. P., explora em regime exclusivo os serviços referidos no n.º 1 do artigo anterior, sem prejuízo do disposto no artigo 6.º do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto.
 
 ### CAPÍTULO II — Órgãos de gestão
 
-###### Art. 5.º A gestão da Sabam, E. P., é assegurada pelos seguintes órgãos:
+Art. 5.º A gestão da Sabam, E. P., é assegurada pelos seguintes órgãos:
 
 1) Conselho geral;
 
@@ -148,11 +162,11 @@ c) Limpeza pública, remoção, tratamento e destino final dos lixos.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 6.º - 1 - O mandato dos membros dos órgãos de gestão da empresa é de três anos, renovável por iguais períodos.
+Art. 6.º - 1 - O mandato dos membros dos órgãos de gestão da empresa é de três anos, renovável por iguais períodos.
 
 2 - O exercício do mandato em qualquer dos órgãos de gestão da empresa não depende da prestação de caução.
 
-###### Art. 7.º - 1 - Os órgãos colegiais da empresa só podem deliberar validamente quando esteja presente a maioria dos seus membros.
+Art. 7.º - 1 - Os órgãos colegiais da empresa só podem deliberar validamente quando esteja presente a maioria dos seus membros.
 
 2 - As deliberações serão tomadas por maioria absoluta de votos dos membros presentes, não podendo estes abster-se de votar, nem fazê-lo por procuração ou por correspondência.
 
@@ -162,7 +176,7 @@ c) Limpeza pública, remoção, tratamento e destino final dos lixos.
 
 5 - Os membros que discordem das deliberações poderão fazer registar na acta a respectiva declaração de voto.
 
-###### Art. 8.º - 1 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado por despacho do Secretário Regional da tutela e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
+Art. 8.º - 1 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado por despacho do Secretário Regional da tutela e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
 
 2 - O presidente e os vogais do conselho de gerência percebem as remunerações estabelecidas de acordo com as normas legais aplicáveis.
 
@@ -170,11 +184,11 @@ c) Limpeza pública, remoção, tratamento e destino final dos lixos.
 
 4 - Os membros do conselho de gerência terão direito ao esquema geral de segurança social e demais regalias sociais conferidas aos trabalhadores da empresa, em condições idênticas às destes.
 
-###### Art. 9.º As entidades com representação nos órgãos de gestão da empresa deverão indicar os seus representantes, simultaneamente com os respectivos suplentes, no prazo de trinta dias a contar da notificação para tal efeito, cabendo a nomeação ao Secretário Regional da tutela sempre que os não designem no prazo fixado.
+Art. 9.º As entidades com representação nos órgãos de gestão da empresa deverão indicar os seus representantes, simultaneamente com os respectivos suplentes, no prazo de trinta dias a contar da notificação para tal efeito, cabendo a nomeação ao Secretário Regional da tutela sempre que os não designem no prazo fixado.
 
 #### SECÇÃO II — Conselho geral
 
-###### Art. 10.º - 1 - O conselho geral será nomeado por despacho do Secretário Regional da tutela e será constituído por:
+Art. 10.º - 1 - O conselho geral será nomeado por despacho do Secretário Regional da tutela e será constituído por:
 
 a) Um representante de cada uma das Secretarias Regionais do Equipamento Social, do Planeamento e Finanças, dos Assuntos Sociais, da Coordenação Económica e do Trabalho ou daquelas que venham futuramente a substituir as existentes;
 
@@ -188,7 +202,7 @@ d) Três representantes dos trabalhadores da empresa.
 
 3 - Nas reuniões do conselho geral podem participar um ou mais membros do conselho de gerência ou da comissão de fiscalização, sem direito a voto.
 
-###### Art. 11.º - 1 - Compete ao conselho geral:
+Art. 11.º - 1 - Compete ao conselho geral:
 
 a) Apreciar e votar os planos plurianuais de actividade e financeiros;
 
@@ -208,7 +222,7 @@ e) Eleger o secretário do conselho geral.
 
 #### SECÇÃO III — Conselho de gerência
 
-###### Art. 12.º - 1 - O conselho de gerência é composto por um presidente e dois vogais, um dos quais é escolhido entre os directores de serviço da empresa, nomeados pelo Governo Regional da Madeira, sob proposta do Secretário Regional da tutela, ouvida a comissão de trabalhadores da empresa.
+Art. 12.º - 1 - O conselho de gerência é composto por um presidente e dois vogais, um dos quais é escolhido entre os directores de serviço da empresa, nomeados pelo Governo Regional da Madeira, sob proposta do Secretário Regional da tutela, ouvida a comissão de trabalhadores da empresa.
 
 2 - O conselho designará, na primeira reunião, o vogal que desempenhará as funções de vice-presidente, a quem incumbirá substituir o presidente nas suas faltas e impedimentos.
 
@@ -216,7 +230,7 @@ e) Eleger o secretário do conselho geral.
 
 4 - O conselho de gerência poderá fazer-se assistir, sempre que o entenda necessário, por auditores ou assessores contratados em assuntos cuja particular especialização o exija.
 
-###### Art. 13.º - 1 - O conselho de gerência tem todos os poderes necessários para assegurar a gestão e desenvolvimento da empresa, a sua representação em juízo e fora dele e a administração dos bens afectos à sua actividade, incluindo a aquisição, oneração e alienação do seu património, cabendo-lhe exercer os poderes e praticar todos os actos que por disposição expressa da lei, regulamento ou estatuto não hajam sido cometidos a outro órgão da empresa.
+Art. 13.º - 1 - O conselho de gerência tem todos os poderes necessários para assegurar a gestão e desenvolvimento da empresa, a sua representação em juízo e fora dele e a administração dos bens afectos à sua actividade, incluindo a aquisição, oneração e alienação do seu património, cabendo-lhe exercer os poderes e praticar todos os actos que por disposição expressa da lei, regulamento ou estatuto não hajam sido cometidos a outro órgão da empresa.
 
 2 - Compete, em especial, ao conselho de gerência:
 
@@ -252,9 +266,9 @@ o) Propor ao conselho geral os regulamentos de água, esgostos e lixos, ou suas 
 
 p) Desistir, transigir e confessar em quaisquer pleitos e comprometer-se em arbitragens.
 
-###### Art. 14.º O conselho de gerência poderá delegar a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais, bem como fazer-se representar por procurador em actos ou contratos em que a Sabam, E. P., deva intervir.
+Art. 14.º O conselho de gerência poderá delegar a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais, bem como fazer-se representar por procurador em actos ou contratos em que a Sabam, E. P., deva intervir.
 
-###### Art. 15.º - 1 - Compete ao presidente do conselho de gerência a convocação das reuniões, a coordenação e a orientação geral das actividades do conselho e assegurar o expediente deste.
+Art. 15.º - 1 - Compete ao presidente do conselho de gerência a convocação das reuniões, a coordenação e a orientação geral das actividades do conselho e assegurar o expediente deste.
 
 2 - Compete, em especial, ao presidente do conselho de gerência:
 
@@ -266,19 +280,19 @@ c) Representar a empresa quando outros representantes ou mandatários não hajam
 
 d) Exercer o direito de veto, nos termos da lei.
 
-###### Art. 16.º - 1 - O conselho de gerência reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente o convocar por iniciativa própria ou a solicitação de dois vogais.
+Art. 16.º - 1 - O conselho de gerência reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente o convocar por iniciativa própria ou a solicitação de dois vogais.
 
 2 - Consideram-se sempre convocados os membros do conselho de gerência para as reuniões que se realizam em local, dia e hora preestabelecidos, bem como os que tenham estado presentes em reunião anterior em que se tenha fixado o dia e hora da reunião, tenham sido avisados por qualquer forma previamente estabelecida ou compareçam à reunião.
 
 3 - Nos restantes casos, as reuniões carecem de convocação, dirigida a todos os membros, para poderem deliberar validamente, sendo, todavia, dispensável a indicação da ordem do dia na convocação.
 
-###### Art. 17.º A empresa fica obrigada pela assinatura de dois membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
+Art. 17.º A empresa fica obrigada pela assinatura de dois membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
 
-###### Art. 18.º - 1 - A comissão de fiscalização é composta por três membros, que escolherão de entre si o presidente.
+Art. 18.º - 1 - A comissão de fiscalização é composta por três membros, que escolherão de entre si o presidente.
 
 2 - Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Secretários Regionais da tutela e do Planeamento e Finanças, sendo um indicado pelas câmaras municipais e outro pelos trabalhadores da empresa de entre pessoas qualificadas para o exercício do cargo.
 
-###### Art. 19.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa ou às actividades por ela exercidas e fiscalizar a sua gestão.
+Art. 19.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa ou às actividades por ela exercidas e fiscalizar a sua gestão.
 
 2 - Compete, em especial, à comissão de fiscalização:
 
@@ -298,21 +312,21 @@ g) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de ger
 
 h) Pronunciar-se sobre qualquer assunto de interesse para a empresa que os conselhos geral ou de gerência submetam à sua apreciação.
 
-###### Art. 20.º - 1 - Para o exercício da sua competência podem os membros da comissão de fiscalização, conjunta ou separadamente, solicitar do conselho de gerência ou de quaisquer departamentos da empresa informações, esclarecimentos ou documentos relacionados com o curso das operações ou actividades desta.
+Art. 20.º - 1 - Para o exercício da sua competência podem os membros da comissão de fiscalização, conjunta ou separadamente, solicitar do conselho de gerência ou de quaisquer departamentos da empresa informações, esclarecimentos ou documentos relacionados com o curso das operações ou actividades desta.
 
 2 - A comissão de fiscalização poderá fazer-se assistir, sob sua responsabilidade, por auditores internos da empresa e, quando os não houver, por auditores externos contratados, bem como poderá obter de terceiros que tenham realizado operações por conta da empresa as informações que necessitar para o esclarecimento dessas operações.
 
-###### Art. 21.º A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o presidente a convocar, por iniciativa própria, a requerimento da maioria dos seus membros ou dos presidentes do conselho geral ou de gerência.
+Art. 21.º A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o presidente a convocar, por iniciativa própria, a requerimento da maioria dos seus membros ou dos presidentes do conselho geral ou de gerência.
 
 ### CAPÍTULO III — Intervenção do Governo
 
-###### Art. 22.º - 1 - Sem prejuízo da autonomia legal e estatutária conferida à empresa, cabe ao Governo da Região Autónoma da Madeira, pela Secretaria Regional do Equipamento Social, exercer a tutela da Sabam, E. P.
+Art. 22.º - 1 - Sem prejuízo da autonomia legal e estatutária conferida à empresa, cabe ao Governo da Região Autónoma da Madeira, pela Secretaria Regional do Equipamento Social, exercer a tutela da Sabam, E. P.
 
 2 - Cabe ao Governo Regional da Madeira definir o enquadramento geral em que se desenvolverá a actividade da Sabam, E. P., de forma a assegurar a sua harmonização com as políticas globais e sectoriais e com o planeamento económico regional.
 
 3 - Compete ainda àquele Secretário Regional da tutela dirimir quaisquer diferendos suscitados entre os diversos órgãos de gestão da empresa.
 
-###### Art. 23.º - 1 - Carecem de aprovação conjunta dos Secretários Regionais da tutela e do Planeamento e Finanças:
+Art. 23.º - 1 - Carecem de aprovação conjunta dos Secretários Regionais da tutela e do Planeamento e Finanças:
 
 a) Os planos plurianuais e anuais de actividade e financeiros;
 
@@ -334,21 +348,21 @@ h) A alteração de capital estatutário da empresa.
 
 3 - Os documentos referidos nas alíneas b) e d) consideram-se aprovados se o Secretário Regional da tutela não se pronunciar no prazo de trinta dias após a sua recepção.
 
-###### Art. 24.º É da competência dos Secretários Regionais da tutela e do Trabalho a aprovação do estatuto do pessoal da empresa.
+Art. 24.º É da competência dos Secretários Regionais da tutela e do Trabalho a aprovação do estatuto do pessoal da empresa.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 25.º - 1 - Os trabalhadores da função pública que prestam serviço em qualquer dos actuais serviços públicos de saneamento básico incluídos no cadastro do pessoal referido no artigo 10.º do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, transitam para a Sabam, E. P., na qual passam a exercer as suas funções em regime de requisição e têm o direito de opção definitiva e individual pelo regime do contrato individual de trabalho.
+Art. 25.º - 1 - Os trabalhadores da função pública que prestam serviço em qualquer dos actuais serviços públicos de saneamento básico incluídos no cadastro do pessoal referido no artigo 10.º do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, transitam para a Sabam, E. P., na qual passam a exercer as suas funções em regime de requisição e têm o direito de opção definitiva e individual pelo regime do contrato individual de trabalho.
 
 2 - A opção prevista no número anterior deve constar de documento particular autenticado e determina, sem prejuízo da transferência da antiguidade da prestação de serviço ao Estado nos termos da lei vigente, a exoneração da função pública e a aplicação do esquema geral de previdência aplicável às empresas privadas.
 
-###### Art. 26.º - 1 - O regime de requisição do pessoal que transita dos actuais serviços públicos de saneamento básico é o seguinte:
+Art. 26.º - 1 - O regime de requisição do pessoal que transita dos actuais serviços públicos de saneamento básico é o seguinte:
 
 a) As disposições do estatuto do pessoal, bem como a regulamentação interna aprovada pelo conselho de gerência da Sabam, E. P., são aplicáveis ao pessoal requisitado e não poderão ser menos favoráveis aos trabalhadores que a actual legislação dos funcionários civis do Estado;
 
 b) Ao pessoal requisitado é reconhecido o direito ao abono de família e prestações complementares, à protecção na maternidade, à assistência na doença, à aposentação e o direito a pensões de sobrevivência, nos termos da legislação aplicável ao funcionalismo público, com a consequente inscrição na ADSE, CGA e MSE, enquanto não exercerem o direito de opção referido no artigo 25.º
 
-###### Art. 27.º - 1 - O estatuto do pessoal da Sabam, E. P., será aprovado no prazo de cento e oitenta dias, a contar da entrada em vigor do presente diploma, por despacho conjunto dos Secretários Regionais da tutela e do Trabalho.
+Art. 27.º - 1 - O estatuto do pessoal da Sabam, E. P., será aprovado no prazo de cento e oitenta dias, a contar da entrada em vigor do presente diploma, por despacho conjunto dos Secretários Regionais da tutela e do Trabalho.
 
 2 - O estatuto do pessoal terá a vigência mínima nele consagrada, finda a qual poderá ser substituída por um instrumento de regulamentação colectiva de trabalho.
 
@@ -356,25 +370,25 @@ b) Ao pessoal requisitado é reconhecido o direito ao abono de família e presta
 
 4 - Até à entrada em vigor do estatuto do pessoal, os trabalhadores não oriundos dos serviços do Estado reger-se-ão pelas disposições gerais do regime jurídico do contrato individual de trabalho.
 
-###### Art. 28.º O órgão representativo do pessoal da Sabam, E. P., é a respectiva comissão de trabalhadores, cuja constituição e actividade obedecerão à legislação em vigor, ao presente Estatuto e ao estatuto do pessoal referido no artigo anterior.
+Art. 28.º O órgão representativo do pessoal da Sabam, E. P., é a respectiva comissão de trabalhadores, cuja constituição e actividade obedecerão à legislação em vigor, ao presente Estatuto e ao estatuto do pessoal referido no artigo anterior.
 
-###### Art. 29.º - 1 - Todos os trabalhadores ao serviço da Sabam, E. P., deverão auferir vencimentos líquidos idênticos quando no desempenho efectivo das mesmas funções, quer sejam ou não agentes civis do Estado.
+Art. 29.º - 1 - Todos os trabalhadores ao serviço da Sabam, E. P., deverão auferir vencimentos líquidos idênticos quando no desempenho efectivo das mesmas funções, quer sejam ou não agentes civis do Estado.
 
 2 - A determinação dos valores líquidos dos vencimentos efectua-se mediante a dedução dos descontos obrigatórios a reter na fonte, bem como do imposto complementar calculado exclusivamente na base do vencimento ilíquido individual.
 
 3 - Para todos os efeitos legais, designadamente o da aposentação, as deduções devidas pelo pessoal incidirão sobre a totalidade da remuneração correspondente aos cargos exercidos na empresa.
 
-###### Art. 30.º A Sabam, E. P., promoverá a harmonização dos regimes de segurança social dos trabalhadores que nela ingressarem, com vista à unificação das regalias sociais.
+Art. 30.º A Sabam, E. P., promoverá a harmonização dos regimes de segurança social dos trabalhadores que nela ingressarem, com vista à unificação das regalias sociais.
 
 ### CAPÍTULO V — Património e capital
 
-###### Art. 31.º - 1 - O património da empresa é constituído pelos bens, direitos e obrigações para ela transmitidos por efeito do disposto no capítulo III do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, com as alterações que advierem da aquisição, alienação e oneração futuras de bens e direitos cuja realização se imponha no exercício da actividade da empresa.
+Art. 31.º - 1 - O património da empresa é constituído pelos bens, direitos e obrigações para ela transmitidos por efeito do disposto no capítulo III do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, com as alterações que advierem da aquisição, alienação e oneração futuras de bens e direitos cuja realização se imponha no exercício da actividade da empresa.
 
 2 - Pela satisfação de dívidas e ou quaisquer encargos assumidos pela Sabam, E. P., responde exclusivamente o seu património.
 
 3 - As redes separativas de águas pluviais fazem parte do património da empresa, sem prejuízo das respectivas câmaras municipais ou outras entidades interessadas deverem comparticipar no financiamento da sua execução e conservação.
 
-###### Art. 32.º - 1 - O capital estatutário é formado pelo valor do património integrado nos termos do artigo 31.º e pelas dotações ou outras entradas patrimoniais do Governo Regional ou de outras pessoas colectivas de direito público destinadas a satisfazer as necessidades permanentes da empresa.
+Art. 32.º - 1 - O capital estatutário é formado pelo valor do património integrado nos termos do artigo 31.º e pelas dotações ou outras entradas patrimoniais do Governo Regional ou de outras pessoas colectivas de direito público destinadas a satisfazer as necessidades permanentes da empresa.
 
 2 - O capital estatutário será fixado por despacho conjunto dos Secretários Regionais da tutela e do Planeamento e Finanças, nos termos da legislação aplicável.
 
@@ -382,15 +396,15 @@ b) Ao pessoal requisitado é reconhecido o direito ao abono de família e presta
 
 ### CAPÍTULO VI — Gestão financeira e económica
 
-###### Art. 33.º - 1 - A Sabam, E. P., administra e dispõe livremente, nos termos do presente Estatuto, dos bens que constituem o seu património, não se encontrando sujeita à disciplina jurídica do domínio privado do Estado.
+Art. 33.º - 1 - A Sabam, E. P., administra e dispõe livremente, nos termos do presente Estatuto, dos bens que constituem o seu património, não se encontrando sujeita à disciplina jurídica do domínio privado do Estado.
 
 2 - Além dos bens e direitos do seu património, administra os bens e direitos do domínio público afectos às actividades a seu cargo, deles devendo manter cadastro actualizado.
 
-###### Art. 34.º - 1 - Enquanto responsável por um serviço público, compete ao conselho de gerência da Sabam, E. P., praticar todos os actos administrativos definitivos e executórios, individuais e genéricos que permitam a esta exercer os poderes e as prerrogativas que lhe são conferidas pelo capítulo V do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, pela lei e pelo presente Estatuto, sem prejuízo da competência tutelar estabelecida por este.
+Art. 34.º - 1 - Enquanto responsável por um serviço público, compete ao conselho de gerência da Sabam, E. P., praticar todos os actos administrativos definitivos e executórios, individuais e genéricos que permitam a esta exercer os poderes e as prerrogativas que lhe são conferidas pelo capítulo V do [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, pela lei e pelo presente Estatuto, sem prejuízo da competência tutelar estabelecida por este.
 
 2 - A executoriedade dos actos praticados pelo conselho de gerência da Sabam, E. P., não depende, salvo nos casos especialmente previstos, de nenhum visto ou aprovação de outras entidades ou órgãos.
 
-###### Art. 35.º - 1 - Compete em exclusivo à Sabam, E. P., a cobrança das receitas emergentes da prestação de serviços que leva a efeito, ou de quaisquer outras que lhe estejam atribuídas, e a realização de despesas que sejam necessárias à sua actividade.
+Art. 35.º - 1 - Compete em exclusivo à Sabam, E. P., a cobrança das receitas emergentes da prestação de serviços que leva a efeito, ou de quaisquer outras que lhe estejam atribuídas, e a realização de despesas que sejam necessárias à sua actividade.
 
 2 - Constituem, designadamente, receitas da Sabam, E. P.:
 
@@ -406,13 +420,13 @@ d) Quaisquer outros rendimentos ou valores, fixos ou periódicos, a título grat
 
 4 - A contratação de obras ou de fornecimentos poderá ser feita pela empresa, segundo um regime de direito público, sempre que a sua dimensão, preço ou importância o justifiquem.
 
-###### Art. 36.º A Sabam, E. P., poderá socorrer-se de qualquer forma de financiamento, sem prejuízo das competências fixadas neste Estatuto para cada um dos órgãos de gestão da empresa e para a tutela governamental.
+Art. 36.º A Sabam, E. P., poderá socorrer-se de qualquer forma de financiamento, sem prejuízo das competências fixadas neste Estatuto para cada um dos órgãos de gestão da empresa e para a tutela governamental.
 
-###### Art. 37.º - 1 - A Sabam, E. P., exercerá a sua actividade em obediência a um sistema de planeamento a curto, médio e longo prazos, enquadrado no planeamento económico regional, e assentando a sua gestão na definição de necessidades, fixação de objectivos, contrôle permanente de resultados e revisão oportuna de carências, procurando sempre alcançar o equilíbrio económico e financeiro da exploração e assegurando níveis adequados de autofinanciamento e de remuneração do capital estatutário.
+Art. 37.º - 1 - A Sabam, E. P., exercerá a sua actividade em obediência a um sistema de planeamento a curto, médio e longo prazos, enquadrado no planeamento económico regional, e assentando a sua gestão na definição de necessidades, fixação de objectivos, contrôle permanente de resultados e revisão oportuna de carências, procurando sempre alcançar o equilíbrio económico e financeiro da exploração e assegurando níveis adequados de autofinanciamento e de remuneração do capital estatutário.
 
 2 - Competindo à empresa especiais obrigações de serviço público que a tornam responsável por tarefas e actividades estruturalmente deficitárias ou em relação às quais se verifica uma prática de preços sociais, o Governo Regional compensará a empresa pelo correspondente encargo.
 
-###### Art. 38.º - 1 - O planeamento de gestão económica e financeira da empresa é disciplinado pelos seguintes instrumentos previsionais, tendo em conta os planos globais e sectoriais da realidade económica regional:
+Art. 38.º - 1 - O planeamento de gestão económica e financeira da empresa é disciplinado pelos seguintes instrumentos previsionais, tendo em conta os planos globais e sectoriais da realidade económica regional:
 
 a) Planos de actividades e financeiros;
 
@@ -426,19 +440,19 @@ b) Orçamentos de exploração, de investimentos e suas actualizações.
 
 5 - Os planos financeiros deverão prever a evolução das receitas e despesas, os investimentos projectados e as fontes de financiamento a recorrer.
 
-###### Art. 39.º - 1 - Os orçamentos serão anuais e deverão seriar as verbas não só destinadas a cobrir a exploração global da empresa, como também a afectar às contas de investimento para cumprimento das actividades programadas, e individualizar a sua cobertura financeira.
+Art. 39.º - 1 - Os orçamentos serão anuais e deverão seriar as verbas não só destinadas a cobrir a exploração global da empresa, como também a afectar às contas de investimento para cumprimento das actividades programadas, e individualizar a sua cobertura financeira.
 
 2 - O orçamento será actualizado, pelo menos, uma vez em cada ano.
 
-###### Art. 40.º - 1 - O activo imobilizado próprio da Sabam, E. P., e o do domínio público afecto à sua actividade é amortizado, reintegrado e reavaliado em conformidade com a orientação fixada nos termos do artigo 23.º e, na falta de tal orientação, pelas normas usuais das empresas privadas.
+Art. 40.º - 1 - O activo imobilizado próprio da Sabam, E. P., e o do domínio público afecto à sua actividade é amortizado, reintegrado e reavaliado em conformidade com a orientação fixada nos termos do artigo 23.º e, na falta de tal orientação, pelas normas usuais das empresas privadas.
 
 2 - A periodicidade das reavaliações será determinada por forma a atingir-se uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.
 
-###### Art. 41.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da empresa, os bens do domínio público daqueles que constituem património da empresa, tendo em vista o seu diverso regime de responsabilidade pelo passivo.
+Art. 41.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da empresa, os bens do domínio público daqueles que constituem património da empresa, tendo em vista o seu diverso regime de responsabilidade pelo passivo.
 
 2 - Na contabilização dos bens dominiais serão escriturados em conta distinta aqueles que hajam sido adquiridos pela Sabam, E. P.
 
-###### Art. 42.º - 1 - A empresa constituirá as provisões, reservas e fundos que se mostrem necessários, designadamente:
+Art. 42.º - 1 - A empresa constituirá as provisões, reservas e fundos que se mostrem necessários, designadamente:
 
 a) Reserva geral;
 
@@ -452,11 +466,11 @@ c) Fundo para fins sociais.
 
 4 - O fundo para fins sociais, constituído por, pelo menos, 10% dos lucros anuais, será aplicado, com prévia audiência dos trabalhadores, em realizações que proporcionem benefícios de carácter social para estes.
 
-###### Art. 43.º - 1 - Serão constituídas provisões, consideradas como custo de exploração, para eventual cobertura de perda de valor das existências ou de créditos incobráveis.
+Art. 43.º - 1 - Serão constituídas provisões, consideradas como custo de exploração, para eventual cobertura de perda de valor das existências ou de créditos incobráveis.
 
 2 - Constituirão reforço de provisão para crédito e cobrança duvidosa os depósitos de garantia abandonados a favor da empresa.
 
-###### Art. 44.º - 1 - Com vista à prestação de contas do exercício de cada ano, deverá o conselho de gerência elaborar:
+Art. 44.º - 1 - Com vista à prestação de contas do exercício de cada ano, deverá o conselho de gerência elaborar:
 
 a) Relatório sobre a actividade e situação da empresa, acompanhado de indicadores elucidativos;
 
@@ -470,12 +484,12 @@ e) Mapas informativos do grau de execução dos programas em curso;
 
 f) Discriminação das participações no capital de sociedades e dos financiamentos realizados a médio e a longo prazos.
 
-###### Art. 45.º Serão publicados no Jornal Oficial da Região Autónoma da Madeira o relatório do conselho de gerência, o balanço, a demonstração de resultados e o parecer da comissão de fiscalização, depois de aprovados.
+Art. 45.º Serão publicados no Jornal Oficial da Região Autónoma da Madeira o relatório do conselho de gerência, o balanço, a demonstração de resultados e o parecer da comissão de fiscalização, depois de aprovados.
 
 ### CAPÍTULO VII — Disposições gerais
 
-###### Art. 46.º - 1 - A responsabilidade da empresa é limitada, nos termos do n.º 2 do artigo 31.º
+Art. 46.º - 1 - A responsabilidade da empresa é limitada, nos termos do n.º 2 do artigo 31.º
 
 2 - O Governo da Região Autónoma da Madeira só responderá, perante terceiros, pelos actos e factos imputáveis à empresa se e na medida em que tenha assumido de modo expresso tal responsabilidade.
 
-###### Art. 47.º A Sabam, E. P., está sujeita ao regime geral da tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe estão competidas.
+Art. 47.º A Sabam, E. P., está sujeita ao regime geral da tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe estão competidas.

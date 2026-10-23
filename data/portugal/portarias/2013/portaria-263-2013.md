@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263/2013/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-2013-499223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f220883dba65c1ad18ea43b105ec52820b42732de5fd2e2d483ccb101e906527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3e80f50337b6333c6022bc990c56e773545efa99841dc0d9ad071b7baa0bb89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,23 @@ subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Aprendizagem Profissional
 - Autonomia Pedagógica
-- Formação Profissional
-- Plano de Estudos
 - Direcção Geral da Educação
 - Ensino Particular
 - Ensino Profissional
-- Ensino Tecnológico
-- Instituto de Educação e Desenvolvimento
 - Ensino Secundário
+- Ensino Tecnológico
+- Formação Profissional
+- Instituto de Educação e Desenvolvimento
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:107773648:por
+  label: Prorrogado por mais um ciclo de estudos, a iniciar no ano letivo de 2017/2018, o funcionamento, no Instituto de Educação
+    e Desenvolvimento, dos cursos Científico-Tecnológicos de nível secundário de educação com planos próprios, criados pela
+    presente portaria, pelo(a) Portaria n.º 235/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/235-2017-107773648
+  date: '2017-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -88,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494816:por
+  label: "Retificada pela DECL-RECT.40/2013.11.10.2013.PCM, DR.IS [197] de 11.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/40-2013-494816
+  date: '2013-10-11'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:27Z'
   warnings: []
   errors: []
 ---
@@ -382,20 +406,20 @@ c) No ano letivo de 2015/2016 no 12.º ano de escolaridade.
 
 É revogada a Portaria n.º 814/2009, de 28 de julho, de acordo com o calendário de produção de efeitos definido no artigo 15.º do presente diploma.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.
 
 ## ANEXO I — Curso Científico-Tecnológico de Informática de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
 
 ## ANEXO II — Curso Científico-Tecnológico de Eletrónica e Computadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
 
 ## ANEXO III — Curso Científico-Tecnológico de Desenho de Projeto - Engenharia e Arquitetura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
 
 ## ANEXO IV — Curso Científico-Tecnológico de Comunicação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15600/0487804884.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/259/2012/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-2012-174783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30ff6d6d8f606eb76fac4ea43b7a009a593e794ed2bd93aa3cde64523319f5d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1f7b6de7acd5f1f98541272162cf1caea29fe833529f50f975ab1dd4de57360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Água
-- Recursos Hídricos
+- Beja
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Controlo Sanitário
-- Saúde Pública
 - Esposende
 - Estarreja
-- Orla Costeira
 - Estremoz
 - Faro
+- Fertilizante
 - Fiscalização
-- RIO TEJO
 - Licenciamento
 - Murtosa
-- Proteção do Ambiente
-- Fertilizante
-- Beja
-- Programa de Acção
-- VILA do Conde
-- Poluição da água
+- Orla Costeira
 - Pesticida
-- Agricultura
+- Poluição da água
+- Programa de Acção
+- Proteção do Ambiente
+- Recursos Hídricos
+- RIO TEJO
+- Saúde Pública
 - Tavira
+- VILA do Conde
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -105,13 +105,13 @@ relationships:
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:10Z'
   warnings: []
   errors: []
 ---
@@ -760,19 +760,19 @@ Temperatura (1) - a temperatura média anual situa-se nos 17,2ºC, apresentando 
 
 Épocas em que não é permitido aplicar determinados tipos de fertilizantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 ## ANEXO III — (a que se refere n.º 2 do artigo 6.º)
 
 Limitações às culturas e às práticas agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 ## ANEXO IV — [a que se refere a subalínea iii) da alínea c) do n.º 3 do artigo 8.º]
 
 Normas de colheita para amostras foliares de culturas arbóreas e arbustivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 Na colheita de material vegetal para análise, devem observar-se os seguintes princípios gerais:
 
@@ -788,7 +788,7 @@ Na colheita de material vegetal para análise, devem observar-se os seguintes pr
 
 Quantidade e composição média de estrumes e de chorumes não diluídos produzidos anualmente por diferentes espécies pecuárias e sua conversão em cabeça normal (CN)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 Adaptado de Agroscope Changins-Wãdenswill ACW, 2009.
 
@@ -874,7 +874,7 @@ QUADRO N.º 1
 
 Valores de Ns a considerar nas deduções a efetuar consoante o parâmetro do solo considerado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 2) Azoto disponibilizado pela água de rega (Na):
 
@@ -900,7 +900,7 @@ QUADRO N.º 2
 
 Valores de Nr a considerar nas deduções a efetuar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 IV.2 - Culturas arbóreas e arbustivas:
 
@@ -932,13 +932,13 @@ Para efeitos de dedução, consideram-se apenas os teores de matéria orgânica 
 
 Ficha de registo de fertilização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 ## ANEXO VIII — (a que se refere o n.º 1 do artigo 9.º)
 
 Quantidade máxima de azoto a aplicar às culturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 ## ANEXO IX — (a que se referem os n.os 8, 11, 14 e 15 do artigo 10.º)
 
@@ -1000,7 +1000,7 @@ ii) Os depósitos devem possuir certificado de conformidade para armazenamento d
 
 Valores de referência para o cálculo das quantidades de água de lavagem utilizadas na atividade pecuária que escoam para o tanque de receção dos dejetos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 Nota. - Na falta de valores de referência para outros tipos de água utilizada, as quantidades de água de lavagem utilizadas estão sujeitas a parecer da DRAP territorialmente competente e devem publicitadas nos sítios na Internet da DGADR e das DRAP.
 
@@ -1008,13 +1008,13 @@ Nota. - Na falta de valores de referência para outros tipos de água utilizada,
 
 Registos referentes à gestão de efluentes pecuários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 ## ANEXO XII — (a que se refere a nota 3 do anexo vii)
 
 Quantidade média de nutrientes principais excretados anualmente por unidade animal de diferentes espécies pecuárias e sua conversão em CN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16600/0477204795.pdf)
 
 Adaptado de Agroscope Changins-Wãdenswill ACW, 2009.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/329/2012/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-2012-192414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c325c61c6a560ea04632bce8976bc827cd3ba54676a9a9faf30dcdbe6c5ff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3172b9198bbb8961ba8e3e19d8aa43831637146b51e09d8d92de6d9a0521e74b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,48 +68,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Administração Central do Sistema de Saúde
 - Auditor
+- Base de Dados
+- Cadáver
+- Certidão de Óbito
+- Confidencialidade
+- Definição de Competências
+- Direção Geral da Saúde
+- Direcção Geral de Infra-estruturas e Equipamentos
+- Direitos do Indivíduo
+- Documentação Classificada
 - Ficheiro Informático
+- Formulário Eletrónico
+- Instituto das Tecnologias de Informação na Justiça
+- Instituto Nacional de Medicina Legal
+- Instituto Nacional de Medicina Legal e Ciências Forenses
 - Médico
 - Ministério da Administração Interna
-- Direção Geral da Saúde
-- Instituto Nacional de Medicina Legal
-- Sistema de Informação dos Certificados de Óbito
-- Definição de Competências
-- Documentação Classificada
-- Formulário Eletrónico
-- Base de Dados
-- Instituto Nacional de Medicina Legal e Ciências Forenses
-- Segurança da Informação
-- Direitos do Indivíduo
-- Instituto das Tecnologias de Informação na Justiça
-- Administração Central do Sistema de Saúde
-- Nuipc
-- Página na Internet
-- Confidencialidade
 - Ministério da Saúde
-- Regime Jurídico
 - Ministério Público
-- Polícia Judiciária
-- Direcção Geral de Infra-estruturas e Equipamentos
-- Certidão de Óbito
+- Nuipc
 - Óbito
-- Cadáver
+- Página na Internet
+- Polícia Judiciária
+- Regime Jurídico
+- Segurança da Informação
+- Sistema de Informação dos Certificados de Óbito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15/2012/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2012/04/03/p/dre
+- type: cites
+  target: pt:dre:554389:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:35Z'
   warnings: []
   errors: []
 ---
@@ -180,4 +184,4 @@ Durante o período experimental, os estabelecimentos do Serviço Nacional de Sa�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 8 de outubro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de outubro de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 4 de outubro de 2012.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 8 de outubro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de outubro de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 4 de outubro de 2012.

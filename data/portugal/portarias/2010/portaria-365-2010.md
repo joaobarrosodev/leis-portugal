@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/365/2010/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-2010-335221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b451f264bc21214d7b0fe9be2e7f4eedbe9ca916bb4b599f25255155a5d76c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f00b998cd3ece8cab1df2a5425af0cef5179253c9a3ef59c801fc3e43e2c9f51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ subjects:
 - Tondela
 - ZONA de CAÇA
 relationships:
+- type: amends
+  target: pt:numero:portaria:825/2004
+  label: "Renova, por um período de seis anos a transferência de gestão, e anexa vários terrenos cinegéticos à zona de caça\
+    \ municipal de Alagoa, criada pela Portaria n.º 825/2004, de 16 de Julho, DR.IS-B [166] \0\0"
+  source: null
+  date: '2004-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -88,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/825/2004/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/825/2004/07/16/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527464:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:56Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +156,6 @@ d) 5 % aos demais caçadores conforme é referido na alínea d) do citado artigo
 
 Esta portaria produz efeitos a partir do dia 17 de Julho de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12000/0222502226.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12000/0222502226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12000/0222502226.pdf)

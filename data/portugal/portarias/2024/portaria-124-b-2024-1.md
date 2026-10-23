@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06303/0003200051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/124-b/2024/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-b-2024-858196733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cb3e49c6f390cc7e1e940bd7760508a39d5c2f7ffd1b300b017a77ba945d604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28f6801e07168c89879f76b676a2acf8b4380c3facabce285c9c11a4680ac17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituto do Cinema e do Audiovisual
-- Regulamentação de Atos Legislativos
-- Incentivos Fiscais
-- Política do Audiovisual
-- Regulamento CE
-- Cinema
-- Indústria Cinematográfica
-- Subsídio não Reembolsável
-- Fundo de Apoio ao Turismo e ao Cinema
 - Centro de Competências de Planeamento de Políticas e de Prospetiva da Administração Pública
+- Cinema
+- Financiamento
+- Fundo de Apoio ao Turismo e ao Cinema
+- Incentivos Fiscais
+- Indústria Cinematográfica
+- Instituto do Cinema e do Audiovisual
+- Política do Audiovisual
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:1133905372:por
@@ -114,16 +114,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115536002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116550762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1133905372:por
+  label: Revogada, a 18 de junho de 2026, pelo(a) Portaria n.º 265-A/2026/1 - Diário da República n.º 115/2026, Suplemento,
+    Série I de 2026-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-a-2026-1133905372
+  date: '2026-06-17'
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:54Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +214,7 @@ Compete ao Instituto do Cinema e Audiovisual, I. P. (ICA, I. P.), assegurar os p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 27 de março de 2024.**
+O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 27 de março de 2024.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -394,7 +436,7 @@ x) Plano de distribuição ou difusão e respetivos contratos celebrados, se exi
 
 xi) Plano de sustentabilidade ambiental, se aplicável;
 
-xii) Plano de desenvolvimento de talento, para efeitos dos n.<sup>os</sup>4 e 5 do artigo 6.º
+xii) Plano de desenvolvimento de talento, para efeitos dos n.os4 e 5 do artigo 6.º
 
 b) Documentos relativos ao conteúdo do projeto:
 
@@ -546,22 +588,22 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 
 ## ANEXO II — (a que se refere o artigo 6.º do Regulamento do Incentivo)
 
-# PARTE I — Tabela de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos
+## PARTE I — Tabela de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos
 
 | Critério |  | Máximo | Obtido |
 | --- | --- | --- | --- |
 |  | Parte A - Valor Cultural |  |  |
 |  | Secção A1 - Conteúdo e natureza cultural |  |  |
-| A1.1 | A ação tem lugar (<sup>1</sup>):Maioritariamente em Portugal, em território de baixa densidade (6 pontos)Maioritariamente em Portugal, em território não abrangido pelo ponto anterior (5 pontos);Pelo menos 10 % em Portugal, em território de baixa densidade (3 pontos);Pelo menos 10 % em Portugal, em território não abrangido no ponto anterior (2 pontos);Em parte num país europeu (<sup>2</sup>) ou lusófono, ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou num local indeterminado ou de fantasia (1 ponto). | 6 pontos. |  |
-| A1.2 | Línguas:Mais de metade dos diálogos originais são em língua portuguesa ou em línguas crioulas de base portuguesa (<sup>3</sup>) ou em língua falada na Europa | 2 pontos. |  |
-| A1.3 | Personagens principais:A maior parte das personagens principais (<sup>4</sup>) é nacional ou residente num território de língua portuguesa, ou tem uma ligação forte com a cultura ou a língua portuguesa, ou com as culturas lusófonas, europeias ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte (2 pontos);Pelo menos uma personagem principal preenche os requisitos do parágrafo anterior (1 ponto). | 2 pontos. |  |
-| A1.4 | Argumento:O argumento é uma adaptação de uma obra literária original portuguesa, lusófona ou europeia, ou de um país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte (2 pontos);O argumento é uma adaptação de uma obra relevante da literatura universal (<sup>5</sup>) (1 ponto). | 2 pontos. |  |
+| A1.1 | A ação tem lugar (1):Maioritariamente em Portugal, em território de baixa densidade (6 pontos)Maioritariamente em Portugal, em território não abrangido pelo ponto anterior (5 pontos);Pelo menos 10 % em Portugal, em território de baixa densidade (3 pontos);Pelo menos 10 % em Portugal, em território não abrangido no ponto anterior (2 pontos);Em parte num país europeu (2) ou lusófono, ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou num local indeterminado ou de fantasia (1 ponto). | 6 pontos. |  |
+| A1.2 | Línguas:Mais de metade dos diálogos originais são em língua portuguesa ou em línguas crioulas de base portuguesa (3) ou em língua falada na Europa | 2 pontos. |  |
+| A1.3 | Personagens principais:A maior parte das personagens principais (4) é nacional ou residente num território de língua portuguesa, ou tem uma ligação forte com a cultura ou a língua portuguesa, ou com as culturas lusófonas, europeias ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte (2 pontos);Pelo menos uma personagem principal preenche os requisitos do parágrafo anterior (1 ponto). | 2 pontos. |  |
+| A1.4 | Argumento:O argumento é uma adaptação de uma obra literária original portuguesa, lusófona ou europeia, ou de um país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte (2 pontos);O argumento é uma adaptação de uma obra relevante da literatura universal (5) (1 ponto). | 2 pontos. |  |
 | A1.5 | Temas artísticos:A obra tem por tema principal as artes ou um ou mais artistas, de qualquer disciplina artística e de qualquer época. | 1 ponto. |  |
 | A1.6 | Temas históricos:A obra diz respeito essencialmente a personagens ou a acontecimentos históricos ou de relevância histórica, de qualquer época, ou personagens míticas ou de ficção relevantes na história cultural universal. | 1 ponto. |  |
 | A1.7 | Obra de animação ou destinada a públicos infantis ou infantojuvenis ou documentário | 3 pontos. |  |
 |  | Subtotal secção A1 | Máximo: 17 pontos. |  |
 |  | Secção A2 - Promoção e alcance cultural |  |  |
-| A2.1 | Visibilidade territorial e cultural:Proeminência de locais, aspetos e personagens emblemáticos (<sup>6</sup>) do território e da cultura portugueses, identificáveis enquanto tal:Presença percetível em pelo menos 20 % da duração da obra (6 pontos);Presença percetível em pelo menos 10 % da duração da obra (3 pontos);Presença percetível em pelo menos 2 % da duração da obra (1 ponto). | 6 pontos. |  |
+| A2.1 | Visibilidade territorial e cultural:Proeminência de locais, aspetos e personagens emblemáticos (6) do território e da cultura portugueses, identificáveis enquanto tal:Presença percetível em pelo menos 20 % da duração da obra (6 pontos);Presença percetível em pelo menos 10 % da duração da obra (3 pontos);Presença percetível em pelo menos 2 % da duração da obra (1 ponto). | 6 pontos. |  |
 | A2.2 | I - Consagração internacional do realizador, argumentista, ator ou atriz principal (pontuação não cumulável):a) Premiado mais do que uma vez com distinções de melhor filme, melhor realizador, melhor argumento, melhor ator ou atriz principal, relativas a obras de longa-metragem, salvo quando expressamente indicadas obras de curta-metragem, nos certames a seguir indicados: | 6 pontos. |  |
 |  | Prémios da Academy of Motion Arts and Sciences (incluindo Melhor Filme em Língua Estrangeira, Longa e Curta-Metragem do caso da animação); |  |  |
 |  | Prémios da Academia Europeia de Cinema;Golden Globes;Emmy Awards Comedy; Drama; Limited or Anthology Series, Movie); |  |  |
@@ -574,13 +616,13 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 |  | ANIMA - Festival International du Film d’Animation de Bruxelles (Competição Internacional - Prémio do Júri e Prémio de Público para Melhor Longa Metragem, Melhor Longa Metragem Infantil; Grande Prémio do Júri e Prémio de Público para Melhor Curta-Metragem);FIPA-Biarritz (FIPA d’Or Series, Drama, Documentaries)(6 pontos). |  |  |
 |  | b) Premiado uma vez com qualquer das distinções indicadas no ponto anterior ou nomeado mais do que uma vez para as mesmas (4 pontos); |  |  |
 |  | c) Premiado pelo menos uma vez, com uma obra de longa-metragem, com o galardão de Melhor Filme ou de Melhor Realizador ou de Melhor Argumento, numa secção oficial competitiva de qualquer festival inscrito nas listas da FIAPF nos cinco anos anteriores ao do pedido de reconhecimento obrigatório (3 pontos). |  |  |
-|  | II - Consagração internacional dos produtores (<sup>7</sup>) (não cumulável com pontuação obtida no ponto I do presente critério):a) Conforme alínea a), supra (4 pontos);b) Conforme alínea b), supra (2 pontos);c) Aos coprodutores minoritários das obras que estejam na base desta pontuação, aplica-se metade dos valores referidos nas alíneas a) e b). |  |  |
+|  | II - Consagração internacional dos produtores (7) (não cumulável com pontuação obtida no ponto I do presente critério):a) Conforme alínea a), supra (4 pontos);b) Conforme alínea b), supra (2 pontos);c) Aos coprodutores minoritários das obras que estejam na base desta pontuação, aplica-se metade dos valores referidos nas alíneas a) e b). |  |  |
 | A2.3 | Música:Presença de música (original, gravada ou reinterpretada) cantada em língua portuguesa, ou de autores de língua portuguesa, relativamente à duração total da componente musical da banda sonora do filme: mínimo de 20 %. | 2 pontos. |  |
 | A2.4 | Promoção da igualdade de género:A obra é realizada por uma mulher (2 pontos);A obra é produzida maioritariamente por mulheres ou a sua produção inclui mais de 40 de mulheres entre os elementos referidos nas rubricas B1.3, B1.4 e B1.5 da secção B1 da presente tabela (1 ponto). | 2 pontos. |  |
 | A2.5 | Sustentabilidade ambiental da produção:A produção em Portugal inclui um plano de sustentabilidade ambiental, efetuado por um consultor especializado (“green shooting consultant”) (1 ponto);Idem, incluindo ainda auditoria ambiental da produção (2 pontos). | 2 pontos. |  |
 | A2.6 | Alcance cultural/internacionalização:A pontuação neste critério é apurada, conforme as especificações constantes da parte II do presente anexo, por um de dois métodos, cabendo ao candidato indicar qual o método pelo qual pretende que o projeto seja avaliado:Método 1 - Potencial de alcance cultural do projeto. | 12 pontos. |  |
-|  | Neste caso, o projeto pontua neste critério em função da exploração internacional assegurada na candidatura, nos termos dos n.<sup>os</sup>4 e seguintes do artigo 5.º do presente Regulamento.Método 2 - Historial recente de internacionalização. |  |  |
-|  | Neste caso, a pontuação do projeto neste critério corresponde à média de duas obras produzidas pelo produtor candidato (<sup>8</sup>), à escolha deste, contando unicamente as obras estreadas ou com primeira difusão nos sete anos civis anteriores ao da candidatura. |  |  |
+|  | Neste caso, o projeto pontua neste critério em função da exploração internacional assegurada na candidatura, nos termos dos n.os4 e seguintes do artigo 5.º do presente Regulamento.Método 2 - Historial recente de internacionalização. |  |  |
+|  | Neste caso, a pontuação do projeto neste critério corresponde à média de duas obras produzidas pelo produtor candidato (8), à escolha deste, contando unicamente as obras estreadas ou com primeira difusão nos sete anos civis anteriores ao da candidatura. |  |  |
 |  | No caso de o candidato ter produzido uma única obra com estreia ou primeira difusão no referido período, a exploração internacional no referido período, a pontuação do projeto neste critério é aferida tendo por base apenas essa obra. |  |  |
 |  | São abrangidas as obras em coprodução das quais o produtor candidato ao Incentivo seja coprodutor minoritário, desde que preenchidos os seguintes requisitos:a) Coproduções com reconhecimento oficial ao abrigo de acordos bilaterais ou convenções multilaterais sobre coprodução de obras cinematográficas ou audiovisuais, ou |  |  |
 |  | b) Coproduções de facto, desde que a participação minoritária do coprodutor candidato ao Incentivo seja igual ou superior a 20 % do custo final da obra. |  |  |
@@ -599,7 +641,7 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 | B1.3 | Argumentista, Autor de adaptação, Autor de diálogos, Compositor, Diretor de Fotografia, Autor do Grafismo e/ou da Pintura dos Personagens (em animação), Autor do Grafismo e/ou da Pintura dos Cenários (em animação), Autor de Layouts (em animação), Autor de Storyboards (em animação) (1 ponto por cada colaborador criativo e/ou técnico-chave, até ao máximo de 3 pontos). | 3 pontos. |  |
 | B1.4 | Diretor de Arte, Diretor de Produção, Diretor de Animação (em animação), Diretor de Atores/Vozes (em animação) (1 ponto por cada colaborador criativo e/ou técnico-chave, até ao máximo de 2 pontos). | 2 pontos. |  |
 | B1.5 | Figurinista, Montador, Maquilhador-Chefe, Primeiro Operador de Câmara, Diretor de Som, Chefe de Guarda-Roupa, Primeiro Assistente do Realizador, Chefe de Unidade, Supervisor de Efeitos Especiais, Autor dos fundos (Animação), Lead Modeler (Animação), Diretor de pesquisa ou perito/Consultor principal (para documentários) (1 ponto por cada colaborador criativo e/ou técnico-chave posição, até ao máximo de 3 pontos) | 3 pontos. |  |
-| B1.6 | Pelo menos 1 ator/atriz em papel principal (<sup>9</sup>)Na animação aplica-se à voz.Pelo menos 2 atores/atrizes em papéis secundários (<sup>10</sup>)Na animação aplica-se à voz | 1 ponto. |  |
+| B1.6 | Pelo menos 1 ator/atriz em papel principal (9)Na animação aplica-se à voz.Pelo menos 2 atores/atrizes em papéis secundários (10)Na animação aplica-se à voz | 1 ponto. |  |
 |  | Subtotal secção B1 | Máximo: 15 pontos. |  |
 |  | Secção B2 - Outros técnicos |  |  |
 | B2.1 | Participação de outros membros das equipas artística e técnica portugueses ou residentes em Portugal ou nacionais ou residentes num Estado-membro da UE ou do EEE.Relativamente à totalidade do pessoal artístico e técnico participante nas atividades de produção realizadas em Portugal, com exceção dos que geraram pontos na secção B1 e dos figurantes, são portugueses ou residentes em Portugal, ou nacionais ou residentes num Estado membro da UE ou do EEE: | 5 pontos. |  |
@@ -614,7 +656,7 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 | C1.3 | De 10 % a 49 %.No caso da animação, entre 10 % e 29 % da animação da obra. | 2 pontos. |  |
 |  | Subtotal C1 | Máximo: 5 pontos. |  |
 |  | Secção C2 - Utilização de Recursos Técnicos-Artísticos em Portugal |  |  |
-| C.2 | Recurso a prestadores de serviços técnicos, nomeadamente aluguer de equipamento de câmara, iluminação, som e maquinaria, bem como efeitos especiais, efeitos visuais, gravação de banda sonora, pós-produção áudio e pós-produção em Portugal: serviços prestados por entidades estabelecidas em Portugal, relativamente à totalidade dos serviços prestados durante a produção em Portugal (<sup>11</sup>) |  |  |
+| C.2 | Recurso a prestadores de serviços técnicos, nomeadamente aluguer de equipamento de câmara, iluminação, som e maquinaria, bem como efeitos especiais, efeitos visuais, gravação de banda sonora, pós-produção áudio e pós-produção em Portugal: serviços prestados por entidades estabelecidas em Portugal, relativamente à totalidade dos serviços prestados durante a produção em Portugal (11) |  |  |
 | C2.1 | Pelo menos 50 % | 5 pontos. |  |
 | C2.2 | De 20 % a 49 % | 4 pontos. |  |
 | C2.3 | De 10 % a 19 % | 2 pontos. |  |
@@ -622,7 +664,7 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 |  | Subtotal parte C | Máximo: 10 pontos. |  |
 |  | Total A + B + C (mínimo necessário: 40 pontos) | Máximo: 81 pontos. |  |
 
-# PARTE II — Especificações relativas à aplicação do critério A2.6 da tabela de análise e classificação
+## PARTE II — Especificações relativas à aplicação do critério A2.6 da tabela de análise e classificação
 
 1 - Para a determinação dos valores de share de audiência ou de mercado de serviços de televisão ou de serviços audiovisuais a pedido por subscrição (cf. Tabelas A e B infra), o ICA, I. P., utiliza dados fornecidos por entidades de referência no domínio da medição de audiências ou de mercados e, com a antecedência possível relativamente à data de abertura de cada fase de candidaturas, torna públicas no seu sítio eletrónico as fontes que utiliza para este efeito, bem como os territórios cobertos por estas.
 
@@ -690,9 +732,9 @@ Tabela A
 
 Serviços de televisão (pontuação por território)
 
-| População do território (em milhões) | ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |
+| População do território (em milhões) | Share médio do serviço de programas no ano anterior |  |  |  |
 | --- | --- | --- | --- | --- |
-| População do território (em milhões) | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior |
+| ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |  |
 | < 20 | 1,5 | 1 | 0,75 | 0,5 |
 | 20 – 50 | 2 | 1,5 | 1 | 0,75 |
 | 51 – 100 | 2,5 | 2 | 1,5 | 1 |
@@ -703,21 +745,21 @@ Tabela B
 
 Serviços audiovisuais a pedido (pontuação por território)
 
-| População do território (em milhões) | Serviços audiovisuais a pedido por subscrição (SVoD) Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD) Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD) Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD) Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços dos tipos AVoD ou TVoD |
+| População do território (em milhões) | Serviços audiovisuais a pedido por subscrição (SVoD) Share médio<br>do serviço no mercado destes serviços, no território<br>em causa, no ano anterior | Serviços dos tipos AVoD ou TVoD |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| População do território (em milhões) | ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % | Serviços dos tipos AVoD ou TVoD |
+| ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |  |  |
 | < 20 | 1,5 | 1 | 0,75 | 0,5 | 0,5 |
 | 20 – 50 | 2 | 1,5 | 1 | 0,75 | 0,75 |
 | 51 – 100 | 2,5 | 2 | 1,5 | 1 | 1 |
 | > 100 | 4 | 2,5 | 2 | 1,5 | 1,5 |
 
-(<sup>1</sup>) Em fase de admissão provisória ao benefício do Incentivo, afere -se pelo número de cenas/páginas do guião em que a ação decorre reconhecidamente nos locais em causa; em fase de apuramento definitivo do Incentivo, pelo número de minutos em que a ação decorre reconhecidamente nos locais em causa.
+(1) Em fase de admissão provisória ao benefício do Incentivo, afere -se pelo número de cenas/páginas do guião em que a ação decorre reconhecidamente nos locais em causa; em fase de apuramento definitivo do Incentivo, pelo número de minutos em que a ação decorre reconhecidamente nos locais em causa.
 
-(<sup>2</sup>) As referências a "Europa" e "europeu" no presente quadro referem-se aos Estados membros da União Europeia (UE) ou do Espaço Económico Europeu (EEE).
+(2) As referências a "Europa" e "europeu" no presente quadro referem-se aos Estados membros da União Europeia (UE) ou do Espaço Económico Europeu (EEE).
 
-(<sup>3</sup>) No caso das obras de animação, este requisito é cumprido se a obra tiver uma versão final dobrada em língua portuguesa.
+(3) No caso das obras de animação, este requisito é cumprido se a obra tiver uma versão final dobrada em língua portuguesa.
 
-(<sup>4</sup>) Afere-se a qualidade de personagem "principal", em fase de admissão provisória ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico:
+(4) Afere-se a qualidade de personagem "principal", em fase de admissão provisória ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico:
 
 a) Número de cenas em que entra, linhas de falas e ações na versão final do guião;
 
@@ -725,20 +767,24 @@ b) Número de minutos em que intervém no filme.
 
 Quer no caso a), quer no caso b), é necessário que o valor encontrado corresponda a pelo menos 40 % do total. No caso de documentários, a "personagem" pode ser uma pessoa real retratada ou participante na obra.
 
-(<sup>5</sup>) Consideram-se obras “relevantes da literatura universal”: as obras de domínio público; as obras de autores galardoados com grandes prémios internacionais e nacionais (designadamente Nobel, Booker, Hans-Christian-Andersen Prémio Europeu de Literatura, Cervantes, Pessoa, Goncourt, Goethe, Femina, Franz Kafka, America Award, Pulitzer); obras e autores que são objeto de estudo académico, e/ou traduzidos em várias línguas e/ou ensinados nas escolas e/ou objeto de receção crítica na imprensa generalista ou em publicações literárias; e obras incluídas no Plano Nacional de Leitura).
+(5) Consideram-se obras “relevantes da literatura universal”: as obras de domínio público; as obras de autores galardoados com grandes prémios internacionais e nacionais (designadamente Nobel, Booker, Hans-Christian-Andersen Prémio Europeu de Literatura, Cervantes, Pessoa, Goncourt, Goethe, Femina, Franz Kafka, America Award, Pulitzer); obras e autores que são objeto de estudo académico, e/ou traduzidos em várias línguas e/ou ensinados nas escolas e/ou objeto de receção crítica na imprensa generalista ou em publicações literárias; e obras incluídas no Plano Nacional de Leitura).
 
-(<sup>6</sup>) Consideram -se emblemáticos os locais, aspetos e personagens que são identificáveis pelo público enquanto símbolos do país e que contribuem para a notoriedade deste no imaginário coletivo internacional. Os locais podem ser paisagens naturais ou urbanas; as próprias cidades ou regiões ou outras localidades; edifícios de qualquer época e tipo (exemplos: Torre de Belém, pontes de Lisboa ou do Porto), especificidades da natureza (exemplo: ondas na Nazaré).
+(6) Consideram -se emblemáticos os locais, aspetos e personagens que são identificáveis pelo público enquanto símbolos do país e que contribuem para a notoriedade deste no imaginário coletivo internacional. Os locais podem ser paisagens naturais ou urbanas; as próprias cidades ou regiões ou outras localidades; edifícios de qualquer época e tipo (exemplos: Torre de Belém, pontes de Lisboa ou do Porto), especificidades da natureza (exemplo: ondas na Nazaré).
 
 Os "aspetos" incluem modos de vida e outras realidades características (exemplos: os carros elétricos amarelos em Lisboa; embarcações típicas ou rituais da fauna pesqueira em determinadas regiões; o fado; a multiculturalidade e outras características da sociedade); figuras do passado ou do presente, de qualquer área ou disciplinam, com elevada notoriedade mundial.
 
-(<sup>7</sup>) Nos casos de produções tituladas por entidades específicas estabelecidas de modo instrumental e temporário para essas produções, nomeadamente sociedades-veículo, AIE (Agrupaciones de Interés Economico), ou outros special purpose vehicles de idêntica finalidade, consideram-se produtores as entidades participantes nessas entidades e que sejam, a título principal e duradouro, empresas produtoras com um catálogo de direitos próprio.
+(7) Nos casos de produções tituladas por entidades específicas estabelecidas de modo instrumental e temporário para essas produções, nomeadamente sociedades-veículo, AIE (Agrupaciones de Interés Economico), ou outros special purpose vehicles de idêntica finalidade, consideram-se produtores as entidades participantes nessas entidades e que sejam, a título principal e duradouro, empresas produtoras com um catálogo de direitos próprio.
 
-(<sup>8</sup>) Nos casos de produções tituladas por entidades específicas estabelecidas de modo instrumental e temporário para essas produções, nomeadamente sociedades-veículo, AIE (Agrupaciones de Interés Economico), ou outros special purpose vehicles de idêntica finalidade, consideram-se produtores as entidades participantes nessas entidades e que sejam, a título principal e duradouro, empresas produtoras com um catálogo de direitos próprio.
+(8) Nos casos de produções tituladas por entidades específicas estabelecidas de modo instrumental e temporário para essas produções, nomeadamente sociedades-veículo, AIE (Agrupaciones de Interés Economico), ou outros special purpose vehicles de idêntica finalidade, consideram-se produtores as entidades participantes nessas entidades e que sejam, a título principal e duradouro, empresas produtoras com um catálogo de direitos próprio.
 
-(<sup>9</sup>) Afere-se, em fase de admissão provisória ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico: a) número de cenas em que entra, linhas de falas e ações na versão final do guião; b) número de minutos em que intervém no filme.
+(9) Afere-se, em fase de admissão provisória ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico: a) número de cenas em que entra, linhas de falas e ações na versão final do guião; b) número de minutos em que intervém no filme.
 
 Quer no caso a), quer no caso b), é necessário que o valor encontrado corresponda a pelo menos 40% do total. No caso de documentários, a "personagem" pode ser uma pessoa real participante na obra.
 
-(<sup>10</sup>) Consideram-se papéis secundários os que impliquem pelo menos 4 sessões de filmagem, devidamente verificáveis nos documentos e contas e com a devida indicação na ficha técnica e genérico do filme. No caso da animação consideram-se papéis secundários os que participam em pelo menos 10 % do tempo total do filme e incluam linhas de fala.
+(10) Consideram-se papéis secundários os que impliquem pelo menos 4 sessões de filmagem, devidamente verificáveis nos documentos e contas e com a devida indicação na ficha técnica e genérico do filme. No caso da animação consideram-se papéis secundários os que participam em pelo menos 10 % do tempo total do filme e incluam linhas de fala.
 
-(<sup>11</sup>) Em custo ou em tempo.
+(11) Em custo ou em tempo.
+
+117541922
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { min-height:19px; } .Tbl12 { min-height:139px; } .Tbl13 { min-height:45px; } .Tbl14 { min-height:101px; } .Tbl15 { min-height:81px; } .Tbl16 { min-height:55px; } .Tbl17 { min-height:29px; } .Tbl18 { min-height:89px; } .Tbl19 { min-height:72px; } .Tbl20 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl21 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl22 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl23 { min-height:28px; } .Tbl24 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl25 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl26 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl27 { min-height:49px; } .Tbl28 { min-height:59px; } .Tbl29 { min-height:53px; } .Tbl30 { min-height:43px; } .Tbl31 { min-height:78px; } .Tbl32 { min-height:57px; } .Tbl33 { min-height:83px; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl37 { min-height:68px; } .Tbl38 { min-height:58px; } .Tbl39 { min-height:47px; } .Tbl40 { min-height:37px; } .Tbl41 { min-height:87px; } .Tbl42 { min-height:61px; } .Tbl43 { min-height:27px; } .Tbl44 { min-height:40px; } .Tbl45 { min-height:71px; } .Tbl46 { min-height:67px; } .Tbl47 { min-height:33px; } .Tbl48 { min-height:66px; } .Tbl49 { min-height:17px; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl54 { margin-top:0px; text-align:center; }

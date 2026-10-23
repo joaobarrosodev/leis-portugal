@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 212/2013, 3º Suplemento, Série I de 2013-11-01
   number: '212'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6334-(8) a 6334-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/21203/0000800008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326-a/2013/11/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-a-2013-263237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 669f577aef7530cb6e08645c474758ae3b3ad10d00571c208dc13a94e0013fd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2c450375e868c7fd362565b13c9183508797f02b167376138f9edb19a8c656d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
 subjects:
 - AEE
 - Financiamento
-- Telecomunicações Espaciais
 - Instituto das Comunicações de Portugal
 - Orçamento
 - Programa Artes
 - Receita
+- Telecomunicações Espaciais
 - Transferência de Verbas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/2001/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/2001/12/07/p/dre
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:49Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +141,4 @@ A presente portaria produz efeitos a partir da data da sua assinatura.
 
 Em 1 de novembro de 2013.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Economia, António de Magalhães Pires de Lima.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Economia, António de Magalhães Pires de Lima.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/671-2000-1283452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:13:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fee214e8c996cab80f0fd81cf5e5911ae8cf588df1ea14af96553029c1ff827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd08a57ae3ed9c7fd522446e821d0e0726ac68e30cbc228786b25de47cc27469
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:13:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Cadastro e Inventário dos BENS do Estado
+- Comissão de Normalização Contabilística da Administração Pública
+- Inventário
+- Património do Estado
+- Plano Oficial de Contabilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:303807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogada, com efeitos a 01.01.2017, pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º 178/2015, Série I
+    de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 42
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:13:01Z'
   warnings: []
   errors: []
 ---
@@ -446,7 +474,7 @@ c) Mapa síntese dos bens inventariados.
 
 1 - O classificador geral do CIBE constitui o anexo I da presente portaria e obedece à seguinte estrutura:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf))](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
 
 2 - Tal estrutura pode ser desagregada, no nível do código do bem, consoante a realidade e exigência de cada serviço.
 
@@ -496,7 +524,7 @@ O mapa síntese dos bens inventariados constitui o elemento que reflecte a varia
 
 1 - A identificação a constar em cada bem corresponde a um código composto por três conjuntos, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf))](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
 
 a) O primeiro conjunto, que diz respeito à nomenclatura da actividade a que o bem se encontra afecto, se aplicável, corresponde ao código da estrutura das actividades constantes do orçamento e plano de actividades dos serviços;
 
@@ -504,7 +532,7 @@ b) O segundo conjunto, correspondente à nomenclatura do classificador geral, é
 
 A classe é constituída pelos primeiros três caracteres numéricos, em que o primeiro assume a natureza do inventário, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf))](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
 
 As classes de cada inventário que compõem o classificador geral vão:
 
@@ -732,4 +760,4 @@ e) No final do contrato, se o locatário exercer a opção de compra e os bens t
 
 1 - Os bens do activo imobilizado de natureza corpórea adquiridos ou produzidos por entidades concessionárias ou por elas utilizados a qualquer título e que nos termos legais sejam reversíveis para o Estado devem seguir as regras estabelecidas nas presentes instruções, em particular as respeitantes ao capítulo VI, "Inventário inicial".
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf))](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/04/091000000/0706807106.pdf)

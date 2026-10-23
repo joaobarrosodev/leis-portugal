@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/227/2010/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b59a444bfbb87d847444d031c074901f850356b78dd285a5180f9e76fd71bb59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26323ad2121107141993c4a3a26bfcd54e554019c7ce3b9af224545db986c595
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Investimento
 - Aquicultura
+- Comércio
+- Financiamento
+- Investimento
+- Pesca
 - Produtos de Pesca
 - Regime de Apoio
 - Regulamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:503059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146210:por
+  label: "Alterado o art. 13º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13 de Junho, na redacção do presente\
+    \ diploma, pela PORT.298/2011.18.11.2011.MAMAOT, DR.IS [222] de 18.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2011-146210
+  date: '2011-11-18'
+- type: amended_by
+  target: pt:dre:1272217:por
+  label: "Determinada a interrupção, na região não abrangida pelo objetivo de convergência no Continente, do período para\
+    \ apresentação de candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13-Jun, na redação\
+    \ da presente portaria, pelo DESP.641/2012.17.01.2012.AGP-MAMAOT, DR.IIS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/641-2012-1272217
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:503059:por
+  label: "Alterado o art. 11º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura, aprovado pela Port. 424-C/2008, de 13-jun, na redação do presente diploma, pela\
+    \ PORT.308/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2013-503059
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 11º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura aprovado pela Port. 424-C/2008 de 13-jun, na redação do presente diploma, pela\
+    \ PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -101,16 +130,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:08Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +210,9 @@ b) ...
 
 c) ...
 
-###### Artigo 11.º — Candidaturas
+Artigo 11.º
+
+Candidaturas
 
 1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).
 
@@ -169,7 +220,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 13.º — Decisão e contratação
+Artigo 13.º
+
+Decisão e contratação
 
 1 - ...
 

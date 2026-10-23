@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/2013/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2013-259268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c615e3e9a1ae12cd6da56bf6be33f4e4888e77281139758944e81110fe60a83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b9e5403ea7d7b00076b4dd0c49efea7fedff0062f12da6e91ae07e6beb837fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Educação
+- Castelo Branco
+- Ensino Artístico
 - Ensino Superior Politécnico
 - Escola Superior de Artes Aplicadas
 - Instituto Politécnico
-- Castelo Branco
 - Regulamento
 relationships:
 - type: cites
@@ -114,16 +114,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1184/2006/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1184/2006/11/02/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:29Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +202,7 @@ O Regulamento anexo à presente portaria aplica-se a partir da candidatura à ma
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 20 de fevereiro de 2013.**
+O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 20 de fevereiro de 2013.
 
 REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM MÚSICA MINISTRADO PELA ESCOLA SUPERIOR DE ARTES APLICADAS DO INSTITUTO POLITÉCNICO DE CASTELO BRANCO.
 

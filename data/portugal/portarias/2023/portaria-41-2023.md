@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02700/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/41/2023/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97e8e44bb45a4c180ee312c9a15789742d73a33abb01ca9a1cca064dbd6b1215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38840b232329b6786f68b78f8e872f68db27d4b7f3ef4309fcaf96422ae34a2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Bebida Alcoólica
-- Instituto da Vinha e do Vinho
 - Açores
+- Bebida Alcoólica
+- Financiamento
+- Instituto da Vinha e do Vinho
 - Produto Vitivinícola
+- Vinha
 - Vinho do Porto
 - Vitivinicultor
-- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:224268569:por
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90/2014/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/2014/04/22/p/dre
+- type: cites
+  target: pt:dre:105323791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224268569:por
+  label: Revogada, a partir de 16.11.2023, pelo(a) Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15
+    nos termos do art. 26.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-2023-224268569
+  date: '2023-11-15'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:07Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +160,9 @@ Os artigos 1.º e 3.º da [Portaria n.º 90/2014](https://diariodarepublica.pt/d
 
 A presente portaria estabelece o regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -158,4 +178,6 @@ b) [...]
 
 2 - A presente portaria produz efeitos a partir da vigência da Portaria n.º 22-A/2023, de 9 de janeiro, das Secretarias Regionais das Finanças e de Agricultura e Desenvolvimento Rural da Região Autónoma da Madeira.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 2 de fevereiro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 2 de fevereiro de 2023.
+
+116135479

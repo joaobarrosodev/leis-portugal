@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 3/2013, 1º Suplemento, Série I de 2013-01-04
   number: '3'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 36-(2) a 36-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00301/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3-a/2013/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2013-249068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 475b8b2e948f1685ce3be17ee281135d725d98f474f8ad6c593198f99c8c4123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c4aafcbd368fa697313a9d9ddbd0721693032a6b34d16b94fb925b7ef6ede0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Ajuda Comunitária
-- Financiamento
-- Instituto do Emprego e Formação Profissional
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
-- Instituto de Informática
-- TAXA Social Unica
-- Criação de Emprego
-- Mercado de Emprego
 - Emprego
+- Financiamento
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
+- Pequenas e Médias Empresas
+- Política de Emprego
 - Programa de Emprego
 - Promoção de Emprego
-- Política de Emprego
 - Reembolso
-- Pequenas e Médias Empresas
+- TAXA Social Unica
 relationships:
 - type: amended_by
   target: pt:dre:546030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259265:por
+  label: "Alterados os art.s 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º , e republicada pela PORT.97/2013.04.03.2013.MSSSOC,\
+    \ DR.IS [44] de 04.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2013-259265
+  date: '2013-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
   label: null
@@ -119,16 +125,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2012/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2012/04/20/p/dre
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546030:por
+  label: "Revogada, a partir de 19.07.2013, o presente diploma, alterado e republicado pela Port 97/2013 de 04-mar, pela PORT.204-A/2013.18.06.2013.MEE,\
+    \ DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma, nos termos do disposto no nº 2\
+    \ do seu art. 13º, as remissões legais ou regulamentares efetuadas para o presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-a-2013-546030
+  date: '2013-06-18'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:39Z'
   warnings: []
   errors: []
 ---
@@ -283,4 +328,4 @@ A Medida inclui financiamento comunitário, sendo-lhe aplicáveis as respetivas 
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 27 de dezembro de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 27 de dezembro de 2012.

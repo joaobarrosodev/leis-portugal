@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/174/2012/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2012-177807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cbd91fb6178515a11cc6bab8d7db82b1cda5752a3b210164a710dc8ba408131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b067671c9ac1ac6819f7a6370a4e664e895eeef5d4d4790875a3529c6d40ba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
 - Definição de Competências
+- Inspeção Geral de Finanças
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1294-b/2007/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1294-b/2007/09/28/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:38Z'
   warnings: []
   errors: []
 ---
@@ -182,4 +206,4 @@ c) [Portaria n.º 1294-B/2007](https://diariodarepublica.pt/dr/detalhe/portaria/
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de maio de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de maio de 2012.

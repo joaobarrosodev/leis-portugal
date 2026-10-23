@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/04800/0179101795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/60/2014/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-2014-572427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a46041b77d929c8bab7459ed616275c463f95d29f4261c2cba2c5c98e1024097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6684a91220e27656ef05f17b41aa8cccee83e66d7542ab248ae1fa7267ae15f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Exército
-- Plano de Estudos
 - Curso de Formação de Sargentos
 - Escola de Sargentos do Exército
-- Forças Armadas
-- Qualificação Profissional
 - Estágio de Formação
+- Exército
+- Forças Armadas
+- Formação Profissional
+- Plano de Estudos
+- Qualificação Profissional
 - Sargento
 relationships:
 - type: cites
@@ -112,16 +112,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/124/1996/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/124/1996/04/19/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124392066:por
+  label: Revogada, com efeitos a partir do início do ano letivo 2020/2021, pelo(a) Portaria n.º 288/2019 - Diário da República
+    n.º 168/2019, Série I de 2019-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2019-124392066
+  date: '2019-09-03'
 article_structure:
   article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:48Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +194,7 @@ Na parte em que contrariem o disposto no presente Regulamento, consideram-se rev
 
 2 - O Regulamento em anexo aplica-se a partir do ano letivo 2013-2014, inclusive.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 25 de fevereiro de 2014.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 25 de fevereiro de 2014.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

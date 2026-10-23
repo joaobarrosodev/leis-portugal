@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 145/2023, 1º Suplemento, Série I de 2023-07-27
   number: '145'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 35-(5) a 35-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14501/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/236-b/2023/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-b-2023-216323590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cab126886dc604b4605814d09bf16f2120ebebbea6686abd962969ac50861a5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ddcf74b0ad17172362355af4c4c57e4d42f628f96d315c713459786c3f78a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
-- Pagamento
-- IFAP
-- Exploração Agrícola
-- Página na Internet
-- Diversidade Biológica
 - Agricultor
-- Produção Agrícola
-- Regime de Apoio
-- Regulamento CE
-- Região Desfavorecida
 - Agricultura
-- PDR 2020
+- Atividade Agrícola
+- Desenvolvimento Rural
+- Diversidade Biológica
+- Exploração Agrícola
+- Financiamento
+- IFAP
 - Medida N.º 9 Manutenção da Atividade Agrícola em Zonas Desfavorecidas
+- Pagamento
+- Página na Internet
+- PDR 2020
+- Produção Agrícola
+- Programa de Desenvolvimento Rural
+- Região Desfavorecida
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32013R1307
@@ -134,16 +134,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/6/2019/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/6/2019/01/04/p/dre
+- type: cites
+  target: pt:dre:105643559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117575761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124952006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66442956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70748599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:03Z'
   warnings: []
   errors: []
 ---
@@ -186,12 +242,18 @@ a) Detenham marca de exploração própria localizada nos concelhos ou concelhos
 
 b) Estejam associados à marca de exploração do baldio.
 
-## ANEXO I — [...]
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14501/0000500006.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14501/0000500006.pdf)
+[...]
 
-###### Artigo 3.º — Entrada em vigor e produção de efeitos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14501/0000500006.pdf)
+
+Artigo 3.º
+
+Entrada em vigor e produção de efeitos
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2023.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 27 de julho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 27 de julho de 2023.
+
+116723539

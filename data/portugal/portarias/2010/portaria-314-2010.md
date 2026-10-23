@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/2010/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-2010-335414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 757be59a0370b913677782e40a8a147982f2aabb3f7ba2966bcd00db83be0073
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9af1c80c40acfc1df09a9a7cc398d141db61ba635804d3ba31a51d694b7d4cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Coordenação e Desenvolvimento Regional
-- Publicitação
-- Página na Internet
 - Ministério do Ambiente e do Ordenamento do Território
+- Página na Internet
+- Publicitação
 - TAXA de Prestação de Serviços
 relationships:
 - type: cites
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/393/2004/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/393/2004/04/16/p/dre
+- type: cites
+  target: pt:dre:223825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:38Z'
   warnings: []
   errors: []
 ---
@@ -194,8 +206,8 @@ As taxas devidas em virtude de prestações realizadas pelas CCDR especificament
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 2 de Junho de 2010.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 2 de Junho de 2010.
 
 ## ANEXO — Tabela de taxas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201102013.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201102013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201102013.pdf)

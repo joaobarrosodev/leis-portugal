@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/06700/0171901720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/2012/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-2012-554388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eb4fc67365b9bf5c33c32ec32bd939151457919e5e0f3f81f3a55e96205d15f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a345d38580a57c307eb52832c5618d7641fd5a7806da268c1dcf7a4854d4c84d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho Consultivo dos Antigos Combatentes
 - Conselho Consultivo para os Assuntos dos Deficientes das Forças Armadas
-- Direcção Geral de Pessoal e Recrutamento Militar
 - Definição de Competências
+- Direcção Geral de Pessoal e Recrutamento Militar
 - Diretor Geral
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/6/2012/01/18/p/dre
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:544417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70297424:por
+  label: Revogada pelo(a) Portaria n.º 283/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-2015-70297424
+  date: '2015-09-15'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:30Z'
   warnings: []
   errors: []
 ---
@@ -239,4 +252,4 @@ O número máximo de unidades orgânicas flexíveis da DGPRM é fixado em 6.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 24 de fevereiro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 24 de fevereiro de 2012.

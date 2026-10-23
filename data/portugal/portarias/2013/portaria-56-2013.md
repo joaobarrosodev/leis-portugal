@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02700/0075000753.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56/2013/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-2013-258099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac4b439d3c6572edab7e65e0a0694d318918203ef2b00d3ccd8db8177ac7a157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f4e1d7fb914707c7b3b9e219a3a5052d928c034cb3df963f9e2cab6ae6f62a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Artístico
-- Licenciatura
-- Universidade
-- Regulamento
 - Ensino Superior
 - Évora
-- Teatro
+- Licenciatura
 - Matrícula
+- Regulamento
+- Teatro
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147-a/2006/07/31/p/dre
@@ -111,16 +111,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25344758:por
+  label: "Revogada, a partir de 13.04.2014, pela PORT.79/2014.08.04.2014.MECI, DR.IS [69] de 08.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-2014-25344758
+  date: '2014-04-08'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:16Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +204,7 @@ O Regulamento anexo à presente portaria aplica-se a partir da candidatura à ma
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 22 de janeiro de 2013.**
+O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 22 de janeiro de 2013.
 
 REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM TEATRO DA UNIVERSIDADE DE ÉVORA.
 

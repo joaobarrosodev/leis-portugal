@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/2012/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2012-179566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7d8cd002d5b2b82d7c19978a055e9a7451e87139803aca62171b4a811b5b7a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 453737d2b3c3ed76c992ca223258d8a5226678102bec5adeeabad8cba3485ff8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
 - Avis
 - Chamusca
-- Recursos Hídricos
 - Gavião
 - Nisa
-- Zona de Proteção
 - Ponte de Sor
 - Portalegre
-- Águas Subterrâneas
-- Abastecimento de Água
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:504572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70186242:por
+  label: Aprovada, a partir de 05.09.2015, a delimitação do perímetro de proteção da captação designada por CBR1 do polo de
+    captação de Falagueira/Monte Claro e revogadas as zonas de proteção das captações F1 e F2 do referido polo constantes
+    dos anexos II, III e IV do presente diploma, na redação da Port 328/2013 de 06-nov, pelo(a) Portaria n.º 271/2015 - Diário
+    da República n.º 173/2015, Série I de 2015-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2015-70186242
+  date: '2015-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
   label: null
@@ -93,16 +101,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504572:por
+  label: "Revogadas as zonas do perímetro de proteção à captação P1 do polo de captação de Vilar da Mó constantes dos anexos\
+    \ II, III e IV do presente diploma pela PORT.328/2013.06.11.2013.MAOTE, DR.IS [215] de 06.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-2013-504572
+  date: '2013-11-06'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:51Z'
   warnings: []
   errors: []
 ---
@@ -259,13 +285,13 @@ As zonas de proteção intermédia e alargada, respeitantes aos perímetros de p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 30 de maio de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 30 de maio de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -275,95 +301,95 @@ Polo de captação de Olhos de Água
 
 Captações JK3, JK4, JK5 e RA6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Vale de Vilão
 
 Captação TD1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Velada
 
 Captação RA1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Vilar da Mó
 
 Captação P1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Assumar
 
 Captação F1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Chão da Velha
 
 Captação RA2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Amieira do Tejo
 
 Captação RA4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Foros do Arrão
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Falagueira/Monte Claro
 
 Captação RA1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação F1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Aldeia Velha
 
 Captações PMN e F2a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Ervedal
 
 Captação PA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação FFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Figueira e Barros
 
 Captação FT4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Maranhão
 
 Captação FT4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -373,7 +399,7 @@ Polo de captação de Olhos de Água
 
 Captações JK3, JK4, JK5 e RA6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Vale de Vilão
 
@@ -387,17 +413,17 @@ Polo de captação de Vilar da Mó
 
 Captação P1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Assumar
 
 Captação F1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Chão da Velha
 
@@ -411,7 +437,7 @@ Polo de captação de Foros do Arrão
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Falagueira/Monte Claro
 
@@ -419,33 +445,33 @@ O perímetro de proteção da captação RA1 não inclui a zona de proteção in
 
 Captação F1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Aldeia Velha
 
 Captações PMN e F2a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Ervedal
 
 Captação PA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação FFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Figueira e Barros
 
 Captação FT4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Maranhão
 
@@ -459,7 +485,7 @@ Polo de captação de Olhos de Água
 
 Captações JK3, JK4, JK6 e RA6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Vale de Vilão
 
@@ -473,13 +499,13 @@ Polo de captação de Vilar da Mó
 
 Captação P1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Assumar
 
 Captações F1 e F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Chão da Velha
 
@@ -493,7 +519,7 @@ Polo de captação de Foros do Arrão
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Falagueira/Monte Claro
 
@@ -501,29 +527,29 @@ O perímetro de proteção da captação RA1 não inclui a zona de proteção al
 
 Captações F1 e F2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Aldeia Velha
 
 Captações PMN e F2a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Ervedal
 
 Captação PA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Captação FFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Figueira e Barros
 
 Captação FT4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Maranhão
 
@@ -541,32 +567,32 @@ Extrato da Carta Militar de Portugal - Série M888
 
 Polo de captação de Olhos de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Vilar da Mó
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Assumar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Foros do Arrão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Falagueira/Monte Claro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Aldeia Velha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Ervedal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
 
 Polo de captação de Figueira e Barros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13100/0356403574.pdf)

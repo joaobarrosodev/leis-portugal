@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/2010/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-2010-459928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51c76561c7c61b374bfe0d8668d704221bc0a6bb0da8e1afa8fdb19a9ff696e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b71b45b3d4029506943d9162ed6c100fcb0012001f8cdf9d883df90a9b55e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:309300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309300:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 544/94, de 09-Jul, alterada pelo presente diploma,\
+    \ pela PORT.1128/2010.02.11.2010.MADRP, DR.IS [212] de 02.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1128-2010-309300
+  date: '2010-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/360/2003/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/360/2003/05/02/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:40Z'
   warnings: []
   errors: []
 ---

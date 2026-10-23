@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/201/2013/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/201-2013-513624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 190bc39ef2cc655604b26e35a98c879f535c609595f3a9140272ba7a7b74a58b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26002b76bead79bc2b5b00af47659315dff1f2cf36f5795e13e29566584645f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Armazenagem
 - Auditoria
-- Transporte Marítimo
 - Definição de Competências
-- Fiscalização
 - Entidade Reguladora dos Serviços Energéticos
+- Fiscalização
 - Regulamento
 - Terminal de Carga
 - Transporte
 - Transporte de Energia
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:31998L0034
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:06Z'
   warnings: []
   errors: []
 ---
@@ -157,4 +157,4 @@ Operações de expedição e carga de navios metaneiros
 
 2 - A presente portaria é objeto de reapreciação no prazo de três anos após a sua entrada em vigor.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 27 de maio de 2013.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 27 de maio de 2013.

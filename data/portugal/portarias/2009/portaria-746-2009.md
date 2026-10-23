@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/746/2009/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/746-2009-492411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c81d895655a48fc2cd6aabbaaa7d03cdf282986173cce2e7abd141691e79d3c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ebc1f2d1c27e7a9b94a749d4852d7c5fb92e82993ab87080e3391c0ee5c82c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Atividade Bancária
+- Banca
 - Caixa Central de Crédito Àgrícola Mútuo
 - Capital Social
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 relationships:
 - type: amended_by
   target: pt:dre:504130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504130:por
+  label: "Dada nova ao nº 1º da Port 95/94 de 09-fev, alterado pelo presente diploma, pela PORT.335/2013.15.11.2013.MF, DR.IS\
+    \ [222] de 15.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-2013-504130
+  date: '2013-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -117,16 +123,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/95/1994/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/95/1994/02/09/p/dre
+- type: cites
+  target: pt:dre:186546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660077:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:03Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +233,4 @@ Considerando a recente alteração ao regime jurídico do crédito agrícola mú
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 17 de Junho de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Julho de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Julho de 2009.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/829/2009/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/829-2009-493193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbd99375498352b0346e3ab108efb49d872a8e03c4846b4032dbe2519eb0fafd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df63b9524ac868dfb3cb5fee8d5da4e161f2d83a0553ec7d63a7e3b312f885f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Coletivo de Trabalho
-- Indústria Cervejeira
 - Condições de Higiene e Segurança no Trabalho
-- Regulamento de Extensão
+- Contrato Coletivo de Trabalho
 - Indústria Alimentar
+- Indústria Cervejeira
+- Regulamento de Extensão
 - Remuneração
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:32Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +119,4 @@ As condições de trabalho constantes do ACT entre a UNICER - Bebidas de Portuga
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, 23 de Julho de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, 23 de Julho de 2009.

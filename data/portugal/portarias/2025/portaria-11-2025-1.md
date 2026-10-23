@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/2025/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-2025-903162171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e88d6ec0317f8bdf85d75e7d7c3f7b64308cfa9787cee11326e616be5d6cd15d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6adb606dca29f73c39a6269301d8aff1f1138f5908b0dc45adbe7029f75731b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Formação Profissional
+- Avaliação de Conhecimentos
 - Concurso
 - Curso de Formação de Agentes da Polícia de Segurança Pública
 - Definição de Competências
 - Documentação
 - Exame
 - Exame Psicológico
+- Formação Profissional
 - Formulário Eletrónico
-- Recrutamento de Pessoal
 - Prazo
-- Avaliação de Conhecimentos
+- PSP
+- Recrutamento de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:portaria:143/2022
+  label: Repristina, a partir de 15 de janeiro de 2025, a Portaria n.º 143/2022, de 11 de maio, Diário da República n.º 91/2022,
+    Série I
+  source: null
+  date: '2022-05-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/243/2015/10/19/p/dre
   label: null
@@ -98,16 +104,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/2/2025/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/2/2025/01/02/p/dre
+- type: cites
+  target: pt:dre:183313983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901693815:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:2/2025
+  label: Revoga, com efeitos a partir de 3 de janeiro de 2025, a Portaria n.º 2/2025/1, de 2 de janeiro, Diário da República
+    n.º 1/2025, Série I
+  source: null
+  date: '2025-01-02'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:49Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +154,7 @@ A referida [Portaria n.º 2/2025/1](https://diariodarepublica.pt/dr/detalhe/port
 
 Neste contexto, cumprindo agora ouvir as associações sindicais, quanto aos princípios do regime de recrutamento e seleção, importa proceder à revogação da [Portaria n.º 2/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/2-2025-901693815), de 2 de janeiro, com produção de efeitos à data da sua entrada em vigor, e repristinar a [Portaria n.º 143/2022](https://diariodarepublica.pt/dr/detalhe/portaria/143-2022-183313983), de 11 de maio.
 
-Assim, ao abrigo do disposto nos artigos 144.º, n.<sup>os</sup>1, parte final, 2 e 3, do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e 70.º do [Decreto-Lei n.º 243/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2015-70737912), de 19 de outubro, manda o Governo, pela Ministra da Administração Interna, o seguinte:
+Assim, ao abrigo do disposto nos artigos 144.º, n.os1, parte final, 2 e 3, do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e 70.º do [Decreto-Lei n.º 243/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2015-70737912), de 19 de outubro, manda o Governo, pela Ministra da Administração Interna, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -136,4 +168,6 @@ A presente portaria procede à revogação da [Portaria n.º 2/2025/1](https://d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Administração Interna, Margarida Blasco, em 9 de janeiro de 2025.**
+A Ministra da Administração Interna, Margarida Blasco, em 9 de janeiro de 2025.
+
+118554488

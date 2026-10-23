@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18900/0545605457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/294/2012/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/294-2012-175539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 127c052e148b9856dc255632b21e996a7bedad4e26363e51d0a2705de985d125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 060c0f6d3002b6fd9a05b7716a83eee49d45894b5e3d6e6af39fad8d0e40150e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Definição de Competências
 - Estatuto
 - Ministério da Economia e do Emprego
-- Ministério das Finanças
 - Ministério da Educação e Ciência
+- Ministério das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:122446606:por
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:543022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122446606:por
+  label: Revogada, a partir de 31.05.2019, pelo(a) Portaria n.º 168/2019 - Diário da República n.º 104/2019, Série I de 2019-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-2019-122446606
+  date: '2019-05-30'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:24Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +133,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 25 de setembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 13 de setembro de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 12 de setembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 25 de setembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 13 de setembro de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 12 de setembro de 2012.
 
 ## ANEXO — ESTATUTOS DA AGÊNCIA NACIONAL PARA A QUALIFICAÇÃO E O ENSINO PROFISSIONAL, I. P.
 

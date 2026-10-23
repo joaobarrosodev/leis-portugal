@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15400/0000300012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2022/08/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78eaaa4a16ddc69c2b6144ed68efba06b856315a0b0a9c26f91b5aa510fce0b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b32088a6965d1455e3622d31afc3afb4b994cddb5b5f04f3f92761cbcdbdf751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
+- Arrendamento Urbano para Habitação
 - Contrato de Compra e Venda
 - Definição de Competências
+- Direito à Habitação
 - Direito de Preferência
+- Habitação
 - IHM
+- Madeira.região Autónoma
 - Política de Habitação
+- PRAHABITAR
 - Prazo
 - Programa
-- Madeira.região Autónoma
-- Habitação
-- Arrendamento Urbano para Habitação
 - Subsídio não Reembolsável
-- Direito à Habitação
-- PRAHABITAR
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2020/07/28/m/dre
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:138963714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
+  article_count: 34
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:37Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +156,9 @@ Os artigos 2.º, 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 19.º, 20.º, 22.º e 23.�
 
 3 - O apoio ao arrendamento de habitação, relativo a contratos em vigor celebrados entre senhorios e arrendatários sem indicação da IHM, EPERAM, obedece em especial às normas previstas no capítulo iii do presente diploma, para além das demais disposições aplicáveis.
 
-###### Artigo 3.º — Beneficiários do apoio à aquisição
+Artigo 3.º
+
+Beneficiários do apoio à aquisição
 
 1 - Podem beneficiar do apoio à aquisição de fogos os agregados familiares:
 
@@ -166,7 +184,9 @@ c) Referentes à compra de fogo por valores ou com tipologia superiores às fixa
 
 5 - Não serão aceites contratos-promessa que constituam renegociações de outros com identidade de objeto e de partes outorgantes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -178,11 +198,15 @@ c) Referentes à compra de fogo por valores ou com tipologia superiores às fixa
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 (Anterior n.º 2.)
 
-###### Artigo 8.º — Contrato-promessa e contrato de compra e venda
+Artigo 8.º
+
+Contrato-promessa e contrato de compra e venda
 
 1 - O contrato-promessa a celebrar e o contrato final que formalizará a compra e venda apoiada ao abrigo do presente diploma deverão fazer menção expressa ao mesmo e à portaria que o vai regulamentar.
 
@@ -194,7 +218,9 @@ c) Referentes à compra de fogo por valores ou com tipologia superiores às fixa
 
 5 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Durante o prazo de sete anos a contar da data da compra do fogo, com apoio concedido ao abrigo do presente diploma, o mesmo não poderá ser alienado inter vivos.
 
@@ -204,11 +230,15 @@ c) Referentes à compra de fogo por valores ou com tipologia superiores às fixa
 
 4 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Durante os primeiros 20 anos a contar da data da aquisição, a IHM, EPERAM, goza de direito de preferência na alienação onerosa, voluntária ou coerciva, do imóvel adquirido ao abrigo do presente diploma.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -222,7 +252,9 @@ b) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulá
 
 4 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -236,7 +268,9 @@ b) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulá
 
 6 - Não serão aceites contratos de arrendamento que constituam renegociações de rendas de anterior contrato com o mesmo objeto e que impliquem aumento do valor do apoio a conceder.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Decorrida a duração inicial do apoio referida no n.º 3 do artigo 20.º, a IHM, EPERAM, procederá à reavaliação dos pressupostos da concessão do apoio a requerimento do beneficiário.
 
@@ -244,7 +278,9 @@ b) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulá
 
 3 - O resultado da avaliação dos pressupostos de concessão do apoio é comunicado por escrito ao beneficiário e os seus efeitos produzir-se-ão no mês seguinte ao da comunicação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - (Anterior n.º 3.)
 
@@ -288,11 +324,11 @@ O [Decreto Legislativo Regional n.º 10/2020/M](https://diariodarepublica.pt/dr/
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 1 de agosto de 2022.**
+Assinado em 1 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -509,3 +545,5 @@ A execução do presente diploma é definida por portaria conjunta dos membros d
 ###### Artigo 29.º — Entrada em vigor e período de vigência
 
 O presente diploma entra em vigor na data da publicação da portaria referida no artigo anterior e vigora até 31 de dezembro de 2030, sem prejuízo da continuação da sua aplicação a propostas que sejam apresentadas na IHM, EPERAM, até ao final da sua vigência.
+
+115578101

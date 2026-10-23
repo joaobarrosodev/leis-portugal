@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216/2012/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-2012-179527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff1e39c183983c935c54527c7f4ad9727f2e7affbe738aa87ee7dc6eca00080f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c91a21c1860d02d8d5a444e81914a7364516f171b54501bafab3cd0b9130fe49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Jogos de Fortuna e Azar
-- Contrato
-- Lisboa
-- Mediador dos Jogos Sociais do Estado
-- Regulamento dos Mediadores dos Jogos Sociais do Estado
 - Apostas Mútuas Desportivas
+- Contrato
+- Crime
+- Departamento de Jogos
+- Jogos de Fortuna e Azar
+- Lisboa
+- Lotaria Nacional
+- Mediador dos Jogos Sociais do Estado
+- Regulamento
+- Regulamento dos Mediadores dos Jogos Sociais do Estado
+- Remuneração
 - Santa Casa da Misericórdia
 - Serviço de Mediação
-- Regulamento
-- Lotaria Nacional
-- Remuneração
-- Departamento de Jogos
 relationships:
 - type: amended_by
   target: pt:dre:107761912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259421:por
+  label: "Alterado o art. 8.º do Regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Port 313/2004, de 23-mar,\
+    \ na redação da presente portaria, pela PORT.112/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/112-2013-259421
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:107761912:por
+  label: Alterados os arts. 6.º, 7.º e 10.º do Regulamento dos Mediadores dos Jogos Sociais do Estado aprovado pela Port 313/2004,
+    de 23-mar, na versão republicada pelo presente diploma pelo(a) Portaria n.º 232/2017 - Diário da República n.º 144/2017,
+    Série I de 2017-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2017-107761912
+  date: '2017-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -96,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/313/2004/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/313/2004/03/23/p/dre
+- type: cites
+  target: pt:dre:209625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:53Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +169,7 @@ Os artigos 1.º, 2.º, 3.º, 6.º, 7.º, 8.º, 9.º e 10.º do Regulamento dos M
 
 5 - ...
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - A autorização para o exercício da atividade de mediador dos jogos da Santa Casa tem natureza administrativa, sendo concedida por escrito pelo DJSCML, devendo identificar os jogos por ela abrangidos, o meio pelo qual desenvolve a mediação e estabelecer os objetivos a serem atingidos pelo mediador em determinado prazo, bem como a possibilidade de a autorização ser revogada, caso os mesmos não sejam conseguidos.
 
@@ -156,7 +181,7 @@ Os artigos 1.º, 2.º, 3.º, 6.º, 7.º, 8.º, 9.º e 10.º do Regulamento dos M
 
 5 - O DJSCML definirá os critérios, regras e procedimentos a que obedecerá a seleção dos mediadores, os quais serão vinculativos e tornados públicos em, pelo menos, dois jornais de circulação nacional.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Os requisitos mínimos para exercer a atividade de mediador afeta a um estabelecimento comercial são os seguintes:
 
@@ -188,7 +213,7 @@ b) Ter um computador de uso exclusivo por parte dos jogadores para acesso ao sí
 
 c) Ter uma impressora com as características indicadas pelo DJSCML.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -214,7 +239,7 @@ f) Disponibilizar gratuitamente o acesso dos jogadores ao sítio da Internet www
 
 6 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -274,7 +299,7 @@ e)...
 
 11 - Os mediadores são igualmente responsáveis pelo licenciamento dos elementos de identificação exteriores e respetivos encargos.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -284,7 +309,7 @@ e)...
 
 4 - ...
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - ...
 
@@ -300,7 +325,7 @@ e)...
 
 7 - ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - A atividade de mediação pode extinguir-se por iniciativa dos mediadores ou por decisão do DJSCML, verificando-se qualquer das seguintes situações:
 
@@ -364,7 +389,7 @@ j) Cobrança aos jogadores de qualquer quantia para além da remuneração a que
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 27 de junho de 2012.**
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 27 de junho de 2012.
 
 ## ANEXO — Regulamento dos Mediadores dos Jogos Sociais do Estado
 

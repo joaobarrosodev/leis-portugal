@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/416/2023/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-2023-225397120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9622977e815b8f8988f874fcd264a1cc18d8a13c7920835e1a98a4189d4272f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8dc9d140f2a8d6d7a6e24aa3d215f5ffb3339245372ba2cbaebfbc483ada0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,38 @@ reuse:
 subjects:
 - Água
 - Água Mineral
+- Águas Subterrâneas
 - Amares
 - Recursos Hídricos
-- Zona de Proteção
-- Águas Subterrâneas
 - VILA Verde
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:09Z'
   warnings: []
   errors: []
 ---
@@ -128,13 +140,14 @@ c) «Zona alargada», delimitada pelo polígono 11-12-13-14-15-16, cujos vértic
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 29 de novembro de 2023.**
+A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 29 de novembro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Base cartográfica do Centro de Informação Geoespacial do Exército
 
-![](https://files.diariodarepublica.pt/images/225397120/225392914.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/225397120/225392914.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -142,9 +155,9 @@ TABELA I
 
 Coordenadas do vértice da zona imediata
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | -19781 | 222101 |
 | 2... | -19781 | 221995 |
 | 3... | -19627 | 221995 |
@@ -154,9 +167,9 @@ TABELA II
 
 Coordenadas dos vértices da zona intermédia
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | 5... | -20406 | 222388 |
 | 6... | -19993 | 221333 |
 | 7... | -18899 | 221036 |
@@ -168,12 +181,16 @@ TABELA III
 
 Coordenadas dos vértices da zona alargada
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | 11... | -21854 | 221998 |
 | 12... | -21442 | 221032 |
 | 13... | -18752 | 220880 |
 | 14... | -16513 | 222773 |
 | 15... | -18256 | 224004 |
 | 16... | -20177 | 224162 |
+
+117127891
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

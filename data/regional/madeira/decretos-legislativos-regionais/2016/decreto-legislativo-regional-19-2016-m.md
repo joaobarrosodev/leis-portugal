@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07700/0134801351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2016/04/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2016-74216974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c97cdea6b0b0838ba271231decaf36626a9e794076a720edb1019e61054694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f80ccaaf2b1c6bef4b855bb27cd12430000ec7d57bc41e4b59f74e2896178538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA Submarina
-- Turismo
-- Multa
-- Direcção Regional das Pescas
 - Contra-ordenação
 - Definição de Competências
+- Direcção Regional das Pescas
 - Fiscalização
-- Pesca
 - Gestão dos Recursos
 - Licenciamento
-- Recursos do Mar
-- Pesca Desportiva
 - Madeira.região Autónoma
+- Multa
+- Pesca
+- Pesca Desportiva
+- Recursos do Mar
 - Recursos Naturais
 - Taxa
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2013/07/25/p/dre
@@ -122,16 +122,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650156:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:59Z'
   warnings: []
   errors: []
 ---
@@ -396,10 +440,10 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de março de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 7 de abril de 2016.**
+Assinado em 7 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

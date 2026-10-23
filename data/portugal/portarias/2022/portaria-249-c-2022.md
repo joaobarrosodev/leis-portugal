@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 191/2022, 1º Suplemento, Série I de 2022-10-03
   number: '191'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19101/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249-c/2022/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-c-2022-201751346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28667aa5cbb662f70bc5ba8a9d1c8aa2e30274056fc5ff03c2581422fc34a0bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9578f75ca337e30d9359fe444edc246ca84b391cfb4fa4cdc409df603309c64d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
-- Política Energética
-- Produto Petrolífero
 - Combustível
 - Fixação de Preços
 - Gasóleo
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Política Energética
 - Preço
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: cites
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
+- type: cites
+  target: pt:dre:117114258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184435188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184889254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185229613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200525834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:50Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +191,6 @@ A presente portaria entra em vigor no dia 4 de outubro de 2022 e produz efeitos 
 
 Em 30 de setembro de 2022.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.
+
+115743893

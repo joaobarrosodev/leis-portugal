@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15000/0001000029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/39/2023/08/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53e6eb497c38f1ca48a16330741cc827581ca42183e568ce75af5ed7dfefba65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3309ef49fb56ea722c91d61f38c7019348a671772d6e9ec753b5f52556973eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Centro de Coordenação Operacional
-- Governo Regional
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Presidente do Governo Regional
-- Plano de Emergência
-- Madeira.região Autónoma
-- Siops
 - Autarquia Local
 - Autoridade Nacional de Emergência e Proteção Civil
+- Centro de Coordenação Operacional
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Plano de Emergência
+- Presidente do Governo Regional
+- Proteção Civil
+- Regulamentação de Atos Legislativos
+- Siops
 relationships:
 - type: cites
   target: celex:32013D1313
@@ -122,16 +122,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
+- type: cites
+  target: pt:dre:116108111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117726476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121748966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125074536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159219302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
+  article_count: 52
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:48Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +256,9 @@ Os artigos 1.º, 3.º, 11.º, 12.º, 13.º, 17.º, 18.º, 20.º, 21.º, 24.º, 2
 
 2 - O Sistema de Proteção Civil da Região Autónoma da Madeira é instituído em função das necessidades de proteção civil da Região e desenvolve-se em obediência aos princípios estabelecidos pela Lei de Bases de Proteção Civil, pelo Sistema Integrado de Operações de Proteção e Socorro (SIOPS), pela [Lei n.º 65/2007](https://diariodarepublica.pt/dr/detalhe/lei/65-2007-629393), de 12 de novembro, na sua redação atual, pelo Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População, instituído pelo [Decreto-Lei n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2019-117726476), de 11 de janeiro, e pelo disposto no presente diploma.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -198,7 +276,9 @@ e) [...]
 
 f) Ativar, após a declaração da situação de alerta, para a totalidade do território da Região Autónoma da Madeira ou com o âmbito circunscrito a uma parcela desse território e desativar planos de emergência de proteção civil de âmbito regional.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -232,7 +312,9 @@ m) Difundir os comunicados oficiais que se mostrem adequados às situações pre
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -260,7 +342,9 @@ k) [Anterior alínea j).]
 
 2 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]
 
@@ -288,7 +372,9 @@ k) Um representante das juntas de freguesia a designar pela assembleia municipal
 
 l) [Anterior alínea j).]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -320,13 +406,17 @@ h) Organizações de voluntariado de proteção civil.
 
 7 - As entidades referidas nas alíneas a) a g) do n.º 4 articulam-se operacionalmente nos termos do artigo 18.º do presente diploma.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma da Madeira, abreviadamente designado por SIOPS-RAM, é o conjunto de estruturas, normas e procedimentos que asseguram que todos os agentes de proteção civil e as entidades previstas nas alíneas a) a g) do n.º 4 do artigo 17.º atuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional.
 
 2 - No âmbito do SIOPS-RAM, o princípio da unidade de comando abrange as vertentes da coordenação institucional e do comando operacional.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 [...]
 
@@ -352,7 +442,9 @@ j) Um representante da Direção Regional de Estradas;
 
 k) [Anterior alínea g).]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -376,7 +468,9 @@ h) [...]
 
 3 - As normas de funcionamento do CCOR são definidas por despacho do secretário regional que tutela a área da proteção civil, precedido de proposta do SRPC, IP-RAM.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O sistema de gestão de operações é uma forma de organização operacional que se desenvolve de forma modular e evolutiva, de acordo com a importância e o tipo de ocorrência.
 
@@ -384,13 +478,17 @@ h) [...]
 
 3 - O sistema de gestão de operações é regulamentado por deliberação do conselho diretivo do SRPC, IP-RAM, e homologação do secretário regional que tutela a área da proteção civil.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O CROS é dirigido pelo comandante operacional regional, coadjuvado por um adjunto de comando.
 
 2 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -398,7 +496,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 35.º — Articulação com os serviços de busca e salvamento marítimo e aéreo
+Artigo 35.º
+
+Articulação com os serviços de busca e salvamento marítimo e aéreo
 
 1 - As entidades integrantes do SIOPS-RAM informam prontamente o CROS e os serviços de busca e salvamento marítimo e aéreo sobre a ocorrência de qualquer acidente marítimo com navios ou embarcações ou qualquer acidente com aeronaves de que tenham conhecimento.
 
@@ -418,13 +518,17 @@ Produção de efeitos
 
 2 - Nos casos referidos no número anterior, o autor da declaração deve diligenciar pela mais ampla difusão do seu conteúdo, tendo em conta os meios disponíveis, devendo, logo que possível, assegurar a sua divulgação na página na Internet da entidade que a proferiu e/ou do Governo Regional.
 
-###### Artigo 15.º-A — Formação dos trabalhadores dos serviços municipais de proteção civil
+Artigo 15.º-A
+
+Formação dos trabalhadores dos serviços municipais de proteção civil
 
 1 - Os conteúdos curriculares da formação dos trabalhadores integrados nos serviços municipais de proteção civil (SMPC) constam de portaria dos membros do Governo Regional responsáveis pelas áreas da proteção civil e das autarquias locais, sendo aplicável até à sua publicação o disposto na [Portaria n.º 354/2019](https://diariodarepublica.pt/dr/detalhe/portaria/354-2019-125074536), de 7 de outubro.
 
 2 - A entidade na RAM autorizada a ministrar a formação a que se refere o presente artigo é o SRPC, IP-RAM, e outras entidades que venham a ser certificadas por este.
 
-###### Artigo 17.º-A — Instituições de investigação técnica e científica
+Artigo 17.º-A
+
+Instituições de investigação técnica e científica
 
 1 - Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios com interesse para a prossecução dos objetivos fundamentais da proteção civil, cooperam com os órgãos de direção e coordenação, previstos no presente diploma e com o SRPC, IP-RAM.
 
@@ -456,27 +560,37 @@ f) Direção Regional de Saúde;
 
 g) Universidade da Madeira.
 
-###### Artigo 18.º-A — Espaços sob jurisdição da autoridade marítima nacional
+Artigo 18.º-A
+
+Espaços sob jurisdição da autoridade marítima nacional
 
 As estruturas e órgãos da autoridade marítima nacional, atentos os riscos e regimes aplicáveis aos espaços sob sua jurisdição, garantem a articulação operacional, nos referidos espaços, com as estruturas previstas no SIOPS-RAM.
 
-###### Artigo 21.º-A — Articulação operacional
+Artigo 21.º-A
+
+Articulação operacional
 
 Para efeitos do disposto no artigo 15.º da [Lei n.º 65/2007](https://diariodarepublica.pt/dr/detalhe/lei/65-2007-629393), de 12 de novembro, na sua redação atual, na Região Autónoma da Madeira a articulação operacional é efetuada com o comandante operacional regional.
 
-###### Artigo 35.º-A — Auxílio externo
+Artigo 35.º-A
+
+Auxílio externo
 
 1 - O pedido de auxílio externo é da competência do Governo Regional, sob proposta da CRPC.
 
 2 - Em caso de concessão de auxílio externo no território da RAM, o SRPC, IP-RAM, deve garantir a receção e o acompanhamento das equipas até ao final das operações, providenciado o apoio logístico necessário.
 
-###### Artigo 35.º-B — Avaliação de risco
+Artigo 35.º-B
+
+Avaliação de risco
 
 1 - A avaliação de risco ao nível da Região Autónoma da Madeira é elaborada e atualizada pelo SRPC, IP-RAM, de três em três anos e sempre que haja alterações importantes, com base nas avaliações de risco de nível municipal e em estudos setoriais de riscos específicos, devendo ser dado conhecimento dos seus conteúdos à Autoridade Nacional de Emergência e Proteção Civil.
 
 2 - Os serviços e instituições de investigação técnica e científica referidos no artigo 17.º-A, e as estruturas e órgãos da autoridade marítima nacional, quanto aos espaços sob o seu domínio, colaboram na sua elaboração e atualização.
 
-###### Artigo 35.º-C — Avaliações de danos
+Artigo 35.º-C
+
+Avaliações de danos
 
 1 - A implementação e desenvolvimento de base de dados com registo de danos associados a acidentes graves e catástrofes ao nível regional, bem como a sua permanente atualização, é da competência do SRPC, IP-RAM, devendo os seus conteúdos ser articulados e transmitidos à Autoridade Nacional de Emergência e Proteção Civil.
 
@@ -498,11 +612,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 31 de julho de 2023.**
+Assinado em 31 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -969,3 +1083,5 @@ O Governo regional aprovará os diplomas necessários à execução do presente 
 ###### Artigo 38.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+116732368

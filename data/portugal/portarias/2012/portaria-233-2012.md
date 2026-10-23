@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/2012/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-2012-178992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44780ff96be11ecc91f4c2617c7f6ff4625f5171d650bdf12efef8d618453ffc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d34e9e4463ab7d58d68af169da6060f4649c9c591dc8fda593661abe17f7dfd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Acreditação
 - Embarcação
-- Transporte Marítimo
-- Segurança das Embarcações
 - Fiscalização
+- Navegação Marítima
 - Segurança da Navegação
+- Segurança das Embarcações
 - Segurança Marítima
 - Transporte de Passageiros
+- Transporte Marítimo
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: cites
   target: celex:32009L0045
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:03Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +118,8 @@ Manda o Governo, pelo Secretário de Estado do Mar, o seguinte:
 
 O modelo do certificado de segurança para navio de passageiros e a relação de equipamento anexo à Portaria n.º 1257/2002, de 11 de setembro, alterada pela Portaria n.º 575/2003, de 16 de julho, é substituído pelo modelo anexo à presente portaria, de que faz parte integrante.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 24 de julho de 2012.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 24 de julho de 2012.
 
 ## ANEXO — Modelo do certificado de segurança para navio de passageiros e respetiva relação de equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15100/0411404115.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15100/0411404115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15100/0411404115.pdf)

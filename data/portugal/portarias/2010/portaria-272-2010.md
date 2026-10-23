@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09600/0170701712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/272/2010/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2010-614862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3e47b05e66a0a58a8c5c99e1c92d9555cad972ac7e752cbff842de806504aaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf6ac004ff22bac7bd486a5b3d0b58d90d9e6ac2ec3b6c52f654893c115530e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,43 @@ subjects:
 - Acreditação
 - Assistência Técnica
 - Auditoria
-- Financiamento
-- Inspeção Geral de Finanças
 - Comissão Mista
 - Equipa de Missão
-- Serviço de Estrangeiros e Fronteiras
+- Financiamento
 - Fundo Europeu de Regresso
-- Regulamento
+- Inspeção Geral de Finanças
 - Ministro da Administração Interna
+- Regulamento
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:499238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341848:por
+  label: "Alterados os arts. 5º, 10º, 14º, 16º, 18º pela PORT.918/2010.16.09.2010.MAI, DR.IS [181] de 16.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-2010-341848
+  date: '2010-09-16'
 - type: cites
   target: celex:32007D0575
   label: null
   source: http://data.europa.eu/eli/dec/2007/575/oj
+- type: repealed_by
+  target: pt:dre:499238:por
+  label: "Revogada pela PORT.268/2013.20.08.2013.PCM, DR.IS [159] de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2013-499238
+  date: '2013-08-20'
 article_structure:
   article_count: 36
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:24Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +135,7 @@ Manda o Governo, pelo Secretário de Estado Adjunto e da Administração Interna
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 14 de Maio de 2010.**
+O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 14 de Maio de 2010.
 
 ## ANEXO — REGULAMENTO DO FINANCIAMENTO DA ASSISTÊNCIA TÉCNICA PELO FUNDO EUROPEU DE REGRESSO
 

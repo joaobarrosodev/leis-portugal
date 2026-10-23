@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04500/0002000022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/77/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-2024-854054396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35f3ccf7e80661e22a1296acd480c89e5da94f07f0332b8c749dc61a5772084c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb81dc9e3d2815d28bfd10e2e89831666582af7e047e63b460778edadffb4cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Protecção de Crianças e Jovens
-- Criação de Serviços
-- Regulamentação de Atos Legislativos
-- Penedono
 - Autarquia Local
-- Viseu
+- Comissão de Protecção de Crianças e Jovens
 - Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
+- Criação de Serviços
+- Penedono
+- Regulamentação de Atos Legislativos
+- Viseu
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:39Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 4 de março
 
-O regime de proteção de crianças e jovens em perigo aprovado pela [Lei n.º 147/99](https://diariodarepublica.pt/dr/detalhe/lei/147-1999-581619), de 1 de setembro, com as alterações introduzidas pelas Leis n.<sup>os</sup> 31/2003, de 22 de agosto, 142/2015, de 8 de setembro, 23/2017, de 23 de maio, 26/2018, de 5 de julho, e 23/2023, de 25 de maio, doravante designada por Lei de Proteção, regula a criação, a competência e o funcionamento das Comissões de Proteção de Crianças e Jovens em todos os concelhos do país, determinando que a respetiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e do Trabalho, Solidariedade e Segurança Social.
+O regime de proteção de crianças e jovens em perigo aprovado pela [Lei n.º 147/99](https://diariodarepublica.pt/dr/detalhe/lei/147-1999-581619), de 1 de setembro, com as alterações introduzidas pelas Leis n.os 31/2003, de 22 de agosto, 142/2015, de 8 de setembro, 23/2017, de 23 de maio, 26/2018, de 5 de julho, e 23/2023, de 25 de maio, doravante designada por Lei de Proteção, regula a criação, a competência e o funcionamento das Comissões de Proteção de Crianças e Jovens em todos os concelhos do país, determinando que a respetiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e do Trabalho, Solidariedade e Segurança Social.
 
 Ações de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Penedono, com vista à instalação da respetiva comissão de proteção, dando assim cumprimento ao preceituado na Lei de Proteção.
 
@@ -163,4 +167,6 @@ O disposto na presente portaria produz efeitos a partir de 16 de outubro de 2023
 
 Em 26 de fevereiro de 2024.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+117412865

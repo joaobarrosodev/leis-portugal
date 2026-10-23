@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2701941:por
-title: Portaria n.º 790/2001(2.ªsérie)
+title: Portaria n.º 790/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-2001-2701941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T16:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e8f8fb1cb4afaa7aa91e9250c8d75edb256c0b3eeb94a5ce121b609d771f2eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d5a3ceb6f47c171ebeb3beeca2678d8f20b664d43ce50caedcbeb11a2856abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direção Geral do Orçamento
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:145014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426493:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:24:38Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 790/2001(2.ªsérie)
+# Portaria n.º 790/2001 (2.ª série)
 
 Portaria n.º 790/2001 (2.ª série). - Considerando que a licenciada Maria de Lourdes Lemos Teixeira, com a categoria de assessor da carreira técnica superior do regime geral do quadro de pessoal da Direcção-Geral do Orçamento, exerce o cargo dirigente de directora dos Serviços Centrais do Instituto Camões e reúne os requisitos legais para acesso à categoria de assessor principal da referida carreira;
 

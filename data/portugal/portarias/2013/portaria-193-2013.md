@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2013/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2013-513596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2de8f00e1227c24686caa16354c391ae5d0e3807d6a79fa56bae37dc0869b9da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a58e25bd986e24f7a51fdd977257fcf44238a9362d7efdaf76827c8bb98331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Admissão de Estrangeiros
 - Aeroporto
 - Aproximação das Legislações
 - Cidadão Estrangeiro
 - Circulação de Pessoas
-- Igualdade de Tratamento
 - Entrada de Estrangeiros
+- Igualdade de Tratamento
+- Imigração
 - Imigrante
-- Serviço de Estrangeiros e Fronteiras
 - Países Terceiros
 - Regulamento CE
-- Admissão de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: cites
   target: celex:32001L0051
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:03Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +224,7 @@ As transportadoras aéreas ficam obrigadas a informar os passageiros nos termos 
 
 A presente portaria entra em vigor 30 dias após a data da sua publicação.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 10 de abril de 2013.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 10 de abril de 2013.
 
 ## ANEXO — Guia Português de Implementação Técnica APIS
 
@@ -242,7 +242,7 @@ Acrónimos
 
 Para melhor compreensão do documento apresenta-se na tabela seguinte os acrónimos usados no documento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Organização do Documento
 
@@ -296,11 +296,11 @@ Manifesto da Informação de Passageiros
 
 Dados de Voo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Dados de Passageiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 ESPECIFICAÇÃO DETALHADA DAS MENSAGENS
 
@@ -308,7 +308,7 @@ Estrutura da Mensagem
 
 O formato UN/EDIFACT consiste numa mensagem de segmentos com 5 níveis hierárquicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Figura 1
 
@@ -330,7 +330,7 @@ UNA:+.? '
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNB (Cabeçalho da Transferência)
 
@@ -346,7 +346,7 @@ UNB+UNOA:4+AIRLINE ABC:ZZ+PTSEFAPI:ZZ+080129:0900+0000001++APIS'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNG (Cabeçalho de Grupo)
 
@@ -362,7 +362,7 @@ UNG+PAXLST+AIR1:ZZ+PTSEFAPI:ZZ+020722:0900+1+UN+D:02B'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNH (Cabeçalho da Mensagem)
 
@@ -378,7 +378,7 @@ UNH+MSG001+PAXLST:D:02B:UN:IATA'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento BGM (Início de Mensagem)
 
@@ -394,7 +394,7 @@ BGM+250+CC'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento NAD (Nome e endereço)
 
@@ -412,7 +412,7 @@ NAD+MS+++JIM DANDY'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento COM (Contacto para comunicação)
 
@@ -430,7 +430,7 @@ COM+514 874 0202:TE+514 874 1779:FX'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento TDT (Detalhe do transporte) - Código do Voo
 
@@ -448,7 +448,7 @@ TDT+20+TP123+++TP'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento LOC (Identificador de lugar) - Itinerário de voo.
 
@@ -470,17 +470,17 @@ LOC+87+HNL'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Exemplos:
 
 Para um voo direto entre Luanda e Lisboa, teriam que ser fornecidos os seguintes dados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Para um voo com escala que tenha como partida Londres e destino Faro, passando por Porto e Lisboa, teriam de ser fornecidos os seguintes dados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento DTM (Data/Hora/Período) - Origem/Destino do voo
 
@@ -498,11 +498,11 @@ DTM+189:0203191630:201'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento NAD (Nome e endereço) - Passageiro
 
@@ -524,11 +524,11 @@ NAD+FL+++SMITH:JOAN:A'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento DTM (Data/Hora/Período) - Data de Nascimento do passageiro
 
@@ -546,7 +546,7 @@ DTM+329:640217'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento NAT (Nacionalidade) - Cidadania do passageiro
 
@@ -564,7 +564,7 @@ NAT+2+PRT'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento DOC (Detalhe de Documento) - Documento passageiro
 
@@ -584,11 +584,11 @@ DOC+P+MB140241'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento CNT (Controle total) - Número de Passageiros
 
@@ -604,11 +604,11 @@ CNT+41:12'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Exemplo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNT (Fim da mensagem)
 
@@ -624,7 +624,7 @@ UNT+45+PAX001'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNE (Rodapé do Grupo)
 
@@ -640,7 +640,7 @@ UNE+1+1'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Elemento UNZ (Rodapé da transferência)
 
@@ -656,7 +656,7 @@ UNZ+1+000000001'
 
 Definição do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 FALHAS TÉCNICAS E MÉTODO ALTERNATIVO
 
@@ -682,15 +682,15 @@ Desc: Code specifying the document name.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 ICAO 9303 Document Types
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 Other Document Types
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 1153 Reference code qualifier
 
@@ -698,7 +698,7 @@ Desc: Code qualifying a reference.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 2005 Date or time or period function code qualifier
 
@@ -706,7 +706,7 @@ Desc: Code qualifying the function of a date, time or period.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 2379 Date or time or period format code
 
@@ -714,7 +714,7 @@ Desc: Code specifying the representation of a date, time or period.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 3035 Party function code qualifier
 
@@ -722,7 +722,7 @@ Desc: Code giving specific meaning to a party.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 3155 Communication address code qualifier
 
@@ -730,7 +730,7 @@ Descr: Code qualifying the communication address.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 3225 Place/Location Identification
 
@@ -742,7 +742,7 @@ Desc: Code identifying the function of a location.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 3493 Nationality code qualifier
 
@@ -750,7 +750,7 @@ Desc: Code qualifying a nationality.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 6069 Control total type code qualifier
 
@@ -758,7 +758,7 @@ Desc: Code qualifying the type of control of hash total.
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 8051 Transport stage code qualifier
 
@@ -766,7 +766,7 @@ Desc: Code qualifying a specific stage of transport
 
 Repr: an..3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 ## Anexo B. — Formato UN/EDIFACT
 
@@ -818,10 +818,10 @@ UNZ+1+ReferenciaManifesto'
 
 Exemplo Mensagem UN/EDIFACT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
 
 ## Anexo C
 
 ICAO Codes for countries and regions.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0305703071.pdf)

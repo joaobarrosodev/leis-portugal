@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 129/2023, 1º Suplemento, Série I de 2023-07-05
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 35-(2) a 35-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12901/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190-a/2023/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2023-215270116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae4d97b845b1e860cf0622e4f8238c0cdc5a00926c4b98621ece87bc25fef69d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6d91a6e08e588e3f2411ca5630eaff503d78e041f1e4812a5a4064c382ac0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Ação Social
 - Contrato de Prestação de Serviços
-- Regulamentação de Atos Legislativos
 - Direcção Técnica
 - Equipamento Social
-- Ação Social
 - Horário de Funcionamento
+- Instituto da Segurança Social
 - Jardim de Infância
 - Preço
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2007/03/14/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/411/2012/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/411/2012/12/14/p/dre
+- type: cites
+  target: pt:dre:189958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671660:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:47Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +156,17 @@ A presente portaria altera os artigos 7.º, 8.º, 9.º, 11.º, 12.º, 15.º e 17
 
 8 - Pode ser autorizado pelo Instituto da Segurança Social, I. P. (ISS, I. P.), o aumento do número máximo de crianças por grupo nas alíneas b) e c) do n.º 2, até ao limite de duas em cada grupo, desde que garantidas as áreas mínimas por criança previstas nos n.os 5 e 6 do presente artigo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O horário de funcionamento da creche deve ser o adequado às necessidades dos pais ou de quem exerça as responsabilidades parentais, não devendo a criança permanecer na creche por um período superior ao estritamente necessário.
 
 2 - Sem prejuízo do previsto no número anterior, a creche poderá funcionar em permanência, incluindo período noturno e fins de semana, desde que exista a necessidade de frequência, por motivos relacionados com a atividade laboral de ambos os pais ou de quem exerça as responsabilidades parentais, ou motivos de força maior devidamente justificados e limitados no tempo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -160,7 +176,9 @@ A presente portaria altera os artigos 7.º, 8.º, 9.º, 11.º, 12.º, 15.º e 17
 
 4 - Quando a creche funcione integrada num estabelecimento de apoio à infância e juventude, a direção técnica pode ser assegurada pelo diretor técnico ou pedagógico desse estabelecimento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 [...]
 
@@ -188,7 +206,9 @@ l) Identificação da apólice de acidentes pessoais;
 
 m) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -196,7 +216,9 @@ m) [...]
 
 3 - As alterações ao regulamento interno são comunicadas ao ISS, I. P., bem como aos respetivos pais ou a quem exerça as responsabilidades parentais.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -230,7 +252,9 @@ n) [...]
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -276,4 +300,6 @@ b) Verificação das regras técnicas gerais relativas às áreas funcionais e r
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 4 de julho de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 4 de julho de 2023.
+
+116645406

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2012/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2012-175347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fb83d282bcb1650eaf40c901458388dd625889b6ae8f3436ae50cd33eef0096
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0275643c17c7be85c021d19507e027d4e80b70c74439525786121ab986ae369a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/86/1995/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/86/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:294675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546975:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:11Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +142,4 @@ Manda o Governo, pelo Primeiro-Ministro e pela Ministra da Agricultura, do Mar, 
 
 A presente portaria produz efeitos a partir da data da sua assinatura.
 
-**O Primeiro-Ministro, Pedro Passos Coelho, em 26 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 18 de junho de 2012.**
+O Primeiro-Ministro, Pedro Passos Coelho, em 26 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 18 de junho de 2012.

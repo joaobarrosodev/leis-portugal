@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/342/2012/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/342-2012-192438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3626aeb0992c979cc628a84ff9815565351bb99cf284c95d26e7d00741426a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebc01836a2039ac6f25bd7286f257c4d52c82d39f8bced35ef1ba880fc6a0bc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada da Beira Interior
-- Auto-estrada da Costa de Prata
-- Auto-estrada do Grande Porto
-- SCUT
-- Cobrança
-- Rede de Estradas
-- Portagem
 - Auto-estrada da Beira Litoral- Beira ALTA
+- Auto-estrada da Costa de Prata
 - Auto-estrada do Algarve
+- Auto-estrada do Grande Porto
 - Auto-estrada do Interior Norte
 - Auto-estrada Norte-litoral
+- Cobrança
+- Portagem
+- Rede de Estradas
+- SCUT
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:166153631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166153631:por
+  label: Mantida a revogação do presente diploma, pelo(a) Portaria n.º 138-D/2021 - Diário da República n.º 125/2021, 3º Suplemento,
+    Série I de 2021-06-30 sem prejuízo do disposto no art. 7.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-d-2021-166153631
+  date: '2021-06-30'
 - type: cites
   target: celex:31999L0062
   label: null
   source: http://data.europa.eu/eli/dir/1999/62/oj
+- type: repealed_by
+  target: pt:dre:152637738:por
+  label: Revogada a partir de 11.01.2021 pelo(a) Portaria n.º 309-B/2020 - Diário da República n.º 253/2020, 2º Suplemento,
+    Série I de 2020-12-3, nos termos do seu art. 5.º e sem prejuízo do disposto no seu art. 6.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-b-2020-152637738
+  date: '2020-12-31'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:39Z'
   warnings: []
   errors: []
 ---
@@ -137,43 +149,43 @@ Manda o Governo, pela Secretária de Estado do Tesouro e Finanças, no uso das c
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada que integram a concessão do Norte Litoral, identificados no anexo i do Decreto-Lei n.º 67-A/2010, de 14 de junho, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 4.º — Concessão do Grande Porto
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada que integram a concessão do Grande Porto, identificados no anexo i do Decreto-Lei n.º 67-A/2010, de 14 de junho, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 5.º — Concessão da Costa de Prata
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada que integram a concessão da Costa de Prata, identificados no anexo i do Decreto-Lei n.º 67-A/2010, de 14 de junho, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 6.º — Autoestrada A 22
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada A 22 abrangidos pelo Decreto-Lei n.º 111/2011, de 28 de novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 7.º — Autoestrada A 23
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada A 23 abrangidos pelo Decreto-Lei n.º 111/2011, de 28 de novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 8.º — Autoestrada A 24
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada A 24 abrangidos pelo Decreto-Lei n.º 111/2011, de 28 de novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 9.º — Autoestrada A 25
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da autoestrada A 25 abrangidos pelo Decreto-Lei n.º 111/2011, de 28 de novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20800/0604906055.pdf)
 
 ###### Artigo 10.º — Norma revogatória
 
@@ -193,4 +205,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 19 de outubro de 2012.
 
-**A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.**
+A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.

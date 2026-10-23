@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/291-b/2025/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-b-2025-934287231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddab3df43e71a02c7e1303d8bc46780a25071e33f8a78634d0e65006b749d938
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8d3543fd54a2c51d689472bd06e24392e1e41db30ee5b705cf4c7060e8b3cc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
 - ÁGUA Superficial
-- Recursos Hídricos
 - Lousã
 - Proteção do Ambiente
+- Recursos Hídricos
 - Zona de Proteção
-- Abastecimento de Água
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:52Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +144,7 @@ b) «Cerdeira», no afluente da Ribeira da Serdeira;
 
 c) «Talasnal», na Ribeira da Vergada.
 
-2 - As zonas de abastecimento de Candal, de Cerdeira e do Talasnal, no concelho da Lousã, abastecem, no seu conjunto, cerca de 21 habitantes, com um volume médio anual de 2160 m<sup>3</sup>, e estão inseridas na massa de água PT04MON0690 - Rio Arouce, classificada no Plano de Gestão de Região Hidrográfica do Vouga, Mondego e Lis (PGRH RH4A) - 3.º ciclo (2022-2027), em estado global «Bom e superior». Nas bacias drenantes das linhas de água onde se localizam as captações não são identificadas pressões de atividades antropogénicas de natureza difusa e pontual, com impacte significativo na qualidade da água.
+2 - As zonas de abastecimento de Candal, de Cerdeira e do Talasnal, no concelho da Lousã, abastecem, no seu conjunto, cerca de 21 habitantes, com um volume médio anual de 2160 m3, e estão inseridas na massa de água PT04MON0690 - Rio Arouce, classificada no Plano de Gestão de Região Hidrográfica do Vouga, Mondego e Lis (PGRH RH4A) - 3.º ciclo (2022-2027), em estado global «Bom e superior». Nas bacias drenantes das linhas de água onde se localizam as captações não são identificadas pressões de atividades antropogénicas de natureza difusa e pontual, com impacte significativo na qualidade da água.
 
 ###### Artigo 2.º — Zonas de proteção imediata
 
@@ -160,7 +176,7 @@ As zonas de proteção respeitantes aos perímetros mencionados no artigo 1.º e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 4 de setembro de 2025.**
+O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 4 de setembro de 2025.
 
 ## ANEXO I — Zonas de proteção imediata
 
@@ -243,12 +259,19 @@ Extrato da Carta Militar de Portugal - folha n.º 252
 
 Captação «Candal»
 
-![](https://files.diariodarepublica.pt/images/934287231/934288023.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934287231/934288023.png) |
+| --- |
 
 Captação «Cerdeira»
 
-![](https://files.diariodarepublica.pt/images/934287231/934288024.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934287231/934288024.png) |
+| --- |
 
 Captação «Talasnal»
 
-![](https://files.diariodarepublica.pt/images/934287231/934288025.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934287231/934288025.png) |
+| --- |
+
+119505979
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

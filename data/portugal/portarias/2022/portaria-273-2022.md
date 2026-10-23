@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21700/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/273/2022/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2022-203283191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51ab3368e7459245a71aef63b44ec0c5a08d26e0294d90c330a0e13ebdd12037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8016b3755c94f572e98b85bb36519c41dcc622f120f9eb7abf398f7d029fb713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimentação
 - Aproximação das Legislações
 - ÁREA Geográfica
+- ASAE
 - BENS de Consumo
 - Comissão Nacional de Protecção de Dados Pessoais Informatizados
-- Regulamentação de Atos Legislativos
 - Direção Geral de Alimentação e Veterinária
 - Fiscalização
+- Fruticultura
 - Fruto
 - Higiene Alimentar
 - IFAP
-- ASAE
 - Página na Internet
 - Política Agrícola Comum
-- Alimentação
 - Proteção do Consumidor
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Fruticultura
-- Sanção
 - Regulamento Geral de Proteção de Dados
+- Sanção
 relationships:
 - type: cites
   target: celex:32002R0178
@@ -119,16 +119,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/58/2017/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
+- type: cites
+  target: pt:dre:106401323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:57Z'
   warnings: []
   errors: []
 ---
@@ -227,4 +243,6 @@ Nos termos do artigo 26.º do [Regulamento (UE) n.º 2016/679](http://data.europ
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 3 de novembro de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de novembro de 2022.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 3 de novembro de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de novembro de 2022.
+
+115856272

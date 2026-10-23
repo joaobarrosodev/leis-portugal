@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13000/0349703499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/207/2012/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-2012-178484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d453617e24ed338b6bcc391081ef63aa8855f595952ed96ebef326a5ec570203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aa972572114ce108d1f610cb32ad0583d2a2e9d62124a0513bfc4661406424d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Financiamento
 - Beneficiário
-- Instituto do Emprego e Formação Profissional
-- Prestações de Desemprego
+- Contrato de Trabalho
 - Desemprego
 - Emprego
-- Contrato de Trabalho
-- Regime Geral da Segurança Social
+- Financiamento
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
 - Medida Incentivo à Aceitação de Ofertas de Emprego
+- Prestações de Desemprego
+- Regime Geral da Segurança Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
@@ -88,16 +88,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/89/1995/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/1995/05/06/p/dre
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629416:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66463207:por
+  label: Revogada, a partir de 11.02.2015, pelo(a) Portaria n.º 26/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-2015-66463207
+  date: '2015-02-10'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:50Z'
   warnings: []
   errors: []
 ---
@@ -226,4 +243,4 @@ A presente portaria entra em vigor 30 dias após o dia da sua publicação.
 
 Em 28 de junho de 2012.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.

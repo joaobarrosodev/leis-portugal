@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615/2010/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-2010-333838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a8cbbe2da27921b4c91b234bd61bae10f33508a7558df39f6564d7ca6759db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d9a0bde1c3db9851ab0d1e5a46fdf2e9b365869f2cd4eadfc09157b405b46fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Serviço de Saúde
 - Enfermagem
 - Especificação Técnica
 - Instalação de Serviços
 - Licenciamento
+- Medicina Privada
 - Prestação de Serviços
 - Recursos Humanos
 - Regime Jurídico
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:606157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606157:por
+  label: "Alterados os anexos II, III, V, VI, X, XI e XII e aditado o anexo III-A ao presente diploma, pela PORT.8/2014.14.01.2014.MS,\
+    \ DR.IS [9] de 14.01.2014, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/8-2014-606157
+  date: '2014-01-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105347307:por
+  label: Revogados os arts. 3.º e 8.º e a al. h) do n.º 3 do art. 13.º pelo(a) Portaria n.º 310/2016 - Diário da República
+    n.º 236/2016, Série I de 2016-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-2016-105347307
+  date: '2016-12-12'
 article_structure:
   article_count: 23
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:23Z'
   warnings: []
   errors: []
 ---
@@ -409,7 +425,9 @@ São aprovadas especificações técnicas no que diz respeito aos compartimentos
 
 Sempre que a unidade dispuser de outros serviços de acção médica, estes devem cumprir as exigências e requisitos constantes nos respectivos diplomas.
 
-###### Artigo 22.º — Livro de reclamações
+###### Artigo 22.º
+
+## Livro de reclamações
 
 As unidades de obstetrícia e neonatologia estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -417,7 +435,7 @@ As unidades de obstetrícia e neonatologia estão sujeitas à obrigatoriedade de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 22 de Julho de 2010.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 22 de Julho de 2010.
 
 ## ANEXO I — (a que se refere o artigo 20.º)
 
@@ -425,7 +443,7 @@ Consulta externa
 
 Compartimentos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 ## ANEXO II — (a que se refere o artigo 20.º)
 
@@ -433,7 +451,7 @@ Internamento
 
 As instalações referidas em seguida são consideradas por unidade de 30 camas, ou piso de internamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 ## ANEXO III — (a que se refere o artigo 20.º)
 
@@ -441,7 +459,7 @@ Unidade de obstetrícia e neonatologia
 
 Compartimentos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 20.º)
 
@@ -449,7 +467,7 @@ Central de desinfecção e esterilização
 
 Compartimentos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 ## ANEXO V — (a que se refere o artigo 20.º)
 
@@ -457,7 +475,7 @@ Climatização
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Ventilação - compartimentos diversos
 
@@ -477,7 +495,7 @@ Gases medicinais e aspiração
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Outros requisitos:
 
@@ -501,7 +519,7 @@ Instalações e equipamentos para confecção e distribuição de alimentação
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Outros requisitos:
 
@@ -517,7 +535,7 @@ Equipamentos para tratamento de roupa
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Observação. - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
 
@@ -527,7 +545,7 @@ Equipamentos frigoríficos
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Observação. - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia eléctrica pela rede de socorro.
 
@@ -537,7 +555,7 @@ Instalações e equipamentos eléctricos
 
 As instalações e equipamentos eléctricos devem satisfazer as regras e regulamentos aplicáveis e os seguintes requisitos mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Requisitos especiais:
 
@@ -569,7 +587,7 @@ Equipamento sanitário
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 ## ANEXO XII — (a que se refere o artigo 20.º)
 
@@ -579,12 +597,12 @@ Consultas
 
 Equipamentos médico e geral a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Internamento (equipamento por unidade de 30 camas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
 
 Unidade de obstetrícia e neonatologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14900/0316603182.pdf)

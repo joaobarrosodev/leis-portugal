@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/251/2011/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/251-2011-670366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f3df5b3ff49c4aea22ace5bb6ce56eb66de78e8247cecca8aaadfd5be63ad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0ab6fb965c57473662952a304cea7909a7396d599799a300ebfa11b2d031ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Central do Sistema de Saúde
 - Ajudas de Custo
-- Medicina
-- Médico
+- Avaliação de Conhecimentos
+- Avaliação do Pessoal
 - Carreira Médica
-- Cidadão Estrangeiro
+- Centro de Saúde
 - Centro Hospitalar
-- Formação Profissional
 - Certificação Profissional
-- Medicina Privada
+- Cidadão Estrangeiro
 - Colocação de Médicos
+- Comissão
 - Concurso
-- Instituto Nacional de Medicina Legal
 - Conselho Nacional dos Internatos Médicos
+- CPLP
 - Definição de Competências
-- Regime Laboral
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
 - Diploma
 - Direção
 - Ensino Médico
+- Equivalência de Diplomas
 - Equivalência de Habilitações Literárias
-- Serviço Nacional de Saúde
-- Comissão
+- Estabelecimento Hospitalar
+- Estágio de Formação
+- Faltas
 - Férias
-- Remuneração Acessória
-- CPLP
+- Formação Profissional
+- Instituto Nacional de Medicina Legal
 - Internato Médico
 - Investigação
-- Publicitação
-- Centro de Saúde
-- Faltas
+- Madeira.região Autónoma
+- Medicina
 - Medicina Legal
-- Administração Central do Sistema de Saúde
+- Medicina Privada
+- Médico
 - Numerus Clausus
 - Programa de Formação
-- Estágio de Formação
-- Madeira.região Autónoma
-- Avaliação de Conhecimentos
+- Publicitação
 - Regime Jurídico
+- Regime Laboral
 - Regulamento
-- Estabelecimento Hospitalar
-- Equivalência de Diplomas
+- Remuneração Acessória
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
-- Avaliação do Pessoal
-- Açores
 - Subsídio de Transporte
 relationships:
 - type: cites
@@ -141,16 +141,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:381297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69909875:por
+  label: Revogada (a partir de 03.08.2015), pelo(a) Portaria n.º 224-B/2015 - Diário da República n.º 146/2015, 1º Suplemento,
+    Série I de 2015-07-29, sem prejuízo do disposto no art 79.º do Regulamento do Internato Médico aprovado pela Port 224-B/2015
+    de 29-jul,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-b-2015-69909875
+  date: '2015-07-29'
 article_structure:
   article_count: 101
   section_count: 41
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:27Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +244,7 @@ Sem prejuízo do disposto no artigo 97.º do Regulamento anexo à presente porta
 
 É revogada a [Portaria n.º 1223-B/82](https://diariodarepublica.pt/dr/detalhe/portaria/1223-b-1982-381297), de 28 de Dezembro.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Junho de 2011.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Junho de 2011.
 
 REGULAMENTO DO INTERNATO MÉDICO
 
@@ -1675,4 +1718,4 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 ## ANEXO II — Modelo de diploma a que se refere o n.º 1 do artigo 90.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/12000/0375103772.pdf))](https://files.diariodarepublica.pt/1s/2011/06/12000/0375103772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/12000/0375103772.pdf)

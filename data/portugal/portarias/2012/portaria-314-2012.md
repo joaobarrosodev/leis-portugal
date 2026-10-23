@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/2012/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-2012-176367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77cba9c6af5cf6a0f6196d2189939c94e3ba8a5d6ae0d3dfa42af6fa26911c61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9711f25f2d8bc5cdb7b3e3eec35e1a6514251c9f7eefa9d0712d30c7ed56a911
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
 - Paredes
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
@@ -103,16 +103,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79/2007/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79/2007/06/15/p/dre
+- type: cites
+  target: pt:dre:219477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641431:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:30Z'
   warnings: []
   errors: []
 ---
@@ -147,10 +183,10 @@ A referida planta, o quadro anexo e a memória descritiva do presente processo p
 
 A presente portaria produz os seus efeitos com a entrada em vigor da alteração do Plano de Urbanização de Cete/Parada.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 20 de setembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 20 de setembro de 2012.
 
 QUADRO ANEXO
 
 Alteração da delimitação da Reserva Ecológica Nacional do concelho de Paredes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19700/0564205643.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19700/0564205643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19700/0564205643.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23400/0002500046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/404/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-2023-225217594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d08a82c866c6ed67e78f69f28d748410a11065df37d90e96227be4819d9e56d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e89355307ebcd3c62abe820b3c8cc74b4d69c6934d7603abe372e93758891b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,30 @@ reuse:
 subjects:
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Estatuto
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:1128002424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro Adjunto e da Coesão Territorial, sem
+    prejuízo da coordenação com os ministros competentes nas matérias setoriais por aquelas prosseguidas no respetivo âmbito
+    territorial, a superintendência e tutela sobre a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do
+    Tejo, I. P. pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Economia e da Coesão Territorial,
+    sem prejuízo da coordenação com os ministros competentes nas matérias setoriais por aquelas prosseguidas no respetivo
+    âmbito territorial, salvo nas áreas da agricultura e pescas, em que a superintendência e tutela pertence ao Ministro da
+    Agricultura e Mar, a superintendência e tutela sobre a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e
+    Vale do Tejo, I. P. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/2009/10/23/p/dre
   label: null
@@ -102,16 +119,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/590/2007/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/590/2007/05/10/p/dre
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1128002424:por
+  label: Revogada, a partir de 30 de maio de 2026, pelo(a) Portaria n.º 237/2026/1 - Diário da República n.º 104/2026, Série
+    I de 2026-05-29 nos termos do artigo 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/237-2026-1128002424
+  date: '2026-05-29'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:05Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +193,7 @@ A presente portaria entra em vigor no dia 1 de janeiro de 2024, sem prejuízo do
 
 Em 24 de novembro de 2023.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
 ## ANEXO — ESTATUTOS DA COMISSÃO DE COORDENAÇÃO E DESENVOLVIMENTO REGIONAL DE LISBOA E VALE DO TEJO, I. P.
 
@@ -1065,3 +1116,5 @@ w) Assegurar a execução das ações de controlo no âmbito das organizações 
 4 - À Unidade de Coordenação Territorial compete, ainda, desenvolver as demais atividades que, nas várias áreas, lhe sejam cometidas pelo conselho diretivo.
 
 5 - A Unidade de Coordenação Territorial coadjuva e articula com as unidades orgânicas operacionais e com as demais unidades orgânicas de suporte, nas áreas de intervenção referidas nos números anteriores.
+
+117121491

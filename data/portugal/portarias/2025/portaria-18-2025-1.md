@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01400/0002600031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2025/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2025-904130040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53adcacfe256cf6a6d59f61394328d448c4ce2d9a5426cecec202e197d3174ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 532dec65454678e86feddd381b80d80b92c8c8db65cd6810172e34d9fc2d150e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Aquisição de Bens e Serviços
 - Assistência Medicamentosa
-- Infarmed
-- Direção Geral da Saúde
 - Diabetes
-- Serviço Nacional de Saúde
+- Direção Geral da Saúde
 - Fixação de Preços
+- Infarmed
+- Material Médico-Cirúrgico
 - Medicamento
-- Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
 - Preço de Venda
 - Preço Máximo
-- Material Médico-Cirúrgico
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/252/2007/07/05/p/dre
@@ -101,16 +101,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/187/2022/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/187/2022/07/22/p/dre
+- type: cites
+  target: pt:dre:186522363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203529373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210519668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214255230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865954590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:187/2022
+  label: Revoga, com efeitos a partir do dia 31 de janeiro de 2025, nos termos do artigo 22.º do presente diploma, a Portaria
+    n.º 187/2022, de 22 de julho, Diário da República n.º 141/2022, Série I
+  source: null
+  date: '2022-07-22'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:13Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +171,7 @@ Face à necessidade de melhorar o desempenho do processo atual, e de modo a gara
 
 Adicionalmente, a [Lei n.º 45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro, que aprovou o Orçamento do Estado para 2025, veio prever no seu artigo 217.º a comparticipação a 100 % dos sistemas híbridos de perfusão subcutânea de insulina, através do SNS e mediante prescrição de médico especialista de centro de tratamento de diabetes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 2 do artigo 3.º, no artigo 19.º e nos n.<sup>os</sup> 3 a 7 do artigo 23.º do [Decreto-Lei n.º 97/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2015-67356991), de 1 de junho, na sua atual redação, em conjugação com o n.º 2 do artigo 8.º, o n.º 1 do artigo 10.º e o artigo 21.º, todos do [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, que aprova o regime de organização e funcionamento do XXIV Governo Constitucional, e no uso das competências delegadas pelo [Despacho n.º 5884-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/5884-a-2024-865954590), da Ministra da Saúde, publicado no Diário da República, 2.ª série, n.º 100, suplemento, de 23 de maio de 2024, manda o Governo, pela Secretária de Estado da Saúde, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 2 do artigo 3.º, no artigo 19.º e nos n.os 3 a 7 do artigo 23.º do [Decreto-Lei n.º 97/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2015-67356991), de 1 de junho, na sua atual redação, em conjugação com o n.º 2 do artigo 8.º, o n.º 1 do artigo 10.º e o artigo 21.º, todos do [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, que aprova o regime de organização e funcionamento do XXIV Governo Constitucional, e no uso das competências delegadas pelo [Despacho n.º 5884-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/5884-a-2024-865954590), da Ministra da Saúde, publicado no Diário da República, 2.ª série, n.º 100, suplemento, de 23 de maio de 2024, manda o Governo, pela Secretária de Estado da Saúde, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -297,4 +339,6 @@ A atualização dos grupos genéricos de dispositivos e respetivos dispositivos 
 
 A presente portaria produz efeitos a partir do dia 31 de janeiro de 2025.
 
-**A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 16 de janeiro de 2025.**
+A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 16 de janeiro de 2025.
+
+118573433

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/12300/11401152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1979-383625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c59905553afc5ba6f8f67831236b38ae9528050b940bfffa47d4ba8541a51ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41b7aaec2bbd20224eaa022c0e6c97a19311c3fb53ac07f4fc516e80b0bf0cf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:654954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380515:por
+  label: Rectificado pela DECL.DD7280.06.07.1979.PCM, DR.IS [154] de 06.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380515
+  date: '1979-07-06'
+- type: corrected_by
+  target: pt:dre:381514:por
+  label: Rectificado pela DECL.DD7300.30.07.1979.PCM, DR.IS [174] de 30.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381514
+  date: '1979-07-30'
+- type: repealed_by
+  target: pt:dre:654954:por
+  label: "Revogado pelo DRR.7/84/M.1984.04.19.GR-RAM DR.IS [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1984-654954
+  date: '1984-04-19'
 article_structure:
   article_count: 58
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:58Z'
   warnings: []
   errors: []
 ---
@@ -902,16 +932,16 @@ As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por desp
 
 O presente diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Abril de 1979.**
+Assinado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 Quadro de vencimentos do pessoal da Secretaria Regional de Agricultura e Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/12300/11401152.pdf))](https://files.diariodarepublica.pt/1s/1979/05/12300/11401152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12300/11401152.pdf)
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.

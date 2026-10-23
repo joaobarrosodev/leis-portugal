@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17100/0588605887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/983/2009/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5088feeac00b37b9e01087aa42b35eb7a439d181a94889bd3acbaf4fc0ced3ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0093440622adabc3c994fc38c440418c7d4adbeb1697b10d16f306e0f84b7a70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Gestão dos Recursos
 - Licenciamento
-- Recursos do Mar
+- Pesca
 - Pesca por ARTE de Emalhar
+- Recursos do Mar
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:145188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333869:por
+  label: "Alterado o art. 11º do Regulamento da Pesca por Arte de Emalhar, aprovado pela Port 1102-H/2000 de 22-Nov, com a\
+    \ redacção conferida no presente diploma, pela PORT.594/2010.29.07.2010.MADRP, DR.IS [146] de 29.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-2010-333869
+  date: '2010-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -88,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/386/2001/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/386/2001/04/14/p/dre
+- type: cites
+  target: pt:dre:284925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145188:por
+  label: "Revogado o nº 3 do art. 9º do Regulamento da Pesca por Arte de Emalhar, aprovado pela Port 1102-H/2000 de 22-Nov,\
+    \ com a redacção conferida pelo presente diploma, pela PORT.315/2011.29.12.2011.MAMAOT, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2011-145188
+  date: '2011-12-29'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:26Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +164,9 @@ Dimensões das redes
 
 4 - ...
 
-###### Artigo 9.º — Espécies proibidas
+Artigo 9.º
+
+Espécies proibidas
 
 1 - ...
 
@@ -144,7 +174,9 @@ Dimensões das redes
 
 3 - Nos meses de Janeiro e Fevereiro não é autorizada a captura, a manutenção a bordo e o desembarque de tamboril, excepto como captura acessória, até 5 % das capturas totais mantidas a bordo e desembarcadas.
 
-###### Artigo 11.º — Pesca com majoeiras
+Artigo 11.º
+
+Pesca com majoeiras
 
 1 - ...
 
@@ -160,6 +192,6 @@ O anexo ii do Regulamento da Pesca por Arte de Emalhar, aprovado pela [Portaria 
 
 Dimensões das caçadas de redes de emalhar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17100/0588605887.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17100/0588605887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17100/0588605887.pdf)
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 27 de Agosto de 2009.

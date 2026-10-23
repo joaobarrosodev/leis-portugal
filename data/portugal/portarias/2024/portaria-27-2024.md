@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02100/0000800026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2024/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-2024-839655448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b763b227fc830f183d0617ad5ce9692014ebcfdbcc3e91959e2cb3e02a198040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da6ca64da647ccb35f4d64465e27da5a5907f89959c09ac126ec66b8cd003747
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,15 @@ subjects:
 - Estatuto
 - Instituto Português do Desporto e Juventude
 relationships:
+- type: amends
+  target: pt:numero:portaria:11/2012
+  label: Altera, a partir de 31 de janeiro de 2024, nos termos do artigo 6.º do presente diploma, os artigos 1.º, 3.º, 5.º,
+    7.º e 9.º, adita os artigos 7.º-A, 9.º-A, 15.º-A, 21.º-A e 21.º-B, revoga as alíneas l) e n) do n.º 2 do artigo 3.º, as
+    alíneas g) e h) do n.º 2 do artigo 5.º, as alíneas m) e o) do n.º 2 do artigo 7.º e as alíneas h), j), k), l) e m) do
+    n.º 2 do artigo 9.º e republica os Estatutos do Instituto Português do Desporto e Juventude, I. P., aprovados pela Portaria
+    n.º 11/2012, de 11 de janeiro, Diário da República n.º 8/2012, Série I
+  source: null
+  date: '2012-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
   label: null
@@ -93,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre
+- type: cites
+  target: pt:dre:200907658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216714697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69956140:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:51Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +234,9 @@ l) A Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Re
 
 7 - O IPDJ, I. P., assegura a gestão de um sistema de atendimento multicanal, podendo criar postos de atendimento locais até um número máximo de 60, preferencialmente na dependência das Direções Regionais em que territorialmente se integram, com o objetivo de divulgar os programas e iniciativas públicas nacionais e internacionais no âmbito das suas atribuições, bem como garantir o acesso de proximidade a serviços que contribuem para a formação e desenvolvimento dos jovens.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -235,7 +270,9 @@ m) [...]
 
 n) (Revogada.)
 
-###### Artigo 5.º — Departamento Jurídico
+Artigo 5.º
+
+Departamento Jurídico
 
 1 - O Departamento Jurídico é responsável pela prestação de apoio e assessoria jurídica e pela coordenação, desenvolvimento e aperfeiçoamento do quadro legal que regule direta ou indiretamente as áreas do desporto e da juventude.
 
@@ -261,7 +298,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 7.º — Departamento de Políticas de Juventude e Associativismo
+Artigo 7.º
+
+Departamento de Políticas de Juventude e Associativismo
 
 1 - O Departamento de Políticas de Juventude e Associativismo assegura a relação com as demais entidades que contribuam para o desenvolvimento de políticas de juventude, assim como com os jovens, as associações juvenis, as associações de estudantes e entidades equiparadas, e grupos informais de jovens ou entidades que desenvolvam atividades para jovens em particular, enquadradas em programas específicos de apoio às suas atividades ou iniciativas, nos termos do Regime Jurídico do Associativismo Jovem.
 
@@ -309,7 +348,9 @@ t) Assegurar a formação de formadores em associativismo juvenil;
 
 u) [Anterior alínea p).]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação na área do desporto.
 
@@ -377,7 +418,9 @@ i) Monitorizar a atribuição de apoios financeiros no âmbito do Programa Escol
 
 j) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 9.º-A — Departamento de Fiscalização e Auditoria
+Artigo 9.º-A
+
+Departamento de Fiscalização e Auditoria
 
 1 - O Departamento de Fiscalização e Auditoria compreende e prossegue a ação de fiscalização e auditoria no âmbito das competências do Instituto.
 
@@ -411,7 +454,9 @@ m) Elaborar, gerir e executar um programa de auditorias internas da qualidade;
 
 n) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 15.º-A — Divisão de Contraordenações e Contencioso
+Artigo 15.º-A
+
+Divisão de Contraordenações e Contencioso
 
 1 - À Divisão de Contraordenações e Contencioso, abreviadamente designada por DCC, compete, nomeadamente:
 
@@ -433,7 +478,9 @@ h) Instruir os inquéritos e processos disciplinares internos.
 
 2 - São ainda da competência da Divisão de Contraordenações e Contencioso todas as matérias que lhe sejam atribuídas por deliberação do Conselho Diretivo, bem como pelo diretor do Departamento Jurídico no âmbito das suas competências.
 
-###### Artigo 21.º-A — Divisão de Programas Sociais Norte e Centro
+Artigo 21.º-A
+
+Divisão de Programas Sociais Norte e Centro
 
 À Divisão de Programas Sociais Norte e Centro compete, nomeadamente:
 
@@ -441,7 +488,9 @@ a) Promover a consolidação dos projetos locais, designadamente no âmbito do P
 
 b) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 21.º-B — Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas
+Artigo 21.º-B
+
+Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas
 
 À Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas compete, nomeadamente:
 
@@ -465,7 +514,7 @@ A presente portaria entra em vigor no dia a seguir ao da sua publicação.
 
 A criação da Divisão de Programas Sociais Norte e Centro e da Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas produz efeitos à data de entrada em vigor do [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de janeiro de 2024. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 7 de janeiro de 2024. - O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia, em 8 de janeiro de 2024.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de janeiro de 2024. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 7 de janeiro de 2024. - O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia, em 8 de janeiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -857,7 +906,9 @@ g) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
 (Revogado.)
 
-###### Artigo 13.º — Divisão de Recursos Humanos
+###### Artigo 13.º
+
+##### Divisão de Recursos Humanos
 
 À Divisão de Recursos Humanos, abreviadamente designada por DRH, compete:
 
@@ -879,7 +930,9 @@ h) Assegurar o planeamento, organização e coordenação do serviço cívico do
 
 i) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 14.º — Divisão de Recursos Financeiros
+###### Artigo 14.º
+
+##### Divisão de Recursos Financeiros
 
 À Divisão de Recursos Financeiros, abreviadamente designada por DRF, compete:
 
@@ -897,7 +950,9 @@ f) Assegurar a afetação dos recursos financeiros aos serviços, tendo em vista
 
 g) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 15.º — Divisão de Aprovisionamento e Património
+###### Artigo 15.º
+
+##### Divisão de Aprovisionamento e Património
 
 À Divisão de Aprovisionamento e Património, abreviadamente designada por DAP, compete:
 
@@ -915,7 +970,9 @@ f) Articular com as Direções Regionais todos os procedimentos necessários ao 
 
 g) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 15.º-A — Divisão de Contraordenações e Contencioso
+###### Artigo 15.º-A
+
+##### Divisão de Contraordenações e Contencioso
 
 1 - À Divisão de Contraordenações e Contencioso, abreviadamente designada por DCC, compete, nomeadamente:
 
@@ -937,7 +994,9 @@ h) Instruir os inquéritos e processos disciplinares internos.
 
 2 - São ainda da competência da Divisão de Contraordenações e Contencioso todas as matérias que lhe sejam atribuídas por deliberação do Conselho Diretivo, bem como pelo diretor do Departamento Jurídico no âmbito das suas competências.
 
-###### Artigo 16.º — Divisão de Desporto Federado
+###### Artigo 16.º
+
+##### Divisão de Desporto Federado
 
 À Divisão de Desporto Federado, abreviadamente designada por DDF, compete:
 
@@ -955,7 +1014,9 @@ f) Garantir uma permanente articulação com as entidades públicas e privadas q
 
 g) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 17.º — Divisão de Programas
+###### Artigo 17.º
+
+##### Divisão de Programas
 
 1 - A Divisão de Programas assegura a coordenação e a gestão dos programas e projetos do IPDJ, I. P., dirigidos aos jovens.
 
@@ -977,7 +1038,9 @@ g) Incentivar a participação dos jovens em organizações, iniciativas e progr
 
 h) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 18.º — Divisão das Infraestruturas Desportivas
+###### Artigo 18.º
+
+##### Divisão das Infraestruturas Desportivas
 
 À Divisão das Infraestruturas Desportivas, abreviadamente designada por DIED, compete:
 
@@ -1001,7 +1064,9 @@ i) Participar na transposição de normas e especificações técnicas europeias
 
 j) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 19.º — Divisão de Infraestruturas Tecnológicas
+###### Artigo 19.º
+
+##### Divisão de Infraestruturas Tecnológicas
 
 À Divisão de Infraestruturas Tecnológicas, abreviadamente designada por DIET, compete:
 
@@ -1021,7 +1086,9 @@ g) Participar na realização das ações necessárias à racionalização, simp
 
 h) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 20.º — Divisão de Modernização Administrativa e Desenvolvimento Organizacional
+###### Artigo 20.º
+
+##### Divisão de Modernização Administrativa e Desenvolvimento Organizacional
 
 À Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao Conselho Diretivo, abreviadamente designada por DMADO, compete:
 
@@ -1063,7 +1130,9 @@ h) Zelar pela representação institucional, bem como promover a imagem do IPDJ,
 
 i) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
 
-###### Artigo 21.º-A — Divisão de Programas Sociais Norte e Centro
+###### Artigo 21.º-A
+
+##### Divisão de Programas Sociais Norte e Centro
 
 À Divisão de Programas Sociais Norte e Centro compete, nomeadamente:
 
@@ -1108,3 +1177,5 @@ g) Um representante designado pelas Associações Distritais de Municípios.
 ###### Artigo 23.º — Norma transitória
 
 (Revogado.)
+
+117297002

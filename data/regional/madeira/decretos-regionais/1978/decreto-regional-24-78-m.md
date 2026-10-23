@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/24-1978-294719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b51e55810e7ae78fb80c9d83b67faa84578203ec5d9d808e9ac27c3208bffcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a3022761793e21082cdf7f485153b4e57cdbaed7c4e887dd98151ee57ec7ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Transitária
+- Câmara Municipal
+- Licenciamento
+- Madeira.região Autónoma
+- Regime Jurídico
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:18Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +97,11 @@ São os referidos órgãos da administração autárquica que se encontram nas c
 
 Assim, nos termos da alínea b) do artigo 22.º do Decreto n.º 318-D/76, de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira determina, para valer como lei:
 
-###### Artigo 1.º Compete às câmaras municipais a atribuição de licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, mediante abertura de concurso público com o parecer favorável da competente Secretaria do Governo Regional.
+Artigo 1.º Compete às câmaras municipais a atribuição de licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, mediante abertura de concurso público com o parecer favorável da competente Secretaria do Governo Regional.
 
-###### Art. 2.º O local de estacionamento dentro de cada freguesia será fixado pela câmara municipal, mediante parecer favorável da respectiva junta de freguesia, ouvidos os motoristas directamente interessados.
+Art. 2.º O local de estacionamento dentro de cada freguesia será fixado pela câmara municipal, mediante parecer favorável da respectiva junta de freguesia, ouvidos os motoristas directamente interessados.
 
-###### Art. 3.º - 1 - Na atribuição de licenças observar-se-á a seguinte ordem de prioridades:
+Art. 3.º - 1 - Na atribuição de licenças observar-se-á a seguinte ordem de prioridades:
 
 a) Motoristas de automóveis-táxi ou de aluguer de passageiros letra A e restantes motoristas profissionais, na proporção de 70% aos primeiros e 30% aos segundos;
 
@@ -114,28 +121,28 @@ b) Não havendo concorrentes na freguesia, preferem os candidatos residentes no 
 
 4 - Em relação aos motoristas referidos na alínea a) do n.º 1, têm prioridade os requerentes que ainda não tenham qualquer licença e, entre estes, os que exerçam a profissão há mais tempo.
 
-###### Art. 4.º - 1 - O tempo de exercício efectivo da profissão será unicamente o que resultar do horário de trabalho devidamente aprovado e registado nas fichas do Sindicato dos Motoristas do Funchal.
+Art. 4.º - 1 - O tempo de exercício efectivo da profissão será unicamente o que resultar do horário de trabalho devidamente aprovado e registado nas fichas do Sindicato dos Motoristas do Funchal.
 
 2 - Para efeitos da contagem de tempo referida no número anterior, serão descontados todos os períodos de interrupção de exercício efectivo da profissão, com excepção dos motivados por doença devidamente comprovada perante o Sindicato através de declarações da caixa de previdência.
 
-###### Art. 5.º - 1 - A concessão de licenças a motoristas profissionais implica a obrigação de os beneficiários passarem a exercer a actividade de condutores dos respectivos veículos ligeiros de aluguer para passageiros.
+Art. 5.º - 1 - A concessão de licenças a motoristas profissionais implica a obrigação de os beneficiários passarem a exercer a actividade de condutores dos respectivos veículos ligeiros de aluguer para passageiros.
 
 2 - A concessão de licenças a cooperativas obriga a que a condução passe a ser feita pelos seus sócios.
 
-###### Art. 6.º - 1 - As câmaras municipais deverão comunicar a atribuição de licenças à Secretaria Regional competente e aos interessados, devendo estes requerer, no prazo de noventa dias, a inspecção do veículo à referida Secretaria Regional.
+Art. 6.º - 1 - As câmaras municipais deverão comunicar a atribuição de licenças à Secretaria Regional competente e aos interessados, devendo estes requerer, no prazo de noventa dias, a inspecção do veículo à referida Secretaria Regional.
 
 2 - No prazo de sessenta dias a contar da aprovação do veículo na inspecção, os interessados deverão requerer a passagem do título de licenciamento.
 
-###### Art. 7.º - 1 - Serão canceladas as licenças concedidas ao abrigo deste diploma com fundamento em declarações dolosas ou pressupostos afectados por erro.
+Art. 7.º - 1 - Serão canceladas as licenças concedidas ao abrigo deste diploma com fundamento em declarações dolosas ou pressupostos afectados por erro.
 
 2 - A inobservância pelos interessados do disposto nos artigos 5.º e 6.º implica o cancelamento da respectiva licença.
 
-###### Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 14 de Março de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 30 de Março de 1978.**
+Assinado em 30 de Março de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

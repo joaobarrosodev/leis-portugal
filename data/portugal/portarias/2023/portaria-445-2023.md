@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24300/0003200033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445/2023/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-2023-799214998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb2ad4165dc67bbdcdbb148bed35434bbc283ea21788fe230ebf51052684b07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8edc13877d220edf496e739cf1f5f22cea688cf255deaeee80a08a1080555a89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
 subjects:
 - Acreditação
 - Barcelos
-- Património Cultural
-- Ponte de LIMA
-- Protecção do Património
-- Património Natural
-- Santiago de Compostela
-- Porto
 - Caminho de Santiago
+- Património Cultural
+- Património Natural
+- Ponte de LIMA
+- Porto
+- Protecção do Património
+- Santiago de Compostela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/51/2019/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/2019/04/17/p/dre
+- type: cites
+  target: pt:dre:122124252:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:19Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +125,11 @@ Ao abrigo do disposto nos termos do artigo 9.º do [Decreto-Lei n.º 51/2019](ht
 
 É certificado como itinerário do Caminho de Santiago o Caminho Português de Santiago Central - Porto e Norte e reconhecidos como de elevado valor patrimonial o traçado histórico do Porto (entre a entrada norte da Ponte D. Luís e a Praça de Carlos Alberto), o traçado histórico de Barcelos (entre o Largo do Tanque em Barcelinhos e o Largo do Bem Feito em Barcelos) e o traçado histórico de Ponte de Lima (entre a Capela de Nossa Senhora da Guia em Ponte de Lima e o Largo da Alegria em Arcozelo), conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
 
-**O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 24 de novembro de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro, em 14 de novembro de 2023.**
+O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 24 de novembro de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro, em 14 de novembro de 2023.
 
 ## ANEXO — Planta do itinerário certificado do Caminho Português de Santiago Central - Porto e Norte
 
-![](https://files.diariodarepublica.pt/images/799214998/797155786.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/799214998/797155786.png) |
+| --- |
+
+117160606

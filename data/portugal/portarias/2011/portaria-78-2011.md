@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/2011/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-2011-279869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d04211e1125cf176e50a45134a5bce9acdd15f4d370e1ea34eeaa17fc7400121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be5c69ed90bf90fdd42d44c619c05dfc9badee70209964cc115d409489be5e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armamar
+- Autarquia Local
 - Castro Daire
-- Julgado de Paz
 - Definição de Competências
 - Instalação de Serviços
+- Julgado de Paz
 - Lamego
 - Moimenta da Beira
 - Regulamento Interno
 - Resende
 - Substituição de Funções
 - Tarouca
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/192/2004/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/192/2004/02/28/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:10Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +137,9 @@ São alterados os artigos 1.º e 3.º do Regulamento Interno do Julgado de Paz d
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, para o efeito, for nomeado pelo Conselho de Acompanhamento dos Julgados de Paz.
 

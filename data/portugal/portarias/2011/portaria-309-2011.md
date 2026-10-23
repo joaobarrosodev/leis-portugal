@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/309/2011/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-2011-145038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52fa0a9466f62563819952116e70d5a75e7da329e418db8e73608c9ed866d7de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b097c9f2cdbd730a2512c6dbcf4458cf9ac010ece8e080627927c756935ef9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Extinção de Lugares
-- Pessoal de Justiça
 - Integração de Trabalhadores
-- Supremo Tribunal de Justiça
-- Quadro de Pessoal
 - Ministério Público
 - Organização Judiciária
+- Pessoal de Justiça
+- Quadro de Pessoal
 - Secretaria Judicial
+- Supremo Tribunal de Justiça
 - Tribunal Administrativo
 relationships:
 - type: cites
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
+- type: cites
+  target: pt:dre:167413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:48Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +190,7 @@ A presente portaria entra em vigor no dia 22 de Dezembro de 2011.
 
 Em 19 de Dezembro de 2011.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz.
 
 ## ANEXO — «MAPA ANEXO
 
@@ -194,7 +210,7 @@ Secretaria-Geral do Tribunal de Comarca
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e dez secções de processos, sendo uma afecta à vara de competência mista cível e criminal, cinco afectas aos juízos cíveis, três afectas aos juízos criminais e uma afecta ao juízo de execução:
+Secção central e de serviço externo e dez secções de processos, sendo uma afecta à vara de competência mista cível e criminal, cinco afectas aos juízos cíveis, três afectas aos juízos criminais e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -410,7 +426,7 @@ Oeiras
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e nove secções de processos, sendo quatro afectas aos juízos de competência especializada cível, quatro afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
+Secção central e de serviço externo e nove secções de processos, sendo quatro afectas aos juízos de competência especializada cível, quatro afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -464,7 +480,7 @@ Escrivão auxiliar ... 19
 
 Serviços do Ministério Público das varas cíveis, dos juízos cíveis e dos juízos de pequena instância cível
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -482,7 +498,7 @@ São João da Madeira
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e três secções de processos:
+Secção central e de serviço externo e três secções de processos:
 
 Pessoal:
 

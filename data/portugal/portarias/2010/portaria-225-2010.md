@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225/2010/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11a87341a6c1945e18aeb0647d22bc6872ff7a34ede8398b85c5e27e42462c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50462a07312d8b4867710d885d9e1d49c565aea7bb345516cbaa7e958c254e75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Direcção Regional de Agricultura e Pescas
-- Pesca
 - Apoio ao Investimento
-- Regime de Apoio
-- Intervenção Operacional Pescas
-- Regulamento
+- Direcção Regional de Agricultura e Pescas
 - Embarcação de Pesca
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
+- Regime de Apoio
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:503051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503051:por
+  label: "Alterados os arts 14º, 15º, 19º, da Port 424-F/2008, de 13-jun, na redação do presente diploma, e republicado pela\
+    \ PORT.312/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-2013-503051
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 14.º do Regulamento do Regime de Apoio aos Investimentos a Bordo e Seletividade aprovado pela Port\
+    \ 424-F/2008 de 13-jun, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
   label: null
@@ -88,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-f/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-f/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551631:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:07Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +157,9 @@ Candidaturas
 
 3 - ...
 
-###### Artigo 15.º — Decisão e contratação
+Artigo 15.º
+
+Decisão e contratação
 
 1 - ...
 
@@ -148,7 +171,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 19.º — Obrigações dos beneficiários
+Artigo 19.º
+
+Obrigações dos beneficiários
 
 ...
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/12300/11551166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1979-383617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d39af8febdb0feed4cede843b6dd044434ae811f1a995b59aa6fa141d6a34177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc76a7fa9d0561b71a3dbf798affcf2df0b17dda8e43da5e1a215c39e2694f8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:578305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:578305:por
+  label: "Revogado pelo DRG.13/81/M.07.04.1981.ARM, DR.IS [141] de 23.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/13-1981-578305
+  date: '1981-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:53Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +138,11 @@ O Governo Regional, nos termos da alínea b) do n.º 1 do artigo 229.º da Const
 
 Atribuições da Secretaria Regional dos Assuntos Sociais
 
-###### Artigo 1.º Incumbe à Secretaria Regional dos Assuntos Sociais, dentro dos limites legalmente estabelecidos, a definição da política de saúde, segurança social e educação especial na área da Região Autónoma da Madeira e as correspondentes actividades que expressamente não cumpram a outros departamentos governamentais.
+Artigo 1.º Incumbe à Secretaria Regional dos Assuntos Sociais, dentro dos limites legalmente estabelecidos, a definição da política de saúde, segurança social e educação especial na área da Região Autónoma da Madeira e as correspondentes actividades que expressamente não cumpram a outros departamentos governamentais.
 
 Competência genérica
 
-###### Art. 2.º Compete genericamente à Secretaria Regional dos Assuntos Sociais:
+Art. 2.º Compete genericamente à Secretaria Regional dos Assuntos Sociais:
 
 a) Superintender nos serviços e instituições do âmbito da saúde, segurança social e de educação especial implantados a nível regional, coordenando a sua actuação;
 
@@ -136,7 +156,7 @@ e) Promover a elaboração do projecto de orçamento referente aos mencionados s
 
 Competência em matéria de saúde
 
-###### Art. 3.º Compete-lhe especificamente no sector da saúde:
+Art. 3.º Compete-lhe especificamente no sector da saúde:
 
 a) Assegurar a efectiva realização do direito à saúde, procurando a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção de saúde, prevenção e tratamento da doença e reabilitação, ocupando-se da prestação de cuidados de saúde diferenciados, com prioridade para a prevenção primária;
 
@@ -150,7 +170,7 @@ e) Superintender nas escolas de enfermagem da Região, assegurando o cumprimento
 
 Competência em matéria de segurança social
 
-###### Art. 4.º Compete-lhe especificamente no sector da segurança social:
+Art. 4.º Compete-lhe especificamente no sector da segurança social:
 
 a) Assegurar a efectiva realização do direito à segurança social, adoptando formas adequadas de resposta a todas as situações de falta ou diminuição de meios de subsistência ou de capacidade de trabalho;
 
@@ -170,7 +190,7 @@ h) Promover a prestação de socorros urgentes em casos de calamidades públicas
 
 Competência em matéria de educação especial
 
-###### Art. 5.º Compete-lhe especificamente no sector da educação especial:
+Art. 5.º Compete-lhe especificamente no sector da educação especial:
 
 a) Assegurar a educação e integração familiar e social das crianças e adolescentes com deficiências auditivas, visuais, intelectuais, motoras e outras que exijam métodos especiais de acção;
 
@@ -182,13 +202,13 @@ d) Coordenar as actividades dos estabelecimentos de serviços que integra e asse
 
 Responsabilidade do Secretário Regional
 
-###### Art. 6.º O Secretário Regional dos Assuntos Sociais responde perante o Governo Regional pela definição e orientação política da Secretaria Regional.
+Art. 6.º O Secretário Regional dos Assuntos Sociais responde perante o Governo Regional pela definição e orientação política da Secretaria Regional.
 
 ### CAPÍTULO II — Estrutura e organização internas
 
 Estrutura
 
-###### Art. 7.º A Secretaria Regional tem a seguinte estrutura interna:
+Art. 7.º A Secretaria Regional tem a seguinte estrutura interna:
 
 a) Gabinete do Secretário Regional;
 
@@ -198,11 +218,11 @@ c) Serviços de utilização comum.
 
 Gabinete do Secretário Regional
 
-###### Art. 8.º O Gabinete do Secretário Regional funciona sob responsabilidade do chefe de gabinete, que assegura o expediente e representa o Secretário Regional nos actos que não sejam da estrita competência deste.
+Art. 8.º O Gabinete do Secretário Regional funciona sob responsabilidade do chefe de gabinete, que assegura o expediente e representa o Secretário Regional nos actos que não sejam da estrita competência deste.
 
 Serviços técnicos e administrativos
 
-###### Art. 9.º São os seguintes os serviços técnicos e administrativos:
+Art. 9.º São os seguintes os serviços técnicos e administrativos:
 
 a) Serviço de Apoio Consultivo e Inspecção;
 
@@ -216,11 +236,11 @@ e) Secretaria.
 
 Serviço de Apoio Consultivo e Inspecção
 
-###### Art. 10.º Compete ao Serviço de Apoio Consultivo e Inspecção elaborar estudos, relatórios e informações relativamente aos serviços dependentes da Secretaria Regional ou instituições por ela tuteladas e exercer a função de inspecção técnico-administrativa sobre os mesmos serviços e instituições e proceder à instrução dos processos disciplinares, inquéritos e sindicâncias.
+Art. 10.º Compete ao Serviço de Apoio Consultivo e Inspecção elaborar estudos, relatórios e informações relativamente aos serviços dependentes da Secretaria Regional ou instituições por ela tuteladas e exercer a função de inspecção técnico-administrativa sobre os mesmos serviços e instituições e proceder à instrução dos processos disciplinares, inquéritos e sindicâncias.
 
 Serviço de Gestão Financeira
 
-###### Art. 11.º Compete ao Serviço de Gestão Financeira:
+Art. 11.º Compete ao Serviço de Gestão Financeira:
 
 a) Planificar os recursos financeiros atribuídos à Secretaria Regional dos Assuntos Sociais, em articulação com as propostas apresentadas pelos serviços e instituições dela dependentes;
 
@@ -234,7 +254,7 @@ e) Avaliar e controlar periodicamente a gestão das instituições e serviços d
 
 Serviço de Planeamento e Organização
 
-###### Art. 12.º Compete ao Serviço de Planeamento e Organização:
+Art. 12.º Compete ao Serviço de Planeamento e Organização:
 
 a) Elaborar os planos de recolha de documentação e informação indispensáveis ao planeamento da política da Secretaria Regional;
 
@@ -250,17 +270,17 @@ f) Realizar os demais trabalhos de que for incumbido pela Secretaria Regional.
 
 Serviço de Contencioso
 
-###### Art. 13.º - 1 - Compete ao Serviço de Contencioso exercer o patrocínio judiciário relativamente à Secretaria Regional e prestar o apoio jurídico que lhe seja solicitado.
+Art. 13.º - 1 - Compete ao Serviço de Contencioso exercer o patrocínio judiciário relativamente à Secretaria Regional e prestar o apoio jurídico que lhe seja solicitado.
 
 2 - Para efeitos de representação em juízo, constituem prova suficiente os ofícios subscritos pelo Secretário Regional.
 
 Serviço de Secretaria
 
-###### Art. 14.º Compete ao Serviço de Secretaria assegurar o expediente, executar o serviço de economato e contabilidade da Secretaria Regional e dos serviços internos da mesma e as demais tarefas que lhe forem cometidas.
+Art. 14.º Compete ao Serviço de Secretaria assegurar o expediente, executar o serviço de economato e contabilidade da Secretaria Regional e dos serviços internos da mesma e as demais tarefas que lhe forem cometidas.
 
 Serviços de utilização comum
 
-###### Art. 15.º São os seguintes os serviços de utilização comum:
+Art. 15.º São os seguintes os serviços de utilização comum:
 
 a) Serviço de Manutenção e Equipamento;
 
@@ -272,7 +292,7 @@ d) Serviço de Educação Sanitária.
 
 Serviço de Manutenção e Equipamento
 
-###### Art. 16.º - 1 - Compete ao Serviço de Manutenção e Equipamento prestar aos estabelecimentos e serviços dependentes da Secretaria Regional a assistência técnica que lhe seja solicitada ou determinada relativamente a obras de pequena conservação, apetrechamento e manutenção.
+Art. 16.º - 1 - Compete ao Serviço de Manutenção e Equipamento prestar aos estabelecimentos e serviços dependentes da Secretaria Regional a assistência técnica que lhe seja solicitada ou determinada relativamente a obras de pequena conservação, apetrechamento e manutenção.
 
 2 - Compete-lhe também executar os trabalhos referidos no número anterior que lhe sejam cometidos, ainda que de maior volume.
 
@@ -280,7 +300,7 @@ Serviço de Manutenção e Equipamento
 
 Serviço de Parque Automóvel
 
-###### Art. 17.º Compete ao Serviço de Parque Automóvel:
+Art. 17.º Compete ao Serviço de Parque Automóvel:
 
 a) Programar a utilização e manutenção de todas as viaturas afectas ao parque automóvel da Secretaria Regional;
 
@@ -302,7 +322,7 @@ i) Elaborar a estatística mensal de utilização das viaturas.
 
 Serviço de Formação Permanente de Pessoal
 
-###### Art. 18.º Compete ao Serviço de Formação Permanente de Pessoal:
+Art. 18.º Compete ao Serviço de Formação Permanente de Pessoal:
 
 a) O acolhimento, orientação e integração dos novos funcionários;
 
@@ -314,7 +334,7 @@ d) Informação técnico-profissional.
 
 Serviço de Educação Sanitária
 
-###### Art. 19.º Compete ao Serviço de Educação Sanitária:
+Art. 19.º Compete ao Serviço de Educação Sanitária:
 
 a) Promover as acções tendentes à motivação do pessoal de saúde para o diálogo e abertura em relação à população;
 
@@ -328,7 +348,7 @@ d) Promover a difusão dos meios de educação para a saúde, nomeadamente atrav
 
 Estrutura
 
-###### Art. 20.º A Secretaria Regional tem os seguintes serviços externos:
+Art. 20.º A Secretaria Regional tem os seguintes serviços externos:
 
 a) Centro Regional de Saúde Pública;
 
@@ -342,7 +362,7 @@ d) Centro Regional de Educação Especial.
 
 Órgãos de direcção
 
-###### Art. 21.º São órgãos de direcção do Centro Regional de Saúde Pública:
+Art. 21.º São órgãos de direcção do Centro Regional de Saúde Pública:
 
 O conselho de administração;
 
@@ -350,7 +370,7 @@ O conselho de gerência.
 
 Composição do conselho de administração
 
-###### Art. 22.º O conselho de administração tem a seguinte composição:
+Art. 22.º O conselho de administração tem a seguinte composição:
 
 Um representante da Secretaria Regional dos Assuntos Sociais, que preside;
 
@@ -362,7 +382,7 @@ Um representante da Assembleia Regional.
 
 Competência do conselho de administração
 
-###### Art. 23.º Compete ao conselho de administração:
+Art. 23.º Compete ao conselho de administração:
 
 a) Apreciar e aprovar os planos de acção anuais e plurianuais para o Centro;
 
@@ -380,11 +400,11 @@ g) Emitir parecer sobre os demais assuntos que lhe forem apresentados pelo conse
 
 Composição do conselho de gerência
 
-###### Art. 24.º O conselho de gerência é constituído por um médico, um enfermeiro e por um elemento administrativo, nomeados pelo Secretário Regional dos Assuntos Sociais para um mandato de três anos, renovável.
+Art. 24.º O conselho de gerência é constituído por um médico, um enfermeiro e por um elemento administrativo, nomeados pelo Secretário Regional dos Assuntos Sociais para um mandato de três anos, renovável.
 
 Competência do conselho de gerência
 
-###### Art. 25.º - 1 - Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização, tomando e propondo as medidas necessárias para que as finalidades que lhe estão atribuídas sejam prosseguidas em situação económica e financeira equilibradas.
+Art. 25.º - 1 - Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização, tomando e propondo as medidas necessárias para que as finalidades que lhe estão atribuídas sejam prosseguidas em situação económica e financeira equilibradas.
 
 2 - Compete-lhe, em especial:
 
@@ -418,7 +438,7 @@ o) Autorizar a substituição de equipamento insusceptível de reparação até 
 
 Órgãos técnicos
 
-###### Art. 26.º - 1 - São órgãos de apoio técnico:
+Art. 26.º - 1 - São órgãos de apoio técnico:
 
 a) Direcção dos serviços médicos;
 
@@ -436,11 +456,11 @@ c) Direcção dos serviços administrativos.
 
 Competência dos órgãos de apoio técnico
 
-###### Art. 27.º Compete aos órgãos de apoio técnico a coordenação, orientação, contrôle, eficiência e disciplina dos respectivos sectores de actuação.
+Art. 27.º Compete aos órgãos de apoio técnico a coordenação, orientação, contrôle, eficiência e disciplina dos respectivos sectores de actuação.
 
 Órgãos consultivos
 
-###### Art. 28.º São órgãos consultivos:
+Art. 28.º São órgãos consultivos:
 
 a) Conselho técnico médico;
 
@@ -450,11 +470,11 @@ c) Conselho técnico administrativo.
 
 Composição do conselho técnico médico
 
-###### Art. 29.º O conselho técnico médico é constituído pelos elementos da direcção dos serviços médicos, cujo director presidirá, pelos médicos responsáveis pelos centros de saúde concelhios e pelos médicos coordenadores das valências especializadas de saúde pública.
+Art. 29.º O conselho técnico médico é constituído pelos elementos da direcção dos serviços médicos, cujo director presidirá, pelos médicos responsáveis pelos centros de saúde concelhios e pelos médicos coordenadores das valências especializadas de saúde pública.
 
 Competência do conselho técnico médico
 
-###### Art. 30.º Compete ao conselho técnico médico:
+Art. 30.º Compete ao conselho técnico médico:
 
 a) Pronunciar-se sobre o rendimento dos serviços médicos e propor o que julgar útil para a sua melhoria;
 
@@ -474,11 +494,11 @@ h) Apreciar as regras quanto à elaboração do relatório anual.
 
 Composição do conselho técnico de enfermagem
 
-###### Art. 31.º O conselho técnico de enfermagem é presidido pelo enfermeiro-chefe e composto pela direcção dos serviços de enfermagem do Centro, e pelos enfermeiros responsáveis pelos centros concelhios e pelas valências de saúde pública.
+Art. 31.º O conselho técnico de enfermagem é presidido pelo enfermeiro-chefe e composto pela direcção dos serviços de enfermagem do Centro, e pelos enfermeiros responsáveis pelos centros concelhios e pelas valências de saúde pública.
 
 Competência do conselho técnico de enfermagem
 
-###### Art. 32.º Compete ao conselho técnico de enfermagem:
+Art. 32.º Compete ao conselho técnico de enfermagem:
 
 a) Dar parecer sobre as medidas necessárias ao melhor funcionamento dos serviços de enfermagem;
 
@@ -500,7 +520,7 @@ i) Apreciar as regras quanto à elaboração do relatório anual.
 
 Composição do conselho técnico administrativo
 
-###### Art. 33.º - 1 - O conselho técnico administrativo tem a seguinte composição:
+Art. 33.º - 1 - O conselho técnico administrativo tem a seguinte composição:
 
 a) Membros da direcção dos serviços administrativos;
 
@@ -514,7 +534,7 @@ d) Responsáveis administrativos pelos centros concelhios.
 
 Competência do conselho técnico administrativo
 
-###### Art. 34.º Compete ao conselho técnico administrativo:
+Art. 34.º Compete ao conselho técnico administrativo:
 
 a) Dar parecer sobre os assuntos com implicações nos serviços de apoio geral, procurando obter a maior eficiência e rentabilidade;
 
@@ -532,7 +552,7 @@ g) Pronunciar-se sobre os assuntos que lhe sejam submetidos pela direcção dos 
 
 Estrutura dos centros de saúde concelhios
 
-###### Art. 35.º - 1 - Os centros de saúde concelhios e subconselhios funcionarão como unidades técnicas dependentes do Centro Regional de Saúde Pública e terão a dirigi-los uma direcção técnica constituída por três elementos, sendo um médico, um enfermeiro e um administrativo, que responderão directamente perante o conselho de gerência.
+Art. 35.º - 1 - Os centros de saúde concelhios e subconselhios funcionarão como unidades técnicas dependentes do Centro Regional de Saúde Pública e terão a dirigi-los uma direcção técnica constituída por três elementos, sendo um médico, um enfermeiro e um administrativo, que responderão directamente perante o conselho de gerência.
 
 2 - Os centros de saúde subconcelhios, quando não autónomos, constituem subunidades, que funcionam na dependência directa do respectivo centro de saúde concelhio.
 
@@ -540,7 +560,7 @@ Estrutura dos centros de saúde concelhios
 
 Órgãos de direcção
 
-###### Art. 36.º São órgãos de direcção do Centro:
+Art. 36.º São órgãos de direcção do Centro:
 
 O conselho de administração;
 
@@ -550,7 +570,7 @@ O administrador.
 
 Composição do conselho de administração
 
-###### Art. 37.º O conselho de administração tem a seguinte composição:
+Art. 37.º O conselho de administração tem a seguinte composição:
 
 Um representante da Secretaria Regional dos Assuntos Sociais, que preside;
 
@@ -564,7 +584,7 @@ Um representante da Assembleia Regional.
 
 Competência do conselho de administração
 
-###### Art. 38.º - 1 - Compete ao conselho de administração a definição das linhas gerais da política do centro hospitalar, acompanhando a sua execução e procedendo à sua avaliação periódica.
+Art. 38.º - 1 - Compete ao conselho de administração a definição das linhas gerais da política do centro hospitalar, acompanhando a sua execução e procedendo à sua avaliação periódica.
 
 2 - Compete-lhe, em especial:
 
@@ -584,7 +604,7 @@ g) Emitir parecer sobre os demais assuntos que lhe forem apresentados pelo conse
 
 Composição do conselho de gerência
 
-###### Art. 39.º O conselho de gerência tem a seguinte composição:
+Art. 39.º O conselho de gerência tem a seguinte composição:
 
 Um médico, com, pelo menos, cinco anos de carreira hospitalar, pertencente ao pessoal permanente do Centro;
 
@@ -594,7 +614,7 @@ Um administrador.
 
 Competência do conselho de gerência
 
-###### Art. 40.º Compete ao conselho de gerência a prática de todos os actos de gestão que não estejam reservados a outros órgãos, nomeadamente:
+Art. 40.º Compete ao conselho de gerência a prática de todos os actos de gestão que não estejam reservados a outros órgãos, nomeadamente:
 
 a) Orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibradas;
 
@@ -612,7 +632,7 @@ g) Autorizar as despesas, nomeadamente com bens de consumo, aquisição de mater
 
 Competência do administrador
 
-###### Art. 41.º As funções de administrador do Centro são desempenhadas por um profissional com o curso de Administração Hospitalar, a quem compete, em especial:
+Art. 41.º As funções de administrador do Centro são desempenhadas por um profissional com o curso de Administração Hospitalar, a quem compete, em especial:
 
 a) Dar cumprimento às medidas de execução autorizadas pelos demais órgãos de gestão do Centro;
 
@@ -626,7 +646,7 @@ e) Praticar os demais actos que lhe forem delegados.
 
 Órgãos técnicos
 
-###### Art. 42.º São órgãos técnicos:
+Art. 42.º São órgãos técnicos:
 
 Direcção médica;
 
@@ -636,11 +656,11 @@ Direcção de serviços.
 
 Composição da direcção médica
 
-###### Art. 43.º A direcção médica é constituída pelo director clínico e por três adjuntos, que superintendem, respectivamente, o serviço de urgência, o internato médico e a comissão de avaliação do funcionamento dos serviços.
+Art. 43.º A direcção médica é constituída pelo director clínico e por três adjuntos, que superintendem, respectivamente, o serviço de urgência, o internato médico e a comissão de avaliação do funcionamento dos serviços.
 
 Competência da direcção médica
 
-###### Art. 44.º Compete à direcção médica:
+Art. 44.º Compete à direcção médica:
 
 a) Superintender, coordenar e manter a disciplina do pessoal médico;
 
@@ -652,11 +672,11 @@ d) Elaborar com os demais órgãos e serviços do Centro as iniciativas que visa
 
 Composição da direcção de enfermagem
 
-###### Art. 45.º A direcção de enfermagem compete ao conselho de enfermeiros-gerais, que é constituído pelo enfermeiro-superintendente e pelos enfermeiros-gerais dos hospitais do centro.
+Art. 45.º A direcção de enfermagem compete ao conselho de enfermeiros-gerais, que é constituído pelo enfermeiro-superintendente e pelos enfermeiros-gerais dos hospitais do centro.
 
 Competência da direcção de enfermagem
 
-###### Art. 46.º Compete, em especial, ao conselho de enfermeiros-gerais:
+Art. 46.º Compete, em especial, ao conselho de enfermeiros-gerais:
 
 a) Orientar e coordenar a enfermagem ou serviços, velando pela correcção e qualidade técnica e humana dos cuidados prestados aos doentes;
 
@@ -676,7 +696,7 @@ h) Colaborar com a direcção clínica e com os restantes órgãos do Centro no 
 
 Direcção de serviços
 
-###### Art. 47.º - 1 - A direcção de serviços compete ao respectivo director, ou a quem, não sendo embora director, esteja no desempenho dessa função a título permanente ou provisório.
+Art. 47.º - 1 - A direcção de serviços compete ao respectivo director, ou a quem, não sendo embora director, esteja no desempenho dessa função a título permanente ou provisório.
 
 2 - Compete-lhe, em especial:
 
@@ -708,7 +728,7 @@ n) Exercer outras funções que lhe sejam incumbidas ou se mostrem necessárias.
 
 Órgãos de apoio técnico e consultivo
 
-###### Art. 48.º - 1 - São órgãos de apoio técnico e consultivo:
+Art. 48.º - 1 - São órgãos de apoio técnico e consultivo:
 
 Conselho médico;
 
@@ -722,7 +742,7 @@ Comissão de farmácia e terapêutica.
 
 Composição do conselho médico
 
-###### Art. 49.º O conselho médico terá a seguinte composição:
+Art. 49.º O conselho médico terá a seguinte composição:
 
 a) Membros da direcção médica;
 
@@ -732,7 +752,7 @@ c) Direcção do internato médico.
 
 Competência do conselho médico
 
-###### Art. 50.º Compete ao conselho médico:
+Art. 50.º Compete ao conselho médico:
 
 a) Pronunciar-se sobre o rendimento médico do Centro e propor o que julgar útil para a sua melhoria;
 
@@ -746,7 +766,7 @@ e) Dar parecer, quando consultado pela direcção clínica ou pelos órgãos de 
 
 Composição do conselho de enfermagem
 
-###### Art. 51.º O conselho de enfermagem terá a seguinte composição:
+Art. 51.º O conselho de enfermagem terá a seguinte composição:
 
 a) Membros do conselho de enfermeiros-gerais;
 
@@ -754,7 +774,7 @@ b) O enfermeiro-chefe de cada serviço de enfermagem ou enfermeiro que desempenh
 
 Competência do conselho de enfermagem
 
-###### Art. 52.º O conselho de enfermagem poderá pronunciar-se consultivamente sobre os seguintes assuntos:
+Art. 52.º O conselho de enfermagem poderá pronunciar-se consultivamente sobre os seguintes assuntos:
 
 a) Repartição dos efectivos de enfermagem pelos serviços do Centro;
 
@@ -770,7 +790,7 @@ f) Outros assuntos submetidos à sua apreciação.
 
 Composição e competência da comissão de administração e organização
 
-###### Art. 53.º - 1 - A comissão de administração e organização será constituída pelos profissionais de carreira de administração hospitalar e pelos chefes ou responsáveis pelos serviços de apoio geral.
+Art. 53.º - 1 - A comissão de administração e organização será constituída pelos profissionais de carreira de administração hospitalar e pelos chefes ou responsáveis pelos serviços de apoio geral.
 
 2 - Compete-lhe, designadamente:
 
@@ -790,7 +810,7 @@ g) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos órgãos de ge
 
 Composição e competência da comissão técnica de farmácia e terapêutica
 
-###### Art. 54.º - 1 - A comissão técnica de farmácia e terapêutica é constituída por igual número de médicos e farmacêuticos, designados, respectivamente, pela direcção médica e pessoal superior dos serviços farmacêuticos.
+Art. 54.º - 1 - A comissão técnica de farmácia e terapêutica é constituída por igual número de médicos e farmacêuticos, designados, respectivamente, pela direcção médica e pessoal superior dos serviços farmacêuticos.
 
 2 - Compete-lhe, designadamente:
 
@@ -814,7 +834,7 @@ h) Propor o que tiver por conveniente dentro da matéria da sua competência e d
 
 Órgãos de direcção
 
-###### Art. 55.º São órgãos de direcção do Centro:
+Art. 55.º São órgãos de direcção do Centro:
 
 Conselho Regional de Segurança Social;
 
@@ -822,7 +842,7 @@ Conselho Directivo.
 
 Composição do Conselho Regional de Segurança Social
 
-###### Art. 56.º O Conselho Regional de Segurança Social tem a seguinte composição:
+Art. 56.º O Conselho Regional de Segurança Social tem a seguinte composição:
 
 a) Um representante da Secretaria Regional, que preside;
 
@@ -838,7 +858,7 @@ f) Os membros do Conselho Directivo.
 
 Competência do Conselho Regional de Segurança Social
 
-###### Art. 57.º Compete ao Conselho Regional de Segurança Social:
+Art. 57.º Compete ao Conselho Regional de Segurança Social:
 
 a) Apreciar e aprovar os planos de acção anuais e plurianuais para o Centro;
 
@@ -858,11 +878,11 @@ h) Contribuir para a sensibilização das populações, tendo em vista as medida
 
 Composição do Conselho Directivo
 
-###### Art. 58.º O Conselho Directivo é constituído por três membros nomeados pelo Secretário Regional dos Assuntos Sociais por períodos de três anos, sendo um presidente e dois vogais.
+Art. 58.º O Conselho Directivo é constituído por três membros nomeados pelo Secretário Regional dos Assuntos Sociais por períodos de três anos, sendo um presidente e dois vogais.
 
 Competência do Conselho Directivo
 
-###### Art. 59.º - 1 - O Conselho Directivo é um órgão de acção permanente a quem compete gerir os serviços dele dependentes, promovendo a acção contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades que lhe são atribuídas sejam prosseguidas em situação económica e financeira equilibradas.
+Art. 59.º - 1 - O Conselho Directivo é um órgão de acção permanente a quem compete gerir os serviços dele dependentes, promovendo a acção contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades que lhe são atribuídas sejam prosseguidas em situação económica e financeira equilibradas.
 
 2 - Compete-lhe, em especial:
 
@@ -906,7 +926,7 @@ t) Definir e atribuir aos centros concelhios os fundos de maneio.
 
 Categorias de serviços
 
-###### Art. 60.º O Centro terá os seguintes serviços:
+Art. 60.º O Centro terá os seguintes serviços:
 
 Administrativos;
 
@@ -916,11 +936,11 @@ Apoio técnico.
 
 Competência dos serviços administrativos
 
-###### Art. 61.º Os serviços administrativos, para além das funções que lhes são inerentes, asseguram o apoio burocrático e apoio técnico-administrativo de todas as actividades do Centro.
+Art. 61.º Os serviços administrativos, para além das funções que lhes são inerentes, asseguram o apoio burocrático e apoio técnico-administrativo de todas as actividades do Centro.
 
 Composição dos serviços técnicos
 
-###### Art. 62.º Os serviços técnicos específicos subdividem-se em:
+Art. 62.º Os serviços técnicos específicos subdividem-se em:
 
 Serviço da Infância e Juventude;
 
@@ -932,31 +952,31 @@ Serviço de Reabilitação e Reintegração Social.
 
 Competência do Serviço da Infância e Juventude
 
-###### Art. 63.º Compete ao Serviço da Infância e Juventude promover as acções destinadas a crianças e jovens numa perspectiva de apoio à família com carácter supletivo, visando o seu desenvolvimento integral e a sua inserção na vida da comunidade, e ainda cobrir situações de carência económica.
+Art. 63.º Compete ao Serviço da Infância e Juventude promover as acções destinadas a crianças e jovens numa perspectiva de apoio à família com carácter supletivo, visando o seu desenvolvimento integral e a sua inserção na vida da comunidade, e ainda cobrir situações de carência económica.
 
 Competência do Serviço da População Activa, Família e Comunidade
 
-###### Art. 64.º Compete ao Serviço da População Activa, Família e Comunidade assegurar o acolhimento, informação e orientação das pessoas e família, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico.
+Art. 64.º Compete ao Serviço da População Activa, Família e Comunidade assegurar o acolhimento, informação e orientação das pessoas e família, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico.
 
 Competência do Serviço da Terceira idade
 
-###### Art. 65.º Competem ao Serviço da Terceira Idade as acções destinadas ao correspondente grupo etário (60 anos), e todas as pessoas que, pelo seu estado de diminuição, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar e comunitária, visando ainda cobrir situações de carência económica.
+Art. 65.º Competem ao Serviço da Terceira Idade as acções destinadas ao correspondente grupo etário (60 anos), e todas as pessoas que, pelo seu estado de diminuição, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar e comunitária, visando ainda cobrir situações de carência económica.
 
 Competência do Serviço de Reabilitação e Reintegração Social
 
-###### Art. 66.º Competem ao Serviço de Reabilitação e Reintegração Social as acções de reabilitação dos deficientes físicos, intelectuais e sensoriais e a recuperação e integração na comunidade dos indivíduos socialmente desajustados.
+Art. 66.º Competem ao Serviço de Reabilitação e Reintegração Social as acções de reabilitação dos deficientes físicos, intelectuais e sensoriais e a recuperação e integração na comunidade dos indivíduos socialmente desajustados.
 
 Centros concelhios
 
-###### Art. 67.º Nos aglomerados, caso as necessidades das populações o justifiquem, serão criados centros concelhios, que integrarão as acções de segurança social exercidas nos mesmos.
+Art. 67.º Nos aglomerados, caso as necessidades das populações o justifiquem, serão criados centros concelhios, que integrarão as acções de segurança social exercidas nos mesmos.
 
 Estrutura dos centros concelhios
 
-###### Art. 68.º Os centros concelhios constituem unidades de acção directa dependentes do Centro Regional de Segurança Social e serão coordenados por uma comissão constituída pelos representantes de cada um dos sectores de actividades representadas.
+Art. 68.º Os centros concelhios constituem unidades de acção directa dependentes do Centro Regional de Segurança Social e serão coordenados por uma comissão constituída pelos representantes de cada um dos sectores de actividades representadas.
 
 Competência dos centros concelhios
 
-###### Art. 69.º Compete genericamente aos centros concelhios:
+Art. 69.º Compete genericamente aos centros concelhios:
 
 a) Promover a execução na sua área das acções de segurança social determinadas pelo Centro Regional;
 
@@ -966,7 +986,7 @@ b) Coordenar as acções dos serviços e estabelecimentos existentes na respecti
 
 Órgãos de direcção
 
-###### Art. 70.º São órgãos de direcção:
+Art. 70.º São órgãos de direcção:
 
 O director;
 
@@ -974,7 +994,7 @@ O conselho administrativo.
 
 Competência do director
 
-###### Art. 71.º O director é nomeado pela Secretaria Regional dos Assuntos Sociais e Saúde e compete-lhe, designadamente:
+Art. 71.º O director é nomeado pela Secretaria Regional dos Assuntos Sociais e Saúde e compete-lhe, designadamente:
 
 a) Dirigir e coordenar as actividades do Centro;
 
@@ -996,11 +1016,11 @@ i) Exercer as demais atribuições que superiormente lhe forem fixadas.
 
 Composição do conselho administrativo
 
-###### Art. 72.º O conselho administrativo é constituído pelo director, que preside, pelos directores técnicos dos estabelecimentos integrados e pelo responsável pelos serviços administrativos.
+Art. 72.º O conselho administrativo é constituído pelo director, que preside, pelos directores técnicos dos estabelecimentos integrados e pelo responsável pelos serviços administrativos.
 
 Competência do conselho administrativo
 
-###### Art. 73.º Compete-lhe, designadamente:
+Art. 73.º Compete-lhe, designadamente:
 
 a) Apreciar os projectos de orçamento;
 
@@ -1018,7 +1038,7 @@ f) Pronunciar-se sobre os demais aspectos administrativos que interessem ao func
 
 Composição e competência do conselho técnico
 
-###### Art. 74.º O conselho técnico é constituído pelo director do Centro e pelos directores técnicos dos estabelecimentos integrados e compete-lhe, designadamente:
+Art. 74.º O conselho técnico é constituído pelo director do Centro e pelos directores técnicos dos estabelecimentos integrados e compete-lhe, designadamente:
 
 a) Pronunciar-se sobre os planos de acção e relatórios de actividades do Centro;
 
@@ -1034,7 +1054,7 @@ f) Pronunciar-se sobre as matérias que respeitem à coordenação e articulaç�
 
 Órgãos técnicos de estabelecimento
 
-###### Art. 75.º Em cada estabelecimento integrado haverá um director técnico, nomeado pelo Secretário Regional dos Assuntos Sociais, coadjuvado por um conselho técnico interno, a quem compete:
+Art. 75.º Em cada estabelecimento integrado haverá um director técnico, nomeado pelo Secretário Regional dos Assuntos Sociais, coadjuvado por um conselho técnico interno, a quem compete:
 
 a) Coordenar e dirigir as actividades do Centro, de conformidade com as directivas superiormente definidas;
 
@@ -1052,7 +1072,7 @@ g) Elaborar os relatórios trimestrais das actividades sob sua direcção.
 
 Órgãos consultivos de estabelecimento, composição e competência
 
-###### Art. 76.º - 1 - Em cada estabelecimento integrado haverá um conselho consultivo, que emitirá parecer sobre os assuntos que lhe sejam submetidos pelo director técnico, no âmbito da sua competência, e procederá à avaliação das actividades do estabelecimento e problemática dos seus educandos.
+Art. 76.º - 1 - Em cada estabelecimento integrado haverá um conselho consultivo, que emitirá parecer sobre os assuntos que lhe sejam submetidos pelo director técnico, no âmbito da sua competência, e procederá à avaliação das actividades do estabelecimento e problemática dos seus educandos.
 
 2 - Será constituído pelo director técnico, que preside, e pelo pessoal técnico do respectivo estabelecimento.
 
@@ -1062,7 +1082,7 @@ g) Elaborar os relatórios trimestrais das actividades sob sua direcção.
 
 Reclassificação
 
-###### Art. 77.º - 1 - As normas de integração e reclassificação do pessoal são as definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 77.º - 1 - As normas de integração e reclassificação do pessoal são as definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
 2 - No que respeita à aplicação do artigo 30.º do referido diploma, depende exclusivamente do Plenário do Governo Regional, por iniciativa do respectivo Presidente ou de qualquer Secretário Regional.
 
@@ -1070,32 +1090,32 @@ Reclassificação
 
 Dos quadros
 
-###### Art. 78.º - 1 - O quadro de pessoal da Secretaria Regional dos Assuntos Sociais é o constante do mapa anexo ao presente diploma.
+Art. 78.º - 1 - O quadro de pessoal da Secretaria Regional dos Assuntos Sociais é o constante do mapa anexo ao presente diploma.
 
 2 - Os quadros dos serviços externos serão elaborados no prazo de seis meses contados a partir da publicação do presente diploma.
 
 Instituições de previdência
 
-###### Art. 79.º Aos trabalhadores abrangidos pelo estatuto das instituições de previdência que transitaram para o regime da função pública serão garantidos os direitos e obrigações inerentes à mesma, nos precisos termos que vierem a ser definidos na legislação específica a publicar para o efeito.
+Art. 79.º Aos trabalhadores abrangidos pelo estatuto das instituições de previdência que transitaram para o regime da função pública serão garantidos os direitos e obrigações inerentes à mesma, nos precisos termos que vierem a ser definidos na legislação específica a publicar para o efeito.
 
 Pessoal auxiliar
 
-###### Art. 80.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pela 1.ª e 2.ª classes, sendo-lhes atribuídas as letras S e T.
+Art. 80.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pela 1.ª e 2.ª classes, sendo-lhes atribuídas as letras S e T.
 
 2 - Os contínuos, porteiros e guardas com mais de dez anos de bom e efectivo serviço serão classificados na 1.ª classe.
 
 Entrada em vigor
 
-###### Art. 81.º Este diploma entra imediatamente em vigor.
+Art. 81.º Este diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Abril de 1979.**
+Assinado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/12300/11551166.pdf))](https://files.diariodarepublica.pt/1s/1979/05/12300/11551166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12300/11551166.pdf)
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.

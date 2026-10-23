@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 252/2012, 4º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7424-(311) a 7424-(313)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25204/0031100313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/432-e/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-e-2012-632413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32d6249c9574b6f7d6d5762e679d4030b452c4ae96a40efbd70b84b5af1733b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5342fbb528940a63a39c06d3bfabd60be83e00843ab0fd81a6086de091fdf3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Cooperativa
+- Cooperativa Agrícola
+- Cooperativa António Sérgio
+- Criação de Emprego
+- Criação de Empresas
+- Economia Social
 - Empreendedorismo
+- Emprego
 - Financiamento
 - Instituto do Emprego e Formação Profissional
-- Cooperativa Agrícola
-- Sector Cooperativo
-- Cooperativa António Sérgio
-- Criação de Empresas
-- Cooperativa
-- Projeto de Investimento
 - Jovem
-- Criação de Emprego
-- Economia Social
-- Emprego
 - Jovem Empresário
-- Promoção de Emprego
-- Política de Emprego
 - Pequenas e Médias Empresas
+- Política de Emprego
+- Projeto de Investimento
+- Promoção de Emprego
+- Sector Cooperativo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
@@ -98,16 +98,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:1421636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2930986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610262:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70641453:por
+  label: Revogada, a partir de 14.10.2015, pelo(a) Portaria n.º 354/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-2015-70641453
+  date: '2015-10-13'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:13Z'
   warnings: []
   errors: []
 ---
@@ -244,4 +269,4 @@ b) A impossibilidade da cooperativa ou dos promotores voltarem a beneficiar dos 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigora até ao final do Plano Estratégico de Iniciativas de Promoção de Empregabilidade Jovem e Apoio às Pequenas e Médias Empresas - «Impulso Jovem», nos termos da [Resolução do Conselho de Ministros n.º 51-A/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-a-2012-411607), de 14 de junho.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 27 de dezembro de 2012. -O Secretário de Estado da Solidariedade e da Segurança Social, Marco António Ribeiro dos Santos Costa, em 28 de dezembro de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 27 de dezembro de 2012. -O Secretário de Estado da Solidariedade e da Segurança Social, Marco António Ribeiro dos Santos Costa, em 28 de dezembro de 2012.

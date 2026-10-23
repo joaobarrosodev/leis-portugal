@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/35/2014/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-2014-572588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd30b3569f4156dc1221bc12c3677214db9bcf9edab867706bb57f00a6995185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63a8d211dab0442a7a01f64b0a42904a60a89693dfd7fcb9e60b821ca9beadda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
-- Medicina Privada
-- Radioprotecção
-- Direção Geral da Saúde
-- Serviço de Saúde
+- Administração Regional de Saúde
+- Condições de Higiene e Segurança no Trabalho
 - Conservação de Documentos
 - Definição de Competências
-- Administração Regional de Saúde
+- Direção Geral da Saúde
 - Director Clínico
 - Especificação Técnica
 - Gestão Processual
+- Informação de Saúde
+- Informação do Consumidor
 - Instalação de Serviços
 - Licenciamento
+- Localização de Empresas
+- Medicina Privada
 - Meios Complementares de Diagnóstico
 - Normas de Construção
 - Normas de Segurança
-- Informação do Consumidor
 - Radiologia
+- Radioprotecção
 - Recursos Humanos
-- Condições de Higiene e Segurança no Trabalho
-- Informação de Saúde
 - Regulamento Interno
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
@@ -114,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:39Z'
   warnings: []
   errors: []
 ---
@@ -456,7 +480,9 @@ São aprovadas especificações técnicas no que diz respeito aos compartimentos
 
 Sempre que a unidade de saúde dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.
 
-###### Artigo 21.º — Livro de reclamações
+###### Artigo 21.º
+
+## Livro de reclamações
 
 As unidades de radiologia estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -464,7 +490,7 @@ As unidades de radiologia estão sujeitas à obrigatoriedade de existência e di
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 30 de janeiro de 2014.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 30 de janeiro de 2014.
 
 ## ANEXO I — (previsto no artigo 18.º)
 
@@ -472,7 +498,7 @@ Unidades de radiologia
 
 Compartimentos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
 
 ## ANEXO II — (previsto no artigo 18.º)
 
@@ -482,7 +508,7 @@ Zona de exames
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
 
 Condições de extração de ar noutras salas de apoio aos diversos serviços
 
@@ -504,7 +530,7 @@ Para os compartimentos não indicados, e relativamente às condições da atmosf
 
 Gases medicinais e aspiração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
 
 Requisitos especiais:
 
@@ -558,7 +584,7 @@ Instalações e equipamentos elétricos
 
 As instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis, as condições constantes no Manual de Boas Práticas de Radiologia do Ministério da Saúde e os seguintes requisitos mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
 
 Requisitos especiais:
 
@@ -584,7 +610,7 @@ Equipamento sanitário
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
 
 ## ANEXO VII — (previsto no artigo 18.º)
 
@@ -594,4 +620,4 @@ Zona de exames
 
 Equipamento médico e geral a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0135501364.pdf)

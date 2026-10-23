@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0004900057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/424/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-2023-229857700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a0edb2bb0ab87174749285f9e3f976576348882010a9885a51421dd41a3b393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd88ad346475f07213516d3ac5d74f583ec7716debc5fa84e295d29772a0de75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,7 +70,6 @@ subjects:
 - Complemento Extraordinario de Solidariedade
 - Complemento por Dependência
 - Complemento Social de Pensão
-- Regulamentação de Atos Legislativos
 - Pensão de Invalidez
 - Pensão de Sobrevivência
 - Pensão de Velhice
@@ -79,6 +78,7 @@ subjects:
 - Regime Especial de Segurança Social
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:901661965:por
@@ -128,16 +128,138 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115578262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158054820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205928630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214724642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:901661965:por
+  label: Revogada, com efeitos a partir de 1 de janeiro de 2025, pelo(a) Portaria n.º 372-B/2024/1 - Diário da República n.º
+    253/2024, Suplemento, Série I de 2024-12-31, nos termos do artigo 29.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-b-2024-901661965
+  date: '2024-12-31'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:12Z'
   warnings: []
   errors: []
 ---
@@ -204,9 +326,9 @@ c) 5 % para as pensões de montante superior a (euro) 3055,56.
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
 
-|  |  |
-| --- | --- |
 | Escalões por anos de carreira contributiva | Valor mínimo da pensão (euros) |
+| --- | --- |
+|  |  |
 | 15 a 20 anos... | (euro) 335,15 |
 | 21 a 30... | (euro) 369,83 |
 | 31 e mais... | (euro) 462,28 |
@@ -223,9 +345,9 @@ c) São aplicáveis aos beneficiários abrangidos pelos regulamentos especiais d
 
 Os valores mínimos garantidos às pensões de aposentação, reforma e invalidez pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são os constantes da tabela seguinte:
 
-|  |  |
-| --- | --- |
 | Tempo de serviço | Valor mínimo da pensão (euros) |
+| --- | --- |
+|  |  |
 | De 5 a 12 anos... | (euro) 298,58 |
 | Mais de 12 e até 18 anos... | (euro) 311,21 |
 | Mais de 18 e até aos 24 anos... | (euro) 332,68 |
@@ -262,9 +384,9 @@ c) 5 % para as pensões de valor global superior a (euro) 1527,78.
 
 Os valores mínimos garantidos às pensões de sobrevivência pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são as constantes da seguinte tabela:
 
-|  |  |
-| --- | --- |
 | Tempo de serviço | Valor mínimo da pensão (euros) |
+| --- | --- |
+|  |  |
 | De 5 a 12 anos... | (euro) 149,29 |
 | Mais de 12 e até 18 anos... | (euro) 155,61 |
 | Mais de 18 e até aos 24 anos... | (euro) 166,34 |
@@ -383,13 +505,13 @@ São revogadas as Portarias n.os [24-B/2023](https://diariodarepublica.pt/dr/det
 
 A presente portaria produz efeitos a partir de 1 de janeiro de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.
 
 ## ANEXO I — Tabela de coeficientes de atualização de pensões para efeitos de cúmulo
 
-|  |  |
-| --- | --- |
 | Anos | Coeficientes |
+| --- | --- |
+|  |  |
 | 2024... | 1,0000 |
 | 2023... | 1,0000 |
 | 2022... | 1,0600 |
@@ -450,3 +572,5 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2024.
 | 1967... | 35,8646 |
 | 1966... | 37,6732 |
 | Até 1965... | 40,3026 |
+
+117136971

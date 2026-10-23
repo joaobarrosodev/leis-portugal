@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00200/0000300018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/2/2024/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-2024-836079146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cc96394fab22fb083d1111c0b5eb48211da289115bb7b9ebaa43cf166c470cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d5b242b96436251ce8efc142afd77dd79e34e4438acdb96436c675025b3a3d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
 - Imposto sobre o Rendimento
 - IRS
 - Prédio Rústico
-- Renda de CASA
 - Prédio Urbano
+- Regulamentação de Atos Legislativos
+- Renda de CASA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/452/1999/11/05/p/dre
@@ -94,16 +94,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/98-a/2015/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/98-a/2015/03/31/p/dre
+- type: cites
+  target: pt:dre:204234878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66896468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693823:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:287/2022
+  label: Revoga, a partir de 1 de janeiro de 2024, nos termos do artigo 4.º, a Portaria n.º 287/2022 de 2 de dezembro, Diário
+    da República n.º 232/2022, Série I
+  source: null
+  date: '2022-12-02'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:21Z'
   warnings: []
   errors: []
 ---
@@ -154,32 +184,48 @@ c) Efetuar o envio de acordo com os procedimentos indicados na mesma página.
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2024.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de dezembro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de dezembro de 2023.
 
-![](https://files.diariodarepublica.pt/images/836079146/836079207.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079207.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079208.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079208.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079209.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079209.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079210.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079210.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079211.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079211.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079212.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079212.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079213.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079213.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079214.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079214.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079215.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079215.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079216.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079216.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079217.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079217.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079218.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079218.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079219.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079219.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079146/836079220.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079146/836079220.png) |
+| --- |
+
+117205983

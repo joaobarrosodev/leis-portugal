@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2313184:por
-title: Portaria n.º 171/2001(2.ªsérie)
+title: Portaria n.º 171/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-2001-2313184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78f803976d6b67b42bb04481c311ea707bcaa1ccc9e81376bba7a6b3baf33bfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a94a98cc4924a4a0f0de9a5a424e71f80607de8af3a762a432aac28f983bc8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Combustível
+- Concurso Público
+- Direcção Geral do Património
+- Veículo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:2940747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3061789:por
+  label: "ALTERADA PELA PORT.1429/2002(2ªSÉRIE).2002.09.10.MF, DR.IIS [221] DE 24/SET/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1429-2002-3061789
+  date: '2002-09-10'
+- type: amended_by
+  target: pt:dre:1577009:por
+  label: "Alterada pela PORT.747/2003(2ªSÉRIE).2003.05.27.SETF-MF, DR.IIS [134] de 11/Jun/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/747-2003-1577009
+  date: '2003-05-27'
+- type: amended_by
+  target: pt:dre:2940747:por
+  label: "ALTERADA PELA PORT.886/2003(2ªSÉRIE).2003.06.30.MF, DR.IIS [157] DE 10/JUL/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-2003-2940747
+  date: '2003-06-30'
+- type: cites
+  target: pt:dre:275632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:18:54Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 171/2001(2.ªsérie)
+# Portaria n.º 171/2001 (2.ª série)
 
 Portaria n.º 171/2001 (2.ª série). - A Direcção-Geral do Património, no âmbito das atribuições conferidas pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 129/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1983-310413), de 14 de Março, e nos termos da [Portaria n.º 717/81](https://diariodarepublica.pt/dr/detalhe/portaria/717-1981-575923), de 22 de Agosto, com as alterações introduzidas pela [Portaria n.º 308/88](https://diariodarepublica.pt/dr/detalhe/portaria/308-1988-374806), de 17 de Maio, e atribuições de acordo com a [Portaria n.º 292/96](https://diariodarepublica.pt/dr/detalhe/portaria/292-1996-420805), de 23 de Dezembro, levou a efeito o concurso público internacional com vista a celebração de contratos públicos de aprovisionamento de combustíveis líquidos: gasolinas, gasóleo e GPL, nas modalidades de fornecimento através de cartão magnético e a granel.
 
@@ -120,4 +168,4 @@ Assim, manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, ao ab
 
 22 de Janeiro de 2001. - O Secretário de Estado do Tesouro e Finanças, Manuel Pedro da Cruz Baganha.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2001/02/032000000/0254402545.pdf))](https://files.diariodarepublica.pt/2s/2001/02/032000000/0254402545.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2001/02/032000000/0254402545.pdf)

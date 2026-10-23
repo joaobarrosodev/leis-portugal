@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 139/2022, 1º Suplemento, Série I de 2022-07-20
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 50-(16) a 50-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13901/0001600045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183-b/2022/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-b-2022-186362068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7e10fb9e1e9f810852e4e41dbaa793366695325171fd176034efe9b9d06d7f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d59a62c627c5fcc8fb8690b1a46f22965e3515375f4e07c83e88671e81c78b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Açores
 - Aluno Militar
-- Região Autónoma
 - Audição do Utente
 - Cidadão Estrangeiro
 - Comissão Nacional de Acesso ao Ensino Superior
 - Concurso de Ingresso
-- Portugal
+- Deficiente
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Geral do Ensino Superior
 - Diretor Geral
 - Emigrante
 - Ensino Oficial
-- Ensino Superior Politécnico
-- Estudante
-- Publicitação
-- Direção Geral do Ensino Superior
-- Página na Internet
-- Estabelecimento de Ensino
-- Madeira.região Autónoma
-- Regulamento
 - Ensino Superior
-- Açores
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Estudante
+- Madeira.região Autónoma
+- Página na Internet
+- Portugal
+- Publicitação
+- Região Autónoma
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -130,16 +130,168 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:105322292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:28Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +322,7 @@ Ao abrigo do artigo 28.º do [Decreto-Lei n.º 296-A/98](https://diariodarepubli
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 19 de julho de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 19 de julho de 2022.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LETIVO DE 2022-2023
 
@@ -1349,3 +1501,5 @@ Exmo. Sr.
 ... (nome), com o n.º de identificação civil ..., residente em ... (endereço), colocado no ... (curso e instituição), na ... fase do concurso nacional, no ano letivo de 2022-2023, vem declarar a intenção de matrícula e inscrição na vaga em que foi colocado, nos termos do artigo 53.º do regulamento aprovado pela Portaria n.º ... (número e data da presente Portaria).
 
 Pede deferimento, (assinatura do requerente)
+
+115530213

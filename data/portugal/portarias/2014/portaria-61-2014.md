@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2014/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2014-572428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e5c9949e21be16ec42150405a9d069f2329511b683978f61f0c933135409bb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4aae9a568b00e077205e419f701cf7e6e3482f081226f9812087b939d37a72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Pombal
-- Regulamento
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Pombal
+- Proteção do Ambiente
+- Recursos Hídricos
+- Regulamento
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/34/2013/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/34/2013/01/29/p/dre
+- type: cites
+  target: pt:dre:1864687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2473325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:48Z'
   warnings: []
   errors: []
 ---
@@ -238,13 +258,13 @@ f) Oficinas, estações de serviço de automóveis, postos de abastecimento e á
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 27 de fevereiro de 2014.**
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 27 de fevereiro de 2014.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -252,7 +272,7 @@ Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -260,15 +280,15 @@ Zona de proteção alargada
 
 Captação P1-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Captação P2-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Captação P2-100C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -280,12 +300,12 @@ Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
 Captação P1-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Captação P2-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
 
 Captação P2-100C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04800/0179501799.pdf)

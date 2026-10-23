@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/569/2010/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/569-2010-334097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9f613f792b8f5e9a0537776486b4017dac5f7add388db15d814ea755ae2f9fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0784ecb095bdeff624d6ceaf5f7d52357f13e4c9ad5da76a2051672b8cc946c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:309298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309298:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 1093/2004, de 01-Set, alterada pelo presente\
+    \ diploma, pela PORT.1127/2010.02.11.2010.MADRP, DR.IS [212] de 02.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2010-309298
+  date: '2010-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -94,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/71/2006/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/71/2006/01/17/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622595:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:07Z'
   warnings: []
   errors: []
 ---
@@ -124,6 +150,6 @@ Cumpridos os preceitos legais, e com fundamento no disposto no artigo 48.º, em 
 
 Esta portaria produz efeitos a partir do dia 2 de Setembro de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Julho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Julho de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14300/0284302844.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14300/0284302844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14300/0284302844.pdf)

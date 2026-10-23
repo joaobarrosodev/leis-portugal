@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12500/0424304245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/697/2009/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-2009-491920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57af70a55b9aa16f88be5276d4f897e65671a02c5e0d2aa6214e69a778b49b7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a09f8dbab6fda9e63a8a7b30da2c7f98dd8ffff59dfbec5ba3a731c137ab7be7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
+- Comércio
+- Definição de Competências
+- Embalagem
+- Estabelecimento Hospitalar
+- Etiquetagem
 - Farmácia
+- Farmácia de Oficina
+- Farmácia Hospitalar
 - Indústria Farmacêutica
 - Infarmed
-- Definição de Competências
-- Serviço Nacional de Saúde
-- Etiquetagem
-- Farmácia de Oficina
 - Medicamento
-- Embalagem
-- Administração Central do Sistema de Saúde
-- Farmácia Hospitalar
 - Preço
 - Receita Médica
-- Estabelecimento Hospitalar
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:292111:por
@@ -98,16 +98,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1471/2004/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1471/2004/12/21/p/dre
+- type: cites
+  target: pt:dre:219566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:292111:por
+  label: "Revogada pela PORT.455-A/2010.30.06.2010.MEID, DR.IS [125-2ºSupl] de 30.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-a-2010-292111
+  date: '2010-06-30'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:46Z'
   warnings: []
   errors: []
 ---
@@ -236,4 +253,4 @@ b) Às farmácias da região de saúde de Lisboa e Vale do Tejo que manifestem, 
 
 7 - Nos casos em que a prescrição de medicamentos seja feita em quantidade individualizada e a farmácia a que o utente se dirige não tenha aderido à mesma, nos termos do número anterior, deve a farmácia dispensar a embalagem mais aproximada.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 5 de Junho de 2009. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 3 de Junho de 2009.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 5 de Junho de 2009. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 3 de Junho de 2009.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/70/2014/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-2014-571906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e42d6c6a2f8fbd1884b826481aa1c39998a6b92f5165ab9ac5502d8cccaa6668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8bd7373d8de6c0bcd578bf41c73c37a1ed814e6981a8c0a89dbb40254572450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Ílhavo
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:74699133:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional (REN) do Município de Ílhavo pelo(a) Despacho n.º 7778/2016
+    - Diário da República n.º 113/2016, Série II de 2016-06-15, que republicou a carta da REN do referido município, na versão
+    aprovada.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7778-2016-74699133
+  date: '2016-06-15'
+- type: amended_by
+  target: pt:dre:128473353:por
+  label: Aprovada a 2.ª alteração simplificada da delimitação da REN do município de Ílhavo, aprovada pela presente Portaria,
+    pelo(a) Despacho n.º 1098/2020 - Diário da República n.º 17/2020, Série II de 2020-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1098-2020-128473353
+  date: '2020-01-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -87,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1864687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2473325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693826:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:52Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +168,9 @@ A referida planta, o quadro anexo e a memória descritiva do presente processo p
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano Diretor Municipal de Ílhavo.
 
-**O Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, Miguel de Castro Neto, em 26 de fevereiro de 2014.**
+O Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, Miguel de Castro Neto, em 26 de fevereiro de 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf)
 
 QUADRO ANEXO
 
@@ -137,4 +178,4 @@ Delimitação da Reserva Ecológica Nacional do município de Ílhavo
 
 PROPOSTA DE EXCLUSÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05300/0199802003.pdf)

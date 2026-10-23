@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01
   number: '23'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 566-(2) a 566-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02301/0000200003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34-a/2012/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06bec871c856273b1842fb9073ac5278b626de3f17cb00dddc7d96692af0e5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a87b0671dd02a3ca1648cc95aea5e4ab8dccd658776edf9d7418b385cf64b68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Titulo de Transporte
 - Estudante
 - Jovem
 - Passe Social
 - Preço
+- Titulo de Transporte
 - Transporte Escolar
 relationships:
 - type: amended_by
   target: pt:dre:139030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139030:por
+  label: "Alterados os art.s 2º e 5º da Port 138/2009, de 03-fev, na redação do presente diploma, pela PORT.268-A/2012.31.08.2012.PCM,\
+    \ DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-a-2012-139030
+  date: '2012-08-31'
+- type: amended_by
+  target: pt:dre:108086610:por
+  label: Alterados os arts. 2.º e 5.º da Port 982-B/2009, de 02-set, na redação do presente diploma pelo(a) Portaria n.º 261/2017
+    - Diário da República n.º 169/2017, Série I de 2017-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-2017-108086610
+  date: '2017-09-01'
+- type: amended_by
+  target: pt:dre:116345870:por
+  label: Alterados os arts.2.º e 5.º da Port 138/2009 de 03-fev, com a redação dada pelo presente diploma, pelo(a) Portaria
+    n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-a-2018-116345870
+  date: '2018-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186/2008/09/19/p/dre
   label: null
@@ -104,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:38Z'
   warnings: []
   errors: []
 ---
@@ -146,13 +196,17 @@ São alterados os artigos 1.º, 2.º e 5.º da Portaria n.º 138/2009, de 3 de f
 
 A presente portaria define as condições de atribuição do «passe 4_18@escola.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos previstos pelos Decretos-Leis n.os [299/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1984-373662), de 5 de setembro, [186/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), de 19 de setembro, e [29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), de 1 de março.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São abrangidos pelo «passe 4_18@escola.tp» todos os estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não beneficiem de transporte escolar no âmbito do [Decreto-Lei n.º 299/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1984-373662), de 5 de setembro.
 
 2 - O «passe 4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -172,7 +226,9 @@ São alterados os artigos 1.º, 2.º e 5.º da [Portaria n.º 982-B/2009](https:
 
 A presente portaria define as condições de atribuição do «passe sub23@superior.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos dos Decretos-Leis n.os [203/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2009-488484), de 31 de agosto, e [29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), de 1 de março.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O «passe sub23@superior.tp» destina-se aos estudantes do ensino superior até aos 23 anos, inclusive, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.
 
@@ -180,7 +236,9 @@ A presente portaria define as condições de atribuição do «passe sub23@super
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 

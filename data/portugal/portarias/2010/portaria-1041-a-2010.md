@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 195/2010, 1º Suplemento, Série I de 2010-10-07
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4410-(2) a 4410-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19501/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1041-a/2010/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d234966488364dad55fbca1b7fb841f509df9d1b4bfd8e3dbf85f43251b8c5ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91413a001a5b1278eb859be6ae00380ae4fd564d203bfcc03614fb635ac975e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Direção Geral das Atividades Económicas
 - Farmácia de Oficina
 - Fixação de Preços
-- Medicamento
+- Indústria Farmacêutica
+- Infarmed
 - Margens de Comercialização
+- Medicamento
 - Preço
 - Preço de Venda
 - Preço Máximo
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:259247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477133:por
+  label: "Mantido em vigor, até à entrada em vigor da portaria que regulamenta as deduções a que se refere o n.º 5 do art.\
+    \ 3.º do Dec Lei 112/2011 de 29-Nov, o disposto neste diploma pela PORT.4/2012.02.01.2012.MEE, DR.IS [1] de 02.01.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2012-477133
+  date: '2012-01-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
   label: null
@@ -99,16 +106,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/337-a/2010/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/337-a/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:207801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642687:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:477133:por
+  label: "Revogada, a partir de 03.01.2012, a Port 312-A/2010 de 11-Jun, alterada pelo presente diploma, pela PORT.4/2012.02.01.2012.MEE,\
+    \ DR.IS [1] de 02.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2012-477133
+  date: '2012-01-02'
+- type: repealed_by
+  target: pt:dre:259247:por
+  label: "Revogada pela PORT.91/2013.28.02.2013.MS, DR.IS [42] de 28.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-2013-259247
+  date: '2013-02-28'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:48Z'
   warnings: []
   errors: []
 ---
@@ -165,4 +199,4 @@ O disposto na presente portaria entra em vigor no dia 15 de Outubro.
 
 Em 6 de Outubro de 2010.
 
-**O Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, Fernando Pereira Serrasqueiro. - O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar.**
+O Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, Fernando Pereira Serrasqueiro. - O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 189/2013, 1º Suplemento, Série I de 2013-10-01
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5974-(2) a 5974-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/18901/0000200005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/295-a/2013/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2013-420800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4815987a0a680b9f062a70e0be538fc6d69edb21e54df2e11c3e3797e481d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6b8f77c8c860adff0c3db231f7b96ad906065ad337bbce4e016ed86e1245540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Organização Territorial
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
 - Aveiro
 - Braga
 - Circunscrição Administrativa
+- Coimbra
 - Contribuinte
 - Faro
 - Freguesia
-- Lisboa
 - Leiria
-- Setúbal
-- Coimbra
+- Lisboa
+- Oeiras
+- Organização Territorial
+- Porto
+- Prédio Urbano
 - Santarém
 - Serviço de Finanças
 - Serviços Periféricos
-- Oeiras
-- Prédio Urbano
-- Autarquia Local
-- Porto
+- Setúbal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/56/2012/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/56/2012/11/08/p/dre
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373798:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:37Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +154,8 @@ Os efeitos da presente portaria reportam-se a 30 de setembro de 2013, consideran
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 30 de setembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 30 de setembro de 2013.
 
 ## ANEXO I — (quadro a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/18901/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2013/10/18901/0000200005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/18901/0000200005.pdf)

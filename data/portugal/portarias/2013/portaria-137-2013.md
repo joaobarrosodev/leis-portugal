@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137/2013/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 534793d213671c69e2db194efde2ad43797a18fe7f1ab8c117a4ec3b83a48acf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b0293dd37d43d2ee49498083713746262077a306ca06d3bf14c97fabac5f441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Produção Animal
-- Financiamento
-- Desenvolvimento Rural
-- Proteção da Floresta
-- Apoio ao Investimento
 - Agricultor
+- Agricultura
+- Apoio ao Investimento
+- Desenvolvimento Rural
+- Financiamento
 - Política Agrícola
+- Proder
 - Produção Agrícola
+- Produção Animal
+- Proteção da Floresta
 - Regulamento de Aplicação das Componentes Agro-ambientais e Silvo-ambientais da Medida Nº 2.4. Intervenções Territoriais
   Integradas
-- Agricultura
 relationships:
 - type: cites
   target: celex:32006R1974
@@ -99,15 +99,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/232-a/2008/03/11/p/dre
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:46Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +158,9 @@ Os artigos 22.º e 26.º do Regulamento de Aplicação da Ação n.º 2.2.1, «A
 
 13 - Não há lugar à devolução de verbas nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º [1974/2006](https://data.europa.eu/eli/reg/2006/1974/oj?locale=pt).
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -232,4 +234,4 @@ O artigo 86.º do Regulamento de aplicação das componentes agroambientais e si
 
 3 - O artigo 2.º aplica-se a partir da campanha de 2010, inclusive.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 15 de março de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 15 de março de 2013.

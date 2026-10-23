@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/27300/39804000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1980-458999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 767678104fdf3640eb9a5749c19323a2eb3a9951aa82e903c6ee1be30fe84e4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ad1f5a08a36fa22c6cb4f8f3c192175808bbdc0647990bf97ba167e2286b928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:327142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577089:por
+  label: Alterado o art. 36º pelo DRR.10/81/M.30.07.1981.GR-RAM, DR.IS [173] de 30.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1981-577089
+  date: '1981-07-30'
+- type: cites
+  target: pt:dre:299006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:577089:por
+  label: Revogado o art. 40.º pelo(a) Decreto Regulamentar Regional n.º 10/81/M - Diário da República n.º 173/1981, Série
+    I de 1981-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1981-577089
+  date: '1981-07-30'
+- type: repealed_by
+  target: pt:dre:327142:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 6/85/M - Diário da República n.º 47/1985, Série I de 1985-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1985-327142
+  date: '1985-02-26'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:00Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +123,9 @@ validation:
 
 Orgânica da Secretaria Regional do Equipamento Social
 
-### CAPÍTULO I — ARTIGO 1.º
+### CAPÍTULO I
+
+###### ARTIGO 1.º
 
 A Secretaria Regional do Equipamento Social, abreviadamente designada por SRES, superiormente dirigida pelo Secretário Regional do Equipamento Social, é o departamento do Governo da Região Autónoma da Madeira a que se refere a alínea b) do n.º 2 do artigo 2.º do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), de 21 de Fevereiro, e cujas atribuições e orgânica passam a ser as constantes do presente diploma e dos anexos que dele fizerem parte.
 
@@ -1108,7 +1145,7 @@ As condições de ingresso, acesso e carreira profissional do quadro da SRES sã
 
 ###### ARTIGO 42.º
 
-**O Secretário Regional poderá incumbir os serviços e servidores a eles vinculados da satisfação de trabalhos que caibam no âmbito das respectivas especialidades.**
+O Secretário Regional poderá incumbir os serviços e servidores a eles vinculados da satisfação de trabalhos que caibam no âmbito das respectivas especialidades.
 
 ###### ARTIGO 43.º
 
@@ -1130,14 +1167,14 @@ Este decreto entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo Regional em 7 de Agosto de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Outubro de 1980.**
+Assinado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 Quadro do pessoal da Secretaria Regional do Equipamento Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27300/39804000.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27300/39804000.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27300/39804000.pdf)

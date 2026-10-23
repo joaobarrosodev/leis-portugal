@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/02100/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2025/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2025-905458730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2551c1b9774cb557928d0bddba19e7258445dd639fbf8c026ec0352770afbc85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da0150020fe3ed9cfaf35da1fd4121535960d754fb0276a0123e2ed0d9650aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Assistência Médica
 - Criança
+- Cuidados Médicos
+- Estabelecimento Hospitalar
 - Internamento Hospitalar
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Jovem
 - Preço
-- Cuidados Médicos
 - Regime Ambulatório
-- Estabelecimento Hospitalar
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 - Unidade de Saúde Pública
 relationships:
 - type: cites
@@ -99,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/176/2016/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/176/2016/06/23/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74774857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:176/2016
+  label: Revoga, a partir de 31 de janeiro de 2025, com efeitos a 1 de janeiro de 2025, a Portaria n.º 176/2016, de 23 de
+    junho, Diário da República n.º 119/2016, Série I
+  source: null
+  date: '2016-06-23'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:35Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +177,7 @@ A presente portaria tem por objeto fixar os preços dos cuidados de saúde prest
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de janeiro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 16 de janeiro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 23 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé, em 23 de janeiro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 16 de janeiro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 23 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé, em 23 de janeiro de 2025.
 
 ## ANEXO — Tabela de preços
 
@@ -159,3 +185,5 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 | --- | --- |
 | Unidade de internamento de cuidados integrados pediátricos de nível 1 (UCIP nível 1) | 250 € |
 | Unidade de ambulatório pediátrica | 80 € |
+
+118607891

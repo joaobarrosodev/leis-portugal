@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/2010/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-2010-334879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 735b3ec4e2508d969990115f622464eaf85185c2328274c3a49facb8a45b2c97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce37f9cb602b613e917717ab5bb6974ae1840a6609b56c8931f34d095c0bd74b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Aljustrel
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: cites
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/617/2000/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/617/2000/08/19/p/dre
+- type: cites
+  target: pt:dre:315556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:04Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +166,6 @@ A zona de caça concessionada pela presente portaria produz efeitos, relativamen
 
 É revogada [Portaria n.º 1242/97](https://diariodarepublica.pt/dr/detalhe/portaria/1242-1997-420417), de 18 de Dezembro, alterada pelas Portarias n.os [617/2000](https://diariodarepublica.pt/dr/detalhe/portaria/617-2000-324475), [447/2001](https://diariodarepublica.pt/dr/detalhe/portaria/447-2001-315556), de 3 de Maio, e 1190/2007, de 17 de Setembro.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12200/0228902290.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12200/0228902290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12200/0228902290.pdf)

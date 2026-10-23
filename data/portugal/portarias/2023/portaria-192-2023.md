@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/2023/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-2023-215338990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e337d6d58974dae73e1db405234f3054d516e056fd89eedf23f0f562512d590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e71af1fd25ae2036cf3805053686c1591266ad1e0c3e7931d80a142e09d8318
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,12 @@ reuse:
 subjects:
 - Cálculo de Pensões
 - Coeficiente de Actualização
+- Complemento Solidário para Idosos
 - Contribuições da Segurança Social
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Pensionista
 - Pensões
 - Proteção Social
@@ -83,7 +84,6 @@ subjects:
 - Remuneração
 - Segurança Social
 - Sistema Previdencial
-- Complemento Solidário para Idosos
 relationships:
 - type: amended_by
   target: pt:dre:869420874:por
@@ -109,16 +109,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:869420874:por
+  label: Revogada, a partir de 21 de junho de 2024, com efeitos de 1 de janeiro a 31 de dezembro de 2024, a presente portaria,
+    pelo(a) Portaria n.º 170/2024/1 - Diário da República n.º 118/2024, Série I de 2024-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-2024-869420874
+  date: '2024-06-20'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:48Z'
   warnings: []
   errors: []
 ---
@@ -167,16 +193,18 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 4 de julho de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos.
 
 ## ANEXO I — Tabela aplicável em 2023
 
 (n.º 1 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf)
 
 ## ANEXO II — Tabela aplicável em 2023
 
 (n.os 2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0006300066.pdf)
+
+116641567

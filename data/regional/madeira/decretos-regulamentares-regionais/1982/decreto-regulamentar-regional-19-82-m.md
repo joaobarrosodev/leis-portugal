@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1982, 1º Suplemento, Série I de 1982-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3206-(46) a 3206-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22701/00460047.pdf
 entry_into_force_dates: []
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1982-643957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 485a842ec28bc32972577ef07e759114b6213917a0d5b5071e7b909223f2e03c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a49aaeb2e0ac293e0bed663604718d3613f2daa3f8caf916edbf017b99fd19eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete de Coordenação do Frio
+- Instituto Nacional do Frio
+- Madeira.região Autónoma
+- Manifesto de Instalações Frigoríficas
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:12Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +112,13 @@ Tendo presente o que dispõe nomeadamente a alínea a) do artigo 4.º do predito
 
 Assim, o Governo Regional da Madeira, nos termos do n.º 1 do artigo 229.º da Constituição da República e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), manda o seguinte:
 
-###### Artigo 1.º As atribuições previstas no [Decreto-Lei n.º 205/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1979-380489), de 4 de Julho, do Instituto Nacional do Frio são, no âmbito territorial da Região Autónoma da Madeira, conferidas ao Gabinete de Coordenação do Frio (GCF), organismo criado pelo [Decreto Regulamentar Regional n.º 10/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1980-457874).
+Artigo 1.º As atribuições previstas no [Decreto-Lei n.º 205/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1979-380489), de 4 de Julho, do Instituto Nacional do Frio são, no âmbito territorial da Região Autónoma da Madeira, conferidas ao Gabinete de Coordenação do Frio (GCF), organismo criado pelo [Decreto Regulamentar Regional n.º 10/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1980-457874).
 
-###### Art. 2.º - 1 - É criado na Região Autónoma da Madeira o manifesto de instalações frigoríficas.
+Art. 2.º - 1 - É criado na Região Autónoma da Madeira o manifesto de instalações frigoríficas.
 
 2 - O manifesto consiste num formulário que tem por objectivo fornecer ao GCF os elementos indispensáveis à elaboração do cadastro das diferentes instalações frigoríficas existentes na Região.
 
-###### Art. 3.º - 1 - Todas as pessoas, singulares ou colectivas, públicas ou privadas, que, com base em qualquer título jurídico, possuam ou utilizem instalações frigoríficas são obrigadas a declará-las e a preencher posteriormente o manifesto.
+Art. 3.º - 1 - Todas as pessoas, singulares ou colectivas, públicas ou privadas, que, com base em qualquer título jurídico, possuam ou utilizem instalações frigoríficas são obrigadas a declará-las e a preencher posteriormente o manifesto.
 
 2 - A cada instalação frigorífica física e tecnicamente autónoma corresponderá um manifesto separado, a preencher pela entidade que a explora ou administra.
 
@@ -119,7 +136,7 @@ d) Equipamentos frigoríficos do tipo comercial ou individual, nomeadamente arca
 
 5 - A lista fixada no número anterior poderá ser alterada por portaria conjunta do Secretário Regional da Agricultura e Pescas e do Secretário Regional da tutela a que diga respeito a matéria em causa.
 
-###### Art. 4.º O manifesto, cujo modelo constará de portaria do Secretário Regional de Agricultura e Pescas, inquirirá as instalações frigoríficas referidas no artigo anterior sobre as seguintes matérias:
+Art. 4.º O manifesto, cujo modelo constará de portaria do Secretário Regional de Agricultura e Pescas, inquirirá as instalações frigoríficas referidas no artigo anterior sobre as seguintes matérias:
 
 a) Identificação, natureza e classificação económica, jurídica e fiscal da entidade proprietária, ou que explora ou administra a instalação manifestada;
 
@@ -133,7 +150,7 @@ e) Características do equipamento de produção de frio;
 
 f) Localização do edifício onde está instalado o equipamento manifestado.
 
-###### Art. 5.º - 1 - As entidades referidas no artigo 3.º devem declarar, por escrito, ao GCF as instalações frigoríficas que possuem ou utilizam.
+Art. 5.º - 1 - As entidades referidas no artigo 3.º devem declarar, por escrito, ao GCF as instalações frigoríficas que possuem ou utilizam.
 
 2 - A declaração deverá dar entrada no GCF nos seguintes prazos:
 
@@ -145,30 +162,30 @@ b) 30 dias após o início da laboração, para todas as instalações cuja acti
 
 4 - Uma das cópias remetidas será devolvida pelo GCF ao declarante depois de registada e servirá como prova de que a instalação em causa foi manifestada.
 
-###### Art. 6.º A fiscalização do cumprimento do disposto neste diploma compete ao GCF e a todos os organismos estatais ou regionais com a responsabilidade legal de fiscalizar, a qualquer título, o estado de produtos alimentares e as actividades produtivas, industriais ou comerciais a eles destinadas, por iniciativa própria ou por solicitação do Gabinete.
+Art. 6.º A fiscalização do cumprimento do disposto neste diploma compete ao GCF e a todos os organismos estatais ou regionais com a responsabilidade legal de fiscalizar, a qualquer título, o estado de produtos alimentares e as actividades produtivas, industriais ou comerciais a eles destinadas, por iniciativa própria ou por solicitação do Gabinete.
 
-###### Art. 7.º O incumprimento da obrigação de declarar a instalação frigorífica ou de devolver o manifesto devidamente preenchido é punido com multa de 5000$00 a 10000$00.
+Art. 7.º O incumprimento da obrigação de declarar a instalação frigorífica ou de devolver o manifesto devidamente preenchido é punido com multa de 5000$00 a 10000$00.
 
-###### Art. 8.º A multa é graduada de acordo com o volume de capital investido na instalação frigorífica.
+Art. 8.º A multa é graduada de acordo com o volume de capital investido na instalação frigorífica.
 
-###### Art. 9.º - 1 - A multa é aplicada e cobrada pelo GCF, mediante a instauração do competente processo, constituindo a falta de audiência do arguido nulidade absoluta do mesmo.
+Art. 9.º - 1 - A multa é aplicada e cobrada pelo GCF, mediante a instauração do competente processo, constituindo a falta de audiência do arguido nulidade absoluta do mesmo.
 
 2 - As participações das infracções detectadas pelos organismos competentes referidos no artigo 6.º são remetidas ao GCF para os efeitos do número anterior.
 
 3 - Da aplicação da pena de multa prevista no n.º 1 deste artigo cabe recurso para o Secretário Regional da Agricultura e Pescas, com efeito meramente devolutivo.
 
-###### Art. 10.º Se no prazo de 30 dias a contar da data da recepção de aviso registado o infractor não proceder ao pagamento voluntário da multa que lhe tiver sido aplicada, o GCF remeterá o respectivo processo para cobrança coerciva ao tribunal das execuções fiscais competente.
+Art. 10.º Se no prazo de 30 dias a contar da data da recepção de aviso registado o infractor não proceder ao pagamento voluntário da multa que lhe tiver sido aplicada, o GCF remeterá o respectivo processo para cobrança coerciva ao tribunal das execuções fiscais competente.
 
-###### Art. 11.º As multas aplicadas ao abrigo deste diploma constituem receita da Região.
+Art. 11.º As multas aplicadas ao abrigo deste diploma constituem receita da Região.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em plenário do Governo Regional aos 7 de Julho de 1982.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de Setembro de 1982.**
+Assinado em 16 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18100/0000201986.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/2023/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2023-221691631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33ef484e42f8dae65f2409e8bdfc1012f5a0d513e7e6d716efd5954684e5cbff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 339eea388778cd307e500a1fc96639eba475fadac8cb38c57f149dd968dfd63e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Terrestre
-- Regulamentação de Atos Legislativos
 - Política Comunitária
+- Regulamentação de Atos Legislativos
 - Substância Perigosa
 - Transporte de Mercadorias Perigosas
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:926123338:por
@@ -130,6 +130,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/18/2010/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/18/2010/06/28/p/dre
+- type: cites
+  target: pt:dre:108086598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174480990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176127184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70765717:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:926123338:por
+  label: Revogada, a partir de 25 de julho de 2025, pelo(a) Portaria n.º 271/2025/1 - Diário da República n.º 141/2025, Série
+    I de 2025-07-24 nos termos do artigo 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2025-926123338
+  date: '2025-07-24'
 - type: transposes
   target: celex:32008L0068
   label: null
@@ -141,13 +191,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:23Z'
   warnings: []
   errors: []
 ---
@@ -186,8 +236,10 @@ As referências feitas em qualquer diploma legal aos anexos I e II do [Decreto-L
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 21 de agosto de 2023.**
+O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 21 de agosto de 2023.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/09/18100/0000201986.pdf))](https://files.diariodarepublica.pt/1s/2023/09/18100/0000201986.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/09/18100/0000201986.pdf)
+
+116799656

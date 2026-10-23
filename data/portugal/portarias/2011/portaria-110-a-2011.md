@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 53/2011, 1º Suplemento, Série I de 2011-03-16
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1488-(2) a 1488-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05301/0000200011.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110-a/2011/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-a-2011-512452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8c0861931493af22d53262a16d4e950cd1152057338e04227a628535d8335dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe12594b1d1b67222d01b64474ef45aec11edeba5db003b47e3e851509ebaf11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ reuse:
 subjects:
 - Apoio Técnico
 - Financiamento
-- Programa INOV Mundus
 - Jovem
 - Programa INOV Contacto
+- Programa INOV Mundus
 - Programa Inov-art
 - Programa Inov-jovem
 - Programa Inov-Vasco da Gama
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93/2008/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93/2008/06/05/p/dre
+- type: cites
+  target: pt:dre:246301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 28
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:43Z'
   warnings: []
   errors: []
 ---
@@ -136,13 +152,17 @@ Os artigos 1.º a 5.º, 7.º, 8.º, 10.º a 12.º,14.º e 15.º do anexo iv da [
 
 [...]
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 1 - O presente Regulamento aplica-se à medida INOV-ART - Estágios Internacionais de Jovens com Qualificação e Experiência Comprovada no Domínio Cultural e Artístico, doravante designado por INOV-ART, promovido, gerido e executado pela Direcção-Geral das Artes, doravante designada por DGArtes.
 
 2 - O INOV-ART visa a profissionalização e a especialização de jovens no domínio cultural e artístico através de um estágio profissional, entendendo-se por 'estágio profissional' o desenvolvimento de actividades supervisionadas por um coordenador de estágio, que não se destinem prioritariamente a investigação académica, docência, discência, nem ao desenvolvimento de projectos individuais não integrados na actividade da entidade de acolhimento.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -156,7 +176,9 @@ d) ...
 
 e) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -166,7 +188,9 @@ b) ...
 
 c) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São destinatários do INOV-ART os jovens que preencham, cumulativamente, os seguintes requisitos:
 
@@ -192,7 +216,9 @@ g) ...
 
 5 - A medida INOV-ART não se destina igualmente a dar continuidade a qualquer relação profissional entre o candidato e a entidade de acolhimento, quando a mesma tenha tido duração igual ou superior a três meses.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Podem candidatar-se como entidades de acolhimento dos estágios INOV-ART instituições internacionais de referência nos domínios cultural e artístico.
 
@@ -200,7 +226,9 @@ g) ...
 
 3 - As entidades de acolhimento terão de designar um coordenador de estágio que desenvolva actividade profissional na área da candidatura.
 
-###### Artigo 7.º — Processo de candidatura
+Artigo 7.º
+
+Processo de candidatura
 
 1 - Apenas são aceites candidaturas conjuntas resultantes de um acordo prévio entre candidatos e entidades de acolhimento.
 
@@ -224,7 +252,9 @@ c) Carta de aceitação do candidato, emitida pela entidade de acolhimento.
 
 8 - Caso seja submetida mais do que uma candidatura em nome do mesmo candidato, apenas a última a ser validade pela entidade de acolhimento será considerada.
 
-###### Artigo 8.º — Estrutura, duração e plano de estágio
+Artigo 8.º
+
+Estrutura, duração e plano de estágio
 
 1 - O estágio é constituído pelas seguintes fases sequenciais:
 
@@ -258,7 +288,9 @@ c) 3.ª fase - seminário de encerramento.
 
 13 - A DGArtes não assume qualquer responsabilidade pelo eventual desencontro entre as expectativas iniciais dos estagiários, as funções descritas no plano de estágio e as efectivamente atribuídas pela entidade de acolhimento.
 
-###### Artigo 10.º — Bolsa de estágio e apoios
+Artigo 10.º
+
+Bolsa de estágio e apoios
 
 1 - No âmbito do INOV-ART, são suportadas as seguintes despesas:
 
@@ -296,7 +328,9 @@ c) Outros em que se verifique que o estagiário tenha incumprido as regras estip
 
 4 - O seguro de acidentes pessoais, referido no n.º 1, é contratado pela DGArtes, para todos os estagiários, cobrindo o período de estágio, incluindo os seminários de abertura e encerramento e os dias de viagem, excluindo deslocações a outros países, quando não comunicadas antecipadamente à seguradora e sem a aprovação prévia da DGArtes.
 
-###### Artigo 11.º — Estudos e trabalhos decorrentes dos estágios INOV-ART
+Artigo 11.º
+
+Estudos e trabalhos decorrentes dos estágios INOV-ART
 
 1 - A divulgação e apresentação dos trabalhos decorrentes dos estágios INOV-ART obriga à menção ao INOV-ART/DGArtes/MC.
 
@@ -304,11 +338,15 @@ c) Outros em que se verifique que o estagiário tenha incumprido as regras estip
 
 3 - Serão igualmente comunicadas, pela DGArtes, aos estagiários e entidades de acolhimento quaisquer referências a trabalhos realizados pelos mesmos no âmbito do INOV-ART.
 
-###### Artigo 12.º — Regulamento de execução
+Artigo 12.º
+
+Regulamento de execução
 
 Pode a DGArtes, na medida em que o entenda necessário, elaborar e publicar um regulamento de execução.
 
-###### Artigo 14.º — Relatórios
+Artigo 14.º
+
+Relatórios
 
 1 - Os estagiários, bem como os coordenadores de estágio, devem entregar os seguintes relatórios:
 
@@ -328,7 +366,9 @@ b) Estágio com mais de três meses - um relatório intercalar e um relatório f
 
 7 - A não entrega atempada dos relatórios de estágio sem qualquer razão atendível pode levar à suspensão ou cancelamento do estágio.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A classificação final dos estágios é decidida pela DGArtes com base nos relatórios finais e pareceres, de acordo com a seguinte ponderação:
 
@@ -500,7 +540,9 @@ iv) Serviços Educativos.
 
 2 - O aviso de abertura pode identificar quais as áreas consideradas como prioritárias, bem como os termos em que traduz a respectiva prioridade.
 
-###### Artigo 5.º-A — Documentação e comunicações
+Artigo 5.º-A
+
+Documentação e comunicações
 
 1 - As línguas oficiais do INOV-ART são o português e o inglês, aceitando-se ainda documentação em francês e castelhano.
 
@@ -510,7 +552,9 @@ iv) Serviços Educativos.
 
 4 - Todas as comunicações são expedidas para os endereços electrónicos indicados no formulário de candidatura, substituindo, para todos os efeitos, as comunicações efectuadas por via postal registada.
 
-###### Artigo 7.º-A — Pré-selecção das candidaturas
+Artigo 7.º-A
+
+Pré-selecção das candidaturas
 
 1 - A pré-selecção das candidaturas consiste:
 
@@ -532,7 +576,9 @@ v) Alinhamento do plano de estágio com os objectivos do INOV-ART.
 
 3 - A DGArtes pode, caso entenda necessário, recorrer a especialistas externos.
 
-###### Artigo 7.º-B — Selecção dos candidatos
+Artigo 7.º-B
+
+Selecção dos candidatos
 
 1 - O processo de selecção dos candidatos consiste na prestação de provas, agrupadas em etapas eliminatórias nos seguintes domínios:
 
@@ -544,7 +590,9 @@ c) Competências pessoais e competências específicas relevantes na área/subá
 
 2 - A DGArtes pode, caso entenda necessário, recorrer a especialistas externos.
 
-###### Artigo 7.º-C — Selecção das candidaturas e atribuição de bolsas
+Artigo 7.º-C
+
+Selecção das candidaturas e atribuição de bolsas
 
 1 - A selecção das candidaturas é realizada em função da classificação atribuída aos candidatos e às entidades de acolhimento na proporção percentual de 50/50.
 
@@ -560,7 +608,9 @@ c) Competências pessoais e competências específicas relevantes na área/subá
 
 7 - A DGArtes pode, caso entenda necessário, recorrer a especialistas externos.
 
-###### Artigo 11.º-A — Acompanhamento dos estágios
+Artigo 11.º-A
+
+Acompanhamento dos estágios
 
 O acompanhamento dos estágios é feito através de um interlocutor dos serviços responsáveis pelo INOV-ART designado para esse efeito, que articula as comunicações entre a DGArtes, o estagiário e a entidade de acolhimento.»
 
@@ -582,7 +632,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 15 de Março de 2011.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas. - O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas. - O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos.
 
 ## ANEXO — Republicação do anexo IV da [Portaria n.º 1103/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2008-452957), de 2 de Outubro
 

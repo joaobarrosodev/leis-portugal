@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2016/03/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826019619b766db30fbaf53cb3d4d6088f3bfd9c5a334fdb4e90b6edf56d21de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b220154e724cb1ae719a77e17a6ac18fb811c4813249cd47dec073e816b4ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Definição de Competências
-- Carreira Profissional
-- Federação de Bombeiros
-- Veículo
 - Bombeiro
+- Carreira Profissional
+- Definição de Competências
+- Federação de Bombeiros
+- Formação Profissional
 - Madeira.região Autónoma
 - Quadro de Pessoal
 - Siops
 - Sistema Regional de Proteção Civil
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
@@ -117,16 +117,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:190872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:58Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +253,9 @@ c) [Anterior alínea c) do n.º 5.]
 
 10 - Os bombeiros pertencentes a um corpo de bombeiros detido por uma associação humanitária de bombeiros, que seja extinto, podem ser afetos a outros corpos de bombeiros, nos termos a definir por deliberação do Conselho Diretivo do SRPC, IP-RAM.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +309,9 @@ d) ...
 
 e) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -269,11 +329,17 @@ c) Existindo municípios que não disponham de corpo de bombeiros, a respetiva �
 
 5 - (Anterior n.º 4.)
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
 
-#### SECÇÃO I — Quadros dos Corpos de Bombeiros
+[...]
 
-###### Artigo 9.º — [...]
+SECÇÃO I
+
+Quadros dos Corpos de Bombeiros
+
+Artigo 9.º
+
+[...]
 
 1 - Os quadros dos corpos de bombeiros profissionais e mistos detidos pelos municípios, bem como dos corpos privativos de bombeiros, estruturam-se de acordo com o regime a definir em diploma próprio.
 
@@ -299,7 +365,9 @@ e) ...
 
 7 - O quadro de honra é constituído pelos elementos com 40 ou mais anos de idade que, com zelo, dedicação, disponibilidade e abnegação, exerceram funções ou prestaram serviço efetivo durante 15 ou mais anos, sem qualquer punição disciplinar nos últimos três anos, nos quadros de comando ou ativo de um corpo de bombeiros, e ainda aqueles que, independentemente da idade e do tempo de serviço prestado, adquiriram incapacidade por doença ou acidente ocorrido em serviço ou tenham prestado serviços de caráter relevante à causa dos bombeiros.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +387,9 @@ d) Tipo 1 - superior a 120 elementos.
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -343,7 +413,9 @@ b) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 12.º — Quadro de comando nos corpos de bombeiros voluntários ou mistos
+Artigo 12.º
+
+Quadro de comando nos corpos de bombeiros voluntários ou mistos
 
 1 - A estrutura do quadro de comando nos corpos de bombeiros mistos e voluntários detidos pelas associações humanitárias de bombeiros é composta por:
 
@@ -369,7 +441,9 @@ b) Nos corpos de bombeiros voluntários ou mistos de tipo 2, por um comandante, 
 
 c) Nos corpos de bombeiros voluntários ou mistos de tipo 1, por um comandante, um 2.º comandante e três adjuntos.
 
-###### Artigo 13.º — Quadro ativo nos corpos de bombeiros voluntários ou mistos
+Artigo 13.º
+
+Quadro ativo nos corpos de bombeiros voluntários ou mistos
 
 1 - O quadro ativo compreende as seguintes carreiras:
 
@@ -387,7 +461,9 @@ c) Carreira de bombeiro especialista.
 
 5 - O desempenho da atividade de bombeiro nas diferentes carreiras do quadro ativo, quer em fase de admissão quer no decurso das várias fases de progressão, depende da avaliação física e psíquica.
 
-###### Artigo 15.º — Quadro de reserva nos corpos de bombeiros voluntários ou mistos
+Artigo 15.º
+
+Quadro de reserva nos corpos de bombeiros voluntários ou mistos
 
 1 - ...
 
@@ -425,7 +501,9 @@ c) Colaborar nas diversas atividades desenvolvidas pelo corpo de bombeiros, comp
 
 11 - O tempo decorrido na situação de reserva não é considerado para efeitos de contagem de tempo de serviço.
 
-###### Artigo 16.º — Quadro de honra nos corpos de bombeiros voluntários ou mistos
+Artigo 16.º
+
+Quadro de honra nos corpos de bombeiros voluntários ou mistos
 
 1 - Podem ingressar no quadro de honra, no cargo que detinham, os elementos do quadro de comando que:
 
@@ -467,7 +545,9 @@ c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas
 
 10 - Os elementos do quadro de honra, oriundos do quadro ativo, não podem solicitar o seu regresso a este quadro, podendo, no entanto, ser nomeados para a estrutura de comando.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +561,9 @@ c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas
 
 6 - O serviço operacional dos bombeiros voluntários, designadamente no que concerne ao número de horas de atividade, tipologia de serviço a prestar e obrigações no âmbito da formação que devem ser cumpridas para obtenção dos direitos, benefícios e regalias previstos no Regime Jurídico dos Bombeiros Portugueses, é aprovado por portaria do membro do Governo Regional responsável pela área da proteção civil, ouvida a Federação de Bombeiros da Região Autónoma da Madeira.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Tendo como objetivo a maximização dos meios e o aproveitamento de sinergias, podem os corpos de bombeiros cujas áreas de atuação sejam contíguas, desenvolver atividade operacional conjunta, de forma partilhada, a qual deverá ser obrigatoriamente comunicada ao SRPC, IP-RAM.
 
@@ -489,13 +571,17 @@ c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas
 
 3 - O comando operacional da atividade conjunta cabe ao comandante do corpo de bombeiros em cuja área de atuação própria a atividade se desenvolva ou, na sua ausência, por decisão dos comandantes dos corpos de bombeiros envolvidos, sem prejuízo das competências do SRPC, IP-RAM, previstas no [Decreto Legislativo Regional n.º 16/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2009-491931), de 30 de junho.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Para fazer face a situações de acidente grave ou catástrofe, ou outras que justifiquem o empenhamento extraordinário e previsivelmente prolongado de meios e recursos, poderá o SRPC, IP-RAM determinar a constituição de forças conjuntas de bombeiros, as quais poderão integrar outros agentes de proteção civil, cujas competências e capacidades se mostrem determinantes para a eficácia do socorro e assistência às populações, da supressão dos sinistros e mitigação das suas consequências e reabilitação de zonas afetadas.
 
 2 - O comando e coordenação das forças conjuntas rege-se pelo disposto no Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma da Madeira (SIOPS-RAM), conforme consta do artigo 18.º do [Decreto Legislativo Regional n.º 16/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2009-491931), de 30 de junho.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - No âmbito do cumprimento das missões previstas no artigo 3.º do presente diploma, o SRPC, IP-RAM pode promover a criação de unidades de intervenção para missões específicas na Região, com base no recrutamento de oficiais bombeiros e bombeiros do quadro ativo, podendo as mesmas integrar missões nacionais de cooperação internacional, ou de auxílio a operações no restante território nacional.
 
@@ -509,7 +595,9 @@ c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas
 
 6 - A integração de bombeiros das diferentes Corporações nestas Unidades de Intervenção para Missões Específicas, deverá ser validada pelas respetivas entidades detentoras, ouvido o comando.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A instrução do pessoal dos corpos de bombeiros é ministrada sob direção e orientação do comandante e de acordo com programa previamente estabelecido e aprovado pela Autoridade Nacional de Proteção Civil, sem prejuízo das adaptações a introduzir pelo SRPC, IP-RAM, sob proposta da Inspeção Regional de Bombeiros em articulação com o Centro de Formação de Proteção Civil e Bombeiros.
 
@@ -517,7 +605,9 @@ c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os elementos do quadro de comando e do quadro ativo que se encontrem na situação de atividade, têm direito à formação adequada para o exercício da missão de socorro e ainda à frequência de cursos, colóquios, seminários e outras ações destinadas ao seu aperfeiçoamento técnico.
 
@@ -539,13 +629,17 @@ e) ...
 
 5 - Compete ao SRPC, IP-RAM, através do Centro de Formação de Proteção Civil e Bombeiros, assegurar, em articulação com a ENB - Escola Nacional de Bombeiros, as ações de formação necessárias ao ingresso nas estruturas de comando, ao ingresso e acesso na carreira de oficial bombeiro, ao acesso na carreira de bombeiro e ao ingresso na carreira de bombeiro especialista.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
 2 - O modelo de processo individual é aprovado por Despacho do membro do Governo Regional com a tutela da proteção civil, sob proposta do SRPC, IP-RAM.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -553,7 +647,9 @@ e) ...
 
 3 - Os corpos de bombeiros, através da sua entidade detentora e com base nos elementos fornecidos pelo comandante, devem manter permanentemente atualizada, por via informática, a informação sobre os seus quadros de comando, ativo, de reserva e de honra, na plataforma do recenseamento nacional dos bombeiros portugueses, destinada aos bombeiros da Região Autónoma da Madeira.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -569,11 +665,15 @@ e) ...
 
 7 - Os infantes e cadetes integram a apólice de seguros do quadro de reserva do respetivo corpo de bombeiros.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 A matéria respeitante à ordem unida, honra e continências constará de regulamento a aprovar por portaria do membro do Governo Regional com a tutela da proteção civil, sob proposta do SRPC, IP-RAM, ouvida a Federação Regional de Bombeiros.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 A regulamentação do [Decreto-Lei n.º 247/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841), de 27 de junho, retificado pela [Declaração de Retificação n.º 4/2013](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2013-257041), de 18 de janeiro, e alterado pelo [Decreto-Lei n.º 248/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), de 21 de novembro, é aplicável à Região em tudo o que não contrarie o disposto no presente diploma, sem prejuízo do exercício de iniciativa legislativa própria quanto à sua adaptação ou aprovação de regulamentação específica.»
 
@@ -593,7 +693,9 @@ Agrupamentos
 
 4 - O regime da criação, funcionamento, comando e financiamento dos agrupamentos de corpos de bombeiros é aprovado por portaria do membro do Governo responsável pela área da proteção civil, sem prejuízo da manutenção do atual modelo de financiamento às Associações Humanitárias de Bombeiros que os integrem.
 
-###### Artigo 23.º-A — Dispositivo operacional dos corpos de bombeiros
+Artigo 23.º-A
+
+Dispositivo operacional dos corpos de bombeiros
 
 É definido por portaria do membro do Governo responsável pela área da proteção civil o dispositivo operacional dos corpos de bombeiros, para efeitos de coordenação, comando e controlo, em articulação com o SRPC, IP-RAM e as câmaras municipais das áreas de atuação envolvidas, ouvida a Federação de Bombeiros da RAM.»
 
@@ -611,11 +713,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de janeiro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 24 de fevereiro de 2016.**
+Assinado em 24 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

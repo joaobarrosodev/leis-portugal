@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/2010/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-2010-614302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a8269237c00080ee9fe6f191d435c7a8d62331acff48beec31929cb26203b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f951aa13e0bc5a0b57c92a6c1c564974e991ef5b31c61ec99fbe72824d90e54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Direcção Geral das Pescas e Aquicultura
 - Docapesca-sociedade Concessionária da DOCA de Pesca
-- Pesca
 - Licenciamento
 - Lota
+- Pesca
 - Pescado
-- Comércio
 - Venda
 relationships:
 - type: cites
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/197/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/197/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:547844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:14Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +139,9 @@ São alterados os artigos 2.º, 3.º, 4.º, 5.º e 6.º da [Portaria n.º 197/20
 
 3 - Podem ainda ser autorizados pela DGPA, a proceder à venda directa do pescado capturado, nos termos definidos no n.º 1, os armadores e titulares de licença de pesca profissional para operar no rio Minho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -139,7 +149,9 @@ São alterados os artigos 2.º, 3.º, 4.º, 5.º e 6.º da [Portaria n.º 197/20
 
 3 - A DGPA pode, a todo o tempo, restringir a possibilidade de desembarque a certos portos de desembarque e a determinados horários, publicitando tal condicionalismo através de edital da capitania, com uma antecedência de oito dias.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -149,7 +161,9 @@ São alterados os artigos 2.º, 3.º, 4.º, 5.º e 6.º da [Portaria n.º 197/20
 
 4 - A revogação da autorização a que se refere o número anterior deve ser comunicada aos interessados até 15 de Novembro de cada ano.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +175,9 @@ b) Manter, durante o prazo mínimo de três anos civis, as cópias das guias emi
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 

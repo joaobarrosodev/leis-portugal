@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22000/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/278/2022/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-2022-203457498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffabd9af75b33747ffbb43b9c5c71a877fd4a7bc0bdd2ab464b5f876c1b7623b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0692931d18a3bd69eba7e6a678ed9604f88ea6581ece64b040dffd6972cf8820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
 subjects:
 - Animal de Exploração
 - Cobrança
-- Multa
-- Proteção dos Animais
 - Criação de Serviços
 - Direção Geral de Alimentação e Veterinária
 - Experimentação nos Animais
+- Multa
 - Pagamento
 - Prestação de Serviços
+- Proteção dos Animais
 - Registo de Animais
 - Sanção
-- Taxa
 - Saúde Animal
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2019/01/10/p/dre
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/113/2013/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/113/2013/08/07/p/dre
+- type: cites
+  target: pt:dre:117663336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498488:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:59Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +169,6 @@ Os valores das taxas estabelecidos na presente portaria são atualizados, automa
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de novembro de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 10 de novembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de novembro de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 10 de novembro de 2022.
+
+115869508

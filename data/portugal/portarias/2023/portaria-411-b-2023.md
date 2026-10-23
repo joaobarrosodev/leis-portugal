@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05
   number: '234'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 136-(43) a 136-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23403/0004300046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/411-b/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-b-2023-225283594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1dacf225309db62f17f187a5a43d6493c1b85c01a169b31d76bdfbfc172090f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8686813ff0f0b8535aedbce5a837ab1b09df34aa9f8aef362fcf66a769a557fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Competente
 - Código do Procedimento Administrativo
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Equipamento
-- União Europeia
-- Autoridade Competente
 - Rede transeuropeia de transportes
+- Regulamentação de Atos Legislativos
+- União Europeia
 relationships:
 - type: cites
   target: celex:32013R1315
@@ -90,6 +90,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225265457:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32021L1187
   label: null
@@ -97,13 +105,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:08Z'
   warnings: []
   errors: []
 ---
@@ -212,17 +220,19 @@ g) Emite orientações ao promotor do projeto sobre as informações e/ou docume
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco, em 5 de dezembro de 2023.**
+O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco, em 5 de dezembro de 2023.
 
 ## ANEXO I — Troços previamente identificados de ligações transfronteiriças e ligações em falta nos corredores da rede principal
 
 [a que se refere no artigo 2.º, n.º 1, alínea a)]
 
-|  |  |  |
+| Corredor da rede principal «Atlântico» |  |  |
 | --- | --- | --- |
-| Corredor da rede principal «Atlântico» | Corredor da rede principal «Atlântico» | Corredor da rede principal «Atlântico» |
+|  |  |  |
 | Ligações transfronteiriças | Évora - Mérida ... | Ferrovias. |
 |  | Vitoria-Gasteiz - San Sebastián - Baiona - Bordéus... |  |
 |  | Aveiro - Salamanca... |  |
 |  | Rio Douro (Via Navegável do Douro)... | Vias navegáveis interiores. |
 | Ligações em falta... | Linhas interoperáveis de bitola não UIC na Península Ibérica | Ferrovias. |
+
+117135934

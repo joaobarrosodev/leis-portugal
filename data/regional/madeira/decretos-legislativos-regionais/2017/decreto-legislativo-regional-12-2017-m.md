@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09800/0248602489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2017/05/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2017-107047292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ffb71d2665542b7cb68b6eec2fa9b3058661eba91bb9b393eed08f0120d34d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdfe3c7e5c1536698fb6c19e202471f18174f1f32b28536c8bd5015b81cb9ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Assembleia Legislativa Regional
 - Cidadão Nacional
+- Direito de Petição
 - Iniciativa Legislativa
 - Madeira.região Autónoma
-- Direito de Petição
 - Processo Legislativo
 relationships:
 - type: cites
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:08Z'
   warnings: []
   errors: []
 ---
@@ -124,17 +140,23 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 8.º e 11.º do [Decreto Legislativo Re
 
 O presente decreto legislativo regional regula e garante o exercício do direito de iniciativa legislativa junto da Assembleia Legislativa por parte de grupos de cidadãos eleitores recenseados na Região Autónoma da Madeira, bem como a sua participação no procedimento legislativo a que deram origem.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A iniciativa legislativa é exercida por um número mínimo de 2000 eleitores.
 
-###### Artigo 4.º — Proponentes e Comissão Representativa
+Artigo 4.º
+
+Proponentes e Comissão Representativa
 
 1 - O grupo de cidadãos eleitores é representado pelo primeiro signatário do projeto como representante dos proponentes ou por uma comissão representativa de até 3 elementos, salvo quando os proponentes optem por outra forma de representação e a especifiquem no ato de apresentação da iniciativa.
 
 2 - O representante dos proponentes ou a comissão representativa são notificados de todos os atos respeitantes ao processo legislativo e podem exercer junto da Assembleia Legislativa as diligências tendentes à boa execução do disposto no presente decreto legislativo regional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -154,11 +176,15 @@ g) A identificação dos elementos que compõem a comissão representativa, bem 
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Podem ser objeto de iniciativa legislativa, nos termos do presente diploma, todas as matérias sobre as quais a Assembleia Legislativa pode legislar, com exceção das que revistam natureza económica ou conteúdo orçamental, tributário ou financeiro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +200,9 @@ d) Não respeitar os limites do objeto definidos no artigo 6.º e no Estatuto Po
 
 3 - Caso não haja resposta ou a correção das deficiências não seja feita em tempo útil, da decisão do Presidente da Assembleia Legislativa de não admissão cabe recurso pelos deputados nos termos do Regimento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -200,11 +228,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de março de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 28 de abril de 2017.**
+Assinado em 28 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/376/2013/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/376-2013-483882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52b73ae90f6982402b9918b29b7ee935da66eb508fdb568af6e3f8660a883b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52441018f3a95f7be3cca01a2126fa730c76193a1aeaa994e08c41990e892621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Desvalorização da Moeda
 - Contribuições e Impostos
+- Desvalorização da Moeda
+- IRC
 - IRS
 - Moeda
-- IRC
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:06Z'
   warnings: []
   errors: []
 ---
@@ -101,8 +109,8 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 Os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2013, cujo valor deva ser atualizado nos termos dos artigos 47.º do Código do IRC e 50.º do Código do IRS, para efeitos de determinação da matéria coletável dos referidos impostos, são os constantes do quadro anexo.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.
 
 ## ANEXO — Quadro de atualização dos coeficientes de desvalorização da moeda a que se referem os artigos 47.º do Código do IRC e 50.º do Código do IRS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25200/0700107002.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25200/0700107002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25200/0700107002.pdf)

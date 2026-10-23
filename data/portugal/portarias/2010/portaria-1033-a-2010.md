@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4404-(2) a 4404-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19401/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-a/2010/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-a-2010-405302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 669db88bb5e066f4f2790f9893987675ed16a4a7128c30e3ff629b1f4957a2ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 624efc8b2d007130cc7b5b524150120869f14742b4086ccc2593e11dc983a592
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada da Costa de Prata
 - Auto-estrada do Grande Porto
-- SCUT
-- Empresa
-- Pagamento
-- Isenção de Portagem
-- Auto-estrada
-- Portagem
 - Auto-estrada Norte-litoral
+- Empresa
+- Isenção de Portagem
+- Pagamento
+- Portagem
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:179522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179522:por
+  label: "Alterados os art.s 3º e 5º, pela PORT.211/2012.13.07.2012.MF, DR.IS [135] de 13.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-2012-179522
+  date: '2012-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -121,16 +126,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/75/2010/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75/2010/09/22/p/dre
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598336:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:43Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +246,7 @@ O regime efectivo de cobrança de taxas de portagem nas SCUT do Norte Litoral, d
 
 A presente portaria produz efeitos a partir de 15 de Outubro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Outubro de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 28 de Setembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Outubro de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 28 de Setembro de 2010.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 3.º)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/94/2013/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2013-259264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dacc14ef55ad232ac294f1b1db686d8c4fdd34f802309ce2bc4f62da925eba82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad6304058ac9bca7533470e3b804bf7a1e27fa7749671caa5d566c5945ab3055
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amortização
-- Documentação
-- Impresso
 - Contribuições e Impostos
+- Documentação
 - Documento Eletrónico
+- Impresso
 - IRC
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:114706488:por
+  label: Mantida em vigor pelo(a) Portaria n.º 51/2018 - Diário da República n.º 34/2018, Série I de 2018-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-2018-114706488
+  date: '2018-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/25/2009/09/14/p/dre
   label: null
@@ -89,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92-a/2011/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92-a/2011/02/28/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:28Z'
   warnings: []
   errors: []
 ---
@@ -129,9 +154,9 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto 
 
 O modelo oficial aprovado pela presente portaria entra em vigor em 1 de janeiro de 2013 é de utilização obrigatória para os períodos de tributação iniciados a partir de 1 de janeiro de 2012, inclusive.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de fevereiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de fevereiro de 2013.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)
 
 INSTRUÇÕES DE PREENCHIMENTO
 
@@ -231,8 +256,8 @@ I. Mapas do dossier fiscal
 
 O elemento Cabeçalho Geral contém informação geral alusiva ao sujeito passivo a que respeita o ficheiro e ao período de reporte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)
 
 2 -MAPA DAS DEPRECIAÇÕES E AMORTIZAÇÕES: MODELO 32
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04400/0118201185.pdf)

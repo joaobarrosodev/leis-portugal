@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14500/0007400075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2021/07/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2021-168475296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d43d76184a7389d73bd2c24fde233e1dee7fa1be4e9f905134320366b2d2c3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f43b373d46f03f0dcb16a256a090e1944b5b32a09e5f09f6b29def5534216e02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acolhimento Familiar
-- Instituto da Segurança Social
-- Região Autónoma
-- Assembleia Legislativa Regional
-- Comissão de Protecção de Crianças e Jovens
-- Ministério da Educação
-- Governo Regional
-- Serviço de Saúde
-- Direitos da Criança
-- Definição de Competências
-- Equipamento Social
 - Ação Social
+- Acolhimento Familiar
+- Assembleia Legislativa Regional
 - Centro de Acolhimento
-- Economia Social
-- Madeira.região Autónoma
-- Ministério da Saúde
 - Comissão de Acompanhamento e Avaliação das Medidas de Promoção e Proteção em Regime de Colocação
+- Comissão de Protecção de Crianças e Jovens
+- Definição de Competências
+- Direitos da Criança
+- Economia Social
+- Equipamento Social
+- Governo Regional
+- Instituto da Segurança Social
+- Madeira.região Autónoma
+- Ministério da Educação
+- Ministério da Saúde
+- Região Autónoma
 - Secretaria Regional da Educação Ciência e Tecnologia
+- Serviço de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/2019/10/25/p/dre
@@ -105,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+- type: cites
+  target: pt:dre:125692191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:29Z'
   warnings: []
   errors: []
 ---
@@ -159,10 +179,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 15 de julho de 2021.**
+Assinado em 15 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+114424272

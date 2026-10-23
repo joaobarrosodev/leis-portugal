@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1980-679074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b85917c1f1afb3286596c9c722dced8ec6da6bcfcdb68054d2bad08c249a17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993434754dd0e5fe335aaaae825a4b4004a0fca6d9c32ed75482cf2323c6b038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:34Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +94,18 @@ No caso do presente diploma, procura-se evitar a comprovada sobrecarga de compet
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira delibera, para valer como lei:
 
-###### Artigo 1.º A Direcção Regional de Transportes passa a alargar a sua superintendência ao sector dos portos e transita para a Presidência do Governo Regional.
+Artigo 1.º A Direcção Regional de Transportes passa a alargar a sua superintendência ao sector dos portos e transita para a Presidência do Governo Regional.
 
-###### Art. 2.º O sector da energia transita para a Secretaria Regional do Planeamento e Finanças.
+Art. 2.º O sector da energia transita para a Secretaria Regional do Planeamento e Finanças.
 
-###### Art. 3.º Nos termos definidos na lei, o Governo Regional procederá às estruturações orgânicas consequentes do disposto neste diploma.
+Art. 3.º Nos termos definidos na lei, o Governo Regional procederá às estruturações orgânicas consequentes do disposto neste diploma.
 
-###### Art. 4.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 21 de Fevereiro de 1980.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 28 de Fevereiro de 1980.**
+Assinado em 28 de Fevereiro de 1980.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

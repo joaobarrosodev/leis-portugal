@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04900/04170422.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1978-446704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18aac462b4bdd1130f6373a0cba3d2e5d1ae5485f6bf920dee8c03f90854986
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5816e8801790f097cbee1579f2faa61d216deb869ac03e5a04309d7e3ca04744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artesanato
+- Autonomia Administrativa
+- Autonomia Financeira
+- Comércio
+- Conselho Administrativo
+- Definição de Competências
+- Direção
+- Estatuto
+- Gestão Financeira
+- Grémio dos Industriais de Bordados da Madeira
+- Instituto do Bordado Tapeçaria e Artesanato da Madeira
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Presidente
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:555021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555021:por
+  label: "Revogado, a partir de 27.09.1993, pelo DLR.23/90/M.26.09.1990.ALR-RAM, DR.IS [223] de 26.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-1990-555021
+  date: '1990-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:23Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](h
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º - 1 - Em execução do disposto no artigo 46.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do [Decreto Regional n.º 2/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1977-140519), de 3 de Março, é criado o Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM), que exercerá as suas atribuições sem prejuízo das conferidas por lei ao Governo Regional da Região Autónoma da Madeira e das que pertençam a outros departamentos do Estado.
+Artigo 1.º - 1 - Em execução do disposto no artigo 46.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do [Decreto Regional n.º 2/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1977-140519), de 3 de Março, é criado o Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM), que exercerá as suas atribuições sem prejuízo das conferidas por lei ao Governo Regional da Região Autónoma da Madeira e das que pertençam a outros departamentos do Estado.
 
 2 - O IBTAM fica na dependência do Governo Regional da Região Autónoma da Madeira.
 
@@ -106,7 +135,7 @@ Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](h
 
 4 - O IBTAM poderá abrir delegações no território português e estrangeiro, sempre que o seu conselho administrativo o julgar necessário, depois de ouvido o conselho do artesanato.
 
-###### Art. 2.º São atribuições do IBTAM:
+Art. 2.º São atribuições do IBTAM:
 
 a) Incentivar e disciplinar as actividades do bordado, tapeçarias e artesanato da Madeira nas suas modalidades de produção, distribuição e comercialização;
 
@@ -128,7 +157,7 @@ i) Estimular a investigação no domínio do artesanato e produção de novas ac
 
 j) Promover estudos e acções tendentes ao fabrico de matérias-primas para o bordado, tapeçarias e artesanato da Região.
 
-###### Art. 3.º Para exercício destas atribuições compete ao Instituto:
+Art. 3.º Para exercício destas atribuições compete ao Instituto:
 
 a) Definir regras sobre produção, distribuição e comercialização do bordado, tapeçarias e artesanato da Região, tendo como preocupações um impulso nestas actividades e o acesso justo à produção por todas as empresas do sector, sem prejuízo da competência própria dos órgãos de governo da Região;
 
@@ -176,7 +205,7 @@ x) O IBTAM poderá fixar preços mínimos a pagar à produção.
 
 ### CAPÍTULO II — Dos órgãos do Instituto
 
-###### Art. 4.º - 1 - O IBTAM goza de autonomia administrativa e financeira.
+Art. 4.º - 1 - O IBTAM goza de autonomia administrativa e financeira.
 
 2 - São órgãos do Instituto o conselho administrativo, a direcção e o conselho do artesanato.
 
@@ -210,13 +239,13 @@ d) Três representantes dos sindicatos e três representantes de associações p
 
 13 - Os membros do conselho administrativo integrarão o conselho do artesanato sem direito a voto.
 
-###### Art. 5.º - 1 - A gerência do Instituto do Bordado, Tapeçarias e Artesanato da Madeira compete à direcção.
+Art. 5.º - 1 - A gerência do Instituto do Bordado, Tapeçarias e Artesanato da Madeira compete à direcção.
 
 2 - A direcção reunirá ordinariamente uma vez por semana, de cujas decisões será lavrada acta, e considera-se legalmente constituída com a presença de dois dos seus membros.
 
 3 - A direcção poderá reunir extraordinariamente sempre que o presidente o julgar conveniente, ou a pedido de qualquer dos seus membros.
 
-###### Art. 6.º - 1 - Compete, em cada ano, ao conselho administrativo elaborar:
+Art. 6.º - 1 - Compete, em cada ano, ao conselho administrativo elaborar:
 
 a) Os orçamentos ordinários e suplementares das receitas e despesas do Instituto;
 
@@ -232,7 +261,7 @@ e) Regulamentos para aprovação do Governo Regional.
 
 3 - O conselho administrativo poderá reunir extraordinariamente sempre que o presidente ou dois dos seus membros o julgarem conveniente.
 
-###### Art. 7.º - 1 - Compete ao presidente do Instituto, mediante deliberação da direcção:
+Art. 7.º - 1 - Compete ao presidente do Instituto, mediante deliberação da direcção:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -244,7 +273,7 @@ c) Fornecer à Alfândega do Funchal o nome dos produtores e exportadores inscri
 
 3 - Para obrigar o Instituto é bastante a assinatura do presidente e de um dos vogais da direcção. No impedimento daquele é suficiente a assinatura dos dois vogais da direcção.
 
-###### Art. 8.º - 1 - O conselho do artesanato funciona em reuniões ordinárias e extraordinárias.
+Art. 8.º - 1 - O conselho do artesanato funciona em reuniões ordinárias e extraordinárias.
 
 2 - Em cada ano, o conselho deve reunir-se ordinariamente:
 
@@ -266,7 +295,7 @@ c) Até 15 de Dezembro, para apreciar e aprovar o orçamento das receitas e desp
 
 ### CAPÍTULO III — Dos serviços
 
-###### Art. 9.º - 1 - O IBTAM disporá dos seguintes serviços:
+Art. 9.º - 1 - O IBTAM disporá dos seguintes serviços:
 
 a) Departamento técnico;
 
@@ -280,21 +309,21 @@ b) Departamento administrativo.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 10.º - 1 - Considera-se artesanato a actividade humana de produção, transformação e reparação de bens ou de prestação de serviços realizados mediante um processo em que a intervenção pessoal constitua factor predominante, obtendo-se um resultado final individualizado que não se adapta à produção industrial totalmente mecanizada ou em grandes séries.
+Art. 10.º - 1 - Considera-se artesanato a actividade humana de produção, transformação e reparação de bens ou de prestação de serviços realizados mediante um processo em que a intervenção pessoal constitua factor predominante, obtendo-se um resultado final individualizado que não se adapta à produção industrial totalmente mecanizada ou em grandes séries.
 
 2 - São também considerados artesanato, para efeitos do presente diploma, os bordados e tapeçarias feitos à mão com pontos autorizados pelo IBTAM, bem como a obra de vimes.
 
 3 - As dúvidas surgidas serão resolvidas pelo conselho do artesanato do IBTAM.
 
-###### Art. 11.º - 1 - Produtor é a entidade singular ou colectiva que intervém no todo ou na parte final do processo de produção de um artefacto.
+Art. 11.º - 1 - Produtor é a entidade singular ou colectiva que intervém no todo ou na parte final do processo de produção de um artefacto.
 
 2 - Todo o produtor que faça do comércio ou da indústria profissão está obrigado a inscrever-se no IBTAM.
 
-###### Art. 12.º - 1 - O bordado e tapeçarias da Madeira referidos no presente estatuto consideram-se como bordado e tapeçaria manual.
+Art. 12.º - 1 - O bordado e tapeçarias da Madeira referidos no presente estatuto consideram-se como bordado e tapeçaria manual.
 
 2 - Fica vedado em toda a Região o fabrico de bordado da Madeira e tapeçaria à máquina.
 
-###### Art. 13.º - 1 - As matérias-primas e/ou acessórios da actividade artesanal, importados directamente pelo Instituto ou para depósito nos seus armazéns, no exercício da competência definida no artigo 3.º deste decreto, beneficiam de isenção fiscal nos termos das leis vigentes ou que venham a ser aplicadas à importação de matérias-primas para a indústria dos bordados, tapeçarias e artesanato.
+Art. 13.º - 1 - As matérias-primas e/ou acessórios da actividade artesanal, importados directamente pelo Instituto ou para depósito nos seus armazéns, no exercício da competência definida no artigo 3.º deste decreto, beneficiam de isenção fiscal nos termos das leis vigentes ou que venham a ser aplicadas à importação de matérias-primas para a indústria dos bordados, tapeçarias e artesanato.
 
 2 - Todo o produtor inscrito no IBTAM pode beneficiar da isenção fiscal apontada no n.º 1 deste artigo, desde que os bens importados sejam depositapos nos armazéns do IBTAM e o seu uso fiscalizado por este mesmo organismo.
 
@@ -302,7 +331,7 @@ b) Departamento administrativo.
 
 #### SECÇÃO II — Da assistência financeira e técnica
 
-###### Art. 14.º - 1 - O IBTAM poderá garantir assistência financeira a empresas produtoras de bordados, tapeçarias, artesanato e obra de vimes, nomeadamente para efeitos de reconversão, nos termos da resolução do Conselho de Ministros de 12 de Junho de 1975 ou da legislação que a venha a substituir.
+Art. 14.º - 1 - O IBTAM poderá garantir assistência financeira a empresas produtoras de bordados, tapeçarias, artesanato e obra de vimes, nomeadamente para efeitos de reconversão, nos termos da resolução do Conselho de Ministros de 12 de Junho de 1975 ou da legislação que a venha a substituir.
 
 2 - Poderá também garantir assistência financeira a todo o produtor que se proponha investigar sobre novas actividades artesanais ou sobre novas formas de produção das actividades existentes, ou ainda que pretendam investigar em maquinismos para a fabricação de novos artefactos reputados de interesse regional.
 
@@ -312,13 +341,13 @@ b) Departamento administrativo.
 
 5 - Além de assistência financeira própria, poderá o IBTAM colaborar, entre outras entidades, com o Secretariado Regional da Banca e com o IAPMEI, com vista ao financiamento de actividades artesanais com interesse para a Região.
 
-###### Art. 15.º O IBTAM poderá garantir assistência técnica aos produtores inscritos, através dos seus serviços, mormente no que se refere a estudos de mercados e outros, núcleos de apoio a cooperativas e pequenos produtores e serviços de publicações, dentro dos meios com que venha a ser dotado.
+Art. 15.º O IBTAM poderá garantir assistência técnica aos produtores inscritos, através dos seus serviços, mormente no que se refere a estudos de mercados e outros, núcleos de apoio a cooperativas e pequenos produtores e serviços de publicações, dentro dos meios com que venha a ser dotado.
 
 ### CAPÍTULO II — Da distribuição e comercialização
 
 #### SECÇÃO I — Da distribuição
 
-###### Art. 16.º - 1 - Todo o distribuidor de produtos provenientes de actividades artesanais será obrigado a inscrição no Instituto.
+Art. 16.º - 1 - Todo o distribuidor de produtos provenientes de actividades artesanais será obrigado a inscrição no Instituto.
 
 2 - O IBTAM proporá ao Governo Regional, até 31 de Dezembro de cada ano, o contingente máximo de entrada de artesanato proveniente de outras regiões que não prejudique a produção regional.
 
@@ -326,7 +355,7 @@ b) Departamento administrativo.
 
 4 - Na falta de um mínimo de qualidade exigível, de acordo com critérios a estabelecer pelos serviços técnicos do Instituto, será vedada a venda do produto no mercado local.
 
-###### Art. 17.º - 1 - O IBTAM controla a qualidade dos bordados, tapeçarias e artesanato da Madeira em exposições no País ou no estrangeiro.
+Art. 17.º - 1 - O IBTAM controla a qualidade dos bordados, tapeçarias e artesanato da Madeira em exposições no País ou no estrangeiro.
 
 2 - A organização de exposições e feiras de actividades artesanais provenientes de outras origens na Região Autónoma da Madeira carece de parecer do Instituto.
 
@@ -334,7 +363,7 @@ b) Departamento administrativo.
 
 #### SECÇÃO II — Da comercialização
 
-###### Art. 18.º - 1 - Ficam sujeitos à autorização do Instituto o comércio e a exportação do artesanato do arquipélago, sendo obrigatória a inscrição dos comerciantes no IBTAM.
+Art. 18.º - 1 - Ficam sujeitos à autorização do Instituto o comércio e a exportação do artesanato do arquipélago, sendo obrigatória a inscrição dos comerciantes no IBTAM.
 
 2 - O Instituo estabelecerá preços mínimos e condições de venda, que os comerciantes serão obrigados a respeitar.
 
@@ -342,13 +371,13 @@ b) Departamento administrativo.
 
 #### SECÇÃO III — Da publicidade e dos prémios
 
-###### Art. 19.º - 1 - O IBTAM terá competência para fazer a propaganda do artesanato directamente ou através de empresas da especialidade.
+Art. 19.º - 1 - O IBTAM terá competência para fazer a propaganda do artesanato directamente ou através de empresas da especialidade.
 
 2 - O IBTAM poderá, para efeitos de prospecção, conceder assistência financeira e/ou técnica ao produtor, distribuidor ou comerciante de artesanato.
 
 3 - Adentro das funções de promoção dos produtos de artesanato da Região, compete ao Instituto, nomeadamente, organizar exposições, colaborar em certames da especialidade e promover o intercâmbio com organizações congéneres.
 
-###### Art. 20.º O Instituto do Bordado, Tapeçarias e Artesanato da Madeira poderá atribuir os seguintes prémios:
+Art. 20.º O Instituto do Bordado, Tapeçarias e Artesanato da Madeira poderá atribuir os seguintes prémios:
 
 a) Prémios de qualidade e originalidade;
 
@@ -362,7 +391,7 @@ e) Prémios de exportação.
 
 ### CAPÍTULO III — Dos meios financeiros
 
-###### Art. 21.º Constituem receitas do IBTAM:
+Art. 21.º Constituem receitas do IBTAM:
 
 a) As dotações especiais atribuídas pelo Estado e pela Região Autónoma da Madeira;
 
@@ -376,9 +405,9 @@ e) Os dividendos resultantes da participação em sociedade;
 
 f) O produto da cobrança das taxas que lhe venham a ser atribuídas pelo Governo Regional da Madeira.
 
-###### Art. 22.º O Governo Regional da Madeira pode autorizar o IBTAM a contrair empréstimos para o exercício das suas atribuições.
+Art. 22.º O Governo Regional da Madeira pode autorizar o IBTAM a contrair empréstimos para o exercício das suas atribuições.
 
-###### Art. 23.º As disponibilidades do Instituto serão aplicadas:
+Art. 23.º As disponibilidades do Instituto serão aplicadas:
 
 a) Na manutenção da sua administração e serviços;
 
@@ -388,7 +417,7 @@ c) Na concessão de prémios;
 
 d) No pagamento dos demais encargos decorrentes da prossecução das suas atribuições.
 
-###### Art. 24.º O património do ex-Grémio dos Industriais de Bordados da Madeira é transferido para as seguintes entidades:
+Art. 24.º O património do ex-Grémio dos Industriais de Bordados da Madeira é transferido para as seguintes entidades:
 
 a) Para o Governo Regional é transferido o que ficará afecto a funções de assistência social e de previdência: propriedade do Vale Formoso e creche e jardim-de-infância anexos ao Conjunto Habitacional do Til;
 
@@ -398,13 +427,13 @@ c) O restante património é transferido para o Instituto do Bordado, Tapeçaria
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 25.º - 1 - Transita para o IBTAM todo o pessoal do ex-Grémio dos Industriais de Bordados da Madeira que não opte pela sua integração na Associação dos Industriais de Bordados e Tapeçarias da Madeira.
+Art. 25.º - 1 - Transita para o IBTAM todo o pessoal do ex-Grémio dos Industriais de Bordados da Madeira que não opte pela sua integração na Associação dos Industriais de Bordados e Tapeçarias da Madeira.
 
 2 - O estatuto do pessoal ao serviço do IBTAM será o do funcionalismo público.
 
-###### Art. 26.º O estatuto dos membros do conselho administrativo será regulado pelo Governo Regional.
+Art. 26.º O estatuto dos membros do conselho administrativo será regulado pelo Governo Regional.
 
-###### Art. 27.º - 1 - Podem exercer funções de carácter específico no IBTAM, em comissão de serviço, por período não superior a um ano ou pelo período do mandato, quando se tratar do exercício e cargo no conselho administrativo, funcionários do Estado e de outros institutos públicos, das autarquias locais, bem como trabalhadores das empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação, reforma e sobrevivência, considerando-se todo o período de comissão como serviço prestado nesse quadro.
+Art. 27.º - 1 - Podem exercer funções de carácter específico no IBTAM, em comissão de serviço, por período não superior a um ano ou pelo período do mandato, quando se tratar do exercício e cargo no conselho administrativo, funcionários do Estado e de outros institutos públicos, das autarquias locais, bem como trabalhadores das empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação, reforma e sobrevivência, considerando-se todo o período de comissão como serviço prestado nesse quadro.
 
 2 - Também os trabalhadores do IBTAM podem exercer funções noutro instituto público, autarquias locais ou empresas públicas, em comissão de serviço, mantendo todos os direitos inerentes ao seu estatuto profissional, considerando-se todo o período da comissão como serviço prestado no IBTAM.
 
@@ -414,11 +443,11 @@ c) O restante património é transferido para o Instituto do Bordado, Tapeçaria
 
 ### CAPÍTULO V — Da fiscalização, transgressões e sanções
 
-###### Art. 28.º - 1 - O Instituto definirá normas sobre a produção, matérias-primas a empregar, qualificação dos produtos, mínimos de qualidade, preços mínimos sobre distribuição e comercialização e à produção.
+Art. 28.º - 1 - O Instituto definirá normas sobre a produção, matérias-primas a empregar, qualificação dos produtos, mínimos de qualidade, preços mínimos sobre distribuição e comercialização e à produção.
 
 2 - Todo o produtor, distribuidor e comerciante de bordados, tapeçarias e artesanato em geral fica sujeito à acção disciplinar do Instituto e, pela inobservância do preceituado no presente decreto, incorre nas respectivas sanções.
 
-###### Art. 29.º - 1 - O Instituto procederá à fiscalização da produção, distribuição e comércio dos artefactos, bordados, tapeçarias e artesanato.
+Art. 29.º - 1 - O Instituto procederá à fiscalização da produção, distribuição e comércio dos artefactos, bordados, tapeçarias e artesanato.
 
 2 - Os funcionários do Instituto encarregados do serviço de fiscalização, para os efeitos deste diploma, são considerados agentes da autoridade, podendo levantar autos das diligências que efectuem, neles exarando as declarações prestadas pelos infractores na justificação ou explicação dos seus actos.
 
@@ -428,7 +457,7 @@ c) O restante património é transferido para o Instituto do Bordado, Tapeçaria
 
 5 - A pessoa que impedir as diligências dos funcionários do Instituto, devidamente credenciados, incorrerá nas disposições do artigo 31.º do presente diploma.
 
-###### Art. 30.º - 1 - A violação do estabelecido neste diploma importa, quando outras penalidades não tenham sido previstas, as seguintes sanções:
+Art. 30.º - 1 - A violação do estabelecido neste diploma importa, quando outras penalidades não tenham sido previstas, as seguintes sanções:
 
 a) Repreensão registada;
 
@@ -446,26 +475,26 @@ d) Proibição do exercício da actividade.
 
 5 - No caso de reincidência, a pena será agravada. Na aplicação das sanções será tomado em conta o facto reincidência.
 
-###### Art. 31.º - 1 - Compete ao conselho administrativo do IBTAM a aplicação das sanções previstas no artigo anterior.
+Art. 31.º - 1 - Compete ao conselho administrativo do IBTAM a aplicação das sanções previstas no artigo anterior.
 
 2 - A proibição do exercício da actividade é da competência do conselho do artesanato do IBTAM.
 
-###### Art. 32.º Se as multas não forem pagas voluntariamente, no prazo de trinta dias, serão os autos enviados ao tribunal competente e os infractores julgados em processo de transgressão.
+Art. 32.º Se as multas não forem pagas voluntariamente, no prazo de trinta dias, serão os autos enviados ao tribunal competente e os infractores julgados em processo de transgressão.
 
-###### Art. 33.º - 1 - Das deliberações da direcção ou do conselho administrativo cabe recurso para o conselho do artesanato; das deliberações deste acerca da matéria prevista na alínea d) do n.º 1 do artigo 30.º cabe recurso para a competente Secretaria Regional.
+Art. 33.º - 1 - Das deliberações da direcção ou do conselho administrativo cabe recurso para o conselho do artesanato; das deliberações deste acerca da matéria prevista na alínea d) do n.º 1 do artigo 30.º cabe recurso para a competente Secretaria Regional.
 
 2 - Os recursos previstos no presente diploma deverão ser interpostos no prazo de vinte dias, a contar da data da notificação da deliberação recorrida, devendo as alegações ser apresentadas com o requerimento de interposição do recurso.
 
 3 - As questões suscitadas no foro da actividade do IBTAM serão apreciadas pelo competente tribunal judicial.
 
-###### Art. 34.º Compete ao Governo Regional regulamentar a matéria contida no presente diploma.
+Art. 34.º Compete ao Governo Regional regulamentar a matéria contida no presente diploma.
 
-###### Art. 35.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 35.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 1 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 10 de Fevereiro de 1978.**
+Assinado em 10 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

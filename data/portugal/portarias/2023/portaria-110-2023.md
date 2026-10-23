@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07900/0002700031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/2023/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72e6a97dea01b409b3df50828f576c14e59db93b793d3b2ea5d22e3cfd0bf6e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b7456734fc8835dd1e9397af99cbfc71878d178d70bdf8eae975c8ff8b8ee16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Transporte Marítimo
-- Transporte Aéreo
 - Portugal
 - Regulamentação de Atos Legislativos
 - Taxa
+- Transporte Aéreo
+- Transporte Marítimo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38/2021/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38/2021/02/16/p/dre
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157567893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:17Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +143,9 @@ a) Taxa de carbono sobre os bilhetes do transporte aéreo comercial de passageir
 
 b) Taxa de carbono sobre o consumidor de viagens aéreas em voo comercial ou não comercial com partida dos aeroportos e aeródromos situados em território português, em aeronaves com capacidade máxima para passageiros de até 19 lugares, ao abrigo do n.º 1 do artigo 184.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]
 
@@ -155,7 +169,9 @@ i) «Voo comercial», o voo realizado por aeronave para utilização do consumid
 
 j) «Voo não comercial», o voo realizado por aeronave para utilização do consumidor de viagens aéreas efetuado sem qualquer tipo de remuneração ou outra retribuição.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A taxa prevista na alínea a) do artigo 9.º incide sobre todos os negócios jurídicos que atribuam a um passageiro um título de transporte aéreo comercial que lhe permita deslocar-se a bordo de uma aeronave movida a energia fóssil com partida de um aeroporto ou aeródromo situado em território português.
 
@@ -163,7 +179,9 @@ j) «Voo não comercial», o voo realizado por aeronave para utilização do con
 
 3 - A taxa prevista na alínea b) do artigo 9.º incide sobre cada voo comercial e não comercial com partida dos aeroportos e aeródromos situados em território português operado por aeronaves movidas a energia fóssil com capacidade máxima para passageiros de até 19 lugares.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A taxa prevista na alínea a) do artigo 9.º incide sobre os passageiros do transporte aéreo, sendo cobrada pelas transportadoras aéreas que procedam à comercialização, nos termos do artigo anterior, de um título de transporte para voo comercial, com partida dos aeroportos e aeródromos situados em território português.
 
@@ -179,7 +197,9 @@ b) Pelo operador da aeronave nos restantes casos de voos não comerciais;
 
 c) Pelas transportadoras aéreas que realizem os voos e procedam à sua comercialização.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A taxa a que se refere a alínea a) do artigo 9.º tem o valor fixo de 2 (dois) euros, por cada passageiro embarcado nos termos dos artigos anteriores.
 
@@ -195,7 +215,9 @@ c) Pelas transportadoras aéreas que realizem os voos e procedam à sua comercia
 
 «D», a unidade de milhar da distância percorrida, em quilómetros, entre o aeroporto de partida em território nacional e o aeroporto de destino final, arredondado à primeira casa decimal.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Nos termos do n.º 4 do artigo 390.º da [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, a taxa referida na alínea a) do artigo 9.º não se aplica aos títulos de transporte que sejam utilizados:
 
@@ -225,7 +247,9 @@ f) Aos voos de busca e salvamento;
 
 g) Às descolagens na sequência de aterragens por motivos de ordem técnica, meteorológica ou contingência similar.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A taxa de carbono prevista na alínea a) do artigo 9.º constitui encargo do adquirente final, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da taxa, para o seu adquirente, a título de preço.
 
@@ -235,7 +259,9 @@ g) Às descolagens na sequência de aterragens por motivos de ordem técnica, me
 
 4 - A taxa de carbono prevista na alínea b) do artigo 9.º constitui encargo para o consumidor da viagem aérea em voo comercial ou não comercial, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da taxa, para o seu adquirente, a título de preço, nos voos comerciais.
 
-###### Artigo 16.º — Liquidação, cobrança e entrega da taxa de carbono sobre viagens aéreas
+Artigo 16.º
+
+Liquidação, cobrança e entrega da taxa de carbono sobre viagens aéreas
 
 1 - A taxa de carbono a que se refere a alínea a) do artigo 9.º é liquidada e cobrada pelas transportadoras aéreas referidas nos n.os 1 a 3 do artigo 12.º no momento da emissão do título de transporte.
 
@@ -257,7 +283,9 @@ g) Às descolagens na sequência de aterragens por motivos de ordem técnica, me
 
 10 - (Anterior n.º 5.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -267,4 +295,6 @@ g) Às descolagens na sequência de aterragens por motivos de ordem técnica, me
 
 A presente portaria entra em vigor e produz efeitos a partir de 1 de julho de 2023, sendo as taxas de carbono devidas relativamente a todos os voos, comerciais ou não comerciais, realizados em ou após aquela data.
 
-**O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 14 de abril de 2023.**
+O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 14 de abril de 2023.
+
+116389544

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03800/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/51/2023/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2023-207631764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f492c15976ad460ab4a2603a4bc44ebab17031c35284045ef82016f92758f1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d217d9e7c136877844533315da3ae4e252c8a1511e33f28f0bff1f706f7a7f0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Formação Profissional
-- Regulamentação de Atos Legislativos
 - Ensino Médico
+- Formação Profissional
 - Internato Complementar
 - Internato Médico
+- Médico
 - Programa
 - Programa de Formação
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2018/02/26/p/dre
@@ -112,16 +112,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79/2018/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
+- type: cites
+  target: pt:dre:114766032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114880294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115730616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206618939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396172:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:27Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +200,7 @@ A aplicação e desenvolvimento do programa formativo compete aos órgãos e age
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
 
-**O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 17 de fevereiro de 2023.**
+O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 17 de fevereiro de 2023.
 
 ## ANEXO — Programa de formação especializada em cirugia maxilofacial
 
@@ -579,3 +619,5 @@ A avaliação do estágio será feita seguindo os modelos de cada serviço e tem
 7.2 - Excecionalmente, o novo programa de formação poderá abranger os médicos internos já em formação na primeira metade da formação especializada do internato médico de cirurgia maxilofacial e neste caso deverão os interessados entregar na direção do internato do seu hospital, no prazo de dois meses a partir da publicação deste programa, uma declaração em que conste a sua pretensão, com concordância averbada do respetivo diretor de serviço e orientador de formação.
 
 7.3 - As regras da avaliação final previstas no anterior n.º 6 aplicam-se aos médicos internos que se encontrem a frequentar a primeira metade da formação especializada do internato médico.
+
+116189093

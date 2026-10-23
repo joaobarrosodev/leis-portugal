@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268/2011/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-2011-671023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f96179c60943852eeed3149581457718a679c3b4fa63f2d0e6b55af925db2da5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 333fdd2f068a8268707f42a588d815d80a8e0c256a165ac6ae0e0eb4a89e9875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
-- Contrato de Prestação de Serviços
 - Contrato de Adesão
+- Contrato de Prestação de Serviços
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
 - Equipamento Eléctrico
 - Especificação Técnica
-- Entidade Reguladora dos Serviços Energéticos
 - Preço
 - Prorrogação de Prazo
 - Rede Nacional de Transporte de Energia Elétrica
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1308/2010/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1308/2010/12/23/p/dre
+- type: cites
+  target: pt:dre:306472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:34Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +124,4 @@ Prorrogação do prazo para instalação dos equipamentos de medida
 
 2 - A data prevista no número anterior pode ser antecipada nos termos do disposto no n.º 5 do artigo 1.º da referida [Portaria n.º 1308/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1308-2010-306472), de 23 de Dezembro.
 
-**O Secretário de Estado da Energia, Henrique Joaquim Gomes, em 5 de Setembro de 2011.**
+O Secretário de Estado da Energia, Henrique Joaquim Gomes, em 5 de Setembro de 2011.

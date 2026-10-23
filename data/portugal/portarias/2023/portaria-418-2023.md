@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-2023-229857694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6c3857fa8c1ef477929e98197c74517a2d472ef45f0f68118e5870da7c0dc67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60b5582ba77762d192e7efdb103ac36e55dd6bf6567fc9df4420bd02d5603598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- SCUT
-- Contrato de Concessão
-- Transporte Rodoviário
-- Dispositivo de Detecção e Identificação Electrónica
 - Auto-estrada
-- Transporte de Mercadorias
-- Portagem
-- TAXA de Desconto
-- Transporte de Passageiros
+- Contrato de Concessão
+- Dispositivo de Detecção e Identificação Electrónica
 - Infraestruturas de Portugal
+- Portagem
+- SCUT
+- TAXA de Desconto
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Rodoviário
 relationships:
+- type: amends
+  target: pt:numero:portaria:138-D/2021
+  label: Substitui, a partir de 12 de dezembro de 2023, com efeitos a 1 de janeiro de 2024, para as autoestradas referidas
+    nos n.ºs 1 e 2 do artigos 2.º e no n.º 1 do artigo 3.º do presente diploma, as reduções previstas, para as mesmas autoestradas,
+    respetivamente nos artigos 2.º e 3.º e no n.º 1 do artigo 5.º da Portaria n.º 138-D/2021, de 30 de junho, Diário da República
+    n.º 125/2021, 3º Suplemento, Série I, bem como revoga os artigos 3.º e 4.º e as subalíneas i) e ii) da alínea a) e as
+    subalíneas ii) e iii) da alínea b) do n.º 1 do referido artigo 5.º
+  source: null
+  date: '2021-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2011/11/28/p/dre
   label: null
@@ -92,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138-d/2021/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138-d/2021/06/30/p/dre
+- type: cites
+  target: pt:dre:146186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166153631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877161:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:10Z'
   warnings: []
   errors: []
 ---
@@ -168,13 +193,13 @@ São revogados os artigos 3.º e 4.º, bem como as subalíneas i) e ii) da alín
 
 Em 17 de novembro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão. - O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão. - O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco.
 
 ## ANEXO I — Concessão do Algarve
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 22 - Lagos-Vila Real de Santo António ... | Bensafrim-Lagos. |
 |  | Lagos-Odiáxere. |
 |  | Odiáxere-Mexilhoeira. |
@@ -198,9 +223,9 @@ Concessão da Infraestruturas de Portugal, S. A.
 
 Autoestrada A 23
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 23 - Torres Novas (A 1)-Abrantes ... | A 1/IP 1-Zibreira. |
 |  | Zibreira-Torres Novas. |
 |  | Torres Novas-Entroncamento. |
@@ -213,10 +238,10 @@ Autoestrada A 23
 
 Concessão da Beira Interior
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
-| A 23 - Abrantes-Guarda (concessão da Beira Litoral/Beira Alta). | Abrantes Oeste-Abrantes Este. Abrantes Este-Mouriscas. |
+| --- | --- |
+|  |  |
+| A 23 - Abrantes-Guarda (concessão da Beira Litoral/Beira Alta). | Abrantes Oeste-Abrantes Este.<br>Abrantes Este-Mouriscas. |
 |  | Mouriscas-Mação. |
 |  | Mação-Gavião. |
 |  | Gavião-Envendos. |
@@ -245,9 +270,9 @@ Concessão da Beira Interior
 
 Concessão do Interior Norte
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 24 - Chaves (fronteira)-IP 5 ... | Fronteira-Vila Verde da Raia. |
 |  | Vila Verde da Raia-Zona Industrial de Chaves. |
 |  | Zona Industrial de Chaves-Chaves. |
@@ -274,10 +299,10 @@ Concessão do Interior Norte
 
 Concessão da Beira Litoral/Beira Alta
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
-| A 25 - Albergaria (concessão da Costa da Prata)-Vilar Formoso. | IP 5 Albergaria-nó do IC 2. Nó do IC 2-Carvoeiro. |
+| --- | --- |
+|  |  |
+| A 25 - Albergaria (concessão da Costa da Prata)-Vilar Formoso. | IP 5 Albergaria-nó do IC 2.<br>Nó do IC 2-Carvoeiro. |
 |  | Carvoeiro-Talhadas. |
 |  | Talhadas-Reigoso. |
 |  | Reigoso-Cambarinho. |
@@ -309,17 +334,17 @@ Concessão da Beira Litoral/Beira Alta
 
 Autoestrada A 4 - Túnel do Marão
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 4 - Geraldes-Parada de Cunhos ... | Ligação IP 4-Campeã. |
 |  | Campeã-Parada de Cunhos. |
 
 Subconcessão da Autoestrada Transmontana
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 4 - Vila Real (Parada de Cunhos)-Quintanilha ... | Vila Real (Parada de Cunhos)-nó de Vila Real Sul (nó 1). |
 |  | Nó de Vila Real Sul (nó 1)-nó com A 24/IP 3 (nó 2). |
 |  | Nó de Bragança Poente (nó 21)-nó de Bragança Sul (nó 22). |
@@ -327,9 +352,9 @@ Subconcessão da Autoestrada Transmontana
 
 Subconcessão do Pinhal Interior
 
-|  |  |
-| --- | --- |
 | Lanço | Sublanço |
+| --- | --- |
+|  |  |
 | A 13 - Atalaia (A23)-Coimbra Sul ... | Nó com A 23-nó com a EN 110. |
 |  | Nó com a EN 110-nó da Asseiceira. |
 |  | Nó da Asseiceira-nó com a EN 110. |
@@ -346,3 +371,5 @@ Subconcessão do Pinhal Interior
 |  | Nó de Condeixa-nó de Coimbra Sul. |
 | A 13-1 - Condeixa-IC2 ... | Nó de Condeixa-nó de Almalaguês. |
 |  | Nó de Almalaguês-nó de Condeixa (IC 2). |
+
+117130036

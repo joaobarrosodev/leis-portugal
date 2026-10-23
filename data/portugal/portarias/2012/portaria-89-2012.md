@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89/2012/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-2012-553892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6c01f8888658f038f34856416a9b41725d96655e1d11f49fb0ef1fa3c9eb54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e221b83b07ca3f2db1670353a83959f7d85c7026aa11d519ef8aeafe3a690c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Acreditação
 - Advogado
+- Agente Oficial da Propriedade Industrial
 - Autoridade Nacional
-- Ordem dos Advogados
 - Câmara dos Solicitadores
-- Instituto Nacional da Propriedade Industrial
 - Direito de Estabelecimento
+- Equivalência de Diplomas
+- Instituto Nacional da Propriedade Industrial
 - Livre Circulação de Pessoas
 - Notário
+- Ordem dos Advogados
 - Ordem dos Notários
 - Prestação de Serviços
 - Profissão Independente
 - Qualificação Profissional
-- Equivalência de Diplomas
 - Solicitador
-- Agente Oficial da Propriedade Industrial
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:28Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +128,6 @@ As profissões regulamentadas na área da justiça e as autoridades nacionais co
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 27 de março de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 27 de março de 2012.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0153901539.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0153901539.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0153901539.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0012200142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/91/2024/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2024-854635721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6e5ed4f57140136aa9cf0983f67df9a4eb23a61122dc38688597fbb3d902a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30d9c2a9e7f1bef004947dbb98a584511e707fd70057f5a0407736378b4721e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Genética
-- Regulamentação de Atos Legislativos
 - Especificação Técnica
+- Genética
+- Informação do Consumidor
 - Laboratório
 - Licenciamento
 - Manual de Boas Práticas
 - Normas de Construção
 - Normas de Segurança
-- Informação do Consumidor
 - Recursos Humanos
+- Regulamentação de Atos Legislativos
 - Regulamento Interno
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -104,16 +104,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:167/2014
+  label: Revoga, a partir de 12 de março de 2024, nos termos do artigo 21.º do presente diploma, a Portaria n.º 167/2014,
+    de 21 de agosto, Diário da República n.º 160/2014, Série I
+  source: null
+  date: '2014-08-21'
 article_structure:
   article_count: 24
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:44Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +170,7 @@ O protelamento da publicação das portarias que regulamentam o [Decreto-Lei n.�
 
 Assim:
 
-Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os</sup>1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.os1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -390,7 +420,7 @@ a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do
 
 b) Inibição do exercício da atividade profissional, pela respetiva Ordem ou Associação Profissional, durante o período determinado.
 
-4 - O disposto nos n.<sup>os</sup>2 e 3 deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+4 - O disposto nos n.os2 e 3 deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
 
 ### CAPÍTULO IV — Recursos humanos
 
@@ -472,7 +502,7 @@ b) Farmacêuticos e biólogos, especialistas em análises clínicas;
 
 c) Enfermeiros;
 
-d) Pessoal técnico, cuja competência resulte de cursos, equivalências ou reconhecimentos adequados previstos nos n.<sup>os</sup>1 e 2 do artigo 4.º do [Decreto-Lei n.º 320/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1999-423057), de 11 de agosto, ou pessoal com vínculo contratual ao laboratório, abrangidos pelo artigo 8.º do mesmo diploma.
+d) Pessoal técnico, cuja competência resulte de cursos, equivalências ou reconhecimentos adequados previstos nos n.os1 e 2 do artigo 4.º do [Decreto-Lei n.º 320/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1999-423057), de 11 de agosto, ou pessoal com vínculo contratual ao laboratório, abrangidos pelo artigo 8.º do mesmo diploma.
 
 5 - Sempre que solicitado pelas entidades competentes, os laboratórios de genética médica, incluindo os postos de colheitas, devem facultar a relação atualizada do seu pessoal, incluindo as respetivas categorias profissionais, habilitações e descrição de funções.
 
@@ -548,7 +578,9 @@ Os laboratórios de genética médica e os postos de colheitas devem observar as
 
 5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.
 
-###### Artigo 22.º — Livro de reclamações
+###### Artigo 22.º
+
+## Livro de reclamações
 
 Os laboratórios de genética médica e, bem assim, cada um dos respetivos postos de colheitas, estão sujeitos à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -562,7 +594,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 1 de março de 2024.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — (a que se refere o artigo 19.º)
 
@@ -570,15 +602,15 @@ Laboratórios de Genética Médica
 
 Compartimentos a considerar:
 
-| Designação | Função do compartimento | Área útil mínima(m<sup>2</sup>) | Largura mínima (m) | NSB** | Observações |
+| Designação | Função do compartimento | Área útil mínima(m2) | Largura mínima (m) | NSB** | Observações |
 | --- | --- | --- | --- | --- | --- |
-| Área de Acolhimento * | Área de Acolhimento * | Área de Acolhimento * | Área de Acolhimento * | Área de Acolhimento * | Área de Acolhimento * |
+| Área de Acolhimento * |  |  |  |  |  |
 | Receção/secretaria d) | Secretaria com zona de atendimento de público | - | - | - | - |
 | Zona de espera d) | Para utentes e acompanhantes | - | - | - | Junto à receção/secretaria |
 | Instalação sanitária de público d) | - | - | - | - | Acessível a pessoas de mobilidade condicionada, com zona de fraldário |
-| Sala de colheitas f) | Para colheitas | 4 | - | - | Mínimo 1 posto.Cada posto adicional com acréscimo de área de 3 m<sup>2</sup>;Possibilidade de organização em "boxes". |
+| Sala de colheitas f) | Para colheitas | 4 | - | - | Mínimo 1 posto.Cada posto adicional com acréscimo de área de 3 m2;Possibilidade de organização em "boxes". |
 | Zona de arquivo | Manutenção e conservação de arquivo | - | - | - | - |
-| Área técnica | Área técnica | Área técnica | Área técnica | Área técnica | Área técnica |
+| Área técnica |  |  |  |  |  |
 | Zona de triagem de amostras | Receção e processamento de amostras; | - | - | 2 |  |
 | Sala de extração de Ácidos Nucleicos | Tratamento de amostras biológicas; Processamento/manipulação/pipetagem de amostras de ADN genómico ou ARN com possibilidade de armazenamento do mesmo | 5 | - | 2 | Com câmara de segurança biológica.Dispensável no caso de não realizar genética molecular. |
 | Sala de genética bioquímica | Análises de enzimas, hormonas, outras proteínas ou seus metabolitos | - | - | - | Possibilidade de organização em área aberta. Dispensável no caso de não realizar genética bioquímica. |
@@ -592,12 +624,12 @@ Compartimentos a considerar:
 | Sala de radionuclídeos | Preparação/marcação de sondas com radionuclídeos; Eletroforese vertical em géis de poliacrilamida, hibridação, secagem de géis, autoradiografia | 3 | - | 2 | Dispensável no caso de não utilizar técnicas com radioatividade. |
 | Sala escura e aquisição de imagem e) | Revelação de películas autorradiográficas e outras | 3 | - | - | Dispensável no caso de não utilizar técnicas com radioatividade e autoradiografias ou de possuir equipamento equivalente adequado instalado noutro local. |
 | Gabinete de Consulta | Para consulta médica de aconselhamento genético | - | - | - | Facultativo |
-| Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal |
+| Área de pessoal |  |  |  |  |  |
 | Gabinete | Para trabalho /reuniões | - | - | - | Facultativo |
 | Sala de pessoal | Pausa de pessoal | - | - | - | Facultativo |
 | Instalação Sanitária de pessoal | - |  | - | - | - |
 | Vestiário de pessoal | - | - | - | - | Com zona de cacifos. Pode ser centralizado se integrado em unidade de saúde com mais tipologias. |
-| Área logística | Área logística | Área logística | Área logística | Área logística | Área logística |
+| Área logística |  |  |  |  |  |
 | Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos | - | - | - | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
 | Sala de reprocessamento Sala de descontaminação a) | Para limpeza, desinfeção, triagem, montagem e embalamento de dispositivos médicos de uso múltiplo | - | - | - | Área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
 | Sala de reprocessamento Zona limpa a) g) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por "guichet" ou por máquina de lavar com duas portas | - | - | - | Pode ser partilhada com laboratório de Anatomia patológica ou de Patologia clínica se forem adjacentes. b) c) |
@@ -628,16 +660,16 @@ Posto de Colheitas
 
 Compartimentos a considerar:
 
-| Designação | Função do compartimento | Área útilmínima(m<sup>2</sup>) | Larguramínima(m) | Observações |
+| Designação | Função do compartimento | Área útilmínima(m2) | Larguramínima(m) | Observações |
 | --- | --- | --- | --- | --- |
-| Área de Acolhimento | Área de Acolhimento | Área de Acolhimento | Área de Acolhimento | Área de Acolhimento |
+| Área de Acolhimento |  |  |  |  |
 | Receção/secretaria b) | Secretaria com zona de atendimento de público | - | - | - |
 | Zona de espera b) | Para utentes e acompanhantes | - | - | - |
 | Instalação sanitária de público | - | - | - | Acessível a pessoas de mobilidade condicionada, com zona de fraldário se existir pediatria.Preferencialmente próximo da sala de colheitas. |
-| Sala de colheitas | Para colheitas | 4 | - | Mínimo 1 posto.Cada posto adicional com acréscimo de área de 3 m<sup>2</sup>;Possibilidade de organização em "boxes". |
-| Área técnica | Área técnica | Área técnica | Área técnica | Área técnica |
+| Sala de colheitas | Para colheitas | 4 | - | Mínimo 1 posto.Cada posto adicional com acréscimo de área de 3 m2;Possibilidade de organização em "boxes". |
+| Área técnica |  |  |  |  |
 | Zona de triagem de amostras a) | Para triagem, preparação e/ou transporte de amostras | - | - | - |
-| Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal |
+| Área de pessoal |  |  |  |  |
 | Instalação Sanitária de pessoal | - |  | - | Obrigatório em Postos de Colheitas com mais de duas Salas de Colheitas.Possibilidade de partilhar com outros serviços. |
 
 a) Aplicável de acordo com as especificações dos ensaios a realizar;
@@ -697,7 +729,7 @@ Caso exista unidade de reprocessamento de dispositivos médicos de uso múltiplo
 | Sobrepressão/subpressão | Subpressão | Sobrepressão |
 | Tipo de unidade | UTA e Ventilador de Extração privativos (3) | UTA e ventilador de extração específico (2)(3) |
 | Diferencial de temperatura | <8.ºC em frio | <8.ºC em frio |
-| Caudal de ar novo | 8 ren/h | 10 m<sup>3</sup>/h.m<sup>2</sup> |
+| Caudal de ar novo | 8 ren/h | 10 m3/h.m2 |
 | Recirculação | não | 8 ren/h |
 | Recuperação de calor | não | Opcional, apenas de recuperação sensível |
 | Filtragem do ar | Pré-filtro (ISO ePM10 ≥ 50 %) e filtro ISO ePM1 ≥ 50 % | Pré-filtro (ISO ePM10 ≥ 50) e filtro (ISO ePM1 ≥ 80 %) |
@@ -825,3 +857,5 @@ Requisitos mínimos a considerar:
 Equipamento laboratorial e equipamento geral
 
 Deve ser considerado o equipamento laboratorial e geral mínimo, previsto no manual de boas práticas laboratoriais de genética médica.
+
+117429527

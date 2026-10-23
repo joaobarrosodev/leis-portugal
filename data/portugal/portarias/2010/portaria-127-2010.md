@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/04100/0057500579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/2010/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-2010-611295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f90ad85abcd52135548452c5735636da9ef6173f8887c2b274d41d3d489427d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f61de3f490ab2d7b4341aec55630dc787f21882927812901273e7b082ef4e9cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Compensação Financeira
 - Definição de Competências
-- Jovem
-- Primeiro Emprego
 - Desemprego
 - Emprego
 - Estágio de Formação
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Primeiro Emprego
 - Programa Iniciativa Emprego 2010
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:278899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342858:por
+  label: "Alterados os arts. 6º e 13º e revogado o nº2 do art. 16º pela PORT.681/2010.12.08.2010.MTSSO, DR.IS [156] de 12.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-2010-342858
+  date: '2010-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -95,16 +101,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278899:por
+  label: "Revogada, em 01.03.2011, a Port. 129/2009, de 30-Jan, na redacção da presente portaria, pela PORT.92/2011.28.02.2011.MTSSO,\
+    \ DR.IS [41] de 28.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2011-278899
+  date: '2011-02-28'
 article_structure:
-  article_count: 30
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:09Z'
   warnings: []
   errors: []
 ---
@@ -351,21 +371,27 @@ Os artigos 4.º, 6.º, 7.º, 13.º e 14.º da Portaria n.º 129/2009, de 30 de J
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A entidade promotora compromete-se a não prestar falsas declarações e a cumprir as demais obrigações legais, fiscais e contributivas a que se encontra vinculada.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - O Instituto do Emprego e Formação Profissional, I. P., decide a candidatura nos 30 dias, seguidos, subsequentes ao da apresentação da mesma.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Aos estagiários é concedida, mensalmente, uma bolsa de estágio de valor correspondente a duas vezes o indexante dos apoios sociais (IAS).
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Aos estagiários são ainda concedidos os seguintes apoios:
 
@@ -395,4 +421,4 @@ São revogadas as alíneas d) do n.º 1 e b) do n.º 2 e o n.º 3, todos do arti
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Fevereiro de 2010.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Fevereiro de 2010.

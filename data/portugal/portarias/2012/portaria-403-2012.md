@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/403/2012/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-2012-190641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6d29bb05632c8de601a3dc2a46a047c3946c0d639d9c5df46d8e7eaf94ad1db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4709469c22ce9b4ad444e3f78e262483991fe39128108521c729b1a5a719f93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
-- Violência
+- Comissão de Protecção às Vítimas de Crimes
 - Definição de Competências
 - Impresso
 - Indemnização
-- Comissão de Protecção às Vítimas de Crimes
+- Protecção à Vítima
 - Reembolso
+- Violência
 relationships:
 - type: amended_by
   target: pt:dre:949908820:por
@@ -82,16 +82,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/104/2009/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/104/2009/09/14/p/dre
+- type: cites
+  target: pt:dre:489757:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:949908820:por
+  label: Revogada, a partir de 15 de dezembro de 2025, pelo(a) Portaria n.º 420/2025/1 - Diário da República n.º 226/2025,
+    Série I de 2025-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-2025-949908820
+  date: '2025-11-21'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:00Z'
   warnings: []
   errors: []
 ---
@@ -124,16 +134,16 @@ Os requerimentos deverão ser apresentados à Comissão de Proteção às Vítim
 
 A presente portaria entra em vigor 5 dias após a data da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de novembro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de novembro de 2012.
 
 Indemnização pelo Estado a Vítimas de Crimes de Violência Doméstica
 
 ([Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf)
 
 Indemnização pelo Estado a Vítimas de Crimes Violentos
 
 ([Lei n.º 104/2009](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), de 14 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690106903.pdf)

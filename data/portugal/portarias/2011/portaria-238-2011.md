@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11500/0319903201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238/2011/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-2011-670000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e475915566736a2308a5e26f3f4de7a304c7e8ab476e045a08ec5735526da0b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa39e9adb5e4ee9ac34fce9c76730421a16b12f37d6a6f092e8b653cc4587bd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Espetáculos e Divertimentos Públicos
-- Modernização Administrativa
 - Classificação de Espectáculos
+- Espetáculos e Divertimentos Públicos
 - Inspecção Geral das Actividades Culturais
 - Local de Divertimento
 - Material Audiovisual
-- Programa Simplex
+- Modernização Administrativa
 - Página na Internet
 - Prestação de Serviços
+- Programa Simplex
 - Taxa
 - Videograma
 - Vistoria
@@ -84,6 +84,13 @@ relationships:
   target: pt:dre:122960393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572446:por
+  label: "Determinada a manutenção em vigor do presente diploma pelo DEC LEI.23/2014.14.02.2014.PCM, DR.IS [32] de 14.02.2014,\
+    \ até à entrada em vigor da portaria prevista no n.º 1 do art. 35.º e à aprovação do despacho a que se refere o n.º 5\
+    \ do art. 33.º, no que se refere às taxas previstas no mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2014-572446
+  date: '2014-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre
   label: null
@@ -112,16 +119,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/801/1994/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/801/1994/09/10/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107039852:por
+  label: Revogada pela Portaria n.º 122/2017 - Diário da República n.º 99/2017, Série II de 2017-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2017-107039852
+  date: '2017-05-23'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:23Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +254,7 @@ d) [Portaria n.º 354/2006](https://diariodarepublica.pt/dr/detalhe/portaria/354
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 29 de Abril de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 29 de Abril de 2011.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

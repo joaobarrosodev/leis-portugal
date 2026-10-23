@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/22700/26402646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,148 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1981-564181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1378ce94451cf9d2e1051f9c4a78d5b9b140fe6e4a176998c753aaf941174cf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63a4cc3a2b15201ec5f7a1de859663a588b1b440cf927c5d79e8eb62ce7833a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Regional de Portos
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Junta Autónoma dos Portos do Arquipélago da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional do Comércio e Transportes
+- Transferência de Competências
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:352325:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TRANSFERIDAS PARA A DIRECÇÃO REGIONAL DE PORTOS PORTOS, CONSTANTE DO PRESENTE DIPLOMA, AS COMPETENCIAS ATRIBUIDAS
+    A DIRECÇÃO REGIONAL DE TRANSPORTES, NO DOMÍNIO DOS TRANSPORTES MARÍTIMOS, CONSTANTE DO DECRETO REGULAMENTAR REGIONAL 17/82/M,
+    DE 31-AGO, PELO DRR 8/86/M DR.IS [98] 29/ABR/1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-04-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A DIRECÇÃO REGIONAL DE PORTOS, PELO DLR 13/96/M DE 17-JUN DR.IS-A [159] DE 11/JUL/1996\0 [159] DE 11/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-11'
+- type: cites
+  target: pt:dre:197171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692976:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:195193:por
+  label: Revogado o DRR 17/82/M, de 31-ago e transferida as competências atribuídas à Direção Regional de Transportes, no
+    domínio dos transportes marítimos para a Direção Regional de Portos constante do presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 8/86/M - Diário da República n.º 98/1986, Série I de 1986-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1986-195193
+  date: '1986-04-29'
+- type: repealed_by
+  target: pt:dre:352325:por
+  label: "Revogado pelo DLR.27/86/M.15.12.1986.ARM, DR.IS [289]2ºSupl de 17.12.1986, com a entrada em vigor dos decretos regulamentares\
+    \ regionais referidos no seu artigo 3.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-1986-352325
+  date: '1986-12-15'
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:43Z'
   warnings: []
   errors: []
 ---
@@ -108,35 +216,35 @@ Por outro lado, a exigência de celeridade na definição de situações de vár
 
 Assim, nos termos das alíneas a) e b) do n.º 1 do artigo 229.º da Constituição e dos artigos 22.º, alíneas b) e c), e 29.º, n.º 2, do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Direcção Regional de Portos, que fica integrada na Secretaria Regional do Comércio e Transportes e se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É criada a Direcção Regional de Portos, que fica integrada na Secretaria Regional do Comércio e Transportes e se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - É considerada extinta, com efeitos a partir de 13 de Março de 1980, a Junta Autónoma dos Portos do Arquipélago da Madeira (JAPAM).
+Art. 2.º - 1 - É considerada extinta, com efeitos a partir de 13 de Março de 1980, a Junta Autónoma dos Portos do Arquipélago da Madeira (JAPAM).
 
 2 - É transferida para a Região Autónoma da Madeira a universalidade dos direitos e obrigações de que a JAPAM era titular à data referida no número anterior, servindo este diploma de título suficiente para todos os efeitos, incluindo o de registo.
 
-###### Art. 3.º Passam para a titularidade do Governo Regional da Madeira, a serem exercidas pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Portos, nos termos da Lei Orgânica anexa, as atribuições e competências conferidas à JAPAM pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, pelo estatuto a ele anexo e demais legislação complementar.
+Art. 3.º Passam para a titularidade do Governo Regional da Madeira, a serem exercidas pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Portos, nos termos da Lei Orgânica anexa, as atribuições e competências conferidas à JAPAM pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, pelo estatuto a ele anexo e demais legislação complementar.
 
-###### Art. 4.º O pessoal ao serviço da JAPAM, e que foi posteriormente integrado na Direcção de Portos da Direcção Regional de Transportes, nos termos do artigo 8.º da [Portaria n.º 35/80](https://diariodarepublica.pt/dr/detalhe/portaria/35-1980-692976), de 13 de Março, será integrado no quadro do pessoal anexo à Lei Orgânica da Direcção Regional de Portos agora aprovada, mantendo todos os direitos e regalias, designadamente em matéria de antiguidade e categoria profissional.
+Art. 4.º O pessoal ao serviço da JAPAM, e que foi posteriormente integrado na Direcção de Portos da Direcção Regional de Transportes, nos termos do artigo 8.º da [Portaria n.º 35/80](https://diariodarepublica.pt/dr/detalhe/portaria/35-1980-692976), de 13 de Março, será integrado no quadro do pessoal anexo à Lei Orgânica da Direcção Regional de Portos agora aprovada, mantendo todos os direitos e regalias, designadamente em matéria de antiguidade e categoria profissional.
 
-###### Art. 5.º O Departamento de Pilotagem do Funchal, transferido para a Secretaria Regional do Equipamento Social pelo [Decreto-Lei n.º 285/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1980-470808), de 14 de Agosto, transita para a Secretaria Regional do Comércio e Transportes, sendo integrado na Direcção Regional de Portos ao nível de serviço, nos termos da Lei Orgânica anexa.
+Art. 5.º O Departamento de Pilotagem do Funchal, transferido para a Secretaria Regional do Equipamento Social pelo [Decreto-Lei n.º 285/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1980-470808), de 14 de Agosto, transita para a Secretaria Regional do Comércio e Transportes, sendo integrado na Direcção Regional de Portos ao nível de serviço, nos termos da Lei Orgânica anexa.
 
-###### Art. 6.º O serviço público de pilotagem na Região Autónoma da Madeira continuará a reger-se, na parte aplicável, pelas disposições do Regulamento dos Serviços de Pilotagem dos Portos e Barras, aprovado pelo [Decreto-Lei n.º 360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269), de 27 de Novembro, e do Regulamento de Serviços e Taxas, constante do anexo IV ao Estatuto do INPP, aprovado pelo [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), da mesma data, com as alterações introduzidas pelas Portarias n.os [240/79](https://diariodarepublica.pt/dr/detalhe/portaria/240-1979-382793), de 24 de Maio, e [273/79](https://diariodarepublica.pt/dr/detalhe/portaria/273-1979-383219), de 9 de Junho.
+Art. 6.º O serviço público de pilotagem na Região Autónoma da Madeira continuará a reger-se, na parte aplicável, pelas disposições do Regulamento dos Serviços de Pilotagem dos Portos e Barras, aprovado pelo [Decreto-Lei n.º 360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269), de 27 de Novembro, e do Regulamento de Serviços e Taxas, constante do anexo IV ao Estatuto do INPP, aprovado pelo [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), da mesma data, com as alterações introduzidas pelas Portarias n.os [240/79](https://diariodarepublica.pt/dr/detalhe/portaria/240-1979-382793), de 24 de Maio, e [273/79](https://diariodarepublica.pt/dr/detalhe/portaria/273-1979-383219), de 9 de Junho.
 
-###### Art. 7.º Nos termos do artigo 4.º do [Decreto-Lei n.º 285/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1980-470808), o pessoal que, na data da publicação daquele diploma, prestava serviço no Departamento de Pilotagem do Funchal transita para o quadro da Direcção Regional de Portos, nos termos da Lei Orgânica anexa.
+Art. 7.º Nos termos do artigo 4.º do [Decreto-Lei n.º 285/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1980-470808), o pessoal que, na data da publicação daquele diploma, prestava serviço no Departamento de Pilotagem do Funchal transita para o quadro da Direcção Regional de Portos, nos termos da Lei Orgânica anexa.
 
-###### Art. 8.º Para além dos órgãos e serviços que constituem a estrutura da Direcção Regional de Portos, nos termos da Lei Orgânica anexa, poderão ser criados pelo Governo Regional novos serviços ou departamentos, à medida que o imponham as regionalizações que porventura venham a ocorrer ou a criação de novas infra-estruturas portuárias na Região.
+Art. 8.º Para além dos órgãos e serviços que constituem a estrutura da Direcção Regional de Portos, nos termos da Lei Orgânica anexa, poderão ser criados pelo Governo Regional novos serviços ou departamentos, à medida que o imponham as regionalizações que porventura venham a ocorrer ou a criação de novas infra-estruturas portuárias na Região.
 
-###### Art. 9.º As dúvidas que se suscitarem na aplicação e interpretação do presente diploma serão resolvidas por despacho do Presidente do Governo Regional da Madeira.
+Art. 9.º As dúvidas que se suscitarem na aplicação e interpretação do presente diploma serão resolvidas por despacho do Presidente do Governo Regional da Madeira.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 31 de Julho de 1981.
 
-**O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.
 
-**Assinado em 24 de Agosto de 1981.**
+Assinado em 24 de Agosto de 1981.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DA DIRECÇÃO REGIONAL DE PORTOS
 
@@ -336,4 +444,4 @@ As dúvidas e casos omissos resultantes da aplicação deste regulamento serão 
 
 ## ANEXO — Mapa do pessoal da Direcção Regional de Portos a que se refere o n.º 2 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/22700/26402646.pdf))](https://files.diariodarepublica.pt/1s/1981/10/22700/26402646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/22700/26402646.pdf)

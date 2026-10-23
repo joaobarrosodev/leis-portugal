@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15/2013/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-2013-256432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b29c8b8645f8a2886d202ee1d30b2317be4dcd4d04946431e59d63f669b21548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b387b088f5af6814ba7b48750aac3da112db61aeebc7e21e2e6daefe78f5aa39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Agente da Cooperação Portuguesa
+- Avaliação do Pessoal
+- Carreira Profissional
 - Cooperante
 - Destacamento de Pessoal
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Português no Estrangeiro
-- Sistema Retributivo
-- Carreira Profissional
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
-- Progressão na Carreira
 - Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Educação Pré-escolar
-- Agente da Cooperação Portuguesa
+- Pessoal Docente
+- Progressão na Carreira
+- Região Autónoma
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165-c/2009/07/28/p/dre
@@ -112,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/926/2010/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/926/2010/09/20/p/dre
+- type: cites
+  target: pt:dre:1583406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1741741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:49Z'
   warnings: []
   errors: []
 ---
@@ -260,4 +292,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Em 11 de dezembro de 2012.
 
-**O Secretário de Estado da Administração Pública, Hélder Manuel Sebastião Rosalino. - O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida.**
+O Secretário de Estado da Administração Pública, Hélder Manuel Sebastião Rosalino. - O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida.

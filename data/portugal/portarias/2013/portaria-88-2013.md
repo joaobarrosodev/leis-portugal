@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/2013/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-2013-259252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54918c0efcde1412e50ddc9693c08b269186399fb7e87a6ceb8af073791867fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09b5b9f69419e8e601b60ea01d6bc2c27f65db32e1dc813b1e69e98b7c1e90b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exército
-- Regulamento
-- Militar
 - Fardamento
+- Militar
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1995/09/21/p/dre
@@ -78,16 +78,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254/2011/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254/2011/06/30/p/dre
+- type: cites
+  target: pt:dre:566657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:125040765:por
+  label: Revoga a Port 254/2011 de 30-jun, na redação do presente diploma, pelo(a) Portaria n.º 345/2019 - Diário da República
+    n.º 189/2019, Série I de 2019-10-02 sem prejuízo do previsto nos n.ºs 2 e 3 do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2019-125040765
+  date: '2019-10-02'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:27Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +128,4 @@ No âmbito de exercícios militares ou missões no estrangeiro, os militares do 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 13 de fevereiro de 2013.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 13 de fevereiro de 2013.

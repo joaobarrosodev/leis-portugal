@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13700/0235402362.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2016/07/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46eccaeecaf01bb27715a6458d5af46330f3dbaf1f7e61c656ed92b9ddee2f0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc91da2280598650abbf1b1967c4ccb0275bb3c5343987cad4fb0766b59d35a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Finanças Locais
-- Governo Regional
+- Administração Pública
+- Autarquia Local
 - Contrato de Financiamento
 - Contrato Programa
 - Cooperação Financeira
 - Cooperação Técnica
-- Administração Pública
+- Finanças Locais
+- Financiamento
+- Governo Regional
 - Investimento
 - Investimento Municipal
 - Investimento Público
 - Madeira.região Autónoma
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http
@@ -125,16 +125,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:178825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666711:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
+  article_count: 30
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:03Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +235,9 @@ Os artigos, 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º,
 
 O presente diploma estabelece o regime a que deve obedecer a cooperação técnica e financeira entre a administração pública regional e as autarquias locais, associações de freguesias e de municípios e empresas de âmbito intermunicipal, situadas na Região Autónoma da Madeira, adiante designadas por entidades beneficiárias.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A cooperação técnica e financeira referida no artigo 1.º pode assumir as seguintes formas e modalidades:
 
@@ -187,7 +249,9 @@ c) [...];
 
 d) Contratos para a concessão excecional de auxílios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em qualquer das formas de cooperação identificadas no artigo anterior, as comparticipações financeiras regionais podem ser diretas ou indiretas, consoante revistam a forma de apoios não reembolsáveis ou consistam na criação de linhas de crédito bonificado ou na concessão de outras condições especiais, as quais são aprovadas por resolução do Conselho do Governo Regional.
 
@@ -195,7 +259,9 @@ d) Contratos para a concessão excecional de auxílios.
 
 3 - Na realização de projetos da competência da administração pública regional, a comparticipação financeira pode cobrir o valor total dos mesmos, sendo as correspondentes transferências financeiras suportadas pelos orçamentos dos departamentos ou serviços intervenientes, sem prejuízo de outros apoios técnicos.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A cooperação técnica e financeira prevista no presente diploma tem como objetivos:
 
@@ -209,7 +275,9 @@ d) [...];
 
 e) Permitir, por razões de racionalização de recursos, de melhor gestão e de proximidade das populações locais, a realização de projetos de investimento em domínios de intervenção que se enquadrem nas competências da administração regional, em colaboração com as entidades referidas no artigo 1.º
 
-###### Artigo 5.º — Objeto dos contratos-programa
+Artigo 5.º
+
+Objeto dos contratos-programa
 
 1 - [...].
 
@@ -243,7 +311,9 @@ n) [...]:
 
 o) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As propostas de candidatura das entidades beneficiárias e as propostas dos departamentos ou serviços da administração regional relativas aos investimentos a que se refere o artigo anterior são apresentadas à secretaria regional com a tutela das finanças para, respetivamente, apreciação e tramitação do processo ou encaminhamento para o departamento que tenha inscrita a respetiva dotação orçamental ou emissão do parecer previsto no n.º 3 do artigo 7.º
 
@@ -263,7 +333,9 @@ f) [...];
 
 g) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -271,7 +343,9 @@ g) [...].
 
 3 - As candidaturas são submetidas à aprovação do Conselho do Governo Regional, mediante, consoante o caso, proposta ou parecer favorável do secretário regional com a tutela das finanças.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os contratos-programa são celebrados entre as entidades referidas no artigo 1.º do presente diploma, devendo as respetivas dotações estar previstas no Orçamento Regional e os respetivos projetos de investimento inseridos nos orçamentos e planos plurianuais de investimento das entidades beneficiárias.
 
@@ -283,19 +357,25 @@ g) [...].
 
 5 - A placa publicitária referida no número anterior é aprovada por portaria do secretário regional com a tutela das finanças.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ocorrendo alteração anormal e imprevisível das circunstâncias que determinaram os termos do contrato-programa, ou face a quaisquer outras consequências provenientes daquela alteração, deve ser proposta a sua revisão pela parte que, nos termos do contrato, seja responsável pela execução dos investimentos ou das ações que constituem o objeto do contrato.
 
 2 - Através de decreto legislativo regional poder-se-á manter em vigor, independentemente de quaisquer formalidades adicionais, exceto o novo escalonamento dos encargos que não tenham sido suportados por orçamentos anteriores, contratos-programa cuja execução não tenha ocorrido até ao termo da sua validade.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O incumprimento, por uma das partes, das obrigações assumidas no âmbito do contrato pode dar origem à resolução por iniciativa da outra parte.
 
 2 - Resolvido um contrato-programa, das eventuais propostas de celebração de novo contrato para realização, total ou parcial, de projetos de investimento abrangidos pelo primeiro deve constar relatório detalhado das causas que motivaram a sua resolução e responsabilidades de cada uma das partes pelo seu não cumprimento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A participação financeira do Governo Regional nos investimentos incluídos em contratos-programa pode atingir 95 % ou 100 % dos respetivos custos totais, consoante se trate, respetivamente, de investimentos no âmbito das competências das entidades beneficiárias ou da administração regional.
 
@@ -311,19 +391,25 @@ b) Os projetos de iniciativa conjunta, a reconhecer por resolução do Conselho 
 
 c) Os projetos de iniciativa da administração regional e que respeitem a domínios de intervenção que não se enquadrem nas atribuições e competências das entidades beneficiárias, podem ser financiados até 100 % dos custos totais.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, cabe ao departamento do Governo Regional que outorgar o contrato-programa efetuar o acompanhamento da execução do mesmo e prestar o apoio técnico às entidades beneficiárias.
 
 2 - As competências do departamento do Governo Regional que outorgar o contrato-programa, podem ser delegadas noutros departamentos do Governo Regional, nos termos a definir nos respetivos contratos-programa.
 
-###### Artigo 15.º — Objeto dos contratos de financiamento
+Artigo 15.º
+
+Objeto dos contratos de financiamento
 
 1 - Para assegurar a comparticipação nacional nos sistemas comunitários de incentivos financeiros à execução de programas e projetos de investimento enquadrados no Plano de Desenvolvimento Económico e Social ou no Programa do Governo, pode o Governo Regional celebrar protocolos com instituições financeiras para a criação de linhas de crédito bonificado, assegurando o financiamento de parte dos juros respeitantes aos empréstimos contraídos pelas entidades beneficiárias.
 
 2 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Para além das situações previstas no artigo 22.º, n.º 3, da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, o Governo Regional pode tomar providências orçamentais para a concessão de auxílios financeiros às autarquias locais nos seguintes casos e condições:
 
@@ -347,7 +433,9 @@ h) [Anterior alínea f)].
 
 3 - O valor da comparticipação financeira da Região é fixado pelo Conselho do Governo Regional consoante a urgência, a gravidade ou a necessidade das situações objeto de apoio, podendo atingir o montante global a investir, o valor em dívida ou os encargos com juros.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -379,11 +467,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 15 de junho de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 4 de julho de 2016.**
+Assinado em 4 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

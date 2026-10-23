@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/09901/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/154-a/2024/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2024-865551326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 410db73f7635d719b4b90426739c25653643d0642fb00702806e4a8514251419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15258652a8dfac2012c14b3d369916061f95bd1eb7abe53b8aecfada518a0fa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Complemento Solidário para Idosos
 - Instituto da Segurança Social
-- Terceira Idade
-- Regulamentação de Atos Legislativos
 - Insuficiência Económica
 - Proteção na Velhice
 - Proteção Social
-- Complemento Solidário para Idosos
+- Regulamentação de Atos Legislativos
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:898705898:por
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419/2023/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419/2023/12/11/p/dre
+- type: cites
+  target: pt:dre:229857695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:898705898:por
+  label: Revogada, a partir de 4 de dezembro de 2024, com efeitos a partir de 1 de janeiro de 2025, pelo(a) Portaria n.º 311/2024/1
+    - Diário da República n.º 234/2024, Série I de 2024-12-03 nos termos do artigo 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-2024-898705898
+  date: '2024-12-03'
+- type: repeals
+  target: pt:numero:portaria:419/2023
+  label: Revoga, a partir de 23 de maio de 2024, com efeitos a partir de 1 de junho de 2024, a Portaria n.º 419/2023, de 11
+    de dezembro, Diário da República n.º 237/2023, Série I
+  source: null
+  date: '2023-12-11'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:04Z'
   warnings: []
   errors: []
 ---
@@ -133,4 +153,6 @@ O valor de referência do complemento solidário para idosos é atualizado em �
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de junho de 2024.
 
-**O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 20 de maio de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Valente Rebelo Pinto Palma Ramalho, em 21 de maio de 2024.**
+O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 20 de maio de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Valente Rebelo Pinto Palma Ramalho, em 21 de maio de 2024.
+
+117722544

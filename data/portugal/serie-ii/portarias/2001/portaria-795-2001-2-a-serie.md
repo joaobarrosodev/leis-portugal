@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/102000000/0765507656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/795-2001-2835040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T16:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adb2bd8ee6cc3cb3b96514626c66b7489cca56bb266d51193dbe204f38428d1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1349300b4710b1f834ea7aeade86aab571f107c5385ab4d9657e4e2f432cb743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Marinha
+- Unidade Naval
 relationships:
 - type: amended_by
   target: pt:dre:2778009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2778009:por
+  label: "Revogada a presente portaria, na redacção da Port. 479/2002, de 28-Fev, e da Port. 730/2005, de 27-Jun, pela PORT.976/2009.16.10.2009.GCEMA-MDN,\
+    \ DR.IIS [201] de 16.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-2009-2778009
+  date: '2009-10-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:24:41Z'
   warnings: []
   errors: []
 ---

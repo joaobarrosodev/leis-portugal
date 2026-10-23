@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(352) a 7056-(354)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-d/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-d-2013-164422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0768513f4308a96b0136db804461a4346e169d9ca3dd424867b71711411ce28d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7249addd94ea2ea4418cf427177839fb9ed791fbaa494aeae1d338ad9c7df2ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Radiocomunicações
 - Comunicações Eletrónicas
 - Frequências Radiofónicas
 - Instituto das Comunicações de Portugal
 - Licença de Utilização
 - Radioamador
+- Radiocomunicações
 - Serviço de Telecomunicações Complementares-serviço Móvel Terrestre
 - Serviços de Radiocomunicações
 - Taxa
 - TAXA de Utilização
 relationships:
+- type: amended_by
+  target: pt:dre:106982549:por
+  label: Alterados o n.º 1.1, os n,ºs 1.2.1, 1.2.2 e 1.2.3 e os n.ºs 1.4.1 e 1.4.2 do anexo IV da Port 1473-B/2008, de 17-dez,
+    na redação do presente diploma, pelo(a) Portaria n.º 157/2017 - Diário da República n.º 90/2017, Série I de 2017-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2017-106982549
+  date: '2017-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
   label: null
@@ -120,16 +126,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
+- type: cites
+  target: pt:dre:1428566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1899219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671004:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:08Z'
   warnings: []
   errors: []
 ---
@@ -160,21 +214,21 @@ Manda o Governo, pelo Secretário de Estado das Infraestruturas, Transportes e C
 
 «1.1 - Taxas referentes à utilização de frequências designadas para serviços de comunicações eletrónicas terrestres:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
 
 2 - Os números 1.2.1, 1.2.2 e 1.2.3 do anexo IV da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, retificada pela Declaração de Retificação n.º 16-A/2009, de 13 de fevereiro, e alterada pelas Portarias n.os 567/2009, de 27 de maio, 1307/2009, de 19 de outubro, [291-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/291-a-2011-472104), de 4 de novembro, e [296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro, passam a ter a seguinte redação:
 
 «1.2.1 - Serviço móvel de recursos partilhados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
 
 1.2.2 - Serviço móvel terrestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
 
 1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R): taxa aplicável por 'área de serviço' e por megahertz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0035200354.pdf)
 
 Onde:
 
@@ -194,8 +248,10 @@ Fr representa a taxa de referência por megahertz ((euro) 82 000/MHz).
 
 Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50% nos primeiros três anos de vigência da licença radioelétrica.»
 
-###### Artigo 2.º — Entrada em vigor
+Artigo 2.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 30 de dezembro de 2013.**
+O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 30 de dezembro de 2013.

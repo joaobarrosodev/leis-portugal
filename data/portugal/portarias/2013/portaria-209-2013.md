@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/2013/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2013-497405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ccb1f0d34e9b78ddc85b800dd3ff651b9c5b7d516eb33b384b0af360eadf58b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53aaafd4d29ee592b300f48a097f18ce1da157cf6e6ddf16a0406ce9696886f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Definição de Competências
 - Ensino Particular
-- Estatuto
-- Universidade
-- Ministro da Educação e Ciência
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Estatuto
+- Ministro da Educação e Ciência
+- Universidade
 - Universidade Europeia
 relationships:
 - type: cites
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:497402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 67
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:09Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +132,7 @@ Preâmbulo
 
 O Instituto Superior de Línguas e Administração de Lisboa (ISLA-Lisboa), com mais de 50 anos de atividade académica, foi pioneiro no ensino superior universitário privado em Portugal, através do lançamento de cursos superiores em domínios científicos considerados, à época, profundamente inovadores. Deste modo, o ISLA-Lisboa foi a primeira Instituição a ministrar bacharelatos e licenciaturas nas áreas da Tradução, da Informática de Gestão, do Secretariado de Direção, da Gestão de Recursos Humanos, do Turismo e da Gestão de Empresas, tendo-se seguido outros ciclos de estudos, como as Matemáticas Aplicadas, o Marketing, Publicidade e Relações Públicas, a Gestão Hoteleira, a Segurança e Proteção Civil e os Sistemas de Informação, Web e Multimédia. Em 2001, o ISLA-Lisboa passou a lecionar, também, cursos de Pós-Graduação e, a partir de 2008, cursos de mestrado. Com as licenciaturas em Design, Engenharia Informática e em Ciências da Comunicação e as recentemente acreditadas Administração e Gestão de Negócios (Management and Business Administration, lecionada em língua inglesa), Gestão de Banca e Mercados Financeiros, Psicologia e Gestão do Desporto, o ISLA-Lisboa passou a disponibilizar 17 primeiros ciclos. No que se refere aos mestrados, a acreditação de novos cursos em Negócios Internacionais e em Marketing Digital permitiu elevar a sete a oferta de segundos ciclos. Ao longo do seu percurso, acumulou experiência e gerou saber, conhecimento e saber fazer, tendo colocado no mercado mais de 18 mil diplomados que exercem, numa proporção significativa, funções de elevada responsabilidade, no país e no estrangeiro.
 
-A dimensão internacional foi privilegiada ao longo dos anos, com a construção de redes de cooperação com instituições internacionais. No âmbito do ensino e investigação, pode citar-se a adesão, em 1972, à ESA - European Secretarial Academy, sediada em Viena. Desde 1988/1989, foram também celebrados 45 acordos institucionais ao abrigo do programa ERASMUS, dos quais merecem destaque os assinados com a Universidad Complutense de Madrid, Università degli Studi di Perugia (Itália), Americanos College (Chipre), Universidad de Burgos (Espanha), Wyzsza Szkola Hotelarstwa i Gastronomii (Polónia) e [([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/12100/0374403758.pdf))](https://files.diariodarepublica.pt/1s/2013/06/12100/0374403758.pdf) (República Checa). Em 2001, o ISLA-Lisboa passou a integrar a Rede Científica Internacional Réseau PGV participada por mais de 60 instituições universitárias, oriundas de oito países europeus, que agrega investigadores em torno da problemática das transformações operadas desde 1990 na economia, gestão e cultura das sociedades e empresas na Europa Oriental e Central.
+A dimensão internacional foi privilegiada ao longo dos anos, com a construção de redes de cooperação com instituições internacionais. No âmbito do ensino e investigação, pode citar-se a adesão, em 1972, à ESA - European Secretarial Academy, sediada em Viena. Desde 1988/1989, foram também celebrados 45 acordos institucionais ao abrigo do programa ERASMUS, dos quais merecem destaque os assinados com a Universidad Complutense de Madrid, Università degli Studi di Perugia (Itália), Americanos College (Chipre), Universidad de Burgos (Espanha), Wyzsza Szkola Hotelarstwa i Gastronomii (Polónia) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/12100/0374403758.pdf) (República Checa). Em 2001, o ISLA-Lisboa passou a integrar a Rede Científica Internacional Réseau PGV participada por mais de 60 instituições universitárias, oriundas de oito países europeus, que agrega investigadores em torno da problemática das transformações operadas desde 1990 na economia, gestão e cultura das sociedades e empresas na Europa Oriental e Central.
 
 O ISLA-Lisboa passou a integrar, em 2011, a Laureate International Universities, a maior rede mundial de ensino universitário. A sua aquisição pela Laureate International Universities resultou de uma profunda pesquisa que este grupo levou a cabo no mercado português, em que foram analisadas e avaliadas várias instituições de ensino superior. A referida integração permitiu reforçar a internacionalização do ISLA-Lisboa, proporcionando um potencial de maior mobilidade, já que o Grupo Laureate International Universities está presente em 29 países, nos cinco continentes. Dispõe, atualmente, de mais de 70 instituições de ensino superior, norteadas pela inovação e pela qualidade do ensino. Pela sua abrangência, a rede providencia experiências internacionais, tanto aos seus 780 mil estudantes, como aos seus 70 mil docentes e funcionários, proporcionando a partilha de conhecimento, aumentando as sinergias e otimizando a eficácia conjunta.
 

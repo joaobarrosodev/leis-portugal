@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1980-461862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6efbe5c6dc831d3e3ad71c73425bf7807e6dfc98e389235ed77f9841393bf5bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317a299b6f3c1dcd2622cdb286407f52095923bdcd7f324790ac240f370bbac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educação Especial
+- Madeira.região Autónoma
+- Saúde
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:375420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:04Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +115,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Compete ao Governo Regional da Madeira, sem prejuízo da competência legalmente atribuída ao Ministro da República da Região Autónoma, a orientação política referente aos sectores da saúde, segurança social e educação especial na área da Região, de acordo com os princípios constitucionais vigentes para aquele sector.
+Artigo 1.º Compete ao Governo Regional da Madeira, sem prejuízo da competência legalmente atribuída ao Ministro da República da Região Autónoma, a orientação política referente aos sectores da saúde, segurança social e educação especial na área da Região, de acordo com os princípios constitucionais vigentes para aquele sector.
 
-###### Art. 2.º Pertencem ao Governo da Região Autónoma da Madeira os poderes de direcção e tutela que o Ministro dos Assuntos Sociais exercia sobre os serviços periféricos e instituições daquela Região.
+Art. 2.º Pertencem ao Governo da Região Autónoma da Madeira os poderes de direcção e tutela que o Ministro dos Assuntos Sociais exercia sobre os serviços periféricos e instituições daquela Região.
 
-###### Art. 3.º Na execução da política de saúde, segurança social e educação especial na Região Autónoma da Madeira, compete ao Governo Regional:
+Art. 3.º Na execução da política de saúde, segurança social e educação especial na Região Autónoma da Madeira, compete ao Governo Regional:
 
 a) Superintender nos serviços e instituições do âmbito da saúde, segurança social e educação especial, oficiais e particulares, implantados a nível regional, coordenando a sua actuação;
 
@@ -127,7 +135,7 @@ f) Promover, orientar e fiscalizar as actividades do sector privado congéneres 
 
 g) Participar ou ser ouvido, em termos a regulamentar, na preparação das negociações, acordos ou regulamentos internacionais, nos domínios da saúde, segurança social e educação especial com incidência na área da Região e assegurar o seu cumprimento.
 
-###### Art. 4.º No que se refere especificamente à política da saúde na Região Autónoma da Madeira, compete ao Governo Regional:
+Art. 4.º No que se refere especificamente à política da saúde na Região Autónoma da Madeira, compete ao Governo Regional:
 
 a) Assegurar a efectiva realização do direito à saúde, promovendo a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde, prevenção da doença, tratamento de doentes e reabilitação;
 
@@ -141,7 +149,7 @@ e) Superintender nas escolas de enfermagem da Região, participando na definiç�
 
 f) Autorizar o licenciamento de farmácias e postos de medicamentos, laboratórios de produtos farmacêuticos e demais actividades congéneres, incluindo a concessão de alvarás.
 
-###### Art. 5.º No que se refere especificamente à política de segurança social na Região Autónoma da Madeira, compete ao Governo Regional:
+Art. 5.º No que se refere especificamente à política de segurança social na Região Autónoma da Madeira, compete ao Governo Regional:
 
 a) Assegurar a efectiva realização do direito à segurança social e, bem assim, as medidas necessárias à protecção e integração sociais dos vários grupos etários da população;
 
@@ -151,7 +159,7 @@ c) Promover o apoio, nos termos legais, às instituições com fins de desenvolv
 
 d) Promover a prestação de socorros urgentes em casos de calamidades públicas ou sinistro, coordenando e orientando a aplicação dos meios ao seu dispor.
 
-###### Art. 6.º No que se refere à política de educação especial na Região Autónoma da Madeira, compete ao Governo Regional:
+Art. 6.º No que se refere à política de educação especial na Região Autónoma da Madeira, compete ao Governo Regional:
 
 a) Assegurar a educação e integração familiar de crianças e adolescentes com deficiências auditivas, visuais, intelectuais, motoras e outras, que exijam métodos especiais de acção;
 
@@ -159,7 +167,7 @@ b) Promover a formação técnico-profissional dos educandos mais de acordo com 
 
 c) Orientar, coordenar e fiscalizar as actividades dos estabelecimentos e serviços da Região, oficiais, particulares e a cargo das autarquias locais.
 
-###### Art. 7.º - 1 - Compete ao Governo da Região Autónoma da Madeira a criação e aprovação dos quadros privativos dos serviços oficiais e paraoficiais no âmbito da saúde, segurança social e educação especial, bem como a nomeação, exoneração e disciplina do pessoal daqueles quadros.
+Art. 7.º - 1 - Compete ao Governo da Região Autónoma da Madeira a criação e aprovação dos quadros privativos dos serviços oficiais e paraoficiais no âmbito da saúde, segurança social e educação especial, bem como a nomeação, exoneração e disciplina do pessoal daqueles quadros.
 
 2 - Os concursos de âmbito nacional só poderão integrar as vagas dos quadros da Região que forem autorizadas pelo Governo Regional, que, para o efeito, deverá ser previamente consultado.
 
@@ -169,7 +177,7 @@ c) Orientar, coordenar e fiscalizar as actividades dos estabelecimentos e servi�
 
 5 - Aos funcionários dos quadros da Região integrados nas carreiras de âmbito nacional é reconhecido o direito de transferência para os quadros gerais do Estado, como de igual modo é reconechido aos funcionários destes quadros o direito de transferência para os da Região.
 
-###### Art. 8.º - 1 - É reconhecida competência ao Governo Regional da Região Autónoma da Madeira para promover acções de formação, designadamente estágios ou cursos de formação técnico-profissional, a nível regional, no âmbito da saúde, segurança social e educação especial, podendo, para o efeito, recorrer, em termos a regulamentar, à colaboração de técnicos pertencentes aos serviços da República.
+Art. 8.º - 1 - É reconhecida competência ao Governo Regional da Região Autónoma da Madeira para promover acções de formação, designadamente estágios ou cursos de formação técnico-profissional, a nível regional, no âmbito da saúde, segurança social e educação especial, podendo, para o efeito, recorrer, em termos a regulamentar, à colaboração de técnicos pertencentes aos serviços da República.
 
 2 - Quando o aproveitamento dos candidatos deva ser apreciado mediante prestação de provas, compete ao Governo Regional autorizar as mesmas e nomear os respectivos júris.
 
@@ -179,20 +187,20 @@ c) Orientar, coordenar e fiscalizar as actividades dos estabelecimentos e servi�
 
 5 - O Governo da República, através dos seus serviços, colaborará com o Governo Regional na promoção e valorização dos funcionários e agentes dos serviços de saúde, segurança social e educação especial, bem como lhe prestará o apoio técnico-administrativo possível.
 
-###### Art. 9.º As medidas dimanadas do Governo Central inseridas no âmbito deste diploma que assumam teor normativo ou informativo de carácter genérico e que não tenham publicação no Diário da República serão comunicadas ao Governo Regional através do Gabinete do Ministro da República.
+Art. 9.º As medidas dimanadas do Governo Central inseridas no âmbito deste diploma que assumam teor normativo ou informativo de carácter genérico e que não tenham publicação no Diário da República serão comunicadas ao Governo Regional através do Gabinete do Ministro da República.
 
-###### Art. 10.º O Governo Central assegurará à Região, através do Instituto de Gestão Financeira da Segurança Social, por duodécimos, as verbas necessárias à cobertura das despesas correntes da segurança social, efectuadas de acordo com os diversos regimes unificados de prestações sociais, sendo destinadas àquele Instituto as receitas cobradas na Região e sendo posteriormente efectuada a articulação do saldo resultante com os princípios vigentes quanto às contribuições do OGE para o orçamento da Região.
+Art. 10.º O Governo Central assegurará à Região, através do Instituto de Gestão Financeira da Segurança Social, por duodécimos, as verbas necessárias à cobertura das despesas correntes da segurança social, efectuadas de acordo com os diversos regimes unificados de prestações sociais, sendo destinadas àquele Instituto as receitas cobradas na Região e sendo posteriormente efectuada a articulação do saldo resultante com os princípios vigentes quanto às contribuições do OGE para o orçamento da Região.
 
-###### Art. 11.º Em consequência da regionalização já efectuada quanto à gestão do Fundo de Desemprego, o pagamento do subsídio de desemprego e encargos inerentes na Região deixa de ficar a cargo do Instituto de Gestão Financeira da Segurança Social a partir de 1 de Janeiro de 1981.
+Art. 11.º Em consequência da regionalização já efectuada quanto à gestão do Fundo de Desemprego, o pagamento do subsídio de desemprego e encargos inerentes na Região deixa de ficar a cargo do Instituto de Gestão Financeira da Segurança Social a partir de 1 de Janeiro de 1981.
 
-###### Art. 12.º Aos casos omissos no presente diploma aplica-se o disposto no Estatuto da Região Autónoma da Madeira, e as dúvidas suscitadas serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro dos Assuntos Sociais, ouvido o Governo Regional.
+Art. 12.º Aos casos omissos no presente diploma aplica-se o disposto no Estatuto da Região Autónoma da Madeira, e as dúvidas suscitadas serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro dos Assuntos Sociais, ouvido o Governo Regional.
 
-###### Art. 13.º Fica revogado o [Decreto-Lei n.º 426/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1977-279417), de 13 de Outubro.
+Art. 13.º Fica revogado o [Decreto-Lei n.º 426/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1977-279417), de 13 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 21 de Agosto de 1980.**
+Promulgado em 21 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

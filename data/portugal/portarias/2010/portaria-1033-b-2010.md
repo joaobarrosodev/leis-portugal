@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4404-(3) a 4404-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19401/0000300009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-b/2010/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc2e11c37a5333ab6188f7839ceb517bee5cfa1bf2c56e23d05ffb7687314ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24e45bc02a6d73545d7c71a1eedb0c417fe905c6065b98a5cb07ed30678c5ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
+- Confidencialidade
 - Definição de Competências
+- Equipamento de Veículo
 - Equipamento Eletrónico
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Base de Dados
-- Segurança da Informação
-- Publicitação
-- Veículo
-- Página na Internet
-- Equipamento de Veículo
-- Sistema de Informação
-- Confidencialidade
-- Segredo Profissional
 - Instituto de Infra-Estruturas Rodoviárias
+- Página na Internet
+- Publicitação
+- Segredo Profissional
+- Segurança da Informação
 - SIEV
+- Sistema de Informação
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2002/04/16/p/dre
@@ -123,16 +123,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314-a/2010/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314-a/2010/06/14/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655681:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:44Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +227,9 @@ São alterados os artigos 1.º a 6.º, 9.º, 10.º e 12.º da [Portaria n.º 314
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos, através de DE, implica a constituição das bases de dados identificadas no n.º 3 do artigo 17.º do Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis (Regulamento de Matrícula), aprovado pelo [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de Março, alterado pelo [Decreto-Lei n.º 106/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124), de 8 de Junho, pelo [Decreto-Lei n.º 112/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), de 18 de Maio, e pela [Lei n.º 46/2010](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), de 7 de Setembro.
 
@@ -187,7 +245,9 @@ São alterados os artigos 1.º a 6.º, 9.º, 10.º e 12.º da [Portaria n.º 314
 
 7 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A base de dados do DEM prevista na alínea a) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:
 
@@ -211,7 +271,9 @@ d) Um código de bloqueio de distribuição de DEM, no caso de os proprietários
 
 7 - Os distribuidores devem prestar informação ao IMTT, I. P., relativa aos DE colocados no mercado, bem como informação relativa às matrículas a bloquear nos termos da alínea d) do n.º 1.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A base de dados de eventos públicos de tráfego prevista na alínea b) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:
 
@@ -229,7 +291,9 @@ d) ...
 
 4 - Os dados relativos à detecção dos DE devem ser conservados pela SIEV, S. A., pelo período de dois anos, após a sua recolha.
 
-###### Artigo 5.º — Base de dados de estado de adequação operacional do DE
+Artigo 5.º
+
+Base de dados de estado de adequação operacional do DE
 
 1 - A base de dados de estado de adequação operacional dos DE para efeitos de cobrança electrónica de portagens, prevista na alínea c) do n.º 3 do artigo 17.º do Regulamento de Matrícula, é constituída pelas seguintes categorias de dados:
 
@@ -243,7 +307,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +329,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São titulares dos dados os proprietários ou os utilizadores dos veículos em que os DE se encontrem instalados.
 
@@ -281,7 +349,9 @@ d) ...
 
 8 - Para efeitos do disposto no número anterior, na alínea c) do n.º 3 do artigo 3.º e no n.º 3, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P., mediante protocolo que defina os termos, as condições e os custos de disponibilização, fornecem às entidades responsáveis pelas bases de dados do DEM acessos em linha às bases de dados de identificação civil e de propriedade de veículos que permitam confirmar a identidade e a qualificação dos requerentes.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +367,9 @@ d) ...
 
 7 - As disposições do presente artigo não prejudicam que, em caso de verificação de infracção das normas previstas na [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, alterada pela [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31 de Dezembro, pelo [Decreto-Lei n.º 113/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), de 18 de Maio, e pela [Lei n.º 46/2010](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), de 7 de Setembro, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas procedam ao relacionamento de dados, ao abrigo do n.º 2 do artigo 21.º do Regulamento de Matrícula e nos termos da legislação aplicável.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A comunicação ao IMTT, I. P., dos dados referidos no artigo 3.º respeitantes aos identificadores associados ao sistema Via Verde que sejam convertidos em DEM deve ser efectuada pela Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, S. A.»
 
@@ -319,7 +391,7 @@ Para efeitos da presente portaria, consideram-se equiparados às concessionária
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Setembro de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 21 de Setembro de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 17 de Setembro de 2010.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Setembro de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 21 de Setembro de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 17 de Setembro de 2010.
 
 ## ANEXO I — Republicação da [Portaria n.º 314-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/314-a-2010-438725), de 14 de Junho
 

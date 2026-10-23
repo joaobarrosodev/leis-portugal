@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09301/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/222-a/2025/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2025-918326403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b48eff3049a6ff56fe2047038c870b77e25d5da5119955af2489e76f0b5a18de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58f285b4fff1bd0b3b603f9ad0566099c1af188dcf5cb7b3c692139510c95e0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
 - CAÇA
-- Regulamentação de Atos Legislativos
+- Calendário Venatório
+- Espécie Protegida
 - Instituto da Conservação da Natureza e das Florestas
 - Ordenamento Cinegético
-- Espécie Protegida
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:67/2024
+  label: Altera, a partir de 16 de maio de 2025, os artigos 1.º e 3.º da Portaria n.º 67/2024, de 22 de fevereiro, Diário
+    da República n.º 38/2024, Série I
+  source: null
+  date: '2024-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -85,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/67/2024/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/67/2024/02/22/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853384722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868636240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898553934:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:30Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +151,9 @@ Espécies cinegéticas
 
 2 - Nas épocas venatórias de 2025-2026 e 2026-2027 é permitido o exercício da caça à rola-comum (Streptopelia turtur), desde que se verifique a compatibilidade da evolução populacional da espécie com o seu exercício cinegético, nos termos a definir por deliberação do conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., e a publicitar no respetivo sítio na Internet.
 
-###### Artigo 3.º — Períodos e limites diários
+Artigo 3.º
+
+Períodos e limites diários
 
 1 - [...]
 
@@ -141,4 +165,6 @@ Espécies cinegéticas
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas, Rui Miguel Ladeira Pereira, em 14 de maio de 2025.**
+O Secretário de Estado das Florestas, Rui Miguel Ladeira Pereira, em 14 de maio de 2025.
+
+119057992

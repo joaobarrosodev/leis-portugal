@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/84/2013/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2013-259245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a95bb66cb4d3d73b5fb5f3954f603bba6ddd31cadc2069352322a9026a2ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7059744ef5570c48795bd20a02d08dc85df41c4758337a8d36e98cfa84ed7d6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
 - Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: cites
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/104/2006/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/2006/08/23/p/dre
+- type: cites
+  target: pt:dre:242876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:24Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +173,4 @@ A taxa do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicáve
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 3 de janeiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 3 de janeiro de 2013.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225/2013/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-2013-497862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a709165304ab6c532d00778dab58612f0ce99b117266631c562b2d015775348e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01bd8eae4ef80fed2a91a80bdeeb25a2fb8d747a2e18ec32557bc4bc3f80c773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
 - Acesso à Informação
-- Câmara dos Solicitadores
-- Registo Informático de Execuções
-- Pagamento
-- Medidas Preventivas
-- Execução de Sentença
-- Página na Internet
-- Sistema de Informação
-- Reclamação
-- Execução por Dívidas
-- Remuneração
-- Processo de Execução
 - Agente de Execução
-- Solicitador
+- Câmara dos Solicitadores
 - Custas Judiciais
+- Execução de Sentença
+- Execução por Dívidas
+- Medidas Preventivas
+- Pagamento
+- Página na Internet
+- Processo de Execução
+- Processo Declarativo
+- Reclamação
+- Registo Informático de Execuções
+- Remuneração
+- Sistema de Informação
+- Solicitador
 relationships:
 - type: amended_by
   target: pt:dre:499505:por
@@ -122,16 +122,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-b/2009/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-b/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499505:por
+  label: "Revogada, a partir de 01.09.2013, a Port 331-B/2009 de 30-mar, na redação do presente diploma, pela PORT.282/2013.29.08.2013.MJ,\
+    \ DR.IS [166] de 29.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-2013-499505
+  date: '2013-08-29'
 article_structure:
-  article_count: 16
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:16Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +236,9 @@ Dever de informação e de registo
 
 7 - É disponibilizado, pela Câmara dos Solicitadores, um simulador de honorários e despesas dos agentes de execução, com valor meramente informativo, em página informática de acesso público, no sítio oficial da Câmara dos Solicitadores.
 
-###### Artigo 13.º — Pagamento de honorários e reembolso de despesas
+Artigo 13.º
+
+Pagamento de honorários e reembolso de despesas
 
 1 - Nos casos em que o pagamento das quantias devidas a título de honorários e despesas do agente de execução não possa ser satisfeito através do produto dos bens penhorados ou pelos valores depositados à ordem do agente de execução decorrentes do pagamento voluntário, integral ou em prestações, realizados através do agente de execução, os honorários devidos ao agente de execução e o reembolso das despesas por ele efetuadas, bem como os débitos a terceiros a que a venda executiva dê origem, são suportados pelo autor ou exequente, podendo este reclamar o seu reembolso ao réu ou executado.
 
@@ -204,11 +248,15 @@ Dever de informação e de registo
 
 4 - O agente de execução que, por sua iniciativa, pratique atos desnecessários, inúteis ou dilatórios, é responsável pelos mesmos, não podendo reclamar a qualquer das partes o pagamento de honorários ou despesas incorridas em virtude da sua prática.
 
-###### Artigo 14.º — Reclamação da nota de honorários e despesas
+Artigo 14.º
+
+Reclamação da nota de honorários e despesas
 
 Qualquer interessado pode, no prazo de 10 dias contados da notificação da nota discriminativa de honorários e despesas, apresentar reclamação ao juiz, com fundamento na desconformidade com o disposto na presente portaria.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Para efeitos de adiantamento de honorários e despesas ao agente de execução, o processo executivo para pagamento de quantia certa compreende as seguintes fases:
 
@@ -242,19 +290,25 @@ b) É reembolsável o montante provisionado nas restantes fases que exceda o val
 
 7 - Para efeitos de adiantamento de honorários e despesas ao agente de execução, as execuções para entrega de coisa certa ou para prestação de facto apenas têm uma fase, cujo montante se encontra fixado na tabela do anexo I da presente portaria e deve ser pago pelo exequente, por via eletrónica, com a entrega do requerimento executivo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
 2 - Todas as importâncias devidas ao agente de execução a título de adiantamento de honorários e despesas são pagas com base em identificador único de pagamento emitido através do sistema informático de suporte à atividade dos agentes de execução, sendo as mesmas depositadas na conta-cliente do exequente e a operação de depósito obrigatoriamente registada no sistema informático de suporte à atividade dos agentes de execução.
 
-###### Artigo 17.º — Unidade de expressão dos valores
+Artigo 17.º
+
+Unidade de expressão dos valores
 
 1 - Os montantes fixados pela presente portaria encontram-se expressos em unidades de conta processuais (UC), se o contrário não resultar da norma.
 
 2 - A unidade de conta é fixada nos termos do disposto no artigo 22.º do [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26 de fevereiro, alterado [Lei n.º 43/2008](https://diariodarepublica.pt/dr/detalhe/lei/43-2008-453262), de 27 de agosto, pelo [Decreto-Lei n.º 181/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2008-453247), de 28 de agosto, pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, pelo [Decreto-Lei n.º 52/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2011-276805), de 13 de abril, e pelas Leis n.os [7/2012](https://diariodarepublica.pt/dr/detalhe/lei/7-2012-543045), de 13 de fevereiro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 2 a 4, o agente de execução tem direito a ser remunerado pela tramitação dos processos, atos praticados ou procedimentos realizados de acordo com os valores fixados na tabela do anexo II da presente portaria, os quais incluem a realização dos atos necessários com os limites nela previstos.
 
@@ -304,7 +358,9 @@ b) «Valor garantido» o valor dos bens penhorados ou o da caução prestada pel
 
 15 - Em caso de conflito, entre os agentes de execução, na repartição do valor da remuneração adicional, a Câmara dos Solicitadores designa um árbitro para a resolução do mesmo.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os honorários referidos no artigo anterior são pagos ao agente de execução no termo do processo ou procedimento, ou quando seja celebrado entre as partes acordo de pagamento em prestações.
 
@@ -312,7 +368,9 @@ b) «Valor garantido» o valor dos bens penhorados ou o da caução prestada pel
 
 3 - Quando a entrega da coisa ou a prestação do facto não seja realizado por facto não imputável ao agente de execução, apenas é devido o pagamento de 1 UC, a qual acresce ao montante da provisão inicialmente paga.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -334,7 +392,9 @@ b) O exequente aceitar expressamente a cobrança da deslocação.
 
 5 - Para os efeitos do n.º 1, consideram-se despesas comprovadas as que sejam lançadas, de forma automática, pelo sistema informático de suporte à atividade dos agentes de execução na conta corrente do processo, nomeadamente as que resultem de registos de penhora eletrónica, expedição de correio, notificações eletrónicas, transferências e pagamentos eletrónicos.
 
-###### Artigo 22.º — Afetação de verbas
+Artigo 22.º
+
+Afetação de verbas
 
 1 - Para os efeitos do disposto no n.º 1 do artigo 127.º do Estatuto da Câmara dos Solicitadores, as receitas da caixa de compensações são constituídas por uma permilagem de 75 (75 (por mil)) do montante correspondente a 1 UC.
 
@@ -342,7 +402,9 @@ b) O exequente aceitar expressamente a cobrança da deslocação.
 
 3 - Os demais aspetos relativos à cobrança e gestão das verbas a afetar à caixa de compensações são definidos em regulamento da Câmara dos Solicitadores.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O agente de execução tem direito a uma compensação pelas deslocações efetuadas para a realização de diligências que envolvam deslocações ao local, paga pela caixa de compensações, sempre que se verifiquem, cumulativamente, as seguintes condições:
 
@@ -354,7 +416,9 @@ b) O agente de execução tenha sido designado pela secretaria nos termos do art
 
 3 - [...].
 
-###### Artigo 31.º-A — [...]
+Artigo 31.º-A
+
+[...]
 
 1 - Após a inclusão da execução na lista pública de execuções, nos termos da Portaria n.º 313/2009, de 30 de março, e até à sua exclusão por cumprimento da obrigação ou a sua retirada oficiosa após o decurso de cinco anos, o exequente pode requerer ao agente de execução a consulta às bases de dados referidas no artigo 749.º do Código de Processo Civil para identificação de bens de modo a poder decidir sobre a oportunidade de renovação da instância.
 
@@ -382,19 +446,19 @@ As alterações introduzidas pela presente portaria à [Portaria n.º 331-B/2009
 
 A presente portaria entra em vigor no dia 1 de setembro de 2013.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de junho de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de junho de 2013.
 
 ## ANEXO I — Provisões
 
 [Valores sujeitos a Imposto de Valor Acrescentado (IVA) à taxa legal em vigor]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)
 
 ## ANEXO II — Remuneração fixa
 
 (Valores sujeitos a IVA à taxa legal em vigor)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)
 
 (1) Este valor acresce ao valor previsto no ponto 1.1, quando seja o agente de execução a realizar a venda por negociação particular.
 
@@ -404,4 +468,4 @@ A presente portaria entra em vigor no dia 1 de setembro de 2013.
 
 O valor da remuneração adicional do agente de execução destinado a premiar a eficácia e eficiência da recuperação ou garantia de créditos na execução nos termos do artigo 18.º é calculado com base nas taxas marginais constantes da tabela abaixo, as quais variam em função do momento processual em que o valor foi recuperado ou garantido e da existência, ou não, de garantia real sobre os bens penhorados ou a penhorar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13100/0400404010.pdf)

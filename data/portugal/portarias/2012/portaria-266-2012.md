@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/266/2012/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-2012-174816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43ce66ccac76c4988cff021ee227c4a2045725b19869337ffec0d5fbd269d51a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d8b35c7972c111c2f20423fbf0035563b03f02e33bac184451337dc84bd221e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Agrupamento de Escolas
-- Formação Profissional
-- Diretor
-- Educador de Infância
+- Avaliação do Pessoal
 - Carreira Profissional
-- Ensino Secundário
 - Conselho Coordenador
-- Estabelecimento de Ensino
-- Pessoal Docente
+- Diretor
+- Educação Pré-escolar
+- Educador de Infância
 - Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Formação Profissional
+- Pessoal Docente
 - Progressão na Carreira
 - Reclamação
-- Avaliação do Pessoal
-- Educação Pré-escolar
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:223154119:por
@@ -103,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:15Z'
   warnings: []
   errors: []
 ---
@@ -359,16 +375,16 @@ A avaliação do desempenho atribuída nos termos do presente diploma tem os efe
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 9 de agosto de 2012.**
+O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 9 de agosto de 2012.
 
 ## ANEXO I — Avaliação do desempenho docente
 
 (diretores de agrupamento de escolas ou escola não agrupada e diretores de centros de formação de associação de escolas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf)
 
 ## ANEXO II — Avaliação do desempenho docente
 
 (diretores de agrupamento de escolas ou escola não agrupada, diretores de centros de formação de associação de escolas e diretores das escolas portuguesas no estrangeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16800/0491204916.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06401/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127-a/2024/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cad297c5a85552c07f6d6a06ed1f31a6556abff066ab3d6ef75caf1e6684e8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b7c1a5f9b0de0e0c48d67ea05f3b20e3c548280578a2e3c67faabbb1ef0bae1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unidade de Saúde Familiar
-- Serviço Nacional de Saúde
-- Fiscalização
 - Administração Central do Sistema de Saúde
-- Sistema de Informação
-- Unidade Local de Saúde
-- Plataforma Eletrónica
-- Unidade de Cuidados de Saúde Personalizados
 - Direção Executiva do Serviço Nacional de Saúde
+- Fiscalização
+- Plataforma Eletrónica
+- Serviço Nacional de Saúde
+- Sistema de Informação
+- Unidade de Cuidados de Saúde Personalizados
+- Unidade de Saúde Familiar
+- Unidade Local de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:454-A/2023
+  label: Altera, a partir de 2 de abril de 2024, com efeitos a 1 de janeiro de 2024, o artigo 17.º e o anexo, e adita o anexo
+    II à Portaria n.º 454-A/2023, de 28 de dezembro, Diário da República n.º 249/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
   label: null
@@ -93,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/454-a/2023/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/454-a/2023/12/28/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225265452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835862896:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:55Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +187,7 @@ O anexo à [Portaria n.º 454-A/2023](https://diariodarepublica.pt/dr/detalhe/po
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 28 de março de 2024.**
+O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 28 de março de 2024.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -239,3 +265,5 @@ A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publ
 | 60 | Vale do Arunca |
 | 61 | Vale do Tâmega |
 | 62 | Vouzela |
+
+117541371

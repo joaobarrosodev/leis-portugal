@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/97/2011/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2011-279441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4b060b9ba1887d1a2a6fd2f8034338a551f3278f2dff143304f615afac01b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb8b8704f7dddac22be7d2a2003ac876c1b14564b412af15de6be6cc228da47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
 - Alcanena
 - Alcochete
 - Alenquer
-- Vila Franca de Xira
 - Azambuja
 - Cartaxo
-- Recursos Hídricos
 - Golegã
 - Óbidos
 - Proteção do Ambiente
+- Recursos Hídricos
 - Setúbal
+- Vila Franca de Xira
 - Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:1083325919:por
@@ -113,16 +113,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/186/2003/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/186/2003/12/11/p/dre
+- type: cites
+  target: pt:dre:308758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1083325919:por
+  label: Revogada, a partir de 11 de abril de 2026, a alínea a) do n.º 1 do artigo 1.º, o artigo 2.º e o anexo i da presente
+    portaria, pelo(a) Portaria n.º 157/2026/1 - Diário da República n.º 70/2026, Série I de 2026-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2026-1083325919
+  date: '2026-04-10'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:16Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +221,7 @@ Os quadros relativos à captação designada por JK1, constantes dos anexos i e 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 25 de Fevereiro de 2011.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 25 de Fevereiro de 2011.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -199,13 +233,13 @@ Pólo de captação de Pinhal de Negreiros
 
 Captação JK14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Pólo de captação de Poço Mouro
 
 Captação JK9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 ## ANEXO IV — Zona de protecção intermédia
 
@@ -213,7 +247,7 @@ Pólo de captação de Pinhal das Espanholas
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 20790 (elipsóide de Hayford, datum Lisboa, projecção de Gauss, origem no ponto fictício).
 
@@ -225,7 +259,7 @@ Portaria n.º 983/2010, de 24 de Setembro
 
 Captações PDR01, PDR02, PDR03, PDR04 e PDR05
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 20790 (elipsóide de Hayford, datum Lisboa, projecção de Gauss, origem no ponto fictício).
 
@@ -239,13 +273,13 @@ Pólo de captação da Quinta de Alviela
 
 Captação SL1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Pólo de captação de Bugalhos/Filhós
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -255,7 +289,7 @@ Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encon
 
 ## ANEXO I — Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 ## ANEXO II — Zona de protecção imediata
 
@@ -263,7 +297,7 @@ Pólo de captação dos Olhos de Água do Alviela
 
 Nascente dos Olhos de Água do Alviela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 ## ANEXO III — Zona de protecção intermédia
 
@@ -271,7 +305,7 @@ Pólo de captação dos Olhos de Água do Alviela
 
 Nascente dos Olhos de Água do Alviela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 ## ANEXO IV — Zona de protecção alargada
 
@@ -279,7 +313,7 @@ Pólo de captação de Lezíria III
 
 Captações G6-P15, G6-P16, G7-P17 e G7-P18
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Pólo de captação dos Olhos de Água do Alviela
 
@@ -299,7 +333,7 @@ Pólo de captação do Samouco
 
 Captações CBR2 e FR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -311,12 +345,12 @@ Nota. - As coordenadas dos vértices que delimitam as zonas de protecção encon
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 ## ANEXO III — Zona de protecção alargada
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04800/0133801343.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 20790 (elipsóide de Hayford, datum Lisboa, projecção de Gauss, origem no ponto fictício).

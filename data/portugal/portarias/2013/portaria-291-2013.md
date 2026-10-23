@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/291/2013/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-2013-500423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5803e001ea944fdebcc5978b69ab620333d3dcf0ba30e39813c30448047144b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a908ef5a1d0b4dc74d1427d4aea310e120ef9cbf96db8e8a659df53516537db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Direção Geral do Património Cultural
 - Livre Trânsito
+- Pessoal Dirigente
 - Trabalhador
 relationships:
 - type: cites
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:35Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +160,10 @@ c) Ao centro consta o seguinte texto: "Todas as autoridades a quem este cartão 
 
 O cartão deve ser exibido pelo titular, de forma visível, perante as autoridades a quem haja necessidade de recorrer e no momento de entrada dos locais a visitar.
 
-**O Secretário de Estado da Cultura, Jorge Barreto Xavier, em 9 de setembro de 2013.**
+O Secretário de Estado da Cultura, Jorge Barreto Xavier, em 9 de setembro de 2013.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18500/0593405935.pdf)

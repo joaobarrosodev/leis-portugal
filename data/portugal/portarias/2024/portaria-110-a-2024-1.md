@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05601/0000200107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110-a/2024/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-a-2024-856339667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bb3db08a0e148339e09c99183ef24921b312a3bf975afc31a0c363f972786bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26279dcaeb85966ebc149568ed0e5290e1794627f672a5727700f957268c0177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Concurso
-- Regulamentação de Atos Legislativos
-- Educador de Infância
-- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Ensino Secundário
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:48Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +161,13 @@ A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
 Em 18 de março de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira. - O Secretário de Estado da Educação, António de Oliveira Leite.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira. - O Secretário de Estado da Educação, António de Oliveira Leite.
 
 ## ANEXO I — Vagas de quadro de agrupamento de escolas e escolas não agrupadas
 
 (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/03/05601/0000200107.pdf))](https://files.diariodarepublica.pt/1s/2024/03/05601/0000200107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/03/05601/0000200107.pdf)
 
 ## ANEXO II — Vagas de quadro de zona pedagógica
 
@@ -298,3 +310,5 @@ Em 18 de março de 2024.
 | 62 | – 8 | – 59 | 0 | – 14 | – 5 | – 9 | – 9 | 1 | – 2 | – 4 | 0 | – 22 | 0 | – 8 | – 6 | 0 | – 2 | 0 | – 19 | – 2 | – 18 | – 4 | – 11 | – 4 | – 12 | 0 | – 4 | – 11 | 0 | – 3 | – 2 | – 15 | – 11 | – 1 | 0 | – 264 |
 | 63 | – 6 | – 17 | 0 | – 9 | – 2 | – 4 | – 1 | – 1 | 1 | – 8 | 0 | – 14 | 0 | – 2 | – 5 | 0 | – 2 | 0 | – 5 | – 2 | – 2 | 0 | – 4 | – 4 | – 4 | 0 | – 2 | – 4 | 0 | – 5 | 0 | – 5 | – 4 | 0 | 0 | – 111 |
 | Total | – 1264 | – 2801 | – 151 | – 488 | – 141 | – 419 | – 515 | – 202 | – 111 | – 279 | – 82 | – 959 | – 1 | – 253 | – 576 | – 7 | – 191 | – 15 | – 674 | – 212 | – 588 | – 231 | – 789 | – 508 | – 580 | – 105 | – 109 | – 695 | – 12 | – 417 | – 24 | – 664 | – 1091 | – 25 | – 39 | – 15218 |
+
+117497357

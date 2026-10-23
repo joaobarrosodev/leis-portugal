@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/560/2010/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74a80e68351d7608e9785018629a2b370b5b7a38d6e473a6ea3ea77c7f511aee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f07057027182882c1ab38f63b397430829352d8f50999d784d31b906fb0a418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Cinemateca Portuguesa-Museu do Cinema
 - Cinemateca Portuguesa-Museu do Cinema IP
 - Definição de Competências
 - Estatuto
-- Cinemateca Portuguesa-Museu do Cinema
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59/2010/06/07/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/374/2007/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/374/2007/03/30/p/dre
+- type: cites
+  target: pt:dre:332745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:04Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +247,7 @@ São republicados, em anexo à presente portaria, da qual faz parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Julho de 2010. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 9 de Junho de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Julho de 2010. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 9 de Junho de 2010.
 
 ## ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.
 
@@ -449,7 +465,9 @@ j) Coordenar a gestão das bilheteiras do CCP, em colaboração com a Divisão d
 
 5 - O CCP funciona no Porto.
 
-###### Artigo 4.º — Divisão de Gestão
+###### Artigo 4.º
+
+##### Divisão de Gestão
 
 À Divisão de Gestão, abreviadamente designada por DG, compete:
 

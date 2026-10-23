@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1980, 5º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4244-(93) a 4244-(96)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30105/00930096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1980-226781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 794414b7a5da9f2ccf0de07b41b63c4eb17bb5c97c12b98a9485a94ad788582d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b40e5b1c170d4b6e79a7bd851d741c8ab00828dadf39f0a20f4800edc32926
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatística
+- Madeira.região Autónoma
+- Secretaria Regional do Planeamento e Finanças
+- Serviço Regional de Estatística da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:283279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283279:por
+  label: "Revogado pelo DRR.6/88/M.22.12.1987.GR-RAM, DR.IS [36] de 12.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1988-283279
+  date: '1987-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:00Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +131,13 @@ Neste são visíveis duas ideias fundamentais, que o justificam: a primeira é a
 
 Assim, o Governo Regional da Madeira, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado na Secretaria Regional do Planeamento e Finanças o Serviço Regional de Estatística da Madeira, designado abreviadamente por SREM, o qual constitui uma direcção regional.
+Artigo 1.º - 1 - É criado na Secretaria Regional do Planeamento e Finanças o Serviço Regional de Estatística da Madeira, designado abreviadamente por SREM, o qual constitui uma direcção regional.
 
 2 - O SREM é dotado do quadro de pessoal anexo ao presente decreto regulamentar, do qual faz parte integrante.
 
 3 - O SREM funciona, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio, como órgão central de estatística da Região e, simultaneamente, como delegação do Instituto Nacional de Estatística.
 
-###### Art. 2.º - 1 - O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos das matérias com interesse especial para a Região pertence ao SREM, como órgão central de estatística no âmbito da Região, com apoio técnico do INE.
+Art. 2.º - 1 - O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos das matérias com interesse especial para a Região pertence ao SREM, como órgão central de estatística no âmbito da Região, com apoio técnico do INE.
 
 2 - Para o desempenho das atribuições referidas no número anterior, compete especificamente ao SREM:
 
@@ -128,17 +165,17 @@ k) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo membro do
 
 3 - O SREM, como delegação do INE, tem as atribuições definidas no n.º 1 do artigo 4.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
-###### Art. 3.º Todas as informações estatísticas de ordem individual colhidas pelo SREM são de natureza estritamente confidencial, pelo que a sua utilização terá de obedecer às normas estabelecidas no artigo 15.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
+Art. 3.º Todas as informações estatísticas de ordem individual colhidas pelo SREM são de natureza estritamente confidencial, pelo que a sua utilização terá de obedecer às normas estabelecidas no artigo 15.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
 
-###### Art. 4.º - 1 - A realização de quaisquer inquéritos estatísticos de âmbito regional que interessem a serviços públicos da administração regional e local ou a outras entidades públicas ou com funções de interesse público da Região deverá ser sempre solicitada ao SREM, que, conforme as circunstâncias, os poderá autorizar ou efectuar pelos seus próprios meios.
+Art. 4.º - 1 - A realização de quaisquer inquéritos estatísticos de âmbito regional que interessem a serviços públicos da administração regional e local ou a outras entidades públicas ou com funções de interesse público da Região deverá ser sempre solicitada ao SREM, que, conforme as circunstâncias, os poderá autorizar ou efectuar pelos seus próprios meios.
 
 2 - Da decisão do director do SREM cabe recurso para o conselho orientador, e da resolução deste, para o membro do Governo Regional que superintenda no SREM.
 
 3 - Das autorizações concedidas será sempre dado conhecimento ao INE.
 
-###### Art. 5.º Sempre que a mais de um serviço, organismo ou entidade pública ou de interesse público que se encontrem na Região sejam necessárias informações estatísticas de âmbito regional iguais ou semelhantes relativas ao mesmo sector de actividade, o SREM poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessados, definindo as condições de utilização comum das mesmas informações.
+Art. 5.º Sempre que a mais de um serviço, organismo ou entidade pública ou de interesse público que se encontrem na Região sejam necessárias informações estatísticas de âmbito regional iguais ou semelhantes relativas ao mesmo sector de actividade, o SREM poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessados, definindo as condições de utilização comum das mesmas informações.
 
-###### Art. 6.º - 1 - Nenhum serviço público da administração regional ou local ou outra entidade pública ou com funções de interesse público da Região poderá emitir quaisquer instrumentos de notação de âmbito regional donde possa resultar um aproveitamento estatístico, a ser preenchidos por entidades que se encontrem na Região ou que nela exerçam actividade, sem prévia autorização do SREM, mediante o registo dos respectivos instrumentos de notação.
+Art. 6.º - 1 - Nenhum serviço público da administração regional ou local ou outra entidade pública ou com funções de interesse público da Região poderá emitir quaisquer instrumentos de notação de âmbito regional donde possa resultar um aproveitamento estatístico, a ser preenchidos por entidades que se encontrem na Região ou que nela exerçam actividade, sem prévia autorização do SREM, mediante o registo dos respectivos instrumentos de notação.
 
 2 - Quando os instrumentos de notação submetidos a registo não se harmonizem com os requisitos técnicos adequados ou com as exigências de fácil preenchimento, o SREM fará depender o registo da introdução das alterações convenientes.
 
@@ -152,27 +189,27 @@ k) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo membro do
 
 7 - Dos registos efectuados pelo SREM será sempre dado conhecimento ao INE.
 
-###### Art. 7.º - 1 - Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos de âmbito regional sem os sujeitar a prévia aprovação do SREM, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
+Art. 7.º - 1 - Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos de âmbito regional sem os sujeitar a prévia aprovação do SREM, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
 
 2 - Das decisões do director do SREM em matéria de publicação de dados estatísticos de âmbito regional cabe recurso nos termos do n.º 2 do artigo 4.º
 
-###### Art. 8.º Os pedidos de realização de inquéritos estatísticos feitos ao abrigo do artigo 4.º do presente decreto regulamentar, bem como o registo de instrumentos de notação exigido pelo artigo 6.º do mesmo diploma, deverão seguir, com as necessárias adaptações, a tramitação definida nos artigos 83.º a 89.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto.
+Art. 8.º Os pedidos de realização de inquéritos estatísticos feitos ao abrigo do artigo 4.º do presente decreto regulamentar, bem como o registo de instrumentos de notação exigido pelo artigo 6.º do mesmo diploma, deverão seguir, com as necessárias adaptações, a tramitação definida nos artigos 83.º a 89.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto.
 
-###### Art. 9.º - 1 - O SREM poderá proceder à recolha directa das informações estatísticas de interesse regional quando elas não forem prestadas nos prazos fixados ou for necessário verificar a exactidão das mesmas.
+Art. 9.º - 1 - O SREM poderá proceder à recolha directa das informações estatísticas de interesse regional quando elas não forem prestadas nos prazos fixados ou for necessário verificar a exactidão das mesmas.
 
 2 - Nas recolhas directas adoptar-se-á, com as necessárias adaptações, o previsto nos artigos 42.º a 45.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802) e nos artigos 77.º e 82.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), ambos de 25 de Agosto.
 
-###### Art. 10.º As transgressões estatísticas definidas pelo [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, serão punidas, nos termos do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), da mesma data, com as necessárias adaptações, a nível regional.
+Art. 10.º As transgressões estatísticas definidas pelo [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, serão punidas, nos termos do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), da mesma data, com as necessárias adaptações, a nível regional.
 
-###### Art. 11.º São órgãos do SREM o conselho orientador e o director.
+Art. 11.º São órgãos do SREM o conselho orientador e o director.
 
-###### Art. 12.º - 1 - O conselho orientador tem a composição e as competências definidas pelos artigos 6.º e 7.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
+Art. 12.º - 1 - O conselho orientador tem a composição e as competências definidas pelos artigos 6.º e 7.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
 2 - O conselho orientador decide por maioria de votos, estando presentes pelo menos três dos seus membros e tendo o presidente voto de qualidade.
 
-###### Art. 13.º As competências do director são as definidas no n.º 3 do artigo 9.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
+Art. 13.º As competências do director são as definidas no n.º 3 do artigo 9.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
-###### Art. 14.º - 1 - O SREM compreende:
+Art. 14.º - 1 - O SREM compreende:
 
 a) Gabinete Técnico;
 
@@ -182,7 +219,7 @@ c) Divisão de Produção Estatística.
 
 2 - Por despacho do membro do Governo Regional que superintenda no SREM, sob proposta do respectivo director, poderá ser criado um núcleo do SREM na ilha de Porto Santo, se tal se vier a justificar.
 
-###### Art. 15.º Ao Gabinete Técnico, orientado directamente pelo director do SREM, compete:
+Art. 15.º Ao Gabinete Técnico, orientado directamente pelo director do SREM, compete:
 
 a) Assegurar o planeamento e controle de todas as actividades dos serviços;
 
@@ -200,7 +237,7 @@ g) Apoiar o conselho orientador;
 
 h) Prestar apoio técnico-estatístico às entidades regionais que o solicitem.
 
-###### Art. 16.º A Divisão de Coordenação e Administração compreende:
+Art. 16.º A Divisão de Coordenação e Administração compreende:
 
 a) Secção de Contabilidade e de Administração;
 
@@ -208,7 +245,7 @@ b) Secção de Coordenação Estatística e Difusão;
 
 c) Serviços de Informática.
 
-###### Art. 17.º Compete à Secção de Contabilidade e de Administração:
+Art. 17.º Compete à Secção de Contabilidade e de Administração:
 
 a) Preparar os meios para o recrutamento e selecção de pessoal;
 
@@ -232,7 +269,7 @@ j) Efectuar a distribuição e venda de publicações do SREM;
 
 k) As demais que lhe forem determinadas pelos órgãos do SREM.
 
-###### Art. 18.º Compete à Secção de Coordenação Estatística e Difusão:
+Art. 18.º Compete à Secção de Coordenação Estatística e Difusão:
 
 a) Informar sobre pedidos de realização de inquéritos, de registo de instrumentos de notação e de publicação de dados estatísticos sujeitos, nos termos dos artigos 4.º, 6.º e 7.º, a aprovação do SREM;
 
@@ -244,7 +281,7 @@ d) Preparar as publicações estatísticas regionais de carácter geral constant
 
 e) Participar nos trabalhos de manutenção dos ficheiros gerais.
 
-###### Art. 19.º Compete aos Serviços de Informática:
+Art. 19.º Compete aos Serviços de Informática:
 
 a) Colaborar na preparação e execução de operações destinadas a tratamento electrónico, nomeadamente na concessão de instrumentos de notação, mapas de apuramento e rotinas de trabalho;
 
@@ -254,7 +291,7 @@ c) Registar dados em suporte informático e proceder às verificações e rectif
 
 d) Executar os programas e processamentos determinados pelos calendários estabelecidos.
 
-###### Art. 20.º A Divisão de Produção Estatística compreende:
+Art. 20.º A Divisão de Produção Estatística compreende:
 
 a) Secção de Estatísticas Demográficas e Sociais;
 
@@ -262,31 +299,31 @@ b) Secção de Estatísticas Económicas e Financeiras;
 
 c) Secção de Censos e Inquéritos.
 
-###### Art. 21.º Compete à Secção de Estatísticas Demográficas e Sociais:
+Art. 21.º Compete à Secção de Estatísticas Demográficas e Sociais:
 
 a) Produzir as estatísticas correntes de exclusivo interesse regional, nomeadamente nos domínios de demografia, saúde e acidentes, actividades judiciárias, ensino, ciência, actividades culturais, desportivas e recreativas, tempo livre, condições de vida da família e dos agrupamentos sociais, da população activa em geral, de segurança social ou outros que venham a ser enquadrados nesta área;
 
 b) Colaborar com o INE na concepção das estatísticas correntes de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação nos domínios referidos na alínea anterior.
 
-###### Art. 22.º Compete à Secção de Estatísticas Económicas e Financeiras:
+Art. 22.º Compete à Secção de Estatísticas Económicas e Financeiras:
 
 a) Produzir as estatísticas correntes de exclusivo interesse regional, nomeadamente nos domínios de agricultura, pesca, indústrias extractivas, indústrias transformadoras, construção, obras públicas e habitação, electricidade, gás, água, distribuição, prestação de serviços, finanças públicas e privadas, ou outros que venham a ser enquadrados nesta área;
 
 b) Colaborar com o INE na concepção das estatísticas correntes de âmbito nacional e apoiar a sua execução, nomeadamente através da atribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação nos domínios referidos na alínea anterior.
 
-###### Art. 23.º Compete à Secção de Censos e Inquéritos:
+Art. 23.º Compete à Secção de Censos e Inquéritos:
 
 a) Realizar os inquéritos de base e os inquéritos especiais de exclusivo interesse para a Região;
 
 b) Colaborar com o INE na concepção de estatísticas básicas, inquéritos especiais de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação.
 
-###### Art. 24.º O SREM pode recrutar, em regime de contrato a prazo, o pessoal que seja necessário para trabalhos que o do quadro não possa assegurar e que o objecto de contrato, pela sua duração e características, não justifique outra forma de recrutamento e de vínculo à função pública.
+Art. 24.º O SREM pode recrutar, em regime de contrato a prazo, o pessoal que seja necessário para trabalhos que o do quadro não possa assegurar e que o objecto de contrato, pela sua duração e características, não justifique outra forma de recrutamento e de vínculo à função pública.
 
 Em qualquer dos casos, não se lhe confere a qualidade de funcionário ou agente.
 
-###### Art. 25.º O pessoal pertencente ao quadro e fora do quadro a exercer actividade na ex-delegação do Funchal poderá optar, no período de sessenta dias contados a partir da entrada em vigor deste decreto regulamentar, pela sua integração ou não no quadro regional, cabendo ao INE resolver a situação dos que optem pelos quadros nacionais, colocando-os nos seus serviços, sem perda de direitos e regalias.
+Art. 25.º O pessoal pertencente ao quadro e fora do quadro a exercer actividade na ex-delegação do Funchal poderá optar, no período de sessenta dias contados a partir da entrada em vigor deste decreto regulamentar, pela sua integração ou não no quadro regional, cabendo ao INE resolver a situação dos que optem pelos quadros nacionais, colocando-os nos seus serviços, sem perda de direitos e regalias.
 
-###### Art. 26.º - 1 - O pessoal a que se refere o artigo anterior e que tenha feito a opção pelo quadro regional será integrado sem perda de direitos e regalias.
+Art. 26.º - 1 - O pessoal a que se refere o artigo anterior e que tenha feito a opção pelo quadro regional será integrado sem perda de direitos e regalias.
 
 2 - A integração no quadro não inclui o pessoal em regime de contrato a prazo.
 
@@ -296,24 +333,24 @@ Em qualquer dos casos, não se lhe confere a qualidade de funcionário ou agente
 
 5 - As condições de intercomunicabilidade entre os quadros do SREM e o INE são definidas no n.º 3 do artigo 11.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
-###### Art. 27.º - 1 - O regime das carreiras do pessoal do SREM será idêntico ao estabelecido para o pessoal do INE, com excepção da carreira técnica (n.º III do quadro anexo), sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, no que se refere ao pessoal de informática.
+Art. 27.º - 1 - O regime das carreiras do pessoal do SREM será idêntico ao estabelecido para o pessoal do INE, com excepção da carreira técnica (n.º III do quadro anexo), sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, no que se refere ao pessoal de informática.
 
 2 - Quando em qualquer das carreiras do pessoal do SREM existirem vagas de categorias superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso tantas unidades quantas as vagas existentes na respectiva carreira.
 
-###### Art. 28.º As dúvidas resultantes da entrada em vigor do presente decreto regulamentar serão resolvidas por despacho do membro do Governo Regional que superintende no SREM, ouvido o conselho orientador.
+Art. 28.º As dúvidas resultantes da entrada em vigor do presente decreto regulamentar serão resolvidas por despacho do membro do Governo Regional que superintende no SREM, ouvido o conselho orientador.
 
-###### Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em plenário do Governo aos 18 dias do mês de Julho de 1980.
 
-**O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Dezembro de 1980.**
+Assinado em 23 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro a que se refere o n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30105/00930096.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30105/00930096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30105/00930096.pdf)

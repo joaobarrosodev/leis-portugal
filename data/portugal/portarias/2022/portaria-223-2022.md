@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17200/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/223/2022/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-2022-200691262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37dcc89df8f16a89aef7373c066ee9014895727a9dc009e2d26061beabbba121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3286101ec7e73a36c39b8ddb828e1252e67c0197c567d5512ac87ed5b34c736e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
+- Complemento Garantia para a Infância
 - Criança
-- Regulamentação de Atos Legislativos
+- Garantia para a Infância
 - Orçamento Geral do Estado
 - Proteção à Infância
+- Regulamentação de Atos Legislativos
 - Rendimento de Referência
 - Subsídio
-- Abono de Família
-- Garantia para a Infância
-- Complemento Garantia para a Infância
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/3/2022/08/19/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192209137:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:42Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +132,6 @@ O limite do rendimento de referência dos agregados familiares dos titulares das
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de julho de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 1 de setembro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 19 de agosto de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 1 de setembro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 19 de agosto de 2022.
+
+115661475

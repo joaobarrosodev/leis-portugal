@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/41/2014/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-2014-572440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7dd45da5f09d986949865230e4d3f5ec5fed5c212a9a4e880b4126e57054908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61031987e68ca4b56df906952e70fa363b8dd33b8ee668b32079b1587ee8799b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Peixe
 - Período de Defeso
+- Pesca
 - Quota de Pesca
 relationships:
+- type: amended_by
+  target: pt:dre:25343751:por
+  label: "Alterado o art. 2º, pela PORT.98/2014.08.05.2014.MAGM, DR.IS [88] de 08.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2014-25343751
+  date: '2014-05-08'
 - type: cites
   target: celex:32014R0043
   label: null
@@ -78,13 +83,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:42Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +144,4 @@ A partir da entrada em vigor da presente portaria e até 31 de dezembro de 2014,
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2014.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2014.

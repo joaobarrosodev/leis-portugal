@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03300/0000800172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2023/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2023-207485804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4475948f23b637524688dec7c779f5c0ebbe405d585088e946bc8f618b1083b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d78bab9b85354b7b13d08e2eb0e33bdef8d558207d4acbf34bbd56998024757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,39 @@ subjects:
 - Certificação Electrónica
 - Cobrança de Impostos
 - Código do IRS
-- Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
-- Impresso
-- Imposto de Mais-Valias
 - Contribuições e Impostos
-- IRS
-- Instruções de Utilização
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Formulário Eletrónico
+- Herança
+- Imposto de Mais-Valias
+- Impresso
+- Instruções de Utilização
+- IRS
+- Mais-Valias
 - Página na Internet
+- Regulamentação de Atos Legislativos
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Herança
-- Mais-Valias
 relationships:
 - type: amended_by
   target: pt:dre:909384934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:840061965:por
+  label: Mantido em vigor o modelo Anexo D - imputação de rendimentos de entidades sujeitas ao regime de transparência fiscal
+    e de herança indivisa, bem como aprovadas novas instruções de preenchimento do referido modelo pelo(a) Portaria n.º 39-B/2024
+    - Diário da República n.º 24/2024, 1º Suplemento, Série I de 2024-02-02 nos termos do n.º 4 do artigo 1.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-b-2024-840061965
+  date: '2024-02-02'
+- type: amended_by
+  target: pt:dre:909384934:por
+  label: Mantido em vigor o modelo do Anexo D (imputação de rendimentos de entidades sujeitas ao regime de transparência fiscal
+    e de herança indivisa) e aprovadas novas instruções de preenchimento, pelo(a) Portaria n.º 72-B/2025/1 - Diário da República
+    n.º 42/2025, Suplemento, Série I de 2025-02-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-b-2025-909384934
+  date: '2025-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
   label: null
@@ -105,16 +119,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/2021/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/2021/01/07/p/dre
+- type: cites
+  target: pt:dre:153138213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176075689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716381:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:25Z'
   warnings: []
   errors: []
 ---
@@ -191,6 +225,8 @@ b) Efetuar o envio de acordo com os procedimentos indicados no referido portal.
 
 A presente portaria entra em vigor no dia seguinte à sua publicação e produz efeitos a 1 de janeiro de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 10 de fevereiro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 10 de fevereiro de 2023.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03300/0000800172.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03300/0000800172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03300/0000800172.pdf)
+
+116165035

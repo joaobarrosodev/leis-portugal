@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21300/0002100025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/332/2023/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-2023-223700467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8762698c2ee583db62745d0461ba38dffd3d2579fe3fe944373314f2cb5166b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3128095d871e1324c812764c478c48d0cfa6993bf3b7c58163c11c5975b98c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Acreditação
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Certificado de Aptidão Profissional
 - Centro para a Qualificação e o Ensino Profissional
-- Formação Profissional
+- Centro Qualifica
 - Certificação Profissional
-- Regulamentação de Atos Legislativos
-- Ensino Profissional
+- Certificado de Aptidão Profissional
 - Educação dos Adultos
+- Ensino Profissional
+- Formação Profissional
 - Licenciamento
 - Pessoal Docente
-- Qualificação Profissional
 - Programa Qualifica
-- Centro Qualifica
+- Qualificação Profissional
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/62/2022/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/62/2022/01/31/p/dre
+- type: cites
+  target: pt:dre:105808927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178394356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:41Z'
   warnings: []
   errors: []
 ---
@@ -133,16 +153,22 @@ O anexo da [Portaria n.º 62/2022](https://diariodarepublica.pt/dr/detalhe/porta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, António de Oliveira Leite, em 19 de outubro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 23 de outubro de 2023.**
+O Secretário de Estado da Educação, António de Oliveira Leite, em 19 de outubro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 23 de outubro de 2023.
 
 ## ANEXO — «ANEXO
 
 Modelo de certificado de qualificações e de diploma de qualificação conforme o referido na alínea d) do n.º 4 do artigo 6.º
 
-![](https://files.diariodarepublica.pt/images/223700467/223740430.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700467/223740430.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700467/223740431.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700467/223740431.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700467/223740432.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700467/223740432.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700467/223740433.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700467/223740433.png) |
+| --- |
+
+117015802

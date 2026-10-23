@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22800/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/2023/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-2023-224728396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5476a22dfeb8e98ce267febe360a775dc5babf52bfe4456eb5e6e6f3b1600f03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d77c633685dfbd700870f9bc119bf6f2c49b02da10b1044a5a7510e8413b57ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Regulamentação de Atos Legislativos
 - FEDER
 - Fundo de Coesão
 - Fundos CE
 - Investimento
-- Resíduo Urbano
 - Programa Operacional Temático Sustentabilidade e Eficiência no Uso dos Recursos
+- Regulamentação de Atos Legislativos
 - Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos
+- Resíduo Urbano
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
@@ -116,16 +116,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/57-b/2015/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/57-b/2015/02/27/p/dre
+- type: cites
+  target: pt:dre:106657702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108041481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117487428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135711318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137022370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145714401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169780054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201276030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71049717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75214145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75409472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:00Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +246,9 @@ i) Empresas do Setor Empresarial do Estado responsáveis pela realização dos i
 
 ii) [...]
 
-###### Artigo 91.º — Critérios de elegibilidade dos beneficiários
+Artigo 91.º
+
+Critérios de elegibilidade dos beneficiários
 
 1 - [...]
 
@@ -186,7 +256,9 @@ ii) [...]
 
 3 - [...]
 
-###### Artigo 98.º — Critérios de elegibilidade dos beneficiários
+Artigo 98.º
+
+Critérios de elegibilidade dos beneficiários
 
 1 - [...]
 
@@ -200,7 +272,9 @@ ii) [...]
 
 6 - Sem prejuízo do disposto nos n.os 3 a 5, podem ainda, com base em especiais vulnerabilidades territoriais e a título excecional devidamente fundamentado e desde que esta faculdade seja prevista em aviso, considerar-se elegíveis entidades que não evidenciem o cumprimento dos critérios previstos nas alíneas b), c) e d) do n.º 1.
 
-###### Artigo 101.º — Revogação do financiamento
+Artigo 101.º
+
+Revogação do financiamento
 
 1 - [...]
 
@@ -212,4 +286,6 @@ ii) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 20 de novembro de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 20 de novembro de 2023.
+
+117083162

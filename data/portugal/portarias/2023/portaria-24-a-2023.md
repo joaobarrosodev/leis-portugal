@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 6/2023, 1º Suplemento, Série I de 2023-01-09
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00601/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24-a/2023/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-a-2023-205928629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 679fa848ff703b360908a5219c43542b189a13e422cdd920ea8dfc7a99744342
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b934a1b0b088db6f649776e5ab35050509ffe7876fc2a99b7521adf0aad6a04b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,6 +68,7 @@ subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
 - Coeficiente de Actualização
+- Incapacidade Permanente
 - Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensões
@@ -75,7 +76,6 @@ subjects:
 - Prestações Pecuniárias
 - Proteção Social
 - Segurança Social
-- Incapacidade Permanente
 relationships:
 - type: amended_by
   target: pt:dre:229857699:por
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/6/2022/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/6/2022/01/04/p/dre
+- type: cites
+  target: pt:dre:177088816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857699:por
+  label: Revogada, com efeitos a partir de 01.01.2024, pelo(a) Portaria n.º 423/2023 - Diário da República n.º 237/2023, Série
+    I de 2023-12-11, nos termos do seu art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-2023-229857699
+  date: '2023-12-11'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:04Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +145,6 @@ As pensões de acidentes de trabalho são atualizadas para o valor resultante da
 
 A presente portaria produz efeitos a partir de 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 16 de dezembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 16 de dezembro de 2022.
+
+116044831

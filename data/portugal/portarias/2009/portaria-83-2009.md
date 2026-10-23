@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/2009/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-2009-602733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f05821c12d38a7d5be642be8281ab600d83da45a9cc186145b54f7c43adc2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcb7c93c0769b4343606ca161866c584e979a39bd6a98c5a8dc2a6275fb9d73b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,30 @@ subjects:
 - Autonomia Financeira
 - Centro Hospitalar
 - Centro Hospitalar das Caldas da Raínha
-- Hospital Bernardino Lopes de Oliveira
-- Hospital de São Pedro Gonçalves Telmo-Peniche
-- Exoneração
-- Pessoal Dirigente
+- Centro Hospitalar do Oeste Norte
 - Comissão de Serviço
-- Gestão Financeira
 - Conselho de Administração
 - Criação de Serviços
-- Serviço Nacional de Saúde
+- Exoneração
 - Extinção de Serviços
-- Centro Hospitalar do Oeste Norte
+- Gestão Financeira
+- Hospital Bernardino Lopes de Oliveira
+- Hospital de São Pedro Gonçalves Telmo-Peniche
 - Mandato
+- Pessoal Dirigente
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:175996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175996:por
+  label: "Extinto o Centro Hospitalar do Oeste Norte sendo objeto de fusão no Centro Hospitalar do Oeste (CHO) que lhe sucede\
+    \ na totalidade das suas atribuições e competências e em todos os direitos e obrigações que subsistam na sua titularidade,\
+    \ pela PORT.276/2012.12.09.2012.MF, DR.IS [177] de 12.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-2012-175996
+  date: '2012-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2003/08/20/p/dre
   label: null
@@ -102,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654680:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:32Z'
   warnings: []
   errors: []
 ---
@@ -164,4 +191,4 @@ São extintos o Centro Hospitalar das Caldas da Rainha, o Hospital de Alcobaça 
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Janeiro de 2009.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Janeiro de 2009.

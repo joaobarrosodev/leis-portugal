@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/2010/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-2010-459922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e77f36b460c688d4d79bb09126d87a390c6400250ad7f8912f24d51fa0f8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 127ce3a974fc62741bf9f64ee8cd9995bb63faebbae3ce90bce6f2968a553aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Construção e do Imobiliário
 - Comissão de Índices e Fórmulas de Empreitadas
 - Comissão Técnica Especializada
+- Instituto da Construção e do Imobiliário
 - Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:278912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278912:por
+  label: "Alterado o art. 1º, renumeradas as respectivas alíneas e revogada a al. t) do mesmo artigo, pela PORT.87/2011.25.02.2011.MOPTC,\
+    \ DR.IS [40] de 25.02.2011, que a republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/87-2011-278912
+  date: '2011-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:520988:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:05Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +169,4 @@ u) Um representante do Gabinete de Estratégia e Planeamento do Ministério do T
 
 Os representantes das entidades mencionadas no artigo anterior iniciam funções no 1.º dia do mês seguinte ao da publicação do despacho de designação a que se refere o n.º 4 do artigo 8.º do [Decreto-Lei n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2007-520988), de 27 de Abril.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 29 de Dezembro de 2009.**
+O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 29 de Dezembro de 2009.

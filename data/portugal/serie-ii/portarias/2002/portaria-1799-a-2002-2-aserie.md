@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1067343:por
-title: Portaria n.º 1799-A/2002(2.ªsérie)
+title: Portaria n.º 1799-A/2002 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 280/2002, 1º Suplemento, Série II de 2002-12-04
   number: '280'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 19968-(2) a 19968-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/280000001/0000200002.pdf
 entry_into_force_dates: []
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1799-a-2002-1067343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:30:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8e226395c7fbcfae8c3ee80c7e10bbc562301f2fa7f1d14a24c1e8b37d2cb08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28c4e4cea0cd81ef9c072143752c24eadf42a51a82a8ac04defb99061ff379c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:30:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Auditoria Financeira
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto de Informática e Estatística da Solidariedade
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:30:16Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1799-A/2002(2.ªsérie)
+# Portaria n.º 1799-A/2002 (2.ª série)
 
 Portaria n.º 1799-A/2002 (2.ª série). - Considerando a necessidade de o Instituto de Gestão Financeira da Segurança Social proceder à aquisição de serviços de auditoria financeira às respectivas contas e às do Instituto de Solidariedade e Segurança Social, do Instituto de Informática e Estatística da Solidariedade e do Instituto de Gestão de Fundos de Capitalização da Segurança Social, com início no exercício económico que finda em 31 de Dezembro de 2002 e durante três anos consecutivos;
 

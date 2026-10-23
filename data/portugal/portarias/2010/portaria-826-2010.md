@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16900/0382203824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/826/2010/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/826-2010-343887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f365f4d00bfc6ab3dddc03ab7f899943348a78718056953fd974ed4d8ceeb8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 997be13736034b44fca785a1b182cd33e2992f1a9b858d4f9bd11fc009f8c56f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,14 @@ relationships:
   target: pt:dre:259250:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique sob a superintendência e tutela conjunta dos Ministros da Economia e do Emprego e da Solidariedade\
+    \ e Segurança Social, o Instituto de Gestão do Fundo Social Europeu, I.P, (IGFSE, I.P.), no âmbito do extinto Ministério\
+    \ do Trabalho e da Solidariedade Social, cujos Estatutos foram aprovados pela Port 636/2007 de 30-Mai, alterados pelo\
+    \ presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -110,16 +118,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/636/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/636/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259250:por
+  label: "Revogado a Port 636/2007, de 30-maio, na redação do presente diploma, pela PORT.86/2013.28.02.2013.MF, DR.IS [42]\
+    \ de 28.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2013-259250
+  date: '2013-02-28'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:40Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +204,9 @@ Os artigos 1.º, 2.º, 3.º e 4.º dos Estatutos do Instituto de Gestão do Fund
 
 6 - Os cargos de director de unidade e de coordenador de núcleo são equiparados, para efeitos remuneratórios, a cargos de direcção superior de 1.º e 2.º grau, respectivamente.
 
-###### Artigo 2.º — Unidades orgânicas
+Artigo 2.º
+
+Unidades orgânicas
 
 1 - Para a prossecução das suas atribuições, o IGFSE, I. P., estrutura-se em unidades, operacionais e de suporte, e em núcleos.
 
@@ -180,7 +228,9 @@ b) ...
 
 4 - Junto do conselho directivo funciona o Núcleo de Comunicação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em matérias intersectoriais ou sectoriais, podem ser criadas equipas de projecto para o desenvolvimento de acções organizadas tendo em vista a prossecução de objectivos específicos, as quais não podem, em cada momento, ultrapassar o limite máximo de cinco equipas.
 
@@ -188,7 +238,9 @@ b) ...
 
 3 - O estatuto remuneratório dos coordenadores de equipa de projecto corresponde à remuneração efectiva do trabalhador acrescida de 30 %, não podendo exceder a remuneração fixada para o cargo de coordenador de núcleo.
 
-###### Artigo 4.º — Unidade de Coordenação e Acompanhamento
+Artigo 4.º
+
+Unidade de Coordenação e Acompanhamento
 
 À Unidade de Coordenação e Acompanhamento compete:
 
@@ -234,4 +286,4 @@ As comissões de serviço em curso mantêm-se até ao final do respectivo prazo,
 
 A presente portaria produz efeitos a 1 de Janeiro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 11 de Agosto de 2010. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 18 de Agosto de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 11 de Agosto de 2010. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 18 de Agosto de 2010.

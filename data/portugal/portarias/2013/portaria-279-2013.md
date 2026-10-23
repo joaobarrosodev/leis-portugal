@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/279/2013/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfdde1cbee009439ba0136c2c9894e1f4674fc60446da7978e97ecf3d82ea0c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b1b69bd1f8c1f35442e2c38b9fa33de8798555e8c8adced393e62178fa497dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Financiamento
-- Instituição de Crédito
-- Código do Processo Civil
+- Agente de Execução
+- Base de Dados
 - Câmara dos Solicitadores
+- Cobrança de Dívidas
+- Código do Processo Civil
 - Definição de Competências
 - Depósito Bancário
-- Dívida
-- Ministério da Justiça
-- Pagamento
-- Base de Dados
-- Lista
 - Direção Geral da Política de Justiça
+- Dívida
+- Execução por Dívidas
+- Financiamento
+- Instituição de Crédito
+- Lista
+- Ministério da Justiça
 - Notificação
+- Pagamento
 - Página na Internet
 - Prazo
-- Cobrança de Dívidas
-- Execução por Dívidas
-- Remuneração
 - Processo de Execução
-- Agente de Execução
+- Remuneração
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:116433035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116433035:por
+  label: Alterado, a partir de 30.09.2018, o art. 5.º da Port. 313/2009 de 30-mar, na redação da presente portaria, pelo(a)
+    Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20 nos termos do seu art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2018-116433035
+  date: '2018-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2003/09/10/p/dre
   label: null
@@ -113,16 +119,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/313/2009/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/313/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511826:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:32Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +187,9 @@ e) [Revogada].
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -195,7 +211,9 @@ g) Garantir a comunicação, preferencialmente por via eletrónica, ao Gabinete 
 
 h) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Apresentado o pedido nos termos do artigo anterior, compete ao GRAL proceder à instrução do processo de reconhecimento, devendo a decisão ser proferida no prazo máximo de 30 dias.»
 
@@ -209,7 +227,9 @@ Apresentado o pedido nos termos do artigo anterior, compete ao GRAL proceder à 
 
 O procedimento de inclusão do executado na lista pública de execuções tem início com a notificação ou citação do mesmo, consoante já tenha sido ou não citado, previstas nos n.os 1 e 3, respetivamente, do artigo 750.º do Código de Processo Civil, e é concluído uma vez decorrido o prazo de reclamação da decisão de extinção da instância realizada nos termos do n.º 2 do mesmo artigo.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em simultâneo com a notificação ou citação, previstas nos n.os 1 e 3 do artigo 750.º do Código de Processo Civil, respetivamente, o executado é notificado pelo agente de execução de que, uma vez extinta a execução, dispõe do prazo de 10 dias para pagar a quantia em dívida ou para aderir a um plano de pagamento de dívida elaborado com o auxílio de uma entidade reconhecida pelo Ministério da Justiça, com a cominação de que a não observância de qualquer dos mencionados procedimentos implica a sua inclusão na lista pública de execuções.
 
@@ -217,7 +237,9 @@ O procedimento de inclusão do executado na lista pública de execuções tem in
 
 3 - O texto da notificação a que se refere a segunda parte do n.º 1 consta do anexo I à presente portaria, da qual faz parte integrante.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Com a notificação da extinção operada nos termos do n.º 2 do artigo 750.º do Código de Processo Civil, o executado é informado de que dispõe do prazo de 10 dias para reclamar da decisão de extinção, findo o qual, e caso não tenha pago a quantia em dívida ou aderido a um plano de pagamento elaborado com o auxílio de uma entidade reconhecida pelo Ministério da Justiça e comunicado eletronicamente ao agente de execução e ao Gabinete para a Resolução Alternativa de Litígios (GRAL), que integra a Direção-Geral da Política de Justiça, passa a estar incluído na lista pública de execuções.
 
@@ -227,7 +249,9 @@ O procedimento de inclusão do executado na lista pública de execuções tem in
 
 4 - O texto da notificação a que se refere o n.º 1 consta do anexo II à presente portaria, da qual faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A lista pública de execuções é uma lista eletrónica de dados, disponível na Internet através do endereço eletrónico de acesso público http://www.citius.mj.pt.
 
@@ -249,7 +273,9 @@ g) [...].
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -261,7 +287,9 @@ g) [...].
 
 5 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -275,7 +303,9 @@ b) Em suporte de papel por remessa pelo correio, envio através de telecópia ou
 
 4 - A alteração ou a retificação dos dados inscritos na lista pública de execuções pode ser requerida, igualmente, por mandatário através do sistema informático de suporte à atividade dos tribunais.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -295,11 +325,15 @@ São alterados os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 8.º, 9.º e 10.º da Po
 
 2 - As remunerações a que o número anterior se refere são despesas do processo da responsabilidade exclusiva do exequente, não integrando nem os honorários e despesas do agente de execução, nem as custas da execução, nem podendo ser reclamadas a título de custas de parte.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A Câmara dos Solicitadores, na qualidade de entidade gestora do sistema informático de suporte à atividade dos agentes de execução, centraliza a cobrança e a distribuição dos valores devidos nos termos do n.º 8 do artigo 749.º e do n.º 12 do artigo 780.º do Código de Processo Civil e da presente portaria.
 
-###### Artigo 3.º — Remuneração pelos serviços prestados na identificação do executado e dos seus bens
+Artigo 3.º
+
+Remuneração pelos serviços prestados na identificação do executado e dos seus bens
 
 1 - A remuneração devida pelos serviços prestados na identificação do executado e na identificação e localização dos seus bens às instituições públicas e privadas que prestem colaboração à execução nos termos do artigo 749.º do Código de Processo Civil, corresponde a metade de 1 unidade de conta processual (UC) pelo conjunto das pesquisas efetuadas.
 
@@ -317,7 +351,9 @@ b) A Câmara dos Solicitadores emite por via eletrónica o comprovativo legal do
 
 6 - O comprovativo legal é emitido em nome do exequente.
 
-###### Artigo 5.º — Remuneração pelos serviços prestados no âmbito da penhora de saldos bancários
+Artigo 5.º
+
+Remuneração pelos serviços prestados no âmbito da penhora de saldos bancários
 
 1 - A remuneração devida às instituições legalmente autorizadas a receber depósitos bancários que prestem colaboração à execução nos termos do artigo 780.º do Código de Processo Civil, corresponde a um quinto de UC quando sejam penhorados saldos de conta bancária existentes em nome do executado, sendo de um décimo de UC quando não haja conta bancária ou saldos em nome do executado ou quando, após bloqueio dos saldos, estes sejam desbloqueados.
 
@@ -327,7 +363,9 @@ b) A Câmara dos Solicitadores emite por via eletrónica o comprovativo legal do
 
 4 - O comprovativo legal do valor pago é emitido sempre em nome do exequente e remetido, pela Câmara dos Solicitadores, para a morada do exequente ou do seu mandatário, quando constituído, sendo que, neste último caso, este envio é feito, preferencialmente, através da plataforma de notificações eletrónica disponível no sistema informático de suporte à atividade dos tribunais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os valores cobrados pela Câmara dos Solicitadores ao abrigo do artigo 3.º são entregues a cada uma das entidades referidas no número seguinte no último dia útil do terceiro mês de cada trimestre.
 
@@ -343,7 +381,9 @@ d) [Revogada].
 
 3 - [...].
 
-###### Artigo 8.º — Pagamento pela penhora de saldos bancários
+Artigo 8.º
+
+Pagamento pela penhora de saldos bancários
 
 1 - Os valores cobrados pela Câmara dos Solicitadores em resultado da penhora dos saldos de conta bancária, nos termos do artigo 5.º, são entregues a cada uma das entidades referidas no número seguinte no último dia útil do terceiro mês de cada trimestre.
 
@@ -369,7 +409,9 @@ b) PF - penhoras efetuadas;
 
 c) TP - total de penhoras efetuadas no trimestre.
 
-###### Artigo 9.º — Pagamento pela informação de inexistência de conta ou saldo e pelo desbloqueio de saldos
+Artigo 9.º
+
+Pagamento pela informação de inexistência de conta ou saldo e pelo desbloqueio de saldos
 
 1- Os valores cobrados pela Câmara dos Solicitadores em resultado da informação de inexistência de conta ou saldo em nome do executado ou pelo desbloqueio de saldos de conta bancária, nos termos do artigo 5.º, são entregues a cada uma das entidades referidas no número seguinte no último dia útil do terceiro mês de cada trimestre.
 
@@ -395,7 +437,9 @@ b) ID - informações prestadas de inexistência de conta ou saldo em nome do ex
 
 c) TID - total, no trimestre, de informações prestadas de inexistência de conta ou saldo em nome do executado e de desbloqueios de saldos efetuados.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para efeitos de verificação e conferência dos valores entregues nos termos dos artigos anteriores, a Câmara dos Solicitadores assegura um acesso específico ao sistema informático de suporte à atividade dos agentes de execução a cada uma das entidades gestoras de bases de dados e a cada uma das instituições legalmente autorizadas a receber depósitos bancários que prestam colaboração à execução, a fim de poderem verificar os dados estatísticos das consultas, bloqueios, penhoras ou informações, atualizados semanalmente.
 
@@ -421,7 +465,7 @@ b) A alínea b) do n.º 1 do artigo 1.º, o artigo 4.º, o artigo 6.º, a alíne
 
 A presente portaria entra em vigor no dia 1 de setembro de 2013.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 20 de agosto de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 20 de agosto de 2013.
 
 ## ANEXO I — Texto da notificação do executado nos termos do n.º 1 do artigo 750.º do Código de Processo Civil
 

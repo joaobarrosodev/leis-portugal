@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/592/2010/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-2010-333870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a7740bafed5a92c9d213b15b24e4eb058dd3c455710f31cfbeef2de193ae0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b65eef693bf5c30406f4c9afffa55e3fdf5dec6cd3dc316cb84d8e0c6545bf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
+- Consumidor
+- Contrato de Adesão
+- Contrato de Prestação de Serviços
+- Direção Geral de Energia e Geologia
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Consumidor
-- Contrato de Prestação de Serviços
-- Contrato de Adesão
-- Especificação Técnica
-- Direção Geral de Energia e Geologia
-- Aparelho de Medição
 - Entidade Reguladora dos Serviços Energéticos
+- Especificação Técnica
 - Rede Nacional de Transporte de Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:239230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306472:por
+  label: "Alteradas as fórmulas previstas na subal. i) das als. a) e b) do nº1 do art. 5º do presente diploma, pela PORT.1308/2010.23.12.2010.MEID,\
+    \ DR.IS [247] de 23.12.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1308-2010-306472
+  date: '2010-12-23'
+- type: amended_by
+  target: pt:dre:280259:por
+  label: "Aditado o anexo I pela PORT.71/2011.10.02.2011.MEID, DR.IS [29] de 10.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-2011-280259
+  date: '2011-02-10'
+- type: amended_by
+  target: pt:dre:178525:por
+  label: "Aditados os art.s 4º-A e 4º-B, pela PORT.200/2012.02.07.2012.MEE, DR.IS [126] de 02.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-2012-178525
+  date: '2012-07-02'
+- type: amended_by
+  target: pt:dre:239230:por
+  label: "Alterado o art. 5º e aditado o art. 12º-A pela PORT.215-A/2013.01.07.2013.MEE, DR.IS [124-Supl] de 01.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-a-2013-239230
+  date: '2013-07-01'
+- type: amended_by
+  target: pt:dre:69866636:por
+  label: Alterado, com efeitos a 01.01.2015, o art 8.º pelo(a) Portaria n.º 221/2015 - Diário da República n.º 143/2015, Série
+    I de 2015-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2015-69866636
+  date: '2015-07-24'
+- type: amended_by
+  target: pt:dre:75530569:por
+  label: Alterado o art. 5.º, na redação das Ports 1308/2010, de 23-dez e 215-A/2013, de 01-jul pelo(a) Portaria n.º 268-A/2016
+    - Diário da República n.º 197/2016, 1º Suplemento, Série I de 2016-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-a-2016-75530569
+  date: '2016-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: cites
+  target: pt:dre:285142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:173595934:por
+  label: Revogada, a partir de 30.10.2021 e com efeitos a 01.11.2021, pelo(a) Portaria n.º 230-A/2021 - Diário da República
+    n.º 211/2021, 1º Suplemento, Série I de 2021-10-29 nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-a-2021-173595934
+  date: '2021-10-29'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:14Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +181,7 @@ A presente portaria aplica-se a todos os consumidores de electricidade em MAT, A
 
 1 - O serviço de interruptibilidade compreende diferentes tipos de redução de potência, estabelecidos de acordo com o tempo mínimo de pré-aviso de solicitação do serviço e com a duração máxima de cada período de redução, nos termos da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf)
 
 sendo que:
 
@@ -150,7 +197,7 @@ e) Cada ordem de redução de potência será contabilizada como um número inte
 
 2 - Para cada tipo de redução, os parâmetros referidos no número anterior tomam os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0288602891.pdf)
 
 sendo que:
 
@@ -480,4 +527,4 @@ O incumprimento do estabelecido no artigo anterior pode ter como efeito a cessa�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 23 de Julho de 2010.**
+O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 23 de Julho de 2010.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/271/2011/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2011-671040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f0af11a6f39082b5c0731b6c5655dc0c60e13ce3e4e9bcd783929b8119b44bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbd0e8b1caed44007211a89a400b6a05be5d6ecb560526fa727b66ed42397fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Financiamento
-- Direcção Regional de Agricultura e Pescas
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
-- IFAP
 - Aquicultura
-- Organização de Produtores
-- Programa Comunitário
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
+- IFAP
 - Intervenção Operacional Pescas
+- Organização de Produtores
+- Pesca
+- Programa Comunitário
+- Projeto de Investimento
+- Regulamento do Regime de Apoio às Acções Colectivas
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:502865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257662:por
+  label: "Alterados os art.s 5º e 13º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008,\
+    \ de 31-jul, pela PORT.60/2013.11.02.2013.MAMAOT, DR.IS [29] de 11.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-2013-257662
+  date: '2013-02-11'
+- type: amended_by
+  target: pt:dre:502865:por
+  label: "Alterados os arts. 5º e 13º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008,\
+    \ de 31-jul, na redação do presente diploma, pela PORT.315/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -100,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/719-c/2008/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/719-c/2008/07/31/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:35Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +206,9 @@ xii) ...
 
 xiii) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -214,7 +244,9 @@ xii) ...
 
 xiii) Funcionamento do promotor, incluindo as inerentes ao uso de embarcações e equipamentos, desde que imprescindíveis ao desenvolvimento das acções.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +256,9 @@ xiii) Funcionamento do promotor, incluindo as inerentes ao uso de embarcações 
 
 4 - O IFAP, após a recepção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e remeter um exemplar ao promotor.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +274,9 @@ xiii) Funcionamento do promotor, incluindo as inerentes ao uso de embarcações 
 
 7 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, quando aplicáveis, constituem obrigações do beneficiário:
 
@@ -272,4 +308,4 @@ g) [Anterior alínea g) do corpo do artigo.]
 
 2 - As alterações introduzidas pela presente portaria ao Regulamento do Regime de Apoio às Acções Colectivas, aprovado pela [Portaria n.º 719-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/719-c-2008-551192), de 31 de Julho, aplicam-se a todas as candidaturas que já tenham sido apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 20 de Setembro de 2011.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 20 de Setembro de 2011.

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1308247:por
-title: Portaria n.º 1150/2000(2.ªsérie)
+title: Portaria n.º 1150/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/181000000/1304613047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1150-2000-1308247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:06:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 047eeb11c7062f9c713e1951220eac2fdbd8ea10e6a5ac1bc7c9dd483ea988ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bd7f91a8a3bd9fa1217fdd40b0566aa5e179368367af1a4028100f434b64264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:06:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Remoção de Veículos
+- Taxa
+- TAXA de Prestação de Serviços
+- Tribunal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:579169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:169069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579169:por
+  label: "Revogada pela PORT.1424/2001.2001.12.13.MAI DR.IS-B [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1424-2001-579169
+  date: '2001-12-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:06:22Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1150/2000(2.ªsérie)
+# Portaria n.º 1150/2000 (2.ª série)
 
 Portaria n.º 1150/2000 (2.ª série). - O Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro, dispõe no n.º 6 do artigo 172.º que as taxas devidas pela remoção de veículos, bem como pelo depósito dos mesmos, são aprovadas por regulamento.
 

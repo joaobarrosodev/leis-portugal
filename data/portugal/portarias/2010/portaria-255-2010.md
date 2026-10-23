@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/255/2010/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-2010-613931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe9d8ca5c7d2a6b5073391d06197459c5c5ff2ec126cb8fd20e36b2001d92b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f4279265dba64cae4abfce7f3e82be428149e94d19d88a015f2847e778f5377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Correio Electrónico
-- Segurança no Trabalho
 - Formulário Eletrónico
 - Impresso
-- Publicitação
-- Ministério do Trabalho e Segurança Social
 - Ministério da Saúde
+- Ministério do Trabalho e Segurança Social
+- Publicitação
 - Saúde no Trabalho
+- Segurança no Trabalho
 - Vistoria
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:18Z'
   warnings: []
   errors: []
 ---
@@ -148,6 +152,6 @@ d) O pedido de vistoria urgente deve ser acompanhado de declaração sob comprom
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 6 de Abril de 2010. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 27 de Abril de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 6 de Abril de 2010. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 27 de Abril de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/08700/0159401596.pdf))](https://files.diariodarepublica.pt/1s/2010/05/08700/0159401596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08700/0159401596.pdf)

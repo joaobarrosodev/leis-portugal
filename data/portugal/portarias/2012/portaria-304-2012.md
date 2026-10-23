@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/304/2012/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-2012-175565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50159f1eaaa4ded691b1382304c115d4027628a45af6f1e9ecca03babdb5ed1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcbad419488456ea96fa56965402488c524f2e7dabdf29f76f3dbe1570ee99dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/555/2007/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/555/2007/04/30/p/dre
+- type: cites
+  target: pt:dre:553639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:27Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +128,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 21 de setembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 19 de setembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 21 de setembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 19 de setembro de 2012.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DO MAR E DA ATMOSFERA, I. P.
 
@@ -222,7 +230,9 @@ h) Promover serviços externos, contratos e parcerias e controlar a sua pontual 
 
 i) Apoiar, iniciativas empreendedoras no domínio das atribuições do IPMA, I. P.
 
-###### Artigo 7.º — Divisão de Recursos Humanos
+###### Artigo 7.º
+
+##### Divisão de Recursos Humanos
 
 Compete à Divisão de Recursos Humanos, abreviadamente designada por DRH, assegurar as ações relativas aos recursos humanos do IPMA, I. P.:
 
@@ -230,7 +240,9 @@ a) Assegurando os procedimentos relativos à gestão e administração de pessoa
 
 b) Exercendo as competências previstas na alínea anterior, quando aplicável, relativamente a bolseiros.
 
-###### Artigo 8.º — Divisão Financeira
+###### Artigo 8.º
+
+##### Divisão Financeira
 
 Compete à Divisão Financeira, abreviadamente designada por DF, assegurar todas as ações de natureza orçamental, financeira, contabilística e patrimonial do IPMA, I. P.:
 

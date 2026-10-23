@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2014/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2014-571046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b90953ebc271ec50f4d3f9b64be0d21f0093f3f10003fa342a468ba96b37fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6428c93b951acf10edb6489e08f76482e38ace51b1d26f9af2bd5c9ff633444e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA Submarina
-- Proteção dos Animais
 - Direcção Geral dos Recursos Naturais
-- Pesca
 - Gestão dos Recursos
-- Instituto Português do Mar e da Atmosfera
-- Licenciamento
-- Licença de Pesca
 - Instituto da Conservação da Natureza e das Florestas
+- Instituto Português do Mar e da Atmosfera
+- Licença de Pesca
+- Licenciamento
 - Parque Natural da Arrábida
 - Parque Natural do Litoral Norte
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
-- Proteção do Ambiente
+- Pesca
 - Pesca Desportiva
-- Zona de Proteção
+- Proteção do Ambiente
+- Proteção dos Animais
 - Reserva Natural das Berlengas
 - Taxa
 - ZONA de Pesca
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31998R0850
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:32Z'
   warnings: []
   errors: []
 ---
@@ -376,25 +376,25 @@ b) A Portaria n.º 143/2009, de 5 de fevereiro, alterada pela Portarias n.os 458
 
 c) A Portaria n.º 144/2009, de 5 de fevereiro, alterada pela Portaria n.º 458-A/2009, de 4 de maio.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 17 de dezembro de 2013. - A Secretária de Estado Adjunta e da Defesa Nacional, Berta Maria Correia de Almeida de Melo Cabral, em 12 de dezembro de 2013. - O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 12 de dezembro de 2013. - O Ministro da Economia, António de Magalhães Pires de Lima, em 24 de dezembro de 2013. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 10 de dezembro de 2013. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 26 de novembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 17 de dezembro de 2013. - A Secretária de Estado Adjunta e da Defesa Nacional, Berta Maria Correia de Almeida de Melo Cabral, em 12 de dezembro de 2013. - O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 12 de dezembro de 2013. - O Ministro da Economia, António de Magalhães Pires de Lima, em 24 de dezembro de 2013. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 10 de dezembro de 2013. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 26 de novembro de 2013.
 
 ## ANEXO I — Lista de espécies ou grupos de espécies de captura proibida para a pesca submarina e de retenção proibida para as outras modalidades
 
 (a que se refere o n.º 1 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
 
 ## ANEXO II — Lista dos troféus
 
 (a que se refere o artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
 
 ## ANEXO III — Método de corte da barbatana caudal
 
 (a que se refere o n.º 9 do artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
 
 ## ANEXO IV
 
@@ -402,4 +402,4 @@ Montantes das taxas a pagar pela licença de praticante de pesca lúdica válida
 
 (a que se refere o artigo 15.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01600/0047400479.pdf)

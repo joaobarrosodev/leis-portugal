@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6084-(4) a 6084-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25201/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1329-c/2010/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1329-c-2010-617133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b3b53de7bee8d82fc020ea67d466d5f6a0fdf91eaa55902ac8a37e6e14945b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e65f52ce91676fe1c81ce461fcd7798cc152bbb83f7a1ecbcab1e8ffd10cdefd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Estatuto
 - Instituto de Gestão Financeira da Segurança Social
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:190213:por
@@ -97,16 +97,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/639/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/639/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638538:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190213:por
+  label: "Revogada a Port 639/2007, de 30-maio, na redação da presente Portaria, pela PORT.417/2012.19.12.2012.MF, DR.IS [245]\
+    \ de 19.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-2012-190213
+  date: '2012-12-19'
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:31Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +171,9 @@ d) Secções de Processo - unidades de 3.º nível chefiadas por coordenadores d
 
 5 - ...
 
-###### Artigo 3.º — Áreas operacionais
+Artigo 3.º
+
+Áreas operacionais
 
 No âmbito das áreas operacionais, o IGFSS, I. P., compreende as seguintes unidades orgânicas:
 
@@ -163,7 +187,9 @@ d) ...
 
 e) Gabinete de Auditoria.
 
-###### Artigo 8.º — Áreas de suporte
+Artigo 8.º
+
+Áreas de suporte
 
 No âmbito das áreas de suporte, o IGFSS, I. P., compreende as seguintes unidades orgânicas:
 
@@ -199,7 +225,9 @@ d) Coordenador de núcleo e coordenador de secção de processo, cargos de direc
 
 4 - Os titulares dos cargos de direcção intermédia de 3.º e 4.º grau são recrutados, por procedimento concursal, de entre trabalhadores dotados de competência técnica e aptidão para o exercício de funções de direcção, coordenação e controlo, que reúnam quatro anos de experiência profissional adequada para o exercício das respectivas funções.
 
-###### Artigo 7.º-A — Gabinete de Auditoria
+Artigo 7.º-A
+
+Gabinete de Auditoria
 
 Ao Gabinete de Auditoria incumbe efectuar o acompanhamento da actividade dos organismos, instituições e serviços que integram o sistema de segurança social, nos domínios orçamental, económico e patrimonial, no âmbito do Sistema de Controlo Interno da Administração Financeira do Estado (SCIAFE), competindo-lhe:
 
@@ -219,4 +247,4 @@ As comissões de serviço em curso dos cargos dirigentes mantêm-se nos seus pre
 
 A presente portaria produz efeitos a 1 de Janeiro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2010. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 22 de Dezembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2010. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 22 de Dezembro de 2010.

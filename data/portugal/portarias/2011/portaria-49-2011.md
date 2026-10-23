@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/2011/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2011-280938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 161df6a0300ad08c3616898f624eedb03613563caa43d44f4e9080db6734f391
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbe1d2b2fe3f74f02541906411fc8192598bf929c61dba7de1cd4d52201e1773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Médico
 - Carreira Médica
 - Carreira Médica Hospitalar
+- Estágio de Formação
 - Formação Profissional
 - Internato Médico
+- Medicina
+- Médico
 - Programa de Formação
 - Qualificação Profissional
-- Estágio de Formação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/616/1996/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/616/1996/10/30/p/dre
+- type: cites
+  target: pt:dre:174568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:59Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +161,7 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 A aplicação e desenvolvimento do programa compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 14 de Janeiro de 2011.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 14 de Janeiro de 2011.
 
 ## ANEXO — Programa de formação do internato médico da área profissional de especialização de anestesiologia
 
@@ -529,7 +553,7 @@ b) Os vários períodos de estágio estão projectados para que, no seu final, o
 
 Números mínimos gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01800/0052300529.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01800/0052300529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01800/0052300529.pdf)
 
 5.2 - Números mínimos em anestesia para cirurgia pediátrica:
 

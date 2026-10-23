@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/967/2009/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/967-2009-488554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c48517346e100931f596d95442ad8640537170fdba6b2d09c0e758f66afc9f62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dd5c08bd3e98b1300e3f86cd3ed196ca2b4cb37986b337cf109021b3d679e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,12 +72,12 @@ subjects:
 - Direcção Geral dos Recursos Humanos da Educação
 - Educador de Infância
 - EEE
-- União Europeia
+- Ensino Básico
 - Ensino Secundário
 - Livre Circulação de Pessoas
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
+- União Europeia
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -94,13 +94,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:20Z'
   warnings: []
   errors: []
 ---
@@ -217,4 +217,4 @@ f) Certificado de domínio da língua portuguesa emitido pelo Centro de Avaliaç
 
 Em tudo o que não estiver regulamentado na presente portaria aplica-se o disposto na Lei n.º 9/2009, de 4 de Março.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 17 de Agosto de 2009.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 17 de Agosto de 2009.

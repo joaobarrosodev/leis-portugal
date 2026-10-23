@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 182/2010, 1º Suplemento, Série I de 2010-09-17
   number: '182'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4122-(2) a 4122-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18201/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/924-a/2010/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-a-2010-514179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99156005db9a5a4798fe96c926c0d6ce2b33abe105924e1d5062ed0d2b658a15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1268693c33e8adabf9de7be9be8b63986729373b455b0bd589ecb55d2b9eb437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Indústria Farmacêutica
 - Comparticipação do Estado
+- Indústria Farmacêutica
 - Medicamento
 - Segurança Social
 relationships:
@@ -76,6 +76,46 @@ relationships:
   target: pt:dre:67644327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413211:por
+  label: "Alterado o art. 3.º [Mantido em vigor até 31 de Outubro de 2011 a inclusão das associações de antiasmáticos e ou\
+    \ de broncodilatadores (5.1) no escalão B, decorrente da Portaria n.º 1263/2009, de 15 de Outubro] e o art. 5.º [alterada\
+    \ a entrada em vigor para 15.10.2010] e aditados os subgrupos 10.1, 10.1.1, ao anexo do presente diploma, pela PORT.994-A/2010.29.09.2010.MS,\
+    \ DR.IS [190-Supl] de 29.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/994-a-2010-413211
+  date: '2010-09-29'
+- type: amended_by
+  target: pt:dre:359731:por
+  label: "Aditado um subgrupo 10.1.2 — anti-histamínicos H 1 não sedativos ao escalão C de comparticipação, do grupo 10 —\
+    \ medicação antialérgica, pela PORT.1056-B/2010.14.10.2010.MS, DR.IS [200-2ºSupl] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1056-b-2010-359731
+  date: '2010-10-14'
+- type: amended_by
+  target: pt:dre:181980:por
+  label: "Mantida em vigor até 01.12.2011. a inclusão das associações de antiasmáticos e ou de broncodilatadores (5.1) no\
+    \ escalão B decorrente do art. 3.º, pela PORT.289-A/2011.03.11.2011.MS, DR.IS [211-Supl] de 03.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/289-a-2011-181980
+  date: '2011-11-03'
+- type: amended_by
+  target: pt:dre:146223:por
+  label: "Mantida a inclusão das associações de antiasmáticos e ou broncodilatadores (5.1) no escalão B, pela PORT.300/2011.30.11.2011.MS,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-2011-146223
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:572627:por
+  label: Alterado o anexo ao presente diploma, na redação das Ports. 994-A/2010, de 29-set, 1056-B/2010, de 14-out, e 300/2011,
+    de 30-nov , pela PORT.45/2014.21.02.2014.MS, DR.IS [37] de 21.02.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2014-572627
+  date: '2014-02-21'
+- type: amended_by
+  target: pt:dre:25344746:por
+  label: Alterado, a partir de 01.05.2014, o anexo do presente diploma, na redação da Port. 994-A/2010, de 29-set, da Port.
+    1056-B/2010, de 14-out, Port. 300/2011, de 30-nov e da Port. 45/2014, de 21 de fev, pela PORT.78/2014.03.04.2014.MS, DR.IS
+    [66] de 03.04.2014, não sendo aplicável à presente alteração o regime de escoamento previsto no Desp 1/88, de 03 de junho
+    de 1988, nos termos do disposto no art. 2.º daquela portaria, que o republicou o referido anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2014-25344746
+  date: '2014-04-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/48-a/2010/05/13/p/dre
   label: null
@@ -88,16 +128,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/393/2005/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/393/2005/04/05/p/dre
+- type: cites
+  target: pt:dre:219569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67644327:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma, com a redação dada pelas Port 994-A/2010 de 29-set, 1056-B/2010
+    de 14-out, 300/2011 de 30-nov, 45/2014 de 21-fev e 78/2014 de 03-abr, pelo(a) Portaria n.º 195-D/2015 - Diário da República
+    n.º 125/2015, 1º Suplemento, Série I de 2015-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-d-2015-67644327
+  date: '2015-06-30'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:14Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +207,7 @@ Mantém-se em vigor a inclusão das associações de antiasmáticos e ou de bron
 
 Este diploma entra em vigor no dia 1 de Outubro de 2010.
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 16 de Setembro de 2010.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 16 de Setembro de 2010.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

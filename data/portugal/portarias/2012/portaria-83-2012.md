@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/2012/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-2012-553905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d484f26bd49bf0b67249c04b20885bc4009cd0245c0e4cec229dbc74eab3e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33b677abe864b73741c4549695d33fd21b5c401cc429242a8d1167460850bcc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Lisboa
-- Secretaria Geral
-- Tribunal de Comarca
-- Quadro de Pessoal
 - Ministério Público
+- Quadro de Pessoal
 - Santarém
+- Secretaria Geral
 - Secretaria Judicial
 - Tribunal da Concorrência Regulação e Supervisão
 - Tribunal da Propriedade Intelectual
+- Tribunal de Comarca
 - Tribunal de Comércio
 - Tribunal Judicial
 relationships:
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/821/2005/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/821/2005/09/14/p/dre
+- type: cites
+  target: pt:dre:143337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553633:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:26Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +172,7 @@ Categorias:
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -202,7 +218,7 @@ Categorias:
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 

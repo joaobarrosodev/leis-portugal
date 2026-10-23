@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4404-(9) a 4404-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-c/2010/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f93f38d71bec1ca72797573a386de5d2f2ef7648dffcd0eb1450bdf996c73da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 020cde4aa43e78eb16596c413a28e95a2a43d23f018692eae18a10e87b286b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,49 @@ reuse:
 subjects:
 - Acreditação
 - Certificado de Conformidade
+- Confidencialidade
 - Contrato
 - Controlo Técnico
 - Definição de Competências
 - Dispositivo de Detecção e Identificação Electrónica
 - Dispositivo Electrónico de Matrícula
+- Equipamento de Veículo
 - Equipamento Eletrónico
 - Especificação Técnica
-- Pagamento
-- Segurança da Informação
 - Isenção de Portagem
-- Veículo
 - Locação Financeira
-- Equipamento de Veículo
+- Pagamento
 - Portagem
-- Sistema de Informação
 - Preço
-- Confidencialidade
+- Segurança da Informação
+- SIEV
+- Sistema de Informação
 - Taxa
 - TAXA de Prestação de Serviços
-- SIEV
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115552673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555262:por
+  label: "Alterados os arts. 17º, 18º, 21º e 22º da Port 314-B/2010, de 14-Jun, na redacção do presente diploma e que a republica,\
+    \ pela PORT.1296-A/2010.20.12.2010.MOPTC, DR.IS [244 - Supl] de 20.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1296-a-2010-555262
+  date: '2010-12-20'
+- type: amended_by
+  target: pt:dre:319371:por
+  label: "Alterados os art.s 18º e 21º e renumerado o antigo art. 18º-A - que passa a art. 18º-B - da Port 314-B/2010, de\
+    \ 14-Jun, na redacção da presente portaria, pela PORT.135-A/2011.04.04.2011.MOPTC, DR.IS [66-Supl] de 04.04.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-a-2011-319371
+  date: '2011-04-04'
+- type: amended_by
+  target: pt:dre:192439:por
+  label: "Alterados os arts. 1º, 16º, 18º e 21º da Port.314-B/2010, de 14-jun, na redação do presente diploma, pela PORT.343/2012.26.10.2012.MEE,\
+    \ DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-2012-192439
+  date: '2012-10-26'
 - type: cites
   target: celex:31999L0005
   label: null
@@ -110,15 +128,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/314-b/2010/06/14/p/dre
 article_structure:
-  article_count: 72
+  article_count: 43
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:44Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +191,9 @@ d) As condições de acreditação e de certificação de entidades e de tecnolo
 
 6 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Incumbe à SIEV, S. A., enquanto entidade responsável pela gestão e pela exploração do sistema de identificação electrónica de veículos para pagamento de portagens, realizar:
 
@@ -191,7 +211,9 @@ e)...
 
 3 - A SIEV, S. A., publica no seu sítio da Internet a lista actualizada dos utilizadores do sistema de identificação electrónica de veículos para pagamento de portagens, identificados na alínea b) do n.º 1.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A SIEV, S. A., deve emitir e manter actualizados os regulamentos administrativos técnicos e de segurança indispensáveis ao bom funcionamento do sistema de identificação electrónica de veículos para pagamento de portagens com vista ao cumprimento do disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 111/2009, de 18 de Maio, e na alínea d) do artigo 5.º dos respectivos Estatutos, aprovados pelo referido diploma legal.
 
@@ -199,7 +221,9 @@ e)...
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A tecnologia de comunicação a utilizar nos DE e nos DDIE é a tecnologia microndas a 5,8 GHz, especificamente a DSRC (Dedicated Short Range Communications), nos termos do disposto na alínea c) do n.º 1 do artigo 3.º da Lei n.º 30/2007, de 6 de Agosto, que procedeu à transposição para a ordem jurídica interna da Directiva n.º [2004/52/CE](https://data.europa.eu/eli/dir/2004/52/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à interoperabilidade dos sistemas electrónicos de portagem rodoviária na Comunidade, tendo em vista a implementação do Serviço Electrónico Europeu de Portagem.
 
@@ -209,7 +233,9 @@ e)...
 
 4 - ...
 
-###### Artigo 5.º — Normas e especificações dos DE e da interface com os DDIE
+Artigo 5.º
+
+Normas e especificações dos DE e da interface com os DDIE
 
 1 - Os DE e os DDIE que suportam o formato MDR devem ser configurados de forma a garantir uma plataforma técnica uniforme para a interoperabilidade no âmbito do Serviço Electrónico Europeu de Portagens, devendo para este efeito ser assegurada a actualização das normas e das especificações dos DE e dos DDIE, nos termos do artigo 3.º
 
@@ -221,7 +247,9 @@ e)...
 
 5 - (Revogado.)
 
-###### Artigo 6.º — Normas de instalação dos DE
+Artigo 6.º
+
+Normas de instalação dos DE
 
 1 - A instalação dos DE nos veículos é efectuada pelos seus proprietários.
 
@@ -239,11 +267,15 @@ b) ...
 
 6 - A remoção do DE do local onde o mesmo se encontra fixado ou a sua abertura implica a activação de um alarme de remoção que é emitido à passagem sob qualquer DDIE até que o DE seja submetido a manutenção por entidade autorizada para o efeito.
 
-###### Artigo 7.º — Requisitos essenciais, compatibilidade electromagnética, avaliação de conformidade e marcação
+Artigo 7.º
+
+Requisitos essenciais, compatibilidade electromagnética, avaliação de conformidade e marcação
 
 Os DE e os DDIE devem cumprir o disposto no Decreto-Lei n.º 192/2000, de 18 de Agosto, que procedeu à transposição para a ordem jurídica interna da Directiva n.º [1999/5/CE](https://data.europa.eu/eli/dir/1999/5/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de Março, que aprovou o regime de livre circulação, colocação no mercado e colocação em serviço no território nacional dos equipamentos de rádio e equipamentos terminais de telecomunicações, bem como o regime da respectiva avaliação de conformidade e marcação, e no Decreto-Lei n.º 325/2007, de 28 de Setembro, alterado pelo Decreto-Lei n.º 20/2009, de 19 de Janeiro, que procedeu à transposição para a ordem jurídica interna da Directiva n.º [2004/108/CE](https://data.europa.eu/eli/dir/2004/108/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de Dezembro, relativa à aproximação das legislações dos Estados membros respeitantes à compatibilidade electromagnética dos equipamentos.
 
-###### Artigo 8.º — Aprovação dos DE e do DDIE
+Artigo 8.º
+
+Aprovação dos DE e do DDIE
 
 1 - Os modelos de dispositivos utilizados como DE e os modelos de dispositivos e sistemas utilizados como DDIE são aprovados previamente pela SIEV, S. A.
 
@@ -275,7 +307,9 @@ d) ...
 
 8 - (Revogado.)
 
-###### Artigo 9.º — Distribuição dos DE
+Artigo 9.º
+
+Distribuição dos DE
 
 1 - Os DE só podem ser distribuídos por entidades devidamente autorizadas pela SIEV, S. A.
 
@@ -295,7 +329,9 @@ d) ...
 
 9 - (Revogado.)
 
-###### Artigo 10.º — Manutenção dos DE
+Artigo 10.º
+
+Manutenção dos DE
 
 1 - A manutenção dos DE só pode ser realizada por entidades reparadoras devidamente autorizadas pela SIEV, S. A.
 
@@ -307,7 +343,9 @@ b) A substituição da bateria dos DE;
 
 c) A personalização dos DE, nos termos do artigo seguinte.
 
-###### Artigo 11.º — Personalização dos DE
+Artigo 11.º
+
+Personalização dos DE
 
 1 - São obrigatoriamente inscritos nos DE o respectivo código de identificação e a classe do veículo.
 
@@ -321,7 +359,9 @@ c) No âmbito da utilização voluntária das funcionalidades dos DE para a cobr
 
 3 - ...
 
-###### Artigo 13.º — Cancelamento dos DE
+Artigo 13.º
+
+Cancelamento dos DE
 
 1 - Nos casos de avaria definitiva, por causas naturais ou acidentais, ou de perda, furto ou roubo do DE, o proprietário deve proceder ao cancelamento do mesmo junto da ECP respectiva.
 
@@ -337,7 +377,9 @@ b) No caso de um DECP, a anulação do bloqueio da matrícula do veículo.
 
 5 - O cancelamento do DE não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A adesão aos sistemas de pagamento de portagens associados a um DE só pode ser efectuada junto das ECP devidamente autorizadas pela SIEV, S. A.
 
@@ -351,7 +393,9 @@ b) No caso de um DECP, a anulação do bloqueio da matrícula do veículo.
 
 6 - A alteração da ECP, nos termos previstos no número anterior, não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo a que o DE está associado.
 
-###### Artigo 15.º — Transmissão da propriedade do veículo
+Artigo 15.º
+
+Transmissão da propriedade do veículo
 
 1 - O transmitente da propriedade do veículo deve informar a ECP à qual o seu DE esteja associado da celebração do contrato de compra e venda do veículo e proceder ao cancelamento do DE, nos termos do artigo 13.º, sem prejuízo do disposto nos n.os 2 e 3.
 
@@ -363,7 +407,9 @@ b) No caso de um DECP, a anulação do bloqueio da matrícula do veículo.
 
 5 - A transmissão da propriedade de um veículo matriculado não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do transmitente do mesmo em momento anterior à data do contrato de compra e venda, relativamente ao DE associado ao veículo vendido.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A cobrança electrónica de portagens e de outros serviços de adesão voluntária, através do DE, é efectuada, obrigatoriamente, com recurso aos seguintes sistemas de pagamento:
 
@@ -381,7 +427,9 @@ c) Sistema de pré-pagamento anónimo, através do qual o proprietário do veíc
 
 5 - Os proprietários dos veículos que adiram ao sistema de pagamento previsto na alínea c) do n.º 1 e que pretendam circular em infra-estruturas rodoviárias que disponham de via de pagamento manual têm de utilizar esta via.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Nas infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens, os proprietários dos veículos podem, ainda, proceder ao pagamento das portagens em regime de pós-pagamento, realizado em dinheiro ou meio equivalente junto de uma ECP autorizada para o efeito, nos cinco dias úteis posteriores à passagem num local de detecção de veículos para efeitos de cobrança electrónica.
 
@@ -401,7 +449,9 @@ c) Sistema de pré-pagamento anónimo, através do qual o proprietário do veíc
 
 9 - A imagem da matrícula deve ser destruída após a realização do pagamento por parte do utente e logo que decorrido o prazo legal para o utente apresentar eventual reclamação relativamente a esse pagamento.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os condutores dos veículos com matrícula estrangeira que circulem em território nacional e transitem em infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens, e que não disponham já de um DECP nos termos do disposto no n.º 11, devem instalar um DT.
 
@@ -425,13 +475,17 @@ c) Sistema de pré-pagamento anónimo, através do qual o proprietário do veíc
 
 11 - Caso o condutor do veículo com matrícula estrangeira adquira um DECP, aderindo a um dos sistemas de pagamento previstos nas alíneas a) e b) do n.º 1 do artigo 16.º, não se aplica o disposto no n.º 1 do artigo 9.º-C, quanto ao bloqueio da matrícula.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As normas técnicas adoptadas ao abrigo da presente portaria incorporam mecanismos que garantem a confidencialidade, a autenticidade e a inviolabilidade dos dados, os quais apenas podem ser acedidos por entidades do sistema de identificação electrónica de veículos para pagamento de portagens, de acordo com as respectivas autorizações de acesso.
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Para efeitos do disposto no n.º 4 do artigo 5.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, são devidos custos administrativos, designadamente por franquias postais, por comunicações telefónicas, por telecópia ou por transmissão electrónica, pela análise de requerimentos e por traduções, impressões ou digitalizações, sendo os mesmos fixados nos seguintes termos:
 
@@ -449,7 +503,9 @@ b) ...
 
 6 - Ao valor monetário dos custos administrativos referidos nos números anteriores acresce o imposto sobre o valor acrescentado à taxa legal em vigor.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +539,9 @@ h) (Revogada.)
 
 4 - ...
 
-###### Artigo 24.º — Cobrança de portagens com base na matrícula
+Artigo 24.º
+
+Cobrança de portagens com base na matrícula
 
 1 - Sempre que não seja possível proceder à entrega do DE ao proprietário do veículo que o solicite, este pode circular em infra-estruturas rodoviárias onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, desde que contrate com uma ECP um dos sistemas de pagamento previstos no artigo 16.º, com as devidas adaptações, tendo por referência provisória o número da matrícula, consentindo, neste caso, que, nos termos do disposto nos n.os 7 e 8 do artigo 17.º, as concessionárias e subconcessionárias procedam à cobrança de portagens com base no registo de imagem da matrícula do veículo em causa, relativamente a cada uma das passagens pelos pórticos de portagem.
 
@@ -493,13 +551,17 @@ h) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 25.º — Equiparação
+Artigo 25.º
+
+Equiparação
 
 1 - Para efeitos da presente portaria, o locatário em regime de locação financeira e em regime de aluguer operacional de veículos, o adquirente com reserva de propriedade, bem como o usufrutuário, são equiparados ao proprietário do veículo.
 
 2 - Consideram-se, ainda, para efeitos da presente portaria, equiparados às concessionárias os operadores de sistemas de cobrança de portagens, no caso de cedência da posição contratual daquelas.
 
-###### Artigo 26.º — Conversão em DEM
+Artigo 26.º
+
+Conversão em DEM
 
 1 - Os proprietários dos veículos que tenham instalado um dispositivo associado ao sistema Via Verde podem optar pela conversão do seu dispositivo em DEM, solicitando a associação entre o código de identificação do dispositivo e a matrícula do veículo.
 
@@ -511,7 +573,9 @@ h) (Revogada.)
 
 5 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A aprovação dos modelos e sistemas de DDIE já instalados à data da entrada em vigor da presente portaria decorre, excepcionalmente, no prazo de seis meses após aquela data.
 
@@ -525,7 +589,9 @@ h) (Revogada.)
 
 6 - (Revogado.)
 
-###### Artigo 28.º — Entrada em vigor
+Artigo 28.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.»
 
@@ -537,7 +603,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.»
 
 Tarifas da SIEV, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
 
 ###### Artigo 4.º — Aditamento à Portaria n.º 314-B/2010, de 14 de Junho
 
@@ -561,7 +627,9 @@ c) O dispositivo temporário (DT).
 
 4 - Um DE só pode ser utilizado num veículo para o qual tenha sido contratado.
 
-###### Artigo 9.º-B — Dispositivo electrónico de matrícula
+Artigo 9.º-B
+
+Dispositivo electrónico de matrícula
 
 1 - No caso de o proprietário do veículo optar por um DEM, nos termos da alínea a) do n.º 1 do artigo anterior, o distribuidor retalhista autorizado deve registar, por via electrónica, junto do IMTT, I. P., na base de dados de DEM, a associação entre o código de identificação do dispositivo e a matrícula do veículo, entregando o comprovativo da associação ao requerente.
 
@@ -571,7 +639,9 @@ c) O dispositivo temporário (DT).
 
 4 - A reversão do procedimento referido no n.º 1, designada por anulação da associação entre o código de identificação do dispositivo e a matrícula do veículo, ocorre quando o DEM é cancelado ou quando o DEM é convertido em DECP.
 
-###### Artigo 9.º-C — Dispositivo electrónico de uma ECP
+Artigo 9.º-C
+
+Dispositivo electrónico de uma ECP
 
 1 - No caso de o proprietário do veículo optar por um DECP, nos termos da alínea b) do n.º 1 e dos n.os 2 e 3 do artigo 9.º-A, o distribuidor retalhista autorizado, para além de obter os dados necessários à celebração do contrato comercial respectivo, incluindo a matrícula, deve registar, por via electrónica, junto do IMTT, I. P., o bloqueio da respectiva matrícula para efeitos de futuras associações, por já ter um DECP atribuído, bem como a identificação da ECP com a qual esse dispositivo foi contratado, e em informação autónoma não relacionada com matrícula, o código de identificação do DECP atribuído.
 
@@ -587,7 +657,9 @@ c) O dispositivo temporário (DT).
 
 7 - A transferência de um DECP entre veículos não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
 
-###### Artigo 9.º-D — Conversão do DEM e do DECP
+Artigo 9.º-D
+
+Conversão do DEM e do DECP
 
 1 - O DECP pode ser convertido em DEM, a pedido do proprietário.
 
@@ -601,7 +673,9 @@ c) O dispositivo temporário (DT).
 
 6 - A conversão não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
 
-###### Artigo 9.º-E — Dispositivo temporário
+Artigo 9.º-E
+
+Dispositivo temporário
 
 1 - No caso de o proprietário do veículo optar por um DT, nos termos da alínea c) do n.º 1 do artigo 9.º-A, não se verifica a associação do código de identificação do dispositivo à matrícula do veículo, prevista no n.º 1 do artigo 9.º-B, nem a comunicação do bloqueio da matrícula a futuras associações, prevista no n.º 1 do artigo 9.º-C, tratando-se de uma utilização anónima.
 
@@ -621,7 +695,9 @@ c) O dispositivo temporário (DT).
 
 9 - A utilização do DT pelos veículos de matrícula estrangeira ocorre nos termos do artigo 18.º
 
-###### Artigo 18.º-A — Descontos e isenções de taxas de portagem
+Artigo 18.º-A
+
+Descontos e isenções de taxas de portagem
 
 Quaisquer descontos e isenções de taxas de portagem legalmente previstos, cujo benefício implique a utilização de um dispositivo electrónico, só podem ser obtidos através da utilização de um dispositivo electrónico associado à matrícula.»
 
@@ -653,7 +729,7 @@ São revogados o n.º 5 do artigo 5.º, o n.º 8 do artigo 8.º, os n.os 4, 5, 6
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 27 de Setembro de 2010.**
+O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 27 de Setembro de 2010.
 
 ## ANEXO — Republicação da Portaria n.º 314-B/2010, de 14 de Junho
 
@@ -1229,7 +1305,7 @@ Choque permanente - IEC 68-2-29 test Eb, impulso semi-sinusoidal 10 g/16 ms, 100
 
 Diagramas da instalação do DEM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
 
 Devem ser sempre respeitadas as seguintes regras:
 
@@ -1239,14 +1315,14 @@ Vista superior - deve estar livre de qualquer obstáculo (exceptuando vidro ou e
 
 Automóveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
 
 Motociclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
 
 ## ANEXO III — (a que se refere o artigo 22.º)
 
 Tarifas da SIEV, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19401/0000900027.pdf)

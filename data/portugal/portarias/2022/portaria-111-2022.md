@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05000/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/2022/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2022-180310523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d359844d82d44af3bf8d8fba45aa61ec758095a29aceb5f0943606fdc379c9f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64c19d63fd3ecb2b69e68e57d96241faefc0bb051963b08c5cb1f62ef92bac1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Expropriação
-- Transmissão da Propriedade
 - Moura
 - Prédio Rústico
 - Reforma Agrária
+- Transmissão da Propriedade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/349/1991/09/19/p/dre
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92/2015/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92/2015/08/12/p/dre
+- type: cites
+  target: pt:dre:301654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992904:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:54Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +144,6 @@ Manda o Governo, pelo Primeiro-Ministro e pela Ministra da Agricultura, ao abrig
 
 A presente portaria produz efeitos a partir da data da sua assinatura.
 
-**O Primeiro-Ministro, António Luís Santos da Costa, em 9 de março de 2022. - A Ministra da Agricultura, Maria do Céu de Oliveira Antunes, em 4 de março de 2022.**
+O Primeiro-Ministro, António Luís Santos da Costa, em 9 de março de 2022. - A Ministra da Agricultura, Maria do Céu de Oliveira Antunes, em 4 de março de 2022.
+
+115101156

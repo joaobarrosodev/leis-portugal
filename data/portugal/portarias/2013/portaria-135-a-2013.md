@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 62/2013, 1º Suplemento, Série I de 2013-03-28
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1914-(2) a 1914-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06201/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135-a/2013/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2013-276436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a564389bbb3e045eb8d837b8693073e2a141dc7f056fe1a1a0aa47a6c7cc771
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02923a2a7bb5a025d7ec55e0c37fb7968dfd6eeb6592d2219df063cd3b5ddee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,32 @@ reuse:
 subjects:
 - Acreditação
 - Agência Nacional para a Qualificação e o Ensino Profissional
+- Centro Novas Oportunidades
 - Centro para a Qualificação e o Ensino Profissional
-- Formação Profissional
 - Certificação Profissional
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
 - Diploma
-- Ensino Profissional
-- Extinção de Serviços
-- Formação Regulamentada
-- Jovem
-- Horário de Funcionamento
-- Centro Novas Oportunidades
 - Educação dos Adultos
-- SIGO
+- Ensino Profissional
+- Estabelecimento de Ensino
+- Extinção de Serviços
+- Formação Profissional
+- Formação Regulamentada
+- Horário de Funcionamento
+- Jovem
 - Licenciamento
 - Orgânica
 - Orientação Escolar
 - Parceria Público-Privada
-- Pessoal Técnico
-- Proteção ao Deficiente
-- Estabelecimento de Ensino
 - Pessoal Docente
+- Pessoal Técnico
 - Profissão Regulamentada
+- Proteção ao Deficiente
 - Qualificação Profissional
 - Regime Jurídico
+- SIGO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
@@ -107,16 +107,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75216372:por
+  label: Revogada, a partir de 30.08.2016, pelo(a) Portaria n.º 232/2016 - Diário da República n.º 165/2016, Série I de 2016-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2016-75216372
+  date: '2016-08-29'
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:44Z'
   warnings: []
   errors: []
 ---

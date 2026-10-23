@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 129/2013, 1º Suplemento, Série I de 2013-07-08
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3942-(2) a 3942-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12901/0000200007.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/221-a/2013/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-a-2013-410281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73dd7a1e2dacdeef1e0483eb7e513a436279fd9c2ad1540360a1859cdc903d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ea0485ad9340bd617055b8e12ec84196041c64b08dfc0ae3806caecea8379a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ reuse:
 subjects:
 - Acesso à Informação
 - Administração Central
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
+- Caixa Geral de Aposentações
 - Carreira Geral de Assistente Operacional
 - Carreira Geral de Assistente Técnico
 - Definição de Competências
 - Direcção Geral da Administração e do Emprego Público
-- Administração Pública
-- Caixa Geral de Aposentações
+- Documento Eletrónico
+- Gestão de Recursos Humanos
 - Gestão dos Recursos
 - Indemnização
-- Documento Eletrónico
 - Prazo
+- Regime do Contrato de Trabalho em Funções Públicas
 - Secretário de Estado da Administração Pública
-- Gestão de Recursos Humanos
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
@@ -125,16 +125,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:189361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654499:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:14Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +383,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 6 de junho de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes. - O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro. - Pelo Ministro da Economia e do Emprego, Sérgio Paulo Lopes da Silva Monteiro, Secretário de Estado das Obras Públicas, Transportes e Comunicações. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes. - O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro. - Pelo Ministro da Economia e do Emprego, Sérgio Paulo Lopes da Silva Monteiro, Secretário de Estado das Obras Públicas, Transportes e Comunicações. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
 
 ## ANEXO — Carreiras e categorias subsistentes a que se refere a al. c) do n.º 1 do artigo 2.º
 

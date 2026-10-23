@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14600/0001900030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2022/07/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c15fdd71d45ca5bb8e1153d502c1b236475513c5805ce0b2ca51ce132ece1f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c40c1af96a171bd8ef54e6e9600432fbcffe056fc4cfb0fa94bba7bde8ec3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caminho Agrícola
-- Estrada
-- Estatuto
-- Rede de Estradas
-- Estrada Regional
 - Classificação de Estradas
+- Estatuto
+- Estrada
+- Estrada Regional
 - Madeira.região Autónoma
+- Rede de Estradas
 - Regime Jurídico
 relationships:
 - type: cites
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:108155300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73865514:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 43
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:34Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +185,9 @@ b) [...]
 
 c) Estradas regionais agrícolas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -181,7 +211,9 @@ Estradas regionais agrícolas
 
 As estradas regionais agrícolas são as vias, de interesse regional, destinadas a estabelecer o acesso a explorações agrícolas, a partir de vias das redes regional, municipal ou florestal, tendo como função principal a entrada dos fatores de produção e o escoamento dos produtos.
 
-###### Artigo 12.º-A — Estradas municipais florestais
+Artigo 12.º-A
+
+Estradas municipais florestais
 
 1 - As estradas municipais florestais são as vias que, revestindo-se de interesse geral para um município, estabelecem o acesso, a partir dos aglomerados populacionais ou de vias integradas noutras redes, aos perímetros florestais submetidos ao regime florestal, áreas florestais sob gestão pública e explorações florestais, que ligam estes entre si ou que se desenvolvem no seu interior, com a função de permitirem a exploração e proteção dos recursos florestais e o aproveitamento de outros recursos naturais associados à floresta.
 
@@ -197,11 +229,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e retro
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 25 de julho de 2022.**
+Assinado em 25 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -496,3 +528,5 @@ Os artigos 4.º a 7.º, assim como os anexos do [Decreto Legislativo Regional n.
 ###### Artigo 36.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+115553445

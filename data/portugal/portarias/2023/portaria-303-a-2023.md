@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 194/2023, 1º Suplemento, Série I de 2023-10-06
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 59-(2) a 59-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19401/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303-a/2023/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd1183596cdf703a2dfc172ca22545b452b8a23d18da7792d679374d2036349c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 265550b7163dcbbd8388ee997953246efd0f5e6bc2dae2cfd8f84a2bdef456eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Agricultura Biológica
 - Ajuda Comunitária
 - Beneficiário
-- União Europeia
-- Agricultura Biológica
 - Exploração Agrícola
+- Plano Estratégico da Política Agrícola Comum para Portugal
 - Política Agrícola Comum
 - Prazo
 - Prorrogação de Prazo
-- Agricultura
-- Plano Estratégico da Política Agrícola Comum para Portugal
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:854130987:por
@@ -124,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-e/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-e/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214724645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215375646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490451:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:30Z'
   warnings: []
   errors: []
 ---
@@ -222,4 +258,6 @@ O artigo 57.º da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/deta
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos à data da entrada em vigor das Portarias n.os [54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), [54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897) e [54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), todas de 27 de fevereiro.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de outubro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de outubro de 2023.
+
+116927002

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/305/2013/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-2013-503030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39984a0387600b9a216a44d72febdb6ed4c7f3b54b2cf5cb229cb5de4f7b24a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c85dbd9e8a1f0ef2ae3011bf2f3f71cc819ff5637e26bb5d8bfbf28b124fc2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,41 @@ reuse:
 subjects:
 - Centro IPP
 - Certificação Profissional
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
 - Fiscalização
 - Formulário Eletrónico
 - Impresso
-- Proteção do Ambiente
 - Prazo
-- Proteção Fitossanitária
 - Produto Fitofarmacêutico
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Taxa
 relationships:
+- type: amended_by
+  target: pt:dre:114994767:por
+  label: Atualizadas as taxas a cobrar pelos serviços mencionados no n.º 3 do art. 1.º e previstas no anexo III pelo(a) Despacho
+    n.º 3536/2018 - Diário da República n.º 69/2018, Série II de 2018-04-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3536-2018-114994767
+  date: '2018-04-09'
+- type: amended_by
+  target: pt:dre:181364017:por
+  label: Actualizadas, para 2022, as taxas previstas no n.º 3 do art. 1.º e no anexo III pelo(a) Despacho n.º 3734/2022 -
+    Diário da República n.º 63/2022, Série II de 2022-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3734-2022-181364017
+  date: '2022-03-30'
+- type: amended_by
+  target: pt:dre:221029330:por
+  label: Atualizadas, para 2023, as taxas previstas no n.º 3 do art. 1.º e no anexo III, pelo(a) Despacho n.º 8733/2023 -
+    Diário da República n.º 167/2023, Série II de 2023-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8733-2023-221029330
+  date: '2023-08-29'
+- type: amended_by
+  target: pt:dre:914375199:por
+  label: Atualizadas as taxas a cobrar pelos serviços mencionados no n.º 3 do artigo 1.º pelo(a) Despacho n.º 4425/2025 -
+    Diário da República n.º 70/2025, Série II de 2025-04-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4425-2025-914375199
+  date: '2025-04-09'
 - type: cites
   target: celex:32009L0128
   label: null
@@ -86,13 +110,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:42Z'
   warnings: []
   errors: []
 ---
@@ -221,26 +245,26 @@ g) Trebuchet MS 9, nos meses da inspeção.
 
 3- O valor das taxas, atualizadas nos termos dos números anteriores, consta de despacho do diretor-geral de Alimentação e Veterinária, publicado na 2.ª série do Diário da República e publicitado em permanência no sítio da Internet da DGAV.
 
-**A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 10 de outubro de 2013.**
+A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 10 de outubro de 2013.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Modelo de certificado de inspeção (Frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
 
 (Verso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 1.º)
 
 Modelo de selo de inspeção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
 
 ## ANEXO III — (a que se referem o n.os 3 e 4 do artigo 1.º)
 
 TABELA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20200/0616506168.pdf)

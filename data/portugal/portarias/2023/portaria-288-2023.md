@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18500/0002900066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2023/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2023-221937436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d98a88ea49b82f5cd44e7fe3dec0cbf619d6b8084663c1d424b3798d2b57f5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4802b86312f527ec644c85723f38fe3bec7b1eacbe8ee3322523058e2cd53cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
+- Apostas Desportivas à Cota de Base Territorial
+- Departamento de Jogos
 - Informatização
-- Mediador dos Jogos Sociais do Estado
+- Jogos de Fortuna e Azar
 - JURI
-- Santa Casa da Misericórdia
+- Mediador dos Jogos Sociais do Estado
 - Prémio
 - Regulamento
-- Departamento de Jogos
-- Apostas Desportivas à Cota de Base Territorial
+- Santa Casa da Misericórdia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232/2017/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232/2017/07/27/p/dre
+- type: cites
+  target: pt:dre:107761912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:24Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +196,9 @@ n) 'Jogo' o período de tempo de duração total de um evento desportivo que com
 
 o) [Anterior alínea n).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -286,7 +312,9 @@ xx) Aposta 'Equipa ou Jogador qualifica-se?'.
 
 6 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -300,7 +328,9 @@ xx) Aposta 'Equipa ou Jogador qualifica-se?'.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +338,9 @@ xx) Aposta 'Equipa ou Jogador qualifica-se?'.
 
 3 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -336,7 +368,9 @@ d) [...]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -376,7 +410,9 @@ ii) Se uma equipa ou jogador abandonar ou for desclassificado enquanto o períod
 
 14 - (Anterior n.º 12.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -398,7 +434,9 @@ ii) Se uma equipa ou jogador abandonar ou for desclassificado enquanto o períod
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 21.º — Determinação do direito a prémios e seus montantes
+Artigo 21.º
+
+Determinação do direito a prémios e seus montantes
 
 1 - [...]
 
@@ -422,7 +460,9 @@ b) Podem os apostadores solicitar ao Departamento de Jogos o pagamento da difere
 
 9 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -460,7 +500,9 @@ ii) [...]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de dezembro, na sua redação atual, compete também:
 
@@ -478,7 +520,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -500,7 +544,9 @@ e) [...]
 
 5 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As reclamações são julgadas por um júri constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), na sua redação atual.
 
@@ -508,7 +554,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os registos informáticos relativos à realização de apostas desportivas à cota de base territorial são mantidos em arquivo do Departamento de Jogos pelo período de três anos.
 
@@ -832,7 +880,7 @@ b) O prognóstico 'Não' significa que a equipa ou o jogador não se qualificam.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de setembro de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de setembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -1764,9 +1812,9 @@ TABELA N.º 1
 
 Modalidades de aposta nos terminais
 
-|  |  |  |  |  |  |  |
+| Número<br>de prognósticos<br>a selecionar | Modalidades de aposta | Sistema | Número<br>de combinações autónomas | Número<br>de prognósticos por combinação | Número mínimo de prognósticos certos para obter prémio | Montante total<br>por aposta<br>(montante base (euro) 1) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Número de prognósticos a selecionar | Modalidades de aposta | Sistema | Número de combinações autónomas | Número de prognósticos por combinação | Número mínimo de prognósticos certos para obter prémio | Montante total por aposta (montante base (euro) 1) |
+|  |  |  |  |  |  |  |
 | 1 | Simples... | 1/1 | 1 | 1 | 1 | (euro) 1 |
 | 2 | Simples... | 1/1 | 2 | 1 | 1 | (euro) 2 |
 |  | Combinadas... | 2/2 | 1 | 2 | 2 | (euro) 1 |
@@ -1793,10 +1841,10 @@ TABELA N.º 2
 
 Montante total a pagar
 
-|  |  |  |  |  |  |  |  |  |  |
+| Montante base -> | (euro) 1 | (euro) 2 | (euro) 5 | (euro) 10 | (euro) 20 | (euro) 50 | (euro) 75 | (euro) 100 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Montante base -> | Montante base -> | (euro) 1 | (euro) 2 | (euro) 5 | (euro) 10 | (euro) 20 | (euro) 50 | (euro) 75 | (euro) 100 |
-| Modalidades de aposta | Modalidades de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta | Montante total a pagar em função do montante base e da modalidade de aposta |
+| Modalidades de aposta | Montante total a pagar em função do montante base e da modalidade de aposta |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
 | Simples... | 1 | (euro) 1 | (euro) 2 | (euro) 5 | (euro) 10 | (euro) 20 | (euro) 50 | (euro) 75 | (euro) 100 |
 |  | 2 | (euro) 2 | (euro) 4 | (euro) 10 | (euro) 20 | (euro) 40 | (euro) 100 | (euro) 150 | (euro) 200 |
 |  | 3 | (euro) 3 | (euro) 6 | (euro) 15 | (euro) 30 | (euro) 60 | (euro) 150 | (euro) 225 | (euro) 300 |
@@ -1812,3 +1860,5 @@ Montante total a pagar
 |  | 2/5 | (euro) 10 | (euro) 20 | (euro) 50 | (euro) 100 | (euro) 200 | (euro) 500 | (euro) 750 | (euro) 1 000 |
 |  | 3/5 | (euro) 10 | (euro) 20 | (euro) 50 | (euro) 100 | (euro) 200 | (euro) 500 | (euro) 750 | (euro) 1 000 |
 |  | 4/5 | (euro) 5 | (euro) 10 | (euro) 25 | (euro) 50 | (euro) 100 | (euro) 250 | (euro) 375 | (euro) 500 |
+
+116873876

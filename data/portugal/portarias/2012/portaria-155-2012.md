@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2012/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2012-551995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6dbaa4014401f7cdb5eaa718194a0a8404da28c8e7fcb986299bb27d426de65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f20afa5ade8a2600bd7d5091d27c96fbfe8a5033e919b379ca2ec0b0d30734ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Administração Central do Sistema de Saúde
+- Estatuto
 relationships:
+- type: amended_by
+  target: pt:dre:58848821:por
+  label: Extinta a Unidade de Modalidades de Pagamento e Formação de Preços (UMP) constante da Delib. 800/2012, de 15-jun,
+    e determinado que as competências relativas à mesma previstas nas als. c), d), f), g), h), i), j), e l) do art. 4.º da
+    presente portaria passem a pertencer à Direção do Departamento de Gestão e Financiamento de Prestações de Saúde (DPS)
+    pelo(a) Deliberação n.º 2064/2014 - Diário da República n.º 219/2014, Série II de 2014-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/2064-2014-58848821
+  date: '2014-11-12'
+- type: amended_by
+  target: pt:dre:66263540:por
+  label: Extinta a Unidade de Acesso e Contratualização (UAC) e determinado que as competências previstas nas als. k) e l)
+    do art. 6.º do presente diploma passem a pertencer à Direção do Departamento pelo(a) Deliberação n.º 79/2015 - Diário
+    da República n.º 14/2015, Série II de 2015-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/79-2015-66263540
+  date: '2015-01-21'
+- type: amended_by
+  target: pt:dre:74378068:por
+  label: Extinta, nos termos do n.º 1, a Unidade de Gestão de Informação, e criada, nos termos do n.º 2, a Unidade de Gestão
+    da Conta do Medicamento e dos Dispositivos Médicos, pelo(a) Deliberação n.º 797/2016 - Diário da República n.º 89/2016,
+    Série II de 2016-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/797-2016-74378068
+  date: '2016-05-09'
+- type: amended_by
+  target: pt:dre:119236175:por
+  label: Determinada a integração das Unidades, URJ e UPM no Departamento de Recursos Humanos da ACSS pelo(a) Deliberação
+    n.º 148/2019 - Diário da República n.º 26/2019, Série II de 2019-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/148-2019-119236175
+  date: '2019-02-06'
+- type: amended_by
+  target: pt:dre:200305620:por
+  label: Determinada a reestruturação das competências da Unidade de Regimes Jurídicos de Emprego e das Relações Coletivas
+    de Trabalho (URJ) e da Unidade de Planeamento e Monitorização de Recursos Humanos da Saúde (UPM), que passa a designar-se
+    por Unidade de Planeamento, Gestão, Recrutamento e Monitorização de Recursos Humanos da Saúde (UPGRM) que integram o Departamento
+    de Planeamento e Gestão de Recursos Humanos na Saúde da ACSS, pelo(a) Deliberação n.º 946/2022 - Diário da República n.º
+    165/2022, Série II de 2022-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/946-2022-200305620
+  date: '2022-08-26'
+- type: amended_by
+  target: pt:dre:223826107:por
+  label: Extinguida a Unidade de Orçamento e Controlo transitando as respetivas competências e trabalhadores para a Direção
+    do Departamento de Gestão Financeira (DFI), constante dos estatutos que constam da presente Portaria, pelo(a) Deliberação
+    n.º 1128/2023 - Diário da República n.º 214/2023, Série II de 2023-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1128-2023-223826107
+  date: '2023-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/2012/02/15/p/dre
   label: null
@@ -76,16 +120,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:34Z'
   warnings: []
   errors: []
 ---

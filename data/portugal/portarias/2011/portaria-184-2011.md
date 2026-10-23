@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/184/2011/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5914fb1dc711b149bc23a8da22f9144082b96750835469cee27a5b511585a1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e307cce61fcb0bb19bf85f7e459c54f3e703a582e2681c369af62a8e36d241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Apoio ao Investimento
 - Atividade Agrícola
-- Produto Alimentar
-- Proder
-- Financiamento
-- Formação Profissional
+- Comércio
 - Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria Agro-alimentar
-- IFAP
-- Jovem Agricultor
 - Exploração Agrícola
+- Financiamento
+- Formação Profissional
+- IFAP
+- Indústria Agro-alimentar
+- Indústria Transformadora
+- Jovem Agricultor
 - Pessoa Coletiva
+- Proder
+- Produto Alimentar
+- Projeto de Investimento
 - Qualificação Profissional
 - Regulamento
-- Agricultura
-- Indústria Transformadora
 - Sociedade por Quotas
 - Subsídio não Reembolsável
-- Comércio
 - Viabilidade Económica
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II; e revogado, com efeitos a 28.08.2010, o n.º 24, do quadro «despesas não elegíveis»,\
+    \ do mesmo anexo II do Regulamento de Aplicação da Ação n.º 1.1.3, «Instalação de Jovens Agricultores», aprovado pela\
+    \ Port 357-A/2008 de 09-mai, alterado pelo presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32000R0104
   label: null
@@ -111,15 +119,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/357-a/2008/05/09/p/dre
 article_structure:
-  article_count: 47
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 27
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:07Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +168,9 @@ a) Prémio à instalação;
 
 b) Apoio aos investimentos realizados na exploração, incluindo pequenos investimentos de transformação e comercialização de produtos agrícolas provenientes da própria exploração.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O apoio previsto no presente Regulamento prossegue os seguintes objectivos:
 
@@ -170,7 +180,9 @@ b) Promover o processo de instalação de jovens agricultores e o desenvolviment
 
 c) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 a) ...
 
@@ -192,7 +204,9 @@ i) 'Valor do investimento do plano empresarial (VIPE)', o valor considerado para
 
 j) 'Valor do investimento elegível', o valor considerado para efeito do cálculo do apoio ao investimento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Podem beneficiar do apoio previsto no presente Regulamento:
 
@@ -200,7 +214,9 @@ a) ...
 
 b) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +246,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 6.º — Critérios de elegibilidade das operações
+Artigo 6.º
+
+Critérios de elegibilidade das operações
 
 1 - Podem beneficiar do apoio previsto no presente Regulamento as operações que reúnam as seguintes condições:
 
@@ -248,7 +266,9 @@ f) Cumpram as disposições legais aplicáveis aos investimentos propostos, desi
 
 2 - São elegíveis as despesas de investimento realizadas após a apresentação do pedido de apoio, excepto as despesas referidas nos n.os 7 e 10 do anexo ii, desde que realizadas até três meses antes da apresentação do pedido de apoio.
 
-###### Artigo 7.º — Obrigações dos beneficiários
+Artigo 7.º
+
+Obrigações dos beneficiários
 
 1 - Os beneficiários do apoio previsto no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:
 
@@ -278,33 +298,45 @@ m) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de cel
 
 2 - Os beneficiários dos apoios devem possuir o registo da exploração no Sistema de Identificação Parcelar (SIP).
 
-###### Artigo 8.º — Forma, nível e limites do apoio
+Artigo 8.º
+
+Forma, nível e limites do apoio
 
 1 - O apoio previsto no presente Regulamento é atribuído sob a forma de subsídio não reembolsável.
 
 2 - Os níveis e limites do apoio são fixados no aviso de abertura ou anúncio, não podendo ultrapassar os níveis máximos estabelecidos no Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-###### Artigo 9.º — Despesas elegíveis e não elegíveis
+Artigo 9.º
+
+Despesas elegíveis e não elegíveis
 
 1 - Para a determinação do valor do investimento elegível, as despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo ii, considerando, para a transformação e comercialização dos produtos agrícolas da exploração, os sectores de actividades (CAE) aí mencionados.
 
 2 - Para a determinação do valor do investimento do plano empresarial (VIPE), as despesas elegíveis são, designadamente, as constantes dos anexos ii e iii.
 
-###### Artigo 10.º — Critérios de selecção dos pedidos de apoio
+Artigo 10.º
+
+Critérios de selecção dos pedidos de apoio
 
 1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados em função do resultado da respectiva valia do plano empresarial (VPE), calculada de acordo com os factores e a fórmula constantes do anexo iv.
 
 2 - A alteração dos critérios de selecção referidos no n.º 1, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
 
-### CAPÍTULO II — Procedimento
+CAPÍTULO II
 
-###### Artigo 11.º — Apresentação dos pedidos de apoio
+Procedimento
+
+Artigo 11.º
+
+Apresentação dos pedidos de apoio
 
 1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
 
 2 - A apresentação dos pedidos efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
-###### Artigo 12.º — Avisos de abertura e anúncios
+Artigo 12.º
+
+Avisos de abertura e anúncios
 
 1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
 
@@ -324,7 +356,9 @@ g) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 2 - Os avisos de abertura ou os anúncios dos períodos de apresentação são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
 
-###### Artigo 13.º — Análise e decisão dos pedidos de apoio
+Artigo 13.º
+
+Análise e decisão dos pedidos de apoio
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos critérios referidos no artigo 10.º
 
@@ -336,17 +370,23 @@ g) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer previsto no n.º 3.
 
-###### Artigo 14.º — Readmissão de pedidos de apoio
+Artigo 14.º
+
+Readmissão de pedidos de apoio
 
 Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
 
-###### Artigo 15.º — Contrato de financiamento
+Artigo 15.º
+
+Contrato de financiamento
 
 1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)
 
 2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -392,7 +432,9 @@ a) [...]
 
 11 - [...]
 
-## ANEXO II — Despesas elegíveis e não elegíveis e sectores de actividades
+ANEXO II
+
+Despesas elegíveis e não elegíveis e sectores de actividades
 
 (a que se refere o n.º 1 do artigo 9.º)
 
@@ -402,11 +444,11 @@ Os indicadores de custo unitário, por hora e por formando, em matéria de forma
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
 Despesas não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
 Sectores abrangidos para a transformação e comercialização
 
@@ -416,9 +458,11 @@ Sectores industriais enquadrados no PRODER
 
 (CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
-## ANEXO III — (a que se refere o n.º 2 do artigo 9.º)
+ANEXO III
+
+(a que se refere o n.º 2 do artigo 9.º)
 
 Despesas elegíveis para a determinação do VIPE
 
@@ -444,7 +488,9 @@ Execução das operações
 
 2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no n.º 1.
 
-###### Artigo 18.º — Apresentação dos pedidos de pagamento
+Artigo 18.º
+
+Apresentação dos pedidos de pagamento
 
 1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -462,7 +508,9 @@ Execução das operações
 
 8 - Nas operações sujeitas a licenciamento, o último pagamento do apoio só pode ser efectuado quando o beneficiário demonstrar ser detentor de alvará de licença de utilização actualizado, nos termos da legislação aplicável.
 
-###### Artigo 19.º — Análise dos pedidos de pagamento
+Artigo 19.º
+
+Análise dos pedidos de pagamento
 
 1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.
 
@@ -474,29 +522,41 @@ Execução das operações
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 20.º — Pagamentos
+Artigo 20.º
+
+Pagamentos
 
 Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea i) do n.º 1 do artigo 7.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa.
 
-###### Artigo 21.º — Controlo
+Artigo 21.º
+
+Controlo
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — Reduções e exclusões
+Artigo 22.º
+
+Reduções e exclusões
 
 1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 2 - Em caso de incumprimento do plano empresarial, o prémio à instalação pode ser recuperado, de forma proporcional ao grau de incumprimento detectado, quando este seja superior a 5 %.
 
-### CAPÍTULO III — Disposição transitória
+CAPÍTULO III
 
-###### Artigo 23.º — Disposição transitória
+Disposição transitória
+
+Artigo 23.º
+
+Disposição transitória
 
 Nos pedidos de apoio apresentados até 31 de Agosto de 2011, são elegíveis as despesas das operações anteriores à respectiva apresentação, desde que efectuadas a partir de 1 de Julho de 2010.
 
-## ANEXO IV — Cálculo da valia do plano empresarial
+ANEXO IV
+
+Cálculo da valia do plano empresarial
 
 (a que se refere o artigo 10.º)
 
@@ -520,7 +580,7 @@ c) O nível de qualificação (NQ) valoriza a qualificação do beneficiário na
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 3 de Maio de 2011.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 3 de Maio de 2011.
 
 ## ANEXO
 
@@ -862,11 +922,11 @@ Os indicadores de custo unitário, por hora e por formando, em matéria de forma
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
 Despesas não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
 Sectores abrangidos para a transformação e comercialização
 
@@ -876,7 +936,7 @@ Sectores industriais enquadrados no PRODER
 
 (CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 9.º)
 

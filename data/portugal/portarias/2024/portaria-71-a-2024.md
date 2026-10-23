@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/2024, 1º Suplemento, Série I de 2024-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(2) a 6-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04101/0000200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71-a/2024/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99d389061b6e4c5c760b4fad0a7a501d2535e89b677bdf71553c3dcd4f6d5845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47264d1c49ecf9e391dd39b39993d8198645f368d31f486e4f87b2977c31e50b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
-- Urbanização
-- Regulamentação de Atos Legislativos
+- Documento Eletrónico
 - Fiscalização
 - Licenciamento
 - Loteamento Urbano
-- Documento Eletrónico
-- Projeto
 - Plataforma Eletrónica
+- Projeto
+- Regulamentação de Atos Legislativos
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:917839840:por
@@ -120,16 +120,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/113/2015/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/113/2015/04/22/p/dre
+- type: cites
+  target: pt:dre:184052515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67051303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1153698591:por
+  label: Revogada, a partir de 03 de agosto de 2026, a presente portaria, pelo(a) Portaria n.º 320/2026/1 - Diário da República
+    n.º 147/2026, Série I de 2026-07-31, nos termos do seu artigo 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2026-1153698591
+  date: '2026-07-30'
+- type: repeals
+  target: pt:numero:portaria:113/2015
+  label: Revoga, a partir de 4 de março de 2024, nos termos do artigo 3.º do presente diploma, a Portaria n.º 113/2015, de
+    22 de abril, Diário da República n.º 78/2015, Série I
+  source: null
+  date: '2015-04-22'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:36Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +250,7 @@ A presente portaria entra em vigor a 4 de março de 2024, data da entrada em vig
 
 Em 26 de fevereiro de 2024.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -1227,3 +1287,5 @@ Instruções de preenchimento
 (h) Assinatura digital qualificada.
 
 (i) Código de verificação das competências profissionais emitido por associação pública de natureza profissional, quando for o caso.
+
+117405404

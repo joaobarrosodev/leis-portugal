@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/19100/0433404335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/995/2010/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/995-2010-342780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58d12ced4a730aeda7041d7539bfd0212a13add9b1aa3ef841075e7775065baf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5032cd83256a792061561e8f19a01fae9e7736dba8dffbdd6703c5b0e0624fb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Livre Trânsito
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Livre Trânsito
 relationships:
 - type: amended_by
   target: pt:dre:175562:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/329/2001/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/329/2001/04/02/p/dre
+- type: cites
+  target: pt:dre:345913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175562:por
+  label: "Revogada pela PORT.306/2012.08.10.2012.MAMAOT, DR.IS [194] de 08.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-2012-175562
+  date: '2012-10-08'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:38Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +155,6 @@ b) No verso superior contém a indicação dos direitos que são concedidos ao s
 
 2 - É revogada a [Portaria n.º 329/2001](https://diariodarepublica.pt/dr/detalhe/portaria/329-2001-345913), de 2 de Abril.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 23 de Setembro de 2010.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 23 de Setembro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/19100/0433404335.pdf))](https://files.diariodarepublica.pt/1s/2010/09/19100/0433404335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/19100/0433404335.pdf)

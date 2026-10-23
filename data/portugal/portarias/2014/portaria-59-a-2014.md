@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07
   number: '47'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1788-(2) a 1788-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/04701/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59-a/2014/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2014-302500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b259c8f004e57129f720876411ee92fcbe3c751fc4abe374d70318940f2aed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 260f5e5ee4b5d14feb5661d43afca92dc6eae4769d5b49b09bf889289975859d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Avaliação de Conhecimentos
 - Diploma
+- Ensino Artístico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Exame
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Avaliação de Conhecimentos
+- Exame
 relationships:
 - type: amended_by
   target: pt:dre:116132275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67401230:por
+  label: Alterado, a partir de 04.06.2015, o art. 25.º e revogados os n.ºs 4 e 5 do mesmo art. 25.º da Port. 243-A/2012 de
+    13-ago, na redação do presente diploma, pelo(a) Portaria n.º 165-A/2015 - Diário da República n.º 107/2015, 1º Suplemento,
+    Série I de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-a-2015-67401230
+  date: '2015-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -98,16 +105,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2012/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2012/12/20/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116132275:por
+  label: Revogada, a partir de 21.08.2018, a Port 234-A/2012 de 13-ago, com a redação dada pelo presente diploma, pelo(a)
+    Portaria n.º 232-A/2018 - Diário da República n.º 159/2018, 1º Suplemento, Série I de 2018-08-20, de acordo com a calendarização
+    de produção de efeitos fixada no seu art. 48.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-a-2018-116132275
+  date: '2018-08-20'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:47Z'
   warnings: []
   errors: []
 ---
@@ -156,4 +186,4 @@ b) O valor resultante do cálculo da expressão (8CFC+2P)/10, aplicando-se o pre
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 7 de março de 2014.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 7 de março de 2014.

@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 131/2023, 1º Suplemento, Série I de 2023-07-07
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 109-(2) a 109-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13101/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/194-a/2023/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/194-a-2023-215371697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296ef85ce553c1bd74ccc663e007f1ccc6686388850961fa176a6036f6558bc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 091ac34feb2defb91712ecd60cda3ea68d1e9d880da1322e848d4c91161de928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Código dos Impostos Especiais de Consumo
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Petróleo
-- Combustível
+- Aquicultura
+- Artes de Pesca
 - Auxílio de Minimis
-- Pesca
+- Balcão Eletrónico do Mar
+- Código dos Impostos Especiais de Consumo
+- Combustível
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Financiamento
 - Gás
 - Gasóleo
 - Gasolina
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Instituto da Conservação da Natureza e das Florestas
-- Aquicultura
+- Pequenas e Médias Empresas
+- Pesca
 - Pesca Artesanal
-- Artes de Pesca
 - Pessoa Coletiva
 - Pessoa Singular
+- Petróleo
+- Regulamentação de Atos Legislativos
 - Salicultura
-- Pequenas e Médias Empresas
 - Subsídio
-- Balcão Eletrónico do Mar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
@@ -115,16 +115,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:49Z'
   warnings: []
   errors: []
 ---
@@ -291,4 +315,6 @@ Os encargos com o pagamento dos subsídios previstos na presente portaria são s
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de julho de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 6 de julho de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de julho de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 6 de julho de 2023.
+
+116652097

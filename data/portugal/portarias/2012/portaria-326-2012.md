@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326/2012/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-2012-192417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fc91a2be4a7c896a5cfcdcc433faf48fdb270629ac7051f9ccbadc693982437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b939e23051c15e1ebf85204b8567d7e645ec5b509bd831834ca6d8654b38a191
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Proder
+- Agricultura
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Assistência Técnica
-- Financiamento
 - Beneficiário
 - Desenvolvimento Rural
-- Feader
+- Documento Eletrónico
 - Especificação Técnica
+- Feader
+- Financiamento
 - Formulário Eletrónico
-- Apoio ao Investimento
+- IFAP
+- Internet
+- Investimento
 - Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
 - Pagamento
-- IFAP
-- Investimento
-- Documento Eletrónico
-- Internet
+- Proder
 - Regime de Apoio
 - Regulamento
 - Regulamento CE
-- Agricultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
@@ -104,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/94/2010/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/94/2010/02/12/p/dre
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605545:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:34Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +160,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º e 7.º do Regulamento de Aplicação da Medida
 
 2 - São ainda suscetíveis de ser financiadas pela medida «Assistência Técnica» as atividades relativas à preparação do próximo período de programação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -162,7 +176,9 @@ d) ...
 
 e) Serviço ou organismo público responsável por assegurar a preparação da próxima programação relativa ao desenvolvimento rural, no âmbito das intervenções estruturais comunitárias e nacionais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -184,7 +200,9 @@ h) ...
 
 i) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - (Anterior proémio.)
 
@@ -194,7 +212,9 @@ b) ...
 
 2 - O disposto na alínea b) não é aplicável às operações previstas na alínea i) do artigo 5.º, bem como às respetivas despesas elegíveis.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -232,4 +252,4 @@ m) Outras despesas que se revelem necessárias à preparação das atividades do
 
 O presente diploma produz efeitos a 1 de outubro de 2012.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 10 de outubro de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 10 de outubro de 2012.

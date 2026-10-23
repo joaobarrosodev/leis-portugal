@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 332-(386) a 332-(400)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0038600400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54-m/2023/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-m-2023-207942907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 841f27bb3198992ef9cd3d52d53ad0b7d7448738e82ecfaa7624537f99329a5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aa6e39c9e125174698d85704e3451a4f4222384d16193e4b1c0d683c4ece52b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Financiamento
 - CE Países
-- Silvicultura
-- Desenvolvimento Rural
 - Comissão de Acompanhamento
+- Desenvolvimento Rural
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Exploração Agrícola
+- Exploração Florestal
 - Feader
 - Feaga
+- Financiamento
 - Fundos CE
-- Exploração Agrícola
 - Política Agrícola Comum
 - Prestação de Serviços
-- Exploração Florestal
-- Agricultura
-- Unidade de Gestão
+- Silvicultura
 - Sistema de Aconselhamento Agrícola e Florestal
+- Unidade de Gestão
 relationships:
 - type: cites
   target: celex:31992L0043
@@ -166,6 +166,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/151/2016/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/151/2016/05/25/p/dre
+- type: cites
+  target: pt:dre:116747964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74539107:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31992L0043
   label: null
@@ -183,15 +231,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 32
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:27Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +296,9 @@ i) «Subparcela», a porção contínua de terreno homogénea com a mesma ocupa�
 
 j) «Serviço de aconselhamento agrícola ou florestal», o serviço técnico especializado prestado por uma entidade reconhecida no âmbito da presente portaria, que abrange o diagnóstico e análise dos problemas concretos e oportunidades de uma exploração agrícola ou florestal e a elaboração de um plano de ação com as recomendações a implementar, com o objetivo de melhorar o desempenho das explorações, agrícolas e florestais, em termos de resultados económicos, ambientais e sociais.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O SAAF contempla as seguintes áreas temáticas de aconselhamento:
 
@@ -292,7 +342,9 @@ s) «Plano de gestão de pastoreio e fertilização», que abrange a matéria re
 
 t) «Plano de fertilização», que abrange a matéria relativa à implementação da intervenção «Gestão do solo - Promoção da fertilização orgânica», nos termos previstos na alínea b) do n.º 7 do artigo 31.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O SAAF, integra-se no Sistema Nacional de Conhecimento e Inovação agrícola (AKIS Nacional) e estrutura-se do seguinte modo:
 
@@ -304,7 +356,9 @@ c) [...]
 
 2 - O acompanhamento e monitorização é da responsabilidade da ANG, em articulação com o GA AKIS.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A DGADR é a ANG e tem como missão implementar e gerir o SAAF.
 
@@ -344,7 +398,9 @@ p) Promover a interação com o AKIS Nacional, nomeadamente no que diz respeito 
 
 3 - As competências previstas no número anterior são exercidas em articulação com o Gabinete de Planeamento, Políticas e Administração Geral (GPP), com a Direção-Geral de Alimentação e Veterinária (DGAV), e com o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em função das respetivas competências.
 
-###### Artigo 7.º — Grupo de Acompanhamento do AKIS
+Artigo 7.º
+
+Grupo de Acompanhamento do AKIS
 
 Compete ao GA AKIS:
 
@@ -358,7 +414,9 @@ d) Articular com a ANG para que sejam criadas condições para que os serviços 
 
 e) Promover, conjuntamente com a ANG, a interação com o AKIS Nacional, nomeadamente, no que diz respeito à formação dos conselheiros, inovação e redes de conhecimento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A ANG pode reconhecer como entidades prestadoras do serviço de aconselhamento agrícola ou florestal no âmbito do SAAF, as seguintes entidades cujas atribuições ou objeto social incluam a atividade de apoio técnico ou de aconselhamento agrícola ou florestal:
 
@@ -376,7 +434,9 @@ b) [...]
 
 6 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -406,7 +466,9 @@ g) [...]
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -428,7 +490,9 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -452,7 +516,9 @@ b) Plano de ação - apresentação na exploração do conjunto de recomendaçõ
 
 7 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -464,7 +530,9 @@ b) Plano de ação - apresentação na exploração do conjunto de recomendaçõ
 
 5 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -514,7 +582,7 @@ São revogados os anexos da [Portaria n.º 151/2016](https://diariodarepublica.p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -831,3 +899,5 @@ d) Tenha sido condenada por sentença transitada em julgado no âmbito de ação
 4 - A suspensão de uma entidade prestadora ou que integre uma parceria implica a reavaliação da manutenção do reconhecimento.
 
 5 - A revogação do reconhecimento de uma entidade prestadora ou que integre uma parceria não pode ser reavaliada durante um período de três anos.
+
+116207333

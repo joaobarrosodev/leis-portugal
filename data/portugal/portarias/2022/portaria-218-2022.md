@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/16900/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/218/2022/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/218-2022-200477769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f2cf20e406fe02d3562b34c94e879b1d3b06012732dfabb23cad40f14e3c6f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 254cd6004a29323d2ce585e03195bed5e8af563e50d857b21ac855cdbad5f6d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade para as Condições do Trabalho
 - Pessoal Administrativo
 - Retribuição Mínima Garantida
 - Subsídio de Refeição
 - Trabalhador por Conta de Outrem
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109-b/2021/12/07/p/dre
@@ -97,16 +97,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/411-a/2019/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/411-a/2019/12/31/p/dre
+- type: cites
+  target: pt:dre:115561641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115674376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127621170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150368748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175595604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175780033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:39Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +203,7 @@ A presente portaria procede à quarta alteração da [Portaria n.º 182/2018](ht
 
 2 - As retribuições mínimas e o subsídio de refeição produzem efeitos a partir de 1 de abril de 2022.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 24 de agosto de 2022. - A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 24 de agosto de 2022. - O Ministro da Economia e do Mar, António José da Costa Silva, em 25 de agosto de 2022. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 26 de agosto de 2022. - A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 26 de agosto de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 29 de agosto de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 30 de agosto de 2022. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 30 de agosto de 2022.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 24 de agosto de 2022. - A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 24 de agosto de 2022. - O Ministro da Economia e do Mar, António José da Costa Silva, em 25 de agosto de 2022. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 26 de agosto de 2022. - A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 26 de agosto de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 29 de agosto de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 30 de agosto de 2022. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 30 de agosto de 2022.
 
 ## ANEXO — (altera o anexo II da [Portaria n.º 292/2021](https://diariodarepublica.pt/dr/detalhe/portaria/292-2021-175780033), de 13 de dezembro)
 
@@ -179,4 +211,6 @@ Retribuições mínimas
 
 Tabela de remunerações mínimas mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/16900/0000600010.pdf))](https://files.diariodarepublica.pt/1s/2022/09/16900/0000600010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/16900/0000600010.pdf)
+
+115653642

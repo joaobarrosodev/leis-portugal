@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/44/2012/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-2012-543050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aab4e550d8ce6574f6b7ee3c7df1b4019bfc7b9f66abba3f5f42aa7364585ba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e0db8b50f8d7c59e76366f639a909e2bcd9b37bf7804fdf025f645664cb262e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Segurança no Trabalho
-- Fiscalização
-- Segurança Rodoviária
-- Transporte de Mercadorias
 - Condições de Higiene e Segurança no Trabalho
+- Empresa
+- Fiscalização
 - Regulamento CE
 - Sanção
+- Segurança no Trabalho
+- Segurança Rodoviária
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
 relationships:
@@ -107,16 +107,22 @@ relationships:
   target: celex:32009L0005
   label: null
   source: http://data.europa.eu/eli/dir/2009/5/oj
+- type: repealed_by
+  target: pt:dre:1084345987:por
+  label: Revogada, a partir de 12 de julho de 2026, pelo(a) Decreto-Lei n.º 84/2026 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13 nos termos da alínea g) do artigo 65.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2026-1084345987
+  date: '2026-04-12'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:13Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +217,7 @@ d) Se o grau de risco R for superior a 20, a empresa é classificada como empres
 
 A presente portaria entra em vigor primeiro dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 9 de fevereiro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 8 de fevereiro de 2012.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 9 de fevereiro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 8 de fevereiro de 2012.
 
 ## ANEXO I — (a que se refere o n.º 4 do artigo 3.º)
 
@@ -219,8 +225,8 @@ Em conformidade com o n.º 3 do artigo 9.º da Diretiva n.º [2006/22/CE](https:
 
 1. Grupos de infrações ao Regulamento (CE) n.º [561/2006](https://data.europa.eu/eli/reg/2006/561/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf)
 
 2. Grupos de infrações ao Regulamento (CEE) n.º [3821/85](https://data.europa.eu/eli/reg/1985/3821/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03100/0072500730.pdf)

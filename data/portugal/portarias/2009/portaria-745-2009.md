@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745/2009/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-2009-492431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30e9500289e2b711b547d56e5c609b08bc5d513eda3867590a78be3fc1c7e1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8aec06ff698636a00339f81dbb4120f20f6d2b9219119b82f09adffec86942e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Silvicultura
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Agricultura
 - Contrato de Financiamento
 - Difusão da Informação
 - Formulário Eletrónico
 - Homologação
-- Informação Científica e Técnica
 - IFAP
+- Informação Científica e Técnica
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Página na Internet
+- Proder
 - Regulamento
 - Regulamento de Aplicação da Acção 4.2.2-redes Tematicas de Informação e Divulgação
-- Agricultura
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 9º, 11º, 12º, 13º e 15º e revogadas as als. c) e d) do art. 6º e o art. 23º do Regulamento,\
+    \ aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º do Regulamento de Aplicação\
+    \ da Acção n.º 4.2.2, «Redes Temáticas de Informação e Divulgação», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao ponto 15 do anexo I do Regulamento de Aplicação da Ação n.º 4.2.2, «Redes Temáticas de Informação\
+    \ e Divulgação pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -96,13 +115,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:03Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +160,7 @@ c) Anexo III, relativo ao cálculo da valia global da operação.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.
 
 ## ANEXO
 
@@ -493,7 +512,7 @@ Limites às elegibilidades
 
 Os apoios são concedidos de acordo com a duração das operações, conforme exposto no quadro seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13300/0445704463.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13300/0445704463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13300/0445704463.pdf)
 
 ## ANEXO III — Cálculo da valia global da operação
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/2013/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-2013-256870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e85f82da7b1c401aadcef12c1578179782d459781b5613aba6049c2196910a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda7d2a2adabede726ea072e8817a6cf401ba386e6ec0d3946009bbe2c5cdf55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,6 +70,12 @@ subjects:
 - Instituto Português da Qualidade
 - Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:64297586:por
+  label: Alterados os arts. 1.º e 5.º dos Estatutos pelo(a) Portaria n.º 258/2014 - Diário da República n.º 240/2014, Série
+    I de 2014-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/258-2014-64297586
+  date: '2014-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/2012/03/21/p/dre
   label: null
@@ -78,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:553661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:16Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +128,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 8 de janeiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 11 de dezembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 8 de janeiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 11 de dezembro de 2012.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.
 

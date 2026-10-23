@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2013/01/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 808347c7ce66387dde7e2e42fc4e30176e7ee97e03fc0be98fd0550391ff633a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1a2d3033108996b09a5431bad27c153b505768f728a485c6d8903c3425ffd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,15 +73,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/11/2009/04/17/m/dre
 article_structure:
-  article_count: 43
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:44Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,9 @@ Natureza e tutela
 
 3 - O IEM, IP-RAM rege-se pelas normas aplicáveis do Regime Jurídico dos Institutos Públicos.
 
-###### Artigo 5º — Atribuições
+Artigo 5º
+
+Atribuições
 
 ...
 
@@ -160,7 +162,9 @@ p) (Revogada);
 
 q) ...
 
-###### Artigo 6º — Órgãos
+Artigo 6º
+
+Órgãos
 
 ...
 
@@ -168,19 +172,27 @@ a) De direção, o conselho diretivo;
 
 b) ...
 
-###### Artigo 7º — Estatutos
+Artigo 7º
+
+Estatutos
 
 A organização interna do IEM, IP-RAM é a prevista nos respetivos estatutos.
 
-#### SECÇÃO I — Conselho diretivo
+SECÇÃO I
 
-###### Artigo 8º — Composição e designação
+Conselho diretivo
+
+Artigo 8º
+
+Composição e designação
 
 1 - O conselho diretivo do IEM, IP-RAM é composto por um presidente, coadjuvado por dois vogais, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.
 
 2 - O presidente e os vogais são equiparados respetivamente, a cargo de direção superior de 1º grau e de direção superior de 2º grau, aplicando-se o regime constante na Lei nº 3/2004, de 15 de janeiro, com as alterações introduzidas pela Lei nº 24/2012, de 9 de julho, aplicável à Região Autónoma da Madeira pelo Decreto Legislativo Regional nº 17/2007/M, 12de novembro, alterado pelo Decreto Legislativo Regional nº 24/2012/M, de 30 de agosto e subsidiariamente o Estatuto do Pessoal Dirigente da Administração Pública.
 
-###### Artigo 9º — Competência e funcionamento do conselho diretivo
+Artigo 9º
+
+Competência e funcionamento do conselho diretivo
 
 1 - Compete ao conselho diretivo, no âmbito da orientação e gestão do IEM, IP-RAM, o seguinte:
 
@@ -236,7 +248,9 @@ g) Exercer os demais poderes previstos nos estatutos e que não estejam atribuí
 
 6 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, mas os membros discordantes do teor da ata poderão nela exarar as respetivas declarações de voto.
 
-###### Artigo 10º — Competência do presidente do conselho diretivo
+Artigo 10º
+
+Competência do presidente do conselho diretivo
 
 1 - Compete, ao presidente doconselho diretivo do IEM, IP-RAM, ou a quem o substituir:
 
@@ -254,7 +268,9 @@ e) Exercer as competências que lhe sejam delegadas pelo conselho diretivo.
 
 3 - O presidente do conselho diretivo é substituído nas suas faltas e impedimentos pelo vogal que para o efeito for por ele designado.
 
-###### Artigo 11º — Fiscal único
+Artigo 11º
+
+Fiscal único
 
 1 - ...
 
@@ -268,7 +284,9 @@ e) Exercer as competências que lhe sejam delegadas pelo conselho diretivo.
 
 6 - Ao fiscal único aplicam-se as normas do Regime Jurídico dos Institutos Públicos.
 
-###### Artigo 12º — Competências
+Artigo 12º
+
+Competências
 
 ...
 
@@ -284,7 +302,9 @@ e) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo presidente 
 
 f) Exercer as demais competências previstas no Regime Jurídico dos Institutos Públicos.
 
-###### Artigo 13º — Património
+Artigo 13º
+
+Património
 
 ...
 
@@ -292,7 +312,9 @@ O IEM, IP-RAM pode aceitar doações, heranças ou legados, carecendo de autoriz
 
 ...
 
-###### Artigo 14º — Princípios de gestão
+Artigo 14º
+
+Princípios de gestão
 
 ...
 
@@ -308,11 +330,15 @@ e) Garantia de eficiência económica nos custos suportados e nas soluções ado
 
 f) Gestão por objetivos devidamente quantificados e avaliação periódica em função dos resultados.
 
-###### Artigo 19º — Regime jurídico
+Artigo 19º
+
+Regime jurídico
 
 O pessoal do IEM, IP-RAM rege-se pelas normas aplicáveis aos trabalhadores que exercem funções públicas.
 
-###### Artigo 21º — Estatutos e pessoal
+Artigo 21º
+
+Estatutos e pessoal
 
 1 - Os Estatutos do IEM, IP -RAM são aprovados no prazo de 60 dias a contar da data da sua entrada em vigor.
 
@@ -336,11 +362,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 5 de dezembro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 21 de dezembro de 2012.**
+Assinado em 21 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

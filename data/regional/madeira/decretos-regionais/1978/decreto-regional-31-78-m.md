@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/31-1978-329446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ebdac7fd4b64bb908f1a0d32d150f7e41b90c3bb8d4541b1aa06e8f0a1307b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f888523a37f8661240db18d89a56da8d7e8586a5a1758e806d9f2ab42e2b6db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Regional do Emprego e Formação Profissional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Trabalho
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:22Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +100,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e de harmonia com a alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criada, na dependência da Secretaria Regional do Trabalho, a Direcção Regional do Emprego e Formação Profissional.
+Artigo 1.º É criada, na dependência da Secretaria Regional do Trabalho, a Direcção Regional do Emprego e Formação Profissional.
 
-###### Art. 2.º - 1 - Uma vez regionalizados, serão integrados naquela Direcção Regional:
+Art. 2.º - 1 - Uma vez regionalizados, serão integrados naquela Direcção Regional:
 
 a) Os serviços enquadrados orgânica ou funcionalmente na Divisão Regional da Direcção dos Serviços de Emprego da Secretaria de Estado da População e Emprego que funciona na Região Autónoma da Madeira;
 
@@ -100,9 +110,9 @@ b) O Centro de Formação Profissional do Funchal, dependente daquela Secretaria
 
 2 - Os serviços da Delegação do Gabinete de Gestão do Fundo de Desemprego ficarão, após regionalização, na dependência directa e sob a administração da Secretaria Regional do Trabalho.
 
-###### Art. 3.º Compete à Direcção Regional do Emprego e Formação Profissional, genericamente, preparar os elementos necessários para a definição da política regional nestes domínios, promovendo as medidas e coordenando as acções necessárias à sua prossecução.
+Art. 3.º Compete à Direcção Regional do Emprego e Formação Profissional, genericamente, preparar os elementos necessários para a definição da política regional nestes domínios, promovendo as medidas e coordenando as acções necessárias à sua prossecução.
 
-###### Art. 4.º A Direcção Regional é constituída pelos seguintes serviços:
+Art. 4.º A Direcção Regional é constituída pelos seguintes serviços:
 
 a) Serviço de Promoção de Emprego;
 
@@ -110,7 +120,7 @@ b) Serviço de Emprego;
 
 c) Serviço de Formação Profissional e Medicina no Trabalho.
 
-###### Art. 5.º Compete ao Serviço de Promoção de Emprego:
+Art. 5.º Compete ao Serviço de Promoção de Emprego:
 
 a) Colaborar com os departamentos públicos competentes e com o sector privado na elaboração e apreciação de projectos de investimentos, geradores de número significativo de postos de trabalho;
 
@@ -122,7 +132,7 @@ d) Emitir pareceres sobre a situação social, jurídica, económica e financeir
 
 e) Sugerir critérios de actuação para apoio financeiro ou técnico a empresas em situação difícil, tendo em atenção o factor de produção de trabalho e sua relevância regional.
 
-###### Art. 6.º Compete ao Serviço de Emprego:
+Art. 6.º Compete ao Serviço de Emprego:
 
 a) Manter contactos com os organismos competentes de modo a determinar as carências do mercado de trabalho;
 
@@ -144,7 +154,7 @@ i) Participar no circuito que atribui subsídios de desemprego e providenciar no
 
 j) Sugerir linhas de actuação no que concerne a apoio social que porventura não esteja contemplado na lei ou mereça outro tratamento.
 
-###### Art. 7.º Compete ao Serviço de Formação Profissional:
+Art. 7.º Compete ao Serviço de Formação Profissional:
 
 a) Colaborar na institucionalização e desenvolvimento da formação profissional;
 
@@ -156,18 +166,18 @@ d) Criar estruturas técnicas capazes de possibilitar a integração profissiona
 
 e) Promover e assegurar a institucionalização de um serviço de medicina no trabalho, alargado a todos os sectores sócio-profissionais, sobretudo preventiva, em articulação com a Secretaria Regional dos Assuntos Sociais e Saúde e com os organismos sociais da Região.
 
-###### Art. 8.º - 1 - O pessoal da Direcção Regional do Emprego e Formação Profissional constará de um quadro regional aprovado pela Secretaria Regional, com salvaguarda do cominado no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
+Art. 8.º - 1 - O pessoal da Direcção Regional do Emprego e Formação Profissional constará de um quadro regional aprovado pela Secretaria Regional, com salvaguarda do cominado no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
 
 2 - A Direcção Regional terá a chefiá-la um director nomeado por livre escolha do Secretário.
 
 3 - O quadro de pessoal, forma de provimento, categorias e dotações serão determinados por diploma posterior.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 24 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 11 de Fevereiro de 1978.**
+Assinado em 11 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

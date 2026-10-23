@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/2013/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f8ce64757c488f1146dc8079b1e38083cc7c8de6e2ed3df41331f92afccd593
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b07546e9f8b2b0b15b41042623383e1b9ec3862d8e6ca8c9b167d79cc148c79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Vinho
 - Indicação Geográfica
 - Produto Vitivinícola
+- Vinho
 - Vinho Regional Alentejo
 relationships:
+- type: amended_by
+  target: pt:dre:116809384:por
+  label: Alterado o anexo II à Port 276/2010 de 19-mai, na redação do presente diploma pelo(a) Portaria n.º 291/2018 - Diário
+    da República n.º 208/2018, Série I de 2018-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2018-116809384
+  date: '2018-10-29'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:05Z'
   warnings: []
   errors: []
 ---
@@ -133,10 +139,10 @@ O rendimento máximo por hectare das vinhas destinadas aos vinhos e produtos vit
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 19 de dezembro de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 19 de dezembro de 2013.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 Castas aptas à produção de vinho e produtos vitivinícolas com IG «Alentejano»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25100/0699006991.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25100/0699006991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25100/0699006991.pdf)

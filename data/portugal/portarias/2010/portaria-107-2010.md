@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/107/2010/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-2010-609603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2080b6f78a5417dedd057ec0c9573a262ad238751345c296f61d40dbddb888e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556937ca8ba43151da7ef4cc32dda0c4ade3cebbe1023047c55d83cf4b86fb7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Arquivo
 - Conservação de Documentos
 - Definição de Competências
-- Documentação Classificada
-- Secretaria Geral
-- Ministério do Trabalho e da Solidariedade Social
-- Microfilmagem
 - Direcção Geral dos Arquivos
+- Documentação Classificada
+- Microfilmagem
+- Ministério do Trabalho e da Solidariedade Social
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
@@ -83,16 +83,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/763/2003/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/763/2003/08/09/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139472789:por
+  label: Revogado, a partir de 09.08.2020, a presente portaria, pelo(a) Portaria n.º 182/2020 - Diário da República n.º 150/2020,
+    Série I de 2020-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2020-139472789
+  date: '2020-08-04'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:58Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +135,7 @@ Nestes termos, ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do [
 
 3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 11 de Fevereiro de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura, em 10 de Fevereiro de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 11 de Fevereiro de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura, em 10 de Fevereiro de 2010.
 
 ## ANEXO — REGULAMENTO ARQUIVÍSTICO DA SECRETARIA-GERAL DO MINISTÉRIO DO TRABALHO E DA SOLIDARIEDADE SOCIAL
 
@@ -229,10 +247,10 @@ Compete à DGARQ fiscalizar o cumprimento e a execução do disposto no presente
 
 ## ANEXO I — Tabela de selecção de documentos da Secretaria-Geral do Ministério do Trabalho e da Solidariedade Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03600/0048600494.pdf)

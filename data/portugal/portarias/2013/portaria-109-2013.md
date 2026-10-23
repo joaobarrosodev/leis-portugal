@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/109/2013/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/109-2013-259774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19c36f7e48ef0ad8d38663d87f4157b69f626f6a160d4f2b30f061e85e1b4b04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa81035f3424129fbba722aa2f960a41fbdf14fa399cab8481d7eb6c63684db9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Conservador
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
-- Instituto dos Registos e do Notariado
 - Conservatória do Registo Predial
 - Definição de Competências
-- Integração de Serviços
-- Quadro de Pessoal
-- Remuneração
 - Gestão de Recursos Humanos
-- Conservatória do Registo Civil
+- Instituto dos Registos e do Notariado
+- Integração de Serviços
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1448/2001/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1448/2001/12/22/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536989:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:36Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +177,7 @@ c) À fusão das secções da conservatória do registo comercial de Lisboa e da
 
 A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de fevereiro de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de fevereiro de 2013.
 
 Mapa I
 
@@ -173,20 +185,20 @@ Conservatórias anexadas
 
 1.ª Fase
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
 
 2.ª Fase
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
 
 Mapa II
 
 Conservatórias Fundidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
 
 Mapa III
 
 Secções Fundidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05500/0175801761.pdf)

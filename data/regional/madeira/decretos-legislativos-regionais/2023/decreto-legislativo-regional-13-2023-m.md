@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05200/0001900021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2023/03/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-208581818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dca45dfa91a5d9e4cb7cd05a0eb8f01b19433e81696e30dea4fea0271acb835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a6ba47f00f512b6e7b21864a08451889e9d08fbbc9b97661eebece6d213242b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tráfico de Estupefacientes
-- Multa
-- Contra-ordenação
-- Definição de Competências
 - Combate à Droga
-- Saúde Pública
-- Droga
-- Observatório Europeu da Droga e da Toxicodependência
-- Madeira.região Autónoma
+- Contra-ordenação
 - Contraordenação Económica
+- Definição de Competências
+- Droga
+- Madeira.região Autónoma
+- Multa
+- Observatório Europeu da Droga e da Toxicodependência
+- Saúde Pública
+- Tráfico de Estupefacientes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2013/04/17/p/dre
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:106572630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:41Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +179,9 @@ Os artigos 2.º, 11.º e 13.º do [Decreto Legislativo Regional n.º 28/2012/M](
 
 4 - Caso seja necessário, e com base nas listas das novas substâncias psicoativas referidas no n.º 1 do presente artigo, deve o membro do Governo Regional competente na área da saúde atualizar os anexos i e ii através de portaria.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As infrações previstas nas alíneas a), c), d) e e) do n.º 1 do artigo 4.º e no n.º 1 do artigo 8.º do presente diploma constituem contraordenações puníveis, no caso das pessoas singulares, com coimas no valor mínimo de (euro) 1500 e máximo legal previsto de (euro) 7400 e, no caso das pessoas coletivas, nos valores mínimos e máximos previstos para as contraordenações muito graves no Regime Jurídico das Contraordenações Económicas.
 
@@ -165,7 +191,9 @@ Os artigos 2.º, 11.º e 13.º do [Decreto Legislativo Regional n.º 28/2012/M](
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Cumulativamente com as coimas previstas no presente diploma e nos termos do Regime Jurídico das Contraordenações Económicas, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -203,10 +231,12 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de fevereiro de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 9 de março de 2023.**
+Assinado em 9 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116254321

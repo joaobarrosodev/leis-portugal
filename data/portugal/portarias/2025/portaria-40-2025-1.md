@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03200/0001200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/40/2025/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2025-907471183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ada9684a9882e5639b8272b9622ac2f1531c9f4e06a19a64f69337e410d1cb18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46637d947609b07c9fcfe731baf04abb6c017d5c98cb63581992d7aa40d9afe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
+- Bolsa de Estudos
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
 - Direito de Autor
+- Financiamento
 - Literatura
 - Política Cultural
-- Bolsa de Estudos
+- Regulamentação de Atos Legislativos
 - Regulamento para Atribuição de Bolsas de Criação Literária
 relationships:
 - type: cites
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/123/2017/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/123/2017/03/27/p/dre
+- type: cites
+  target: pt:dre:106657701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175865936:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:123/2017
+  label: Revoga, a partir de 15 de fevereiro de 2025, a Portaria n.º 123/2017, de 27 de março, Diário da República n.º 61/2017,
+    Série I
+  source: null
+  date: '2017-03-27'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:32Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +143,7 @@ Assim, nos termos do artigo 4.º do [Decreto-Lei n.º 111/2021](https://diarioda
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**A Ministra da Cultura, Dalila Rodrigues, em 10 de fevereiro de 2025.**
+A Ministra da Cultura, Dalila Rodrigues, em 10 de fevereiro de 2025.
 
 ## ANEXO — Regulamento do Programa Bolsas Anuais de Criação Literária do Ministério da Cultura
 
@@ -324,3 +338,5 @@ Os direitos de autor da obra literária serão regulados pelo Código do Direito
 ###### Artigo 24.º — Norma transitória
 
 Sem prejuízo do disposto no n.º 1 do artigo 6.º, a abertura do Programa Bolsas Anuais de Criação Literária do Ministério da Cultura relativo ao ano de 2025 concretiza-se por despacho do membro do Governo responsável pela área da cultura até ao final de março de 2025.
+
+118685108

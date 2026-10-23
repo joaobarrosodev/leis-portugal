@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13700/0488004887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,26 +46,40 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/2015/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2015-69820478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aada06f79877e9dc1acfb8cfb5f6e86bee390e2090b1d3ecebea8d65fc8149b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddf934c10cb7513bfc1d0cde57be4815ed56f6f3edd4f121e3394ff96ba0285c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Definição de Competências
+- Estatuto
+- Instituto da Mobilidade e dos Transportes
+- Instituto de Infra-Estruturas Rodoviárias
+- Instituto Público
+- Pessoal Dirigente
 relationships:
+- type: amended_by
+  target: pt:dre:126275572:por
+  label: Criado o Núcleo de Veículos, Condutores, Fiscalização e Contraordenações, integrado na Direção Regional de Mobilidade
+    e Transportes do Alentejo, constante da al.d) do n.º 5, da presente portaria, pelo(a) Deliberação n.º 1217/2019 - Diário
+    da República n.º 223/2019, Série II de 2019-11-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1217-2019-126275572
+  date: '2019-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/2012/10/31/p/dre
   label: null
@@ -98,16 +112,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/546/2007/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/546/2007/04/30/p/dre
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250267:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1175177139:por
+  label: Revogada, a partir de 1 de outubro de 2026, pelo(a) Portaria n.º 445/2026/1 - Diário da República n.º 190/2026, Série
+    I de 2026-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/445-2026-1175177139
+  date: '2026-09-30'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:54Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +188,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 6 de julho de 2015.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Economia, António de Magalhães Pires de Lima.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Economia, António de Magalhães Pires de Lima.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DA MOBILIDADE E DOS TRANSPORTES, I. P.
 

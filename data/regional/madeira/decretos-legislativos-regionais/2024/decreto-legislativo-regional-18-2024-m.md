@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24600/0009100100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2024/12/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec56814b48290a5a2c257b8efbd046577c97d1cd2ec6b1530a03e73b6b7387b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1905e3120d7b2f022b4930ec61328cc260d990d985debae0d6b9ce92bf52662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comunicação Social
 - Empresa Privada
+- Financiamento
 - Incentivos à Comunicação Social
 - Madeira.região Autónoma
 - Sistema de Incentivos do Estado a Comunicação Social
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:39/2016/M
+  label: Altera, a partir de 20 de dezembro de 2024, os artigos 4.º, 5.º, 8.º e 9.º e republica o Decreto Legislativo Regional
+    n.º 39/2016/M, de 18 de agosto, Diário da República n.º 158/2016, Série I
+  source: null
+  date: '2016-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/2015/02/06/p/dre
   label: null
@@ -105,16 +111,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72768630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75158991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:53Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +181,7 @@ A presente revisão do diploma consubstancia, pois, uma visão renovada e atuali
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, conjugado com a alínea c) do n.º 1 do artigo 37.º, a alínea aa) do artigo 40.º e o n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, conjugado com a alínea c) do n.º 1 do artigo 37.º, a alínea aa) do artigo 40.º e o n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -161,7 +199,9 @@ São alterados os artigos 4.º, 5.º, 8.º e 9.º do [Decreto Legislativo Region
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -199,7 +239,9 @@ f) Tenham, nos 12 meses anteriores à data de apresentação da candidatura, uma
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -217,7 +259,9 @@ e) [...]
 
 3 - O apoio às iniciativas referidas no n.º 1 consiste na comparticipação, a título de incentivo não reembolsável, das despesas elegíveis executadas da candidatura aprovada, nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -237,11 +281,11 @@ e) [...]
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 16 de dezembro de 2024.**
+Assinado em 16 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -470,3 +514,5 @@ d) Acompanhar a execução dos projetos beneficiados.
 ###### Artigo 18.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+118472937

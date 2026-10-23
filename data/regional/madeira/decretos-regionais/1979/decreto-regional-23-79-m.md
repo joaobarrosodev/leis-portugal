@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/23-1979-364925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d69ef799c42839a6e0bd1b4177c43a607b0d76ae0fd85f1b6fe7f5f8db7e44c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b00c98dbc5fa05573ed015d093207a09ec990c3f88c9020ce0cb69e3d96e0c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Regional
+- AVAL do Estado
+- Definição de Competências
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:405300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405300:por
+  label: "Revogado,sem prejuízo dos avales concedidos ao abrigo do presente diploma, pelo DLR.24/2002/M.2002.12.03.ALR-RAM,\
+    \ DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2002-405300
+  date: '2002-12-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:28Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +113,11 @@ Assim, nestes termos:
 
 A Assembleia Regional decreta, ao abrigo da alínea a) do artigo 229.º da Constituição da República Portuguesa e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º A Assembleia Regional fixará, sob proposta do Governo, o limite máximo anual dos avales a conceder a operações de crédito.
+Artigo 1.º A Assembleia Regional fixará, sob proposta do Governo, o limite máximo anual dos avales a conceder a operações de crédito.
 
-###### Art. 2.º Poderão ser avalizadas pelo Governo Regional as operações de crédito a realizar por qualquer sujeito de direito.
+Art. 2.º Poderão ser avalizadas pelo Governo Regional as operações de crédito a realizar por qualquer sujeito de direito.
 
-###### Art. 3.º - 1 - O aval do Governo tem carácter excepcional e será autorizado quando se refira a financiamentos de projectos de manifesto interesse regional e que estejam relacionadas com o Plano Regional.
+Art. 3.º - 1 - O aval do Governo tem carácter excepcional e será autorizado quando se refira a financiamentos de projectos de manifesto interesse regional e que estejam relacionadas com o Plano Regional.
 
 2 - O aval será prestado quando se verifique, no mínimo, uma das seguintes condições:
 
@@ -115,25 +129,25 @@ c) Constituição de fundo de maneio a empresas de interesse regional;
 
 d) Ser o aval imprescindível ao financiamento em virtude da política bancária.
 
-###### Art. 4.º O aval do Governo poderá ser prestado, nomeadamente, quando vise os seguintes objectivos:
+Art. 4.º O aval do Governo poderá ser prestado, nomeadamente, quando vise os seguintes objectivos:
 
 a) Realização de investimentos mesmo de reduzida rendibilidade, desde que enquadráveis nos objectivos do Plano Regional;
 
 b) Realização de investimentos de rendibilidade adequada, sendo a empresa economicamente viável, embora possua deficiência transitória de situação financeira.
 
-###### Art. 5.º A utilização total ou parcial do empréstimo por outras entidades diferentes da beneficiária da garantia importa o imediato vencimento de todas as obrigações contraídas.
+Art. 5.º A utilização total ou parcial do empréstimo por outras entidades diferentes da beneficiária da garantia importa o imediato vencimento de todas as obrigações contraídas.
 
-###### Art. 6.º Os créditos avalizados terão de ser reembolsados no prazo máximo de quinze anos a contar da data dos respectivos contratos, podendo a Assembleia Regional aprovar a sua prorrogação.
+Art. 6.º Os créditos avalizados terão de ser reembolsados no prazo máximo de quinze anos a contar da data dos respectivos contratos, podendo a Assembleia Regional aprovar a sua prorrogação.
 
-###### Art. 7.º A concessão do aval será prestada por resolução do Governo Regional, ou de entidade a quem delegar competência para tal, o qual poderá obter parecer da Assembleia Regional.
+Art. 7.º A concessão do aval será prestada por resolução do Governo Regional, ou de entidade a quem delegar competência para tal, o qual poderá obter parecer da Assembleia Regional.
 
-###### Art. 8.º A resolução do Governo Regional exige minuta do contrato de empréstimo incluindo o plano de reembolso do capital mutuado e do pagamento de juros.
+Art. 8.º A resolução do Governo Regional exige minuta do contrato de empréstimo incluindo o plano de reembolso do capital mutuado e do pagamento de juros.
 
-###### Art. 9.º A alteração do plano de reembolso do capital e do pagamento dos juros só ocorrerá mediante despacho favorável do Secretário Regional do Planeamento e Finanças.
+Art. 9.º A alteração do plano de reembolso do capital e do pagamento dos juros só ocorrerá mediante despacho favorável do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 10.º O pedido de concessão de aval será dirigido ao Secretário Regional do Planeamento e Finanças, que ouvirá o Secretário Regional da tutela.
+Art. 10.º O pedido de concessão de aval será dirigido ao Secretário Regional do Planeamento e Finanças, que ouvirá o Secretário Regional da tutela.
 
-###### Art. 11.º O pedido de concessão de aval será obrigatoriamente instruído, além dos que forem exigidos pelo Secretário Regional do Planeamento e Finanças, pelos seguintes elementos:
+Art. 11.º O pedido de concessão de aval será obrigatoriamente instruído, além dos que forem exigidos pelo Secretário Regional do Planeamento e Finanças, pelos seguintes elementos:
 
 a) Apreciação da situação económica e financeira da empresa e apresentação de indicadores de funcionamento;
 
@@ -143,26 +157,26 @@ c) Indicação de garantias facultadas ao Governo Regional;
 
 d) Minuta do contrato do empréstimo, plano de utilização do financiamento e esquema de reembolso e demonstração da sua compatibilização com a capacidade financeira da empresa.
 
-###### Art. 12.º As entidades beneficiárias do aval da Região enviarão à Secretaria Regional do Planeamento e Finanças cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros, indicando as importâncias que deixam de constituir objecto de garantia da Região.
+Art. 12.º As entidades beneficiárias do aval da Região enviarão à Secretaria Regional do Planeamento e Finanças cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros, indicando as importâncias que deixam de constituir objecto de garantia da Região.
 
-###### Art. 13.º As entidades beneficiárias enviarão à Secretaria Regional do Planeamento e Finanças o relatório e as contas de resultados e balanços anuais e ainda orçamentos previsionais de exploração e tesouraria.
+Art. 13.º As entidades beneficiárias enviarão à Secretaria Regional do Planeamento e Finanças o relatório e as contas de resultados e balanços anuais e ainda orçamentos previsionais de exploração e tesouraria.
 
-###### Art. 14.º - 1 - A concessão do aval confere ao Governo Regional o direito de proceder à fiscalização da entidade beneficiária, tanto financeira e económica como técnica e administrativa.
+Art. 14.º - 1 - A concessão do aval confere ao Governo Regional o direito de proceder à fiscalização da entidade beneficiária, tanto financeira e económica como técnica e administrativa.
 
 2 - Desde que seja apurada fraude na gestão da empresa, o Governo Regional poderá assumir o contrôle da empresa a título transitório.
 
-###### Art. 15.º Sem prejuízo de outras garantias, a Região goza do privilégio mobiliário geral sobre os bens das entidades beneficiárias, até ao montante da quantia despendida em razão da garantia prestada.
+Art. 15.º Sem prejuízo de outras garantias, a Região goza do privilégio mobiliário geral sobre os bens das entidades beneficiárias, até ao montante da quantia despendida em razão da garantia prestada.
 
-###### Art. 16.º As dúvidas suscitadas pela execução do presente decreto regional serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças.
+Art. 16.º As dúvidas suscitadas pela execução do presente decreto regional serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 17.º O disposto nos artigos 5.º, 13.º, 14.º e 15.º aplica-se também aos avales já concedidos.
+Art. 17.º O disposto nos artigos 5.º, 13.º, 14.º e 15.º aplica-se também aos avales já concedidos.
 
-###### Art. 18.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 13 de Julho de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 30 de Julho de 1979.**
+Assinado em 30 de Julho de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

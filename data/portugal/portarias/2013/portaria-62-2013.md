@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03000/0077800779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2013/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2013-258724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08c15abac55030ea2e8433cc4d20b2e7794c0c124dc33f0aa400d24f90597388
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e8b91862c579ab95b2ba59ace98501ee7517a343c7e4a1ef977b99fcd8c9266
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Navegação Aérea
-- Transporte Aéreo
 - Faro
-- Lisboa
 - Horta
 - ILHA das Flores
-- NAV Portugal
-- Ponta Delgada
-- Porto Santo
+- Lisboa
 - Madeira.região Autónoma
+- NAV Portugal
+- Navegação Aérea
+- Ponta Delgada
+- Porto
+- Porto Santo
 - Taxa Aeroportuária
 - Tráfego Aéreo
-- Porto
+- Transporte Aéreo
 relationships:
 - type: cites
   target: celex:32006R1794
@@ -88,16 +88,21 @@ relationships:
   target: celex:32010R1191
   label: null
   source: http://data.europa.eu/eli/reg/2010/1191/oj
+- type: repealed_by
+  target: pt:dre:58728916:por
+  label: Revogada, a partir de 05.11.2014, pelo(a) Portaria n.º 221/2014 - Diário da República n.º 213/2014, Série I de 2014-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2014-58728916
+  date: '2014-11-04'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:17Z'
   warnings: []
   errors: []
 ---
@@ -146,4 +151,4 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2013.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 1 de fevereiro de 2013.**
+O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 1 de fevereiro de 2013.

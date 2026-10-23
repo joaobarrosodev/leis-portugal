@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03500/0003700041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59/2024/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f4ab256ae83b115422828ccdf02a55f56d19222a28f6da558689e00e5e931ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0619350823c0a09a5e1cfc60fb210976ca450a4d68cdea5ac2ed743c0f405fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Fiscalização
-- Inscrição Obrigatória
-- Documento Eletrónico
-- Instituto da Habitação e da Reabilitação Urbana
-- Habitação
-- Renda de CASA
-- Renda Limite
 - Arrendamento Urbano para Habitação
+- Documento Eletrónico
+- Fiscalização
+- Habitação
+- Inscrição Obrigatória
+- Instituto da Habitação e da Reabilitação Urbana
 - Plataforma Eletrónica
 - Programa de Arrendamento Acessível
+- Regulamentação de Atos Legislativos
+- Renda de CASA
+- Renda Limite
 relationships:
+- type: amends
+  target: pt:numero:portaria:177/2019
+  label: Altera, a partir de 20 de fevereiro de 2024, os artigos 1.º, 2.º, 4.º e 5.º, e revoga a alínea b) do artigo 1.º e
+    o artigo 3.º da Portaria n.º 177/2019, de 6 de junho, Diário da República n.º 109/2019, Série I, que republica
+  source: null
+  date: '2019-06-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2023/05/29/p/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/177/2019/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/177/2019/06/06/p/dre
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122520774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213650805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:31Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +178,9 @@ c) Os elementos de informação necessários à inscrição do alojamento, nos t
 
 d) [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 As condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos a disponibilizar no âmbito do Programa de Apoio ao Arrendamento, previstas na alínea a) do artigo 8.º do [Decreto-Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682), de 22 de maio, na sua redação atual, são, cumulativamente, as seguintes:
 
@@ -158,7 +190,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 4.º — Elementos necessários à inscrição de alojamentos
+Artigo 4.º
+
+Elementos necessários à inscrição de alojamentos
 
 1 - Para efeitos da inscrição de alojamentos no âmbito do Programa de Apoio ao Arrendamento na plataforma eletrónica, são necessários os seguintes elementos de informação:
 
@@ -186,7 +220,9 @@ f) Coeficiente energético.
 
 7 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O certificado de inscrição de um alojamento no Programa de Apoio ao Arrendamento, previsto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682), de 22 de maio, na sua redação atual, é emitido pela plataforma eletrónica com base nos elementos de informação previstos no artigo anterior, contendo o seguinte:
 
@@ -224,7 +260,7 @@ São revogados a alínea b) do artigo 1.º e o artigo 3.º da [Portaria n.º 177
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 12 de fevereiro de 2024.**
+A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 12 de fevereiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -323,3 +359,5 @@ j) A data de emissão e validade do certificado.
 ###### Artigo 6.º — Entrada em vigor
 
 A presente portaria entra em vigor a 1 de julho de 2019.
+
+117359527

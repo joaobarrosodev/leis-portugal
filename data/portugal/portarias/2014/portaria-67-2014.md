@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05000/0184401845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/67/2014/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73feac6e1ab641032017c0ef6d3acfe25f7ed2dfa15cbf83cd3bd109e2add515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d2ece84cc7989c03365890e824bf8af83bb060ba28fefd1233b045c93aec40f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,19 @@ subjects:
 - Instituto da Vinha e do Vinho
 - Regime de Apoio
 - Regulamento CE
-- Vitivinicultor
 - Vinha
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:105371772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69866575:por
+  label: Alterado o art 8.º da Port 357/2013 de 10-dez, na redação do presente diploma, pelo(a) Portaria n.º 219/2015 - Diário
+    da República n.º 142/2015, Série I de 2015-07-23 nos termos do art. 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-2015-69866575
+  date: '2015-07-23'
 - type: cites
   target: celex:32008R0555
   label: null
@@ -85,16 +91,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/357/2013/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/357/2013/12/10/p/dre
+- type: repealed_by
+  target: pt:dre:105371772:por
+  label: Revogada, a partir de 17.12.2016, a Port 357/2013 de 10-dez, alterada pela presente, pelo(a) Portaria n.º 320/2016
+    - Diário da República n.º 240/2016, Série I de 2016-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2016-105371772
+  date: '2016-12-16'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:50Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +145,9 @@ Os artigos 7.º, 8.º, 11.º e 15.º e o n.º 2 do anexo II da Portaria n.º 357
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - São elegíveis os investimentos iniciados 20 dias após o termo do prazo de submissão das candidaturas, salvo em situações devidamente autorizadas pelo IVV, I. P.
 
@@ -141,7 +155,9 @@ Os artigos 7.º, 8.º, 11.º e 15.º e o n.º 2 do anexo II da Portaria n.º 357
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Podem ser submetidos pedidos de alteração às candidaturas até ao termo do período referido no n.º 1 do artigo anterior, os quais seguem os procedimentos previstos para a submissão e decisão das candidaturas.
 
@@ -149,7 +165,9 @@ Os artigos 7.º, 8.º, 11.º e 15.º e o n.º 2 do anexo II da Portaria n.º 357
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -171,13 +189,15 @@ Os artigos 7.º, 8.º, 11.º e 15.º e o n.º 2 do anexo II da Portaria n.º 357
 
 10 - No caso de incumprimento dos requisitos legais de gestão e das boas condições agrícolas e ambientais a que se refere o n.º 3 do artigo 19.º, verificado até três anos após o pagamento do apoio, e que resulte de um ato ou omissão diretamente imputável ao beneficiário, o montante do pagamento é reduzido ou cancelado, parcial ou totalmente, em função da gravidade, extensão, permanência e reiteração do incumprimento.
 
-## Anexo II — [...]
+Anexo II
+
+[...]
 
 1 - [...]
 
 2 - Instalação da vinha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05000/0184401845.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05000/0184401845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05000/0184401845.pdf)
 
 3 - [...]
 
@@ -195,4 +215,4 @@ O n.º 3 do artigo 8.º da Portaria n.º 357/2013, de 10 de dezembro, é revogad
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 6 de março de 2014.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 6 de março de 2014.

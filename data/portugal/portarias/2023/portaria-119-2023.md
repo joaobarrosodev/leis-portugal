@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09100/0000800017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/119/2023/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/119-2023-212905821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df1eb71c458948c95f5161b4fc50c7fb34fed4f04c9fd59332dc65942d8447a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc7140ba37a2387103eac9a6d966f9f246a2921ec41c3cca7b7d409014a67cc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro de Competências de Envelhecimento Ativo
+- Criação de Serviços
+- Formação Profissional
+- Homologação
 - Instituto da Segurança Social
 - Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Terceira Idade
-- Criação de Serviços
-- Homologação
 - Loulé
-- Centro de Competências de Envelhecimento Ativo
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:904232914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:897816390:por
+  label: Determinada, a partir de 30 de novembro de 2024, a fusão do Centro de Formação Profissional de Competências de Envelhecimento
+    Ativo, cujo protocolo de criação foi homologado pelo presente diploma com o Centro para a Economia e Inovação Social pelo(a)
+    Portaria n.º 303/2024/1 - Diário da República n.º 229/2024, Série I de 2024-11-26 nos termos do artigo 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/303-2024-897816390
+  date: '2024-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/2012/07/11/p/dre
   label: null
@@ -90,16 +97,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/100/2019/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/100/2019/09/06/p/dre
+- type: cites
+  target: pt:dre:124500714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553887:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:904232914:por
+  label: Revogada, a partir de 23 de janeiro de 2025, pelo(a) Portaria n.º 20/2025/1 - Diário da República n.º 15/2025, Série
+    I de 2025-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2025-904232914
+  date: '2025-01-22'
 article_structure:
   article_count: 2
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:20Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +187,7 @@ Ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do [Decreto-Lei n.º 165/85
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data da assinatura do protocolo constante do anexo.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 5 de maio de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 5 de maio de 2023.
 
 ## ANEXO — Protocolo de Criação do Centro de Competências de Envelhecimento Ativo
 
@@ -553,3 +586,5 @@ O presente protocolo entra em vigor depois de assinado pelos outorgantes e homol
 Loulé, 27 de abril de 2023.
 
 Pelo Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), Domingos Jorge Ferreira Lopes. - Pela Associação para o Desenvolvimento do Centro Académico de Investigação e Formação do Algarve, Pedro Jorge Gomes Teodósio Castelo Branco. - Pelo Instituto da Segurança Social, I. P., Catarina Marcelino Rosa da Silva.
+
+116446795

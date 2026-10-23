@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/2010/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2010-617100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75e414fdbac62cdcf85e25a2304ffd398bd44524023d25eb84f39b17900b5113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39e4d35733880b41c70298ce9f43f3df9e618a828ce50000d0b19ba2c8875375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1232/2007/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1232/2007/09/21/p/dre
+- type: cites
+  target: pt:dre:438418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642257:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:15Z'
   warnings: []
   errors: []
 ---
@@ -131,6 +147,6 @@ Cumpridos os preceitos legais e com base no disposto no artigo 46.º do [Decreto
 
 A concessão prevista nesta portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 26 de Janeiro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 26 de Janeiro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02500/0032400325.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02500/0032400325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02500/0032400325.pdf)

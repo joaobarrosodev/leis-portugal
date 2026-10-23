@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/2025/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2025-908074085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9dbe282bfbfb4f3368c073ee8b6e76fb1e8377e18076f037f1b1e44306d3ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e776b21d6141e9f61be41464aac81b34f7d455af70a968a11e2e053105181f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Regulamentação de Atos Legislativos
-- Competitividade Empresarial
-- Internacionalização Empresarial
 - Competitividade da Economia
+- Competitividade Empresarial
+- Empresa
+- Internacionalização Empresarial
 - Investigação
 - Microempresa
 - Pequenas e Médias Empresas
+- Regulamentação de Atos Legislativos
 - Regulamento Específico do Sistema de Incentivos à Competitividade das Startups
 - Startup
 relationships:
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/2023/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/21/2023/05/25/p/dre
+- type: cites
+  target: pt:dre:213498830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:05Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +158,7 @@ Assim, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 6/2015](https://
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 14 de fevereiro de 2025.**
+O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 14 de fevereiro de 2025.
 
 ## ANEXO — Regulamento Específico do Sistema de Incentivos à Competitividade das Startups
 
@@ -455,3 +471,5 @@ Sem prejuízo do estabelecido no artigo 13.º, os beneficiários ficam ainda obr
 a) Apresentarem, no prazo máximo de 60 dias úteis, após a conclusão do projeto, o relatório final, de acordo com a minuta de relatório a disponibilizar para o efeito, bem como todos os comprovativos de despesa elegível no âmbito do projeto;
 
 b) Requererem o reconhecimento legal de Startup, até ao prazo máximo de 60 dias úteis após a conclusão do projeto, nos termos do disposto na [Lei n.º 21/2023](https://diariodarepublica.pt/dr/detalhe/lei/21-2023-213498830), de 25 de maio.
+
+118701697

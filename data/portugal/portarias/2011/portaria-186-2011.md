@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/186/2011/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-2011-286771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 963893a30278fe906c4edd9cef4d8dd4430b8277badc3615e1501c023d6caf16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b883306078ea0f128cbd7069b6063dff0f9ed4d21b0ac334fc8b23d6d8d3543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ÁGUA Potável
-- Cartaxo
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- ÁGUA Potável
+- Águas Subterrâneas
+- Cartaxo
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:07Z'
   warnings: []
   errors: []
 ---
@@ -232,11 +244,11 @@ As zonas de protecção intermédia e alargada, respeitantes aos perímetros de 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 29 de Abril de 2011.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 29 de Abril de 2011.
 
 ## ANEXO I — Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 ## ANEXO II — Zona de protecção imediata
 
@@ -244,31 +256,31 @@ Pólo de captação do Cartaxo
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Captação AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Captação AC5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Vila Chã
 
 Captação AC3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Casal Branco
 
 Captação AC4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 ## ANEXO III — Zona de protecção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 ## ANEXO IV — Zona de protecção alargada
 
@@ -276,23 +288,23 @@ Pólo de captação do Cartaxo
 
 Captações AC1 e AC5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Captação AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Vila Chã
 
 Captação AC3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Casal Branco
 
 Captação AC4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -304,12 +316,12 @@ Série M888 - 1/25 000 (IGeoE)
 
 Pólo de captação do Cartaxo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Vila Chã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
 
 Pólo de captação de Casal Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0259702601.pdf)

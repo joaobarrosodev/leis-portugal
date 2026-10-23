@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2014/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2014-572441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab2359cc2e2d27b6bcc14f89e68fb97951d5ad8d4d1dfe4e6a03fe2a4ea1d7bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d7f108088407305488768ee1b7f9eed721471ef34d6daf9b21502b00ceb7a6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Artístico
-- Plano de Estudos
-- Instituto das Artes e da Imagem
 - Estabelecimento de Ensino
+- Instituto das Artes e da Imagem
+- Plano de Estudos
 - VILA NOVA de GAIA
 relationships:
 - type: cites
@@ -97,16 +97,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/836/2004/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/836/2004/07/16/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:125085421:por
+  label: Revogada pelo(a) Portaria n.º 360/2019 - Diário da República n.º 193/2019, Série I de 2019-10-08, a partir do ano
+    letivo de 2018-2019 e de acordo com a calendarização de produção de efeitos estabelecida no art. 50.º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-2019-125085421
+  date: '2019-10-08'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:42Z'
   warnings: []
   errors: []
 ---
@@ -149,50 +179,50 @@ c) Curso de Imagem Interativa.
 
 A presente portaria produz efeitos a partir do ano letivo de 2012-2013.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 5 de fevereiro de 2014.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 5 de fevereiro de 2014.
 
 ## ANEXO I — Curso de Conservação e Restauro do Património
 
-# Parte A
+## Parte A
 
 No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por disciplina, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
-# Parte B
+## Parte B
 
 O plano de estudos apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
 ## ANEXO II — Curso de Desenho de Arquitetura
 
-# Parte A
+## Parte A
 
 No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por disciplina, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
-# Parte B
+## Parte B
 
 O plano de estudos apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
 ## ANEXO III — Curso de Imagem Interativa
 
-# Parte A
+## Parte A
 
 No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por disciplina, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
-# Parte B
+## Parte B
 
 O plano de estudos apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
 
 ## ANEXO IV — Provas de equivalência à frequência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03300/0144301448.pdf)

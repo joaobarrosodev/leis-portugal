@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/942/2009/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/942-2009-488305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7855520268ac917f6ac607f44d33f0d1f947918184f056f054e252e441b65bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab0fe7ab9ef7d612ce1a9c44062abd06f0031c2a04ca1741340b19f4b4afb78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Bailado
 - Concurso Público
+- Ensino Artístico
 - Ensino Oficial
-- Recrutamento de Pessoal
-- Música
 - Estabelecimento de Ensino
+- Música
 - Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
@@ -115,16 +115,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:12Z'
   warnings: []
   errors: []
 ---
@@ -357,4 +409,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Em 10 de Agosto de 2009.
 
-**O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado da Educação, Valter Victorino Lemos.**
+O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado da Educação, Valter Victorino Lemos.

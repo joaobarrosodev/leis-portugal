@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decminrepram/3/1996/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica-para-regiao-autonoma-madeira/3-1996-165848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b909020582f12419213b0a8158b15355b5b4d94a91cdecd8a4a20eb5e5a0a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e1ebf62f063ee72896ed6a8d1371c742e9c47595be9694041287a0f86b5296c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Presidente do Governo Regional
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
+- Presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:615038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615038:por
+  label: "Exonerado pelo DEC.1/2000.2000.11.14.MR-RAM DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-ministro-republica-para-regiao-autonoma-madeira/1-2000-615038
+  date: '2000-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:07Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +107,8 @@ de 11 de Novembro
 
 Ao abrigo do n.º 3 do artigo 233.º da Constituição e do n.º 1 do artigo 39.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, nomeio Presidente do Governo Regional da Região Autónoma da Madeira o Dr. Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Novembro de 1996.**
+Assinado em 11 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

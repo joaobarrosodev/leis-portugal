@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/2012/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-2012-175983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e3aef5f1a119053e5200ffeb160d0426509e5ef30efdae92d1f2176e64c6f6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d711e4e9d21738e4f530c815bf2146c87c07c5b3c0a8847127551dc1691ab91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Língua Portuguesa
 - Cultura Portuguesa
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Português no Estrangeiro
 - Ensino Secundário
 - Licença sem Vencimento
+- Língua Portuguesa
 - Pessoal Docente
-- Ensino Básico
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165-c/2009/07/28/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:20Z'
   warnings: []
   errors: []
 ---
@@ -162,4 +186,4 @@ O pedido referido no n.º 1 do artigo 3.º, destinado ao ano escolar de 2012-201
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 29 de agosto de 2012.**
+O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 29 de agosto de 2012.

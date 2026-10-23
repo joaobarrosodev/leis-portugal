@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-383036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dad09983765eb6a8f737fce47afb2b54f114f7ad3001dcba7eb49b6bc1d96f88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d07632c54a73214750907f502798244d36b2753e51657f744fc1465f2abd13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional
+- Junta Geral
+- Madeira.região Autónoma
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Secretaria Regional
 relationships:
 - type: amended_by
   target: pt:dre:401356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:57Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +118,7 @@ Nestes termos:
 
 O Governo Regional, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, do artigo 33.º alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, do artigo 2.º do Decreto Regional n.º 1/76, de 21 de Julho, e do artigo 4.º do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), publicado no Diário da República, de 10 de Março de 1978, decreta o seguinte:
 
-###### Artigo 1.º O artigo 17.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 17.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, passa a ter a seguinte redacção:
 
 ###### ARTIGO 17.º — (Pessoal administrativo)
 
@@ -116,12 +140,12 @@ b) A carreira desenvolver-se-á pelas categorias de escriturário-dactilógrafo 
 
 c) ...
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de Abril de 1979.**
+Assinado em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

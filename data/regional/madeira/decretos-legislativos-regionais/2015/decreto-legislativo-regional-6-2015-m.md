@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2015/08/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfafea0d0973d422f2589d1b942e41802dbc1b0873112d3e358bbb822b25a475
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef0dd1591578ffcc9dfd157e842cf075b6f4bb3e768011e068fdf3d7990b45c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Autorização de Despesas
-- Pessoal Dirigente
-- Matéria Plástica
 - Código dos Impostos Especiais de Consumo
-- Transporte Marítimo
-- Transporte Aéreo
 - Contenção de Despesas
 - Contra-ordenação
 - Contrato de Concessão
+- Contribuições e Impostos
 - Despesas Públicas
-- Empresa Pública Regional
 - Empresa Pública
+- Empresa Pública Regional
 - Estatuto
+- Estatuto Remuneratório
 - Gestor Público
 - Gestor Público Regional
 - IHM
-- Contribuições e Impostos
 - Indústria de Plásticos
 - Instituto de Desenvolvimento Empresarial
+- Instituto de Segurança Social da Madeira
 - Isenção Fiscal
 - Madeira Parques Empresariais
+- Madeira.região Autónoma
+- Matéria Plástica
 - Orçamento
 - Orçamento Regional
+- Pessoal Dirigente
 - Prémio de Seguro
-- Madeira.região Autónoma
 - Receita
 - Secretário Regional das Finanças Planeamento e Administração Pública
 - Serviço Regional de Protecção Civil
-- Administração Regional
-- Estatuto Remuneratório
 - Sociedade de Desenvolvimento Regional
 - Subsídio
 - Taxa
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- Instituto de Segurança Social da Madeira
+- Transporte Aéreo
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantido em vigor, com efeitos desde 01.01.2017, o suplemento de produtividade atribuído aos trabalhadores da Autoridade
+    Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 34.º do DLR 28/2006/M de 19-jul, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento,
+    Série I de 2016-12-30 nos termos do n.º 1 do seu art. 46.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Mantido em vigor, com efeitos desde 01.01.2018, o suplemento de produtividade atribuído aos trabalhadores da Autoridade
+    Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 34.º do DLR 28/2006/M de 19-jul, na redação
+    do presente diploma, Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+    nos termos do n.º 1 do seu art. 44.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterados, nos termos do disposto nos n.ºs 1 e n.º 3 do art. 64.º do DLR 26/2018/M de 31-dez, a partir de 31.03.2019,
+    os arts. 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 14.º, 15.º, 16.º, 17.º, 18.º e 19.º do regime jurídico da contribuição
+    regional sobre os sacos de plástico leves, aprovado pelo art. 14.º do presente diploma, e determinado, nos termos do disposto
+    no n.º 2 do citado art. 64.º , que o referido regime passe a designar-se «Regime jurídico dos sacos de plástico» pelo(a)
+    Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantido em vigor, com efeitos desde 01.01.2020, o suplemento de produtividade atribuído aos trabalhadores da Autoridade
+    Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do art. 34.º, na redação do presente diploma, do
+    DLR 28/2006/M de 19-jul pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento,
+    Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: celex:31994L0062
   label: null
@@ -154,16 +187,188 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65891078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
 article_structure:
   article_count: 52
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:57Z'
   warnings: []
   errors: []
 ---
@@ -552,7 +757,9 @@ d) [...];
 
 e) Atribuir, excecionalmente, apoios financeiros à concessionária, em caso de quebra substancial das suas receitas ou desde que esteja em causa o cumprimento pontual dos seus encargos e responsabilidades perante terceiros.
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 São obrigações da concessionária:
 
@@ -582,7 +789,9 @@ l) [...];
 
 m) [...].
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 São direitos da concessionária, entre outros:
 
@@ -960,11 +1169,11 @@ O presente regime jurídico entra em vigor no dia seguinte ao da sua publicaçã
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 30 de julho de 2015.**
+Assinado em 30 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -974,7 +1183,7 @@ Receitas da região
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA II
 
@@ -982,7 +1191,7 @@ Despesas por departamentos regionais e capítulos
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA III
 
@@ -990,7 +1199,7 @@ Despesas por classificação funcional
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA IV
 
@@ -998,7 +1207,7 @@ Despesas por grandes agrupamentos económicos
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA V
 
@@ -1006,7 +1215,7 @@ Receita global dos serviços, institutos e fundos autónomos
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA VI
 
@@ -1014,7 +1223,7 @@ Despesa global dos serviços, institutos e fundos autónomos
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA VII
 
@@ -1022,7 +1231,7 @@ Despesas dos serviços, institutos e fundos autónomos por classificação funci
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA VIII
 
@@ -1030,13 +1239,13 @@ Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos 
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA IX
 
 Programação plurianual do investimento por programas e medidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
 
 MAPA X
 
@@ -1044,4 +1253,4 @@ Despesas correspondentes a programas
 
 (artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15700/0581805906.pdf)

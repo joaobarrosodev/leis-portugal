@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 107/2022, 1º Suplemento, Série I de 2022-06-02
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 30-(2) a 30-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10701/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/154-a/2022/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2022-184350761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b833fe63c0c1be9cf9f4b0b049dea1d412898ddae9161a613dad81848304d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33b641548cc2eabbe96e4e0edf5220da6baf3fea3a2fc75728eb90b5267bb39a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Comissão Permanente de Concertação Social
-- Saúde
-- Desempregado
-- Entidade sem FINS Lucrativos
-- Equipamento Social
-- Medida de Apoio à Segurança
-- Saúde Pública
-- Estudante
-- Fiscalização
-- Refugiado
-- Incentivo Profissional
-- Documento Eletrónico
+- Contrato de Trabalho
 - Criação de Emprego
-- Doença Infecciosa
-- Epidemia
-- Prémio
-- Qualificação Profissional
-- Rendimento Social de Inserção
-- Emprego
 - Cuidados Médicos
+- Desempregado
+- Documento Eletrónico
+- Doença Infecciosa
+- Emprego
+- Entidade sem FINS Lucrativos
+- Epidemia
+- Equipamento Social
+- Estudante
+- Financiamento
+- Fiscalização
+- Formação Profissional
+- Incentivo Profissional
+- Instituto do Emprego e Formação Profissional
+- Medida de Apoio à Segurança
+- Medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde
+- Prémio
 - Promoção de Emprego
 - Proteção no Desemprego
-- Protecção Temporária
 - Proteção Social
-- Contrato de Trabalho
+- Protecção Temporária
+- Qualificação Profissional
+- Refugiado
+- Rendimento Social de Inserção
+- Saúde
+- Saúde Pública
 - Subsídio de Apoio Social
 - Subsídio de Desemprego
 - Subsídio Social de Desemprego
 - Trabalhador Independente
-- Medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:839926119:por
@@ -128,16 +128,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
+- type: cites
+  target: pt:dre:107541408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130956136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:839926119:por
+  label: Revogada, a partir de 2 de fevereiro de 2024, pelo(a) Portaria n.º 39-A/2024 - Diário da República n.º 23/2024, 1º
+    Suplemento, Série I de 2024-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-a-2024-839926119
+  date: '2024-02-01'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:12Z'
   warnings: []
   errors: []
 ---
@@ -380,4 +410,6 @@ As medidas previstas na presente portaria são objeto de avaliação regular por
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 1 de junho de 2022.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 1 de junho de 2022.
+
+115388976

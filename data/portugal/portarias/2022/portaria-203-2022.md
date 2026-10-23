@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/2022/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2022-187004276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e85c630d3bfb03f64438bfbf06857ac1ddbc1c39d7b20243d8b00824b336668b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf2f0c1338e9a51fb7d7b1e835bd60eabe14dc47fa04c41f3d21e207c8e83ff5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- Atividade Agrícola
-- Ajuda Comunitária
+- Agricultura
 - Agrupamento de Produtores
+- Ajuda Comunitária
+- Atividade Agrícola
+- Exploração Agrícola
 - Financiamento
+- Fruticultura
 - Fruto
 - Horticultura
-- Exploração Agrícola
 - Organização de Produtores
+- Política Agrícola
 - Preço
+- Produção Agrícola
 - Produto Hortícola
 - Programa Operacional
-- Política Agrícola
-- Produção Agrícola
 - Regulamento CE
-- Fruticultura
-- Agricultura
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -124,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/306/2019/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/306/2019/09/12/p/dre
+- type: cites
+  target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124642995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552006:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:33Z'
   warnings: []
   errors: []
 ---
@@ -216,16 +236,18 @@ Para efeitos do disposto no n.º 6 do artigo 7.º da [Portaria n.º 295-A/2018](
 
 3 - Os artigos 7.º, no que respeita à derrogação das percentagens por ação, 8.º e 11.º produzem efeitos nos termos do Regulamento Delegado da Comissão, que derroga, para o ano de 2022, o disposto no [Regulamento Delegado (UE) 2017/891](http://data.europa.eu/eli/reg/2017/891/oj?locale=pt), da Comissão.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 29 de julho de 2022.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 29 de julho de 2022.
 
 ## ANEXO I — Limites das ações e medidas
 
 (a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf))](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf)
 
 ## ANEXO II — Montantes máximos de apoio para efeitos de retiradas de mercado
 
 (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf))](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/14900/0002300026.pdf)
+
+115571427

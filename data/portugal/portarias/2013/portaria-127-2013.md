@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/2013/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-2013-260113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b435c5bf969ccd3a339103721e0c9d89cc674cfbfe64b2e7620c3da0ff9b4923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da746943d05c9e9e3e2fdcd9d12428d554ebb677176db744766c20ba501af796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Colectivo de Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Cooperativa Agrícola
-- Regime Laboral
 - Direito do Trabalho
 - Mealhada
 - Prestação de Serviços
-- Condições de Higiene e Segurança no Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Trabalhador por Conta de Outrem
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+- type: cites
+  target: pt:dre:191563:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:41Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +151,4 @@ b) Às relações de trabalho entre as cooperativas agrícolas outorgantes e os 
 
 2- A tabela salarial e as cláusulas de natureza pecuniária produzem efeitos a partir do 1.º dia do mês da publicação da presente portaria.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 26 de março de 2013.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 26 de março de 2013.

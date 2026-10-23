@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/408/2012/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-2012-189953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd9602e7a351720c9e1797acc59d95e670d6597db39a000d4c3102a2255861b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d559c7cb02c92dcb060fdd683db855a65d267c99992e931a5b164a4eb3bffe74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
 - Acesso ao Emprego
 - Aicep
 - Ajuda Comunitária
-- Financiamento
-- Bolsa de Estágio
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Impulso Jovem
-- Programa de Estágios Profissionais Passaporte Emprego
-- Mudança Tecnológica
-- Internacionalização Empresarial
 - Apoio ao Investimento
+- Bolsa de Estágio
+- Contrato de Trabalho
+- Desenvolvimento Económico
+- Emprego
+- Financiamento
+- Formação Profissional
+- IAPMEI
+- Impulso Jovem
+- Instituto do Turismo de Portugal
+- Internacionalização Empresarial
+- Investigação Científica e Tecnológica
 - Jovem
 - Mercado de Emprego
-- Instituto do Turismo de Portugal
-- Desenvolvimento Económico
-- Programa Comunitário
-- Qualificação Profissional
-- Emprego
+- Mudança Tecnológica
 - Pequenas e Médias Empresas
-- Contrato de Trabalho
-- Regulamento
 - PME
-- IAPMEI
+- Programa Comunitário
+- Programa de Estágios Profissionais Passaporte Emprego
+- Qualificação Profissional
+- Regulamento
+- Subsídio de Alimentação
 - Subsídio de Transporte
 - Unidade de Gestão
 - VIDA Activa
@@ -99,6 +99,13 @@ relationships:
   target: pt:dre:260404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260404:por
+  label: "Alterados os arts. 1º, 5.º, 8.º, 9.º, 11.º, 14.º, 15.º, 16.º, 17.º, 18.º e 32.º, aditado o art. 14º-A e revogadas\
+    \ a al. a) do n.º 5 do art. 1.º e a al. b) do n.º 2 do art. 17.º do Regulamento Específico Passaportes Emprego 3i, pela\
+    \ PORT.156/2013.18.04.2013.MEE, DR.IS [76] de 18.04.2013, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-2013-260404
+  date: '2013-04-18'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -139,16 +146,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:162811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:02Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +278,7 @@ A regulamentação específica das medidas previstas na presente portaria consta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigora durante o período de vigência da [Resolução do Conselho de Ministros n.º 51-A/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-a-2012-411607), de 14 de junho.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 5 dezembro de 2012.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 5 dezembro de 2012.
 
 ## Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i
 
@@ -273,7 +352,7 @@ Podem candidatar-se aos Passaportes Emprego 3i as entidades previstas na alínea
 
 São entidades beneficiárias, no âmbito dos Passaportes Emprego 3i, as empresas de qualquer natureza e sob qualquer forma jurídica com projetos de investimento num dos seguintes Sistemas de Incentivos:
 
-a) SI l&DT;
+a) SI l&DT
 
 b) SI Inovação;
 

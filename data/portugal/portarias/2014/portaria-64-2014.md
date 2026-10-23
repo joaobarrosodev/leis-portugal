@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64/2014/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 911284c33bea1825c89b207370d5bd0ead7efe3bd99436e652896bf0a0b72bc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a742198831086d0a26addd2967635ad9eda8788167a09b107ddc7af474cefe97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Fundo de Garantia de Depósitos
-- Pagamento
 - Banca
+- Fundo de Garantia de Depósitos
+- Instituição de Crédito
+- Pagamento
 - Regulamento
 - Taxa
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:67477869:por
+  label: Alterado o art. 5.º da Port 121/2011 de 30-mar, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 176-A/2015
+    - Diário da República n.º 113/2015, 1º Suplemento, Série I de 2015-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/176-a-2015-67477869
+  date: '2015-06-12'
+- type: amended_by
+  target: pt:dre:74699730:por
+  label: Alterado, com efeitos a 01.01.2016, o art. 5.º da Port. 121/2011 de 30-mar, na redação da presente portaria, pelo(a)
+    Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-a-2016-74699730
+  date: '2016-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
@@ -86,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/2011/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/2011/03/30/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:49Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +146,4 @@ Taxas
 
 2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo 3.º é de 0,000 30 % sobre o valor apurado."
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de fevereiro de 2014.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de fevereiro de 2014.

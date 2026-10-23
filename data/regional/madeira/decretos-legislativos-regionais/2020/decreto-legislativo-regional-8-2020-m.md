@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13400/0002500046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2020/07/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-137703606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b34335e2de77fd89ee2984735fbea8477e54473effb14cf3b77a4fceada70df3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e8bc3c6fed127735d5c587ce134d890d5b03229b20c06caa447c8de715db0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Centro de Responsabilidade Integrada
 - Comissão de Acompanhamento
 - Comissão de Apoio Técnico
-- Gestão Financeira
 - Conselho de Administração
 - Denominação de Instituição
 - Director Clínico
 - Empresa Pública Regional
-- Gestão Administrativa
 - Estatuto
+- Gestão Administrativa
+- Gestão Financeira
 - Lista de Espera
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
 - Receita Própria
 - Regulamento Interno
 - Sesaram
@@ -125,16 +125,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+- type: cites
+  target: pt:dre:124134341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66702115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
+  article_count: 46
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:28Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +265,9 @@ São alterados os artigos 2.º, 6.º, 9.º, 10.º, 12.º, 13.º, 17.º, 18.º, 2
 
 3 - O capital estatutário do SESARAM, EPERAM, é de (euro) 234 300 000, estando totalmente realizado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O SESARAM, EPERAM, é financiado pelo Orçamento da Região Autónoma da Madeira, nos termos das disposições conjugadas das Bases 7 e 23 da Lei de Bases da Saúde, aprovada pela [Lei n.º 95/2019](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), de 4 de setembro.
 
@@ -201,7 +275,9 @@ São alterados os artigos 2.º, 6.º, 9.º, 10.º, 12.º, 13.º, 17.º, 18.º, 2
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O conselho de administração é composto por um presidente, por um vice-presidente e por três vogais.
 
@@ -211,7 +287,9 @@ São alterados os artigos 2.º, 6.º, 9.º, 10.º, 12.º, 13.º, 17.º, 18.º, 2
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -265,15 +343,21 @@ w) Convocar o diretor clínico e o enfermeiro-diretor a participar nas reuniões
 
 3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção e chefia, com exceção das previstas nas alíneas a) a j), u) e v) do n.º 1, definindo em ata os limites e condições do seu exercício, sem prejuízo do direito de avocação.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As regras de funcionamento do conselho de administração constam do regulamento interno do SESARAM, EPERAM.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O SESARAM, EPERAM, obriga-se pela assinatura, com indicação da qualidade, de três membros do conselho de administração ou de quem esteja legitimado para o efeito nos termos do n.º 3 do artigo 10.º
 
-###### Artigo 17.º — Diretor clínico
+Artigo 17.º
+
+Diretor clínico
 
 1 - [...].
 
@@ -293,7 +377,9 @@ O SESARAM, EPERAM, obriga-se pela assinatura, com indicação da qualidade, de t
 
 9 - No caso previsto no número anterior, o diretor clínico pode, em caso de manifesta necessidade de funcionamento do serviço, prestar trabalho suplementar, prevenção e de chamada, que são remunerados pela categoria de origem da carreira médica, e sem prejuízo de quaisquer subsídios previstos para o exercício efetivo da mesma.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -327,15 +413,21 @@ j) [...].
 
 6 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 O SESARAM, EPERAM, dispõe de auditoria interna para a avaliação dos processos de controlo interno e de gestão de riscos, nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos, contribuindo para o seu aperfeiçoamento contínuo, nos termos a definir em regulamento interno.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O SESARAM, EPERAM, dispõe de um sistema de controlo interno e de comunicação de irregularidades, competindo ao conselho de administração assegurar a sua implementação e manutenção e ao auditor interno a responsabilidade pela sua avaliação, nos termos a definir em regulamento interno.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As comissões de apoio técnico são órgãos de caráter consultivo que têm por função colaborar com o conselho de administração, devendo a sua estrutura, composição e funcionamento constar do regulamento interno.
 
@@ -355,11 +447,15 @@ e) A comissão de acompanhamento das listas de espera.
 
 4 - [Revogado.]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O SESARAM, EPERAM, segue o Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP), com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 São receitas do SESARAM, EPERAM:
 
@@ -379,7 +475,9 @@ g) Rendas e rendimentos advenientes da exploração de bens imóveis sob a gest�
 
 h) [Anterior alínea g).]
 
-###### Artigo 31.º — Contratação Pública
+Artigo 31.º
+
+Contratação Pública
 
 O SESARAM, EPERAM, rege-se pelas normas relativas à contratação pública.»
 
@@ -397,7 +495,9 @@ Manutenção de vínculo em funções públicas
 
 3 - Aos trabalhadores que optem pela manutenção do vínculo de emprego público conforme previsto no número anterior aplica-se, com as devidas adaptações, o disposto no n.º 4 do artigo 37.º
 
-###### Artigo 39.º — Centros de responsabilidade integrada
+Artigo 39.º
+
+Centros de responsabilidade integrada
 
 1 - O SESARAM, EPERAM, pode organizar-se em centros de responsabilidade integrada (CRI).
 
@@ -425,11 +525,11 @@ São republicados em anexo os Estatutos do Serviço de Saúde da Região Autóno
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de junho de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 2 de julho de 2020.**
+Assinado em 2 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1034,3 +1134,5 @@ b) A opção pela manutenção do regime de proteção social dos trabalhadores 
 3 - Para alcançar os objetivos referidos no número anterior, os CRI constituem-se através de formas de organização flexíveis direcionadas para dar respostas céleres e de qualidade às necessidades dos utentes.
 
 4 - A constituição, organização e funcionamento dos CRI constarão de regulamento interno, cujo modelo será definido por portaria do membro do Governo Regional responsável pela área da saúde.
+
+113369653

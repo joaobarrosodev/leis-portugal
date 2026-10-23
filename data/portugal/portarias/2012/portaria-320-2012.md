@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/320/2012/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-2012-176364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed270e0f9fd40334fd8c8267103559ad223b114b5a15c39de15625a0168e71a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a439a1dd86e517603d59d4929a432bbaa92f37aac437efc933b96a7b35ffbbe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Proder
-- Financiamento
-- Desenvolvimento Rural
-- Projeto de Investimento
-- Pagamento
-- IFAP
-- Regulamento
-- Região Desfavorecida
-- Regulamento de Aplicação da Medida 2.1-manutenção da Actividade Agrícola em Zonas Desfavorecidas
 - Agricultura
+- Atividade Agrícola
+- Desenvolvimento Rural
+- Financiamento
+- IFAP
+- Pagamento
+- Proder
+- Projeto de Investimento
+- Região Desfavorecida
+- Regulamento
+- Regulamento de Aplicação da Medida 2.1-manutenção da Actividade Agrícola em Zonas Desfavorecidas
 relationships:
 - type: cites
   target: celex:32006R1975
@@ -95,15 +95,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/229-a/2008/03/06/p/dre
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:32Z'
   warnings: []
   errors: []
 ---
@@ -134,13 +134,17 @@ Os artigos 11.º, 13.º e 15.º do Regulamento de Aplicação da Medida n.º 2.1
 
 3 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adotadas de acordo com o Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo Instituto de Financiamento da Agricultura e Pesca, I. P. (IFAP, I. P.), aprovado em anexo à Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto no Regulamento (UE) n.º [1122/2009](http://data.europa.eu/eli/reg/2009/1122/oj?locale=pt), da Comissão, de 30 de novembro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
 2 - O pagamento é efetuado após a conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após conclusão dos controlos administrativos, de acordo com o disposto no artigo 9.º do Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de janeiro.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -162,4 +166,4 @@ Os artigos 11.º, 13.º e 15.º do Regulamento de Aplicação da Medida n.º 2.1
 
 2 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 24 de julho de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 24 de julho de 2012.

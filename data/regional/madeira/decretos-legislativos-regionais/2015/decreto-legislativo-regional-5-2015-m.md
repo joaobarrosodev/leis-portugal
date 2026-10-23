@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2015/07/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2015-69782195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80093faa41121f687ab64d4ac6b6c8e62e7fc8e2f606dfc142a668fc09893a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c055a73dee0094a3f096c0695fa6490214a7c12999d949a1ac5cf86d71cb529f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
 - Colocação de Professores
 - Concurso
 - Concurso de Ingresso
-- Estatuto da Carreira Docente
-- Secretaria Regional da Educação e Recursos Humanos
-- Secretaria Regional da Educação
 - Contratação de Pessoal
-- Pessoal Docente
-- Ensino Básico
-- Madeira.região Autónoma
 - Contrato de Trabalho
+- Educação Especial
+- Ensino Básico
+- Estatuto da Carreira Docente
+- Madeira.região Autónoma
+- Pessoal Docente
 - Regime Jurídico
+- Secretaria Regional da Educação
+- Secretaria Regional da Educação e Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:74953321:por
@@ -125,16 +125,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74953321:por
+  label: Revogado, a partir de 16.07.2016, o DLR 25/2013/M de 17-jul, alterado pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 28/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15, sem prejuízo do disposto no n.º 2 art.
+    53.º daquele diploma, e determinada a cessação, à data da entrada em vigor do DLR 28/2016/M (16.07.2016), das continuidades
+    previstas no n.º 4 do art. 31.º do DLR 25/2013/M.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2016-74953321
+  date: '2016-07-15'
 article_structure:
-  article_count: 15
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:56Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +237,9 @@ c) [...]
 
 8 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +279,9 @@ c) [...]
 
 9 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +305,9 @@ b) [...]
 
 7 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -281,7 +335,9 @@ b) [...]
 
 6 - Os docentes colocados ao abrigo do presente diploma no quadro de vinculação da Região Autónoma da Madeira são obrigados, para efeitos de colocação, a serem opositores nessa qualidade, ao primeiro concurso interno que vier a ser aberto após a obtenção de lugar de quadro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -297,7 +353,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação, é fixada a dotação das vagas das escolas, das zonas pedagógicas e do quadro de vinculação da Região Autónoma da Madeira.
 
@@ -305,7 +363,9 @@ b) [...]
 
 3 - As vagas do quadro de vinculação da Região Autónoma da Madeira extinguem-se quando vagarem.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -321,7 +381,9 @@ b) [...]
 
 Prioridade Única - Indivíduos qualificados profissionalmente para o grupo de recrutamento a que se candidatam.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -337,7 +399,9 @@ Prioridade Única - Indivíduos qualificados profissionalmente para o grupo de r
 
 7 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -369,7 +433,9 @@ Prioridade Única - Indivíduos qualificados profissionalmente para o grupo de r
 
 15 - Os modelos destinados à celebração dos contratos de trabalho são aprovados pela Direção Regional dos Recursos Humanos e da Administração Educativa que os disponibilizará na sua página eletrónica da internet em www.madeira-edu.pt/drrhae.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -403,10 +469,10 @@ O presente diploma entra em vigor no primeiro dia útil subsequente ao da sua pu
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de junho de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 2 de julho de 2015.**
+Assinado em 2 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

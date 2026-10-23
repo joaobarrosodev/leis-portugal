@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07900/0040500408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2024/04/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2024-862566386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90f0d6f75578620937d50139bbf653983f25de81f9f91ac3bd5ad034d3225ff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acd1faa6008d77f666cd476e84151525f893200b57ee643c03c7a442eb0648b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criação de Serviços
-- Comemoração
-- Equipa de Missão
 - Autonomia Política
+- Comemoração
+- Criação de Serviços
+- Equipa de Missão
+- Madeira.região Autónoma
 - Mandato
 - Moeda Comemorativa
-- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:901014295:por
@@ -81,16 +81,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:901014295:por
+  label: Revogado, a partir de 24 de dezembro de 2024, pelo(a) Decreto Legislativo Regional n.º 22/2024/M - Diário da República
+    n.º 248/2024, Série I de 2024-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2024-901014295
+  date: '2024-12-23'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:55Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +131,7 @@ Assim, impõe-se a comemoração dos 50 anos da autonomia, através de uma estru
 
 Pretende-se, com esta comemoração, nutrir nos Madeirenses esse sentimento de partilha de um passado e presente em comum, assente numa perspetiva futura sólida, com mais e melhor autonomia, em que se garanta às novas gerações, apesar dos grandes desafios que se lhes colocam, um amanhã de progresso e de esperança.
 
-Nestes termos, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 227.ºe dos n.<sup>os</sup>1 dos artigos 228.º e 232.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º e da alínea vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, decreta o seguinte:
+Nestes termos, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 227.ºe dos n.os1 dos artigos 228.º e 232.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º e da alínea vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os130/99, de 21 de agosto, e 12/2000, de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -245,10 +255,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 20 de março de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 17 de abril de 2024.**
+Assinado em 17 de abril de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+117616118

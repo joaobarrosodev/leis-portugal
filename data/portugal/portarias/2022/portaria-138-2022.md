@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07000/0010500107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138/2022/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-2022-181830002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c92d13da4253fd2e993a703eb7d7266b6ed15c71b02c41b035a7b3dd289c7edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5a31dbe250123e3c1f1f38de931c86aefdd04596ca6481112c66f4c8ca3c407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Financiamento
 - Centro de Actividades de Tempos Livres
 - Cidadão Estrangeiro
-- Criança
-- Comparticipações da Segurança Social
 - Comparticipação Familiar
-- Estatuto dos Refugiados
-- Segurança da Informação
-- Guerra
-- Jardim de Infância
-- Proteção à Infância
-- Política Social
+- Comparticipações da Segurança Social
 - Confidencialidade
-- Segurança Social
+- Criança
 - Dados Pessoais
+- Estatuto dos Refugiados
+- Financiamento
+- Guerra
+- Instituto da Segurança Social
+- Jardim de Infância
+- Política Social
+- Proteção à Infância
+- Segurança da Informação
+- Segurança Social
 - Ucrânia
 - Vítima de Guerra
 relationships:
@@ -117,16 +117,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29-d/2022/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29-d/2022/03/11/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180365447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67666075:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:04Z'
   warnings: []
   errors: []
 ---
@@ -197,4 +229,6 @@ Os dados enviados ou recolhidos estão abrangidos pelo Regime de Proteção de D
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 20 de fevereiro de 2022.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 6 de abril de 2022.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 6 de abril de 2022.
+
+115207818

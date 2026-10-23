@@ -26,7 +26,7 @@ publication:
   reference: Diário da República n.º 131/2009, 1º Suplemento, Série I de 2009-07-09
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4356-(4) a 4356-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13101/0000400012.pdf
 entry_into_force_dates: []
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/739-b/2009/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cadc09d2b85c424abffcd950998cc1c087604f591d96bc69fcfa248888f9fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d261f53b7cfcc1ac3d72172c58b7fa6d4f2188f36d2a9a09bdc8adb982aab887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,21 +72,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Desenvolvimento Rural
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Contrato de Financiamento
-- Direcção Regional de Agricultura e Pescas
-- Arborização
-- Proteção da Floresta
-- Formulário Eletrónico
 - Apoio ao Investimento
-- Projeto de Investimento
+- Arborização
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
+- Exploração Florestal
+- Formulário Eletrónico
 - Homologação
 - IFAP
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
+- Proder
+- Projeto de Investimento
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 2.3.1-mimimização de Riscos
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
@@ -97,6 +97,27 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 10º, 13º e 17º do Regulamento, aprovado pela Port 1137-B/2008, de 09-Out, na redacção do presente\
+    \ diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 4º, 10º, 24º e 27º e os anexos III e IX do Regulamento de Aplicação da Acção n.º 2.3.2, «Ordenamento\
+    \ e Recuperação de Povoamentos», aprovado pela Port. n.º 1137-B/2008, de 09-Out., na redacção do presente diploma, pela\
+    \ PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I, e revogado, com efeitos a 28.08.2010, o nº 2.6 da Subação n.º 2.3.3.3 do mesmo anexo\
+    \ I do Regulamento de Aplicação da Ação n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pela Port\
+    \ 1137-D/2008 de 09-out, alterado pelo presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -113,16 +134,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1137-d/2008/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1137-d/2008/10/09/p/dre
+- type: corrected_by
+  target: pt:dre:493998:por
+  label: "Rectificado o artigo 3.º, relativo à alteração ao Regulamento de Aplicação da Acção n.º 2.3.3, «Valorização Ambiental\
+    \ dos Espaços Florestais» aprovado pela Portaria n.º 1137-D/2008, de 9 de Outubro, no que respeita à alíena e) do artigo\
+    \ 9.º, pela DECL-RECT.58/2009.07.08.2009.PCM, DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/58-2009-493998
+  date: '2009-08-07'
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.4 do ponto «Despesas não elegíveis» do anexo III do Regulamento de Aplicação\
+    \ da Ação n.º 2.3.2, «Ordenamento e Recuperação de Povoamentos», aprovado pela Port 1137-B/2008 de 09-out, alterado pelo\
+    \ presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art.\
+    \ 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
-  article_count: 38
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:01Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +225,9 @@ s) ...
 
 t) 'Zonas de Intervenção Florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +243,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -223,7 +263,9 @@ f) ...
 
 g) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 ...
 
@@ -243,7 +285,9 @@ e) ...
 
 f) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +319,9 @@ b) Não exceder o encabeçamento de 1,5 cabeças normais e manter, no mínimo, 3
 
 c) (Revogada.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
 
@@ -297,7 +343,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual constam a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no n.º 1 do artigo 15.º e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
@@ -309,7 +357,9 @@ h) ...
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +371,9 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 2 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -339,7 +391,9 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 8 - (Revogado.)
 
-###### Artigo 24.º — Análise dos pedidos de pagamento
+Artigo 24.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -351,7 +405,9 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -359,7 +415,9 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -417,7 +475,9 @@ s) ...
 
 t) 'Zonas de intervenção florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Não são abrangidos pelos apoios previstos no presente Regulamento:
 
@@ -425,7 +485,9 @@ a) Os investimentos relativos a actividades agrícolas, incluindo pastagens, em 
 
 b) Qualquer investimento a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -443,7 +505,9 @@ f) ...
 
 g) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
 
@@ -465,7 +529,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no n.º 1 do artigo 13.º, e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
@@ -479,13 +545,17 @@ h) ...
 
 6 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 4.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
 2 - Em casos excepcionais e devidamente justificados o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -503,7 +573,9 @@ h) ...
 
 8 - (Revogado.)
 
-###### Artigo 21.º — Análise dos pedidos de pagamento
+Artigo 21.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -515,7 +587,9 @@ h) ...
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -523,7 +597,9 @@ h) ...
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -581,7 +657,9 @@ s) ...
 
 t) 'Zonas de intervenção florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Não são abrangidos pelos apoios previstos no presente Regulamento os seguintes investimentos:
 
@@ -589,7 +667,9 @@ a) A reconversão de povoamentos florestais com recurso a espécies de rápido c
 
 b) Qualquer investimento a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -613,7 +693,9 @@ g) ...
 
 h) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -633,7 +715,9 @@ g) ...
 
 h) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
 
@@ -655,7 +739,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no artigo 14.º e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
@@ -667,7 +753,9 @@ h) ...
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -675,7 +763,9 @@ h) ...
 
 3 - Em casos excepcionais e devidamente justificados o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -693,7 +783,9 @@ h) ...
 
 8 - (Revogado.)
 
-###### Artigo 22.º — Análise dos pedidos de pagamento
+Artigo 22.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -705,7 +797,9 @@ h) ...
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -713,7 +807,9 @@ h) ...
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -943,4 +1039,4 @@ c) ...
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.

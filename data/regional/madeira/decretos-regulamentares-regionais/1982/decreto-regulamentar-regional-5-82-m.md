@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11200/13061310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87a98ec66c5d1980102c9b0837dee877de1b1dab58c38cc8f5e670ac3916f0a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8a449013042bdf4c99e32c1978d3d59c8538627d5306f49bbc5d6210e533b4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Imóveis
+- Aquisição de Bens e Serviços
+- Domínio Privado do Estado
+- Inventário
+- Locação Financeira
+- Madeira.região Autónoma
+- Património do Estado
+- Propriedade do Estado
+- Secretaria Regional do Planeamento e Finanças
 relationships:
 - type: amended_by
   target: pt:dre:552806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUM 1 DO ART 5 PELO DRR 13/95/M DE 04-ABR DO GR-RAM DR.IS-B [109] DE 11/MAI/1995\0AI/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-11'
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247446:por
+  label: "Revogados o art. 5º (com a redacção que lhe foi introduzida pelo DRR 13/95/M de 11-Mai) e o art. 7º do presente\
+    \ diploma pelo DRR.3/2008/M.27.02.2008.PG-RAM, DR.IS [41] de 27.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2008-247446
+  date: '2008-02-27'
+- type: repealed_by
+  target: pt:dre:552806:por
+  label: "Revogado pelo DLR.7/2012/M.20.04.2012.AL-RAM, DR.IS [79] de 20.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2012-552806
+  date: '2012-04-20'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:14Z'
   warnings: []
   errors: []
 ---
@@ -223,12 +252,12 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em plenário do Governo Regional em 18 de Julho de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Abril de 1982.**
+Assinado em 2 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11200/13061310.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11200/13061310.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11200/13061310.pdf)

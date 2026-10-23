@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2023/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2023-207229678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c87df7542799bdeac05eea1a431a5bc57fc159b327d88fd3208e29856f8fe39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c94da558da610f43291da4081360def6a782725f8091fb61c5a69fa20f42ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Transporte Aéreo
-- Transporte Rodoviário
-- Transporte Ferroviário
-- Regulamentação de Atos Legislativos
-- Fiscalização
 - Comissão CE
-- Proteção do Ambiente
-- Regulamento Geral sobre o Ruido
-- Poluição Sonora
 - Controlo de Avaliação
+- Fiscalização
+- Poluição Sonora
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Regulamento Geral sobre o Ruido
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: celex:32002L0049
@@ -111,6 +111,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/84-a/2022/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/84-a/2022/12/09/p/dre
+- type: cites
+  target: pt:dre:124532100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539393:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0049
   label: null
@@ -118,13 +130,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:10Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +183,7 @@ Os dados a enviar à Comissão Europeia, a que se referem os n.os 3 e 5 do artig
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 19 de janeiro de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 1 de fevereiro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 25 de janeiro de 2023. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão, em 26 de janeiro de 2023.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 19 de janeiro de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 1 de fevereiro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 25 de janeiro de 2023. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão, em 26 de janeiro de 2023.
 
 ## ANEXO I — Indicadores de Ruído
 
@@ -179,7 +191,7 @@ A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
 1 - Definição do indicador de ruído diurno-entardecer-noturno Lden - o nível diurno-entardecer-noturno Lden em decibel [dB(A)] é definido pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
@@ -307,7 +319,7 @@ Quadro [2.2.a]
 
 Classes de veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Número e localização das fontes sonoras equivalentes
 
@@ -317,7 +329,7 @@ Figura [2.2.a]
 
 Localização de fontes pontuais equivalentes em veículos ligeiros (categoria 1), veículos pesados (categorias 2 e 3) e veículos de duas rodas (categoria 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O fluxo de tráfego é representado por uma fonte em linha. Ao construir um modelo de uma estrada com várias vias, idealmente cada via deve ser representada por uma fonte em linha localizada no eixo central da via. Também são, no entanto, aceitáveis modelos com uma fonte em linha na linha média de uma estrada com dois sentidos ou, no caso das estradas com várias vias em cada sentido, com uma fonte em linha por faixa de rodagem, na via exterior de cada sentido.
 
@@ -333,7 +345,7 @@ Representa-se o ruído emitido por um fluxo de tráfego por uma fonte em linha c
 
 Admitindo um fluxo de tráfego constante de Q(índice m) veículos da categoria m por hora, com a velocidade média v(índice m) (km/h), define-se do seguinte modo a potência sonora direcional da fonte em linha por metro na banda i de frequências, L(índice W', eq,line,i,m) :
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os dados de fluxo de tráfego, Q(índice m) , são expressos em média horária anual, por período (diurno, entardecer e noturno), por classe de veículo e por fonte linear. Utilizam-se para todas as categorias dados de entrada de fluxo de tráfego provenientes de contagens de tráfego ou de modelos de tráfego.
 
@@ -353,11 +365,11 @@ O ruído aerodinâmico é incorporado na fonte de ruído de rolamento.
 
 No caso dos veículos a motor ligeiros, médios e pesados (categorias 1, 2 e 3), a potência sonora total corresponde à soma energética do ruído de rolamento e do ruído de propulsão. O nível total de potência sonora das fontes em linha m = 1, 2 ou 3 define-se, portanto, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso dos veículos de duas rodas (categoria 4), apenas se considera para a fonte o ruído de propulsão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Esta equação é válida para todas as gamas de velocidade. No caso de velocidades inferiores a 20 km/h, o nível de potência sonora a considerar é o resultante da aplicação da fórmula para v(índice m) = 20 km/h.
 
@@ -383,11 +395,11 @@ Equação geral
 
 Define-se do seguinte modo o nível de potência sonora associado ao ruído de rolamento na banda de frequências i de um veículo da classe m = 1, 2 ou 3:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os coeficientes A(índice R,i,m) e B(índice R,i,m) são indicados em bandas de oitava para cada categoria de veículos e para a velocidade de referência v(índice ref) = 70 km/h. (Delta)L(índice WR,i,m) corresponde à soma dos coeficientes de correção a aplicar à emissão de ruído de rolamento devido a condições específicas da estrada ou dos veículos distintas das condições de referência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Delta)L(índice WR,road,i,m) contabiliza o efeito, no ruído de rolamento, de um piso de estrada com propriedades acústicas diferentes das do piso de referência virtual definidas no ponto 2.2.2. Inclui o efeito na propagação e na geração.
 
@@ -401,25 +413,25 @@ Correção aplicável aos pneus com pregos (adaptados à neve)
 
 Nas situações em que seja significativo o número de veículos ligeiros no fluxo de tráfego que utilizam pneus com pregos durante vários meses do ano, deve ser tido em conta o efeito induzido correspondente no ruído de rolamento. Para cada veículo da categoria m = 1 equipado de pneus com pregos, contabiliza-se do seguinte modo o aumento do ruído de rolamento em função da velocidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O acréscimo de emissão de ruído de rolamento circunscreve-se à proporção de veículos ligeiros equipados de pneus com pregos e a um período limitado T(índice s) (em meses) do ano. Sendo Q(índice stud,ratio) a proporção média de veículos ligeiros equipados de pneus com pregos por hora, durante o período T(índice s) (em meses), a proporção média anual desses veículos, p(índice s) , é expressa do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção resultante a aplicar à potência sonora de rolamento devido à utilização de pneus com pregos nos veículos da categoria m = 1, na banda de frequências i, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Nenhuma correção se aplica aos veículos das outras categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Correção devida ao efeito da temperatura do ar no ruído de rolamento
 
 A temperatura do ar afeta a emissão de ruído de rolamento: o nível de potência sonora de rolamento diminui à medida que aumenta a temperatura do ar. Este efeito é contabilizado na correção devida ao piso da estrada. Em geral, as correções devidas ao piso da estrada são determinadas à temperatura do ar de (tau)(índice ref) = 20 ºC. Se a temperatura média anual do ar for diferente, o ruído associado ao piso da estrada é corrigido por aplicação da seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção é positiva (ou seja, o ruído aumenta) a temperaturas inferiores a 20 ºC e negativa (ou seja, o ruído diminui) a temperaturas superiores a 20 ºC. O coeficiente K depende das características dos pneus e do piso da estrada e, em geral, evidencia uma certa dependência da frequência. Aplica-se a todos os pisos de estrada um coeficiente genérico K(índice m=1) = 0,08 dB/ºC, no caso dos veículos ligeiros (categoria 1), e K(índice m=2) = K(índice m=3) = 0,04 dB/ºC, no caso dos veículos pesados (categorias 2 e 3). Os coeficientes de correção aplicam-se do mesmo modo a todas as bandas de oitava entre 63 Hz e 8 000 Hz.
 
@@ -429,13 +441,13 @@ Equação geral
 
 A emissão de ruído de propulsão inclui todas as contribuições do motor, do sistema de escape, da caixa de velocidades, da alimentação de ar etc. Define-se do seguinte modo o nível de potência sonora associado ao ruído de propulsão na banda i de frequência de um veículo da classe m:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os coeficientes A(índice P,i,m) e B(índice P,i,m) são indicados em bandas de oitava para cada categoria de veículos e para a velocidade de referência v(índice ref) = 70 km/h.
 
 (Delta)L(índice WP,i,m) corresponde à soma dos coeficientes de correção a aplicar à emissão de ruído de propulsão devido a condições específicas de circulação ou regionais distintas das condições de referência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Delta)L(índice WP,road,i,m) contabiliza o efeito, por via de absorção, do piso da estrada no ruído de propulsão. O cálculo é efetuado de acordo com o ponto 2.2.6.
 
@@ -447,7 +459,7 @@ O declive da estrada tem dois efeitos no ruído emitido por um veículo: em prim
 
 O efeito do declive da estrada no ruído de propulsão é contabilizado por um termo de correção, (Delta)L(índice WP,grad) ,(índice m) , que é função do declive, s (em percentagem), da velocidade do veículo, v(índice m) (em km/h), e da classe de veículo, m. No caso de o fluxo de tráfego decorrer nos dois sentidos, é necessário dividir esse fluxo em duas componentes e corrigir metade do fluxo em função de um declive ascendente e a outra metade em função de um declive descendente. O termo de correção é atribuído do mesmo modo a todas as bandas de oitava.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção (Delta)L(índice WP,grad,m) inclui implicitamente o efeito do declive na velocidade.
 
@@ -457,7 +469,7 @@ Antes e depois dos cruzamentos e entroncamentos com semáforos e das rotundas é
 
 Os termos de correção devidos ao ruído de rolamento, (Delta)L(índice WR,acc,m,k) , e ao ruído de propulsão, (Delta)L(índice WP,acc,m,k) , são funções lineares da distância x (em m) entre a fonte pontual e a intersecção mais próxima da correspondente fonte linear com outra fonte linear. Estes termos de correção são aplicados do mesmo modo a todas as bandas de oitava:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os coeficientes C(índice R,m,k) e C(índice P,m,k) dependem do tipo de confluência, k (k = 1 para os cruzamentos e entroncamentos com semáforos e k = 2 para as rotundas) e são indicados por categoria de veículo. A correção inclui o efeito da mudança de velocidade na aproximação a um cruzamento, entroncamento ou rotunda ou no afastamento desses pontos de confluência.
 
@@ -471,11 +483,11 @@ No caso dos pisos de estrada cujas propriedades acústicas difiram das do piso d
 
 O termo de correção devido ao piso da estrada a aplicar à emissão de ruído de rolamento é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O termo de correção devido ao piso da estrada a aplicar à emissão de ruído de propulsão é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os pisos absorventes reduzem o ruído de propulsão; os pisos não absorventes não o aumentam.
 
@@ -503,7 +515,7 @@ Quadro [2.3.a]
 
 Classificação e descritores dos veículos ferroviários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Classificação das vias e da estrutura de suporte
 
@@ -515,7 +527,7 @@ Define-se no quadro [2.3.b] uma terminologia comum para a descrição dos tipos 
 
 Quadro [2.3.b]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Número e localização das fontes sonoras equivalentes
 
@@ -523,7 +535,7 @@ Figura [2.3.a]
 
 Localização das fontes sonoras equivalentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As várias fontes lineares equivalentes de ruído localizam-se a alturas diversas no eixo central da via. As alturas referem-se ao plano tangente à superfície superior de cada um dos dois carris.
 
@@ -573,19 +585,19 @@ constituindo a soma energética das contribuições de todos os veículos que ci
 
 Calcula-se do seguinte modo a potência sonora direcional por metro (a contabilizar na parte de propagação) devida à combinação média de tráfego no troço de via j:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Considerando um fluxo constante de Q veículos por hora, com a velocidade média v em cada momento, o número de veículos por unidade de comprimento do troço de via férrea é dado por Q/v. O ruído emitido pelo fluxo de veículos, em termos de potência sonora direcional por metro, L(índice W',eq,line) (expressa em dB/m (ref.ª: 10(elevado a - 12) W)) é integrado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso das fontes estacionárias, como nas situações de paragem com os motores em funcionamento, considera-se que o veículo permanecerá durante o tempo global T (índice idle) num local de comprimento L do troço de via. Sendo T(índice ref) o período de referência para a avaliação do ruído (por exemplo 12 horas, 4 horas ou 8 horas), a potência sonora direcional por unidade de comprimento nesse troço de via é, portanto, definida do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em geral, obtém-se a potência sonora direcional para cada fonte específica através do seguinte cálculo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Após ter sido determinado em bandas de terço de oitava, exprime-se L(índice W,0,dir,i) (índice (psi),(fi)) em bandas de oitava, calculando, para o efeito, a soma energética das bandas de terço de oitava correspondentes.
 
@@ -593,7 +605,7 @@ Figura [2.3.b]
 
 Definição geométrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Para efeitos de cálculo, a intensidade da fonte é em seguida especificamente expressa em termos de potência sonora direcional por metro de comprimento de via, L(índice W',tot,dir,i) , para contabilizar a diretividade das fontes nas correspondentes direções vertical e horizontal, por meio das correções adicionais.
 
@@ -619,9 +631,9 @@ O ruído de rolamento é excitado pela rugosidade dos carris e das rodas sobretu
 
 Definição
 
-Define-se o nível de rugosidade L(índice r) como 10 vezes o logaritmo decimal do resultado da divisão do quadrado do valor quadrático médio, r(elevado a 2) , da rugosidade da superfície de rolamento de um carril ou de uma roda na direção do movimento (nível longitudinal), medida em (mi)m num determinado comprimento de carril ou na totalidade do diâmetro da roda, pelo quadrado do valor de referência, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf):
+Define-se o nível de rugosidade L(índice r) como 10 vezes o logaritmo decimal do resultado da divisão do quadrado do valor quadrático médio, r(elevado a 2) , da rugosidade da superfície de rolamento de um carril ou de uma roda na direção do movimento (nível longitudinal), medida em (mi)m num determinado comprimento de carril ou na totalidade do diâmetro da roda, pelo quadrado do valor de referência, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O nível de rugosidade, L(índice r) , é normalmente obtido sob a forma de um espetro de comprimento de onda, (lambda), sendo necessário convertê-lo num espetro de frequências f = v/(lambda), em que f é a frequência central de uma dada banda de terço de oitava, em Hz, (lambda) é o comprimento de onda, em metros, e v é a velocidade do comboio, em m/s. O espetro da rugosidade, sendo função da frequência, desloca-se ao longo do eixo de frequências consoante a velocidade. Nos casos gerais, após a conversão num espetro de frequências por meio da velocidade, é necessário obter novos valores espetrais de bandas de terço de oitava, efetuando para o efeito a média dos pares de bandas de terço de oitava correspondentes no domínio de comprimentos de onda. Para estimar o espetro de frequências da rugosidade efetiva total correspondente à velocidade em causa do comboio, é necessário determinar a média, energética e proporcional, dos pares de bandas de terço de oitava correspondentes no domínio de comprimentos de onda.
 
@@ -631,7 +643,7 @@ Por analogia, o nível de rugosidade das rodas (rugosidade do lado do veículo) 
 
 Define-se o nível de rugosidade efetivo total , em dB, correspondente à banda de número de onda i (L(índice R,tot,i) ) como a soma energética dos níveis de rugosidade do carril e da roda, mais o filtro de contacto A(índice 3)(lambda), para ter em conta o efeito filtrante da zona de contacto entre o carril e a roda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O filtro de contacto depende do tipo de carril, do tipo de roda e da carga.
 
@@ -649,13 +661,13 @@ Relativamente à potência sonora por veículo, calcula-se o ruído de rolamento
 
 para h = 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura [2.3.c]
 
 Ilustração da utilização das diversas definições de rugosidade e de funções de transferência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Para determinar a rugosidade efetiva total e, portanto, a potência sonora dos veículos, deve utilizar-se uma velocidade mínima de 50 km/h (apenas 30 km/h no caso dos elétricos urbanos e do metropolitano ligeiro), para compensar o erro potencialmente introduzido pela simplificação da definição de ruído de rolamento, da definição de ruído de frenagem e da definição de ruído de impacto gerado nos cruzamentos e agulhas (esta velocidade não afeta o cálculo do fluxo de veículos).
 
@@ -665,13 +677,13 @@ Pode ser gerado ruído de impacto nos cruzamentos, nas agulhas e nas juntas dos 
 
 O ruído de impacto é incluído no termo correspondente ao ruído de rolamento adicionando (soma energética) um nível de rugosidade de impacto fictício ao nível de rugosidade efetivo total em cada troço de via j na qual ocorra ruído de impacto. Nesse caso, é necessário utilizar um novo L(índice R,TOT+IMPACT,i) , em vez de L(índice R,TOT,i) , passando a ser:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 L(índice R,IMPACT,i) é um espetro de bandas de terço de oitava (função da frequência). Para obter este espetro de frequências, é necessário converter o espetro disponível em função do comprimento de onda (lambda) no espetro requerido em função da frequência, utilizando a relação (lambda) = v/f, em que f é a frequência central de uma dada banda de terço de oitava, em Hz, e v é a velocidade s do veículo do tipo t, em m/s.
 
 O ruído de impacto depende da intensidade e do número dos impactos por unidade de comprimento ou da densidade de juntas. Por conseguinte, em caso de multiplicidade de impactos, o nível de rugosidade de impacto a utilizar na equação supra calcula-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Está preestabelecido que o nível de rugosidade de impacto corresponda a uma densidade de juntas n(índice l) = 0,01 m(elevado a - 1), ou seja, uma junta por 100 m de via. As situações nas quais o número de juntas seja diferente devem ser corrigidas por ajustamento da densidade de juntas n(índice l) . Ao estabelecer-se um modelo da configuração e segmentação da via, há que ter em conta a densidade de juntas de carril, pelo que pode ser necessário considerar segmentos de fonte distintos para troços de via com mais juntas. O termo L(índice W,0) referente à contribuição da via, das rodas/dos bogies e da superestrutura é incrementado por meio da L(índice R,IMPACT,i) nos 50 m anteriores e posteriores a cada junta de carril. No caso das séries de juntas, prolonga-se este aumento, ficando o mesmo compreendido entre - 50 m antes do primeira junta e + 50 m após a última junta.
 
@@ -685,7 +697,7 @@ O chiado em curva é uma fonte especial unicamente associada às curvas, sendo, 
 
 Caso não se disponha de valores medidos adequados, pode optar-se por uma abordagem simplificada, na qual se tem em conta o ruído de chiado adicionando ao espetro de potência sonora de ruído de rolamento, em todas as frequências, os seguintes acréscimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 É normalmente necessário verificar no local a aplicabilidade destes espetros de potência sonora ou acréscimos de valores, sobretudo no caso dos elétricos urbanos e dos pontos nos quais as curvas ou as agulhas de desvio sejam objeto de medidas antichiado.
 
@@ -713,23 +725,23 @@ O ruído aerodinâmico só é importante a velocidades superiores a 200 km/h, pe
 
 A contribuição do ruído aerodinâmico é função da velocidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Diretividade das fontes
 
 A diretividade horizontal , (Delta)L(índice W,dir,hor,i) , exprime-se em dB no plano horizontal, podendo ser predefinido que constitui um dipolo para os efeitos de rolamento, impacto (juntas dos carris etc.), chiado, frenagem, ventilação e aerodinâmico; calcula-se pela seguinte equação para cada banda i de frequências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Modela-se o ruído nas pontes na fonte A (h = 1), caso em que se considera existir omnidirecionalidade.
 
 A diretividade vertical, (Delta)L(índice W,dir,ver,i) , exprime-se em dB no plano vertical, para a fonte A (h = 1), em função da frequência central, f(índice c,i) , de cada banda i de frequências, sendo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O efeito aerodinâmico é o seguinte para a fonte B (h = 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Delta)L(índice W),(índice dir,ver,i) = 0 em qualquer outro ponto.
 
@@ -741,7 +753,7 @@ Correção devida à irradiação estrutural (pontes e viadutos)
 
 No caso de o troço de via se situar numa ponte é necessário considerar o ruído adicional gerado pela vibração da ponte devida à excitação causada pela presença do comboio. Modela-se o ruído das pontes como fonte adicional, cuja potência sonora é dada pela seguinte equação, por veículo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Correção devida a outras fontes de ruído ligadas aos caminhos de ferro
 
@@ -807,7 +819,7 @@ As horas de funcionamento são um dado essencial para o cálculo dos níveis de 
 
 A correção, C(índice W) , devida às horas de funcionamento, a somar à potência sonora da fonte para definir a potência sonora corrigida a utilizar nos cálculos relativos a cada período, é calculada em dB do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso das fontes mais dominantes, a correção, em média anual, devida às horas de funcionamento deve ser estimada com uma tolerância de, pelo menos, 0,5 dB, para garantir uma exatidão aceitável (equivalente a uma incerteza inferior a 10 % na definição do período ativo da fonte).
 
@@ -819,7 +831,7 @@ A diretividade de uma fonte depende fortemente da posição da fonte sonora equi
 
 - determinou-se e dispõe-se da potência sonora e da diretividade de uma determinada fonte real numa localização específica, pelo que a potência sonora e a diretividade da fonte em causa são, de facto, «equivalentes», visto serem determinadas nomeadamente com base num modelo do efeito das superfícies circundantes. Trata-se, neste caso, do «campo semilivre», de acordo com os conceitos relativos à propagação, e excluem-se do cálculo da propagação as superfícies circundantes modeladas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.5. Cálculo da propagação do ruído gerado por fontes rodoviárias, ferroviárias e industriais
 
@@ -859,9 +871,9 @@ Para ter em conta o relevo real do terreno ao longo do percurso de propagação,
 
 Os níveis sonoros, aos quais se atribui a notação L, são expressos em decibéis (dB) por banda de frequências quando o índice A é omitido. Aos níveis sonoros em decibéis dB(A) é atribuído o índice A.
 
-À soma dos níveis sonoros de fontes incoerentes entre si corresponde a notação [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf), de acordo com a seguinte definição:
+À soma dos níveis sonoros de fontes incoerentes entre si corresponde a notação [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf), de acordo com a seguinte definição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.5.3. Considerações geométricas
 
@@ -881,7 +893,7 @@ Figura 2.5.a
 
 Alturas equivalentes em relação ao solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A altura equivalente de um ponto é a altura ortogonal deste em relação ao plano médio do solo. Podem assim definir-se a altura equivalente da fonte, z(índice s), e a altura equivalente do recetor, z(índice r). A distância entre a fonte e o recetor, em projeção no plano médio do solo, recebe a notação d (índice p).
 
@@ -891,17 +903,17 @@ Cálculo do plano médio
 
 No plano do percurso de propagação, pode descrever-se a topografia (incluindo a do terreno, aterros e outros obstáculos construídos, edifícios etc.) por uma série ordenada de pontos discretos (x(índice k), H(índice k) ); k (euro) {1,..., n}. Esta série de pontos define uma linha poligonal ou, o que é equivalente, uma sequência de segmentos de reta, H(índice k) = a(índice k)x + b(índice k) , x (euro) [x(índice k) , x(índice k+ 1) ]; k (euro) {1,...n}, em que:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O plano médio é representado pela reta Z = ax + b; x (euro) [x (índice 1), x(índice n) ], que se ajusta à linha poligonal recorrendo a uma aproximação pelo método dos mínimos quadrados. A equação da linha média pode ser determinada analiticamente.
 
 Utilizando:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 os coeficientes da linha reta são dados pelas seguintes expressões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os segmentos com x(índice k + 1) = x(índice k) são ignorados na equação 2.5.3.
 
@@ -931,11 +943,11 @@ Para uma fonte pontual, S, de potência sonora direcional L(índice w,0,dir) e u
 
 Nível sonoro em condições favoráveis (L(índice F) para um percurso (S,R)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O termo A(índice F) representa a atenuação total ao longo do percurso de propagação em condições favoráveis, subdividindo-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 São possíveis os seguintes dois cenários para um dado percurso e uma dada banda de frequências:
 
@@ -947,11 +959,11 @@ Nível sonoro em condições homogéneas (L(índice H) para um percurso (S,R)
 
 O processo é estritamente idêntico ao caso de condições favoráveis apresentado no item anterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O termo A(índice H) representa a atenuação total ao longo do percurso de propagação, em condições homogéneas, subdividindo-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 São possíveis os seguintes dois cenários para um dado percurso e uma dada banda de frequências:
 
@@ -969,7 +981,7 @@ Obtém-se o nível sonoro «de longa duração» ao longo de um percurso com in�
 
 Estes níveis sonoros são ponderados pela ocorrência média, p, de condições favoráveis na direção do percurso (S,R):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Nota: Os valores de ocorrência p são expressos em percentagem. Portanto, se o valor da ocorrência for 82 %, figurará na equação (2.5.9) p = 0,82.
 
@@ -977,7 +989,7 @@ Nível sonoro de longa duração no ponto R, resultante de todos os percursos de
 
 Obtém-se o nível sonoro total a longo prazo correspondente a uma determinada banda de frequências no recetor através da soma energética das contribuições de todos os percursos N, todos os tipos incluídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Explica-se adiante como devem ser tidas em conta as reflexões, por meio de fontes imagem. Considera-se que a percentagem de ocorrência de condições favoráveis no caso de um percurso refletido num obstáculo vertical é idêntica à da ocorrência no percurso direto.
 
@@ -987,7 +999,7 @@ Nível sonoro de longa duração no ponto R em decibéis A (dBA)
 
 Obtém-se o nível sonoro total, em decibéis A (dBA), somando os níveis correspondentes a cada banda de frequências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O nível L(índice Aeq,LT) constitui o resultado final, isto é, o nível de pressão sonora com ponderação A a longo prazo no ponto de receção num período de referência específico (período diurno, período do entardecer, período noturno ou um subperíodo mais curto de algum destes).
 
@@ -997,13 +1009,13 @@ Divergência geométrica
 
 A atenuação devida a divergência geométrica, A(índice div), corresponde a uma redução do nível sonoro devido à distância de propagação. No caso de uma fonte sonora pontual em campo livre, a atenuação em dB é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Absorção atmosférica
 
 A atenuação, em dB, devida à absorção atmosférica, A (índice atm), durante a propagação ao longo de uma distância d é dada pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os valores do coeficiente (alfa)(índice atm) reportam-se à temperatura de 15 ºC, à humidade relativa de 70 % e à pressão atmosférica de 101 325 Pa. Calculam-se para as frequências centrais exatas das bandas de frequências, em conformidade com a norma ISO 9613-1. Caso se disponha de dados meteorológicos, devem utilizar-se médias meteorológicas a longo prazo.
 
@@ -1023,41 +1035,41 @@ Quadro 2.5.a
 
 Valores de G para diversos tipos de solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Define-se G(índice path) como a fração de solo absorvente existente na totalidade do percurso de propagação.
 
 Quando a fonte e o recetor estão próximos um do outro, de modo que d(índice p) (igual ou menor que) 30(z(índice s) + z(índice r) ), a distinção entre o tipo de solo situado junto da fonte e o tipo de solo situado junto do recetor é negligenciável. Nessa perspetiva, o fator do solo G(índice path) é, portanto, ainda corrigido como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.5.b
 
 Determinação do coeficiente do solo, G(índice path), num percurso de propagação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As distâncias d(índice n) determinam-se por projeção bidimensional no plano horizontal.
 
-Os dois itens seguintes, relativos aos cálculos em condições homogéneas [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) em condições favoráveis, apresentam as notações genéricas e para a absorção do solo. O quadro 2.5.b apresenta a correspondência entre essas notações e as variáveis G(índice path) e G'(índice path) .
+Os dois itens seguintes, relativos aos cálculos em condições homogéneas [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) em condições favoráveis, apresentam as notações genéricas e para a absorção do solo. O quadro 2.5.b apresenta a correspondência entre essas notações e as variáveis G(índice path) e G'(índice path) .
 
 Quadro 2.5.b
 
-Correspondência entre [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e (G(índice path), G'(índice path)
+Correspondência entre [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf) e (G(índice path), G'(índice path)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Cálculos em condições homogéneas
 
 A atenuação devida ao efeito do solo em condições homogéneas calcula-se pelas seguintes equações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Cálculos em condições favoráveis
 
 Calcula-se o efeito do solo em condições favoráveis recorrendo à equação de A(índice ground,H) , com as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Difração
 
@@ -1107,7 +1119,7 @@ Figura 2.5.c
 
 Geometria de um cálculo da atenuação devida à difração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A irregularidade do solo entre a fonte e o ponto de difração, por um lado, e entre o ponto de difração e o recetor, por outro, é tida em conta por meio das alturas equivalentes calculadas em relação ao plano médio do solo, primeiro do lado da fonte, depois do lado do recetor (dois planos médios do solo), de acordo com o método descrito no item relativo às alturas significativas acima do solo.
 
@@ -1115,11 +1127,11 @@ Difração pura
 
 No caso da difração pura, sem efeitos do solo, a atenuação é dada pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso das difrações múltiplas e sendo e a distância correspondente à extensão total do percurso entre o primeiro e o último pontos de difração (utilizar raios curvos em caso de condições favoráveis), se e exceder 0,3 m, este coeficiente é definido do seguinte modo (caso contrário, C" = 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os valores de (Delta)(índice dif) estão limitados como segue:
 
@@ -1137,7 +1149,7 @@ Figura 2.5.d
 
 Cálculo da diferença de percursos em condições homogéneas. O, O(índice 1) e O(índice 2) são os pontos de difração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Nota: Apresenta-se a expressão de (delta) para cada configuração.
 
@@ -1147,25 +1159,25 @@ Figura 2.5.e
 
 Cálculo da diferença de percursos em condições favoráveis (difração simples)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em condições favoráveis, os três raios sonoros encurvados , e têm raio de curvatura, (Gama), idêntico, definido por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A notação do comprimento de um raio sonoro MN encurvado é M^N, em condições favoráveis. Este comprimento é igual a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em princípio, seriam três os cenários a considerar no cálculo da diferença de percursos em condições favoráveis, (delta)(índice F) (ver a figura 2.5.e). Na prática, são suficientes duas equações:
 
 - se a propagação direta do raio sonoro retilíneo SR for impedida pelo obstáculo (primeiro e segundo casos na figura 2.5.e):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 - se a propagação direta do raio sonoro retilíneo SR não for impedida pelo obstáculo (terceiro caso na figura 2.5.e):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso de difrações múltiplas em condições favoráveis:
 
@@ -1175,33 +1187,33 @@ No caso de difrações múltiplas em condições favoráveis:
 
 - calcula-se (delta)(índice F) com base no comprimento dos segmentos que compõem o raio sonoro encurvado, subdividindo o percurso difratado nos segmentos necessários (ver a figura 2.5.f).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em condições favoráveis, o percurso de propagação no plano de propagação vertical consiste sempre de segmentos de um círculo cujo raio é dado pela distância, no espaço tridimensional, entre a fonte e o recetor, ou seja, todos os segmentos do percurso de propagação têm o mesmo raio de curvatura. Se o arco de ligação direta entre a fonte e o recetor estiver bloqueado, define-se o percurso de propagação como a mais curta combinação convexa de arcos que envolve todos os obstáculos. Entende-se por «convexo» neste contexto que, em cada ponto de difração, o segmento de raio que sai é defletido para baixo, em relação ao segmento de raio que entra.
 
 Figura 2.5.f
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso ilustrado na figura 2.5.f, a diferença de percursos é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Cálculo da atenuação Adif
 
 Para calcular a atenuação devida à difração, tendo em conta os efeitos do solo do lado da fonte e do lado do recetor, utilizam-se as seguintes equações gerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Cálculo do termo (Delta)ground(S,O)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso especial em que a fonte está situada abaixo do plano médio do solo: (Delta) dif(S,R)= (Delta) dif(S',R) e (Delta) ground(S,O) = A ground(S,O)
 
 Cálculo do termo (Delta) ground(O,R)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso especial em que o recetor está situado abaixo do plano médio do solo: (Delta) dif(S,R') = (Delta) dif(S,R) e (Delta) ground ( O,R ) = A ground ( O,R ).
 
@@ -1209,7 +1221,7 @@ Cenários de bordo vertical
 
 Pode utilizar-se a equação (2.5.21) para calcular difrações em bordos verticais (difrações laterais), no caso do ruído industrial. Se assim for, considera-se Adif = (Delta)dif(S,R) e utiliza-se o termo Aground . Por outro lado, calculam-se Aatm e Aground a partir do comprimento total do percurso de propagação. Adiv continua a ser calculado a partir da distância direta d. As equações (2.5.8) e (2.5.6) tomam o seguinte aspeto, respetivamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Delta)dif é efetivamente utilizado em condições homogéneas na equação (2.5.34).
 
@@ -1241,7 +1253,7 @@ As reflexões no solo não são tratadas neste item. São tidas em conta nos cá
 
 Sendo L(índice WS) o nível de potência da fonte S e (alfa)(índice r) o coeficiente de absorção da superfície do obstáculo, conforme definido na norma EN 1793-1:2013, o nível de potência da fonte imagem S' é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As atenuações de propagação acima descritas aplicam-se a este percurso (fonte imagem, recetor) tal como a um percurso direto.
 
@@ -1249,7 +1261,7 @@ Figura 2.5.g
 
 Reflexão especular num obstáculo tratada pelo método da fonte imagem (S: fonte, S': fonte imagem, R: recetor)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Atenuação por retrodifração
 
@@ -1263,7 +1275,7 @@ Figura 2.5.h
 
 Reflexão de quarta ordem de um raio sonoro numa via em vala: corte real (em cima) e corte estendido (em baixo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Nesta representação, o raio sonoro atinge o recetor após «atravessar sucessivamente» as paredes de suporte da vala, as quais podem, portanto, equiparar-se a aberturas.
 
@@ -1271,23 +1283,23 @@ Ao calcular a propagação através de uma abertura, o campo sonoro do recetor r
 
 A diferença de percursos, (delta)', associada a cada retrodifração constitui o oposto da diferença de percursos entre S e R correspondente a cada bordo superior, O, conforme a vista em corte estendido infra (ver a figura 2.5.i).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.5.i
 
 Diferença de percursos para a segunda reflexão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O sinal menos na equação (2.5.36) significa que se considera que o recetor está na zona clara.
 
 Obtém-se a atenuação por retrodifração, (Delta)(índice retrodif) , através da equação (2.5.37), que é semelhante à equação (2.5.21), com as notações adaptadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Aplica-se esta atenuação ao raio direto de cada vez que este «atravessa» (é refletido por) uma parede ou um edifício. O nível de potência da fonte imagem S' é então o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em configurações de propagação complexas, podem existir difrações entre reflexões ou entre o recetor e as reflexões. Nesse caso, estima-se a retrodifração pelas paredes considerando o percurso entre a fonte e o primeiro ponto de difração, R' (considerado, portanto, o recetor na equação (2.5.36)). Este princípio é ilustrado na figura 2.5.j.
 
@@ -1295,7 +1307,7 @@ Figura 2.5.j
 
 Diferença de percursos na presença de difração: corte real (em cima) e corte estendido (em baixo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em caso de reflexão múltipla, somam-se as reflexões correspondentes a cada reflexão.
 
@@ -1319,33 +1331,33 @@ O lado interno do obstáculo tem coeficientes de absorção (alfa)(f) por banda 
 
 Nesta configuração, as múltiplas reflexões entre a estrutura do veículo ferroviário e o obstáculo podem ser calculadas utilizando fontes imagem localizadas em Sn (dn = -2n. dB, hn = hs ), sendo n = 0, 1, 2,...N, como ilustra a figura 2.5.k.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A potência sonora da fonte equivalente é expressa do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção devida à divergência esférica é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção devida à difração pelo topo do obstáculo é dada por:
 
 (2.5.42)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção devida à absorção do lado interno do obstáculo é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção devida à reflexão pela estrutura do veículo ferroviário é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A correção devida à altura finita do obstáculo refletor é tida em conta por meio de retrodifração. O raio correspondente a uma imagem de ordem N (maior que) 0 será refletido pelo obstáculo n vezes no seu percurso. Na secção transversal, estas reflexões ocorrem às distâncias di = - (2i-q)db, i = 1,2,..n, sendo Pi (d = di, h = hb ), i = 1,2,..n, os topos das superfícies refletoras em causa. Calcula-se do seguinte modo um termo de correção em cada um desses pontos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.6. Disposições gerais - Ruído gerado pelas aeronaves
 
@@ -1359,15 +1371,15 @@ Recorda-se várias vezes ao leitor a intermutabilidade neste documento dos termo
 
 Termos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Símbolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Índices
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.6.2. Qualidade
 
@@ -1403,7 +1415,7 @@ Figura 2.7.a
 
 Processo de geração de curvas de ruído
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Seja qual for a fonte dos dados de voo, define-se cada movimento de uma aeronave, de aterragem ou de descolagem, em termos da geometria da trajetória de voo e da emissão de ruído da aeronave ao percorrer essa trajetória (os movimentos essencialmente idênticos, em termos de ruído e de trajetória de voo, são contabilizados por simples multiplicação). A emissão de ruído depende das características da aeronave - em especial da potência gerada pelos motores. A metodologia recomendada compreende a divisão da trajetória de voo em segmentos. Os pontos 2.7.3 a 2.7.6 resumem os elementos metodológicos e explicam o princípio de segmentação no qual assenta o método: o de que o nível de ruído observado de um acontecimento resulta da agregação das contribuições de todos os segmentos com significado em termos de ruído da trajetória de voo, cada um dos quais calculável independentemente dos outros. Os pontos 2.7.3 a 2.7.6 resumem igualmente os requisitos dos dados necessários para gerar uma série de curvas de ruído. O apêndice A especifica pormenorizadamente os dados operacionais necessários.
 
@@ -1595,7 +1607,7 @@ Figura 2.7.b
 
 Sistema local de coordenadas (x,y,z) e coordenada fixa da rota no solo (s)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Sistema de coordenada fixa da rota no solo
 
@@ -1615,7 +1627,7 @@ Figura 2.7.c
 
 Sistema de coordenadas fixo da aeronave (x',y',z')
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Consideração da topografia
 
@@ -1627,7 +1639,7 @@ Elevação do solo ao longo da rota no solo (à esquerda) e lateralmente a esta 
 
 (O plano nominal do solo, z = 0, passa no ponto de referência do aeroporto. O é o ponto de observação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.7.11. Rotas no solo
 
@@ -1639,7 +1651,7 @@ Figura 2.7.e
 
 Geometria da rota no solo em termos de viragens e de segmentos retilíneos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A definição de uma rota central a partir de dados de radar é mais complexa, em primeiro lugar porque, na realidade, as viragens se efetuam a velocidade variável, em segundo lugar porque a linha de rota é esbatida pela dispersão dos dados. Como se referiu, ainda não se desenvolveram procedimentos formalizados sobre esta matéria e é prática comum fazer coincidir os segmentos, retilíneos e curvos, com as posições médias calculadas a partir de secções transversais das trajetórias traçadas por radar, efetuadas a determinados intervalos ao longo da rota. É crível que sejam futuramente desenvolvidos algoritmos informáticos que realizem esta tarefa, mas, de momento, cabe ao construtor do modelo decidir a melhor maneira de utilizar os dados disponíveis. Um fator importante é o facto de a velocidade e o raio de viragem da aeronave determinarem o ângulo de pranchamento. Ora, como se verá no ponto 2.7.19, o ruído sentido no solo é condicionado, não só pela posição da trajetória de voo, mas também pelas assimetrias da radiação sonora em redor desta.
 
@@ -1661,13 +1673,13 @@ Quadro 2.7.a
 
 Percentagens de movimentos correspondentes a uma função de distribuição normal com desvio-padrão S, para 7 sub-rotas (a rota central é a sub-rota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O desvio-padrão, S, é função da coordenada s ao longo da rota central. Este parâmetro pode ser especificado - juntamente com a descrição da rota central - na folha de dados da rota de voo constante do apêndice A3. Na falta de qualquer indicação relativa ao desvio-padrão - obtida, por exemplo, a partir de dados de radar descritivos de rotas de voo comparáveis -, recomendam-se os seguintes valores:
 
 Rotas que compreendam viragens de ângulo inferior a 45º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Por razões práticas, considera-se S(s) igual a zero entre o início da rolagem para descolagem e s = 2 700 m ou s = 3 300 m, consoante o ângulo de viragem. Às rotas com mais de uma curva deve aplicar-se a equação (2.7.2). No que respeita às chegadas, pode negligenciar-se a dispersão lateral nos 6 000 m anteriores ao toque no solo.
 
@@ -1715,7 +1727,7 @@ Caso não se pretenda ter em conta os efeitos das viragens no perfil de voo, ado
 
 Quer os efeitos das viragens sejam ou não integrados no modelo, gera-se cada trajetória tridimensional de voo combinando o perfil de voo bidimensional e a rota no solo bidimensional correspondentes. O resultado é uma sequência de trios de coordenadas (x,y,z), correspondendo cada um deles a um nó da rota no solo segmentada, a um nó do perfil de voo ou a ambos e sendo os pontos do perfil acompanhados dos valores correspondentes de altura, z, velocidade em relação ao solo, V, ângulo de pranchamento, (épsilo), e potência dos motores, P. Os parâmetros de voo correspondentes a um ponto da rota com as coordenadas (x,y), situado entre as extremidades de um segmento do perfil de voo, obtêm-se por interpolação do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Note-se que se considera que z e (épsilo) variam linearmente com a distância e que V e P variam linearmente com o tempo (aceleração constante (**)).
 
@@ -1727,27 +1739,27 @@ Ao descolar, dado que a aeronave acelera entre o ponto de destravagem (também d
 
 Divide-se, portanto, a rolagem para descolagem em segmentos de comprimento variável, em cada um dos quais a velocidade da aeronave varia de um incremento (Delta)V não superior a 10 m/s (cerca de 20 kt). Embora a aceleração na realidade varie durante a rolagem para descolagem, a hipótese de aceleração constante é adequada para este efeito. Nestas circunstâncias, para a fase de descolagem, V1 é a velocidade inicial, V2 é a velocidade de descolagem, nTO é o número de segmentos de descolagem e sTO é a distância de descolagem equivalente. Para a distância de descolagem equivalente sTO (ver o apêndice B), a velocidade inicial V1 e a velocidade de descolagem VTO , o número nTO de segmentos da rolagem para descolagem é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O comprimento, sTO,k, do segmento k (1 (igual ou menor que) k (igual ou menor que) nTO) da rolagem para descolagem é dado pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Exemplo: Para uma distância de descolagem sTO = 1 600 m, V1 = 0 m/s e V2 = 75 m/s, nTO = 8 segmentos de comprimento compreendido entre 25 m e 375 m (ver a figura 2.7.g):
 
 Figura 2.7.g
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Tal como sucede com as variações de velocidade, a força propulsora exercida sobre a aeronave varia de um incremento constante (Delta)P em cada segmento, calculado da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Utiliza-se este incremento constante de força propulsora (em vez de recorrer à equação quadrática 2.7.6) por razões de coerência com a relação linear entre força propulsora e velocidade no caso das aeronaves de motor de reação.
 
 Nota importante: As equações e o exemplo acima pressupõem implicitamente que a velocidade inicial da aeronave no início da fase de descolagem é zero. É esta a situação comum na qual a aeronave começa a rolagem e inicia a aceleração a partir do ponto de destravagem. Todavia, há também situações em que a aeronave inicia a aceleração a partir da sua velocidade de circulação em pista, sem se deter na cabeceira da pista. Nesses casos de velocidade inicial, Vinit , diferente de zero, utilizam-se as seguintes equações, ditas «generalizadas», em vez das equações (2.7.8), (2.7.9), 2.7.10 e 2.7.11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Neste caso, para a fase de descolagem, V1 é a velocidade inicial Vinit , V2 é a velocidade de descolagem VTO , n é o número de segmentos de descolagem nTO , s é a distância de descolagem equivalente sTO e sk é o comprimento sTO,k do segmento k (1[Symbol] k [Symbol] n).
 
@@ -1771,7 +1783,7 @@ O ruído gerado pela inversão da força propulsora é um processo físico muito
 
 Figura 2.7.h.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A aeronave ultrapassa a cabeceira da pista de aterragem (à qual corresponde a coordenada s = 0 na rota de aproximação no solo) à altitude de 50 pés e continua a descer a sua rampa de planeio até tocar a pista. Para uma rampa de planeio de 3o, o ponto em que a aeronave toca na pista situa-se 291 m adiante da cabeceira da pista de aterragem (como se ilustra na figura 2.7.h.1). A aeronave é, em seguida, desacelerada ao longo de uma distância de paragem sstop - a base de dados ANP fornece valores específicos para cada aeronave -, desde a velocidade de aproximação final, Vfinal , até 15 m/s. Dado que a velocidade varia rapidamente ao longo deste segmento, o segmento deve ser subdividido da mesma maneira que no caso da rolagem para descolagem (ou dos segmentos de voo nos quais se verificam rápidas mudanças de velocidade), utilizando as equações generalizadas (2.7.13) (pois a velocidade de circulação em pista não começa por ser igual a zero). O regime dos motores varia da potência de aproximação final, no momento do toque no solo, até à regulação de potência correspondente à inversão da força propulsora, Prev , numa distância de 0,1.sstop , decrescendo em seguida até 10% da potência máxima disponível ao longo dos 90% restantes da distância de paragem. A velocidade da aeronave mantém-se depois constante até ao final da pista (em s = -s RWY).
 
@@ -1787,7 +1799,7 @@ z = {62, 136, 224, 335, 484, 705, 1 099, 2 000, 4 231} pés.
 
 Para cada segmento original abaixo de 1 289,6 m (4 231 ft), aplicam-se as alturas acima indicadas identificando que altura da série é mais próxima da altura do ponto final (segmentos de subida), ou da altura do ponto inicial (segmentos de aproximação), originais. Calculam-se, em seguida, as alturas reais dos subsegmentos, zi, utilizando a seguinte relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Exemplo do segmento inicial de subida:
 
@@ -1803,7 +1815,7 @@ Subsegmentação em voo
 
 No caso dos segmentos de voo, se a variação de velocidade num segmento for apreciável, subdivide-se o segmento tal como se procedeu em relação à rolagem para descolagem, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Rota no solo
 
@@ -1811,11 +1823,11 @@ Define-se uma rota no solo, quer se trate de uma rota central ou de uma sub-rota
 
 Para a construção de um modelo de segmentação, representam-se os arcos por sequências de segmentos retilíneos correspondentes a subarcos. Embora os subarcos não apareçam explicitamente nos segmentos da rota no solo, o rolamento da aeronave durante as viragens influencia a definição dos mesmos. O apêndice B4 explica como calcular ângulos de pranchamento durante uma viragem em condições estabilizadas, mas é evidente que, na realidade, esses ângulos não são aplicados nem removidos instantaneamente. Não está definida nenhuma maneira de tratar as transições entre voo retilíneo e voo em curva nem entre viragens consecutivas. Regra geral, os pormenores, que são deixados ao critério do utilizador (ver o ponto 2.7.11), terão provavelmente um efeito negligenciável nas curvas de ruído finais. O importante é, sobretudo, evitar descontinuidades pronunciadas nas extremidades das viragens, o que pode ser conseguido, simplesmente, por exemplo, através da inserção de segmentos de transição curtos ao longo dos quais o ângulo de pranchamento varia linearmente com a distância. Apenas no caso especial de uma determinada viragem ser suscetível de ter um efeito dominante nas curvas de ruído finais será necessário construir um modelo mais realista da dinâmica da transição, relacionar o ângulo de pranchamento com o tipo de aeronave e adotar velocidades de rolamento adequadas. Neste item, é suficiente indicar que os subarcos (Delta)(csi)trans das extremidades de uma viragem dependem da variação do ângulo de pranchamento. Divide-se o resto do arco, correspondente à mudança de rumo (Delta)(csi) - 2·(Delta)(csi)trans graus, em nsub subarcos por meio da seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.7.h.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Uma vez os segmentos da rota no solo estabelecidos no plano x-y, sobrepõem-se-lhes os segmentos do perfil de voo (no plano s-z), para gerar os segmentos da rota tridimensional (x, y, z).
 
@@ -1853,11 +1865,11 @@ A métrica mais habitualmente utilizada para caracterizar acontecimentos complet
 
 O nível de exposição sonora (ou ao ruído) de um acontecimento isolado é expresso rigorosamente pela equação seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No contexto dos modelos de curvas do ruído gerado pelas aeronaves, a principal aplicação da equação 2.7.17 é a métrica normalizada Nível de exposição sonora, L(índice AE) (acrónimo SEL):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As equações do nível de exposição supra podem ser utilizadas para determinar níveis de acontecimentos quando é integralmente conhecida a função do tempo L(t). Na metodologia recomendada para a construção de modelos de ruído, não se define essa função; em vez disso, calculam-se os níveis de exposição associados a acontecimentos somando valores correspondentes a segmentos - isto é, somando níveis correspondentes a acontecimentos parciais, cada um dos quais contabiliza a contribuição de um só segmento finito da trajetória de voo.
 
@@ -1869,15 +1881,15 @@ A maneira como se determinam as variáveis independentes P e d é descrita mais 
 
 Figura 2.7.i
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Sendo Pi e Pi+ 1 valores de potência dos motores para os quais se dispõe de valores tabelados de nível de ruído em função da distância, o nível de ruído, L(P), a uma dada distância, correspondente à potência intermédia P, compreendida entre Pi e Pi+ 1, é dado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Sendo di e di+1 distâncias para as quais se dispõe de dados tabelados de nível de ruído em função da regulação de potência, o nível de ruído, L(d), correspondente a uma dada regulação de potência, à distância intermédia d, compreendida entre di e di+ 1, é dado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Utilizando as equações (2.7.19) e (2.7.20), pode obter-se o nível de ruído, L(P,d), correspondente a qualquer regulação de potência, P, e a qualquer distância, d, compreendidas no universo de dados da base NPD.
 
@@ -1885,11 +1897,11 @@ Para distâncias, d, fora do universo de dados da base NPD, utiliza-se a equaç�
 
 Distâncias menores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Distâncias maiores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Dado que, a distâncias d curtas, os níveis de ruído aumentam muito rapidamente à medida que a distância de propagação diminui, recomenda-se a imposição a d de um limite inferior, de 30 m; ou seja, d = max(d, 30 m).
 
@@ -1901,7 +1913,7 @@ A impedância acústica relaciona-se com a propagação das ondas sonoras num me
 
 O ajustamento de impedância a aplicar aos níveis NPD normalizados é expresso do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em geral, o ajustamento em função da impedância acústica é inferior a algumas décimas de decibel. É conveniente referir, nomeadamente, que, nas condições atmosféricas normais (p0 = 101,325 kPa e T0 = 15,0 ºC), o ajustamento em função da impedância é inferior a 0,1 dB (0,074 dB). Porém, este ajustamento pode ser maior, se a temperatura e a pressão atmosférica forem bastante diferentes das condições atmosféricas de referência dos dados NPD.
 
@@ -1913,7 +1925,7 @@ Nível do acontecimento associado a um segmento, Lseg
 
 Determinam-se os valores associados a cada segmento aplicando ajustamentos aos valores de base (correspondentes a uma trajetória de comprimento infinito) provenientes dos dados NPD. Em geral, pode exprimir-se o nível máximo de ruído associado a um segmento de trajetória de voo, L(índice max,seg) , do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os «termos de correção» constantes das equações 2.7.25 e 2.7.26 são explicados pormenorizadamente no ponto 2.7.19 e dão conta dos seguintes efeitos:
 
@@ -1927,7 +1939,7 @@ Os «termos de correção» constantes das equações 2.7.25 e 2.7.26 são expli
 
 Se o segmento fizer parte da rolagem para descolagem ou da rolagem à aterragem e o observador estiver situado antes do segmento em causa, há que tomar medidas especiais para representar a direcionalidade pronunciada do ruído dos motores de reação observada para trás de uma aeronave prestes a descolar. Essas medidas especiais compreendem, nomeadamente, a utilização de uma forma particular do ruído no cálculo do nível de exposição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Delta)'(índice F) Forma particular da correção do segmento;
 
@@ -1941,7 +1953,7 @@ Nível de ruído, L, de um acontecimento associado ao movimento de uma aeronave
 
 O nível máximo, L(índice max) , é simplesmente o maior dos valores L(índice max,seg) associados aos segmentos, (ver as equações 2.7.25 e 2.7.27).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.7.18. Parâmetros dos segmentos da trajetória de voo
 
@@ -1951,25 +1963,25 @@ Parâmetros geométricos
 
 As figuras 2.7.j a 2.7.l ilustram as geometrias fonte-recetor quando o observador O está situado a) para trás, b) para o lado ou c) para a frente do segmento S(índice 1)S(índice 2), sendo o sentido de voo de S(índice 1) para S(índice 2) . Nestes diagramas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.7.j
 
 Geometria de um segmento de trajetória de voo quando o observador está situado para trás do segmento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.7.k
 
 Geometria de um segmento de trajetória de voo quando o observador está situado para o lado do segmento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Figura 2.7.l
 
 Geometria de um segmento de trajetória de voo quando o observador está situado para a frente do segmento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Representa-se o segmento de trajetória de voo por uma linha contínua a traço mais espesso. As linhas a pontilhado representam as extensões da trajetória de voo, que se prolongam até ao infinito em ambos os sentidos. No caso dos segmentos de voo, se a métrica do acontecimento for um nível de exposição, L(índice E) , o parâmetro NPD «distância», d, é a distância, d(índice p) , entre S(índice p) e o observador designada por distância oblíqua mínima (distância entre o observador e o segmento ou a extensão deste, isto é, entre o observador e a trajetória de voo - hipotética - infinita da qual o segmento se considera fazer parte, medida na perpendicular à trajetória).
 
@@ -1981,7 +1993,7 @@ Potência, P, num segmento
 
 Os dados NPD tabelados descrevem o ruído gerado por uma aeronave em voo retilíneo estabilizado numa trajetória de voo infinita, ou seja, com a potência dos motores, P, constante. A metodologia recomendada subdivide as trajetórias de voo reais, ao longo das quais a velocidade e a direção variam, numa série de segmentos finitos, cada um dos quais é, em seguida, considerado parte de uma trajetória de voo uniforme infinita para a qual são válidos os dados NPD. Porém, esta metodologia prevê a variação quadrática da potência com a distância ao longo de cada segmento, entre o valor P1 na extremidade inicial e o valor P2 na extremidade final. É, portanto, necessário definir um valor constante equivalente, P, correspondente ao segmento. Considera-se para o efeito o valor no ponto do segmento que mais próximo se situa do observador. Se o observador estiver situado para o lado do segmento (figura 2.7.k), esse valor é obtido por interpolação pela equação (2.7.8) entre os valores das extremidades, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Se o observador estiver situado para trás ou para a frente do segmento, esse valor é o correspondente ao da extremidade mais próxima, P1 ou P2 .
 
@@ -1997,7 +2009,7 @@ Tal como a potência dos motores, a velocidade varia ao longo do segmento de tra
 
 No caso dos segmentos de voo, Vseg é a velocidade no segmento no ponto de aproximação mais próximo, S, obtida por interpolação entre os valores correspondentes às extremidades do segmento, admitindo que a velocidade varia quadraticamente com o tempo. Ou seja, se o observador estiver situado para o lado do segmento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (*) É designada por correção de duração porque tem em conta os efeitos da velocidade da aeronave na duração do acontecimento sonoro - admitindo a hipótese simples segundo a qual, mantendo-se idênticos os outros fatores, a duração e, portanto, a energia sonora recebida do acontecimento, é inversamente proporcional à velocidade da fonte.
 
@@ -2005,11 +2017,11 @@ Se o observador estiver situado para trás ou para a frente do segmento, o valor
 
 No caso dos segmentos de pista (partes da rolagem para descolagem ou da rolagem à aterragem para as quais (gama) = 0), considera-se V(índice seg) simplesmente a média das velocidades inicial e final no segmento, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Em qualquer caso, a correção aditiva de duração é, portanto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Geometria da propagação sonora
 
@@ -2019,7 +2031,7 @@ Figura 2.7.l
 
 Ângulos entre a aeronave e o observador no plano perpendicular à trajetória de voo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Correção ligada à implantação dos motores, (Delta)I
 
@@ -2027,11 +2039,11 @@ Uma aeronave em voo constitui uma fonte sonora complexa. Não apenas o motor (e 
 
 Há diferenças significativas de diretividade lateral entre as aeronaves com os motores montados na fuselagem e as aeronaves com os motores montados sob as asas, as quais são contempladas na seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso das aeronaves a hélice, as variações de diretividade são negligenciáveis e pode considerar-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A figura 2.7.n mostra a variação de (Delta)(índice I) (fi) em torno do eixo de rolamento para os dois tipos de implantação dos motores e as aeronaves de motores a hélice. Estas relações empíricas foram deduzidas pela Society of Automotive Engineers (SAE) a partir de medições experimentais realizadas, sobretudo, debaixo das asas. Enquanto não se dispõe de resultados da análise de dados relativos a medições realizadas acima das asas, recomenda-se que, para (fi) negativo, (Delta)(índice I)(fi) = (Delta)(índice I)(0) para os três casos referidos.
 
@@ -2039,41 +2051,41 @@ Figura 2.7.n
 
 Diretividade lateral dos efeitos da implantação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Considera-se que (Delta)(índice I) (fi) é bidimensional, ou seja, que não depende de nenhum outro parâmetro - e, nomeadamente, que não varia com a distância longitudinal entre o observador e a aeronave. Significa isto que o ângulo de elevação (beta) correspondente a (Delta)(índice I) (fi) é definido por (beta) = tan(elevado a - 1)(z/(lambda). Esta aproximação destina-se a facilitar a construção de modelos, até se compreenderem melhor os mecanismos. Na realidade, os efeitos ligados à implantação dos motores devem ser substancialmente tridimensionais. Apesar disso, justifica-se um modelo bidimensional, porque os níveis dos acontecimentos tendem a ser dominados pelo ruído irradiado para os lados proveniente do segmento mais próximo.
 
-Atenuação lateral [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda) (trajetória de voo infinita)
+Atenuação lateral [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda) (trajetória de voo infinita)
 
 Os níveis NPD tabelados de acontecimentos reportam-se a voos planos estabilizados e geralmente baseiam-se em medições efetuadas 1,2 m acima de solo plano brando, por debaixo da aeronave. O parâmetro «distância» é, na realidade, a altura acima do solo. Considera-se que qualquer efeito da superfície nos níveis de ruído dos acontecimentos por debaixo da aeronave que pudesse provocar diferenças entre os valores tabelados e os valores em campo aberto (24) já está incorporado nos dados (isto é, nas relações entre o nível e a distância).
 
 Para os lados da trajetória de voo, o parâmetro «distância» é a distância oblíqua mínima - comprimento da linha traçada entre o observador e a trajetória de voo, perpendicularmente a esta. Em qualquer posição lateral, o nível de ruído é, em geral, inferior ao observado à mesma distância da aeronave, mas por debaixo desta. Independentemente da diretividade lateral e dos efeitos da implantação acima descritos, isto deve-se a um excesso de atenuação lateral, que provoca uma redução do nível sonoro com a distância mais rápida do que a indicada pelas curvas NPD. A SAE desenvolveu anteriormente um método muito utilizado para a construção de modelos da propagação lateral do ruído gerado pelas aeronaves (documento AIR-1751). Os algoritmos abaixo descritos baseiam-se nos aperfeiçoamentos que essa organização agora recomenda (documento AIR-5662). A atenuação lateral é um efeito da reflexão, devido à interferência entre o som diretamente irradiado e o que é refletido pela superfície. Depende da natureza da superfície e pode reduzir significativamente os níveis sonoros observados a ângulos de elevação baixos. É muito fortemente afetada pela refração sonora, estável ou instável, provocada por gradientes de vento e de temperatura e pela turbulência, os quais são eles próprios atribuíveis à presença da superfície (25). O mecanismo da reflexão à superfície é bem compreendido e, para condições atmosféricas e de superfície uniformes, pode ser descrito teoricamente com alguma precisão. Todavia, as heterogeneidades atmosféricas e da superfície - que não se enquadram numa análise teórica simples - têm uma incidência importante no efeito de reflexão, tendendo a estendê-lo a ângulos de elevação maiores. A aplicabilidade da teoria é, portanto, limitada. O trabalho desenvolvido pela SAE com vista a uma melhor compreensão dos efeitos de superfície prossegue e espera-se que permita construir modelos melhores. Enquanto isso não sucede, recomenda-se a metodologia a seguir explicada, descrita no documento AIR-5662, para calcular a atenuação lateral. Circunscreve-se ao caso da propagação sonora por cima de terreno plano brando, o que se adequa à maior parte dos aeroportos civis. Estão ainda em desenvolvimento ajustamentos destinados a contabilizar os efeitos de superfícies de solo rígidas (ou de um plano de água, equivalentes em termos acústicos).
 
-A metodologia assenta num volume apreciável de dados experimentais de propagação do som gerado por aeronaves com motores montados na fuselagem em voo retilíneo (sem viragens), estabilizado e plano, inicialmente publicados no documento AIR-1751. Admitindo que, para voos planos, a atenuação ar-solo depende i) do ângulo de elevação, (beta), medido no plano vertical e ii) do afastamento lateral, (lambda), em relação à rota da aeronave no solo, analisaram-se os dados de modo a obter uma função empírica do ajustamento lateral total, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(índice T) (beta),(lambda) (= nível do acontecimento em posição lateral menos o nível do acontecimento à mesma distância por debaixo da aeronave).
+A metodologia assenta num volume apreciável de dados experimentais de propagação do som gerado por aeronaves com motores montados na fuselagem em voo retilíneo (sem viragens), estabilizado e plano, inicialmente publicados no documento AIR-1751. Admitindo que, para voos planos, a atenuação ar-solo depende i) do ângulo de elevação, (beta), medido no plano vertical e ii) do afastamento lateral, (lambda), em relação à rota da aeronave no solo, analisaram-se os dados de modo a obter uma função empírica do ajustamento lateral total, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(índice T) (beta),(lambda) (= nível do acontecimento em posição lateral menos o nível do acontecimento à mesma distância por debaixo da aeronave).
 
-Dado que o termo [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(índice T) (beta),(lambda) (fi) substituído por (beta) (o que se adequa aos voos sem viragens), obtém-se, para a atenuação lateral:
+Dado que o termo [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(índice T) (beta),(lambda) (fi) substituído por (beta) (o que se adequa aos voos sem viragens), obtém-se, para a atenuação lateral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-A figura 2.7.o ilustra graficamente a expressão da atenuação lateral [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), equação 2.7.40, considerada adequada para todas as aeronaves (a hélice e com motores de reação montados na fuselagem ou nas asas).
+A figura 2.7.o ilustra graficamente a expressão da atenuação lateral [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), equação 2.7.40, considerada adequada para todas as aeronaves (a hélice e com motores de reação montados na fuselagem ou nas asas).
 
-Em determinadas circunstâncias (em função do terreno), (beta) pode ser inferior a zero. Nesses casos, recomenda-se que [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta) = 10,57.
+Em determinadas circunstâncias (em função do terreno), (beta) pode ser inferior a zero. Nesses casos, recomenda-se que [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta) = 10,57.
 
 Figura 2.7.o
 
-Variação da atenuação lateral, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), com o ângulo de elevação e com a distância
+Variação da atenuação lateral, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), com o ângulo de elevação e com a distância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Atenuação lateral para segmentos finitos
 
-As equações 2.7.41 a 2.7.44 descrevem a atenuação lateral, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), do som que chega ao observador, proveniente de uma aeronave em voo estabilizado ao longo de uma trajetória de voo plana e infinita. Ao aplicarem-se estas equações a segmentos de trajetória finitos e não-planos, é necessário calcular a atenuação para uma trajetória plana equivalente - dado que o ponto mais próximo numa simples extensão do segmento inclinado (que cruza algures a superfície do solo) geralmente não gera um ângulo de elevação, (beta), adequado.
+As equações 2.7.41 a 2.7.44 descrevem a atenuação lateral, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), do som que chega ao observador, proveniente de uma aeronave em voo estabilizado ao longo de uma trajetória de voo plana e infinita. Ao aplicarem-se estas equações a segmentos de trajetória finitos e não-planos, é necessário calcular a atenuação para uma trajetória plana equivalente - dado que o ponto mais próximo numa simples extensão do segmento inclinado (que cruza algures a superfície do solo) geralmente não gera um ângulo de elevação, (beta), adequado.
 
 A determinação da atenuação lateral para segmentos finitos difere bastante para as métricas L(índice max) e L(índice E) . O nível máximo correspondente a um segmento, L(índice max) , determina-se a partir dos dados NPD em função da distância de propagação, d, a partir do ponto mais próximo do segmento, não sendo necessárias correções para ter em conta a dimensão do segmento. Analogamente, considera-se que a atenuação lateral de L(índice max) depende unicamente do ângulo de elevação do mesmo ponto e da distância deste ao solo. Por conseguinte, apenas são necessárias as coordenadas desse ponto. Porém, o processo é mais complicado para L(índice E) .
 
 O nível de base do acontecimento, L(índice E)(P,d), determinado a partir dos dados NPD, aplica-se a uma trajetória de voo infinita, apesar de se basear em parâmetros de um segmento finito. O nível de exposição proveniente do acontecimento associado ao segmento, L(índice E,seg) , é, evidentemente, inferior ao nível de base - na quantidade correspondente à correção do segmento finito definida no ponto 2.7.19. Esta correção, função da geometria dos triângulos OS(índice 1)S(índice 2) nas figuras 2.7.j a 2.7.l, define que proporção da energia total do ruído associado à trajetória infinita recebida no ponto O provém do segmento. Aplica-se a mesma correção, exista ou não atenuação lateral. Porém, calcula-se a eventual atenuação lateral para uma trajetória de voo infinita, ou seja, em função do afastamento e da elevação que se lhe reportam e não dos correspondentes ao segmento finito.
 
-Da soma das correções (Delta)(índice V) e (Delta)(índice I) e da subtração da atenuação lateral, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), ao nível de base NPD resulta o nível de ruído ajustado do acontecimento para voo estabilizado plano equivalente numa trajetória retilínea infinita adjacente. Porém, no caso dos segmentos reais de trajetória de voo a caracterizar pelo modelo, os que afetam as curvas de ruído raramente são planos, pois a aeronave está, em geral, a subir ou a descer.
+Da soma das correções (Delta)(índice V) e (Delta)(índice I) e da subtração da atenuação lateral, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),(lambda), ao nível de base NPD resulta o nível de ruído ajustado do acontecimento para voo estabilizado plano equivalente numa trajetória retilínea infinita adjacente. Porém, no caso dos segmentos reais de trajetória de voo a caracterizar pelo modelo, os que afetam as curvas de ruído raramente são planos, pois a aeronave está, em geral, a subir ou a descer.
 
 A figura 2.7.p ilustra um segmento de partida, S(índice 1)S(índice 2) - a aeronave está a subir com um determinado ângulo (gama) -, mas as considerações são muito semelhantes para uma chegada. Não se mostra o restante da trajetória de voo real. É suficiente indicar que S(índice 1)S(índice 2) representa apenas uma parte da trajetória total (normalmente curva). No caso ilustrado, o observador está situado para o lado do segmento, com o primeiro para a esquerda do segundo. A aeronave rolou (no sentido retrógrado em torno da trajetória de voo) de um ângulo (épsilo) em relação ao eixo horizontal lateral. O ângulo de depressão, (fi), em relação ao plano das asas, do qual o efeito da implantação, (Delta)(índice I) , é função (equação 2.7.39), situa-se no plano normal à trajetória de voo no qual se define (épsilo). Por conseguinte, (fi) = (beta) - (épsilo), em que (beta) = tan(elevado a - 1)(h/(lambda) e (lambda) é a distância OR entre o observador e a rota no solo, medida perpendicularmente a esta, ou seja, é o afastamento lateral do observador (26). Define-se o ponto de aproximação mais próximo da aeronave em relação ao observador, S, pela perpendicular OS, de comprimento (distância oblíqua) d(índice p) . O triângulo OS(índice 1)S(índice 2) é concordante com a figura 2.7.k, relativa à geometria para cálculo da correção do segmento (Delta)(índice F) .
 
@@ -2081,21 +2093,21 @@ Figura 2.7.p
 
 Observador situado para o lado do segmento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-Para calcular a atenuação lateral por meio da equação (2.7.40) (na qual (beta) é medido num plano vertical), recomenda-se uma trajetória de voo plana estendida, definida no plano vertical por meio do segmento S1S2 , com a mesma distância oblíqua, dp, determinada na perpendicular, em relação ao observador. Isto pode ser visualizado rodando de um ângulo (gama) o triângulo ORS, e a trajetória de voo associada, em torno do eixo OR (ver a figura 2.7.p), gerando o triângulo ORS'. O ângulo de elevação desta trajetória plana equivalente (agora num plano vertical) é (beta) = tan-1(h/ ) ( mantém-se inalterado). Neste caso, para um observador situado para o lado do segmento, o ângulo (beta) e a atenuação lateral resultante, [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta), ), são idênticos para as métricas LE e Lmax .
+Para calcular a atenuação lateral por meio da equação (2.7.40) (na qual (beta) é medido num plano vertical), recomenda-se uma trajetória de voo plana estendida, definida no plano vertical por meio do segmento S1S2 , com a mesma distância oblíqua, dp, determinada na perpendicular, em relação ao observador. Isto pode ser visualizado rodando de um ângulo (gama) o triângulo ORS, e a trajetória de voo associada, em torno do eixo OR (ver a figura 2.7.p), gerando o triângulo ORS'. O ângulo de elevação desta trajetória plana equivalente (agora num plano vertical) é (beta) = tan-1(h/ ) ( mantém-se inalterado). Neste caso, para um observador situado para o lado do segmento, o ângulo (beta) e a atenuação lateral resultante, [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta), ), são idênticos para as métricas LE e Lmax .
 
 A figura 2.7.q ilustra a situação em que o ponto de observação, O, se situa para trás do segmento finito e não para o lado deste. Neste caso, o segmento é observado como uma parte mais distante de uma trajetória infinita, só sendo possível traçar uma perpendicular no ponto Sp de uma extensão do segmento. O triângulo OS1S2 é concordante com a figura 2.7.j, que define a correção do segmento (Delta) F. Porém, neste caso, os parâmetros correspondentes à diretividade e à atenuação laterais são menos óbvios.
 
 Figura 2.7.q
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso da métrica do nível máximo, o parâmetro NPD "distância" é a distância mais curta ao segmento, ou seja, d = d 1. No caso da métrica do nível de exposição, é a distância mais curta, dp , entre O e Sp , ponto situado na trajetória de voo estendida; ou seja, o nível obtido dos quadros NPD por interpolação é LE (infinito) (P 1, dp ).
 
-Os parâmetros geométricos da atenuação lateral também diferem para os cálculos do nível máximo e do nível de exposição. No caso da métrica do nível máximo, o ajustamento [([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),
+Os parâmetros geométricos da atenuação lateral também diferem para os cálculos do nível máximo e do nível de exposição. No caso da métrica do nível máximo, o ajustamento [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)(beta),
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Ao calcular a atenuação lateral apenas para segmentos de voo e para a métrica do nível de exposição, continua a ser o afastamento lateral mais curto em relação à extensão do segmento (OC). Porém, para definir um valor adequado de (beta), continua a ser necessário visualizar uma trajetória de voo plana equivalente (infinita) da qual possa considerar-se o segmento fazer parte. Esta trajetória passa em S1', à altura h acima da superfície, sendo h igual ao comprimento da linha RS1 , traçada entre a rota no solo e o segmento, perpendicularmente a este. Isto é equivalente a rodar a trajetória de voo estendida real de um ângulo (gama) apoiado no ponto R (ver a figura 2.7.q). Dado que R está situado na perpendicular traçada em S1 , ponto do segmento que fica mais próximo de O, a construção da trajetória plana equivalente é idêntica à do caso em que O se situava para o lado do segmento.
 
@@ -2109,11 +2121,11 @@ Porém, no caso da métrica do nível de exposição, quando o observador está 
 
 Para trás dos segmentos da rolagem para descolagem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Para a frente dos segmentos da rolagem à aterragem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As razões da utilização destas expressões relacionam-se com a aplicação da função de diretividade associada ao início da rolagem para descolagem, para trás dos segmentos da rolagem para descolagem, e com a hipótese considerada de diretividade semicircular, para a frente dos segmentos da rolagem à aterragem.
 
@@ -2125,11 +2137,11 @@ O termo "fração energética" dá conta da diretividade longitudinal acentuada 
 
 A fração energética, F, é função do triângulo OS1S2 definido nas figuras 2.7.j a 2.7.l, de modo que:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 sendo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que d(lambda) é a designada "distância graduada" (ver o apêndice E) e Vref = 270,05 ft/s (velocidade de referência de 160 nós). Notar que Lmax(P, dp) é o nível máximo, obtido de dados NPD, correspondente à distância perpendicular dp , e NÃO o segmento Lmax . Aconselha-se a aplicação a (Delta) F de um limite inferior de -150 dB.
 
@@ -2137,7 +2149,7 @@ No caso particular em que o observador se situa para trás de todos os segmentos
 
 Designa-se por , em que "d" deixa claro que se destina a operações de partida (departure), e calcula-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que: (alfa)2 = (lambda)/d(lambda).
 
@@ -2145,7 +2157,7 @@ Utiliza-se esta forma particular da fração do ruído em conjugação com a fun
 
 No caso particular em que o observador se situa para a frente de todos os segmentos da rolagem à aterragem, utiliza-se uma forma reduzida da fração do ruído expressa pela equação (2.7.45), correspondente ao caso específico em que q = (lambda). Designa-se por (Delta)'F,a , em que "a" deixa claro que se destina a operações de chegada (arrival), e calcula-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que: (alfa)1 = -(lambda)/d(lambda).
 
@@ -2159,13 +2171,13 @@ Deduziu-se a função (Delta) SOR no seguimento de várias campanhas de mediçã
 
 A figura 2.7.r ilustra a geometria da situação. Define-se do seguinte modo o ângulo de azimute, (Psi), entre o eixo longitudinal da aeronave e o vetor do observador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A distância relativa q é negativa (ver a figura 2.7.j), de modo que (Psi) varia entre 90º em relação ao avanço da aeronave e 180º, correspondentes ao sentido oposto.
 
 Figura 2.7.r
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A função (Delta) SOR representa a variação do ruído total gerado pela rolagem para descolagem, medido para trás do início dessa rolagem, relativamente ao ruído total proveniente da rolagem para descolagem, medido para o lado do início dessa rolagem, à mesma distância desse ponto inicial:
 
@@ -2175,15 +2187,15 @@ em que LTGR (dSOR ,90º) é o nível de ruído total gerado na rolagem para desc
 
 No caso das aeronaves com motores turboventilados, a função de diretividade associada ao início da rolagem para descolagem é dada, em decibéis, pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 No caso das aeronaves com motores de turbo-hélice, a função de diretividade associada ao início da rolagem para descolagem é dada, em decibéis, pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Se a distância dSOR exceder a distância de normalização dSOR,0 , multiplica-se a correção de diretividade por um fator de correção, para atender ao facto de a diretividade se reduzir a distâncias maiores da aeronave. Concretamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A distância de normalização dSOR,0 é de 762 m (2 500 ft).
 
@@ -2217,17 +2229,17 @@ Os pontos 2.7.14 a 2.7.19 descrevem o cálculo do nível sonoro/de ruído de um 
 
 Os níveis sonoros equivalentes com ponderação temporal contabilizam toda a energia sonora significativa recebida das aeronaves e são expressos genericamente pela seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O somatório abrange todos os N acontecimentos ruidosos verificados no período T (índice 0) ao qual se aplica o índice de ruído; L(índice E,i) é o nível de exposição ao ruído de um acontecimento isolado correspondente ao acontecimento ruidoso i; g(índice i) é um fator de ponderação dependente do momento do dia (normalmente definido para os períodos diurno, do entardecer e noturno); na realidade, g(índice i) é um multiplicador associado ao número de voos realizados em cada período definido. A constante C pode ter vários significados (constante de normalização, ajustamento sazonal etc.).
 
 Utilizando a relação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (Delta)(índice i) é a ponderação decibélica do período i, pode reescrever-se a equação 2.7.56:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 ou seja, exprime-se a ponderação dependente do momento do dia por um parâmetro aditivo aplicado ao nível.
 
@@ -2247,13 +2259,13 @@ A definição de muitos índices de ruído - sobretudo os níveis sonoros equiva
 
 Pode simplificar-se o somatório introduzindo um «número de operações ponderado».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Os valores N(índice ij) representam o número de operações do tipo/categoria de aeronave i na trajetória (ou subtrajetória) j durante os períodos diurno, do entardecer ou noturno (27).
 
 Com base na equação (2.7.57), o nível sonoro equivalente cumulativo (genérico), L(índice eq) , no ponto de observação (x,y) é dado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 T (índice 0) é o período de referência. Tal como os fatores de ponderação g(índice i) , depende da definição específica do índice ponderado utilizado (por exemplo L(índice DEN) ). L(índice E,ijk) é a contribuição, em termos de nível de ruído de um acontecimento isolado, do segmento k da trajetória ou subtrajetória j para a operação de uma aeronave da categoria i. A estimativa de L(índice E,ijk) descreve-se pormenorizadamente nos pontos 2.7.14 a 2.7.19.
 
@@ -2265,7 +2277,7 @@ Figura 2.7.s
 
 Grelha normalizada e seu aperfeiçoamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O recurso a uma grelha irregular para aperfeiçoar a interpolação nas células críticas melhora muito a eficiência do cálculo, que gera resultados mais exatos. Esta técnica, ilustrada na figura 2.7.s, consiste na redução localizada da malha, mantendo-se a maior parte da grelha inalterada. Trata-se de um método simples, concretizado através das seguintes etapas:
 
@@ -2277,7 +2289,7 @@ O recurso a uma grelha irregular para aperfeiçoar a interpolação nas células
 
 4. Caso haja diferenças (Delta)L (maior que) (Delta)L(índice R,) definição de uma nova grelha com espaçamento (Delta)(índice G) /2 e estimativa dos níveis correspondentes aos novos nodos, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 5. Repetir as etapas 1 a 4 até todas as diferenças serem inferiores ao limiar de diferença.
 
@@ -2293,7 +2305,7 @@ Figura 2.7.t
 
 Recurso à rotação de uma grelha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A maneira mais direta de evitar este efeito consiste em apertar a malha da grelha. Porém, este processo aumenta o tempo de cálculo. Uma solução mais elegante consiste em rodar a grelha de cálculo de modo que a direção da mesma fique paralela às rotas no solo principais (ou seja, normalmente paralela à pista principal). A figura 2.7.t ilustra o efeito de uma rotação da grelha na forma de uma curva de ruído.
 
@@ -2305,7 +2317,7 @@ Figura 2.7.u
 
 Conceito do algoritmo de traçado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A primeira etapa consiste na localização de um primeiro ponto, P(índice 1) , na curva de ruído. Para isso, calculam-se os níveis do índice de ruído, L, a intervalos iguais ao longo de uma «linha de pesquisa» que se espera venha a intersetar a curva de ruído pretendida de nível L(índice C) . Ao ser cruzada essa curva, a diferença (delta) = L(índice C) - L muda de sinal. Quando isso suceder, reduz-se a metade o intervalo de pesquisa ao longo da referida linha e inverte-se o sentido da pesquisa. Procede-se deste modo até (delta) ser inferior a um limiar de exatidão predefinido.
 
@@ -2315,7 +2327,7 @@ Figura 2.7.v
 
 Parâmetros geométricos condicionantes do algoritmo de traçado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 É necessário impor certas condicionantes para que as curvas de ruído sejam estimadas com grau de exatidão suficiente (ver a figura 2.7.v):
 
@@ -2325,7 +2337,7 @@ Parâmetros geométricos condicionantes do algoritmo de traçado
 
 3. Quanto à adaptação do comprimento das cordas à curvatura da curva de ruído, observância da seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A experiência com este algoritmo mostrou que, em média, é necessário calcular 2 ou 3 valores do índice de ruído para determinar um ponto da curva de ruído com exatidão melhor do que 0,01 dB.
 
@@ -2381,27 +2393,27 @@ Caso 1: estão disponíveis dados sobre o número de fogos e o número de reside
 
 O número de residentes é conhecido ou foi estimado com base no número de fogos. Neste caso, o número de residentes de um edifício é a soma do número de residentes de todos os fogos do edifício:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 1B:
 
 Conhece-se o número de fogos ou o número de residentes apenas para entidades maiores do que o edifício, por exemplo zonas de recenseamento, quarteirões, bairros ou mesmo municípios inteiros. Neste caso, estima-se o número de fogos e o número de residentes do edifício com base no volume deste:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O índice "total" refere-se aqui à entidade considerada em cada caso. O volume de um edifício é o produto da área construída pela altura do edifício:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Se for desconhecida, pode estimar-se a altura do edifício com base no número de pisos, NFbuilding , considerando uma altura média de 3 m por piso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Se também se desconhecer o número de pisos, utiliza-se um valor predefinido para o número de pisos, representativo do bairro ou circunscrição administrativa. Calcula-se o volume total, Vtotal , dos edifícios habitacionais da entidade considerada como a soma do volume de todos os edifícios habitacionais nela existentes:
 
 (2.8.5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Caso 2: não estão disponíveis dados sobre o número de residentes.
 
@@ -2413,7 +2425,7 @@ Conhece-se a área habitacional, com base no número de fogos.
 
 Neste caso, o número de residentes por fogo é estimado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O número de residentes do edifício pode então ser estimado como no caso 1A.
 
@@ -2423,7 +2435,7 @@ Conhece-se a área habitacional da totalidade do edifício, isto é, a soma das 
 
 Neste caso, o número de residentes é estimado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2C:
 
@@ -2431,7 +2443,7 @@ Conhece-se a área habitacional apenas para entidades maiores do que o edifício
 
 Neste caso, estima-se o número de residentes do edifício com base no volume do edifício, como se descreveu no caso 1B, sendo o número total de residentes estimado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2D:
 
@@ -2441,7 +2453,7 @@ Neste caso, estima-se o número de residentes do edifício como se descreveu no 
 
 (2.8.9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O fator 0,8 é o fator de conversão área bruta -> área habitacional. Caso um fator diferente seja reconhecidamente representativo da zona em causa, deve utilizar-se esse fator, que deve ser claramente documentado. Se for desconhecido, pode estimar-se o número de pisos do edifício com base na altura do edifício, Hbuilding , daí resultando, normalmente, um número não inteiro de pisos.
 
@@ -2457,7 +2469,7 @@ Para calcular o número de fogos e o número de pessoas neles residentes para ef
 
 Caso 1: Subdivisão de cada fachada a intervalos regulares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 a) Subdividem-se os segmentos de comprimento superior a 5 m em intervalos regulares com o maior cumprimento possível, mas inferior ou igual a 5 m. Localiza-se um ponto de receção a meio de cada intervalo regular;
 
@@ -2467,7 +2479,7 @@ c) Tratam-se os segmentos restantes adjacentes de comprimento total superior a 5
 
 Caso 2: Subdivisão das fachadas a intervalos determinados, desde o início do polígono.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 a) Consideram-se as fachadas separadamente ou subdividem-se de cinco em cinco metros a partir do ponto inicial, localizando-se um ponto de receção a meio de cada fachada ou segmento de 5 m;
 
@@ -2557,7 +2569,7 @@ Nos casos em que, por alguma razão, se realizem medições, estas devem efetuar
 
 (27) Os períodos do dia podem ser diferentes destes três, consoante a definição do índice de ruído utilizado.
 
-## Apêndice A - Dados necessários
+Apêndice A - Dados necessários
 
 O ponto 2.7.6 do texto principal indica, em termos gerais, que dados dos aeroportos e das operações aeroportuárias são necessários para calcular curvas de ruído em cada caso concreto. Os quadros seguintes contêm dados exemplificativos correspondentes a um aeroporto hipotético. O formato específico dos dados depende, normalmente, dos requisitos e necessidades do modelo de ruído concreto e do cenário em estudo.
 
@@ -2565,11 +2577,11 @@ Nota: Recomenda-se que as informações geográficas (pontos de referência etc.
 
 A1 DADOS AEROPORTUÁRIOS GERAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A2 DESCRIÇÃO DA PISTA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Pode repetir-se a descrição da pista para as cabeceiras desviadas ou estas podem ser descritas no item relativo à rota no solo.
 
@@ -2577,23 +2589,23 @@ A3 DADOS DA ROTA NO SOLO
 
 Na falta de dados de radar, a descrição de uma rota no solo carece das seguintes informações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A4 TRÁFEGO AÉREO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A5 QUADRO DE DADOS RELATIVOS AOS PROCEDIMENTOS DE VOO
 
 Exemplo de aeronave do capítulo 3: Boeing 727-200. Utilização de dados de radar de acordo com as orientações constantes do ponto 2.7.9 do texto principal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Exemplo de um perfil de procedimentos de voo baseado em dados de características das aeronaves constantes da base ANP:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-## Apêndice B - Cálculos do desempenho em voo
+Apêndice B - Cálculos do desempenho em voo
 
 Termos e símbolos
 
@@ -2601,13 +2613,13 @@ Os termos e símbolos utilizados neste apêndice são coerentes com os utilizado
 
 Termos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Símbolos
 
 As quantidades são adimensionais, a menos que se indique o contrário. Os símbolos e abreviaturas não indicados a seguir, utilizados pontualmente no texto, são definidos quando ocorrem. Os índices 1 e 2 indicam, respetivamente, as condições no início e no final de um segmento. A sobreposição de uma barra indica valores médios do segmento, isto é, a média dos valores inicial e final.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 B1 INTRODUÇÃO
 
@@ -2643,17 +2655,17 @@ A força de propulsão gerada por cada motor é uma das cinco quantidades que é
 
 Corresponde à força propulsora líquida disponível quando a aeronave opera a uma determinada força propulsora nominal ou à força propulsora líquida resultante da regulação do parâmetro de regulação da força propulsora num valor determinado. No caso dos motores dos tipos turborreator e turboventilador em funcionamento a uma determinada potência nominal, a força propulsora líquida corrigida é dada pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A base de dados ANP também contém dados que permitem calcular forças propulsoras não-nominais em função de um parâmetro de regulação da força propulsora. Alguns construtores de aviões definem este parâmetro como sendo a razão de pressões do motor, EPR, outros como sendo a velocidade de rotação do rotor de baixa pressão ou a velocidade da ventoinha, N(índice 1) . Quando se trata do parâmetro EPR, a equação B-1 é substituída pela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que K (índice 1) e K (índice 2) são coeficientes, extraídos da base de dados ANP, que relacionam a força propulsora líquida corrigida e a razão de pressões do motor na vizinhança da razão de pressões em causa, para o número Mach da aeronave especificado.
 
 Se o parâmetro utilizado pelos pilotos para regular a força propulsora for a velocidade de rotação do motor, N(índice 1) , a equação geral da força propulsora passa a ter a seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Refira-se que, para uma determinada aeronave, os valores de E, F, G(índice A), G(índice B) e H nas equações B-2 e B-3 podem ser diferentes dos valores correspondentes na equação B-1.
 
@@ -2661,19 +2673,19 @@ Nem todos os termos da equação serão sempre significativos. Por exemplo, no c
 
 Quando apenas se dispõe de coeficientes de força propulsora para baixas temperaturas, pode utilizar-se a seguinte relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A base de dados ANP fornece valores dos coeficientes e constantes das equações B-1 a B-4.
 
 No caso das aeronaves a hélice, obtém-se a força propulsora líquida corrigida por motor a partir de gráficos ou calcula-se a mesma pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A base de dados ANP fornece valores dos parâmetros da equação B-5 para regulações de força propulsora máxima na descolagem e na subida.
 
 A velocidade real em relação ao ar, V(índice T) , estima-se a partir da velocidade em relação ao ar calibrada, V(índice C) , utilizando a seguinte relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (sigma) é a razão entre a densidade do ar à altitude da aeronave e a densidade do ar ao nível médio das águas do mar.
 
@@ -2687,7 +2699,7 @@ Se não for possível obter esse aconselhamento, continua a ser recomendável te
 
 A análise de dados dos registadores de dados de voo das aeronaves mostrou que o nível de redução da força propulsora se correlaciona fortemente com a razão entre o peso real à descolagem e o peso à descolagem regulamentado, até um limite inferior fixo (1). Concretamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (F(índice n) /(delta)(índice max) é a força propulsora nominal máxima, W é o peso total real à descolagem e W(índice RTOW) é o peso à descolagem regulamentado.
 
@@ -2713,7 +2725,7 @@ O traçado da rota no solo é descrito no ponto 2.7.13 do texto principal. Faz-s
 
 Para manter a velocidade numa curva, é necessário aumentar a sustentação aerodinâmica das asas, a fim de contrabalançar a força centrífuga e o peso da aeronave. Daí resulta um aumento do arrasto e, consequentemente, é necessária maior força propulsora. Os efeitos da viragem exprimem-se nas equações de desempenho sob a forma de funções do ângulo de pranchamento, (épsilo), o qual, no caso de uma aeronave em voo plano que curve a velocidade constante numa trajetória de arco de círculo, é dado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Considera-se que todas as curvas têm raio constante e não se têm em conta os efeitos de segunda ordem associados às trajetórias de voo não-planas. Os ângulos de pranchamento baseiam-se unicamente no raio de viragem, (épsilo), da rota no solo.
 
@@ -2735,11 +2747,11 @@ Figura B-1
 
 Distância equivalente de descolagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Numa pista plana, a distância equivalente de rolagem para descolagem, s(índice TO8) , é determinada em pés do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
@@ -2753,41 +2765,41 @@ Nota: Uma vez que a equação B-9 tem em conta a variação da força propulsora
 
 Se a velocidade do vento frontal a considerar não for a velocidade predefinida de 8 nós, corrige-se a distância de rolagem para descolagem do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Também se corrige a distância de rolagem para descolagem em função do gradiente da pista, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 B6 SUBIDA A VELOCIDADE CONSTANTE
 
 Define-se este tipo de segmento através da velocidade da aeronave em relação ao ar calibrada, da regulação dos flaps e da altura e do ângulo de pranchamento no final do segmento, juntamente com a velocidade do vento frontal (predefinida em 8 nós). Como para qualquer segmento, consideram-se os parâmetros iniciais do segmento, incluindo a força propulsora líquida corrigida, iguais aos parâmetros finais do segmento anterior, sem descontinuidades (exceto de ângulo dos flaps e de ângulo de pranchamento, que, nestes cálculos, se permite que variem gradualmente). Começa-se por calcular as forças propulsoras líquidas no final de cada segmento, recorrendo à equação adequada da série B-1 a B-5. O ângulo médio de subida, g (ver a figura B-1), é então dado pela seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Corrige-se o ângulo de subida em função da velocidade do vento frontal, w, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (gama)(índice w) é o ângulo de subida médio corrigido em função da velocidade do vento frontal.
 
 A distância, (Delta)s, que a aeronave percorre ao longo da rota no solo ao subir, com o ângulo (gama)(índice w) , de uma altitude inicial h (índice 1) até uma altitude final h (índice 2) é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Regra geral, há duas fases distintas num perfil de partida nas quais a subida decorre a velocidade em relação ao ar constante. A primeira, por vezes designada por segmento de subida inicial, ocorre imediatamente após a descolagem e durante a mesma os requisitos de segurança exigem que a velocidade da aeronave em relação ao ar seja, no mínimo, a velocidade de descolagem de segurança. Esta velocidade está regulamentada e, em operação normal, deve ser alcançada, no máximo, 35 pés acima da pista. Todavia, é prática corrente manter uma velocidade de subida inicial ligeiramente acima da velocidade de descolagem de segurança, normalmente mais 10 a 20 nós, pois este procedimento tende a melhorar o gradiente de subida inicial. A segunda fase ocorre depois da recolha dos flaps e da aceleração inicial e é designada por continuação da subida.
 
 Durante a subida inicial, a velocidade da aeronave em relação ao ar depende da regulação dos flaps na descolagem e do peso total do aparelho. Para calcular a velocidade de subida inicial calibrada, V(índice CTO) , utiliza-se a seguinte aproximação de primeira ordem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 na qual C é um coeficiente adequado à regulação dos flaps, obtido da base de dados ANP (kt/Ölbf).
 
@@ -2803,7 +2815,7 @@ Em operações normais, reduz-se a força propulsora dos motores à regulação 
 
 O nível mínimo de «força propulsora reduzida» é, por vezes, designado por «força propulsora reduzida com perda de um motor»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Segmento de subida a velocidade constante com redução de força propulsora
 
@@ -2813,7 +2825,7 @@ Figura B-2
 
 Segmento de subida a velocidade constante com redução de força propulsora (ilustração fora de escala)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Ao primeiro subsegmento faz-se corresponder uma distância no solo de 1 000 pés (304 m), sendo que, no final dos 1 000 pés, se faz corresponder a força propulsora líquida corrigida por motor ao valor reduzido. (Se a distância horizontal original for inferior a 2 000 pés, utiliza-se metade desse segmento para reduzir a força propulsora.) A força propulsora final do segundo subsegmento também se faz corresponder à força propulsora reduzida. Portanto, no segundo subsegmento o voo decorre sob força propulsora constante.
 
@@ -2823,11 +2835,11 @@ Esta fase segue-se normalmente à subida inicial. Tal como para todos os segment
 
 Estima-se o comprimento de rota no solo correspondente ao segmento (distância percorrida na horizontal) do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Utilizando a estimativa assim obtida de (Delta)s, volta a estimar-se a altitude final, h (índice 2)' do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Enquanto o erro |h'(índice 2) - h(índice 2)| for superior à tolerância admitida, repetem-se as etapas B-17 e B-18 utilizando os valores de altitude, h (índice 2), velocidade real em relação ao ar, V(índice T) (índice 2), e força propulsora líquida corrigida por motor, (F(índice n) /(delta)(índice 2), correspondentes ao final do segmento obtidos na última iteração. Quando o erro for inferior à tolerância admitida, dá-se por concluído o ciclo iterativo e define-se o segmento de aceleração por meio dos valores finais correspondentes ao fim do segmento.
 
@@ -2835,7 +2847,7 @@ Nota: Se, durante o processo iterativo, (a(índice max) - G . g) (menor que) 0,0
 
 Corrige-se o comprimento do segmento de aceleração em função da velocidade do vento frontal, w, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Segmento de aceleração com redução de força propulsora
 
@@ -2849,15 +2861,15 @@ B10 DESCIDA E DESACELERAÇÃO
 
 No voo de aproximação, normalmente a aeronave tem de descer e de desacelerar, em preparação para o segmento de aproximação final, no qual é configurada com os flaps regulados para a aproximação e o trem de aterragem extraído. A mecânica de voo é idêntica à da partida. A diferença principal é que, normalmente, se conhece o perfil de altura e velocidade, sendo necessário estimar os níveis de força propulsora dos motores para cada segmento. A equação básica de equilíbrio de forças é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Pode utilizar-se a equação B-20 de duas maneiras. Na primeira, podem definir-se a velocidade da aeronave no início e no final do segmento, bem como um ângulo de descida (ou a distância em segmento plano) e as altitudes inicial e final do segmento. Neste caso, pode calcular-se a desaceleração do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (Delta)s é a distância percorrida ao longo da rota no solo e V (índice 1) e V (índice 2) são as velocidades inicial e final em relação ao solo, calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As equações B-20, B-21 e B-22 confirmam que, quando em desaceleração ao longo de uma determinada distância a uma velocidade de descida constante, um vento frontal mais forte exigirá mais força propulsora para manter a mesma desaceleração, ao passo que vento pela cauda necessitará de menos força propulsora para manter a mesma desaceleração.
 
@@ -2865,7 +2877,7 @@ Na prática, a maior parte, senão todas as desacelerações durante voos de apr
 
 Para a maior parte das aeronaves, a força propulsora correspondente à potência mínima regulável dos motores não é zero e, em muitos casos, depende da velocidade de voo. Por conseguinte, determina-se a desaceleração a partir da equação B-20 inserindo um valor de força propulsora correspondente à potência mínima regulável dos motores calculado por meio de uma equação do seguinte tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que (E(índice idle), F(índice idle,) G(índice A,idle), G(índice B,idle) e H(índice idle) ) são coeficientes de força propulsora correspondentes à potência mínima regulável do motor disponíveis na base de dados ANP.
 
@@ -2873,7 +2885,7 @@ B11 APROXIMAÇÃO PARA ATERRAGEM
 
 A velocidade em relação ao ar calibrada de aproximação para aterragem, V(índice CA) , relaciona-se com o peso total à aterragem por uma equação análoga à equação B-11:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que o coeficiente D (kt/Ölbf) corresponde à regulação dos flaps para aterragem.
 
@@ -2881,15 +2893,15 @@ Calcula-se a força propulsora líquida corrigida por motor durante a descida ao
 
 Calcula-se o valor médio da força propulsora líquida corrigida invertendo a equação B-12 e utilizando K = 1,03 para ter em conta a desaceleração inerente ao voo em trajetória descendente, contra vento frontal de referência de 8 nós, à velocidade em relação ao ar calibrada constante dada pela equação B-24; ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Para ventos frontais de velocidade diferente de 8 nós, o valor médio da força propulsora líquida corrigida passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A distância percorrida na horizontal é dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (valor positivo, pois h(índice 1) (maior que) h(índice 2) e g é negativo).
 
@@ -2903,7 +2915,7 @@ A distância percorrida na horizontal é dada por:
 
 (5) Em qualquer dos casos, o modelo informático deve ser programado para informar o utilizador das incoerências.
 
-## Apêndice C - Modelos da dispersão lateral das rotas no solo
+Apêndice C - Modelos da dispersão lateral das rotas no solo
 
 Recomenda-se que, na falta de dados de radar, se estabeleça um modelo da dispersão lateral das rotas no solo com base no pressuposto de que a dispersão das correspondentes sub-rotas perpendicularmente à rota central segue uma distribuição normal de Gauss. A experiência tem mostrado a razoabilidade desta hipótese na maior parte dos casos.
 
@@ -2911,11 +2923,11 @@ Admitindo uma distribuição de Gauss com desvio-padrão S, ilustrada na figura 
 
 Figura C-1
 
-##### Subdivisão de uma rota no solo em 7 sub-rotas
+Subdivisão de uma rota no solo em 7 sub-rotas
 
 (A largura do feixe é de 5 vezes o desvio-padrão da dispersão da rota no solo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Pode normalmente estabelecer-se um modelo adequado de uma distribuição de Gauss utilizando 7 sub-rotas discretas uniformemente espaçadas num feixe compreendido entre (mais ou menos) 2,5xS, conforme se ilustra na figura C-1.
 
@@ -2927,7 +2939,7 @@ Localização de 5, 7, 9, 11 e 13 sub-rotas
 
 [A largura total do feixe (que compreende 98 % dos movimentos) é 5 vezes o desvio-padrão]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro C-2
 
@@ -2935,9 +2947,9 @@ Percentagem de movimentos em 5, 7, 9, 11 e 13 sub-rotas
 
 [A largura total do feixe (que compreende 98 % dos movimentos) é 5 vezes o desvio-padrão]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-## Apêndice D - Recálculo de dados NPD para condições distintas das condições de referência
+Apêndice D - Recálculo de dados NPD para condições distintas das condições de referência
 
 Determina-se a contribuição de cada segmento da trajetória de voo para o nível de ruído recorrendo aos dados NPD constantes da base de dados internacional ANP. Porém, importa referir que esses dados foram normalizados utilizando as taxas médias de atenuação atmosférica definidas pela SAE para a atmosfera AIR-1845. Essas taxas são médias dos valores determinados durante ensaios de certificação de aeronaves no domínio do ruído realizados na Europa e nos E.U.A. A figura D-1 ilustra a grande amplitude de variação das condições atmosféricas (temperatura e humidade relativa) registadas nos ensaios realizados.
 
@@ -2945,7 +2957,7 @@ Figura D-1
 
 Condições meteorológicas registadas nos ensaios de certificação no domínio do ruído
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 As curvas representadas na figura D-1, calculadas recorrendo ao modelo de atenuação atmosférica normalizada ARP 866A utilizado pelos profissionais do setor, mostram que, na gama de condições experimentais, é de esperar uma variação substancial da absorção de sons de alta frequência (8 kHz). A variação da absorção total seria, porém, bastante menor.
 
@@ -2955,7 +2967,7 @@ Quadro D-1
 
 Taxas médias de atenuação atmosférica utilizadas para normalizar os dados NPD da base de dados ANP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Pode considerar-se que os coeficientes de atenuação constantes do quadro D-1 são válidos em gamas razoáveis de temperatura e humidade. Todavia, para verificar se são necessários ajustamentos, há que utilizar o método ARP-5534 da SAE para calcular os coeficientes médios de absorção atmosférica correspondentes aos valores médios de temperatura, T, e de humidade relativa, RH, do aeroporto em causa. Se, após comparação dos valores calculados com os constantes do quadro D-1, se considerar serem necessários ajustamentos, deve utilizar-se a metodologia a seguir descrita.
 
@@ -2971,13 +2983,13 @@ Todos os dados estão normalizados em relação à atmosfera AIR-1845.
 
 O ajustamento das curvas NPD às condições T e RH especificadas pelo utilizador decorre em três etapas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 O incremento (Delta)L é a diferença entre os valores NPD correspondentes à atmosfera especificada pelo utilizador e os valores NPD correspondentes à atmosfera de referência. É adicionado ao valor NPD da base de dados ANP, a fim de obter dados NPD ajustados.
 
 O ajustamento com (Delta)L dos valores NPD de L(índice max) e L(índice E) pressupõe, na realidade, que condições atmosféricas diferentes afetam apenas o espetro de referência, não influenciando a evolução do nível em função do tempo. Esta hipótese pode considerar-se válida para as distâncias de propagação e as condições atmosféricas mais comuns.
 
-## Apêndice E - Correção do segmento finito
+Apêndice E - Correção do segmento finito
 
 Este apêndice descreve o cálculo da correção do segmento finito e do algoritmo da fração energética conexo referidos no ponto 2.7.19.
 
@@ -2989,11 +3001,11 @@ Figura E-1
 
 Geometria entre a trajetória de voo e a localização do observador, O
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A figura E-1 ilustra a geometria da propagação sonora entre a trajetória de voo e o local onde se encontra o observador, O. No ponto P, a aeronave voa a velocidade constante, numa atmosfera uniforme e sem vento, segundo uma trajetória retilínea plana. O ponto da trajetória mais próximo do observador é o ponto P(índice p) . Os parâmetros em causa são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Note-se que, dado que o tempo de voo, (tau), relativamente ao ponto de aproximação máxima é negativo quando a aeronave se encontra antes do ponto de observação (como ilustrado na figura E-1), a distância q ao ponto de aproximação máxima é positiva nesse caso. Se a aeronave já tiver ultrapassado o observador, q passa a ter valores negativos.
 
@@ -3001,15 +3013,15 @@ E2 ESTIMATIVA DA FRAÇÃO ENERGÉTICA
 
 O conceito fundamental associado à fração energética traduz-se na expressão da exposição ao ruído, E, num ponto de observação, proveniente de um segmento P(índice 1)P(índice 2) da trajetória de voo (sendo P(índice 1) o ponto inicial e P(índice 2) o ponto final), através da multiplicação da exposição, E (índice (infinito), correspondente à trajetória infinita percorrida por um fator simples - o fator fração energética, F:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Uma vez que pode exprimir-se a exposição em termos do integral no tempo do nível quadrático médio da pressão sonora (ponderada), ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para calcular E, é necessário exprimir o valor quadrático médio da pressão sonora em função dos parâmetros geométricos e operacionais conhecidos. Para uma fonte dipolar a 90º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que p (elevado a 2) e p(índice p) (elevado a 2) são os níveis quadráticos médios observados de pressão sonora gerados pela aeronave ao passar nos pontos P e P(índice p) .
 
@@ -3017,31 +3029,31 @@ Verificou-se que esta relação relativamente simples proporciona uma boa simula
 
 Introduzindo as substituições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 pode exprimir-se o valor quadrático médio da pressão sonora em função do tempo (não considerando novamente o tempo de propagação do som):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Inserindo esta explicitação na equação E-2 e efetuando a substituição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 pode exprimir-se do seguinte modo a exposição do observador ao som gerado pela passagem da aeronave no período [(tau) (índice 1),(tau) (índice 2)]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A solução deste integral é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A integração no intervalo [-(infinito),+(infinito)] (isto é, em toda a trajetória de voo infinita) permite obter a seguinte expressão da exposição total, E (índice (infinito):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 pelo que o termo fração energética da equação E-1 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 E3 COERÊNCIA DAS MÉTRICAS DE VALOR MÁXIMO E DE VALOR INTEGRADO NO TEMPO - DISTÂNCIA GRADUADA
 
@@ -3049,35 +3061,35 @@ Uma das consequências da utilização de um modelo dipolar simples para definir
 
 Pode exprimir-se do seguinte modo o nível de exposição L(índice E,(infinito) tabelado na base de dados ANP em função de d(índice p) , para uma velocidade de referência V(índice ref),:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que p (índice 0) é uma pressão de referência padrão e t(índice ref) é um tempo de referência (= 1 s para o nível de exposição sonora, SEL). Para a velocidade real, V, a expressão é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Analogamente, pode exprimir-se o nível máximo do acontecimento, L(índice max) , do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Para a fonte dipolar, utilizando as equações E-8, E-11 e E-12 e notando que (das
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Este resultado só pode igualar-se ao valor de (Delta)L determinado a partir dos dados NPD se a distância oblíqua, d(índice p) , utilizada para calcular a fração energética for substituída por uma distância graduada, d (índice (lambda), dada por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 ou
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Substituindo d(índice p) por d (índice l) na equação E-5 e utilizando a definição q = V(tau) constante da figura E-1, podem reescrever-se os parâmetros (alfa)(índice 1) e (alfa)(índice 2) da equação E-9 do seguinte modo (sendo q = q (índice 1) no ponto inicial e q - (lambda) = q (índice 2) no ponto final de um segmento de trajetória de voo de comprimento (lambda):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 A necessidade de substituir a distância oblíqua real pela distância graduada diminui a simplicidade do modelo dipolar a 90º à quarta potência. Porém, uma vez que o algoritmo de cálculo da fração energética é calibrado in situ utilizando dados provenientes de medições, pode considerar-se o mesmo semiempírico e não puramente teórico.
 
-## Apêndice F - Base de dados para as fontes associadas ao tráfego rodoviário
+Apêndice F - Base de dados para as fontes associadas ao tráfego rodoviário
 
 Este apêndice contém a base de dados para a maior parte das fontes do ruído associado ao tráfego rodoviário. Destina-se a ser utilizado no cálculo do ruído gerado pelo tráfego rodoviário por aplicação do método descrito no ponto 2.2, «Ruído gerado pelo tráfego rodoviário».
 
@@ -3085,27 +3097,27 @@ Quadro F-1
 
 Coeficientes A(índice R,i,m) e B(índice R,i,m) para o ruído de rolamento e A (índice P,i,m) e B (índice P,i,m) para o ruído de propulsão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro F-2
 
 Coeficientes a(índice i) e b(índice i) para pneus com pregos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro F-3
 
 Coeficientes C(índice R,m,k) e C(índice P,m,k) para a aceleração e a desaceleração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro F-4
 
 Coeficientes (alfa)(índice i,m) e (beta)(índice m) para pisos de estrada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-## Apêndice G - Base de dados para as fontes associadas ao tráfego ferroviário
+Apêndice G - Base de dados para as fontes associadas ao tráfego ferroviário
 
 Este apêndice contém a base de dados para a maior parte das fontes do ruído associado ao tráfego ferroviário. Destina-se a ser utilizado no cálculo do ruído gerado pelo tráfego ferroviário por aplicação do método descrito no ponto 2.3, «Ruído gerado pelo tráfego ferroviário».
 
@@ -3113,13 +3125,13 @@ Quadro G-1
 
 Coeficientes L(índice r,TR,i) e L(índice r,VEH,i) para a rugosidade dos carris e das rodas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-2
 
 Coeficientes A (índice 3,i) para o filtro de contacto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-3
 
@@ -3127,13 +3139,13 @@ Coeficientes L(índice H,TR,i), L(índice H,VEH,i) e L(índice H,VEH,SUP,i) para
 
 (Valores expressos em nível de potência sonora por eixo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-4
 
 Coeficientes L (índice R,IMPACT,i) para o ruído de impacto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-5
 
@@ -3141,7 +3153,7 @@ Coeficientes L (índice W,0,idling) para o ruído de tração
 
 (Valores expressos em nível de potência sonora por veículo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-6
 
@@ -3149,15 +3161,15 @@ Coeficientes L (índice W,0,1) , L (índice W,0,2) , (alfa) (índice 1) e (alfa)
 
 [Valores expressos em nível de potência sonora por veículo (veículos com 20 m de comprimento)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro G-7
 
 Coeficientes C (índice bridge) para a irradiação estrutural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-## Apêndice H - Base de dados para as fontes industriais
+Apêndice H - Base de dados para as fontes industriais
 
 Este apêndice contém alguns exemplos de valores relativos a algumas fontes de ruído industrial. Destina-se a ser utilizado no cálculo do ruído industrial por aplicação do método descrito no ponto 2.4, «Ruído industrial». Uma vez que as fontes de ruído industrial são extremamente específicas de cada sítio industrial, há que obter valores adequados de bases de dados locais, nacionais ou internacionais ou por meio de medições, consoante o caso.
 
@@ -3169,9 +3181,9 @@ Coeficientes L(índice W) , L(índice W') e (Delta)L(índice W,dir,xyz) (x, y, z
 
 Exprime-se L(índice W') em potência sonora por metro, para as fontes lineares, e em potência sonora por metro quadrado, para as fontes planas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
-## Apêndice I - Base de dados para as fontes associadas a aeronaves - dados de ruído e desempenho das aeronaves (ANP)
+Apêndice I - Base de dados para as fontes associadas a aeronaves - dados de ruído e desempenho das aeronaves (ANP)
 
 Este apêndice contém a base de dados para a maior parte das fontes do ruído associado a aeronaves. Destina-se a ser utilizado no cálculo do ruído gerado pelas aeronaves por aplicação do método descrito no ponto 2.6, «Ruído gerado pelas aeronaves».
 
@@ -3179,13 +3191,13 @@ Quadro I-1
 
 Coeficientes aerodinâmicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-2
 
 Aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-3
 
@@ -3193,7 +3205,7 @@ Ações de pilotagem predefinidas para a aproximação
 
 Quadro I-3 (continuação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 1)
 
@@ -3201,57 +3213,57 @@ Ações de pilotagem predefinidas para a partida
 
 Quadro I-4 (parte 1) (continuação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 2)
 
 Ações de pilotagem predefinidas para a partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 2) (continuação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 3)
 
 Ações de pilotagem predefinidas para a partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 3) (continuação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-4 (parte 4)
 
 Ações de pilotagem predefinidas para a partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-5
 
 Perfis de pontos fixos predefinidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-6
 
 Pesos predefinidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-7
 
 Coeficientes dos motores a reação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-8
 
 Coeficientes dos motores a hélice
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-9
 
@@ -3261,7 +3273,7 @@ Quadro I-10
 
 Classes espetrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (*) Nessa perspetiva, o comprimento total da rota no solo deve exceder sempre o do perfil de voo. Para isso, em caso de necessidade, podem adicionar-se segmentos retilíneos de comprimento adequado ao último segmento da rota no solo.
 
@@ -3283,7 +3295,7 @@ Quadro I-11
 
 Tipos de aeronaves GASEPF e GASEPV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 (Os dados espetrais correspondentes constam do quadro «Classes espetrais» da base ANP.)
 
@@ -3291,17 +3303,17 @@ Quadro I-12
 
 Dados de perfis de voo de partida e de chegada para aeronaves dos tipos GASEPF e GASEPV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-13
 
 Dados NPD para aeronaves dos tipos GASEPF e GASEPV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Classes de aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Apresentam-se nos quadros seguintes os dados de ruído e desempenho das aeronaves correspondentes às quatro classes indicadas.
 
@@ -3309,25 +3321,25 @@ Quadro I-14
 
 Dados correspondentes às classes P 1.0, P 1.1, P 1.2 e P 1.3 de aeronaves, por grupo de ruído
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-15
 
 Dados de perfis de voo de chegada e de partida correspondentes às classes P 1.0, P 1.1, P 1.2 e P 1.3 de aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-16
 
 Dados dos pontos de perfil de ruído correspondentes às classes P 1.0, P 1.1, P 1.2 e P 1.3 de aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-17
 
 Dados NPD correspondentes às classes P 1.0, P 1.1, P 1.2 e P 1.3 de aeronaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Série 1 de dados de ruído e desempenho de helicópteros
 
@@ -3337,31 +3349,31 @@ Quadro I-18
 
 Quadro descritivo (série 1 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-19
 
 Perfis de partida (série 1 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-20
 
 Perfis de chegada (série 1 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-21
 
 Dados característicos do ruído (série 1 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-22
 
 Dados de ruído, potência e distância (NPD) (série 1 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Série 2 de dados de ruído e desempenho de helicópteros
 
@@ -3379,31 +3391,31 @@ Quadro I-23
 
 Quadro descritivo (série 2 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-24
 
 Perfis de partida (série 2 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-25
 
 Perfis de chegada (série 2 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-26
 
 Dados característicos do ruído (série 2 de dados de helicópteros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 Quadro I-27
 
 Dados de ruído, potência e distância (NPD) para três classes de helicópteros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 ## ANEXO III — Métodos de avaliação dos efeitos prejudiciais
 
@@ -3425,17 +3437,17 @@ Calculam-se os efeitos prejudiciais mediante a aplicação de uma das seguintes 
 
 - Risco relativo (RR) de um efeito prejudicial, definido como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 - Risco absoluto (RA) de um efeito prejudicial, definido como:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 2.1 DCI
 
 Para o cálculo do RR, no que se refere ao efeito prejudicial de DCI e relativamente à taxa de incidência (i), são utilizadas as seguintes relações dose-efeito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído rodoviário.
 
@@ -3443,15 +3455,15 @@ para o ruído rodoviário.
 
 Para o cálculo do RA, no que se refere ao efeito prejudicial de IE, são utilizadas as seguintes relações dose-efeito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído rodoviário;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído ferroviário;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído de aeronaves.
 
@@ -3459,15 +3471,15 @@ para o ruído de aeronaves.
 
 Para o cálculo do RA, no que se refere ao efeito prejudicial de FPS, são utilizadas as seguintes relações dose-efeito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído rodoviário;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído ferroviário;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 para o ruído de aeronaves.
 
@@ -3481,7 +3493,7 @@ para o ruído de aeronaves.
 
 3.2.2.Para a DCI, no caso de ruído rodoviário, a proporção de casos do efeito prejudicial específico do ruído ambiente na população exposta a um RR calculado é obtida, para a fonte de ruído x (eixo rodoviário), o efeito prejudicial y (DCI) e a incidência i, aplicando a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
@@ -3507,7 +3519,7 @@ Em que:
 
 3.3.Para o IE e as FPS, no caso de ruído rodoviário, ferroviário e de aeronaves, o número total N de pessoas afetadas pelo efeito prejudicial y (número de casos atribuíveis) devido à fonte x é obtido, para cada combinação de fontes de ruído x (fonte rodoviária, ferroviária ou de aeronaves) e efeito prejudicial y (IE, FPS), aplicando a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf))](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/02900/0000301010.pdf)
 
 em que:
 
@@ -3770,3 +3782,5 @@ Adicionalmente deve indicar-se o número estimado de habitações (em centenas) 
 Os contornos correspondentes aos 55 dB(A) e 65 dB(A) são igualmente apresentados num ou mais mapas que incluem informações sobre a localização de zonas urbanas abrangidas pelas áreas delimitadas por esses contornos.
 
 2.8 - Um resumo do plano de ação, com 10 páginas no máximo, que abranja todos os aspetos relevantes referidos no anexo V.
+
+116126341

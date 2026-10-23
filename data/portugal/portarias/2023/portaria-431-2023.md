@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23900/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/431/2023/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/431-2023-230006494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb0fc2d0916a5560dc273b1633a91117c9fcd6467def6d35d739e7a3e8b95233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ceb565e075ab92dc91b34383e4736a30af889c3422a5138f98668fdd421add2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Informática
-- Tecnologia da Informação
 - Consultor
-- Regulamentação de Atos Legislativos
 - Pessoal de Informática
+- Regulamentação de Atos Legislativos
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/88/2023/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2023/10/10/p/dre
+- type: cites
+  target: pt:dre:186521681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222583134:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:15Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +125,6 @@ A presente portaria fixa a dotação de consultores de sistemas e tecnologias de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 15 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 16 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 15 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 16 de novembro de 2023.
+
+117140834

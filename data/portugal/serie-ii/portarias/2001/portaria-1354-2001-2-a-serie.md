@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1354-2001-1408010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ff4315f6830314aee444775ba8d648df00198fdf1fac9b5b8ca1c52f429ab36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fba60c5e47b0086818fa323ff4e2864426c8697a3309537b21f6de75966433d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aljezur
+- CAÇA
+- Conselho Cinegético
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:3227989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:973858:por
+  label: "Alterada a constituição do Conselho pela PORT.1687/2001(2ªSÉRIE).2001.09.25.MADRP DR.IIS [236] de 11/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1687-2001-973858
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:3227989:por
+  label: "Alterado o nº 1 do presente diploma, alterada pela Port 1687/2001 (2.ª Série), pela PORT.1064/2009.23.10.2009.MADRP,\
+    \ DR.IIS [206] de 23.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-2009-3227989
+  date: '2009-10-23'
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:16:50Z'
   warnings: []
   errors: []
 ---

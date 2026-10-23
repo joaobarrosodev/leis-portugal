@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1977-250780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 148d4ac925c965c42fca50b8039a204e4db874ae65866896ecc12a64515eb36c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d2038f19d717fd8c4b4a0a3c47c1044437b4bde8e0201f7dfb2159bd999ef68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Árvores
+- Arborização
+- Definição de Competências
+- Indemnização
+- Junta de Freguesia
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Pinheiro
 relationships:
 - type: amended_by
   target: pt:dre:378565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378565:por
+  label: "Alterado § único do art. 1º e o art. 3º pelo DRG.14/79/M.27.08.1979.ARM, DR.IS [197] de 27.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/14-1979-378565
+  date: '1979-08-27'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:14Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +121,24 @@ Até ao adequado planeamento considera-se de interesse a aplicação da discipli
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.
+Artigo 1.º É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.
 
 § único. Exceptuam-se do disposto neste artigo as plantações e sementeiras de pinheiros se entre estes e os terrenos, terras de regadio e prédios urbanos mediar estrada nacional ou municipal ou desnível de 4 m ou no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiverem radicadas e os terrenos dos vizinhos é a arborização com esta espécie.
 
-###### Art. 2.º Até à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937.
+Art. 2.º Até à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937.
 
-###### Art. 3.º Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma que estejam em contradição com o artigo 1.º é reconhecido ao lesado o direito de requerer o arranque, mediante indemnização, caso a sementeira ou plantação tenha sido feita há menos de seis anos.
+Art. 3.º Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma que estejam em contradição com o artigo 1.º é reconhecido ao lesado o direito de requerer o arranque, mediante indemnização, caso a sementeira ou plantação tenha sido feita há menos de seis anos.
 
-###### Art. 4.º Para efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional.
+Art. 4.º Para efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional.
 
-###### Art. 5.º As funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações.
+Art. 5.º As funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 17 de Junho de 1977.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 18 de Junho de 1977.**
+Assinado em 18 de Junho de 1977.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

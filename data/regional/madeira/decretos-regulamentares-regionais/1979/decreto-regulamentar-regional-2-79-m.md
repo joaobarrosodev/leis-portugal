@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1979-383458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f879a11266d2006ac721d5f4c2947790fd38a625b7e1ba6c8d152f620d5b9487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4428533eed3175ede6daff9737ffa9b16e7d8205649561964670f34738a5ce60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA de Cultura
+- Definição de Competências
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:446922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447908:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:57Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Casa da Cultura da Madeira
 
 ### CAPÍTULO I — Das atribuições e competências
 
-###### Artigo 1.º - 1 - Em execução do disposto no artigo 5.º do [Decreto Regional n.º 20/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1978-446922), de 7 de Abril, é organizada a Casa da Cultura da Madeira (CCM), que exercerá as suas atribuições sem prejuízo das conferidas por lei a outras associações culturais e das que pertençam a outros departamentos do Estado.
+Artigo 1.º - 1 - Em execução do disposto no artigo 5.º do [Decreto Regional n.º 20/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1978-446922), de 7 de Abril, é organizada a Casa da Cultura da Madeira (CCM), que exercerá as suas atribuições sem prejuízo das conferidas por lei a outras associações culturais e das que pertençam a outros departamentos do Estado.
 
 2 - A CCM fica na dependência do Governo da Região Autónoma da Madeira, por intermédio da Secretaria Regional da Educação e Cultura (SREC).
 
@@ -98,7 +110,7 @@ Casa da Cultura da Madeira
 
 5 - As iniciativas ou realizações que no domínio da actividade cultural sejam promovidas por entidades oficiais devem ser, atempadamente, comunicadas à Casa da Cultura da Madeira, para efeitos de coordenação, com vista a assegurar-se o melhor aproveitamento dos meios disponíveis.
 
-###### Art. 2.º São atribuições da Casa da Cultura da Madeira:
+Art. 2.º São atribuições da Casa da Cultura da Madeira:
 
 a) A investigação nos domínios científicos, artísticos, literários e desportivos;
 
@@ -110,7 +122,7 @@ d) A disciplina e o incentivar das actividades culturais na Região Autónoma da
 
 e) A promoção das acções necessárias ao exercício da competência atribuída à Secretaria Regional da Educação e Cultura pelo [Decreto Regional n.º 1/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1978-447908), de 17 de Janeiro, que criou a Comissão de Informação Pública sobre Espectáculos de Cinema e Teatro realizados na Região Autónoma da Madeira.
 
-###### Art. 3.º Para o exercício destas atribuições, compete à Casa da Cultura da Madeira:
+Art. 3.º Para o exercício destas atribuições, compete à Casa da Cultura da Madeira:
 
 a) A investigação e recolha do material histórico, etnográfico, antropológico e folclórico ainda existente, de acordo com a legislação em vigor e sempre em conformidade com o expresso no artigo 1.º;
 
@@ -146,11 +158,11 @@ q) Propor, ao Governo Regional ou Secretaria Regional de Educação e Cultura, m
 
 r) Atribuir prémios.
 
-###### Art. 4.º A CCM visa, em especial, a criação de uma cultura autóctone de raiz insular (sem, por outro lado, deixar de a enquadrar nas grandes linhas do pensamento contemporâneo), e também a promoção, a todos os níveis, do homem madeirense, de forma a atingir-se, em mais curto prazo, o seu nivelamento a padrões sociais, económicos e culturais eminentemente elevados.
+Art. 4.º A CCM visa, em especial, a criação de uma cultura autóctone de raiz insular (sem, por outro lado, deixar de a enquadrar nas grandes linhas do pensamento contemporâneo), e também a promoção, a todos os níveis, do homem madeirense, de forma a atingir-se, em mais curto prazo, o seu nivelamento a padrões sociais, económicos e culturais eminentemente elevados.
 
 ### CAPÍTULO II — Dos órgãos da CCM
 
-###### Art. 5.º - 1 - A Casa da Cultura da Madeira goza de autonomia administrativa e financeira.
+Art. 5.º - 1 - A Casa da Cultura da Madeira goza de autonomia administrativa e financeira.
 
 2 - O presidente da CCM é nomeado pelo Governo Regional e será uma personalidade de reconhecido mérito no domínio da cultura madeirense.
 
@@ -176,7 +188,7 @@ e) Dois representantes dos estabelecimentos de ensino médio e secundário e doi
 
 8 - O conselho cultural terá três vice-presidentes eleitos entre os seus membros.
 
-###### Art. 6.º - 1 - A gerência da Casa da Cultura da Madeira compete à Direcção.
+Art. 6.º - 1 - A gerência da Casa da Cultura da Madeira compete à Direcção.
 
 2 - A direcção, de cujas decisões será lavrada acta, reunirá ordinariamente uma vez por semana, e considera-se legalmente constituída com a presença de dois dos seus membros e do seu presidente ou quem suas vezes fizer.
 
@@ -186,7 +198,7 @@ e) Dois representantes dos estabelecimentos de ensino médio e secundário e doi
 
 5 - Poderão ser distribuídos aos vogais da direcção um ou mais pelouros ou serviços em que se estrutura a CCM.
 
-###### Art. 7.º - 1 - Compete ao presidente da Casa da Cultura da Madeira:
+Art. 7.º - 1 - Compete ao presidente da Casa da Cultura da Madeira:
 
 a) Dirigir e coordenar os vários pelouros ou serviços da CCM;
 
@@ -202,7 +214,7 @@ c) Elaborar o quadro de pessoal, fazê-lo aprovar pela SREC e proceder à sua co
 
 5 - O presidente tem voto de qualidade.
 
-###### Art. 8.º - 1 - O Conselho Cultural funciona em reuniões ordinárias e extraordinárias.
+Art. 8.º - 1 - O Conselho Cultural funciona em reuniões ordinárias e extraordinárias.
 
 2 - Em cada ano, o conselho deve reunir-se ordinariamente:
 
@@ -222,7 +234,7 @@ b) Até 31 de Julho, para apreciar o orçamento das receitas e despesas para o a
 
 ### CAPÍTULO III — Dos serviços
 
-###### Art. 9.º - 1 - A Casa da Cultura da Madeira disporá dos seguintes serviços:
+Art. 9.º - 1 - A Casa da Cultura da Madeira disporá dos seguintes serviços:
 
 a) Departamento técnico;
 
@@ -234,7 +246,7 @@ b) Departamento administrativo.
 
 ### CAPÍTULO I — Da actividade própria
 
-###### Art. 10.º - 1 - A Casa da Cultura da Madeira terá actividade cultural própria, que será desenvolvida através dos meios com que foi dotada e no âmbito das suas atribuições e competência, tal como definida no capítulo I deste regulamento.
+Art. 10.º - 1 - A Casa da Cultura da Madeira terá actividade cultural própria, que será desenvolvida através dos meios com que foi dotada e no âmbito das suas atribuições e competência, tal como definida no capítulo I deste regulamento.
 
 2 - A Casa da Cultura da Madeira não exercerá a sua actividade apenas na cidade do Funchal, mas procurará, com os meios ao seu dispor, abrir delegações nas freguesias suburbanas e nos concelhos rurais da Madeira e Porto Santo.
 
@@ -244,7 +256,7 @@ b) Departamento administrativo.
 
 5 - Sempre que possível, esta actividade descentralizada da CCM deverá apoiar e apoiar-se em núcleos locais pré-existentes.
 
-###### Art. 11.º - 1 - A Casa da Cultura da Madeira, em colaboração com a Secretaria Regional da Educação, Governo Regional ou Central, outras fundações, associações ou institutos nacionais ou estrangeiros, procurará dotar a Região de um mínimo de apetrechamento cultural, científico e desportivo, compatível com a posição geo-estratégica da Madeira no contexto do mundo contemporâneo.
+Art. 11.º - 1 - A Casa da Cultura da Madeira, em colaboração com a Secretaria Regional da Educação, Governo Regional ou Central, outras fundações, associações ou institutos nacionais ou estrangeiros, procurará dotar a Região de um mínimo de apetrechamento cultural, científico e desportivo, compatível com a posição geo-estratégica da Madeira no contexto do mundo contemporâneo.
 
 2 - Considera-se prioritária, entre outras, a constituição das seguintes instituições, que ficarão ou não na dependência da CCM, consoante o seu grau de complexidade exija ou não a dotação de autonomias:
 
@@ -268,7 +280,7 @@ Departamento de Festivais e Festas Regionais.
 
 ### CAPÍTULO II — Da actividade cultural na Região
 
-###### Art. 12.º - 1 - À Casa da Cultura da Madeira competirá também promover a actividade cultural na Região, através da colaboração com outras associações culturais privadas ou instituições estaduais, quer sob forma de assistência técnica ou financeira, quer sob a forma de colaboração em realizações conjuntas.
+Art. 12.º - 1 - À Casa da Cultura da Madeira competirá também promover a actividade cultural na Região, através da colaboração com outras associações culturais privadas ou instituições estaduais, quer sob forma de assistência técnica ou financeira, quer sob a forma de colaboração em realizações conjuntas.
 
 2 - A CCM poderá colaborar com as estações de televisão e de radiodifusão, editoras ou outros meios de comunicação social, para promoção cultural da e na Região.
 
@@ -278,13 +290,13 @@ Departamento de Festivais e Festas Regionais.
 
 ### CAPÍTULO III — Da actividade cultural no exterior
 
-###### Art. 13.º - 1 - À Casa da Cultura competirá a divulgação da cultura de expressão autóctone nos territórios do continente português, Regiões Autónomas dos Açores e Macau e no estrangeiro, através de meios próprios com que será dotada, e ainda, em procurada colaboração com o Instituto Português da Cultura, leitorados junto das Universidades e outras instituições nacionais ou estrangeiras com que seja possível colaborar.
+Art. 13.º - 1 - À Casa da Cultura competirá a divulgação da cultura de expressão autóctone nos territórios do continente português, Regiões Autónomas dos Açores e Macau e no estrangeiro, através de meios próprios com que será dotada, e ainda, em procurada colaboração com o Instituto Português da Cultura, leitorados junto das Universidades e outras instituições nacionais ou estrangeiras com que seja possível colaborar.
 
 2 - Sempre que possível, a Casa da Cultura da Madeira abrirá delegações no exterior, em especial nos centros em que a presença de imigração madeirense seja mais notória.
 
 ### CAPÍTULO IV — Dos meios financeiros
 
-###### Art. 14.º Constituem receitas da Casa da Cultura da Madeira:
+Art. 14.º Constituem receitas da Casa da Cultura da Madeira:
 
 a) As dotações especiais atribuídas pelo Estado e pela Região Autónoma da Madeira;
 
@@ -298,9 +310,9 @@ e) O produto de cobrança de taxas ou receitas que lhe venham a ser atribuídas 
 
 f) As receitas próprias derivadas da venda de bilhetes, publicações ou outras, dentro das atribuições que lhe estão consignadas.
 
-###### Art. 15.º O Governo Regional da Madeira pode autorizar a CCM a contrair empréstimos para o exercício das suas atribuições.
+Art. 15.º O Governo Regional da Madeira pode autorizar a CCM a contrair empréstimos para o exercício das suas atribuições.
 
-###### Art. 16.º As disponibilidades da CCM serão aplicadas:
+Art. 16.º As disponibilidades da CCM serão aplicadas:
 
 a) Na manutenção da sua administração e serviços;
 
@@ -312,7 +324,7 @@ d) No pagamento dos demais encargos decorrentes da prossecução das suas atribu
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 17.º - 1 - O estatuto do pessoal ao serviço da Casa da Cultura da Madeira será o do funcionalismo público.
+Art. 17.º - 1 - O estatuto do pessoal ao serviço da Casa da Cultura da Madeira será o do funcionalismo público.
 
 2 - Podem exercer funções de carácter específico na CCM, em comissão de serviço, por período não superior a um ano, funcionários do Estado e de outros institutos públicos, das autarquias locais, bem como trabalhadores das empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação, reforma e sobrevivência, considerando-se todo o período de comissão como serviço prestado nesse quadro.
 
@@ -320,12 +332,12 @@ d) No pagamento dos demais encargos decorrentes da prossecução das suas atribu
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade onde se encontrem a exercer efectivamente funções.
 
-###### Art. 18.º O estatuto dos membros de direcção será regulado pelo Secretário Regional de Educação e Cultura.
+Art. 18.º O estatuto dos membros de direcção será regulado pelo Secretário Regional de Educação e Cultura.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.
 
-**Assinado em 2 de Março de 1979.**
+Assinado em 2 de Março de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

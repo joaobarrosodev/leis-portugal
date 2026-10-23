@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01900/0059100592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2014/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2014-571053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba185ae800c1a62b230bb71a02d824de4bb0df1b7e76f701b2c47fecb95ea353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b878b94b216b05d0182df37ff4dcabfa27d014047900bcfddbb5a868ff2efce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Benavente
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Poluição
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Benavente
+- Poluição
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -86,16 +86,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/182/2012/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/182/2012/06/08/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75542125:por
+  label: Revogada a Port. 182/2012 de 08-jun, na redação do presente diploma, pelo(a) Portaria n.º 274/2016 - Diário da República
+    n.º 199/2016, Série I de 2016-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2016-75542125
+  date: '2016-10-17'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:32Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +138,7 @@ Manda o Governo, pelo Secretário de Estado do Ambiente, nos termos do previsto 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 7 de janeiro de 2014.**
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 7 de janeiro de 2014.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 
@@ -134,4 +148,4 @@ Polo de captação de Coutada Velha
 
 Captação FR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01900/0059100592.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01900/0059100592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01900/0059100592.pdf)

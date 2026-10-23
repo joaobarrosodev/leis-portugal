@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/161-a/2025/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/161-a-2025-914343325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d33f7a8c6140351d51599b32855902b429f7ba68c375a5daad2c6488e272eea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62168a5bd6290767283c64642c78852c057ebbaccf16d41112694d2efd690e2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Financiamento
 - Beneficiário
+- Catástrofe
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Desenvolvimento Regional
-- Regulamentação de Atos Legislativos
-- Fiscalização
-- Catástrofe
-- Fundos CE
-- Comissão de Coordenação e Desenvolvimento Regional
-- IFAP
 - Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Fundos CE
+- IFAP
+- Incêndio
 - PDR 2020
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:110/2025
+  label: Altera, a partir de 7 de abril de 2025, com efeitos a partir de 14 de março de 2025, o anexo I da Portaria n.º 110/2025/1,
+    de 13 de março, Diário da República n.º 51/2025, Série I
+  source: null
+  date: '2025-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/110/2025/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/110/2025/03/13/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905119996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910702654:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:07Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +147,7 @@ O anexo I da [Portaria n.º 110/2025/1](https://diariodarepublica.pt/dr/detalhe/
 
 A presente portaria entra em vigor na data da sua assinatura e produz efeitos à data de entrada em vigor da [Portaria n.º 110/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/110-2025-910702654), de 13 de março.
 
-**O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 7 de abril de 2025.**
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 7 de abril de 2025.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -179,3 +197,7 @@ Região Centro
 | Murtosa | Bunheiro, Murtosa | 9 e 10 outubro |
 | Ovar | União das Freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã | 9 e 10 outubro |
 | Soure | Alfarelos | 9 e 10 outubro |
+
+118921555
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; margin-top:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { text-indent:0px; margin-top:0px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:57px; } .Tbl13 { min-height:28px; }

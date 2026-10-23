@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2013/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96f68eb76410cc788b8e6f2f39d654c0a93d777bad32f8b205d919244d0b3025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed45db458f2430e70eb8c90452275f9f7ae276cd5b40570401e6a319de761262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Proder
-- Programa de Desenvolvimento Rural
-- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
-- Ajuda Comunitária
-- Financiamento
-- Beneficiário
-- Formação Profissional
-- Energia Elétrica
-- Silvicultura
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Recursos Hídricos
-- Feader
-- Proteção da Floresta
-- Reconversão da Produção
-- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
-- Regulamento de Aplicação da Acção Nº 1.5.2-restabelecimento do Potencial Produtivo
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria Agro-alimentar
-- IFAP
-- Jovem Agricultor
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
-- Ordenamento Florestal
-- Exploração Agrícola
-- Página na Internet
-- Proteção do Ambiente
-- Exploração Florestal
-- Proteção Fitossanitária
 - Agricultor
-- Qualificação Profissional
+- Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Atividade Agrícola
+- Beneficiário
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Energia Elétrica
+- Exploração Agrícola
+- Exploração Florestal
+- Feader
+- Financiamento
+- Formação Profissional
+- IFAP
+- Indústria Agro-alimentar
+- Jovem Agricultor
+- Ordenamento Florestal
+- Página na Internet
+- Proder
 - Produção Agrícola
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
+- Proteção da Floresta
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Qualificação Profissional
+- Reconversão da Produção
+- Recursos Hídricos
 - Regulamento
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Regulamento de Aplicação da Acção 4.2.2-redes Tematicas de Informação e Divulgação
 - Regulamento de Aplicação da Acção 4.3.2-serviços de Apoio às Empresas
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
@@ -113,23 +109,42 @@ subjects:
 - Regulamento de Aplicação da Acção N.º 2.3.1-mimimização de Riscos
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Acção N.º 4.2.1-formação Especializada
+- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
 - Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 - Regulamento de Aplicação da Acção Nº 1.4.2- Informação e Promoção de Produtos de Qualidade
+- Regulamento de Aplicação da Acção Nº 1.5.2-restabelecimento do Potencial Produtivo
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 - Regulamento de Aplicação da Medida 2.1-manutenção da Actividade Agrícola em Zonas Desfavorecidas
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
 - Regulamento de Aplicação da Subacção N.º 2.2.3.1-componente Vegetal
 - Regulamento de Aplicação da Subacção N.º 2.2.3.2-componente Animal
 - Regulamento de Aplicação das Acções 3.4.1-cooperação Interterritorial e 3.4.2-cooperação Transnacional
 - Regulamento de Aplicação dos Investimentos não Produtivos da Medida 2.4-intervenções Territoriais Integradas
-- Agricultura
 - Sector Florestal
+- Silvicultura
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:570683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260105:por
+  label: "Alterados os arts. 22.º e 26.º do Regulamento de Aplicação da Ação n.º 2.2.1, «Alteração de Modos de Produção Agrícola»,\
+    \ da Ação n.º 2.2.2, «Proteção da Biodiversidade Doméstica», e da Ação n.º 2.2.4 «Conservação do solo», aprovado em anexo\
+    \ à Port 229-B/2008, de 06-mar, na redação do presente diploma, pela PORT.137/2013.01.04.2013.MAMAOT, DR.IS [63] de 01.04.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2013-260105
+  date: '2013-04-01'
+- type: amended_by
+  target: pt:dre:570683:por
+  label: "Alterado o art. 24.º do Regulamento de Aplicação da Ação n.º 2.2.1, «Alteração de Modos de Produção Agrícola», da\
+    \ Ação n.º 2.2.2, «Proteção da Biodiversidade Doméstica» e da Ação n.º 2.2.4 «Conservação do solo», aprovado pela Port\
+    \ 229-B/2008 de 06-mar, na redação do presente diploma, pela PORT.19/2014.29.01.2014.MAGM, DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2014-570683
+  date: '2014-01-29'
 - type: cites
   target: celex:32006R1974
   label: null
@@ -151,15 +166,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
 article_structure:
-  article_count: 12
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:13Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +257,9 @@ ii) Não tendo ainda reproduzido, já estejam inscritas no Livro de Adultos e po
 
 z) «Machos reprodutores» os machos que, a 1 de Junho de cada ano, estejam inscritos no Livro de Adultos como reprodutores da raça, aprovados pelo Livro Genealógico ou pelo Registo Zootécnico como reprodutores e possuam mais de 16 meses.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -288,7 +305,9 @@ v) Frutos secos e olival - 60 árvores por hectare;
 
 vi) Vinha - 2000 cepas por hectare, exceto nos casos de áreas ocupadas com vinhas conduzida em pérgula ou de áreas situadas na Região Demarcada do Vinhos Verdes, em que a densidade mínima é de 1000 cepas por hectare.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -314,7 +333,9 @@ b) [...]
 
 3- [...]
 
-###### Artigo 18.º-C — [...]
+Artigo 18.º-C
+
+[...]
 
 1- [...]
 
@@ -326,7 +347,9 @@ b) [...]
 
 5- [...]
 
-###### Artigo 18.º-F — [...]
+Artigo 18.º-F
+
+[...]
 
 1 - Para efeitos do previsto no n.º 3 do artigo 16.º, as entidades gestoras de livros genealógicos ou registos zootécnicos de raças autóctones emitem declaração com a identificação dos criadores e das explorações aderentes e com animais inscritos a 1 de Junho no Livro de Adultos que cumpram o critério de elegibilidade previsto na alínea a) do n.º 1 do artigo 15.º e os compromissos das subalíneas ii), v), vi) e vii) da alínea a) do n.º 1 do artigo 16.º.
 
@@ -336,13 +359,17 @@ b) [...]
 
 4 - De acordo com os elementos registados nos livros e no SNIRA, a DGAV controla e valida as declarações referidas no n.º 1 e envia a informação ao IFAP, I. P., em suporte informático, até ao dia 15 de Setembro.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1- [...]
 
 2 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adotadas de acordo com o Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo IFAP, I.P., aprovado em anexo à Portaria n.º 86/2011, de 25 de Fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto no Regulamento (CE) n.º [1122/2009](https://data.europa.eu/eli/reg/2009/1122/oj?locale=pt), da Comissão, de 30 de Novembro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1- [...]
 
@@ -376,13 +403,17 @@ c) Aumento do efetivo pecuário, cuja elegibilidade deve ser comprovada de acord
 
 13 - O disposto no número anterior não é aplicável nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º [1974/2006](https://data.europa.eu/eli/reg/2006/1974/oj?locale=pt).
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os beneficiários que tenham apresentado a sua candidatura em 2007, podem optar pelo prolongamento do compromisso por mais um ano, a quando da apresentação do quinto pedido de pagamento.
 
 2 - A opção referida no número anterior está sujeita à decisão do gestor do PRODER.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Nos casos de divergência entre as áreas ou os animais declarados e as áreas determinadas ou os animais verificados em sede de controlo, aplicam-se as reduções e as exclusões previstas nos Regulamentos (UE) n.os [1122/2009](https://data.europa.eu/eli/reg/2009/1122/oj?locale=pt) da Comissão, de 30 de Novembro, e [65/2011](https://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
@@ -430,11 +461,15 @@ d) [...]
 
 19 - As reduções e exclusões previstas nos artigos 17.º e 18.º do Regulamento (UE) n.º [65/2011](https://data.europa.eu/eli/reg/2011/65/oj?locale=pt) aplicam-se às irregularidades detetadas em sede de controlo relativamente ao compromisso referido no n.º3 do artigo 16.º para qualquer espécie animal.
 
-###### Artigo 2.º — Alteração de anexos
+Artigo 2.º
+
+Alteração de anexos
 
 Os Anexos V, VII, VIII e XI do Regulamento de Aplicação da Ação n.º 2.2.1, «Alteração de Modos de Produção Agrícola», da Ação n.º 2.2.2, «Proteção da Biodiversidade Doméstica», e da Ação n.º 2.2.4 «Conservação do solo», aprovado, em anexo à Portaria n.º 229-B/2008, de 6 de Março, com a última alteração introduzida pela Portaria n.º 814/2010, de 27 de Agosto, passam a ter a redação constante do anexo à presente portaria.
 
-###### Artigo 3.º — Norma revogatória
+Artigo 3.º
+
+Norma revogatória
 
 São revogadas as seguintes disposições do regulamento aprovado pela Portaria n.º 229-B/2008:
 
@@ -450,7 +485,9 @@ e) O n.º 3 do Anexo VII;
 
 f) O n.º 2 do Anexo VIII.
 
-###### Artigo 4.º — Entrada em vigor e produção de efeitos
+Artigo 4.º
+
+Entrada em vigor e produção de efeitos
 
 1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos compromissos em curso.
 
@@ -492,24 +529,32 @@ e) As alterações ao Anexo XI.
 
 5 - A revogação do disposto na subalínea ii) da alínea b) do n.º 1 e do n.º 6 do artigo 9.º produz efeitos a partir da campanha de 2008, inclusive.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de janeiro de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de janeiro de 2013.
 
-## ANEXO I — (a que se refere o artigo 2.º)
+ANEXO I
+
+(a que se refere o artigo 2.º)
 
 "ANEXO V
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
 
-## ANEXO VII — [...]
+ANEXO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
+[...]
 
-## ANEXO VIII — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
+ANEXO VIII
 
-## ANEXO XI — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)
+
+ANEXO XI
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0066800672.pdf)

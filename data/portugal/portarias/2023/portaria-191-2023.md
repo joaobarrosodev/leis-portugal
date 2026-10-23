@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/191/2023/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-2023-215267034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48283ee804e7d414a502e6f377315747505ad8e2743ede75153e76fd7186779b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 499f215631bbc97f27d527ed9e524bf6f012af9b8225726976fe90c4d9706b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contrato de Trabalho
 - Direito do Trabalho
 - Pessoal Administrativo
-- Contrato de Trabalho
 - Relações de Trabalho
 - Remuneração
 - Retribuição Mínima Garantida
@@ -116,16 +116,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/736/2006/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/736/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:115561641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115674376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127621170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150368748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175780033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200477769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204650445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205198396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2055503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70804090:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:48Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +258,7 @@ A presente portaria procede à quinta alteração da [Portaria n.º 182/2018](ht
 
 2 - As retribuições mínimas e o subsídio de refeição produzem efeitos a partir 1 de abril de 2023.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 29 de junho de 2023. - A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 29 de junho de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 30 de junho de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 30 de junho de 2023. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 30 de junho de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 1 de julho de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 3 de julho de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 3 de julho de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 29 de junho de 2023. - A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 29 de junho de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 30 de junho de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 30 de junho de 2023. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 30 de junho de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 1 de julho de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 3 de julho de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 3 de julho de 2023.
 
 ## ANEXO I — (altera o anexo II da [Portaria n.º 218/2022](https://diariodarepublica.pt/dr/detalhe/portaria/218-2022-200477769), de 1 de setembro)
 
@@ -202,7 +266,7 @@ Retribuições mínimas
 
 Tabela de remunerações mínimas mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
@@ -422,7 +486,7 @@ Vigilante. - No exercício de funções organizadas pela entidade empregadora, e
 
 Tabela de retribuições mínimas mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13000/0000300018.pdf)
 
 ## ANEXO III — Enquadramento das profissões em níveis de qualificação
 
@@ -517,3 +581,5 @@ Porteiro (de 1.ª e 2.ª);
 Rececionista de 2.ª (até quatro meses);
 
 Trabalhador de limpeza.
+
+116636261

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 56/2010, 1º Suplemento, Série I de 2010-03-22
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 906-(18) a 906-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05601/0001800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/172-b/2010/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-b-2010-240981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f72cbbee99dd63ee6473c036e07218013ed5bd399b5676d81dff2c55cf79ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c730f195e0fb2124e1846d9518ba4ecadb0b3ce52916867bc2bf21d16a9d82c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Administração Central
-- Programa Estágios Profissionais na Administração Pública
+- Administração Pública
+- Avaliação do Pessoal
+- Bolsa de Emprego Público
 - Bolsa de Estágio
 - Contrato de Formação
+- Deficiente
 - Definição de Competências
 - Direcção Geral da Administração e do Emprego Público
-- Administração Pública
-- INA
-- Formulário Eletrónico
-- Bolsa de Emprego Público
-- Internet
-- Prazo
 - Estágio de Formação
+- Formulário Eletrónico
+- INA
+- Internet
 - Política de Emprego
-- Avaliação do Pessoal
+- Prazo
+- Programa Estágios Profissionais na Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:257036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246544:por
+  label: "Alterados os art.s 8º, 17º, 19º e 20º e aditado um art. 6º-A, pela PORT.290-A/2010.27.05.2010.MFAP, DR.IS [103-Supl]\
+    \ de 27.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-a-2010-246544
+  date: '2010-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
   label: null
@@ -95,16 +101,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/256/2005/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/256/2005/03/16/p/dre
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257036:por
+  label: "Revogada pela PORT.18/2013.18.01.2013.MF, DR.IS [13] de 18.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-2013-257036
+  date: '2013-01-18'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -367,4 +386,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 19 de Março de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.

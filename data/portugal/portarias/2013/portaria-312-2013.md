@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312/2013/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 653e7c8066cd20925e25dd8c9179ca33ad3c998006b7cda3175e0e8a017edb51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f4c4032e19ac7917464273598a37dd2d3a0e02773ca8b7f980b1c3148ce0512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Investimento
-- Regime de Apoio
-- Intervenção Operacional Pescas
-- Regulamento
 - Embarcação de Pesca
+- Financiamento
+- Intervenção Operacional Pescas
+- Investimento
+- Pesca
+- Regime de Apoio
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 14.º do Regulamento do Regime de Apoio aos Investimentos a Bordo e Seletividade aprovado pela Port\
+    \ 424-F/2008 de 13-jun, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014 \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -89,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/424-f/2008/06/13/p/dre
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:44Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +151,9 @@ e) ...
 
 f) ...
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 1 - ...
 
@@ -156,7 +165,9 @@ b) ...
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 1 - ...
 
@@ -166,7 +177,9 @@ b) ...
 
 4 - O IFAP, após a receção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
 
-###### Artigo 16º — [...]
+Artigo 16º
+
+[...]
 
 1 - ...
 
@@ -176,7 +189,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 17º — [...]
+Artigo 17º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -196,13 +211,17 @@ b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o p
 
 7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 16º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
 2 - Uma ajuda ao investimento a bordo de uma embarcação, concedida ao abrigo do presente regime, será reembolsada pro rata temporis quando a embarcação em causa for cancelada no registo da frota de pesca da União Europeia, antes de decorridos cinco anos a contar da data da última fatura paga imputável ao projeto apoiado, salvo se o cancelamento resultar de motivo de força maior e o promotor não estivesse obrigado a constituir seguro.
 
-###### Artigo 19º — [...]
+Artigo 19º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11º do Decreto-Lei nº 81/2008, de 16 de maio, quando aplicável, constituem obrigações dos beneficiários:
 
@@ -222,7 +241,9 @@ g) Comprovar, até à data de apresentação do último pedido de pagamento, que
 
 2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e de conclusão do projeto, previstos na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
 
-###### Artigo 20º — [...]
+Artigo 20º
+
+[...]
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de maio, delas não podendo resultar o aumento do apoio público.»
 
@@ -284,7 +305,7 @@ AL - ativo líquido da empresa.
 
 É republicado em anexo o Regulamento do Regime de Apoios aos Investimentos a Bordo e Seletividade, aprovado pela Portaria nº 424-F/2008, de 13 de junho, e alterado pela Portaria nº 4/2010, de 4 de janeiro, pela Portaria nº 106/2010, de 19 de fevereiro, e pela Portaria nº 225/2010, de 21 de abril.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.
 
 ## ANEXO — REGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS A BORDO E SELETIVIDADE
 
@@ -586,7 +607,7 @@ AL - ativo líquido da empresa.
 
 (a que se refere o n.º 3 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
 
 ## ANEXO III — Metodologia para o cálculo da pontuação final (PF)
 
@@ -598,7 +619,7 @@ VE = Taxa Interna de Rendibilidade (TIR) do projeto de investimento
 
 A TIR será pontuada de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
 
 REFI - taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil do mês civil correspondente ao da apresentação ou reformulação da candidatura.
 
@@ -642,7 +663,7 @@ Projetos previstos no âmbito da alínea a) do n.º 1 do artigo 6.º:
 
 AE = ME (Modernização das embarcações)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
 
 Nota. - A pontuação de ME é obtida através da média ponderada da pontuação de cada uma das categorias de investimentos, pelo peso no total, das respetivas despesas elegíveis.
 
@@ -650,7 +671,7 @@ Projetos previstos no âmbito da alínea b) do n.º 1 do artigo 6.º:
 
 AE = SE (Seletividade)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0618506192.pdf)
 
 Nota. - A pontuação de SE é obtida através da média ponderada das pontuações obtidas, em cada uma destas duas tabelas, pelo peso no total, das respetivas despesas elegíveis.
 

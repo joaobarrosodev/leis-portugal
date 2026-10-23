@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/486/2010/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/486-2010-334358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a93c170c87eae12b34d5a8e6f3c67ff300c3b3a3a54a48e95beb476229355bb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99e04543311e1649afd33436efc1cedca4187288542c3d17e7699dc5181d6f1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Recursos Hídricos
 - Fiscalização
 - Fundo de Protecção dos Recursos Hídricos
+- Recursos Hídricos
 - Reembolso
 - Regulamento
 relationships:
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:38Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 30 de Junho de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
 ## ANEXO — REGULAMENTO DE GESTÃO DO FUNDO DE PROTECÇÃO DOS RECURSOS HÍDRICOS
 

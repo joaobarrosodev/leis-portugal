@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2012/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32bf99dd63b961be387b3bca305e8f72a24888ce9f62fa8fa4ff6a86c1677a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d78f8f98ae264c36312fe20f2e0ecafad0392290fa29fb052d6abeeafce1fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Regulamento de Aplicação do Regime do Pagamento Único
+- Agricultura
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
-- Pagamento
-- Jovem Agricultor
+- Baldio
 - Exploração Agrícola
 - Exploração Florestal
-- Baldio
-- Regime de Apoio
-- Produção Vegetal
+- Financiamento
 - Fruticultura
+- Jovem Agricultor
+- Pagamento
 - Pecuária
-- Agricultura
+- Proder
+- Produção Animal
+- Produção Vegetal
+- Regime de Apoio
+- Regulamento de Aplicação do Regime do Pagamento Único
 - Vinha
 relationships:
 - type: amended_by
@@ -119,16 +119,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/68/2010/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/68/2010/02/03/p/dre
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogada, a partir de 28.02.2015, a Port 68/2010 de 03-fev, alterada e com a última republicação efetuada pelo presente
+    diploma,pelo(a) Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
-  article_count: 39
+  article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:19Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +191,9 @@ f) ...
 
 g) 'Regimes de apoio direto a integrar no RPU em 2012' o prémio ao abate de bovinos adultos, o prémio ao abate de vitelos, a ajuda ao tomate para transformação, a ajuda às sementes, o prémio às forragens secas, o prémio às proteaginosas, o pagamento específico para o arroz e o pagamento por superfície para as frutas de casca rija.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +209,9 @@ d) ...
 
 e) Sejam candidatos ao regime de pagamento único a título dos regimes de apoio direto a integrar no RPU em 2012.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +231,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -237,13 +249,17 @@ e) ...
 
 7 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Podem candidatar-se à atribuição de direitos ao pagamento no âmbito da reserva nacional, até à data limite de entrega do pedido único, os agricultores que se encontrem nas situações previstas nos artigos 20.º, 22.º e 23.º do Regulamento (CE) n.º [1120/2009](http://data.europa.eu/eli/reg/2009/1120/oj?locale=pt), nos termos do disposto no presente capítulo.
 
 2 - Podem ainda candidatar-se à atribuição de direitos ao pagamento no âmbito da reserva nacional, nos termos do disposto no n.º 2 do artigo 41.º do Regulamento (CE) n.º [73/2009](http://data.europa.eu/eli/reg/2009/73/oj?locale=pt), os agricultores que tenham apresentado pedidos de apoio ao prémio à primeira instalação no âmbito da ação n.º 1.1.3, 'Instalação de jovens agricultores', do Programa PRODER, cujo contrato seja celebrado até 30 de setembro do ano da candidatura à reserva nacional.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +273,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +307,9 @@ c) Investimentos nos setores do arroz, frutas de casca rija e tomate para transf
 
 12 - Aos agricultores que se enquadrem em mais do que uma das situações previstas nos n.os 1 e 2 do artigo 10.º e 2 do artigo 9.º e no artigo 19.º é atribuído o montante mais elevado que resultar da aplicação em separado de cada um dos respetivos artigos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +321,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 15.º — Pedido de transferência de direitos
+Artigo 15.º
+
+Pedido de transferência de direitos
 
 1 - A transferência definitiva ou temporária de direitos pode ser efetuada a qualquer altura do ano, sendo comunicada ao IFAP, I. P., pelo cedente e confirmada pelo cessionário, através da submissão de formulários eletrónicos próprios, ficando a respetiva produção de efeitos dependente da verificação dos requisitos legais aplicáveis.
 
@@ -321,7 +343,9 @@ Condição de acesso
 
 Para além do disposto no artigo 3.º do presente Regulamento, e sem prejuízo do estabelecido para os direitos especiais, é fixada, para efeitos de pedido de estabelecimento de direitos ao pagamento, a área mínima de 0,30 ha de superfície elegível da exploração.
 
-###### Artigo 17.º — Cálculo do montante a integrar no regime de pagamento único
+Artigo 17.º
+
+Cálculo do montante a integrar no regime de pagamento único
 
 1 - O montante a atribuir por agricultor resulta do somatório dos montantes determinados no âmbito de cada um dos regimes de apoio direto a integrar no RPU em 2012.
 
@@ -335,11 +359,15 @@ Para além do disposto no artigo 3.º do presente Regulamento, e sem prejuízo d
 
 6 - Para efeito de aplicação do número anterior, o proprietário e o arrendatário apresentam, em simultâneo e respetivamente, o pedido de atribuição dos direitos e o pedido de pagamento a título do RPU, juntando cópia do contrato de arrendamento.
 
-###### Artigo 18.º — Notificação
+Artigo 18.º
+
+Notificação
 
 Até ao início do período de apresentação do pedido único de 2012, o IFAP, I. P., notifica os agricultores do montante a integrar no RPU em 2012, calculado nos termos do artigo anterior.
 
-###### Artigo 19.º — Reserva nacional
+Artigo 19.º
+
+Reserva nacional
 
 1 - Podem candidatar-se à reserva nacional, em 2012, os agricultores que se encontrem nas condições previstas no artigo 21.º do Regulamento (CE) n.º [1120/2009](http://data.europa.eu/eli/reg/2009/1120/oj?locale=pt) e cuja área determinada ao pagamento do prémio específico do arroz ou do pagamento por superfície para as frutas de casca rija, relativo ao pedido único do ano de 2011, seja superior à área máxima determinada nos anos dos períodos de referência utilizados para efeito da integração dos respetivos regimes no RPU, bem como os agricultores que tenham realizado investimentos no setor do tomate para transformação ao abrigo da ação n.º 1.1.1, 'Modernização e capacitação das empresas', e da ação n.º 1.1.2, 'Investimentos de pequena dimensão', do Programa PRODER, cujo início do projeto tenha ocorrido após 15 de maio de 2010 e tenha terminado até 15 de maio de 2012.
 
@@ -389,7 +417,7 @@ ii) O número máximo de hectares determinados no período de referência defini
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de março de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de março de 2012.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -401,7 +429,7 @@ Abrantes, Águeda (Préstimo, Macinhata do Vouga, Macieira de Alcoba, Castanheir
 
 Valores unitários para os regimes de apoio direto a integrar no RPU em 2012 a que se refere o n.º 2 do artigo 17.º do Regulamento de Aplicação do Regime de Pagamento Único.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf)
 
 ## ANEXO III — (republicação do Regulamento de Aplicação do Regime de Pagamento Único a que se refere o artigo 8.º)
 
@@ -701,4 +729,4 @@ Abrantes, Águeda (Préstimo, Macinhata do Vouga, Macieira de Alcoba, Castanheir
 
 Valores unitários para os regimes de apoio direto a integrar no RPU em 2012 a que se refere o n.º 2 do artigo 17.º do Regulamento de Aplicação do Regime de Pagamento Único.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05700/0128901299.pdf)

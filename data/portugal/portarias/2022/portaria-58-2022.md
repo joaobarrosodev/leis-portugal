@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,32 @@ source:
   metadata_url: https://data.dre.pt/eli/port/58/2022/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-2022-178264016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dfbdc4968113267eec4c5fc75b4b8a7c7b73eaa9ac53af8bf9789129fcc5a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4929af0f823dafd1a5bc86a4f09ab458047d02acdd9dda7cd878a293e84e0e4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Água
+- Águas Subterrâneas
+- Montijo
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -87,16 +94,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:127369100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149260035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58546422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1161149392:por
+  label: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 373/2026/1 - Diário da República n.º 163/2026, Série
+    I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-2026-1161149392
+  date: '2026-08-23'
+- type: repealed_by
+  target: pt:dre:1161149393:por
+  label: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 374/2026/1 - Diário da República n.º 163/2026, Série
+    I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/374-2026-1161149393
+  date: '2026-08-23'
+- type: repealed_by
+  target: pt:dre:1161149394:por
+  label: Revogada, a partir de 25 de agosto de 2026, pelo(a) Portaria n.º 375/2026/1 - Diário da República n.º 163/2026, Série
+    I de 2026-08-24 nos termos da alínea b) do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-2026-1161149394
+  date: '2026-08-23'
+- type: repealed_by
+  target: pt:dre:1161801435:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 378/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25 nos termos da alínea b) do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-2026-1161801435
+  date: '2026-08-24'
+- type: repealed_by
+  target: pt:dre:1161801436:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 379/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25 nos termos da alínea b) do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-2026-1161801436
+  date: '2026-08-24'
+- type: repealed_by
+  target: pt:dre:1161801437:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 380/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-2026-1161801437
+  date: '2026-08-24'
+- type: repealed_by
+  target: pt:dre:1161801438:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 381/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-2026-1161801438
+  date: '2026-08-24'
+- type: repealed_by
+  target: pt:dre:1161801439:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 382/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-2026-1161801439
+  date: '2026-08-24'
+- type: repealed_by
+  target: pt:dre:1161801440:por
+  label: Revogada, a partir de 26 de agosto de 2026, pelo(a) Portaria n.º 383/2026/1 - Diário da República n.º 164/2026, Série
+    I de 2026-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-2026-1161801440
+  date: '2026-08-24'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:12Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +248,13 @@ i) ...»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 24 de janeiro de 2022.**
+A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 24 de janeiro de 2022.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
 ## ANEXO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -199,11 +288,11 @@ Polo de captação de Santo Isidro de Pegões
 
 Captação F12
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Captação F33
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Polo de captação de Taipadas
 
@@ -243,11 +332,11 @@ Polo de captação de Santo Isidro de Pegões
 
 Captação F12
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Captação F33
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Polo de captação de Taipadas
 
@@ -287,7 +376,7 @@ Polo de captação de Santo Isidro de Pegões
 
 Captações F12 e F33
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Polo de captação de Taipadas
 
@@ -325,7 +414,7 @@ Polo de captação de Afonsos
 
 Polo de captação de Santo Isidro de Pegões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf))](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/01/01900/0001400020.pdf)
 
 Polo de captação de Taipadas
 
@@ -334,3 +423,5 @@ Polo de captação de Taipadas
 Polo de captação de Faias
 
 [...]
+
+114939425

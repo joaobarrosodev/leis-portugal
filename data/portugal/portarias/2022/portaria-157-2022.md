@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11000/0000700012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/157/2022/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-2022-184507385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9e07da3a6de5e8ffca521b728f1f6706b2d2a3a7602da972005c3036fd9d6dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85fdc6d6bd2fd944ac78d0bd5976c81f32582768b91f3bdfd8930579066ef3e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Informação
-- Publicidade
 - Concurso
 - Concurso de Acesso
 - Concurso Local de Acesso
+- Ensino Artístico
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
 - Licenciatura
+- Lisboa
 - Página na Internet
+- Publicidade
 - Regulamento
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -121,16 +121,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:14Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +199,7 @@ A presente portaria aprova o Regulamento do Concurso Local para a Matrícula e I
 
 2 - O Regulamento aprovado pela presente portaria produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022-2023, inclusive.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.
 
 ## ANEXO
 
@@ -384,3 +428,5 @@ Findo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do 
 ###### Artigo 26.º — Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo diretor da Escola Superior de Música de Lisboa, devendo ser tornados públicos sítio da Internet da ESML e afixados na Escola.
+
+115380859

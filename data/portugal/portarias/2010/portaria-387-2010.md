@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/387/2010/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2010-334672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665f314b445f8fa620c81deb360a4b61de4703d7a05788fcee7952dcbc89f443
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62066f8cfe0bb234388b5ce0dc3d9a6e2b6a6110e30a1b851b43802a9c8d7f90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/672/1997/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/672/1997/08/12/p/dre
+- type: cites
+  target: pt:dre:202473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:04Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +159,6 @@ d) 12 % aos demais caçadores, conforme é referido na alínea d) do citado arti
 
 É revogada a [Portaria n.º 672/97](https://diariodarepublica.pt/dr/detalhe/portaria/672-1997-202473), de 12 de Agosto.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12200/0228702288.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12200/0228702288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12200/0228702288.pdf)

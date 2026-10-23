@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/282/2011/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-2011-146935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7830d174e572d821509d5f93593dc2550aaa8ceebb74769ba24cce5e355c3521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8064f92fda1c11df73bc3b2de852e834a4f8ecc2692b9988db3a856d7b596557
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,27 @@ reuse:
 subjects:
 - Alienação de BENS
 - Desvalorização da Moeda
-- IRS
 - IRC
-relationships: []
+- IRS
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:39Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +106,8 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:
 
 Os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2011, cujo valor deva ser actualizado nos termos dos artigos 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas e 50.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, para efeitos de determinação da matéria colectável dos referidos impostos, são os constantes do quadro anexo.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 28 de Setembro de 2011.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 28 de Setembro de 2011.
 
 ## ANEXO — Quadro de actualização dos coeficientes de desvalorização da moeda a que se referem os artigos 47.º do Código do IRC e 50.º do Código do IRS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20300/0469004690.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20300/0469004690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20300/0469004690.pdf)

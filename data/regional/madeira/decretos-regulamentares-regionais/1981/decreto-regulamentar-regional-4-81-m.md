@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1981-388054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a83caf3b7685eff5110c7f96c0450108bfd58517ff69baa1727fc3461d48674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc13084ced20bb2610324c4267a4c5cb8438788b19211c50a4d7bb1e9195dc9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Turismo
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:580576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580576:por
+  label: "Alterados os artigos 2º, 3º e nº 2 do artigo 26º pelo DRR.9/81/M.06.07.1981.GR-RAM, DR.IS [152] de 06.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1981-580576
+  date: '1981-07-06'
+- type: cites
+  target: pt:dre:149405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394527:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 91/1981, Série I de 1981-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-394527
+  date: '1981-04-20'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:07Z'
   warnings: []
   errors: []
 ---
@@ -712,18 +765,18 @@ As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas po
 
 O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário Regional do Trabalho, servindo de Presidente do Governo Regional, Manuel Jorge Bazenga Marques.**
+O Secretário Regional do Trabalho, servindo de Presidente do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 19 de Fevereiro de 1981.**
+Assinado em 19 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro de pessoal a que se refere o n.º 2 do artigo 26.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf))](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf)
 
 Quadro de pessoal a que se refere o n.º 3 do artigo 26.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf))](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/06300/07110720.pdf)

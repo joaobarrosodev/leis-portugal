@@ -31,9 +31,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -54,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/104/2012/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-2012-552790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e1688ee7c5ea5ddea02a61277b83dcffdafe0e3be9823b05ae426bd7d24f067
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106c163e4f511b45cd12fbf2bf31dcf85efdb1a4482ed2d64f0de840388c2b9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,25 +71,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Produção Animal
-- Financiamento
-- Projeto de Investimento
-- SECA
+- Agricultura
 - Exploração Florestal
+- Financiamento
+- Pecuária
+- Proder
 - Produção Agrícola
+- Produção Animal
+- Projeto de Investimento
 - Regulamento CE
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Medida 2.1-manutenção da Actividade Agrícola em Zonas Desfavorecidas
 - Regulamento de Aplicação das Componentes Agro-ambientais e Silvo-ambientais da Medida Nº 2.4. Intervenções Territoriais
   Integradas
-- Pecuária
-- Agricultura
+- SECA
 relationships:
 - type: amended_by
   target: pt:dre:191988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191988:por
+  label: "Aditado o art. 1.º-A pela PORT.370/2012.09.11.2012.MAMAOT, DR.IS [217] de 09.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-2012-191988
+  date: '2012-11-09'
 - type: cites
   target: celex:32006R1974
   label: null
@@ -99,13 +102,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:19Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +151,4 @@ iii) O incumprimento das densidades previstas nos planos de gestão florestal (P
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 30 de março de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 30 de março de 2012.

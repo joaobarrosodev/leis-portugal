@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/116/2011/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/116-2011-277652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d16888250fee4f0c4472f8718ffa9add4cb3a2c334b4a52a1dc61f946ea1d733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfd4dca565348fa5dcba492ec0e99340a8ea102a4755ede61f0bbee49e9a612a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:46Z'
   warnings: []
   errors: []
 ---
@@ -236,16 +248,16 @@ Compete à DGARQ a inspecção técnica sobre o disposto no presente Regulamento
 
 ## ANEXO I — Tabela de selecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
 
 ## ANEXO II — Auto de entrega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
 
 ## ANEXO III — Guia de remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
 
 ## ANEXO IV — Auto de eliminação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06000/0167201694.pdf)

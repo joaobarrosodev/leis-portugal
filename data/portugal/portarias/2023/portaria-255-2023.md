@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/255/2023/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-2023-216770690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac494be91641a5434f6955100d4d697010101cf15a7c70e3761504ea7ed4f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9abadc3691c97e86728b1bbbc4bf3be2248f8cd89dc4fbc0cebeeb9d71bdc31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Adjudicação de Obras Públicas
 - Aeroporto
+- Águas Residuais
 - Assistência Técnica
 - Caderno de Encargos
 - Classificação de Obras
-- Energia Elétrica
-- Estrada
+- Código dos Contratos Públicos
+- Contratação Pública
 - Contrato
 - Empreitada de Obras Públicas
+- Energia Elétrica
 - Equipamento
-- Resíduo
+- Estrada
 - Obras Públicas
-- Águas Residuais
 - Ponte
-- Código dos Contratos Públicos
+- Portos
+- Prédio Urbano
 - Projeto
 - Rede Ferroviária
-- Portos
-- Abastecimento de Água
-- Prédio Urbano
-- Contratação Pública
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:837135331:por
@@ -121,16 +121,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/701-h/2008/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/701-h/2008/07/29/p/dre
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203083713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671049:por
+  label: null
+  source: null
 article_structure:
   article_count: 208
   section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:12Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +223,7 @@ A presente portaria procede à revogação da [Portaria n.º 701-H/2008](https:/
 
 A presente portaria entra em vigor no prazo de 30 dias após a sua publicação no Diário da República, aplicando-se à elaboração de todos os projetos elaborados pelo dono da obra, na definição que lhe é dada no seu anexo i, ou cujo procedimento de contratação tenha sido iniciado após aquela data.
 
-**A Ministra da Habitação, Marina Sola Gonçalves, em 20 de julho de 2023.**
+A Ministra da Habitação, Marina Sola Gonçalves, em 20 de julho de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º da presente portaria)
 
@@ -491,7 +519,7 @@ f) Obrigatoriedade de pesquisa de soluções que garantam uma contenção de cus
 
 1 - Para efeitos de planeamento, o peso relativo de cada fase de projeto poderá traduzir-se pelas seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf)
 
 2 - A assistência técnica, não sendo uma fase de projeto, constitui um direito e uma obrigação do coordenador e dos autores de projeto.
 
@@ -3935,4 +3963,6 @@ vii) Aspetos a observar na gestão e organização do estaleiro.
 
 (a que se refere o n.º 2 do artigo 1.º da Portaria e o n.º 1 do artigo 11.º do Anexo I)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15200/0001800108.pdf)
+
+116721587

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/830/2009/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-2009-493202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59aa7581cdfb34f1cd88a50924cda3d9a76f1deefd176438af76f02711a4a720
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d95b7760778cc06872605a9aec0a05b9e114a819ea38a364245a64858e1a49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Vinho
-- Contrato Coletivo de Trabalho
 - Condições de Higiene e Segurança no Trabalho
-- Regulamento de Extensão
+- Contrato Coletivo de Trabalho
 - Indústria Alimentar
+- Regulamento de Extensão
 - Remuneração
+- Vinho
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:32Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +135,4 @@ b) Às relações de trabalho entre empresas filiadas nas associações de empre
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da sua entrada em vigor, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 23 de Julho de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 23 de Julho de 2009.

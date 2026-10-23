@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/40/2012/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2012-543059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a63df6ff4145f0433bede5cf70ab5740d14e322e1510df27144111abe04bc634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f2e99bd95e0ba020556fd54787d02802e948d1e1466e870da4050759ac0be2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,16 @@ relationships:
   target: pt:dre:122446605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122446605:por
+  label: Integrado o Hospital de Braga, E.P.E., ora criado, no setor empresarial do Estado, e determinado que o mesmo sucede
+    na universalidade de bens, direitos e obrigações que reverteriam, em 31 de agosto de 2019, para a Administração Regional
+    de Saúde do Norte, I. P. (ARS Norte, I. P.), com a extinção, na parte respeitante ao estabelecimento hospitalar, do Contrato
+    de Gestão do Hospital de Braga, celebrado ao abrigo do regime de parceria público-privada, entre o Estado Português, representado
+    pela ARS Norte, I. P., e a Escala Braga - Sociedade Gestora do Estabelecimento, S. A. (Escala Braga), previsto no presente
+    diploma, pelo(a) Decreto-Lei n.º 75/2019 - Diário da República n.º 104/2019, Série I de 2019-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2019-122446605
+  date: '2019-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -113,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:59Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +229,4 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Em 13 de janeiro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.

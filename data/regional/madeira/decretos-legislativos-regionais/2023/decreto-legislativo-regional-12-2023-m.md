@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03300/0018600189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2023/02/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9602e4b5dcaf69e6e816db85989943e751b58e2fb6161ee41ca6f3f3001ccb1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcd2eef701d3570c2cd7ad4705c88824c3a7fb505e75eb36cce795f2c9ee2496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ reuse:
 subjects:
 - Assembleia Legislativa Regional
 - Interpretação do Direito
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
@@ -105,16 +105,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:107061814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:40Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +215,9 @@ Os artigos 12.º e 49.º do [Decreto Legislativo Regional n.º 24/89/M](https://
 
 4 - (Revogado.)
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -207,10 +245,12 @@ O artigo 2.º do presente diploma tem natureza interpretativa.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 1 de fevereiro de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 13 de fevereiro de 2023.**
+Assinado em 13 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116171467

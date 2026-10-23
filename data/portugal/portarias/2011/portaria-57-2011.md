@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/01/02000/0059500595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/57/2011/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2011-280183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c297e762f429a76511f8905aca69976b704d879f6a6694fc0da3b8612e6ac8f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02b7089c9a84d5d06df11a5b0e68ba5c9cd441c5adb9cc63468ecae49ce7a9c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Alvará
 - Construção Civil
-- Obras Particulares
 - Indústria da Construção
+- Obras Particulares
 - Obras Públicas
 relationships:
 - type: amended_by
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/21/2010/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/21/2010/01/11/p/dre
+- type: cites
+  target: pt:dre:241183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553023:por
+  label: "Revogada pela PORT.119/2012.30.04.2012.MAMAOT, DR.IS [84] de 30.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-2012-553023
+  date: '2012-04-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:01Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +135,7 @@ A presente portaria estabelece as classes das habilitações contidas nos alvar�
 
 As classes das habilitações contidas nos alvarás de construção, e os correspondentes valores, são fixados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/02000/0059500595.pdf))](https://files.diariodarepublica.pt/1s/2011/01/02000/0059500595.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/02000/0059500595.pdf)
 
 ###### Artigo 3.º — Norma revogatória
 
@@ -132,4 +145,4 @@ As classes das habilitações contidas nos alvarás de construção, e os corres
 
 A presente portaria entra em vigor no dia 1 de Fevereiro de 2011.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 20 de Janeiro de 2011.**
+O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 20 de Janeiro de 2011.

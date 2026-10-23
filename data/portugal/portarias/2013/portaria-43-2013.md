@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/43/2013/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-2013-258295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 116a22d5849f2cb59631081fa4c3ecec8aa631d2b088969a8edae677af054a56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d120726d5e4c6d9354eab72713e8901d191c02e96ee080c636900f06531a15f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
+- Abastecimento de Água
+- Águas Subterrâneas
 - Moita
 - Proteção do Ambiente
+- Recursos Hídricos
 - Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:497789:por
@@ -88,16 +88,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:497789:por
+  label: "Revogado o disposto nas zonas do perímetro de proteção às captações JK1 e JK2 do polo de captação de Moita/Gaio-Rosário/Sarilhos\
+    \ Pequenos, constante dos anexos ii, iii e iv, do presente diploma, pela PORT.233/2013.23.07.2013.MAMAOT, DR.IS [140]\
+    \ de 23.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-2013-497789
+  date: '2013-07-23'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:12Z'
   warnings: []
   errors: []
 ---
@@ -238,13 +257,13 @@ As zonas de proteção intermédia e alargada, respeitantes aos perímetros de p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 14 de dezembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 14 de dezembro de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -254,139 +273,139 @@ Polo de captação de Moita/Gaio-Rosário/Sarilhos Pequenos
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Moita
 
 Captação CR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Penteado
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação de Vinha das Pedras
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captações PS3 e JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Barra Cheia
 
 Captação PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação PS5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Rego de Água
 
 Captação PS4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação de Moita/Gaio-Rosário/Sarilhos Pequenos
 
 Captações JK1 e JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Moita
 
 Captação CR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação de Vinha das Pedras
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Captações PS3, JK2 e AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Barra Cheia
 
 Captações PS3 e PS5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
 
 Zona de proteção alargada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polos de captação de Moita/Gaio-Rosário/Sarilhos Pequenos e Moita
 
 Captações PS1, PS2 e CR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Penteado
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação de Vinha das Pedras
 
 Captações PS1, PS2, PS3, JK2 e AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Barra Cheia
 
 Captações PS3 e PS5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Rego de Água
 
 Captação PS4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Nota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -400,20 +419,20 @@ Série M888 - 1/25.000 (IGeoE)
 
 Polos de captação de Moita/Gaio-Rosário/Sarilhos Pequenos e Moita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Penteado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação de Vinha das Pedras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação da Barra Cheia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
 
 Polo de captação do Rego de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0064000647.pdf)

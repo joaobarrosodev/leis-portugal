@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/630/2010/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/630-2010-333354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90c4e25c743c2595efd16018e3c7b01eb054208f22243c6ab1469696515b16d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a85894813fa4253922bb39979125d5f22302dd47b17d8a533d2ad4389d9a1a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/435/2001/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/435/2001/04/28/p/dre
+- type: cites
+  target: pt:dre:165188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:28Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +134,4 @@ Pela presente portaria a concessão da zona de caça turística da Alagada (proc
 
 Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 21 de Julho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 21 de Julho de 2010.

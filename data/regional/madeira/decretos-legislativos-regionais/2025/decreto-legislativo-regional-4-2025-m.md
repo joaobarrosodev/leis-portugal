@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/14700/0001100026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2025/08/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-927416001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97663d5ac3eea1be8273e32d7cf36b04b1647da49c99ca638afcc9425e60d5a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e97647db86d790db233f868c7215c128c697e5e1d5607f67a84554a87c1ea6f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- UGT
 - Comissão Permanente de Concertação Social
+- Conselho Coordenador
+- Conselho Económico e da Concertação Social
 - Conselho Económico e Social Regional
 - Definição de Competências
+- Madeira.região Autónoma
 - Orgânica
-- Conselho Coordenador
 - Plenario
 - Presidente
-- Madeira.região Autónoma
-- Conselho Económico e da Concertação Social
+- UGT
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:2/2016/M
+  label: Altera, a partir de 2 de agosto de 2025, os artigos 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 11.º, 12.º, 12.º-A, e altera e
+    renumera os artigos 12.º-A, 13.º, 14.º, 14.º-A, 14.º-B, 14.º-C, 15.º, 16.º, 17.º e 18.º , passando, respetivamente, a
+    13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, adita o artigo 14.º-C e republica o Decreto Legislativo Regional
+    n.º 2/2016/M, de 15 de janeiro, Diário da República n.º 10/2016, Série I
+  source: null
+  date: '2016-01-15'
 - type: cites
   target: eli:h
   label: null
@@ -121,16 +129,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56348175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73168880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:57Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +235,7 @@ A par de uma melhor definição do papel determinante das várias entidades envo
 
 Destarte, urge adaptar à realidade social atual a representatividade no referido Conselho e, bem assim, rever e atualizar as respetivas competências, nomeadamente no que respeita ao impacto na Região Autónoma da Madeira das políticas europeias e da economia social.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666) de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666) de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -199,7 +283,9 @@ m) [...]
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +375,9 @@ jj) Um representante do Conselho da Diáspora Madeirense, a designar pelo depart
 
 8 - Os representantes dos trabalhadores referidos nas alíneas b), c) e m) do n.º 1 e das organizações referidas nas alíneas d), e) e n) do referido número incluem, obrigatoriamente, os respetivos representantes na Comissão Permanente de Concertação Social.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O presidente, nos primeiros 15 dias após a sua eleição, dá início ao processo de designação dos elementos integrantes do Conselho, o qual deve ocorrer até 90 dias após a referida eleição.
 
@@ -297,7 +385,9 @@ jj) Um representante do Conselho da Diáspora Madeirense, a designar pelo depart
 
 3 - Não sendo possível o consenso, ponderada a representatividade dos candidatos, compete ao Conselho a escolha do membro representante.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -325,7 +415,9 @@ i) [...]
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -333,7 +425,9 @@ i) [...]
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -363,7 +457,9 @@ h) O presidente do Conselho, sem direito a voto.
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para além dos trabalhos em plenário, a atividade dos membros do Conselho desenvolve-se na Comissão Permanente de Concertação Social e nas comissões especializadas, as quais podem ser permanentes ou temporárias.
 
@@ -387,13 +483,17 @@ c) [...]
 
 d) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Conselho Coordenador é composto pelo presidente do Conselho, com voto de qualidade, pelos vice-presidentes, pelos presidentes das comissões especializadas permanentes e pelo secretário-geral.
 
 2 - [...]
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - [...]
 
@@ -439,11 +539,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de julho de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 29 de julho de 2025.**
+Assinado em 29 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -489,7 +589,7 @@ j) Promover o diálogo e a concertação entre parceiros sociais;
 
 k) Acompanhar as estratégias e políticas públicas de desenvolvimento da economia social;
 
-l) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, retificada pela [Declaração de Retificação n.º 21/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2009-605343), de 18 de março e alterada pelas Leis n.<sup>os</sup>[105/2009](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), de 14 de setembro, [53/2011](https://diariodarepublica.pt/dr/detalhe/lei/53-2011-668541), de 14 de outubro, [23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), de 25 de junho (retificada pela [Declaração de Retificação n.º 38/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2012-179507), de 23 de julho), [47/2012](https://diariodarepublica.pt/dr/detalhe/lei/47-2012-174796), de 29 de agosto, [69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541), de 30 de agosto, [27/2014](https://diariodarepublica.pt/dr/detalhe/lei/27-2014-25343748), de 8 de maio, [55/2014](https://diariodarepublica.pt/dr/detalhe/lei/55-2014-56348175), de 25 de agosto, [28/2015](https://diariodarepublica.pt/dr/detalhe/lei/28-2015-66970761), de 14 de abril, e [120/2015](https://diariodarepublica.pt/dr/detalhe/lei/120-2015-70152047), de 1 de setembro, conforme o disposto no [Decreto Legislativo Regional n.º 4/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2012-553578), de 16 de março;
+l) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, retificada pela [Declaração de Retificação n.º 21/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2009-605343), de 18 de março e alterada pelas Leis n.os[105/2009](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), de 14 de setembro, [53/2011](https://diariodarepublica.pt/dr/detalhe/lei/53-2011-668541), de 14 de outubro, [23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), de 25 de junho (retificada pela [Declaração de Retificação n.º 38/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2012-179507), de 23 de julho), [47/2012](https://diariodarepublica.pt/dr/detalhe/lei/47-2012-174796), de 29 de agosto, [69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541), de 30 de agosto, [27/2014](https://diariodarepublica.pt/dr/detalhe/lei/27-2014-25343748), de 8 de maio, [55/2014](https://diariodarepublica.pt/dr/detalhe/lei/55-2014-56348175), de 25 de agosto, [28/2015](https://diariodarepublica.pt/dr/detalhe/lei/28-2015-66970761), de 14 de abril, e [120/2015](https://diariodarepublica.pt/dr/detalhe/lei/120-2015-70152047), de 1 de setembro, conforme o disposto no [Decreto Legislativo Regional n.º 4/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2012-553578), de 16 de março;
 
 m) Aprovar o seu regulamento interno.
 
@@ -793,8 +893,10 @@ Os regulamentos internos do Conselho são publicados na 2.ª série do Jornal Of
 
 ###### Artigo 21.º — Revogação
 
-Com a aprovação do presente diploma, são revogados os Decretos Legislativos Regionais n.<sup>os</sup>[7/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1994-253855), de 7 de abril e [12/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1997-195801), de 20 de agosto.
+Com a aprovação do presente diploma, são revogados os Decretos Legislativos Regionais n.os[7/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1994-253855), de 7 de abril e [12/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1997-195801), de 20 de agosto.
 
 ###### Artigo 22.º — Entrada em vigor
 
 O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+119370327

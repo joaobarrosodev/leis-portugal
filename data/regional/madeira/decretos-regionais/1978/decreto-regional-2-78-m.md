@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03600/03450345.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1978-448512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32067684b17aec62b9b34d17728d15ae82556403266325616110e84c4b277438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 609139357160818cb8ee5033c9da6611d2ecee71c1bdc5ca7017f692fc4e8831
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Regional
+- Estatuto
+- Estatuto do Deputado
+- Madeira.região Autónoma
+- Parlamentar
+- Presidente da Assembleia Regional
+- Remuneração Acessória
+- Secretário
+- Senha de Presença
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:573357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382467:por
+  label: "Alterado o art. 14º do Estatuto do Deputado aprovado pelo DRG 3/76, de 13-fev, na redação do presente diploma, pelo\
+    \ DRG.8/79.12.04.1979.ARM, DR.IS [86] de 12.04.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/8-1979-382467
+  date: '1979-04-12'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573357:por
+  label: "Revogado, a partir de 03.05.1981, pelo DRG.9/81/M.02.05.1981.ARM, DR.IS [100] de 02.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/9-1981-573357
+  date: '1981-05-02'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:17Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +117,7 @@ A prática demonstrou, porém, que algumas das suas disposições, à partida ju
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e dos artigos 22.º e seguintes do Estatuto Provisório da Região Autónoma da Madeira ([Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril), a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 14.º e 23.º do Estatuto do Deputado, aprovado pelo Decreto Regional n.º 3/76/M, de 10 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 14.º e 23.º do Estatuto do Deputado, aprovado pelo Decreto Regional n.º 3/76/M, de 10 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — (Subsídio mensal)
 
@@ -118,12 +143,12 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e d
 
 3 - Para efeitos dos números anteriores, não são considerados encargos os vencimentos e subsídios optados nos termos do artigo 11.º do Decreto Regional n.º 3/76/M, de 10 de Dezembro.
 
-###### Art. 2.º O presente decreto regional entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Outubro de 1977.
+Art. 2.º O presente decreto regional entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Outubro de 1977.
 
 Aprovado em 10 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 23 de Janeiro de 1978.**
+Assinado em 23 de Janeiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

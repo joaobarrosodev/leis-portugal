@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/983/2010/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/983-2010-342146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 541b2cf108623ed3dc5cc82ab5506a4414af2a1d78549b56c02c4d1fd9da0a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 124df6651a75e2cccd972b4a5e452b3bd5a907238a9b88ff92a662157898356f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
+- Águas Subterrâneas
 - Controlo Sanitário
 - Óbidos
+- Poluição da água
 - Proteção do Ambiente
 - Zona de Proteção
-- Poluição da água
-- Águas Subterrâneas
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:279441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279441:por
+  label: "Substituído o quadro relativo às captações designadas por PDR01, PDR02, PDR03, PDR04 e PDR05, do pólo de captação\
+    \ de Praia d'El Rey constantes do anexo iv pela PORT.97/2011.09.03.2011.MAOT, DR.IS [48] de 09.03.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2011-279441
+  date: '2011-03-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
   label: null
@@ -91,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:34Z'
   warnings: []
   errors: []
 ---
@@ -229,55 +247,55 @@ As zonas de protecção intermédia e alargada, respeitantes aos perímetros de 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 10 de Setembro de 2010.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 10 de Setembro de 2010.
 
 ## ANEXO I — Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 ## ANEXO II — Zona de protecção imediata
 
 Captação PDR01
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Captação PDR02
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Captação PDR03
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Captação PDR04
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Captação PDR05
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 ## ANEXO III — Zona de protecção intermédia
 
 Captação PDR02
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Captação PDR04
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 As zonas de protecção intermédia das captações PDR01, PDR02 e PDR05 são delimitadas através de circunferências centradas nas respectivas captações, cujas coordenadas e raios são os indicados no quadro seguinte:
 
 Captações PDR01, PDR03 e PDR05
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 ## ANEXO IV — Zona de protecção alargada
 
 Captações PDR01, PDR02, PDR03, PDR04 e PDR05
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas rectangulares planas, Hayford-Gauss Militar, datum de Lisboa.
 
@@ -289,4 +307,4 @@ Série M888 - 1:25 000 (IGeoE)
 
 Pólo de captação de Praia d'El Rey
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18700/0430104304.pdf)

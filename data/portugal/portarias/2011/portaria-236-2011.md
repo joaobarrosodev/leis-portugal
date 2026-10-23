@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11400/0316603169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/236/2011/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2011-670011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df815cdf8b1b28de41e7de85b47c0dad89f46ec733491610ad2260be363fc9ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36dad1f8d13cd47e8cb0f31b6cce11addfa4085eebc36a9c2d7e173734f92af7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Acção de Formação
 - Acreditação
+- Agência Nacional para a Qualificação
 - Centro de Reconhecimento Validação e Certificação de Competências
-- Formação Profissional
+- Centro Novas Oportunidades
 - Definição de Competências
+- Educação dos Adultos
+- Formação Profissional
 - Formador
 - Iniciativa Novas Oportunidades
-- Agência Nacional para a Qualificação
-- Centro Novas Oportunidades
-- Educação dos Adultos
 - Qualificação Profissional
 - Regulamento
 - Sistema Nacional de Reconhecimento Validação e Certificação de Competências
@@ -88,16 +88,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276436:por
+  label: "Revogada, a partir de 29.03.2013, pela PORT.135-A/2013.28.03.2013.MEE, DR.IS [62-Supl] de 28.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-a-2013-276436
+  date: '2013-03-28'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:22Z'
   warnings: []
   errors: []
 ---
@@ -268,4 +277,4 @@ Com a entrada em vigor da presente portaria, é revogado o despacho n.º 29 856/
 
 A presente portaria produz efeitos a partir de 16 de Maio de 2011.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 25 de Maio de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 24 de Maio de 2011.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 25 de Maio de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 24 de Maio de 2011.

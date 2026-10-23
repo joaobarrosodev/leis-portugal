@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1980-458203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a91a80231b165f557e1ae5315e685a62e086a291a141192e8d7470d88a2cb16e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c2ddac6fd02d1bc3718278b48483395c08d7022c034a45365a6d874d1ff64a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Horário de Trabalho
+- Madeira.região Autónoma
+- Orientador Pedagógico
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461630:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:00Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +109,16 @@ Considerando ainda que a nova legislação sobre a atribuição de funções dos
 
 O Governo Regional, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 364/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1979-370782), de 4 de Setembro, determina:
 
-###### Artigo 1.º É revogado o [Decreto Regulamentar Regional n.º 7/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1980-461630), de 20 de Agosto.
+Artigo 1.º É revogado o [Decreto Regulamentar Regional n.º 7/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1980-461630), de 20 de Agosto.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo Regional em 16 de Outubro de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 3 de Novembro.**
+Assinado em 3 de Novembro.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

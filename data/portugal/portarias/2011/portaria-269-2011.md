@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/269/2011/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-2011-671027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02e31ef2dc53c1b1655ea793432751476cc939940fb59b28d8b184b5ea5c33a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c598281e79ecd0d461b2956df81d17f7ed60e92f3e2fe58c992cf592bacb737b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Saneamento Básico
-- Contrato de Concessão
-- Recursos Hídricos
-- Definição de Competências
-- EPAL
-- Empresa Pública
-- Gestão dos Recursos
-- Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
-- Informação
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Orçamento
-- Proteção do Ambiente
-- Águas Residuais
-- Preço
-- Serviço Público
 - Abastecimento de Água
-- Tratamento de ÁGUA
+- Água
+- Águas Residuais
+- Contrato de Concessão
+- Definição de Competências
+- Empresa Pública
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- EPAL
+- Gestão dos Recursos
+- Informação
+- Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
 - Normalização
+- Orçamento
+- Preço
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saneamento Básico
+- Serviço Público
+- Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:572143:por
@@ -128,16 +128,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1275/2003/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1275/2003/11/07/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572143:por
+  label: "Revogada pela LEI.10/2014.06.03.2014.AR, DR.IS [46] de 06.03.2014, com a entrada em vigor dos regulamentos tarifários\
+    \ previstos no art. 13.º dos Estatutos da ERSAR anexos a esta lei \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2014-572143
+  date: '2014-03-06'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:34Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +244,7 @@ b) Nos quadros de reporte da informação previsional, nos quais cada uma das ac
 
 É revogada a [Portaria n.º 1275/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1275-2003-469038), de 7 de Novembro.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 24 de Agosto de 2011.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 24 de Agosto de 2011.
 
 ## ANEXO
 
@@ -210,7 +252,7 @@ Modelo de reporte da informação previsional a prestar ao concedente, através 
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-# Parte I
+Parte I
 
 Definições
 
@@ -234,7 +276,7 @@ h) «Tarifa proposta» - a tarifa, ou tarifas, que a entidade gestora propõe pa
 
 i) «Tarifa de equilíbrio» - tarifa prevista no contrato de concessão para o período de vigência do orçamento.
 
-# Parte II
+Parte II
 
 Notas explicativas dos quadros
 
@@ -806,7 +848,7 @@ Notas
 
 1 - «Processo [...]» - cada fase da cadeia de valor da empresa relativa a uma determinada área de negócio. Exemplo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf))](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf)
 
 2 - «Total» - nesta coluna devem ser apresentados os gastos totais correspondentes a cada item listado na coluna «Rubricas».
 
@@ -934,7 +976,7 @@ Notas
 
 6 - «Remuneração» - nesta coluna devem ser indicadas as previsões da remuneração em dívida em 31/12/N-1 e da remuneração do ano N.
 
-# Parte III
+Parte III
 
 Quadros
 
@@ -954,4 +996,4 @@ b) As expressões entre parênteses devem ser substituídas pela informação ap
 
 c) As áreas a sombreado não devem ser preenchidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf))](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/18000/0448804514.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06200/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/2022/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-2022-181256579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583ecc6fdc11bdfcb0c7bb5ae37c4fe1dea7734e018a02d932a088b4877dd20e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d4065b999534b3483cbfafabf844f7c71bae3b0534bd06c9cb8b5a66e80d06e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Análise Laboratorial
 - Análises Clínicas
+- Autoridade Nacional de Protecção Civil
 - Cédula Profissional
+- Cuidados Médicos
 - Direção Geral da Saúde
-- Saúde
-- Regulamentação de Atos Legislativos
 - Documentação
+- Doença Infecciosa
 - Entidade Reguladora da Saúde
-- Política de Saúde
+- Epidemia
+- Informação de Saúde
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Laboratório
 - Manual de Boas Práticas
-- Administração Central do Sistema de Saúde
 - Patologia Clínica
-- Doença Infecciosa
-- Epidemia
+- Política de Saúde
 - Prestação de Serviços
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Cuidados Médicos
-- Informação de Saúde
-- Regulamento Interno
-- Seguro Profissional e de Actividade
-- Autoridade Nacional de Protecção Civil
 - Registo Nacional de Utentes
+- Regulamentação de Atos Legislativos
+- Regulamento Interno
+- Saúde
+- Seguro Profissional e de Actividade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
@@ -99,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/392/2019/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/392/2019/11/05/p/dre
+- type: cites
+  target: pt:dre:125874620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148443695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:02Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +173,6 @@ A alteração ao artigo 12.º da [Portaria n.º 392/2019](https://diariodarepubl
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Diogo Luís Batalha Soeiro Serras Lopes, em 25 de março de 2022.**
+O Secretário de Estado da Saúde, Diogo Luís Batalha Soeiro Serras Lopes, em 25 de março de 2022.
+
+115161218

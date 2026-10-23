@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01500/0000400014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/2025/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-2025-904232914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ecceece44f3633597fb42cbdbced54d0d8cd1b9c9913b23440a77b0833ec9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24a46666eb919a98e162e46489cd84fb7e9754cfcfa815a60156887ca2e23ea4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Centro Protocolar de Formação Profissional
-- Homologação
-- Economia Social
-- Confederação Portuguesa de Economia Social
 - Centro de Competências de Envelhecimento Ativo
 - Centro de Competências para a Economia Social
+- Centro Protocolar de Formação Profissional
+- Confederação Portuguesa de Economia Social
+- Economia Social
+- Homologação
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/119/2023/05/11/p/dre
@@ -85,16 +85,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/303/2024/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/303/2024/11/26/p/dre
+- type: cites
+  target: pt:dre:151559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205050314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212905821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897816390:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:302/2022
+  label: Revoga, a partir de 23 de janeiro de 2025, a Portaria n.º 302/2022, de 21 de dezembro, Diário da República n.º 244/2022,
+    Série I
+  source: null
+  date: '2022-12-21'
+- type: repeals
+  target: pt:numero:portaria:119/2023
+  label: Revoga, a partir de 23 de janeiro de 2025, a Portaria n.º 119/2023, de 11 de maio, Diário da República n.º 91/2023,
+    Série I
+  source: null
+  date: '2023-05-11'
+- type: repeals
+  target: pt:numero:portaria:303/2024
+  label: Revoga, a partir de 23 de janeiro de 2025, o n.º 2 do artigo 3.º da Portaria n.º 303/2024/1, de 26 de novembro, Diário
+    da República n.º 229/2024, Série I
+  source: null
+  date: '2024-11-26'
 article_structure:
   article_count: 5
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:21Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +185,11 @@ b) A [Portaria n.º 302/2022](https://diariodarepublica.pt/dr/detalhe/portaria/3
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 16 de janeiro de 2025.**
+O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 16 de janeiro de 2025.
 
 ## ANEXO — Protocolo de Criação do Centro de Competências para a Economia Social
 
-Ao abrigo do disposto na alínea b) do artigo 2.º e nos n.<sup>os</sup>2 e 3 do artigo 10.º do [Decreto-Lei n.º 165/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1985-151559), de 16 de maio, na sua redação atual, entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), adiante designado por primeiro outorgante, e a Confederação Portuguesa de Economia Social (CPES), adiante designada por segundo outorgante, é nesta data celebrado o protocolo que cria o Centro de Competências para a Economia Social (CCES), que se rege pelas cláusulas seguintes:
+Ao abrigo do disposto na alínea b) do artigo 2.º e nos n.os2 e 3 do artigo 10.º do [Decreto-Lei n.º 165/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1985-151559), de 16 de maio, na sua redação atual, entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), adiante designado por primeiro outorgante, e a Confederação Portuguesa de Economia Social (CPES), adiante designada por segundo outorgante, é nesta data celebrado o protocolo que cria o Centro de Competências para a Economia Social (CCES), que se rege pelas cláusulas seguintes:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -534,3 +572,5 @@ Entrada em vigor
 O presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo responsável pela área do trabalho, solidariedade e segurança social ou de quem tiver competência por ele delegada.
 
 Lisboa, 30 de dezembro de 2024. - Pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), Domingos Lopes. - Pela Confederação Portuguesa de Economia Social (CPES): Manuel Augusto Lopes de Lemos - Francisco João Bernardino da Silva.
+
+118581063

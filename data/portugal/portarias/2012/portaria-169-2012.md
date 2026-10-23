@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10100/0276102762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/2012/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-2012-178077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef67ad020ea8dcd7fe8336a224d4bb2891cde254aad332ac70fc01f09b247d24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db1c2fc569745c7e730fb4e73a725172876204bf1e453f2770539d7d6e3660bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Gabinete de Planeamento e Políticas
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:570702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570702:por
+  label: "Integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia as atribuições do\
+    \ Gabinete de Planeamento e Políticas do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território,\
+    \ com orgânica constante do presente diploma, nos domínios do orçamento, da coordenação das atividades e representação\
+    \ no âmbito comunitário e internacional, bem como da aplicação do direito comunitário e de apoio aos processos de pré-contencioso\
+    \ europeu, nas áreas do ambiente e do ordenamento do território, pelo DEC LEI.17/2014.04.02.2014.MAOTE, DR.IS [24] de\
+    \ 04.02.2014, nos termos dos arts. 26º e 27º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2014-570702
+  date: '2014-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/34/2012/03/26/p/dre
   label: null
@@ -91,16 +101,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-j/2007/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-j/2007/02/28/p/dre
+- type: cites
+  target: pt:dre:470051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:57304594:por
+  label: Revogada, a partir de 12.09.2014, pelo(a) Portaria n.º 179-A/2014 - Diário da República n.º 175/2014, 1º Suplemento,
+    Série I de 2014-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-a-2014-57304594
+  date: '2014-09-11'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:36Z'
   warnings: []
   errors: []
 ---
@@ -259,4 +291,4 @@ c) A Portaria n.º 176/2010, de 24 de março.
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de maio de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 10 de abril de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de maio de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 10 de abril de 2012.

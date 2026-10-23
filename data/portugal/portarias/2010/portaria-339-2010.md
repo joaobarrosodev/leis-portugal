@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/339/2010/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-2010-335704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37d010372a085539e530ace4752301367f5726cd62c45cd6d989b529689b6525
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 893c8b71ffeeac9c256a0727fb41c0a04888f7d0269525b025ba1ae607ac2de6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adega Cooperativa
-- Contrato Coletivo de Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:47Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +132,4 @@ b) Às relações de trabalho entre adegas cooperativas e respectivas uniões qu
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de três.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 4 de Junho de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 4 de Junho de 2010.

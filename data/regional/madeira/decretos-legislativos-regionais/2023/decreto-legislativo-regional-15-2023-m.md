@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06900/0002200034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2023/04/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2023-211499218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e0a56b9e3d922b4dde504539cb5848aa4cc47a344bd29e8442dafc0d20d0e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92d13320216b53e22baedeae963b5ee388f0dbac52d81e0b61cd56030bac861c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Autoridade de Gestão
 - Comité de Acompanhamento
-- Governo Regional
 - Definição de Competências
 - Definição de Funções
-- FEDER
-- Instituto de Desenvolvimento Regional
-- Madeira.região Autónoma
-- Instituto de Gestão de Fundos Comunitários
-- Autoridade de Gestão
 - Estratégia Portugal 2030
+- FEDER
 - Fundo Social Europeu Mais
+- Governo Regional
+- Instituto de Desenvolvimento Regional
+- Instituto de Gestão de Fundos Comunitários
+- Madeira.região Autónoma
 relationships:
 - type: cites
   target: celex:32018R1046
@@ -119,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58728920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73908230:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:42Z'
   warnings: []
   errors: []
 ---
@@ -589,10 +621,12 @@ O presente diploma entra em vigor no dia seguinte ao da respetiva publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de março de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 3 de abril de 2023.**
+Assinado em 3 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116340481

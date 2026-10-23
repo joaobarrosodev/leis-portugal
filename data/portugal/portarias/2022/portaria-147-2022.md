@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09400/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/2022/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2022-183478832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c8c60f657eb6a48e600517851ce73a11de440ff646626e33a3fa827717fb8b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12aa32a52e7353a7d2cbc57dfe9f618bd2bbe97313f82e22448fc88f189eb1bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Função Pública
 - Bebida
 - BENS de Consumo
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Saúde
-- Regime Laboral
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
 - Entidade Patronal
-- Saúde Pública
+- Função Pública
+- Funcionário Público
 - Gestão Hospitalar
 - Prestação de Serviços
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
+- Saúde
+- Saúde Pública
 - Serviço de Utilização Comum dos Hospitais
-- Funcionário Público
 - Sindicato
 - Tabela Salarial
 - Trabalhador
@@ -94,16 +94,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:09Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +162,6 @@ Manda o Governo, pelo Secretário de Estado do Trabalho, ao abrigo do artigo 514
 
 2 - As cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de março de 2022.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 9 de maio de 2022.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 9 de maio de 2022.
+
+115315442

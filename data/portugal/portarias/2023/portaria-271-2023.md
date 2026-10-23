@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16700/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/271/2023/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2023-221029892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12492910508897219676a6bda74458964e77eb6195597e61bd6a55f0216ca8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94f93bdc6de6655ce7fe577dee074e2ac05f515bb6bdebc986853bc70660fa5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Vinho
 - Compensação Financeira
-- União Europeia
-- Pagamento
+- Financiamento
 - IFAP
 - Investimento
-- SECA
+- Pagamento
 - Página na Internet
-- Prazo
-- Prorrogação de Prazo
+- Plano Estratégico da Política Agrícola Comum para Portugal
 - Política Agrícola
+- Prazo
+- Produto Vitivinícola
+- Prorrogação de Prazo
 - Regime de Apoio
 - Regime de Apoio à Reconversão e Reestruturação das Vinhas
 - Regulamento CE
-- Produto Vitivinícola
-- Vitivinicultor
+- SECA
+- União Europeia
 - Vinha
-- Plano Estratégico da Política Agrícola Comum para Portugal
+- Vinho
+- Vitivinicultor
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -143,16 +143,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-j/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-j/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:114099655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123183041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124256713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150109609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154200876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180122112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213707001:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:18Z'
   warnings: []
   errors: []
 ---
@@ -251,4 +287,6 @@ As candidaturas aprovadas no âmbito das normas de execução do apoio à reestr
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 23 de agosto de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 23 de agosto de 2023.
+
+116799194

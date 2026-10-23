@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17501/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203-b/2024/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-b-2024-887316996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 514f3623e73528a467b4e114e3113363f486528064560c7fe3a786bb80cf80bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aab6c460fadaa8e48b6224f66a79e60989a34c1b1a4c9717df10ae95458cbe6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Plano de Estudos
 - Curso de Educação
 - Curso de Educação Musical
 - Curso de Formação Musical
-- Ensino Profissional
-- Jovem
-- Estabelecimento de Ensino
-- Qualificação Profissional
+- Ensino Artístico
 - Ensino Básico
+- Ensino Profissional
+- Estabelecimento de Ensino
+- Jovem
+- Plano de Estudos
 - Quadro Nacional de Qualificações
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2012/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2012/09/05/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:24Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ de 10 de setembro
 
 Cria o Curso de Educação e Formação de Jovens na Área da Música
 
-O [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>70/2021, de 3 de agosto, e 62/2023, de 25 de julho, estabelece o currículo dos ensinos básico e secundário, os princípios orientadores da sua conceção, operacionalização e avaliação das aprendizagens, de modo a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+O [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.os70/2021, de 3 de agosto, e 62/2023, de 25 de julho, estabelece o currículo dos ensinos básico e secundário, os princípios orientadores da sua conceção, operacionalização e avaliação das aprendizagens, de modo a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
 
 Nos termos do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, na sua redação atual, são ofertas educativas do ensino básico, o ensino básico geral e os cursos artísticos especializados.
 
@@ -357,7 +369,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 5 de setembro de 2024.
 
-**O Secretário de Estado Adjunto e da Educação, Manuel Alexandre Mateus Homem Cristo. - O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira.**
+O Secretário de Estado Adjunto e da Educação, Manuel Alexandre Mateus Homem Cristo. - O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira.
 
 ## ANEXO I — Matriz curricular-base
 
@@ -367,36 +379,36 @@ Em 5 de setembro de 2024.
 
 CEFJAM - Curso de Educação e Formação de Jovens na Área da Música
 
-|  |  | Total de horas ciclo (a) |
+|  | Total de horas ciclo (a) |  |
 | --- | --- | --- |
-| Componente de formação sociocultural | Componente de formação sociocultural |  |
-| Português | Português | 330 |
-| Línguas Estrangeiras | Línguas Estrangeiras | 385 |
+| Componente de formação sociocultural |  |  |
+| Português | 330 |  |
+| Línguas Estrangeiras | 385 |  |
 |  | Inglês | 220 |
 |  | Língua Estrangeira II | 165 |
-| Ciências Sociais e Humanas | Ciências Sociais e Humanas | 412 |
+| Ciências Sociais e Humanas | 412 |  |
 |  | História | 165 |
 |  | Geografia | 165 |
 |  | Cidadania e Desenvolvimento | 82 |
-| Matemática | Matemática | 330 |
-| Ciências Físicas e Naturais | Ciências Físicas e Naturais | 358 |
+| Matemática | 330 |  |
+| Ciências Físicas e Naturais | 358 |  |
 |  | Ciências Naturais | 165 |
 |  | Físico-Química | 193 |
-| Educação Física | Educação Física | 165 |
-| Total componente de formação sociocultural | Total componente de formação sociocultural | 1 980 |
-| Componente de formação científica | Componente de formação científica |  |
-| Tecnologias da Música (b) | Tecnologias da Música (b) | 16 |
-| Formação Musical e Auditiva | Formação Musical e Auditiva | 187 |
-| Introdução à Composição (b) | Introdução à Composição (b) | 17 |
-| Total componente de formação científica | Total componente de formação científica | 220 |
-| Componente de formação técnico-artística | Componente de formação técnico-artística |  |
-| Instrumento | Instrumento | 208 |
-| Prática de Conjunto | Prática de Conjunto | 297 |
-| Prática individual e de Naipe | Prática individual e de Naipe | 165 |
-| Total componente de formação técnico-artística | Total componente de formação técnico-artística | 670 |
-| Projetos de Prática Artística (PPA) | Projetos de Prática Artística (PPA) | 70 |
-| Educação Moral e Religiosa (c) | Educação Moral e Religiosa (c) |  |
-| Total | Total | 2 940 |
+| Educação Física | 165 |  |
+| Total componente de formação sociocultural | 1 980 |  |
+| Componente de formação científica |  |  |
+| Tecnologias da Música (b) | 16 |  |
+| Formação Musical e Auditiva | 187 |  |
+| Introdução à Composição (b) | 17 |  |
+| Total componente de formação científica | 220 |  |
+| Componente de formação técnico-artística |  |  |
+| Instrumento | 208 |  |
+| Prática de Conjunto | 297 |  |
+| Prática individual e de Naipe | 165 |  |
+| Total componente de formação técnico-artística | 670 |  |
+| Projetos de Prática Artística (PPA) | 70 |  |
+| Educação Moral e Religiosa (c) |  |  |
+| Total | 2 940 |  |
 
 (a) A carga horária indicada constitui uma referência apenas para a componente de formação sociocultural.
 
@@ -408,12 +420,17 @@ CEFJAM - Curso de Educação e Formação de Jovens na Área da Música
 
 (a que se refere o n.º 5 do artigo 11.º)
 
-![](https://dre.pt/application/file/887177059)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/887177059) |
+| --- |
 
-![](https://dre.pt/application/file/887177060)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/887177060) |
+| --- |
 
 ## ANEXO III — Modelo de diploma
 
 (a que se refere o n.º 5 do artigo 11.º)
 
-![](https://dre.pt/application/file/887177061)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/887177061) |
+| --- |
+
+118099138

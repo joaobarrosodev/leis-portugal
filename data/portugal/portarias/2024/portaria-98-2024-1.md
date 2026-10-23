@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05100/0003200034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/2024/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2024-855197515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ee56426587933cb8de341753acc774b2bdd475f1162cffd7fbb15a0fdc40b47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a86d2e286c523cdd8b7c794f28e2bbb96ea8b329b5ac8efd64c616123e7db1de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
+- Certificação Ambiental
 - Direção Geral de Agricultura e Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
+- Diversidade Biológica
 - Ecologia
+- Efeito de Estufa
+- Exploração Agrícola
 - Exploração Pecuária
 - Gado Bovino
-- Exploração Agrícola
 - Proteção do Ambiente
-- Diversidade Biológica
-- Certificação Ambiental
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:63-A/2023
+  label: Altera, a partir de 13 de março de 2024, com efeitos a 1 de janeiro de 2024, os artigos 1.º, 2.º, 5.º e 7.º da Portaria
+    n.º 63-A/2023, de 2 de março, Diário da República n.º 44/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-03-02'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -103,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/80-c/2024/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/80-c/2024/03/04/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208129026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130987:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:45Z'
   warnings: []
   errors: []
 ---
@@ -209,4 +235,6 @@ e) [Anterior alínea d).]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de março de 2024.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de março de 2024.
+
+117452944

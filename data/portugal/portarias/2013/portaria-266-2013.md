@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/266/2013/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-2013-499231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97a657cb28088ff09060142e5d504dbea2e6533f305935ed30d52471e7ceb53c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4892e5d2b068dd65df463582c947f2d6f02dd80edba4b84c332e7e8402762131
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,25 @@ subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Aprendizagem Profissional
 - Autonomia Pedagógica
-- Formação Profissional
 - Colégio de são Miguel
-- Plano de Estudos
 - Curso Tecnológico do Ensino Secundario
 - Direcção Geral da Educação
 - Ensino Particular
 - Ensino Profissional
+- Ensino Secundário
 - Ensino Tecnológico
 - Fátima
-- Ensino Secundário
+- Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:107785477:por
+  label: Prorrogado por mais um ciclo de estudos, a iniciar no ano letivo de 2017/2018, o funcionamento, no Colégio São Miguel
+    de Fátima, dos cursos Científico-Tecnológicos de nível secundário de educação com planos próprios, criados pela presente
+    portaria, pelo(a) Portaria n.º 239/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2017-107785477
+  date: '2017-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -90,16 +97,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124220742:por
+  label: Revogada pelo(a) Portaria n.º 270/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27, nos termos do art.
+    48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2019-124220742
+  date: '2019-08-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:28Z'
   warnings: []
   errors: []
 ---
@@ -382,16 +407,16 @@ c) No ano letivo de 2015/2016 no 12.º ano de escolaridade.
 
 É revogada a Portaria n.º 816/2009, de 28 de julho, de acordo com o calendário de produção de efeitos definido no artigo 15.º do presente diploma.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.
 
 ## ANEXO I — Curso Científico-Tecnológico de Design, Cerâmica e Escultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)
 
 ## ANEXO II — Curso Científico-Tecnológico de Contabilidade e Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)
 
 ## ANEXO III — Curso Científico-Tecnológico de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0490804913.pdf)

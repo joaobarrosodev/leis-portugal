@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01000/0042600436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2017/01/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2017-105758426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31499deb35869d805a0dbdb8ebace73d1a9d084ac541c16b588a7107f23242ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85d243b29e0b2ed0b5fdb5074052b9bd15c9d8e3c8d394e2a1623a37819ab4e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Armazenagem
-- Região Autónoma
 - Contra-ordenação
 - Direcção Regional de Agricultura
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
-- OVO
+- Indústria Alimentar
 - Madeira.região Autónoma
+- OVO
+- Produção Animal
+- Produto Animal
+- Região Autónoma
 - Regulamento
 - Regulamento CE
-- Indústria Alimentar
-- Produto Animal
 - Transporte
 relationships:
 - type: cites
@@ -158,6 +158,26 @@ relationships:
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31989L0662
   label: null
@@ -165,13 +185,13 @@ relationships:
 article_structure:
   article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:07Z'
   warnings: []
   errors: []
 ---
@@ -714,10 +734,10 @@ O presente Decreto Legislativo Regional entra em vigor noventa dias após a da d
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de dezembro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 28 de dezembro de 2016.**
+Assinado em 28 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

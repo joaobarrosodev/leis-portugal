@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0013200134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/452/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a26b9a79713765ba7daef8960d4fa267ae8db5b87c733f894a69e116725459ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60f2a37cd6f9ba683fde48eb9af3b060f7aa17bb52e7db984df58221a8854efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cunhagem de Moeda
-- Regulamentação de Atos Legislativos
 - Imprensa Nacional-Casa da Moeda
 - Moeda Comemorativa
 - Numismática
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:117/2023
+  label: Altera, a partir de 27 de dezembro de 2023, os artigos 1.º, 2.º, 3.º, 4.º ´e revoga a alínea h) do artigo 1.º, a
+    alínea h) do n.º 1 do artigo 2.º, o n.º 6 do artigo 3.º e a alínea h) do artigo 4.º da Portaria n.º 117/2023 de 10 de
+    maio Diário da República n.º 90/2023 Série I
+  source: null
+  date: '2023-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
   label: null
@@ -81,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/117/2023/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/117/2023/05/10/p/dre
+- type: cites
+  target: pt:dre:208087600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212837359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:22Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +162,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -181,7 +202,9 @@ j) [...]
 
 8 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +242,9 @@ c) [...]
 
 8 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -251,4 +276,6 @@ São revogados a alínea h) do artigo 1.º, a alínea h) do n.º 1 do artigo 2.�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 19 de dezembro de 2023.**
+O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 19 de dezembro de 2023.
+
+117186487

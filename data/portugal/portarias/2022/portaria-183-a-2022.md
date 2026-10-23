@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 139/2022, 1º Suplemento, Série I de 2022-07-20
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 50-(2) a 50-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13901/0000200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183-a/2022/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-a-2022-186362067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da198a55253a000a9cc6c9182c5ff85bccb90c00f9e23d16f47cb1c32682491e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd28185adcc5129e468691eed98f3ac60be2b351d8294ce344f4bcec4081177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,19 @@ subjects:
 - Comissão Nacional de Acesso ao Ensino Superior
 - Concurso de Ingresso
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Geral do Ensino Superior
 - Diretor Geral
 - Emigrante
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Estudante
 - Formulário Eletrónico
-- Publicitação
-- Direção Geral do Ensino Superior
-- Página na Internet
-- Estabelecimento de Ensino
-- Regulamento
-- Ensino Superior
 - Matrícula
+- Página na Internet
+- Publicitação
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -125,16 +125,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:105322292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136237681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:27Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +255,7 @@ Ao abrigo do artigo 30.º do [Decreto-Lei n.º 296-A/98](https://diariodarepubli
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 19 de julho de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 19 de julho de 2022.
 
 REGULAMENTO GERAL DOS CONCURSOS INSTITUCIONAIS PARA INGRESSO NOS CURSOS MINISTRADOS EM ESTABELECIMENTOS DE ENSINO SUPERIOR PRIVADO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LETIVO DE 2022-2023
 
@@ -650,3 +742,5 @@ A informação relevante acerca do acesso e ingresso no ensino superior privado 
 ###### Artigo 36.º — Orientações
 
 A DGES ou a CNAES, conforme os casos, expedem as orientações que se revelem necessárias à uniforme execução do presente Regulamento.
+
+115530262

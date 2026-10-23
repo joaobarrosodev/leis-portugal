@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2022/06/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2022-185043376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6840e9b13651c1c28e767e70ba06a78f176e18983e51cefdbd196e95e7f55c37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60d30bfc16fb2b85952c8f112a92c9b04ca5b3b2d9daf2f91598b52a23a510ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,25 @@ reuse:
 subjects:
 - Acção de Formação
 - Acreditação
-- Armazenagem
-- Contra-ordenação
-- Definição de Competências
-- Direito Comunitário
-- Fiscalização
-- Direção Regional de Agricultura e Desenvolvimento Rural
-- Circulação de Mercadorias
-- Exploração Agrícola
-- Página na Internet
-- Prestação de Serviços
-- Exploração Florestal
-- Madeira.região Autónoma
-- Regulamento CE
-- Produto Fitofarmacêutico
 - Agricultura
-- Venda
-- Plataforma Eletrónica
-- Secretaria Regional da Agricultura e Desenvolvimento Rural
+- Armazenagem
+- Circulação de Mercadorias
+- Contra-ordenação
 - Contraordenação Económica
+- Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
+- Direito Comunitário
+- Exploração Agrícola
+- Exploração Florestal
+- Fiscalização
+- Madeira.região Autónoma
+- Página na Internet
+- Plataforma Eletrónica
+- Prestação de Serviços
+- Produto Fitofarmacêutico
+- Regulamento CE
+- Secretaria Regional da Agricultura e Desenvolvimento Rural
+- Venda
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -150,6 +150,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: cites
+  target: pt:dre:121579602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144010960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
@@ -164,14 +260,14 @@ relationships:
   source: null
 article_structure:
   article_count: 83
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:34Z'
   warnings: []
   errors: []
 ---
@@ -1572,17 +1668,17 @@ O presente decreto legislativo regional entra em vigor 30 dias após a data da s
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de maio de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 13 de junho de 2022.**
+Assinado em 13 de junho de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Requisitos mínimos das instalações
 
-# Parte A
+Parte A
 
 Requisitos mínimos exigidos para as instalações de empresa distribuidora e ou de estabelecimento de venda
 
@@ -1644,7 +1740,7 @@ O armazém deve ocupar um espaço independente, exclusivamente destinado para o 
 
 A entrada do operador para o local de venda poderá ser efetuada através de uma porta existente no próprio balcão, ou através de uma porta de ligação com a loja dos outros fatores de produção agrícola; no caso de existir a saída de emergência, preferencialmente, deve ter acesso direto para o exterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf))](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf)
 
 5 - Condições de armazenamento dos produtos fitofarmacêuticos - condições gerais:
 
@@ -1700,7 +1796,7 @@ ii) «Proibida a entrada a pessoas não autorizadas»; e
 
 iii) «Proibido fumar e foguear».
 
-# Parte B
+Parte B
 
 Requisitos exigidos às instalações de armazenamento de produtos fitofarmacêuticos nas explorações agrícolas ou florestais
 
@@ -1756,7 +1852,7 @@ c) Dispor de bacia de retenção interna ou externa;
 
 d) Dispor de portas com sistema de fechadura que impeçam o acesso a pessoas não autorizadas.
 
-# Parte C
+Parte C
 
 Requisitos mínimos exigidos para as instalações de empresa/entidade de aplicação terrestre de produtos fitofarmacêuticos
 
@@ -1798,7 +1894,7 @@ h) O armazém deve ser exclusivo para os produtos fitofarmacêuticos.
 
 Esquema 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf))](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/11900/0000900064.pdf)
 
 4 - Condições de armazenamento dos produtos fitofarmacêuticos - condições gerais:
 
@@ -1998,7 +2094,9 @@ j) Ventilador - no equipamento de pulverização assistida por ar o ventilador d
 
 4 - O cumprimento dos requisitos de inspeção estabelecidos no boletim técnico é aplicável à inspeção de pulverizadores e de outros equipamentos de aplicação de produtos fitofarmacêuticos e pressupõe a conformidade com as especificações técnicas de inspeção referidas nos números anteriores.
 
-## ANEXO V — Parte A
+## ANEXO V
+
+## Parte A
 
 Enquadramento, requisitos e especificações técnicas a observar na elaboração do Plano de Aplicação Aérea
 
@@ -2048,7 +2146,7 @@ ii) Caraterísticas das aeronaves previstas a utilizar;
 
 iii) Caraterísticas do equipamento de aplicação aérea a utilizar.
 
-# Parte B
+Parte B
 
 Informação a observar no pedido de aplicação aérea
 
@@ -2076,7 +2174,7 @@ Informação a observar no pedido de aplicação aérea
 
 12 - Programação de trabalho relativo aos tratamentos fitossanitários a realizar.
 
-# Parte C
+Parte C
 
 Informação a observar no pedido de aplicação aérea para situações de emergência ou adversas, a que se referem os n.os 7 a 10 do artigo 39.º
 
@@ -2132,7 +2230,7 @@ ii) Caraterísticas das aeronaves previstas a utilizar;
 
 iii) Caraterísticas do equipamento de aplicação aérea a utilizar.
 
-# Parte D
+Parte D
 
 Requisitos a observar no registo das aplicações aéreas
 
@@ -2163,3 +2261,5 @@ k) Número de horas de voo por dia;
 l) Informação sobre a aeronave;
 
 m) Alterações ao pedido efetuado, por impossibilidades técnicas ou meteorológicas.
+
+115424485

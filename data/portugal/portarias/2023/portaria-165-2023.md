@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/165/2023/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/165-2023-214618954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd1e9dd2c8e1594110d0568e835755b4831c6725b8d4647f836a26e16365ebb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d86c954bca1cdb1cf503b5aa41ac20ca0e87422144056fe1725a33d192494482
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
 - Centro Tecnológico
 - Definição de Competências
+- Investigação Científica e Tecnológica
 - Matosinhos
 - Porto de Leixões
 - Regulamento
@@ -129,20 +129,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
+- type: cites
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168697990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0053
   label: null
   source: null
 article_structure:
   article_count: 24
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:38Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +217,7 @@ Assim, ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 67/2021](https://
 
 3 - A ZLT de Matosinhos, que inclui a zona do Porto de Leixões e a faixa marginal do domínio público marítimo, encontra-se delimitada pelo polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-1, cujos vértices têm as coordenadas previstas na tabela seguinte (segundo o sistema WGS84):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf)
 
 4 - O respetivo funcionamento encontra-se estabelecido no Regulamento anexo à presente portaria, da qual faz parte integrante.
 
@@ -177,7 +225,7 @@ Assim, ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 67/2021](https://
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 8 de junho de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 16 de junho de 2023. - O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 29 de maio de 2023.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 8 de junho de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 16 de junho de 2023. - O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 29 de maio de 2023.
 
 ## ANEXO
 
@@ -185,7 +233,7 @@ Regulamento da Zona Livre Tecnológica «ZLT Matosinhos»
 
 Índice
 
-### Capítulo I - Zona Livre Tecnológica (ZLT)
+Capítulo I - Zona Livre Tecnológica (ZLT)
 
 Definição
 
@@ -201,7 +249,7 @@ Potencialidades da ZLT
 
 Entidades competentes para efeitos de coordenação
 
-### Capítulo II - Entidade gestora
+Capítulo II - Entidade gestora
 
 Entidade gestora
 
@@ -209,7 +257,7 @@ Competências e obrigações da Entidade Gestora
 
 Coordenação com entidades competentes
 
-### Capítulo III - Promotores
+Capítulo III - Promotores
 
 Promotores de testes
 
@@ -217,7 +265,7 @@ Obrigações dos promotores
 
 Requisitos de elegibilidade dos promotores
 
-### Capítulo IV - Condições de acesso à ZLT
+Capítulo IV - Condições de acesso à ZLT
 
 Condições para a submissão de testes
 
@@ -229,7 +277,7 @@ Condições financeiras para acesso à ZLT
 
 Responsabilidade civil
 
-### Capítulo V - Outros aspetos
+Capítulo V - Outros aspetos
 
 Diplomas de criação da ZLT
 
@@ -241,13 +289,13 @@ Entrada em vigor
 
 Anexos
 
-## Anexo A - Autoridade da Mobilidade e dos Transportes (AMT)
+Anexo A - Autoridade da Mobilidade e dos Transportes (AMT)
 
-## Anexo B - Autoridade Nacional de Comunicações (ANACOM)
+Anexo B - Autoridade Nacional de Comunicações (ANACOM)
 
-## Anexo C - Autoridade Nacional de Segurança Rodoviária (ANSR)
+Anexo C - Autoridade Nacional de Segurança Rodoviária (ANSR)
 
-## Anexo D - Instituto da Mobilidade e dos Transportes, I. P. (IMT)
+Anexo D - Instituto da Mobilidade e dos Transportes, I. P. (IMT)
 
 ### CAPÍTULO I — Zona Livre Tecnológica (ZLT)
 
@@ -319,7 +367,7 @@ h) Quadro regulatório adaptado com o envolvimento das entidades reguladoras com
 
 1 - A ZLT de Matosinhos é um espaço delimitado geograficamente no município de Matosinhos, de acordo com a tabela e o mapa seguintes (WGS84):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11900/0000200022.pdf)
 
 2 - Este espaço integra a zona do Porto de Leixões, incluindo a faixa marginal do domínio público marítimo que incorpora a área de jurisdição da APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A., de acordo com o acordo de colaboração estabelecido entre o CEiiA, enquanto entidade gestora da ZLT e a APDL.
 
@@ -830,3 +878,5 @@ Relativamente aos testes que envolvam veículos em via pública, devem os mesmos
 [Regulamento (UE) 2018/858](https://diariodarepublica.pt/application/external/eurolex?18R0858), de 30 de maio de 2018, relativo à homologação e à fiscalização do mercado dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas;
 
 [Regulamento (UE) n.º 168/2013](https://diariodarepublica.pt/application/external/eurolex?13R0168), de 15 de janeiro de 2013, relativo à homologação e fiscalização do mercado dos veículos de duas ou três rodas e dos quadriciclos.
+
+116584113

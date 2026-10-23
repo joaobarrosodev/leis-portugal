@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07702/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/199-a/2025/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f86fa1047f5b4b5f238bff532776d8d7d64832a2ca878b593e5fe02200539b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f34fe3bfaea4936307c1ebf2c0937cb5c9313b9c34c0a52b217adda10aa6a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,21 @@ reuse:
 subjects:
 - Desenvolvimento Rural
 - Ordenamento do Território
-- REDE Rural Nacional
 - Página na Internet
-- Política de Produção Agrícola
-- Produção Agrícola
-- Regulamento CE
 - PDR 2020
 - Plataforma Eletrónica
+- Política de Produção Agrícola
+- Produção Agrícola
+- REDE Rural Nacional
+- Regulamento CE
 relationships:
+- type: amends
+  target: pt:numero:portaria:324/2015
+  label: Altera, a partir de 22 de abril de 2025, com efeitos a 17 de abril de 2025, os artigos 1.º, 2.º, 3.º, 4.º, 5.º e
+    6.º e os Anexos I e II da Portaria n.º 324/2015, de 1 de outubro, Diário da República n.º 192/2015, Série I, e procede
+    à sua republicação
+  source: null
+  date: '2015-10-01'
 - type: cites
   target: celex:32013R1305
   label: null
@@ -105,16 +112,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2020/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2020/10/13/p/dre
+- type: cites
+  target: pt:dre:105340330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171183637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:20Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +188,9 @@ d) Apoios previstos nas intervenções C.5.1 - Grupos operacionais para a inova�
 
 2 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -173,13 +202,17 @@ c) [...]
 
 d) Preparar a constituição de Grupos Operacionais para o apoio previsto nas intervenções C.5.1 - Grupos operacionais para a inovação, do PEPAC no Continente, E.14.1 - Cooperação para a Inovação, do PEPAC na RA Açores, e F.9.1 - Grupos Operacionais, do PEPAC na RA Madeira.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A equipa de apoio técnico da Rede Nacional da PAC (RNPAC) é responsável por assegurar a gestão dos procedimentos relacionados com o funcionamento da plataforma eletrónica da Bolsa de Iniciativas e outros que se considerem necessários no âmbito da organização da informação e comunicação.
 
 2 - O envio de notificações é efetuado por via eletrónica para o endereço de email indicado na Bolsa de Iniciativas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RNPAC em https://www.rederural.gov.pt.
 
@@ -205,7 +238,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +274,9 @@ b) Não se verifique a sobreposição de outras iniciativas.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -273,26 +310,28 @@ Prioridades e domínios temáticos para a inovação no âmbito da Política de 
 
 5.ª Prioridade: Outros domínios temáticos previstos nas iniciativas emblemáticas da Agenda de Inovação 2030
 
-## ANEXO II — Critérios de apreciação das iniciativas
+ANEXO II
+
+Critérios de apreciação das iniciativas
 
 [a que se refere a alínea d) do n.º 2 do artigo 5.º]
 
 | Critérios de Apreciação | Clareza | Enquadramento | Coerência |
 | --- | --- | --- | --- |
 | a) Identificação do problema ou oportunidade que a iniciativa se propõe abordar | √ | √ |  |
-| b) Descrição da situação de partida relativa ao problema ou oportunidade objeto da iniciativa (<sup>1</sup>) | √ |  |  |
+| b) Descrição da situação de partida relativa ao problema ou oportunidade objeto da iniciativa (1) | √ |  |  |
 | c) Objetivos visados | √ | √ | √ |
 | d) Identificação das principais fases de desenvolvimento do plano de ação explicitando a respetiva duração e o contributo de cada parceiro | √ |  | √ |
 | e) Descrição do método de abordagem a utilizar para a resolução do problema ou aproveitamento da oportunidade | √ |  |  |
-| f) Identificação da tipologia de resultados a atingir (<sup>2</sup>) | √ | √ | √ |
+| f) Identificação da tipologia de resultados a atingir (2) | √ | √ | √ |
 | g) Identificação dos potenciais destinatários | √ | √ |  |
-| h) Descrição dos processos de demonstração, divulgação, disseminação e capacitação previstos (<sup>3</sup>) | √ | √ | √ |
+| h) Descrição dos processos de demonstração, divulgação, disseminação e capacitação previstos (3) | √ | √ | √ |
 
-(<sup>1</sup>) A situação de partida retrata o conhecimento existente face ao problema ou oportunidade que a iniciativa aborda, e à qual se propõe acrescentar conhecimento com potencial de inovação. Identificar projetos já anteriormente desenvolvidos que abordem o mesmo problema ou oportunidade.
+(1) A situação de partida retrata o conhecimento existente face ao problema ou oportunidade que a iniciativa aborda, e à qual se propõe acrescentar conhecimento com potencial de inovação. Identificar projetos já anteriormente desenvolvidos que abordem o mesmo problema ou oportunidade.
 
-(<sup>2</sup>) O tipo de resultados a atingir deve ser orientado pela natureza concreta do problema ou oportunidade, ou seja, pela aplicação na prática produtiva, não se coadunando com uma tipologia de resultados estrita de processos de investigação.
+(2) O tipo de resultados a atingir deve ser orientado pela natureza concreta do problema ou oportunidade, ou seja, pela aplicação na prática produtiva, não se coadunando com uma tipologia de resultados estrita de processos de investigação.
 
-(<sup>3</sup>) A disseminação de resultados e a transferência de conhecimento junto dos potenciais destinatários da iniciativa, princípios basilares da Estratégia Europeia para a Inovação para a produtividade e sustentabilidade da Agricultura (PEI AGRI) e do Sistema de Conhecimento e Inovação para a Agricultura (AKIS) deve assentar em processos que potenciem a aplicação prática dos resultados da iniciativa e a capacitação dos agentes do setor.»
+(3) A disseminação de resultados e a transferência de conhecimento junto dos potenciais destinatários da iniciativa, princípios basilares da Estratégia Europeia para a Inovação para a produtividade e sustentabilidade da Agricultura (PEI AGRI) e do Sistema de Conhecimento e Inovação para a Agricultura (AKIS) deve assentar em processos que potenciem a aplicação prática dos resultados da iniciativa e a capacitação dos agentes do setor.»
 
 ###### Artigo 4.º — Entrada em vigor e produção de efeitos
 
@@ -302,7 +341,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação, produ
 
 A [Portaria n.º 324/2015](https://diariodarepublica.pt/dr/detalhe/portaria/324-2015-70423678), de 1 de outubro, na sua redação atual, é republicada em anexo à presente portaria.
 
-**O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 17 de abril de 2025.**
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 17 de abril de 2025.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -485,16 +524,20 @@ Melhoria da inserção dos bens e serviços agrícolas e florestais na valoriza�
 | Critérios de Apreciação | Clareza | Enquadramento | Coerência |
 | --- | --- | --- | --- |
 | a) Identificação do problema ou oportunidade que a iniciativa se propõe abordar | √ | √ |  |
-| b) Descrição da situação de partida relativa ao problema ou oportunidade objeto da iniciativa (<sup>1</sup>) | √ |  |  |
+| b) Descrição da situação de partida relativa ao problema ou oportunidade objeto da iniciativa (1) | √ |  |  |
 | c) Objetivos visados | √ | √ | √ |
 | d) Identificação das principais fases de desenvolvimento do plano de ação explicitando a respetiva duração e o contributo de cada parceiro | √ |  | √ |
 | e) Descrição do método de abordagem a utilizar para a resolução do problema ou aproveitamento da oportunidade | √ |  |  |
-| f) Identificação da tipologia de resultados a atingir (<sup>2</sup>) | √ | √ | √ |
+| f) Identificação da tipologia de resultados a atingir (2) | √ | √ | √ |
 | g) Identificação dos potenciais destinatários | √ | √ |  |
-| h) Descrição dos processos de demonstração, divulgação, disseminação e capacitação previstos (<sup>3</sup>) | √ | √ | √ |
+| h) Descrição dos processos de demonstração, divulgação, disseminação e capacitação previstos (3) | √ | √ | √ |
 
-(<sup>1</sup>) A situação de partida retrata o conhecimento existente face ao problema ou oportunidade que a iniciativa aborda, e à qual se propõe acrescentar conhecimento com potencial de inovação. Identificar projetos já anteriormente desenvolvidos que abordem o mesmo problema ou oportunidade.
+(1) A situação de partida retrata o conhecimento existente face ao problema ou oportunidade que a iniciativa aborda, e à qual se propõe acrescentar conhecimento com potencial de inovação. Identificar projetos já anteriormente desenvolvidos que abordem o mesmo problema ou oportunidade.
 
-(<sup>2</sup>) O tipo de resultados a atingir deve ser orientado pela natureza concreta do problema ou oportunidade, ou seja, pela aplicação na prática produtiva, não se coadunando com uma tipologia de resultados estrita de processos de investigação.
+(2) O tipo de resultados a atingir deve ser orientado pela natureza concreta do problema ou oportunidade, ou seja, pela aplicação na prática produtiva, não se coadunando com uma tipologia de resultados estrita de processos de investigação.
 
-(<sup>3</sup>) A disseminação de resultados e a transferência de conhecimento junto dos potenciais destinatários da iniciativa, princípios basilares da Estratégia Europeia para a Inovação para a produtividade e sustentabilidade da Agricultura (PEI AGRI) e do Sistema de Conhecimento e Inovação para a Agricultura (AKIS) deve assentar em processos que potenciem a aplicação prática dos resultados da iniciativa e a capacitação dos agentes do setor.
+(3) A disseminação de resultados e a transferência de conhecimento junto dos potenciais destinatários da iniciativa, princípios basilares da Estratégia Europeia para a Inovação para a produtividade e sustentabilidade da Agricultura (PEI AGRI) e do Sistema de Conhecimento e Inovação para a Agricultura (AKIS) deve assentar em processos que potenciem a aplicação prática dos resultados da iniciativa e a capacitação dos agentes do setor.
+
+118966202
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl9 { min-height:27px; }

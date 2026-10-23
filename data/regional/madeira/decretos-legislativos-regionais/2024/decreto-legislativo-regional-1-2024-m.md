@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02000/0019500197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2024/01/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2024-839477390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c1a813b07cae38351f7817e139a96088c1d3605fd04a99f471b9c57565221ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53182a015f031ea03de2ba83649c8049d29d0984c581e942e9e90764492c4487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Crédito à Habitação
+- EPERAM
+- Financiamento
+- Instituto de Segurança Social da Madeira
 - Insuficiência Económica
 - Madeira.região Autónoma
 - Prédio Urbano
-- Subsídio não Reembolsável
-- TAXA Euribor
-- Instituto de Segurança Social da Madeira
 - Programa de Apoio às Famílias com Crédito à Habitação
 - REEQUILIBRAR
-- EPERAM
+- Subsídio não Reembolsável
+- TAXA Euribor
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:1/2023/M
+  label: Altera, a partir de 30 de janeiro de 2024, produzindo os seus efeitos de acordo com o disposto no n.º 1 do artigo
+    3.º do presente diploma, os artigos 7.º, 8.º e 10.º do Decreto Legislativo Regional n.º 1/2023/M, de 3 de janeiro, Diário
+    da República n.º 2/2023, Série I
+  source: null
+  date: '2023-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2023/01/03/m/dre
   label: null
@@ -94,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:205644589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:49Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +179,9 @@ São alterados os artigos 7.º, 8.º e 10.º do [Decreto Legislativo Regional n.
 
 7 - A TE a que se refere a alínea a) do n.º 4 pode ser atualizada por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -178,7 +203,9 @@ d) [...]
 
 6 - A TE a que se refere a alínea c) do número anterior pode ser atualizada por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A entidade gestora procede a monitorizações periódicas para reavaliação dos pressupostos da atribuição do apoio, nos termos da regulamentação do presente diploma.
 
@@ -196,10 +223,12 @@ d) [...]
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de janeiro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 24 de janeiro de 2024.**
+Assinado em 24 de janeiro de 2024.
 
-**Publique-se**
+Publique-se
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+117285882

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1980-461630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36deb41d0113d673d245a4c8a5e01c632271d5dfb89c82dbe016ef8989b58ed4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 440e87b5225efdbde9efd5382bfb0472ff037eacf5fb6ff658972224ba3ca223
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Horário de Trabalho
+- Madeira.região Autónoma
+- Orientador Pedagógico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:458203:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:03Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Considerando, ainda, que, em alguns grupos, subgrupos ou disciplinas, o número 
 
 O Governo Regional, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, do n.º 1 do artigo 7.º do [Decreto-Lei n.º 364/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1979-370782), de 4 de Setembro, e do artigo 56.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, determina:
 
-###### Artigo 1.º Os orientadores pedagógicos só deixarão de ter horário lectivo quando o número de docentes a profissionalizar no respectivo grupo, subgrupo ou disciplina for igual ou superior a sete.
+Artigo 1.º Os orientadores pedagógicos só deixarão de ter horário lectivo quando o número de docentes a profissionalizar no respectivo grupo, subgrupo ou disciplina for igual ou superior a sete.
 
-###### Art. 2.º Quando o número de docentes a profissionalizar em determinado grupo, subgrupo ou disciplina for inferior a sete, o número de turmas a atribuir a cada orientador pedagógico processar-se-á do seguinte modo:
+Art. 2.º Quando o número de docentes a profissionalizar em determinado grupo, subgrupo ou disciplina for inferior a sete, o número de turmas a atribuir a cada orientador pedagógico processar-se-á do seguinte modo:
 
 Seis ou cinco profissionalizandos - uma turma.
 
@@ -106,14 +122,14 @@ Quatro ou três profissionalizandos - duas turmas.
 
 Dois ou um profissionalizando(s) - três turmas.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo da Região Autónoma da Madeira em 8 de Maio de 1980.
 
-**O Presidente do Governo Regional, em exercício, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente do Governo Regional, em exercício, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 30 de Junho de 1980.**
+Assinado em 30 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

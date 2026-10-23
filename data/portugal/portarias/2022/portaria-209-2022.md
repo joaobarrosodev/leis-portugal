@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16200/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/2022/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2022-200139609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de43e5b44bab2f1b19d10257468470f2935a8868dfa4040e9a24609aa5f96b11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0dfa464077eab735865a14a69a3235481a839e462b86c8e110519cf64839a61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
+- Comité Olímpico Português
 - Comité Paraolímpico de Portugal
 - Confederação do Desporto de Portugal
 - Desporto Profissional
 - Federação Desportiva
+- Imposto Especial de Jogo Online
 - Instituto de Turismo de Portugal
 - Instituto Português do Desporto e Juventude
-- Transferência de Verbas
-- Comité Olímpico Português
-- Utilidade Pública Desportiva
+- Jogos de Fortuna e Azar
 - Jogos e Apostas Online
-- Imposto Especial de Jogo Online
+- Transferência de Verbas
+- Utilidade Pública Desportiva
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/66/2015/04/29/p/dre
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314/2015/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314/2015/09/30/p/dre
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70411878:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:35Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +147,9 @@ Determinação dos valores a transferir
 
 5 - O montante do IEJO referido no artigo anterior resultante de apostas efetuadas sobre as competições e provas desportivas de modalidades tuteladas, promovidas, regulamentadas, dirigidas ou representadas por federações não detentoras do estatuto de utilidade pública desportiva é atribuído na íntegra ao Instituto Português do Desporto e Juventude (IPDJ, I. P.).
 
-###### Artigo 3.º — Operacionalização das transferências
+Artigo 3.º
+
+Operacionalização das transferências
 
 1 - O montante do IEJO previsto no artigo 1.º é transferido trimestralmente pelo Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal, I. P. (Serviço de Regulação e Inspeção de Jogos), para a liga profissional, Comité Olímpico de Portugal, Comité Paralímpico de Portugal, Confederação do Desporto de Portugal, para a federação desportiva ou para o IPDJ, I. P., nos termos do artigo anterior, na sua totalidade, até ao dia 10 do mês seguinte ao trimestre a que respeita, por referência ao IEJO cobrado nesse trimestre.
 
@@ -163,4 +173,6 @@ Determinação dos valores a transferir
 
 Em 28 de julho de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia. - A Secretária de Estado do Turismo, Comércio e Serviços, Rita Baptista Marques.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia. - A Secretária de Estado do Turismo, Comércio e Serviços, Rita Baptista Marques.
+
+115584533

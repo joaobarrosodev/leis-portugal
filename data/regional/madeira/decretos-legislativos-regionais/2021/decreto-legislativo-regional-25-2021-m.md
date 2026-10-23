@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16900/0009200093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2021/08/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2021-170514958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e88d48b01c24e71a6fd2355d503dd4d5b14325df6057b9b4d32209860b1437d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2e8a03ab3000175da0eaa6bf1e3d504ef6ea4790298bd43c652e87e58dff256
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Carreira de Técnico Superior de Saúde
-- Governo Regional
-- Regulamentação de Atos Legislativos
-- Sistema Retributivo
 - Carreira Profissional
+- Governo Regional
 - Madeira.região Autónoma
+- Pessoal de Saúde
 - Progressão na Carreira
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2017/08/30/p/dre
@@ -117,16 +117,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/796/1994/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/796/1994/09/07/p/dre
+- type: cites
+  target: pt:dre:108074438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657244:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:32Z'
   warnings: []
   errors: []
 ---
@@ -183,10 +247,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de julho de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 5 de agosto de 2021.**
+Assinado em 5 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+114508618

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2021/03/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2021-159539841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62cde01f284cb17986879a0a17eb56f35295f6d290372b61f1f1a03cb7477e86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7066101119bf81333b7582ac34916122e252d80ea8cb41098e9e8274aec335cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Monumento Natural
 - Madeira.região Autónoma
+- Monumento Natural
 - Património Natural
 - Rede de Monumentos Naturais
 relationships:
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:106578570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116152181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:33Z'
   warnings: []
   errors: []
 ---
@@ -342,11 +366,11 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de fevereiro de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 3 de março de 2021.**
+Assinado em 3 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -362,7 +386,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO II — Monumento Natural do Ilhéu de Cima
 
@@ -376,7 +400,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO III — Monumento Natural do Ilhéu da Cal
 
@@ -390,7 +414,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO IV — Monumento Natural da Praia do Porto Santo
 
@@ -404,7 +428,7 @@ O zonamento da área é de tipo i.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO V — Monumento Natural do edifício vulcânico das Ilhas Selvagens
 
@@ -418,7 +442,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO VI — Monumento Natural da Ponta de São Lourenço
 
@@ -432,7 +456,7 @@ Toda a área a leste do Miradouro da Ponta do Rosto, bem como a área de arribas
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO VII — Monumento Natural da Disjunção Prismática da Foz da Ribeira do Faial
 
@@ -446,7 +470,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO VIII — Monumento Natural da Queda de Água do Véu da Noiva
 
@@ -460,7 +484,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO IX — Monumento Natural da Escoada da Foz da Ribeira da Janela
 
@@ -474,7 +498,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO X — Monumento Natural do Ilhéu Mole
 
@@ -488,7 +512,7 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO XI — Monumento Natural do Maciço Montanhoso Central
 
@@ -502,7 +526,7 @@ O zonamento da área é de tipo i.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO XII — Monumento Natural do Glaciar de Planalto do Paul da Serra
 
@@ -516,7 +540,7 @@ O zonamento da área é de tipo i, com a exceção do Sítio das Pedras, delimit
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
 
 ## ANEXO XIII — Monumento Natural da Ponta do Garajau
 
@@ -530,4 +554,6 @@ O zonamento da área é de tipo ii.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05200/0002600051.pdf)
+
+114046294

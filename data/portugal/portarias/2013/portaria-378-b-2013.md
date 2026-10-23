@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(348) a 7056-(351)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-b/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-b-2013-164419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae3a6d17f211cbec701d1ea59ee08326d442ebc5a0b10d65dd06bd48debc4c4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1d5976d968e54be94be723feb544e0cfc361a4460ad3db302cedb4d2193392b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,12 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Aposentado
-- Profissão Artística
 - Associação de Socorros Mútuos
 - Banco de Angola
+- Caixa de Previdência
+- Caixa Geral de Aposentações
 - Câmara dos Despachantes Oficiais
 - Centro Nacional de Pensões
-- Caixa Geral de Aposentações
-- Caixa de Previdência
-- Trabalhador Rural
-- Reforma Antecipada
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Preço de Sangue
@@ -84,6 +81,8 @@ subjects:
 - Pensão de Sobrevivência
 - Pensão de Velhice
 - Pensionista
+- Profissão Artística
+- Reforma Antecipada
 - Reformado
 - Regime não Contributivo da Segurança Social
 - Regulamento
@@ -91,6 +90,7 @@ subjects:
 - STCP
 - Subsídio de Natal
 - Trabalhador Ferroviário
+- Trabalhador Rural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
@@ -132,16 +132,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/432-a/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/432-a/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66022086:por
+  label: Revogada pelo(a) Portaria n.º 286-A/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-a-2014-66022086
+  date: '2014-12-31'
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:08Z'
   warnings: []
   errors: []
 ---
@@ -250,13 +307,13 @@ Os montantes adicionais das pensões atribuídos nos meses de julho e dezembro s
 
 Os valores mínimos garantidos às pensões de aposentação, reforma e invalidez pagas pela GGA, em função do tempo de serviço considerado no respetivo cálculo, são os constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
 
 ###### Artigo 14.º — Valor mínimo das pensões de sobrevivência, preço de sangue e outras
 
 Os valores mínimos garantidos às pensões de sobrevivência pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
 
 ###### Artigo 15.º — 14.º mês
 
@@ -274,16 +331,16 @@ O presente diploma produz efeitos a partir de 1 de janeiro de 2014.
 
 É revogada a [Portaria n.º 432-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/432-a-2012-632426), de 31 de dezembro.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 30 de dezembro de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 16 de dezembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 30 de dezembro de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 16 de dezembro de 2013.
 
 ## ANEXO I — Indexação ao IAS das pensões e de outras prestações sociais
 
 (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
 
 ## ANEXO II — Coeficiente de atualização de pensões para efeitos de cúmulos
 
 (a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0034800351.pdf)

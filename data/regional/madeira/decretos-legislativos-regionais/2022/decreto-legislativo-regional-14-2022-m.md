@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14400/0001500018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2022/07/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ed8d4dfa4a3d08c0c823a8ba5372a2a61ab85fe5b8c0bb93fae1f964841dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90eb96da8b0c17347a89f52667f1c40bdde36db362e2bad4423f10921dd0d8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento Geral do Estado
-- Orçamento
 - Madeira.região Autónoma
+- Orçamento
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:926481290:por
@@ -114,16 +114,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139918084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74985443:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:34Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +280,7 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14400/0001500018.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14400/0001500018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/14400/0001500018.pdf)
 
 2 - O quantitativo do rendimento coletável, quando superior a (euro) 7116, é dividido em duas partes: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
@@ -180,15 +288,21 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 4 - [...].'
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Mantêm-se em vigor as taxas do Imposto sobre o Rendimento das Pessoas Coletivas, para vigorar na Região Autónoma da Madeira, estabelecidas no artigo 2.º do [Decreto Legislativo Regional n.º 2/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2001-319308), de 20 de fevereiro, com as alterações introduzidas pelos Decretos Legislativos Regionais n.os [29-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), de 20 de dezembro, [30-A/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), de 31 de dezembro, [21-A/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), de 30 de dezembro, [3/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), de 9 de janeiro, [2-A/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), de 16 de janeiro, [45/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), de 31 de dezembro, [34/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), de 31 de dezembro, [20/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), de 26 de dezembro, [31-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), de 31 de dezembro, [18/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), de 31 de dezembro, [2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, [26/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), de 31 de dezembro, [12/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), de 10 de agosto, e [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Mantém-se em vigor para a Região Autónoma da Madeira o regime da derrama regional, aprovada pelos artigos 3.º a 6.º do [Decreto Legislativo Regional n.º 14/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2010-333363), de 5 de agosto, na redação republicada pelo [Decreto Legislativo Regional n.º 5-A/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-a-2014-55021027), de 23 de julho, alterada pelos Decretos Legislativos Regionais n.os [2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, [26/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), de 31 de dezembro, e [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -246,10 +360,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 20 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 25 de julho de 2022.**
+Assinado em 25 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+115553218

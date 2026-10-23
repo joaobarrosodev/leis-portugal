@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1980-677649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2783408ce0317cbf8271d0ccdb7e14c52cfee230eeb2167dea17108896952ec9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b6c571d61d05a80dff27cb4826d418903a04242f6460bce3c4f7d86bbbb8c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Função Pública
+- Madeira.região Autónoma
+- Pessoal Dirigente
+- Reestruturação de Carreiras
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:02Z'
   warnings: []
   errors: []
 ---
@@ -90,38 +111,38 @@ Nesta linha de pensamento se torna extensivo à Região Autónoma da Madeira, sa
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição:
 
-###### Artigo 1.º É aplicado à Região Autónoma da Madeira o [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º É aplicado à Região Autónoma da Madeira o [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º A aplicação do diploma referido no n.º 2 do artigo 1.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) fica dependente de decreto regulamentar regional.
+Art. 2.º A aplicação do diploma referido no n.º 2 do artigo 1.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) fica dependente de decreto regulamentar regional.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo 4.º, a criação de carreiras e categorias de pessoal, determinada pelas necessidades específicas da Região, será feita por decreto regulamentar regional.
+Art. 3.º Sem prejuízo do disposto no artigo 4.º, a criação de carreiras e categorias de pessoal, determinada pelas necessidades específicas da Região, será feita por decreto regulamentar regional.
 
-###### Art. 4.º São introduzidos nos anexos I e IV ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) os aditamentos constantes do mapa apenso a este decreto regulamentar.
+Art. 4.º São introduzidos nos anexos I e IV ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) os aditamentos constantes do mapa apenso a este decreto regulamentar.
 
-###### Art. 5.º Se o cumprimento do estatuído no artigo 39.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) impuser uma revisão orçamental, esta não será considerada para o efeito do disposto no n.º 1 do artigo 25.º do [Decreto-Lei n.º 243/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1979-381284), de 25 de Julho.
+Art. 5.º Se o cumprimento do estatuído no artigo 39.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) impuser uma revisão orçamental, esta não será considerada para o efeito do disposto no n.º 1 do artigo 25.º do [Decreto-Lei n.º 243/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1979-381284), de 25 de Julho.
 
-###### Art. 6.º - 1 - O presente decreto regulamentar produz efeitos a partir de 1 de Julho de 1979.
+Art. 6.º - 1 - O presente decreto regulamentar produz efeitos a partir de 1 de Julho de 1979.
 
 2 - Os prazos fixados nos artigos 36.º e 39.º, n.º 1, do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) contam-se a partir da data da publicação deste diploma.
 
-###### Art. 7.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Presidente do Governo Regional, ouvida a Direcção Regional da Administração Pública.
+Art. 7.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Presidente do Governo Regional, ouvida a Direcção Regional da Administração Pública.
 
 Aprovado no Plenário do Governo Regional em 1 de Fevereiro de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Março de 1980.**
+Assinado em 18 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o artigo 4.º
 
-## Anexo I ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) - Aditamento
+Anexo I ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) - Aditamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf))](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf)
 
-## Anexo IV ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) - Aditamento
+Anexo IV ao [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603) - Aditamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf))](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/07700/06320632.pdf)

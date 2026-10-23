@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25302/0008600095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372-b/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-b-2024-901661965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca350b4becc73a44bc26f997c2cabcc2e7e724ed125427db53270a26634fb00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74d485d6b4fbd44d1dfaa6e7d6c198a91c40887c169c0797ff9255dab0305693
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,30 @@ subjects:
 - Aposentado
 - Associação de Socorros Mútuos
 - Banco de Angola
-- Pescador
+- Caixa de Previdência
 - Caixa de Previdência do Pessoal da Marinha Mercante Nacional
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Câmara dos Despachantes Oficiais
 - Centro Nacional de Pensões
 - Complemento Extraordinario de Solidariedade
 - Complemento por Dependência
 - Complemento Social de Pensão
-- Regulamentação de Atos Legislativos
-- Pensão por Incapacidade Permanente para o Trabalho
-- Caixa Geral de Aposentações
 - Indústria Fosforeira
-- Caixa de Previdência
-- Trabalhador Rural
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Preço de Sangue
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Social
 - Pensão Unificada
 - Pensionista
 - Pensões
+- Pescador
 - Prestações Complementares
 - Prestações da Segurança Social
 - Proteção Social
@@ -105,11 +103,13 @@ subjects:
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Regimes de Segurança Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Subsídio Complementar
 - Subsídio de Férias
 - Subsídio de Natal
 - Trabalhador Ferroviário
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:993056223:por
@@ -155,16 +155,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115578262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158054820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:993056223:por
+  label: Revogada, com efeitos a 1 de janeiro de 2026, pelo(a) Portaria n.º 480-B/2025/1 - Diário da República n.º 250/2025,
+    Suplemento, Série I de 2025-12-30, nos termos do seu artigo 29.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/480-b-2025-993056223
+  date: '2025-12-30'
+- type: repeals
+  target: pt:numero:portaria:424/2023
+  label: Revoga, com efeitos a partir de 1 de janeiro de 2025, nos termos do artigo 29.º, a Portaria n.º 424/2023, de 11 de
+    dezembro, Diário da República n.º 237/2023, Série I
+  source: null
+  date: '2023-12-11'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:23Z'
   warnings: []
   errors: []
 ---
@@ -239,13 +323,24 @@ d) 1,85 % para as pensões de montante superior a € 3135,00.
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
 
-| Escalões por anos de carreira contributiva | Valor mínimo da pensão (euros) |
-| --- | --- |
-| 15 a 20 anos | € 348,05 |
-| 21 a 30 | € 384,07 |
-| 31 e mais | € 480,08 |
+| Escalões por anos de carreira contributiva |
+| --- |
 
-3 - Os valores mínimos fixados nos n.<sup>os</sup>1 e 2 deste artigo:
+Valor mínimo da pensão (euros)
+
+15 a 20 anos
+
+€ 348,05
+
+21 a 30
+
+€ 384,07
+
+31 e mais
+
+€ 480,08
+
+3 - Os valores mínimos fixados nos n.os1 e 2 deste artigo:
 
 a) Não relevam para efeitos da parcela de pensão a que se refere a última parte da alínea a) do n.º 2 do artigo 1.º;
 
@@ -403,7 +498,7 @@ O valor do complemento extraordinário de solidariedade atribuído ao abrigo do 
 
 ###### Artigo 27.º — Atualização das pensões resultantes de doença profissional
 
-As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2025, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA anteriormente a 1 de janeiro de 2025, quer ao abrigo das Leis n.<sup>os</sup>1942, de 27 de julho de 1936, e 2127, de 3 de agosto de 1965, quer do Decreto-Lei n.º 503/99, de 20 de novembro, são atualizadas de acordo com a percentagem prevista na alínea a) do n.º 1 do artigo 2.º
+As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2025, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA anteriormente a 1 de janeiro de 2025, quer ao abrigo das Leis n.os1942, de 27 de julho de 1936, e 2127, de 3 de agosto de 1965, quer do Decreto-Lei n.º 503/99, de 20 de novembro, são atualizadas de acordo com a percentagem prevista na alínea a) do n.º 1 do artigo 2.º
 
 ###### Artigo 28.º — Pensões unificadas
 
@@ -421,7 +516,7 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2025.
 
 Em 27 de dezembro de 2024.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.
 
 ## ANEXO I — Tabela de coeficientes de atualização de pensões para efeitos de cúmulo
 
@@ -488,3 +583,7 @@ Em 27 de dezembro de 2024.
 | 1967 | 36,7971 |
 | 1966 | 38,6527 |
 | Até 1965 | 41,3505 |
+
+118514798
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:23px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:midd<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/329-1993-653127'title='Decreto-Lein.º329/93'>Decreto-Lein.º329/93</a>lign:center; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:26px; }

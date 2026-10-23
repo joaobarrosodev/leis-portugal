@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/84/2011/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2011-278909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94e93262892f99eab4dcd5e23f7d71bb4b9af108924ecb14dc96f18c62d8323b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dc9e76ae21a400ac2ebbb88c037cfee179c957deaa4a3366aa0e25368630934
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Moçambique
 - Ensino Português no Estrangeiro
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Instituto Camões
 - Estabelecimento de Ensino
+- Instituto Camões
+- Moçambique
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2004/05/21/p/dre
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602029:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:11Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +168,4 @@ b) Os directores de turma;
 
 c) Outras estruturas a criar no âmbito da autonomia da escola que assegurem, designadamente, a coordenação pedagógica de cada ano, ciclo ou curso e cuja representação no conselho pedagógico é estabelecida no regulamento interno.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 10 de Agosto de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Fevereiro de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 5 de Agosto de 2010.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 10 de Agosto de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Fevereiro de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 5 de Agosto de 2010.

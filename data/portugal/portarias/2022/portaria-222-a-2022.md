@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 171/2022, 1º Suplemento, Série I de 2022-09-05
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 82-(2) a 82-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17101/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/222-a/2022/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2022-200679372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8df7723deb28fe9fa817ae1622fb980d58ed8f53bcab3b51c137ad27de602905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8110d815ce73c82df516c3edb1b32fa9a5df1345acae6d602a060909ccdb5152
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Águeda
 - Ajuda Comunitária
 - Albergaria-a-velha
 - Alvaiázere
-- Incêndio
-- Financiamento
+- Auxílio de Minimis
 - Belmonte
 - Celorico da Beira
 - Covilhã
 - Dotação Orçamental
 - Estarreja
+- Exploração Agrícola
 - Exploração Pecuária
 - Figueira de Castelo Rodrigo
-- Auxílio de Minimis
+- Financiamento
 - Formulário Eletrónico
 - Freguesia
 - Fundão
 - Gestão Orçamental
 - Gouveia
+- Guarda
 - IFAP
+- Incêndio
 - Leiria
 - Oliveira do Hospital
-- Exploração Agrícola
 - Ourém
 - Página na Internet
-- Pinhel
-- Vila Real
-- Agricultor
 - Pecuária
-- Agricultura
+- Pinhel
+- Prejuízo Financeiro
 - Ribeira de PENA
 - RIO Maior
 - Sabugal
@@ -104,10 +105,9 @@ subjects:
 - Sever do Vouga
 - Subsídio não Reembolsável
 - Trancoso
-- Guarda
 - Valpaços
 - VILA Pouca de Aguiar
-- Prejuízo Financeiro
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
@@ -117,16 +117,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/205-b/2022/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/205-b/2022/08/16/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187529943:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:41Z'
   warnings: []
   errors: []
 ---
@@ -151,10 +159,12 @@ A presente portaria altera o anexo da [Portaria n.º 205-B/2022](https://diariod
 
 São aditadas as seguintes freguesias ao anexo da [Portaria n.º 205-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/205-b-2022-187529943), de 16 de agosto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17101/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17101/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17101/0000200003.pdf)
 
 ###### Artigo 3.º — Produção de efeitos
 
 A presente portaria produz efeitos a 17 de agosto de 2022.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 5 de setembro de 2022.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 5 de setembro de 2022.
+
+115664545

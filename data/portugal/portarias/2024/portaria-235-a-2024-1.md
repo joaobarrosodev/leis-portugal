@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18701/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235-a/2024/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2024-888960247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9af77467816e98a3099a6761074207e8187a0b77a8137513787feeb87e8b9a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65d5989f4c84354243c3436a41f970ead2ceb16785e5a9c8dee408220d2b779b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,19 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Advogado
-- Ordem dos Advogados
 - Arguido
 - Defensor Oficioso
-- Regulamentação de Atos Legislativos
 - Direito à Justiça
 - Nomeação
+- Ordem dos Advogados
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:10/2008
+  label: Altera, a partir de 27 de setembro de 2024, os artigos 2.º e 3.º e revoga as alíneas a) e b) do n.º 2 do artigo 3.º
+    da Portaria n.º 10/2008, de 3 de janeiro, Diário da República n.º 2/2008, Série I
+  source: null
+  date: '2008-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/34/2004/07/29/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/10/2008/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/10/2008/01/03/p/dre
+- type: cites
+  target: pt:dre:386797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:36Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +147,11 @@ Os artigos 2.º e 3.º da [Portaria n.º 10/2008](https://diariodarepublica.pt/d
 
 1 - [...]
 
-2 - Para efeitos do disposto no número anterior, os tribunais, as secretarias ou serviços do Ministério Público, os órgãos de polícia criminal e os serviços de segurança social devem solicitar a nomeação de patrono ou de defensor à Ordem dos Advogados, sempre que, nos termos da lei, se mostre necessária, sendo correspondentemente aplicável o previsto nos n.<sup>os</sup>8 e 9 do artigo seguinte.
+2 - Para efeitos do disposto no número anterior, os tribunais, as secretarias ou serviços do Ministério Público, os órgãos de polícia criminal e os serviços de segurança social devem solicitar a nomeação de patrono ou de defensor à Ordem dos Advogados, sempre que, nos termos da lei, se mostre necessária, sendo correspondentemente aplicável o previsto nos n.os8 e 9 do artigo seguinte.
 
 ###### Artigo 3.º — Nomeação para diligências com assistência obrigatória
 
-1 - A nomeação para assistência ao arguido, nas situações previstas nos n.<sup>os</sup> 1 a 3 do artigo 64.º do Código de Processo Penal, deve ser realizada com base na designação feita pela Ordem dos Advogados constante da lista de escala de prevenção de advogados e de advogados estagiários.
+1 - A nomeação para assistência ao arguido, nas situações previstas nos n.os 1 a 3 do artigo 64.º do Código de Processo Penal, deve ser realizada com base na designação feita pela Ordem dos Advogados constante da lista de escala de prevenção de advogados e de advogados estagiários.
 
 2 - A nomeação referida no número anterior pode ser feita, respetivamente, pela secretaria do tribunal, pelo Ministério Público, através da secretaria ou dos seus serviços, e pelos órgãos de polícia criminal.
 
@@ -169,4 +183,6 @@ São revogadas as alíneas a) e b) do n.º 2 do artigo 3.º da [Portaria n.º 10
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado Adjunta e da Justiça, Maria Clara da Silva Maia de Figueiredo, em 24 de setembro de 2024.**
+A Secretária de Estado Adjunta e da Justiça, Maria Clara da Silva Maia de Figueiredo, em 24 de setembro de 2024.
+
+118160292

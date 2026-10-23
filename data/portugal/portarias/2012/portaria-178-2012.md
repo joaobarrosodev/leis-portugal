@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178/2012/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-2012-177793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8340a0c3a4ff4ea08debd2725ee90aa725cecd5ba9472575497f060c004ee6b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9608801c1e5b73690691d12b6ed131be228b074a2356d767aed741f5196d523
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Investimento
 - Aquicultura
+- Financiamento
+- Investimento
+- Pesca
 - Regime de Apoio
 - Regulamento
 relationships:
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:503060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503060:por
+  label: "Alterados os arts. 14º e 15º do Regulamento do Regime de Apoio aos Investimentos Produtivos na Aquicultura, aprovado\
+    \ pela Port. 424-B/2008, de 13-jun, na redação do presente diploma, pela PORT.309/2013.21.10.2013.MAGM, DR.IS [203] de\
+    \ 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2013-503060
+  date: '2013-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -94,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-b/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-b/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:40Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +189,9 @@ i) ...
 
 j) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +223,9 @@ b) ...
 
 4 - Para efeitos do presente Regulamento, consideram-se novas espécies aquelas cuja produção anual é inferior a 500 t, com base nos dados estatísticos nacionais atualizados e publicados aquando da apresentação da candidatura, e para as quais existam boas perspetivas de mercado.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +239,9 @@ b) ...
 
 4 - O IFAP, após a receção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +249,9 @@ b) ...
 
 3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10 % desse apoio.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50 % do valor do apoio, no prazo de seis meses a contar da data da recepção de um exemplar do respectivo contrato de atribuição outorgado pelo IFAP.
 
@@ -234,7 +265,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, quando aplicáveis, constituem obrigações dos beneficiários:
 
@@ -254,7 +287,9 @@ f) Comprovar, até à data de apresentação do último pedido de pagamento, que
 
 3 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução do projeto, previstos na alínea b) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica a estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, delas não podendo resultar um aumento do apoio público.»
 
@@ -282,7 +317,9 @@ AL - ativo líquido da empresa.
 
 4 - Os promotores poderão, comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à apresentação da candidatura, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas, nos termos previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, na redação dada pelo [Decreto-Lei n.º 37/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), de 27 de abril.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -296,7 +333,7 @@ b) À pontuação prevista na alínea anterior acrescem as seguintes majoraçõe
 
 TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10600/0286102864.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10600/0286102864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10600/0286102864.pdf)
 
 3 - É aditado um novo anexo ao Regulamento do Regime de Apoio aos Investimentos Produtivos na Aquicultura, com a seguinte redação:
 
@@ -320,13 +357,17 @@ AL - ativo líquido da empresa.
 
 3 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.»
 
-###### Artigo 2.º — Disposição transitória
+Artigo 2.º
+
+Disposição transitória
 
 1 - Os promotores previstos no artigo 2.º do Regulamento do Regime de Apoio aos Investimentos Produtivos na Aquicultura dispõem de um novo prazo de seis meses para solicitar adiantamentos, nos termos e condições previstos no artigo 15.º do mesmo Regulamento, na redação conferida pela presente portaria.
 
 2 - O prazo fixado no número anterior conta-se a partir da data de entrada em vigor da presente portaria.
 
-###### Artigo 3.º — Entrada em vigor e produção de efeitos
+Artigo 3.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
@@ -334,4 +375,4 @@ AL - ativo líquido da empresa.
 
 3 - As alterações introduzidas na alínea d) do artigo 7.º, no anexo i e na alínea f) do artigo 16.º, todos do Regulamento do Regime de Apoio referido no número anterior aplicam-se às candidaturas já apresentadas e ainda não decididas.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 28 de maio de 2012.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 28 de maio de 2012.

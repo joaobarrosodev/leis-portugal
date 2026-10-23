@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15600/0342603427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/681/2010/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-2010-342858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 144a8ec3fd81b1ebd8aede1d3d41b8906e381639245f1e20cd98de751c0905fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb990543b0d39c2a51c459c4fbae3d85cc040c10a8789996784b692ab0217f09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Desempregado
-- Jovem
 - Desemprego
-- Qualificação Profissional
 - Emprego
 - Estágio de Formação
-- Política de Emprego
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Mercado do Trabalho
+- Política de Emprego
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:278899:por
@@ -101,16 +101,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/131/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/131/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278899:por
+  label: "Revogada, em 01.03.2011, a Port. 129/2009, de 30-Jan, na redacção da presente portaria, pela PORT.92/2011.28.02.2011.MTSSO,\
+    \ DR.IS [41] de 28.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2011-278899
+  date: '2011-02-28'
 article_structure:
-  article_count: 9
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:49Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +155,9 @@ Os artigos 1.º e 12.º da Portaria n.º 129/2009, de 30 de Janeiro, alterada pe
 
 4 - Não são igualmente abrangidos pela presente portaria os estágios cujo plano requeira perfil de formação e competências nas áreas da medicina e da enfermagem.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O estágio tem a duração de nove meses, não prorrogáveis.»
 
@@ -165,7 +177,9 @@ Objecto
 
 4 - Não são igualmente abrangidos pela presente portaria os estágios cujo plano requeira perfil de formação e competências nas áreas da medicina e da enfermagem.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O estágio tem a duração de nove meses, não prorrogáveis.»
 
@@ -179,7 +193,9 @@ Os artigos 6.º e 13.º da Portaria n.º 127/2010, de 1 de Março, passam a ter 
 
 Podem candidatar-se ao Programa previsto na presente portaria pessoas singulares ou colectivas, de direito privado, com ou sem fins lucrativos e autarquias locais.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O estágio tem a duração de nove meses, não prorrogáveis.»
 
@@ -195,4 +211,4 @@ São revogados o n.º 2 do artigo 16.º da Portaria n.º 127/2010, de 1 de Març
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 9 de Agosto de 2010.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 9 de Agosto de 2010.

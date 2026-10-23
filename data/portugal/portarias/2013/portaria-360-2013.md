@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/24300/0678006780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/2013/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-2013-483937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a15824fefebadfb9253a2da910802e35254be17608b66be74cd17facb01295d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1092b12e99bec168be9c4162081fb18dea4ba54045f03e5cd8c631c19f44dd25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
 - Comparticipação do Estado
 - Comparticipações da Segurança Social
-- Saúde
-- Serviço Nacional de Saúde
-- Preço
 - Cuidados Médicos
+- Preço
+- Rede
+- Saúde
 - Segurança Social
+- Serviço Nacional de Saúde
 - Utente
 relationships:
 - type: cites
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/41/2013/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/41/2013/02/01/p/dre
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67541740:por
+  label: Revogada, a partir de 28.06.2015, com efeitos a 01.01.2014, a Port 360/2013 de 16-dez DR.IS [243] pelo(a) Portaria
+    n.º 184/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2015-67541740
+  date: '2015-06-23'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:01Z'
   warnings: []
   errors: []
 ---
@@ -147,10 +165,10 @@ Preços dos cuidados de saúde e de apoio social
 
 A presente Portaria produz efeitos a partir de 1 de janeiro de 2013.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 4 de dezembro de 2013. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 2 de agosto de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 22 de agosto de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 4 de dezembro de 2013. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 2 de agosto de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 22 de agosto de 2013.
 
 ## ANEXO — Tabela de preços RNCCI - Ano de 2013
 
 (anexos II e III da Portaria n.º 1087 -A/2007, de 5 de setembro, na redação dada pela Portaria n.º 189/2008, de 19 de fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24300/0678006780.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24300/0678006780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24300/0678006780.pdf)

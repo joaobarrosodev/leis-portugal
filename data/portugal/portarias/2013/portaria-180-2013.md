@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/180/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-2013-261151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e41ed73f6f21b3afa60e58661166fc292ed4419d8cea8e7fd810504c5a629bed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e4eef2b13f34308a5665287c6b6cb6350bac46cf155721e6635a0fb65bc85da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Ordenamento do Território
 - Penela
 - Plano de Urbanização
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:71092231:por
+  label: Determinada a primeira correção material da carta da REN pelo(a) Despacho n.º 13661/2015 - Diário da República n.º
+    231/2015, Série II de 2015-11-25 que procede à sua republicação em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13661-2015-71092231
+  date: '2015-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -87,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655949:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:59Z'
   warnings: []
   errors: []
 ---
@@ -131,9 +161,9 @@ A referida planta e a memória descritiva do presente processo podem ser consult
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano Diretor Municipal de Penela.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf)
 
 QUADRO ANEXO
 
@@ -141,4 +171,4 @@ Delimitação da Reserva Ecológica Nacional do município de Penela
 
 Propostas de exclusão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0284702856.pdf)

@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/2013/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5352d3b0ac231fc04520bdf8ba8e913a1fc0481cc879d892f7c6a3a22ce0edb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a85aa88ac89600cb620080e4a1d566492cbdadc380d59fbcae6c62aec479e12b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Agente de Execução
 - Certidão
-- Serviços de Registo e Notariado
-- Registo Automóvel
-- Registos e Notariado
-- Formulário Eletrónico
-- Veículo
 - Documento Eletrónico
-- Notificação
+- Execução por Dívidas
+- Formulário Eletrónico
 - Governo Electrónico
 - Internet
-- Execução por Dívidas
-- Registo Predial
+- Notificação
+- Processo Civil
 - Processo de Execução
-- Agente de Execução
+- Registo Automóvel
+- Registo Predial
+- Registos e Notariado
+- Serviços de Registo e Notariado
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
@@ -102,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/99/2008/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/99/2008/01/31/p/dre
+- type: cites
+  target: pt:dre:444230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:33Z'
   warnings: []
   errors: []
 ---
@@ -174,13 +182,17 @@ Pedido presencial e por via postal
 
 9 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Quando o pedido de registo seja efetuado por advogado, notário ou solicitador nos termos da alínea b) do n.º 2 do artigo 39.º do Código do Registo Predial, deve ser indicado o nome da pessoa representada.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A identificação do apresentante é feita pelo nome, número de identificação fiscal, residência habitual ou domicílio profissional e do cargo, quando o pedido seja efetuado por entidades públicas.
 
@@ -192,7 +204,9 @@ Pedido presencial e por via postal
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -258,4 +272,4 @@ b) Os n.os 3 e 5 do artigo 22.º da Portaria n.º 99/2008, de 31 de janeiro.
 
 2 - As alterações introduzidas pela presente portaria às Portarias n.os 99/2008, de 31 de janeiro, e [1535/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), de 30 de dezembro, entram em vigor 180 dias após a data da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 13 de agosto de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 13 de agosto de 2013.

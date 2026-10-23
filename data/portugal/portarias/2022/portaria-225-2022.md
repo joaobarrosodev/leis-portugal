@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17200/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225/2022/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-2022-200691264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81bd8a75b90018718c8a6d0ed4cb4272a6480b742b699e7f0466c1e8296f6d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57d57a7db72efd8db9415279fa4bf8abde5eeb068c6f4eb232d71f77c315eff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Petróleo
-- Combustível
+- Aquicultura
 - Auxílio de Minimis
-- Pesca
+- Balcão Eletrónico do Mar
+- Combustível
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Financiamento
 - Gás
 - Gasóleo
 - Gasolina
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Instituto da Conservação da Natureza e das Florestas
-- Aquicultura
+- Pesca
 - Pesca Artesanal
+- Petróleo
 - Salicultura
 - Subsídio
-- Balcão Eletrónico do Mar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
@@ -109,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:42Z'
   warnings: []
   errors: []
 ---
@@ -285,4 +309,6 @@ Os encargos com o pagamento dos subsídios previstos na presente portaria são s
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 31 de agosto de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 2 de setembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 31 de agosto de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 2 de setembro de 2022.
+
+115660762

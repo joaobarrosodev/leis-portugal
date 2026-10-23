@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/2012/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2012-553026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6303cbe55d56687edb2c3de3d8f1b849304f4eb03fc2bfd4f77ffee21aeb175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dafa8d581d9d884f7c86941aeac4ce770039acc7171c608654aeefcb024355dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/320/1992/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/320/1992/04/08/p/dre
+- type: cites
+  target: pt:dre:198885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:23Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +147,7 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 A aplicação e desenvolvimento dos programas compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 23 de abril de 2012.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 23 de abril de 2012.
 
 ## ANEXO — Programa de formação do Internato Médico de Medicina Física e de Reabilitação
 
@@ -633,6 +653,6 @@ QUADRO N.º 1
 
 Especialidade de Medicina Física e de Reabilitação. Avaliação Final de Internato. Grelha para avaliação curricular da Prova de Discussão Curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08400/0233502340.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08400/0233502340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08400/0233502340.pdf)
 
 7 - Aplicabilidade. -O presente programa entra em vigor em 1 de janeiro de 2013 e aplica-se aos médicos internos que iniciam a formação específica a partir dessa data.

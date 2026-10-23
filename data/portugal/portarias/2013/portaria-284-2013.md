@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/284/2013/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5de304e298556e384965e9e36165d55bfb64fe299540eccccc9592415c24df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03367b24049089acd5eb82a31739884dcc6a8b8dcace62c4e97bad271f9839fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Código de Processo Penal
 - Código do Processo Civil
-- Multa
+- Custas Judiciais
 - Documento Único de Cobrança
 - Formulário Eletrónico
-- Pagamento
 - Instituto de Gestão Financeira e Equipamentos da Justiça
-- Custas Judiciais
+- Multa
+- Pagamento
 relationships:
 - type: amended_by
   target: pt:dre:116433035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116433035:por
+  label: Alterado, a partir de 30.09.2018, os arts. 17.º da Port 419-A/2009 de 17-abr, na redação da presente portaria, pelo(a)
+    Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20e nos termos do art. 18.º da presente portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2018-116433035
+  date: '2018-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
   label: null
@@ -95,16 +101,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502991:por
+  label: "Retificado o art. 2º (na parte em que altera o art. 21º da Port 419-A/2009 de 17-abr) pela DECL-RECT.43/2013.25.10.2013.PCM,\
+    \ DR.IS [207] de 25.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/43-2013-502991
+  date: '2013-10-25'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:33Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +169,9 @@ Os artigos 19.º, 21.º, 22.º, 25.º, 31.º e 46.º da [Portaria n.º 419-A/200
 
 2 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O pagamento das custas e o pagamento antecipado de encargos, multas, taxa sancionatória excecional e outras penalidades é efetuado mediante a emissão de guia acompanhada do DUC, para além dos demais casos previstos na presente portaria, quando caiba à secretaria notificar a parte para o pagamento da taxa de justiça.
 
@@ -149,7 +179,9 @@ Os artigos 19.º, 21.º, 22.º, 25.º, 31.º e 46.º da [Portaria n.º 419-A/200
 
 3 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O interessado deve entregar o documento comprovativo do pagamento ou realizar a comprovação desse pagamento juntamente com o respetivo articulado ou requerimento, salvo disposição legal em contrário, nos termos da portaria que regula vários aspetos da tramitação eletrónica dos processos.
 
@@ -157,7 +189,9 @@ Os artigos 19.º, 21.º, 22.º, 25.º, 31.º e 46.º da [Portaria n.º 419-A/200
 
 3 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -165,13 +199,17 @@ Os artigos 19.º, 21.º, 22.º, 25.º, 31.º e 46.º da [Portaria n.º 419-A/200
 
 3 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - As partes que tenham direito a custas de parte devem enviar para o tribunal e para a parte vencida a respetiva nota discriminativa e justificativa, nos termos e prazos previstos no artigo 25.º do RCP.
 
 2 - [Revogado.]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Até à publicação da portaria prevista no n.º 5 do artigo 533.º do Código de Processo Civil, as custas da parte vencedora são suportadas pela parte vencida e são garantidas as isenções e benefícios previstos na lei, independentemente do recurso a qualquer estrutura de resolução alternativa de litígios.»
 
@@ -179,4 +217,4 @@ Até à publicação da portaria prevista no n.º 5 do artigo 533.º do Código 
 
 A presente portaria entra em vigor em 1 de setembro de 2013.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 14 de agosto de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 14 de agosto de 2013.

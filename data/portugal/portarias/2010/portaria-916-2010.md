@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18100/0408904090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/916/2010/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/916-2010-341854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca8cfeba01e4c50f8f516d5917a750e583b0acbb3e6324af1a64979dcc4f816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d109bdf136ff308aa78963461dc65872b06f43c574e37114b4dffa7402cac93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/155-a/2006/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/155-a/2006/11/17/p/dre
+- type: cites
+  target: pt:dre:662522:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499239:por
+  label: "Revogada a Port 270/2010 de 18-mai, na redação do presente diploma, pela PORT.269/2013.20.08.2013.PCM, DR.IS [159]\
+    \ de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2013-499239
+  date: '2013-08-20'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:10Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +133,9 @@ São alterados os artigos 5.º, 10.º, 14.º, 16.º e 18.º da Portaria n.º 270
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -151,7 +163,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - São elegíveis a financiamento do Fundo as despesas efectivamente pagas desde 1 de Janeiro do ano indicado na decisão de financiamento que aprova o programa anual até ao termo do prazo para apresentação do relatório final sobre a execução do programa anual.
 
@@ -159,7 +173,9 @@ e) ...
 
 3 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +189,9 @@ c) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O pedido de reembolso deve ser efectuado a cada três meses a contar da data de início de execução do projecto, através da apresentação do formulário de declaração trimestral de despesa (DTD), que inclui as seguintes componentes:
 
@@ -197,4 +215,4 @@ d) Informação física.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 10 de Setembro de 2010.**
+O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 10 de Setembro de 2010.

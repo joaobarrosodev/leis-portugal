@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2014/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-2014-570703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d654e4d2948b624659e968c38ad4cef401e7a49efe55d7d7533890ed22dc53d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87d2aa7042ae80e125a66854266b5164e0b3c4dcf3f4e067e19ad30aac658f5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
+- Comércio
 - Consumidor
+- Distribuição de Energia Elétrica
 - EDP
-- Mercado Interno
-- Informação do Consumidor
 - Energia
+- Energia Elétrica
+- Informação do Consumidor
+- Mercado Interno
 - Prazo
 - Produção de Energia Elétrica
 - Proteção do Consumidor
@@ -80,12 +81,27 @@ subjects:
 - REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
 - Rede Nacional de Transporte de Energia Elétrica
 - Sistema Elétrico Nacional
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:66868374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66868374:por
+  label: Alterado o art. 2.º pelo(a) Portaria n.º 97/2015 - Diário da República n.º 62/2015, Série I de 2015-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2015-66868374
+  date: '2015-03-30'
+- type: amended_by
+  target: pt:dre:114301391:por
+  label: Alterado o art. 2.º pelo(a) Portaria n.º 364-A/2017 - Diário da República n.º 232/2017, 1º Suplemento, Série I de
+    2017-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-a-2017-114301391
+  date: '2017-12-04'
+- type: amended_by
+  target: pt:dre:130954976:por
+  label: Alterado o art. 2.º pelo(a) Portaria n.º 83/2020 - Diário da República n.º 65/2020, Série I de 2020-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-2020-130954976
+  date: '2020-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
   label: null
@@ -102,16 +118,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:190603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571032:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:36Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +176,4 @@ A data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://
 
 A presente Portaria entra em vigor no dia seguinte à sua publicação e produz efeitos desde 1 de janeiro de 2014.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 23 de janeiro de 2014.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 23 de janeiro de 2014.

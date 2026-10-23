@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/272/2022/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57c909696a7a869789fe8a9fc3a3b6433f1b33a0aea402c3ef1bf13b7b2e4a3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8809738afcb70b6ce1ac1d8a3ae190babad94c0b74480bab3d5e24b2cc1b78f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
 - Assistência Médica
 - Assistência Medicamentosa
-- Unidade de Cuidados Continuados Integrados de Saúde Mental
-- Unidade de Saúde Familiar
-- Serviço Nacional de Saúde
+- Cuidados Médicos
 - Fixação de Preços
 - Medicamento
 - Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
 - Prestações da Segurança Social
-- Cuidados Médicos
+- Rede
+- Segurança Social
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
-- Segurança Social
 - Sistema Nacional de Cuidados Continuados Integrados
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
 - Unidade de Internamento
+- Unidade de Saúde Familiar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
@@ -119,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2021/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158238387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176147941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879425:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:57Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +223,7 @@ Os anexos i e ii à [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/deta
 
 2 - A presente portaria produz efeitos a 1 de janeiro de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de novembro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de novembro de 2022. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 4 de novembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de novembro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de novembro de 2022. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 4 de novembro de 2022.
 
 ANEXOS
 
@@ -199,14 +231,16 @@ ANEXOS
 
 Tabela de preços aplicáveis às unidades de internamento da RNCCI UCP-RNCCI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
 
 (anexo II da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, alterada pela [Portaria n.º 140/2021](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), de 8 de julho, a que se refere o artigo 4.º)
 
 Tabela de preços aplicáveis às unidades e equipas de cuidados continuados integrados de saúde mental da RNCCI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
 
 Equipas de apoio domiciliário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+
+115856191

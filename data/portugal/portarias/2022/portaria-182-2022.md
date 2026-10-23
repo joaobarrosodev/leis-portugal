@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/182/2022/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e74017007fe7959c43120a256dd44471420a9e97096795156f57c76d2ae4a68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eda601f4ef324c925d22b4cb789dd5bc0d7de21347604ae4e2631984d12f1511
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Administração do Ensino
-- Financiamento
 - Comparticipação do Estado
-- Ministério da Educação
 - Contrato
 - Definição de Competências
+- Ensino Artístico
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Secundário
-- Política de Educação
 - Estabelecimento de Ensino
-- Ensino Básico
+- Financiamento
+- Ministério da Educação
+- Política de Educação
 - Subsídio
 relationships:
 - type: cites
@@ -122,16 +122,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/2022/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/65/2022/02/01/p/dre
+- type: cites
+  target: pt:dre:107752620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115304968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116132275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178478635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905674:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:26Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +228,9 @@ Os artigos 1.º, 2.º, 4.º, 6.º e 7.º da [Portaria n.º 224-A/2015](https://d
 
 A presente portaria define o regime de concessão do apoio financeiro por parte do Estado, através do Ministério da Educação, às entidades titulares de autorização de funcionamento de estabelecimentos de ensino artístico especializado de música, dança e artes visuais e audiovisuais e teatro da rede do ensino particular e cooperativo para frequência das iniciações em dança e em música, dos cursos de níveis básico e secundário de dança e música, dos cursos de nível secundário de artes visuais e audiovisuais, e dos cursos de nível básico de teatro no elenco de cursos artísticos especializados para os 2.º e 3.º ciclos do ensino básico.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O cálculo do apoio financeiro a conceder pelo Ministério da Educação às entidades titulares da autorização de funcionamento de estabelecimentos de ensino artístico especializado da dança, da música, do teatro e das artes visuais e audiovisuais da rede do ensino particular e cooperativo [Entidades Beneficiárias] é efetuado de acordo com os valores previstos no anexo i à presente portaria, que dela faz parte integrante, sem prejuízo do disposto nos números seguintes.
 
@@ -206,7 +256,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +296,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +316,9 @@ f) ...
 
 8 - ...
 
-###### Artigo 7.º — Comunicação de dados
+Artigo 7.º
+
+Comunicação de dados
 
 1 - As Entidades Beneficiárias procedem, sob pena de suspensão dos pagamentos, até 20 dias antes das datas previstas no n.º 8 do artigo 6.º, à atualização de todos os elementos contratuais, designadamente os necessários ao apuramento do apoio financeiro efetivamente devido em cada ano letivo, exportando os mesmos para o sistema de informação do Ministério da Educação.
 
@@ -276,9 +332,11 @@ O anexo i a que se refere o n.º 1 do artigo 2.º da [Portaria n.º 224-A/2015](
 
 (quadro a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf))](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf)
 
-###### Artigo 4.º — Alteração ao anexo ii da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho
+Artigo 4.º
+
+Alteração ao anexo ii da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho
 
 O anexo ii a que se refere o n.º 1 do artigo 6.º da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, passa a ter a seguinte redação:
 
@@ -442,14 +500,20 @@ QUADRO
 
 (a que se refere a cláusula segunda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf))](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/13600/0001200020.pdf)
 
-###### Artigo 5.º — Norma transitória
+Artigo 5.º
+
+Norma transitória
 
 No ano de 2022 o procedimento para atribuição do financiamento, através de contratos de patrocínio, incluindo a instrução e os critérios de avaliação e seleção, destinado ao curso básico de teatro é definido no aviso de abertura, a publicar no sítio da Internet da Direção-Geral dos Estabelecimentos Escolares.
 
-###### Artigo 6.º — Entrada em vigor
+Artigo 6.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de julho de 2022. - O Secretário de Estado da Educação, António de Oliveira Leite, em 6 de julho de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de julho de 2022. - O Secretário de Estado da Educação, António de Oliveira Leite, em 6 de julho de 2022.
+
+115512734

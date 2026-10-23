@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23800/0009500108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/429/2023/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a78cce5a8eb380ffc2ccae95dd59bd3b97b3c3bb08973d58a1558f11d4c7c8d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e3bd304cec4a83044f274c0ef7843b68bd80e0413c687ace76c7b0ffc03dd49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Auxílio de Minimis
 - Empresa
-- Turismo
+- Estratégia para o Turismo 2027
+- Financiamento
+- Instituto de Turismo de Portugal
 - Promoção Turística
 - Regulamentação de Atos Legislativos
-- Auxílio de Minimis
-- Instituto de Turismo de Portugal
 - Regulamento
 - Subsídio não Reembolsável
-- Estratégia para o Turismo 2027
+- Turismo
 relationships:
+- type: amends
+  target: pt:numero:portaria:101/2023
+  label: Altera, a partir de 13 de dezembro de 2023, os artigos 3.º, 5.º, 6.º, 7.º, 9.º, 11.º, 12.º, 13.º, 14.º, 17.º, 19.º
+    e 20.º do Regulamento anexo à Portaria n.º 101/2023 de 11 de abril, Diário da República n.º 71/2023, Série I, e procede
+    à republicação do referido Regulamento
+  source: null
+  date: '2023-04-11'
 - type: cites
   target: celex:32013R1407
   label: null
@@ -101,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211580658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:14Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +170,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 5.º — Entidades beneficiárias
+Artigo 5.º
+
+Entidades beneficiárias
 
 1 - [...]
 
@@ -157,7 +182,9 @@ b) Convention Bureaux, Associações, Fundações, Instituições de Ensino Supe
 
 2 - As empresas com sede no estrangeiro que reúnam as caraterísticas definidas na alínea a) do número anterior, são entidades beneficiárias do sistema de incentivos Portugal Events, desde que, no que respeita às empresas promotoras de eventos a que se refere o n.º 2 do artigo 20.º, tenham em Portugal a devida representação nomeadamente por via de sucursal ou outra tipologia de representação.
 
-###### Artigo 6.º — Operações enquadráveis
+Artigo 6.º
+
+Operações enquadráveis
 
 1 - [...]
 
@@ -167,7 +194,9 @@ b) Eventos associativos ou corporativos.
 
 2 - [...]
 
-###### Artigo 7.º — Condições de elegibilidade das entidades beneficiárias
+Artigo 7.º
+
+Condições de elegibilidade das entidades beneficiárias
 
 1 - [...]
 
@@ -191,7 +220,9 @@ i) Não se encontrarem impedidas de acesso aos apoios financeiros com a natureza
 
 2 - [...]
 
-###### Artigo 9.º — Despesas elegíveis
+Artigo 9.º
+
+Despesas elegíveis
 
 1 - [...]
 
@@ -227,7 +258,9 @@ f) [...]
 
 4 - Os apoios financeiros aos eventos associativos e corporativos, são apurados em função do número de dormidas geradas, a que acrescem as respetivas majorações, nos termos do n.º 5 do artigo 11.º
 
-###### Artigo 11.º — Apoio financeiro
+Artigo 11.º
+
+Apoio financeiro
 
 1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com outros apoios no âmbito deste diploma, sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores.
 
@@ -249,9 +282,9 @@ e) Grau de relevância 5: 50 %.
 
 Escalões de apoio financeiro por número de dormidas
 
-|  |  |  |  |  |  |  |  |  |
+| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200 a 1799 | De 1800 a 2699 | De 2700 a 3599 | De 3600 a 5399 | De 5400 a 7199 | Igual ou superior a 7200 |
+|  |  |  |  |  |  |  |  |  |
 | 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |
 
 5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz acima, é suportado em 75 % pelo Turismo de Portugal, I. P., e em 25 % pelo Convention Bureau ou pela Agência Regional de Promoção Turística, nos termos do n.º 3 do artigo 14.º
@@ -262,7 +295,9 @@ Escalões de apoio financeiro por número de dormidas
 
 8 - No caso dos apoios a que se refere o n.º 2, o membro do Governo com a tutela do sector do turismo pode, em casos excecionais devidamente justificados, e relativamente aos eventos que atinjam os graus de relevância 4 ou 5 autorizar que o apoio financeiro exceda os limites máximos aí previstos, desde que respeitados os limites dos enquadramentos a que se refere o n.º 1 do artigo 20.º e ficando limitados a um máximo de (euro) 500 000 (quinhentos mil euros) por evento.
 
-###### Artigo 12.º — Critérios de avaliação das operações
+Artigo 12.º
+
+Critérios de avaliação das operações
 
 1 - [...]
 
@@ -286,7 +321,9 @@ d) Grau de relevância 4: pontuação global entre 17 e 18;
 
 e) Grau de relevância 5: pontuação global de 19 e 20.
 
-###### Artigo 13.º — Candidaturas
+Artigo 13.º
+
+Candidaturas
 
 1 - [...]
 
@@ -302,7 +339,9 @@ e) Plano de comunicação no que se refere às operações enquadradas na alíne
 
 2 - [...]
 
-###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas
+Artigo 14.º
+
+Procedimentos de análise, seleção e decisão das candidaturas
 
 1 - [...]
 
@@ -312,7 +351,9 @@ e) Plano de comunicação no que se refere às operações enquadradas na alíne
 
 4 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 8 do artigo 11.º
 
-###### Artigo 17.º — Pagamentos
+Artigo 17.º
+
+Pagamentos
 
 1 - [...]
 
@@ -346,7 +387,9 @@ ii) [...]
 
 5 - [...]
 
-###### Artigo 19.º — Acompanhamento, controlo e auditoria
+Artigo 19.º
+
+Acompanhamento, controlo e auditoria
 
 1 - [...]
 
@@ -360,7 +403,9 @@ b) [...]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 20.º — Enquadramento europeu de auxílios de Estado
+Artigo 20.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - [...]
 
@@ -374,7 +419,7 @@ b) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 4 de dezembro de 2023.**
+O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 4 de dezembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -556,9 +601,9 @@ e) Grau de relevância 5: 50 %.
 
 Escalões de apoio financeiro por número de dormidas
 
-|  |  |  |  |  |  |  |  |  |
+| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200 a 1799 | De 1800 a 2699 | De 2700 a 3599 | De 3600 a 5399 | De 5400 a 7199 | Igual ou superior a 7200 |
+|  |  |  |  |  |  |  |  |  |
 | 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |
 
 5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz acima, é suportado em 75 % pelo Turismo de Portugal, I. P., e em 25 % pelo Convention Bureau ou pela Agência Regional de Promoção Turística, nos termos do n.º 3 do artigo 14.º
@@ -696,3 +741,5 @@ b) A verificação física tem por base a realização de visitas aos locais de 
 1 - Para os eventos integrados na alínea a) do n.º 1 do artigo 6.º que revistam natureza cultural, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho de 2014.
 
 2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se refere a alínea a) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no [Regulamento (UE) n.º 1407/2013](http://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro.
+
+117140023

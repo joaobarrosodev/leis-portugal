@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24500/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/447/2023/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-2023-808196035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 459712cb4d3a217e3ea07fe325bce3c3410756eaa359ec29a5bbe3e280b02d42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf67129ac10e8cb0c0d961143cbb9afb96be6b8ba4fb4ca30631da3f4e95f32e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Regulamentação de Atos Legislativos
 - Fundo de Socorro Social
 - Instituto de Gestão Financeira da Segurança Social
-- Santa Casa da Misericórdia
-- Receita Pública
-- Subsídio de Apoio Social
+- Jogos de Fortuna e Azar
 - Ministério do Trabalho Solidariedade e Segurança Social
+- Receita Pública
+- Regulamentação de Atos Legislativos
+- Santa Casa da Misericórdia
+- Subsídio de Apoio Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/428/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/428/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:115017488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:20Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +160,6 @@ b) O remanescente destina-se ao financiamento de programas, prestações e proje
 
 A presente portaria produz efeitos desde 1 de janeiro de 2023.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.
+
+117179512

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2017/06/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2017-107477153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 025b07c13e1b0b6bf308066f2adc723adb99cfa69860f72f7a022df1e0c3cd0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 405cf0610008fb244ffb7505b0fb1318353938bf89795aa7d142ac4a7da0313d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Ordenamento do Território
-- Madeira.região Autónoma
 - Infraestrutura Turística
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
@@ -110,16 +110,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:173966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:09Z'
   warnings: []
   errors: []
 ---
@@ -192,11 +232,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de maio de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 31 de maio de 2017.**
+Assinado em 31 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -480,7 +520,7 @@ Ordenamento das Infraestruturas de Apoio à Náutica de Recreio
 
 Proposta de Classificação das Instalações para o Médio/Longo Prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
 
 Norma 21
 
@@ -506,13 +546,13 @@ Esta «mudança de paradigma» dá-se no momento em que se inicia uma nova fase 
 
 O Programa de Ação do POT é composto por 3 tipos de programas que se subdividem em subprogramas e/ou projetos conforme se indica à frente.
 
-# Parte 1 - Programas Estruturantes para a RAM
+Parte 1 - Programas Estruturantes para a RAM
 
-# Parte 2 - Programas Temáticos e Projetos Estratégicos por áreas e setores
+Parte 2 - Programas Temáticos e Projetos Estratégicos por áreas e setores
 
-# Parte 3 - Programas Organizacionais para o Turismo
+Parte 3 - Programas Organizacionais para o Turismo
 
-# Parte 1 - Programas Estruturantes para a RAM
+Parte 1 - Programas Estruturantes para a RAM
 
 Programa Estruturante 1 - Percursos Turísticos, Desportivos e de Lazer
 
@@ -818,7 +858,7 @@ A7. Melhorar a acessibilidade interna na Ilha da Madeira; e
 
 A8. Implementação de um sistema de mobilidade sustentável na Ilha do Porto Santo.
 
-# Parte 2 - Programas Temáticos e Projetos Estratégicos
+Parte 2 - Programas Temáticos e Projetos Estratégicos
 
 Programa Temático 1 - Mais Natureza
 
@@ -920,7 +960,7 @@ A ligação ao Mar deu-se, nos últimos anos, pela construção de um conjunto d
 
 Projetos/Ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
 
 Subprograma Mar 2 - Atividade marítimo-turística
 
@@ -1228,7 +1268,7 @@ A7. Desenho e construção de uma rota de sabores e do vinho capaz de divulgar e
 
 A8. Requalificar os espaços de visita e formar os seus recursos humanos, para o atendimento e capacidade de resposta aos turistas mais exigentes e experientes na área da gastronomia e do vinho.
 
-# Parte 3 - Programas Organizacionais para o Turismo
+Parte 3 - Programas Organizacionais para o Turismo
 
 Programa Operacional 1 - Dinamizar a Inovação no Setor Turístico
 
@@ -1412,12 +1452,12 @@ Plantas e Peças Gráficas
 
 Desenho 01 - Modelo territorial da Ilha da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
 
 Desenho 02 - Modelo territorial da Ilha do Porto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
 
 Desenho 03 - Planta das Zonas e Subzonas de Cruzeiro no Espaço Marítimo da RAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10900/0279502814.pdf)

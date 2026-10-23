@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20900/0001800024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/324/2023/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-2023-223414660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3edb3acc8867e473bd963f97b11153bc833c5e93716ba76b9a5aecc3425b70b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbcfa43f45cf950ad9ad03225d879a1a81d64acb395885c9de1c30000836a853
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Agenda do Trabalho Digno
 - AMA
-- Instituto do Emprego e Formação Profissional
-- Criança
-- Política de Família
-- Instituto de Solidariedade e Segurança Social
 - Conservatória do Registo Comercial
 - Contrato de Prestação de Serviços
-- Regulamentação de Atos Legislativos
-- Sistema Nacional de Intervenção Precoce na Infância
-- Fiscalização
-- Lisboa
-- IPSS
-- Santa Casa da Misericórdia
-- Política Social
-- Política de Emprego
-- Proteção Social
 - Contrato de Trabalho
-- Segurança Social
+- Criança
 - Educação Pré-escolar
-- Agenda do Trabalho Digno
+- Fiscalização
+- Instituto de Solidariedade e Segurança Social
+- Instituto do Emprego e Formação Profissional
+- IPSS
+- Lisboa
+- Política de Emprego
+- Política de Família
+- Política Social
+- Proteção Social
+- Regulamentação de Atos Legislativos
+- Santa Casa da Misericórdia
+- Segurança Social
+- Sistema Nacional de Intervenção Precoce na Infância
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232/2015/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232/2015/08/06/p/dre
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69956141:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:38Z'
   warnings: []
   errors: []
 ---
@@ -367,4 +395,6 @@ Para efeitos de cumprimento do disposto na presente portaria e demais regulament
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 26 de outubro de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 26 de outubro de 2023.
+
+117000233

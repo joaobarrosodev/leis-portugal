@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/974/2009/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eed67e2d5e59df63d74451a0418cab1cb8b516226f0f4bcb0b6543cb46b9d48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e3303c0a9217ac389813a841eaa8c2139a3cd0d31e4cbd12f4a11c0cf636621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
 - Definição de Competências
 - Equipamento
-- Veículo
-- Bombeiro
-- Autoridade Nacional de Protecção Civil
-- Autarquia Local
+- Financiamento
 - Programa de Apoio aos Equipamentos
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
@@ -83,16 +83,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/174/2009/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/174/2009/02/18/p/dre
+- type: cites
+  target: pt:dre:636956:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:23Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +155,15 @@ T - número de turnos correspondente a dois terços do dia (dois turnos).
 
 5 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Em cada município em que exista mais do que um corpo de bombeiros, considerando os princípios da afectação racional e da coordenação de meios, a alocação dos veículos e equipamentos operacionais compete à ANPC, atendendo às características da área de actuação dos respectivos corpos de bombeiros.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos da presente portaria, os veículos previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:
 

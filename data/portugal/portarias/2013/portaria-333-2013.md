@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/333/2013/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-2013-504110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37b7d15919c784156cb7f7fdef6e77e4db6c1e767070fc904c51bb2116218445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5084c3f59ff5c9df0531b177969ef74e75ac994350ce7b2cc4f36b4c0c23493a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Desportivo
+- CENTRO DESPORTIVO NACIONAL DO JAMOR
 - Complexo Desportivo do Jamor
 - Definição de Competências
+- Equipamento Desportivo
 - Instituto Português do Desporto e Juventude
 - Regulamento
 - Regulamento de Utilização e Exploração do Complexo Desportivo do Jamor
-- CENTRO DESPORTIVO NACIONAL DO JAMOR
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2009/01/12/p/dre
@@ -102,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/889/2001/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/889/2001/07/27/p/dre
+- type: cites
+  target: pt:dre:174785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:52Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +174,7 @@ A presente portaria aprova o Regulamento Geral de Utilização e Exploração da
 
 A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 8 de novembro de 2013.**
+O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 8 de novembro de 2013.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -498,7 +526,9 @@ b) Assegura que não possui quaisquer contraindicações para a prática desport
 
 2- A captação de imagens carece, em qualquer caso, de autorização prévia do Conselho Diretivo do IPDJ, I.P., sob proposta do Diretor do CDNJ.
 
-###### Artigo 18.º — Livro reclamações
+###### Artigo 18.º
+
+## Livro reclamações
 
 O CDNJ coloca à disposição dos utentes em cada infraestrutura desportiva um livro de reclamações, conforme previsto na legislação em vigor.
 
@@ -512,4 +542,4 @@ A resolução de casos omissos ou dúvidas relacionadas com a aplicação do pre
 
 ## ANEXO I — Requerimento para utilização coletiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/22100/0645906464.pdf))](https://files.diariodarepublica.pt/1s/2013/11/22100/0645906464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/22100/0645906464.pdf)

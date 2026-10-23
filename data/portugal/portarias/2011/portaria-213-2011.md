@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/10400/0295802958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/2011/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2011-673445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f37b9b7f4e6cd409b3961ba46dd9da80177662d2b3d83a7b8ad45017f58ecc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2dce59517c17e246c78c755095e4158ffdada18f0a6effe01aa0bcd2535a856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
-- Transporte Aéreo
-- Instituto Nacional de Aviação Civil
-- Serviço de Estrangeiros e Fronteiras
 - Aviação Civil
+- Instituto Nacional de Aviação Civil
 - Segurança Aérea
+- Serviço de Estrangeiros e Fronteiras
 - Taxa Aeroportuária
 - TAXA de Prestação de Serviços
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: amended_by
@@ -88,16 +88,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/541/2004/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/541/2004/05/21/p/dre
+- type: repealed_by
+  target: pt:dre:25344032:por
+  label: "Revogada a Port 541/2004, de 21-maio,na redacção da presente Portaria, pela PORT.83/2014.11.04.2014.MAI, DR.IS [72]\
+    \ de 11.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-2014-25344032
+  date: '2014-04-11'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:15Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +158,4 @@ c) Voos internacionais - (euro) 7,07.
 
 A presente portaria entra em vigor 60 dias após a data da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 13 de Maio de 2011. - O Ministro da Administração Interna, Rui Carlos Pereira, em 21 de Março de 2011. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 16 de Março de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 13 de Maio de 2011. - O Ministro da Administração Interna, Rui Carlos Pereira, em 21 de Março de 2011. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 16 de Março de 2011.

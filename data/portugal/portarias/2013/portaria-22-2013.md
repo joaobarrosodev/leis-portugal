@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01600/0047100474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/2013/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-2013-257197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f193bc3c3b244d25178bb1c50bdf934402d174615dd1fd7bd8c80f42b95597d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05cadeb51576a83c007fa2bd602decbd0e7d7b504cccafafbcdcf5a1f6205c7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atleta Profissional
-- Dopagem
 - Controlo Anti-doping
+- Desporto
+- Dopagem
 - Lista
 - Substância Estupefaciente ou Psicotrópica
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:571018:por
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:174785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571018:por
+  label: "Revogada, a partir de 18.01.2014, pela PORT.9/2014.17.01.2014.PCM, DR.IS [12] de 17.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-2014-571018
+  date: '2014-01-17'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:13Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +127,7 @@ Esta lista produz efeitos desde 1 de janeiro de 2013.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Desporto e Juventude, Alexandre Miguel Cavaco Picanço Mestre, em 3 de janeiro de 2013.**
+O Secretário de Estado do Desporto e Juventude, Alexandre Miguel Cavaco Picanço Mestre, em 3 de janeiro de 2013.
 
 Lista de Substâncias e Métodos Proibidos
 

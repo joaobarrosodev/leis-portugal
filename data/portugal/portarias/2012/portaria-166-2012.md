@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/166/2012/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-2012-552006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6c701101238167656152192dfd762cdb262f17bf68b8896ea8507ef7194a229
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06c76c3e8ab0b7dda89e100cb46ee9367baa21eface5e05f72fe1e072776d4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Associação
+- Comércio
 - Direcção Regional de Agricultura e Pescas
+- Financiamento
 - Fiscalização
 - IFAP
 - Organização de Produtores
 - Programa Operacional
-- Associação
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:116877128:por
@@ -93,16 +93,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1325/2008/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1325/2008/11/18/p/dre
+- type: repealed_by
+  target: pt:dre:116877128:por
+  label: Revogada, a partir de 03.11.2018, a Port 1325/2008 de 18-nov, na redação do presente diploma, pelo(a) Portaria n.º
+    295-A/2018 - Diário da República n.º 211/2018, 1º Suplemento, Série I de 2018-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-a-2018-116877128
+  date: '2018-11-02'
 article_structure:
-  article_count: 15
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:36Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +153,9 @@ Os artigos 4.º, 11º, e 16º da Portaria n.º 1325/2008, de 18 de novembro, alt
 
 4 - As condições específicas da ação '6.4 - Seguros de colheitas' constam do anexo iv ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +177,9 @@ c) Para fazer acrescer ao fundo operacional a assistência financeira nacional, 
 
 7 - As decisões sobre pedidos de alteração aos programas operacionais em curso são tomadas até 20 de janeiro do ano seguinte àquele a que se reportam.
 
-###### Artigo 16.º — Assistência financeira nacional
+Artigo 16.º
+
+Assistência financeira nacional
 
 1 - Pode ser concedida assistência financeira nacional nas condições do artigo 103.º-E do Regulamento (CE) n.º [1234/2007](https://data.europa.eu/eli/reg/2007/1234/oj?locale=pt), até ao limite a fixar anualmente por despacho do membro do Governo responsável pela área da agricultura, mediante prévia autorização da Comissão Europeia.
 
@@ -187,9 +197,11 @@ O anexo i à Portaria n.º 1325/2008, de 18 de novembro, alterada pela Portaria 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2012.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 10 de maio de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 10 de maio de 2012.
 
-## ANEXO I — ANEXO I
+## ANEXO I
+
+## ANEXO I
 
 [...]
 
@@ -219,7 +231,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 8 - [...]
 
-## ANEXO II — ANEXO IV
+## ANEXO II
+
+## ANEXO IV
 
 (a que se refere o n.º 4 do artigo 4.º)
 

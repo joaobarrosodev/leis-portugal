@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24300/0001100031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/444/2023/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/444-2023-799214997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 426555ff4e3849dca74a03a2083cbf0f8c3678626ff9e6fcf50a9c2622cc5a3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe76bfa42442882a1e7e588828aa0cf458f46ddf41c32634778c17e2d82ce53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADM
-- Financiamento
 - Comparticipação
+- Cuidados Médicos
 - Deficiente das Forças Armadas
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Cuidados Médicos
-- Militar
 - Direção Geral de Recursos da Defesa Nacional
+- Financiamento
+- Militar
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amended_by
+  target: pt:dre:905996359:por
+  label: Alterados, com efeitos a 2 de janeiro de 2024, os Anexos I, II e III pelo(a) Despacho n.º 1587/2025 - Diário da República
+    n.º 24/2025, Série II de 2025-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1587-2025-905996359
+  date: '2025-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2005/09/23/p/dre
   label: null
@@ -87,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1034/2009/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1034/2009/09/11/p/dre
+- type: cites
+  target: pt:dre:147854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555830:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:18Z'
   warnings: []
   errors: []
 ---
@@ -323,7 +353,7 @@ A presente Portaria entra em vigor no primeiro dia útil do mês seguinte à sua
 
 Em 7 de dezembro de 2023.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -331,9 +361,9 @@ Lista de produtos de apoio elegíveis
 
 ISO 9999:2007
 
-|  |  |  |  |  |  |
+| Códigos ISO | Categorias | Prescrição médica apoiada<br>por equipa<br>multidisciplinar (A) | Duração mínima<br>de referência (meses) | Quantidade máxima | Reutilização |
 | --- | --- | --- | --- | --- | --- |
-| Códigos ISO | Categorias | Prescrição médica apoiada por equipa multidisciplinar (A) | Duração mínima de referência (meses) | Quantidade máxima | Reutilização |
+|  |  |  |  |  |  |
 | 04 | Produtos de apoio para tratamento clínico individual: |  |  |  |  |
 | 04 03 | Produtos de apoio para terapia respiratória: |  |  |  |  |
 | 04 03 03 | Pré-aquecedores do ar inalado ... | Médico ... | 36 | 1 |  |
@@ -480,13 +510,13 @@ ISO 9999:2007
 | 09 33 03 | Cadeiras de banho/duche (com ou sem rodas), tábuas de banho, bancos, encostos e assentos. | Fisiatra (A) ... | 36 | 1 | R |
 | 12 | Produtos de apoio para a mobilidade pessoal: |  |  |  |  |
 | 12 03 | Produtos de apoio para a marcha, manejados por um braço: |  |  |  |  |
-| 12 03 03 | Bengalas ... | Fisiatra ou ortopedista (A) ... | 36 24 | 2 1* | R |
-| 12 03 06 | Canadianas ... | Fisiatra ou ortopedista (A) ... | 36 24 | 2 1* | R |
-| 12 03 09 | Canadianas com suporte para o antebraço ... | Fisiatra ou ortopedista (A) ... | 36 24 | 2 1* | R |
+| 12 03 03 | Bengalas ... | Fisiatra ou ortopedista (A) ... | 36<br>24 | 2<br>1* | R |
+| 12 03 06 | Canadianas ... | Fisiatra ou ortopedista (A) ... | 36<br>24 | 2<br>1* | R |
+| 12 03 09 | Canadianas com suporte para o antebraço ... | Fisiatra ou ortopedista (A) ... | 36<br>24 | 2<br>1* | R |
 | 12 03 12 | Muletas axilares ... | Fisiatra ou ortopedista (A) ... | 24 | 1* | R |
 | 12 03 16 | Auxiliares de marcha com três ou mais pernas ... | Fisiatra ou ortopedista (A) ... | 24 | 1 | R |
 | 12 06 | Produtos de apoio para a marcha, manejados pelos dois braços: |  |  |  |  |
-| 12 06 03 | Andarilhos sem rodas ... | Fisiatra ou ortopedista (A) ... | 36 24 | 2 1 | R |
+| 12 06 03 | Andarilhos sem rodas ... | Fisiatra ou ortopedista (A) ... | 36<br>24 | 2<br>1 | R |
 | 12 06 06 | Andarilhos com rodas ... | Fisiatra (A) ... | 24 | 1 | R |
 | 12 06 12 | Andarilhos especiais ... | Fisiatra (A) ... | 24 | 1 | R |
 | 12 10 | Carros: |  |  |  |  |
@@ -534,7 +564,7 @@ ISO 9999:2007
 | 12 36 03 | Gruas de elevação com fundas ... | Fisiatra (A) ... | 60 | 1 | R |
 | 12 36 21 | Unidades de suporte da pessoa para gruas ... | Fisiatra (A) ... | 36 | 1 | R |
 | 12 39 | Produtos de apoio para orientação: |  |  |  |  |
-| 12 39 03 | Bengalas táteis (brancas) e bengalas brancas ... | Oftalmologista ou fisiatra (A) ... | 36 18 | 2 1 | R |
+| 12 39 03 | Bengalas táteis (brancas) e bengalas brancas ... | Oftalmologista ou fisiatra (A) ... | 36<br>18 | 2<br>1 | R |
 | 12 39 09 | Produtos de apoio para navegação acústica (faróis sonoros). | Técnicos de orientação e mobilidade (A). | 18 | 1 | R |
 | 12 39 18 | Materiais de orientação tátil ... | Técnicos de orientação e mobilidade (A). | 18 | 1 | R |
 | 15 | Produtos de apoio para atividades domésticas: |  |  |  |  |
@@ -572,7 +602,7 @@ ISO 9999:2007
 | 22 03 18 | Sistemas vídeo de ampliação de imagem ... | Oftalmologista (A) ... | 36 | 1 | R |
 | 22 06 | Produtos de apoio para ouvir: |  |  |  |  |
 | 22 06 06 | Ajudas para ouvir usadas no corpo ... | Otorrinolaringologista (A) ... | 36 | 1* |  |
-| 22 06 09 | Óculos com ajudas para ouvir ... | Otorrinolaringologista (A) ... | 36 | 2 1 |  |
+| 22 06 09 | Óculos com ajudas para ouvir ... | Otorrinolaringologista (A) ... | 36 | 2<br>1 |  |
 | 22 06 12 | Ajudas para ouvir intra-auriculares ... | Otorrinolaringologista (A) ... | 36 | 1* |  |
 | 22 06 15 | Ajudas para ouvir retro auriculares ... | Otorrinolaringologista (A) ... | 36 | 1* |  |
 | 22 06 18 | Ajudas táteis para ouvir ... | Otorrinolaringologista (A) ... | 36 | 1 | R |
@@ -639,9 +669,9 @@ Lista com configurações por tipo de produto de apoio
 
 06 18 Sistemas de próteses para o membro superior
 
-|  |  |  |
+| Código ISO | Categoria \| descrição | Duração mínima<br>de referência<br>(meses) |
 | --- | --- | --- |
-| Código ISO | Categoria \\| descrição | Duração mínima de referência (meses) |
+|  |  |  |
 | 06 18 03 | Próteses parciais para a mão: |  |
 | 06 18 03 00 | Prótese funcional para amputação parcial da mão ou dedos, incluindo o polegar ... | 36 |
 | 06 18 03 03 | Prótese cosmética para amputação parcial da mão, ou dedos incluindo o polegar ... | 36 |
@@ -698,9 +728,9 @@ Lista com configurações por tipo de produto de apoio
 
 06 24 Sistemas de próteses para o membro inferior
 
-|  |  |  |
+| Código ISO | Categoria \| descrição | Duração mínima<br>de referência (meses) |
 | --- | --- | --- |
-| Código ISO | Categoria \\| descrição | Duração mínima de referência (meses) |
+|  |  |  |
 | 06 24 03 | Próteses parciais do pé: |  |
 | 06 24 03 00 | Prótese para amputação parcial ou total dos dedos. Prótese que substitui o segmento amputado. (palmilha com compensação) ... | 36 |
 | 06 24 03 03 | Prótese para amputação parcial ou total dos dedos. Prótese que substitui o segmento amputado. (prótese em silicone) ... | 36 |
@@ -822,9 +852,9 @@ Lista com configurações por tipo de produto de apoio
 
 12 22 Cadeiras de rodas manuais
 
-|  |  |  |
+| Código ISO | Categoria \| descrição | Duração mínima<br>de referência (meses) |
 | --- | --- | --- |
-| Código ISO | Categoria \\| descrição | Duração mínima de referência (meses) |
+|  |  |  |
 | 12 22 03 | Cadeiras de rodas manobradas bimanualmente por rodas: |  |
 | 12 22 03 00 | Cadeira de rodas manual, standard, em liga de aço/alumínio, de encartar ... | 36 |
 | 12 22 03 03 | Cadeira de rodas manual bariátrica, standard ... | 36 |
@@ -847,9 +877,9 @@ Lista com configurações por tipo de produto de apoio
 
 12 23 Cadeiras de Rodas Motorizadas
 
-|  |  |  |
+| Código ISO | Categoria \| descrição | Duração mínima<br>de referência (meses) |
 | --- | --- | --- |
-| Código ISO | Categoria \\| descrição | Duração mínima de referência (meses) |
+|  |  |  |
 | 12 23 03 | Cadeiras de rodas elétricas com comando de direção manual: |  |
 | 12 23 03 00 | Scooter com cinto de segurança, retrovisores e luzes ... | 60 |
 | 12 23 03 03 | Scooter com cinto de segurança, retrovisores, luzes e suportes de canadianas ... | 60 |
@@ -866,9 +896,9 @@ Lista com configurações por tipo de produto de apoio
 
 12 24 Acessórios para Cadeiras de Rodas
 
-|  |  |  |
+| Código ISO | Categoria \| descrição | Duração mínima<br>de referência (meses) |
 | --- | --- | --- |
-| Código ISO | Categoria \\| descrição | Duração mínima de referência (meses) |
+|  |  |  |
 | 12 24 03 | Sistemas de direção e controlo: |  |
 | 12 24 03 00 | Comando Standard, rebatível ... | 24 |
 | 12 24 03 03 | Comando mentoniano ... | 24 |
@@ -905,9 +935,9 @@ Lista com configurações por tipo de produto de apoio
 
 Lista de Produtos Complementares
 
-|  |  |
-| --- | --- |
 | Códigos | Categorias |
+| --- | --- |
+|  |  |
 | 40 | Produtos complementares para cuidados e hidratação corporal. |
 | 50 | Material de penso, antisséticos e desinfetantes: |
 | 50 01 | Material de penso (ex.: luvas, compressas, seringas). |
@@ -928,10 +958,10 @@ Preditores de mobilidade
 |  |  |
 | --- | --- |
 | K-Nível 0 ... | Não tem capacidade ou potencial de andar ou de se transferir com segurança, com ou sem assistência. A utilização de prótese não melhora a qualidade de vida ou a mobilidade. |
-| K-Nível 1 ... | Tem capacidade ou potencial para utilizar uma prótese para transferir-se ou andar em superfícies planas com uma cadência fixa. Típico do andante no domicílio, com ou sem assistência. O objetivo terapêutico é restabelecer a capacidade de bipedestação e a possibilidade de marcha limitada, em espaços interiores. |
-| K-Nível 2 ... | Tem capacidade ou potencial de andar e de ultrapassar barreiras ambientais reduzidas, como obstáculos, escadas ou as superfícies irregulares. Típico do andante limitado e com limitada ambulação na comunidade. O objetivo terapêutico é restabelecer a capacidade de bipedestação e a capacidade de marcha limitada, em espaços interiores e exteriores. |
-| K-Nível 3 ... | Tem capacidade ou potencial para andar com cadência variável. Típico do andante habitual na comunidade, com capacidade de ultrapassar a maioria das barreiras ambientais. Pode ter atividades profissionais, terapêuticas ou de exercício que requerem a utilização de prótese em atividades que vão para além do assegurar a simples locomoção. O objetivo terapêutico é restabelecer a capacidade de bipedestação e a capacidade de marcha sem limites, em espaços interiores e exteriores. |
-| K-Nível 4 ... | Tem capacidade ou potencial para marcha com prótese que excede as habilidades básicas de marcha, exigindo níveis elevados de impacto, tensão física e energia. Típico das exigências protéticas da criança, adulto ativo ou atleta. |
+| K-Nível 1 ... | Tem capacidade ou potencial para utilizar uma prótese para transferir-se ou andar em superfícies planas com uma cadência fixa. Típico do andante no domicílio, com ou sem assistência.<br>O objetivo terapêutico é restabelecer a capacidade de bipedestação e a possibilidade de marcha limitada, em espaços interiores. |
+| K-Nível 2 ... | Tem capacidade ou potencial de andar e de ultrapassar barreiras ambientais reduzidas, como obstáculos, escadas ou as superfícies irregulares. Típico do andante limitado e com limitada ambulação na comunidade.<br>O objetivo terapêutico é restabelecer a capacidade de bipedestação e a capacidade de marcha limitada, em espaços interiores e exteriores. |
+| K-Nível 3 ... | Tem capacidade ou potencial para andar com cadência variável. Típico do andante habitual na comunidade, com capacidade de ultrapassar a maioria das barreiras ambientais. Pode ter atividades profissionais, terapêuticas ou de exercício que requerem a utilização de prótese em atividades que vão para além do assegurar a simples locomoção.<br>O objetivo terapêutico é restabelecer a capacidade de bipedestação e a capacidade de marcha sem limites, em espaços interiores e exteriores. |
+| K-Nível 4 ... | Tem capacidade ou potencial para marcha com prótese que excede as habilidades básicas de marcha, exigindo níveis elevados de impacto, tensão física e energia.<br>Típico das exigências protéticas da criança, adulto ativo ou atleta. |
 
 Adaptado da Classificação MFCL (medicare functional classification level) e do Catálogo de prestações ortoprotéticas-Catalunha
 
@@ -941,7 +971,9 @@ Nota. - K é uma letra arbitrária atribuída a este sistema de classificação.
 
 |  |  |
 | --- | --- |
-| K-Nível 0 ... | Não tem capacidade de assumir a posição de sentado com segurança. A cadeira de rodas não permite a mobilidade nem aumenta a qualidade de vida. |
-| K-Nível 1 ... | Tem limitações graves motoras de tronco e membros superiores, sem capacidade de andar, ou realiza marcha, mas não funcional. Tem limitações ao nível da capacidade de orientação espacial e de tomada de decisão face a situações que se deparem. Tem participação social (incluindo recreação e lazer) e profissional reduzida. Utilizador passivo de cadeira de rodas, manual e eventualmente elétrica, essencialmente no interior, com assistência. O objetivo terapêutico é possibilitar a capacidade de deslocar-se, em espaços interiores. |
-| K-Nível 2 ... | Tem limitações motoras moderadas de tronco e membros superiores para ultrapassar barreiras ambientais. Não tem capacidade de andar, ou tem capacidade de andar curtas distâncias ((menor que)1km) e em superfícies planas. Tem participação social (incluindo recreação e lazer) e profissional moderada. Utilizador usual de cadeira de rodas no interior e exterior, elétrica ou manual, com ou sem assistência. O objetivo terapêutico é possibilitar a capacidade de deslocar-se, em espaços interiores e exteriores. |
-| K-Nível 3 ... | Não tem limitações motoras - ou são ligeiras - de tronco e membros superiores. Não tem capacidade de andar ou tem capacidade de andar curtas distâncias ((menor que)1 km) e em superfícies planas, no interior e exterior. Tem necessidade de manusear, mover objetos e transportar equipamento de mobilidade, como colocar e retirar cadeira de rodas do carro. Tem participação social (incluindo recreação e lazer) intensa e vida profissional ativa. Utilizador ativo de cadeira de rodas, predominantemente manual, com deslocações autónomas na maioria dos contextos ambientais, interiores e exteriores. O objetivo terapêutico é possibilitar a capacidade de deslocar-se, autonomamente, em espaços interiores e exteriores. |
+| K-Nível 0 ... | Não tem capacidade de assumir a posição de sentado com segurança.<br>A cadeira de rodas não permite a mobilidade nem aumenta a qualidade de vida. |
+| K-Nível 1 ... | Tem limitações graves motoras de tronco e membros superiores, sem capacidade de andar, ou realiza marcha, mas não funcional. Tem limitações ao nível da capacidade de orientação espacial e de tomada de decisão face a situações que se deparem. Tem participação social (incluindo recreação e lazer) e profissional reduzida.<br>Utilizador passivo de cadeira de rodas, manual e eventualmente elétrica, essencialmente no interior, com assistência.<br>O objetivo terapêutico é possibilitar a capacidade de deslocar-se, em espaços interiores. |
+| K-Nível 2 ... | Tem limitações motoras moderadas de tronco e membros superiores para ultrapassar barreiras ambientais. Não tem capacidade de andar, ou tem capacidade de andar curtas distâncias ((menor que)1km) e em superfícies planas. Tem participação social (incluindo recreação e lazer) e profissional moderada.<br>Utilizador usual de cadeira de rodas no interior e exterior, elétrica ou manual, com ou sem assistência.<br>O objetivo terapêutico é possibilitar a capacidade de deslocar-se, em espaços interiores e exteriores. |
+| K-Nível 3 ... | Não tem limitações motoras - ou são ligeiras - de tronco e membros superiores. Não tem capacidade de andar ou tem capacidade de andar curtas distâncias ((menor que)1 km) e em superfícies planas, no interior e exterior. Tem necessidade de manusear, mover objetos e transportar equipamento de mobilidade, como colocar e retirar cadeira de rodas do carro. Tem participação social (incluindo recreação e lazer) intensa e vida profissional ativa.<br>Utilizador ativo de cadeira de rodas, predominantemente manual, com deslocações autónomas na maioria dos contextos ambientais, interiores e exteriores.<br>O objetivo terapêutico é possibilitar a capacidade de deslocar-se, autonomamente, em espaços interiores e exteriores. |
+
+117147096

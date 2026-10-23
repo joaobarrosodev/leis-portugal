@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/992/2010/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/992-2010-342638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38169386aaa4af9342a1052fd455684618e0e74e9c91ef6939d6ac5472d94fcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2be43eef5cae0a3e33578ffeaeeb95b02607aa667cac583a073322e9044b80fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Cidadão
-- Pagamento
 - Identificação Civil
+- Pagamento
 - Taxa
 relationships:
 - type: cites
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/203/2007/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/203/2007/02/13/p/dre
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:36Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +144,9 @@ e) Serviço de expedição para o estrangeiro - (euro) 5, a acrescer à taxa apl
 
 4 - Pedido autónomo de alteração de morada - (euro) 3.
 
-###### Artigo 4.º — Isenção e redução de taxas
+Artigo 4.º
+
+Isenção e redução de taxas
 
 1 - Na primeira emissão do cartão de cidadão, em regime normal, até à idade prevista no n.º 1 do artigo 3.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, a taxa aplicável é reduzida em 50 %.
 
@@ -148,7 +154,9 @@ e) Serviço de expedição para o estrangeiro - (euro) 5, a acrescer à taxa apl
 
 3 - O regime previsto no número anterior é igualmente aplicável no quadro de campanhas de incentivo à substituição, em regime normal, de bilhetes de identidade vitalícios por cartões de cidadão.
 
-###### Artigo 5.º — Taxa de realização de serviço externo
+Artigo 5.º
+
+Taxa de realização de serviço externo
 
 1 - Sem prejuízo do disposto na lei sobre os actos de identificação civil gratuitos, quando, no âmbito do pedido de emissão ou substituição do cartão de cidadão, for solicitada a realização de serviço externo, é devida uma taxa de (euro) 40, que acresce às taxas de emissão ou substituição do cartão.
 
@@ -158,4 +166,4 @@ e) Serviço de expedição para o estrangeiro - (euro) 5, a acrescer à taxa apl
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto de Sousa Martins, em 21 de Setembro de 2010.**
+O Ministro da Justiça, Alberto de Sousa Martins, em 21 de Setembro de 2010.

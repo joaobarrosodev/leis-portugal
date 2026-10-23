@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2012/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2012-175287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c85016c1ef010134fd3f52d57aafc87708a5530e2cb2b043cb01599f01c2510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef56a3602270be62932b33313c5f8590543811ac9ca9c5d47d7d8c13d0d9c081
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida Alcoólica
-- Vinho
-- Denominação de Origem
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Embalagem
 - Etiquetagem
 - Instituto da Vinha e do Vinho
 - Marca Registada
-- Embalagem
+- Produto Vitivinícola
+- Região Demarcada
 - Regulamento CE
 - Vinagre
-- Produto Vitivinícola
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:105758425:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503843:por
+  label: "Alterado o art. 9.º do presente diploma pela PORT.342/2013.22.11.2013.MAGM, DR.IS [227] de 22.11.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-2013-503843
+  date: '2013-11-22'
+- type: amended_by
+  target: pt:dre:61648172:por
+  label: Dada nova redação aos arts. 3.º, 6.º, 7.º e 9.º (este último alterado pela Port 342/2013 de 22-nov) pelo(a) Portaria
+    n.º 255/2014 - Diário da República n.º 237/2014, Série I de 2014-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2014-61648172
+  date: '2014-12-09'
+- type: amended_by
+  target: pt:dre:70423676:por
+  label: Alterado (a partir de 30.10.2015) o art 3.º (na redação da Port 255/2014 de 09-dez) e aditado o art 15.º-A à presente
+    portaria, pelo(a) Portaria n.º 322/2015 - Diário da República n.º 192/2015, Série I de 2015-10-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-2015-70423676
+  date: '2015-10-01'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -96,16 +113,22 @@ relationships:
   target: celex:32009R0607
   label: null
   source: http://data.europa.eu/eli/reg/2009/607/oj
+- type: repealed_by
+  target: pt:dre:105758425:por
+  label: Revogada, nos termos do art. 25.º, a presente portaria, na redação das Ports 342/2013 de 22-nov, 255/2014 de 09-dez
+    e 322/2015 de 01-out pelo(a) Portaria n.º 26/2017 - Diário da República n.º 10/2017, Série I de 2017-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-2017-105758425
+  date: '2017-01-13'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:06Z'
   warnings: []
   errors: []
 ---
@@ -440,4 +463,4 @@ c) A Portaria n.º 669/2010, de 11 de agosto.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 24 de julho de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 24 de julho de 2012.

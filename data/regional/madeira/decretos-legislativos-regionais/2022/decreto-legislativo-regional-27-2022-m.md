@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25100/0001600050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2022/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2022-205493448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b839852cb4968ecb22d37830b2aa000555bf6293238ed2277621d9476925371f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e2296760d2cd00f5b4762b552f2d019219353231eb846d5d14b2412b024c485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,54 +69,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
+- Aquicultura
 - Armazenagem
 - Cartão de Identificação
-- Multa
-- Governo Regional
+- Centro de Expedição de Gastrópodes Marinhos Vivos
+- Circulação de Mercadorias
+- Comércio
 - Contrato
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
-- Processo Disciplinar
+- Dados Pessoais
+- Definição de Competências
+- Embarcação de Pesca
+- Entidade Gestora e Supervisora do SIGLE
+- Entreposto Frigorífico
 - Fiscalização
-- Pesca
 - GELO
-- Pagamento
-- Seguro
+- GNR
+- Governo Regional
 - Higiene Alimentar
 - Horário de Funcionamento
 - Indemnização
 - Indústria
 - Industrial
-- Venda em Hasta Pública
 - Lota
-- GNR
-- Aquicultura
-- Circulação de Mercadorias
+- Madeira.região Autónoma
+- Multa
+- Pagamento
 - Peixe
-- Pescado
 - Peixe Congelado
+- Pesca
+- Pescado
 - Pessoa Coletiva
 - Pessoa Singular
-- Tesouraria
 - Polícia Marítima
+- Posto de receção de pescado
 - Prazo de Conservação
 - Preço
+- Processo Disciplinar
 - Produtor
-- Madeira.região Autónoma
 - Regime Jurídico
-- Embarcação de Pesca
 - Sanção
-- Dados Pessoais
-- Taxa
-- Comércio
-- Veterinário
 - Saúde Animal
+- Seguro
 - Sistema Integrado de Gestão de Lotas e Entrepostos (SIGLE)
-- Posto de receção de pescado
-- Entreposto Frigorífico
-- Centro de Expedição de Gastrópodes Marinhos Vivos
-- Entidade Gestora e Supervisora do SIGLE
+- Taxa
+- Tesouraria
+- Venda em Hasta Pública
+- Veterinário
 relationships:
 - type: cites
   target: celex:32004R0852
@@ -158,16 +158,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:120696372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130954978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180720360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 93
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:38Z'
   warnings: []
   errors: []
 ---
@@ -1458,11 +1498,11 @@ Durante o período determinado no artigo anterior serão ministradas sessões de
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 26 de dezembro de 2022.**
+Assinado em 26 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1470,4 +1510,6 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Nos documentos comerciais dos entrepostos frigoríficos devem constar os seguintes campos de informação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25100/0001600050.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25100/0001600050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25100/0001600050.pdf)
+
+116007555

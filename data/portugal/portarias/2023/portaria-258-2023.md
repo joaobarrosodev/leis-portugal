@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15600/0001400018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/258/2023/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/258-2023-219826019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cafba4d32313b8145223225c5c276134cbc272245a4623bbeee79ea227ce5c43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d7f00d18c405e5c76471bdc8d3642cec793485389d3d9ea736f553301f871ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
+- Águas Subterrâneas
 - Montijo
 - Proteção do Ambiente
-- Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
 - Vendas Novas
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:107094686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:13Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +168,7 @@ b) AC1-A, AC3, AC4, FR6, JK1, JK2, JK3 e RA1 do polo de captação de Faias.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 7 de agosto de 2023.**
+O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 7 de agosto de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -156,9 +176,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 [...]
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Polo de captação | Captação | M (m) | P (m) |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | [...] | [...] | [...] | [...] |  |
 |  | [...] | [...] | [...] |  |
 |  | [...] | [...] | [...] |  |
@@ -214,15 +234,17 @@ JK3
 
 RA1
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1 ... | - 32 839,2 | - 104 522,3 |
 | 2 ... | - 32 824,0 | - 104 515,6 |
 | 3 ... | - 32 809,6 | - 104 539,4 |
 | 4 ... | - 32 824,8 | - 104 546,1 |
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 Polo de captação de Faias
 
@@ -260,16 +282,18 @@ JK3
 
 RA1
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1 ... | - 32 874,7 | - 104 529,5 |
 | 2 ... | - 32 794,7 | - 104 504,5 |
 | 3 ... | - 32 790,7 | - 104 578,5 |
 | 4 ... | - 32 859,7 | - 104 578,5 |
 | 5 ... | - 32 877,7 | - 104 554,0 |
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 Polos de captação de Bica Fria e Faias
 
@@ -279,8 +303,15 @@ SC1, FR3, FR4, AC1-A, AC3, AC4, FR6, JK1, JK2, JK3 e RA1
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 Polos de captação de Bica Fria e Faias
 
-![](https://files.diariodarepublica.pt/images/219826019/219826813.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/219826019/219826813.png) |
+| --- |
+
+116758312
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:right; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; }

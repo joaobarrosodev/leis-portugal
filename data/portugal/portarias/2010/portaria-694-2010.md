@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/694/2010/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 987c33c7275ce7d3f96dfbd8ff54a7fc8cd88962953a5c04fd37c0d4a767fbed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e54feb804d68f32dbb092b0b776f9f95cb273353a0466f27d5b3419f3edce3d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ficheiro Informático
-- Recolha de Dados
 - Comunicações Eletrónicas
+- Direito Penal
+- Ficheiro Informático
 - Formulário Eletrónico
-- Segurança da Informação
+- Investigação Criminal
 - Juiz
 - Período Experimental
 - Pessoa Coletiva
 - Pessoa Singular
 - Prazo de Conservação
-- Direito Penal
+- Recolha de Dados
 - Sapdoc
-- Investigação Criminal
+- Segurança da Informação
 - Tribunal
 relationships:
 - type: cites
@@ -96,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/469/2009/05/06/p/dre
 article_structure:
-  article_count: 22
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:55Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +161,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 6.º-A da Portaria n.º 469/2009
 
 2 - A presente portaria estabelece, igualmente, o modo de comunicação electrónica de qualquer pedido de conservação ou transmissão de dados legalmente admissível efectuado pelo tribunal ou por qualquer agente legalmente competente aos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou inquérito criminal.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O juiz que tenha ordenado ou autorizado a transmissão de dados nos termos previstos no artigo 9.º da Lei n.º 32/2008, de 17 de Julho, comunica a decisão através da aplicação informática denominada 'sistema de acesso ou pedido de dados às operadoras de comunicações' (SAPDOC) especificamente disponibilizada para o efeito.
 
@@ -181,7 +183,9 @@ d) Sempre que aplicável, o grau de urgência que tenha sido determinado.
 
 5 - Com a aposição da assinatura electrónica é accionado o envio, automático e electrónico, às entidades requeridas, dos dados estruturados inseridos no formulário e do documento em formato portable document format (pdf).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Após recepção de um pedido de dados, o fornecedor de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações ('o fornecedor') procede imediatamente à pesquisa dos mesmos, de acordo com a ordem cronológica de recepção do pedido ou o grau de urgência determinado.
 
@@ -195,13 +199,17 @@ a) Se verifique uma divergência entre a ordem do juiz e os restantes dados cons
 
 b) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - Após recepção da notificação referida no número anterior, o fornecedor pode eliminar, do seu sistema, a cópia do ficheiro enviado, sem prejuízo da obrigação de conservação e preservação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho.
 
-###### Artigo 5.º — Segurança da informação
+Artigo 5.º
+
+Segurança da informação
 
 1 - Tendo em vista a segurança dos dados objecto da comunicação electrónica referida no n.º 1 do artigo 1.º, são adoptadas as seguintes medidas:
 
@@ -225,7 +233,9 @@ h) ...
 
 3 - O disposto nos números anteriores não prejudica o envio, conversão e tratamento dos dados para os fins para que foram transmitidos em outros formatos electrónicos, desde que o seu envio, conversão ou tratamento seja efectuado sob a direcção das autoridades judiciárias ou das autoridades competentes.
 
-###### Artigo 6.º — Envio electrónico de outros pedidos
+Artigo 6.º
+
+Envio electrónico de outros pedidos
 
 1 - O SAPDOC deve ser utilizado como a forma de comunicação electrónica dos pedidos previstos no n.º 2 do artigo 1.º, efectuados pelo tribunal ou por qualquer agente legalmente competente, no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou de um inquérito criminal.
 
@@ -237,7 +247,9 @@ b) O SAPDOC disponibiliza para tal um formulário adaptado à matéria do pedido
 
 c) Sempre que os dados solicitados se reportem a meros dados de identificação ou de localização do suspeito, arguido ou outro interveniente processual, as medidas de segurança na comunicação de tais dados são as decorrentes da aplicação das funcionalidades próprias da Rede da Justiça e de webservices seguros.
 
-###### Artigo 6.º-A — Período experimental
+Artigo 6.º-A
+
+Período experimental
 
 1 - O SAPDOC é de utilização facultativa durante o respectivo período experimental, que se inicia na data da entrada em vigor da presente portaria e que terminará progressivamente, em função da disponibilização aos utilizadores das funcionalidades do sistema e quando tal for determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas da administração interna e da justiça.
 
@@ -255,7 +267,9 @@ Reenvio de dados pelo juiz
 
 2 - Os dados disponibilizados nos termos do número anterior são utilizados pelas autoridades judiciárias ou pelas demais autoridades competentes, designadamente, no âmbito da investigação, detecção e repressão de crimes graves, podendo ser objecto de conversão ou tratamento, segundo as leges artis, sempre em condições adequadas aos fins a que se destinam.
 
-###### Artigo 5.º-A — Harmonização de prazos de conservação distintos
+Artigo 5.º-A
+
+Harmonização de prazos de conservação distintos
 
 Tendo em conta que o mesmo dado pode ter de ser conservado durante prazos diferentes consoante as normas legais aplicáveis, os operadores de comunicações asseguram que:
 
@@ -277,7 +291,7 @@ c) Não haja lugar à transmissão de dados caso o prazo de conservação legal 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 23 de Julho de 2010. - Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 22 de Julho de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 2 de Agosto de 2010.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 23 de Julho de 2010. - Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 22 de Julho de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 2 de Agosto de 2010.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

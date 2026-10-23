@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05803/0000200052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128-b/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-b-2025-912257036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d8b0015cb2d560c7bd02afb12c8846302dc2b8e2d4b24c590d69acc19e639d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14d7550a37de4865a2911aef83e516c274ca3b64363a73a6d8ed86c3c647bbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Parque Natural da Serra de São Mamede
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Parque Natural da Serra de São Mamede
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
+- Vida Selvagem
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906249927:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:56Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +155,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 19 de março de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 18 de março de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 21 de março de 2025.**
+O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 19 de março de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 18 de março de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 21 de março de 2025.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -159,7 +179,8 @@ Quadro 1 - Unidades territoriais abrangidas pela ZEC São Mamede
 
 (fonte: CAOP 2016)
 
-![](https://files.diariodarepublica.pt/images/912257036/912258122.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258122.png) |
+| --- |
 
 Figura 1 - Enquadramento territorial da ZEC São Mamede.
 
@@ -204,23 +225,23 @@ Quadro 2 - Tipos de habitat do anexo i da Diretiva Habitats com presença signif
 | 3270 | Cursos de água de margens vasosas com vegetação da Chenopodion rubri p.p. e da Bidention p.p.. |
 | 3280 | Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba |
 | 3290 | Cursos de água mediterrânicos intermitentes da Paspalo-Agrostidion |
-| 4020 | # Charnecas húmidas atlânticas temperadas de Erica ciliaris e Erica tetralix |
+| **4020** | **# Charnecas húmidas atlânticas temperadas de**Erica ciliaris**e**Erica tetralix |
 | 4030 | Charnecas secas europeias |
 | 5210 | Matagais arborescentes de Juniperus spp. |
 | 5330 | Matos termomediterrânicos pré-desérticos |
 | 6220 | Subestepes de gramíneas e anuais da Thero-Brachypodietea |
-| 6310 | # Montados de Quercus spp. de folha perene (inclui montados de Quercus pyrenaica) |
+| **6310** | **# Montados de**Quercus**spp. de folha perene (inclui montados de**Quercus pyrenaica**)** |
 | 6420 | Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion |
 | 6430 | Comunidades de ervas altas higrófilas das orlas basais e dos pisos montano a alpino |
 | 8220 | Vertentes rochosas siliciosas com vegetação casmofítica |
 | 8230 | Rochas siliciosas com vegetação pioneira da Sedo-Scleranthion ou da Sedo albi-Veronicion dillenii |
-| 8310 | # Grutas não exploradas pelo turismo |
-| 9230 | # Carvalhais galaico-portugueses de Quercus robur e Quercus pyrenaica |
+| **8310** | **# Grutas não exploradas pelo turismo** |
+| **9230** | **# Carvalhais galaico-portugueses de**Quercus robur**e**Quercus pyrenaica |
 | 9260 | Florestas de Castanea sativa |
-| 9330 | # Florestas de Quercus suber |
-| 9340 | # Florestas de Quercus ilex e Quercus rotundifolia |
+| **9330** | **# Florestas de**Quercus suber |
+| **9340** | **# Florestas de**Quercus ilex**e**Quercus rotundifolia |
 | 91B0 | Freixiais termófilos de Fraxinus angustifolia |
-| 91E0 | # Florestas aluviais de Alnus glutinosa e Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) |
+| **91E0** | **# Florestas aluviais de**Alnus glutinosa**e**Fraxinus excelsior**(**Alno-Padion**,**Alnion incanae**,**Salicion albae**)** |
 | 92A0 | Florestas-galerias de Salix alba e Populus alba |
 
 Quadro 3 - Espécies do anexo ii da Diretiva Habitats com presença significativa na ZEC
@@ -268,9 +289,9 @@ A integridade ecológica da ZEC fica, deste modo, enquadrada pelo conjunto dos o
 
 Quadro 4 - Objetivos de conservação para a gestão da ZEC
 
-| Objetivos de conservação | Indicadores | Metas |
+| Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas |  |  |
 | --- | --- | --- |
-| Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 91E0 - Florestas aluviais de Alnus glutinosa e Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) | • Área de habitat com estrutura bem conservada (ha) | • Manter a área de habitat com estrutura bem conservada |
 | 2. Melhorar o grau de conservação do habitat de Euplagia quadripunctaria e Coenagrion mercuriale | • Área de habitat adequado para a espécie (ha) | • Aumentar a área de habitat adequado para a espécie |
 | 3. Melhorar o grau de conservação do habitat de Unio tumidiformis | • Número de indivíduos• Área de habitat adequado para a espécie | • Aumentar o número de indivíduos• Aumentar a área de habitat adequado para a espécie |
@@ -282,40 +303,40 @@ Quadro 4 - Objetivos de conservação para a gestão da ZEC
 | 9. Manter o grau de conservação do habitat de Mauremys leprosa | • Tendência populacional• Área de habitat adequado para a espécie | • Tendência estável da espécie• Manter a área de habitat adequado para a espécie |
 | 10. Manter o grau de conservação do habitat de Lutra lutra | • Tendência populacional• Área de habitat adequado para a espécie | • Tendência estável da espécie• Manter a área de habitat adequado para a espécie |
 
-| Objetivos de conservação | Indicadores | Metas |
+| Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas |  |  |
 | --- | --- | --- |
-| Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 6310 - Montados de Quercus spp. de folha perene (inclui montados de Q. pyrenaica) | • Área de habitat com estrutura bem conservada (ha) | • Manter a área de habitat com estrutura bem conservada |
 | 2. Melhorar o grau de conservação do habitat de Cerambyx cerdo e Euphydryas auriniana | • Área de habitat adequado para a espécie (ha) | • Aumentar a área de habitat adequado para a espécie |
 | 3. Manter o grau de conservação do habitat de Microtus cabrerae | • Tendência populacional• Área de habitat adequado para a espécie | • Tendência estável da espécie• Manter a área de habitat adequado para a espécie |
 
-| Objetivos de conservação | Indicadores | Metas |
+| Tipos de habitat florestais |  |  |
 | --- | --- | --- |
-| Tipos de habitat florestais | Tipos de habitat florestais | Tipos de habitat florestais |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação dos habitats 9230 - Carvalhais galaico-portugueses de Quercus robur e Quercus pyrenaica, 9330 - Florestas de Quercus suber e 9340 - Florestas de Quercus ilex e Quercus rotundifolia | • Área de habitat com estrutura bem conservada (ha) | • Aumentar a área de habitat com estrutura bem conservada |
 
-| Objetivos de conservação | Indicadores | Metas |
+| Matos higrófilos |  |  |
 | --- | --- | --- |
-| Matos higrófilos | Matos higrófilos | Matos higrófilos |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação do habitat 4020 - Charnecas húmidas atlânticas temperadas de Erica ciliaris e Erica tetralix | • Área de habitat com estrutura bem conservada (ha)• N.º de espécies indicadoras presentes | • Aumentar a área de habitat com estrutura bem conservada• Presença de uma ou mais espécies indicadoras |
 
-| Objetivos de conservação | Indicadores | Metas |
+| Morcegos e grutas |  |  |
 | --- | --- | --- |
-| Morcegos e grutas | Morcegos e grutas | Morcegos e grutas |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação do habitat de Myotis myotis, Rhinolophus ferrumequinum e R. mehelyi | • Tendência populacional | • Tendência estável das espécies por época |
-| 1. Melhorar o grau de conservação do habitat de Myotis myotis, Rhinolophus ferrumequinum e R. mehelyi | • Área de habitat de alimentação (ha) | • Aumentar a área de habitat de alimentação para cada espécie |
-| 1. Melhorar o grau de conservação do habitat de Myotis myotis, Rhinolophus ferrumequinum e R. mehelyi | • Percentagem de abrigos de importância nacional com condições favoráveis | • 100 % |
+| • Área de habitat de alimentação (ha) | • Aumentar a área de habitat de alimentação para cada espécie |  |
+| • Percentagem de abrigos de importância nacional com condições favoráveis | • 100 % |  |
 | 2. Manter o grau de conservação do habitat de M. schreibersii, R. euryale e R. hipposideros | • Tendência populacional | • Tendência estável das espécies por época |
-| 2. Manter o grau de conservação do habitat de M. schreibersii, R. euryale e R. hipposideros | • Área de habitat de alimentação (ha) | • Manter a área de habitat de alimentação para cada espécie |
-| 2. Manter o grau de conservação do habitat de M. schreibersii, R. euryale e R. hipposideros | • Percentagem de abrigos de importância nacional com condições favoráveis | • 100 % |
+| • Área de habitat de alimentação (ha) | • Manter a área de habitat de alimentação para cada espécie |  |
+| • Percentagem de abrigos de importância nacional com condições favoráveis | • 100 % |  |
 | 3. Melhorar o grau de conservação do habitat de Myotis bechsteinii | • Área de habitat de alimentação (ha) | • Aumentar a área de habitat de alimentação |
 | 4. Manter o grau de conservação do habitat 8310 - Grutas não exploradas pelo turismo | • Área de habitat com condições favoráveis para abrigo de morcegos | • Manter a área de habitat com condições favoráveis para abrigo de morcegos |
 
-| Objetivos de conservação | Indicadores | Metas |
+| Lince-ibérico |  |  |
 | --- | --- | --- |
-| Lince-ibérico | Lince-ibérico | Lince-ibérico |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação do habitat de Lynx pardinus | • Área de habitat adequado para a espécie (ha) | • Aumentar a área de habitat adequado para a espécie |
-| 1. Melhorar o grau de conservação do habitat de Lynx pardinus | • N.º coelhos por hectare | • Dois ou mais coelhos por hectare |
+| • N.º coelhos por hectare | • Dois ou mais coelhos por hectare |  |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -329,55 +350,55 @@ Considerando que determinadas medidas de conservação complementares (MC2, MC3,
 
 Quadro 5 - Quadro operacional das medidas de conservação complementares
 
-| Medida de conservação complementar | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Inicio | Fim |
+| Medida de conservação complementar | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medida de conservação complementar | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização | Calendarização |
+| Inicio | Fim |  |  |  |  |  |  |
 | MC1. Manter ou recuperar os bosquetes ou maciços arbóreos de elevado valor ecológico. | 2 | Proporção da área mantida | 100% | ICNF CCDR/Agri | Gabinete de Políticas e Planeamento (GPP)Proprietários ou gestores agrícolas e florestaisOrganizações de Produtores Agrícolas e Florestais | Ano 1 | Ano 10 |
-| MC1. Manter ou recuperar os bosquetes ou maciços arbóreos de elevado valor ecológico. | 2 | Proporção da área recuperada | 50% | ICNF CCDR/Agri | Gabinete de Políticas e Planeamento (GPP)Proprietários ou gestores agrícolas e florestaisOrganizações de Produtores Agrícolas e Florestais | Ano 1 | Ano 10 |
+| Proporção da área recuperada | 50% |  |  |  |  |  |  |
 | MC2. Garantir a recuperação dos montados de sobreiro, azinheira e carvalho-negral, em particular dos mais envelhecidos. | 2 | Proporção da área recuperada | 50% | ICNF CCDR/Agri | Gabinete de Políticas e Planeamento (GPP)Proprietários ou gestores agrícolas e florestaisOrganizações de Produtores Agrícolas e Florestais | Ano 1 | Ano 10 |
 | MC3. Criar mosaico/heterogeneidade em áreas de monocultura (agrícola ou florestal). | 1 | Número de elementos lineares ou pontuais por ha | 1 Elemento linear ou dois pontuais por cada 2 ha | ICNF CCDR/Agri | APAProprietários ou gestores agrícolas e florestaisOrganizações de Produtores Agrícolas e FlorestaisAutarquias locais | Ano 1 | Ano 10 |
 | MC4. Implementar ações de recuperação de ecossistemas ripícolas. | 2 | Proporção da área dos biótopos mantida | 100% | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisAutarquias locaisOrganizações de ProdutoresAgrícolas e Florestais APA | Ano 1 | Ano 10 |
-| MC4. Implementar ações de recuperação de ecossistemas ripícolas. | 2 | Proporção da área melhorada | 50% | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisAutarquias locaisOrganizações de ProdutoresAgrícolas e Florestais APA | Ano 1 | Ano 10 |
-| MC4. Implementar ações de recuperação de ecossistemas ripícolas. | 2 | Número de ações realizadas anualmente | 6 ações por ano | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisAutarquias locaisOrganizações de ProdutoresAgrícolas e Florestais APA | Ano 1 | Ano 10 |
+| Proporção da área melhorada | 50% |  |  |  |  |  |  |
+| Número de ações realizadas anualmente | 6 ações por ano |  |  |  |  |  |  |
 | MC5. Implementar ações de recuperação de áreas ardidas ou outras áreas degradadas. | 2 | Elaboração de um plano de intervenção por ocorrência com área maior ou igual a 5 ha | Ano 1 da implementação do plano de gestão | ICNF CCDR/Agri | Gabinete de Políticas e Planeamento (GPP)Proprietários e gestores florestaisOrganizações de Produtores | Ano 1 | Ano 10 |
-|  |  | Proporção das ações implementadas | 100% |  | Gabinete de Políticas e Planeamento (GPP)Proprietários e gestores florestaisOrganizações de Produtores | Ano 1 | Ano 10 |
+|  |  | Proporção das ações implementadas | 100% |  |  |  |  |
 |  |  | Proporção das faixas de gestão de combustível avaliadas sob o ponto de vista dos valores alvo | 100% |  | Florestais(OPF)Autarquias locais |  |  |
-|  |  | Data de inclusão destas medidas em todos os PMDFCI | Ano 2 da implementação do plano de gestão |  | Florestais(OPF)Autarquias locais |  |  |
+|  |  | Data de inclusão destas medidas em todos os PMDFCI | Ano 2 da implementação do plano de gestão |  |  |  |  |
 | MC6. Reforçar as populações de Unio tumidiformis e Squalius alburnoides. | 2 | Percentagem da área de ocorrência de Unio tumidiformis monitorizada previamente às reintroduções | 100% | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
-| MC6. Reforçar as populações de Unio tumidiformis e Squalius alburnoides. | 2 | Número de indivíduos introduzidos | 50 00 por ano durante cinco anos | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
-| MC6. Reforçar as populações de Unio tumidiformis e Squalius alburnoides. | 2 | Número de ações de monitorização dos repovoamentos | Uma monitorização por ano | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
+| Número de indivíduos introduzidos | 50 00 por ano durante cinco anos |  |  |  |  |  |  |
+| Número de ações de monitorização dos repovoamentos | Uma monitorização por ano |  |  |  |  |  |  |
 | MC7. Reforçar a população de Anaecypris hispanica. | 2 | Percentagem da área de ocorrência de Anaecypris hispanica monitorizada previamente às reintroduções | 100% | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
-| MC7. Reforçar a população de Anaecypris hispanica. | 2 | Número de indivíduos introduzidos | 500 Indivíduos no primeiro ano; 200 indivíduos por ano durante os quatro anos seguintes | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
-| MC7. Reforçar a população de Anaecypris hispanica. | 2 | Número de ações de monitorização dos repovoamentos | Uma monitorização por ano | ICNF | AcademiaONGAAPAAutarquias locaisEmpresas públicas e privadas | Ano 1 | Ano 10 |
+| Número de indivíduos introduzidos | 500 Indivíduos no primeiro ano; 200 indivíduos por ano durante os quatro anos seguintes |  |  |  |  |  |  |
+| Número de ações de monitorização dos repovoamentos | Uma monitorização por ano |  |  |  |  |  |  |
 | MC8. Garantir a manutenção de árvores velhas e de madeira morta nos povoamentos florestais ou outros. | 2 | Percentagem de exemplares de Quercus spp. e Castanea sativa abatidos/ha | Menos de 10% de exemplares de Quercus spp. e Castanea sativa abatidos/ha | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisOrganizações de ProdutoresAgrícolas e Florestais | Ano 1 | Ano 10 |
-| MC8. Garantir a manutenção de árvores velhas e de madeira morta nos povoamentos florestais ou outros. |  | Percentagem de árvores velhas removidas (DAP superior a 1m)/ha | Menos de 5% de árvores velhas removidas (DAP superior a 1m) /ha (em cada 10 anos) | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisOrganizações de ProdutoresAgrícolas e Florestais | Ano 1 | Ano 10 |
-| MC8. Garantir a manutenção de árvores velhas e de madeira morta nos povoamentos florestais ou outros. |  | Quantidade de madeira morta retirada por ha | Menos de 25 toneladas de madeira morta removida/ha | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisOrganizações de ProdutoresAgrícolas e Florestais | Ano 1 | Ano 10 |
+|  | Percentagem de árvores velhas removidas (DAP superior a 1m)/ha | Menos de 5% de árvores velhas removidas (DAP superior a 1m) /ha (em cada 10 anos) |  |  |  |  |  |
+| Quantidade de madeira morta retirada por ha | Menos de 25 toneladas de madeira morta removida/ha |  |  |  |  |  |  |
 | MC9. Manter as condições adequadas nos abrigos importantes para morcegos cavernícolas. | 2 | Data de elaboração do diagnóstico | Ano 1 da implementação do plano de gestão | ICNF | Autarquias locaisProprietáriosSEPNAAcademiaONGA | Ano 1 | Ano 10 |
-| MC9. Manter as condições adequadas nos abrigos importantes para morcegos cavernícolas. | 2 | Proporção de intervenções em abrigos após derrocadas | 100% dos abrigos intervencionados após derrocadas(identificadas) | ICNF | Autarquias locaisProprietáriosSEPNAAcademiaONGA | Ano 1 | Ano 10 |
-| MC9. Manter as condições adequadas nos abrigos importantes para morcegos cavernícolas. | 2 | Ações de limpeza da vegetação em abrigos | 2 ações por ano | ICNF | Autarquias locaisProprietáriosSEPNAAcademiaONGA | Ano 1 | Ano 10 |
+| Proporção de intervenções em abrigos após derrocadas | 100% dos abrigos intervencionados após derrocadas(identificadas) |  |  |  |  |  |  |
+| Ações de limpeza da vegetação em abrigos | 2 ações por ano |  |  |  |  |  |  |
 |  |  | Número de vedações melhoradas/instaladas | 1 vedação por abrigo identificado |  |  |  |  |
 | MC10. Fomentar o coelho-bravo. | 2 | N.º de coelhos por hectare | 2 coelhos por hectare | ICNFGestores de zonas de caça | Associação IberlynxAssociações de caçadoresAutarquias locaisONGAAcademia | Ano 1 | Ano 10 |
 | MC11. Proteger os matos higrófilos. | 2 | Proporção de área mantida | 100% | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisAssociações de ProdutoresAgrícolas e FlorestaisGabinetes técnicos florestais dos municípiosCIMAcademiaNGA | Ano 1 | Ano 10 |
-| MC11. Proteger os matos higrófilos. | 2 | Proporção de área recuperada | 50% | ICNF CCDR/Agri | Proprietários e gestores agrícolas e florestaisAssociações de ProdutoresAgrícolas e FlorestaisGabinetes técnicos florestais dos municípiosCIMAcademiaNGA | Ano 1 | Ano 10 |
+| Proporção de área recuperada | 50% |  |  |  |  |  |  |
 | MC12. Reforçar a fiscalização e a articulação entre as entidades com responsabilidades na ZEC. | 2 | Número de ações de fiscalização dirigidas a atividades que envolvam produtos químicos (período de aplicação, áreas, afastamentos, concentrações) | 48 ações por ano (quatro ações por mês) | GNR/SEPNAICNF | DGADRCCDR/AgriAPAAutarquias locais | Ano 1 | Ano 10 |
-| MC12. Reforçar a fiscalização e a articulação entre as entidades com responsabilidades na ZEC. | 2 | Número de ações de controlo de arborizações/rearborizações e cortes de vegetação realizadas | 12 ações por ano (uma ação por mês) | GNR/SEPNAICNF | DGADRCCDR/AgriAPAAutarquias locais | Ano 1 | Ano 10 |
-| MC12. Reforçar a fiscalização e a articulação entre as entidades com responsabilidades na ZEC. | 2 | Número de ações em abrigos | 6 ações por ano | GNR/SEPNAICNF | DGADRCCDR/AgriAPAAutarquias locais | Ano 1 | Ano 10 |
+| Número de ações de controlo de arborizações/rearborizações e cortes de vegetação realizadas | 12 ações por ano (uma ação por mês) |  |  |  |  |  |  |
+| Número de ações em abrigos | 6 ações por ano |  |  |  |  |  |  |
 | MC13. Realizar ações de controlo de espécies (fauna e flora) exóticas invasoras. | 2 | Plano de controlo e erradicação das espécies exóticas invasoras elaborado | 1 Plano | ICNF CCDR/Agri | APAAcademiaONGAProjeto InvaderAssociações de pescadoresAssociações de ProdutoresFlorestaisGabinetes técnicos florestaisCIMAssociações locais de desenvolvimentoEmpresasAutarquias locais | Ano 1 | Ano 10 |
-| MC13. Realizar ações de controlo de espécies (fauna e flora) exóticas invasoras. | 2 | Proporção das áreas prioritárias intervencionadas | 100% das áreas prioritárias identificadas | ICNF CCDR/Agri | APAAcademiaONGAProjeto InvaderAssociações de pescadoresAssociações de ProdutoresFlorestaisGabinetes técnicos florestaisCIMAssociações locais de desenvolvimentoEmpresasAutarquias locais | Ano 1 | Ano 10 |
-| MC13. Realizar ações de controlo de espécies (fauna e flora) exóticas invasoras. | 2 | Proporção das áreas não prioritárias intervencionadas | 50% das áreas com invasoras | ICNF CCDR/Agri | APAAcademiaONGAProjeto InvaderAssociações de pescadoresAssociações de ProdutoresFlorestaisGabinetes técnicos florestaisCIMAssociações locais de desenvolvimentoEmpresasAutarquias locais | Ano 1 | Ano 10 |
-| MC13. Realizar ações de controlo de espécies (fauna e flora) exóticas invasoras. | 2 | Proporção da área restaurada | 50% da área ocupada por vegetação exótica | ICNF CCDR/Agri | APAAcademiaONGAProjeto InvaderAssociações de pescadoresAssociações de ProdutoresFlorestaisGabinetes técnicos florestaisCIMAssociações locais de desenvolvimentoEmpresasAutarquias locais | Ano 1 | Ano 10 |
+| Proporção das áreas prioritárias intervencionadas | 100% das áreas prioritárias identificadas |  |  |  |  |  |  |
+| Proporção das áreas não prioritárias intervencionadas | 50% das áreas com invasoras |  |  |  |  |  |  |
+| Proporção da área restaurada | 50% da área ocupada por vegetação exótica |  |  |  |  |  |  |
 | MC14. Executar um plano de deteção precoce e erradicação imediata de novas populações de espécies (fauna e flora) exóticas invasoras. | 1 | Proporção da área prospetada | 100 % da área de ocorrência de U. tumidiformis | ICNF APA | Autarquias locaisAcademiaONGA | Ano 1 | Ano 10 |
-| MC14. Executar um plano de deteção precoce e erradicação imediata de novas populações de espécies (fauna e flora) exóticas invasoras. | 1 | N.º de novos núcleos eliminados | 100 % dos núcleos de Dreissena polymorpha | ICNF APA | Autarquias locaisAcademiaONGA | Ano 1 | Ano 10 |
+| N.º de novos núcleos eliminados | 100 % dos núcleos de Dreissena polymorpha |  |  |  |  |  |  |
 | MC15. Avaliar a atual cobertura na ZEC de pontos de amostragem da rede de quantidade e de qualidade da água. | 3 | Número de novos pontos de monitorização | Cobrir 100% da monitorização da rede | APA ICNF | Academia | Ano 1 | Ano 10 |
 | MC16. Capacitar os intervenientes socioeconómicos para técnicas e metodologias adequadas à conservação dos valores naturais da ZEC. | 2 | Número de ações de formação/ações de divulgação efetuadas | 3 ações por ano | ICNFCCDR/AgriOrganizações de produtores agrícolas e florestais | ONGAAPAAutarquias locaisFarmácias agrícolas e outros locais de venda de fitofármacosINIAVAcademiaOperadores económicosEntidades fiscalizadorasAssociações locais de desenvolvimento | Ano 1 | Ano 10 |
-| MC16. Capacitar os intervenientes socioeconómicos para técnicas e metodologias adequadas à conservação dos valores naturais da ZEC. | 2 | Data de publicação da primeira versão do manual | Ano 1 da implementação do plano de gestão | ICNFCCDR/AgriOrganizações de produtores agrícolas e florestais | ONGAAPAAutarquias locaisFarmácias agrícolas e outros locais de venda de fitofármacosINIAVAcademiaOperadores económicosEntidades fiscalizadorasAssociações locais de desenvolvimento | Ano 1 | Ano 10 |
-| MC16. Capacitar os intervenientes socioeconómicos para técnicas e metodologias adequadas à conservação dos valores naturais da ZEC. | 2 | Periodicidade da revisão | De três em três anos | ICNFCCDR/AgriOrganizações de produtores agrícolas e florestais | ONGAAPAAutarquias locaisFarmácias agrícolas e outros locais de venda de fitofármacosINIAVAcademiaOperadores económicosEntidades fiscalizadorasAssociações locais de desenvolvimento | Ano 1 | Ano 10 |
+| Data de publicação da primeira versão do manual | Ano 1 da implementação do plano de gestão |  |  |  |  |  |  |
+| Periodicidade da revisão | De três em três anos |  |  |  |  |  |  |
 | MC17. Desenvolver campanhas de comunicação e divulgação dirigidas às escolas, à população local e aos visitantes sobre a conservação dos valores naturais da ZEC. | 2 | Número de ações de sensibilização efetuadas | 6 ações por ano | ICNFAutarquias locais | SEPNAONGAAcademiaEscolasAssociações locais de desenvolvimentoAssociações desportivas e recreativasAssociações de caçadoresAssociações de proprietários | Ano 1 | Ano 10 |
-| MC17. Desenvolver campanhas de comunicação e divulgação dirigidas às escolas, à população local e aos visitantes sobre a conservação dos valores naturais da ZEC. | 2 | Número de ações de sensibilização nas escolas/número de participantes | 1 ação por ano/escola e 80% da população escolar coberta | ICNFAutarquias locais | SEPNAONGAAcademiaEscolasAssociações locais de desenvolvimentoAssociações desportivas e recreativasAssociações de caçadoresAssociações de proprietários | Ano 1 | Ano 10 |
+| Número de ações de sensibilização nas escolas/número de participantes | 1 ação por ano/escola e 80% da população escolar coberta |  |  |  |  |  |  |
 | MC18. Adaptação do planeamento e da operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos com presença significativa na ZEC | 2 | Percentagem de planos/programas adaptados e incluindo diretrizes de salvaguarda | 100% | ICNFCMDFCI/Comissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos Rurais | CCDRProprietáriosOrganizações de ProdutoresFlorestaisEmpresasComissões Intermunicipais | Ano 1 | Ano 10 |
 |  |  | Percentagem de planos de recuperação pósincêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos o | 100% | (CMGIFR)Entidades Gestoras de AIGPComunidades IntermunicipaisAPA |  |  |  |
 | MC19. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | Quadro de densificação dos objetivos de conservação, indicadores e metas | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano | ICNF | GPP Alentejo 2030 | Ano 1 | Ano 2 |
-| MC19. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano | ICNF | GPP Alentejo 2030 | Ano 1 | Ano 2 |
+| Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano |  |  |  |  |  |  |  |
 
 * O campo relevância representa a importância relativa de cada uma das medidas de conservação e encontra-se classificado da seguinte forma: 1 - Muito elevada; 2 - Elevada; 3 - Média.
 
@@ -405,23 +426,23 @@ O quadro 6 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 6 - Modelo de matriz de avaliação final da implementação do plano de gestão
 
-| 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas | 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas |
+| 1. Tipos de habitat e espécies de fauna associados aos rios e galerias ripícolas |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas | 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas |
+| 2. Tipos de habitat e espécies de fauna associados aos montados com pastagens extensivas |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais | 3. Tipos de habitat florestais |
+| 3. Tipos de habitat florestais |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos | 4. Matos higrófilos |
+| 4. Matos higrófilos |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas | 5. Morcegos e grutas |
+| 5. Morcegos e grutas |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico | 6. Lince-ibérico |
+| 6. Lince-ibérico |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
 
@@ -443,84 +464,128 @@ OE - Orçamento de Estado
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais
 
-![](https://files.diariodarepublica.pt/images/912257036/912258123.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258123.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258124.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258124.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258125.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258125.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258126.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258126.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258127.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258127.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258128.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258128.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258129.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258129.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258130.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258130.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258131.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258131.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258132.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258132.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258133.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258133.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258134.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258134.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258135.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258135.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258136.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258136.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258137.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258137.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258138.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258138.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258139.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258139.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258140.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258140.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258141.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258141.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258142.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258142.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258143.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258143.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258144.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258144.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258145.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258145.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258146.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258146.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258147.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258147.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258148.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258148.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258149.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258149.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258150.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258150.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258151.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258151.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258152.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258152.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258153.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258153.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258154.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258154.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258155.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258155.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258156.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258156.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258157.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258157.png) |
+| --- |
 
 CARTAS DAS MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
-![](https://files.diariodarepublica.pt/images/912257036/912258158.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258158.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258159.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258159.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258160.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258160.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258161.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258161.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/912257036/912258162.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/912257036/912258162.png) |
+| --- |
+
+118853053
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { border-collapse:collapse; border-width:1px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { min-height:27px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl17 { min-height:46px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:37px; } .Tbl22 { min-height:42px; } .Tbl23 { min-height:52px; } .Tbl24 { min-height:56px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl26 { min-height:69px; } .Tbl27 { min-height:96px; } .Tbl28 { min-height:102px; } .Tbl29 { min-height:48px; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl31 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl34 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl35 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl36 { min-height:57px; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl40 { min-height:66px; } .Tbl41 { min-height:47px; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl43 { min-height:87px; } .Tbl44 { min-height:128px; } .Tbl45 { min-height:74px; } .Tbl46 { min-height:36px; } .Tbl47 { min-height:103px; } .Tbl48 { min-height:40px; } .Tbl49 { min-height:60px; } .Tbl50 { min-height:125px; } .Tbl51 { min-height:30px; } .Tbl52 { min-height:140px; } .Tbl53 { min-height:115px; } .Tbl54 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl55 { min-height:65px; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

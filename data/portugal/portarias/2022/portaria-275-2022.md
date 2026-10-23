@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/275/2022/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/275-2022-203338167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d44845c51db51855aa5cc2fbff8d8d0efbbda1c2d75dce84a63c129caea35c2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ac2a529b1ebdea9786aedace628792602af764db687bf286760d44157b7300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Estatuto dos Militares das Forças Armadas
 - Forças Armadas
+- Militar
 - Progressão na Carreira
 - Promoção por Mérito
 - Promoção Profissional
-- Regulamento de Avaliação do Mérito dos Militares do Exército
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Regulamento de Avaliação do Mérito dos Militares da GNR
 - Regulamento de Avaliação do Mérito dos Militares da Marinha
-- Militar
-- Avaliação do Pessoal
+- Regulamento de Avaliação do Mérito dos Militares do Exército
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301/2016/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301/2016/11/30/p/dre
+- type: cites
+  target: pt:dre:105283926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
+  article_count: 52
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:58Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +160,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O SAMMFA tem como suporte os seguintes documentos:
 
@@ -164,7 +174,9 @@ c) [...]
 
 2 - O documento mencionado na alínea b) do número anterior pode ser substituído pelo acesso a sistemas de informação onde constem os elementos indicados no n.º 3 do artigo 39.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +186,9 @@ c) [...]
 
 4 - O acesso à documentação relativa ao SAMMFA, disponibilizada em suporte físico ou por via digital, subordina-se ao disposto no Código do Procedimento Administrativo e à legislação relativa ao acesso a documentos administrativos, conjugado com o regime legal de proteção de dados.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]
 
@@ -196,7 +210,9 @@ h) [...]
 
 i) É elaborada e processada com recurso ao sistema de informação que a suporta, excetuando-se os casos em que tal se revele inviável e haja concordância por parte do órgão de administração de pessoal do ramo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -218,9 +234,11 @@ e) Frequência de cursos e ciclos de estudos, com duração superior a um ano, d
 
 5 - As datas a que dizem respeito as avaliações periódicas são as constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -268,11 +286,13 @@ d) Frequência de curso que habilita ao ingresso nos quadros permanentes ou ao r
 
 e) Frequência de cursos e ciclos de estudos, com duração superior a um ano, definidos por despacho do Chefe de Estado-Maior do respetivo ramo, com exceção das situações previstas na alínea a) do número seguinte.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O primeiro avaliador determina-se com base no princípio da subordinação direta do avaliado, sendo o seu posto e condições os indicados na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 2 - Nos casos em que não for exequível o cumprimento das condições definidas na tabela constante do número anterior, o primeiro avaliador é designado pelo comandante, diretor ou chefe da respetiva unidade, estabelecimento ou órgão.
 
@@ -298,7 +318,9 @@ f) [...]
 
 g) Fundamentar, obrigatória e objetivamente, a seleção das opções da avaliação do potencial 'Não denota potencial adequado para assumir maior responsabilidade' ou 'Não aplicável'.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -320,7 +342,9 @@ b) Pronunciar-se quanto ao modo como o primeiro avaliador apreciou o avaliado, f
 
 c) Fundamentar, obrigatória e objetivamente, a seleção das opções da avaliação do potencial 'Não denota potencial adequado para assumir maior responsabilidade' ou 'Não aplicável'.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Ao comandante, diretor ou chefe da unidade, estabelecimento ou órgão, compete:
 
@@ -330,7 +354,9 @@ b) [...]
 
 2 - Por despacho do CEM do respetivo ramo, pode ser autorizada ao comandante, diretor ou chefe da unidade, estabelecimento ou órgão a delegação da competência referida na alínea b) do número anterior no seu inferior hierárquico imediato, adjunto ou substituto, nas situações em que este não é avaliador.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -374,7 +400,9 @@ o) [...]
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -384,7 +412,9 @@ o) [...]
 
 4 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -396,7 +426,9 @@ b) As funções militares de exercício preferencial do avaliado, considerando a
 
 3 - Quando o militar não denotar o potencial adequado para assumir maior responsabilidade, essa avaliação pode ter relevância para os efeitos do disposto no n.º 2 do artigo 22.º
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -424,7 +456,9 @@ d) Quando o militar não tiver qualquer avaliação individual num determinado p
 
 3 - Para efeitos da alínea b) do número anterior, quando exista mais que um posto a concorrer para a apreciação, as avaliações individuais no posto atual são consideradas com coeficiente 2, enquanto as restantes têm coeficiente 1.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -446,7 +480,9 @@ d) [...]
 
 e) No caso em que todos os militares do universo em apreciação não possuam classificação no curso, é considerada a nota de 10 valores para todos os militares no curso em causa.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -456,11 +492,13 @@ e) No caso em que todos os militares do universo em apreciação não possuam cl
 
 4 - A pontuação a atribuir aos louvores e às penas disciplinares e criminais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 5 - Para efeitos do disposto no n.º 1, são considerados os louvores e as penas disciplinares e criminais averbadas no posto anterior que não tenham sido contabilizados para a promoção ao posto atual, salvo disposição contrária definida por despacho do CEM do respetivo ramo.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -468,13 +506,17 @@ e) No caso em que todos os militares do universo em apreciação não possuam cl
 
 3 - Para efeitos de promoção por escolha, ao valor apurado nos termos do número anterior é descontado o valor correspondente ao número de anos igual ao menor dos tempos mínimos no posto, estabelecido no EMFAR, dos militares em apreciação, desprezando-se valores superiores a 20.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Para efeitos de promoção por escolha, à classificação obtida de acordo com o n.º 2 do artigo 32.º pode ser adicionado um determinado valor, cujo máximo e termos são definidos por despacho do CEM do respetivo ramo, nunca superior a 1 valor, a atribuir pelos conselhos de classes, das armas e dos serviços ou de especialidades, ou conselho equivalente, atentos os critérios gerais definidos no artigo 28.º
 
 2 - [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -490,7 +532,9 @@ e) No caso em que todos os militares do universo em apreciação não possuam cl
 
 7 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -500,7 +544,9 @@ e) No caso em que todos os militares do universo em apreciação não possuam cl
 
 4 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 [...]
 
@@ -530,7 +576,7 @@ Os anexos A, B e C do RAMMFA, passam a ter a seguinte redação:
 
 «ANEXO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 Instruções de preenchimento
 
@@ -584,7 +630,7 @@ a) [...]
 
 b) [...]
 
-## ANEXO B
+ANEXO B
 
 1 - [...]
 
@@ -610,7 +656,9 @@ b) [Anterior alínea c).]
 
 4) [Anterior subalínea 4) da anterior alínea c).]
 
-## ANEXO C — [([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+ANEXO C
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 »
 
@@ -642,7 +690,7 @@ h) A alínea b) do n.º 2 do anexo B.
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 24 de outubro de 2022.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 24 de outubro de 2022.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -856,7 +904,7 @@ e) Frequência de cursos e ciclos de estudos, com duração superior a um ano, d
 
 5 - As datas a que dizem respeito as avaliações periódicas, são as constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 ###### Artigo 15.º — Avaliação extraordinária
 
@@ -924,7 +972,7 @@ e) Frequência de cursos e ciclos de estudos, com duração superior a um ano, d
 
 1 - O primeiro avaliador determina-se com base no princípio da subordinação direta do avaliado, sendo o seu posto e condições os indicados na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 2 - Nos casos em que não for exequível o cumprimento das condições definidas na tabela constante do número anterior, o primeiro avaliador é designado pelo comandante, diretor ou chefe da respetiva unidade, estabelecimento ou órgão.
 
@@ -1164,7 +1212,7 @@ A antiguidade no posto reporta-se ao tempo de serviço efetivo a partir da data 
 
 1 - As bases avaliação individual, avaliação da formação, avaliação disciplinar e a antiguidade no posto são integradas através da atribuição de ponderações tendo em consideração o posto e as finalidades previstas no artigo 5.º, que totalizam 100 %, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 2 - As percentagens das diferentes bases do sistema, referidas no número anterior, dependendo das finalidades previstas no artigo 5.º, podem, por despacho do respetivo CEM, ser aumentadas ou diminuídas em 5 %.
 
@@ -1192,7 +1240,7 @@ a) Calcula-se a média ponderada dos períodos definidos, sendo o resultado conv
 
 b) Para a promoção por escolha é considerada a média ponderada da avaliação individual relativa ao militar no posto, ou conjunto de postos referidos nos universos que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 c) Para efeitos do disposto na alínea anterior, são consideradas para a média as FAV do posto anterior que não tenham sido contabilizadas para a promoção ao posto atual, salvo disposição contrária definida por despacho do CEM do respetivo ramo;
 
@@ -1206,7 +1254,7 @@ d) Quando o militar não tiver qualquer avaliação individual num determinado p
 
 a) Os cursos ou concursos de ingresso e de promoção na categoria, comuns às categorias dos militares, com os seguintes coeficientes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 b) Os cursos de promoção estatutários, não referidos na alínea anterior, são também considerados para o cálculo da média, sendo-lhes atribuído um coeficiente definido por despacho do CEM do respetivo ramo.
 
@@ -1234,7 +1282,7 @@ e) No caso em que todos os militares do universo em apreciação não possuam cl
 
 4 - A pontuação a atribuir aos louvores e às penas disciplinares e criminais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 5 - Para efeitos do disposto no n.º 1, são considerados os louvores e as penas disciplinares e criminais averbadas no posto anterior que não tenham sido contabilizados para a promoção ao posto atual, salvo disposição contrária definida por despacho do CEM do respetivo ramo.
 
@@ -1334,7 +1382,7 @@ e) Dar conhecimento da nova avaliação ao avaliado.
 
 Ficha de avaliação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 Instruções de preenchimento
 
@@ -1412,7 +1460,7 @@ Descrição das competências e avaliação do potencial
 
 1 - Caracterização das competências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 2 - Avaliação do potencial
 
@@ -1440,6 +1488,8 @@ b) As funções militares de exercício preferencial do avaliado:
 
 Ficha de avaliação do mérito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21900/0000200042.pdf)
 
 a) Ramo a que pertence o avaliado.
+
+115853437

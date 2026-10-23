@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2013/02/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2013-258693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c0ecfe6e305155ea05fff882acff4f5597c915fbf120d1e70bcff633fb60fb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8518e36deaaa7fcfc039fc79cb76491ce3424cad4b0fdbdf1390f0e347868f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Localização de Empresas
-- Multa
-- Higiene do Trabalho
 - Contra-ordenação
 - Coordenador
 - Definição de Competências
 - Estabelecimento Industrial
-- Segurança no Trabalho
 - Fiscalização
+- Higiene do Trabalho
 - Indústria
 - Instalação de Serviços
 - Licenciamento
-- Medidas Preventivas
+- Localização de Empresas
 - Madeira.região Autónoma
+- Medidas Preventivas
+- Multa
 - Projecto Industrial
 - Regime Jurídico
 - Sanção
+- Segurança no Trabalho
 - Seguro Obrigatório de Responsabilidade Civil
 - TAXA de Prestação de Serviços
 - Vistoria
@@ -93,15 +93,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/28/2009/09/25/m/dre
 article_structure:
-  article_count: 86
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 74
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:47Z'
   warnings: []
   errors: []
 ---
@@ -174,13 +174,17 @@ v)...
 
 x) «Título de exploração» o documento que habilita a instalação e exploração de estabelecimentos industriais, atividade temporária e operadores da atividade produtiva local sujeitos aos procedimentos de declaração prévia ou de registo previstos no presente diploma.
 
-###### Artigo 3º — [...]
+Artigo 3º
+
+[...]
 
 1 - O presente diploma aplica-se às atividades industriais e à atividade produtiva local nos termos definidos no anexo I ao presente diploma, do qual faz parte integrante.
 
 2 - ...
 
-###### Artigo 4º — [...]
+Artigo 4º
+
+[...]
 
 1 - Os estabelecimentos industriais classificam-se em função do grau de risco potencial inerente à sua exploração, para a pessoa humana e para o ambiente, em três tipos.
 
@@ -210,13 +214,17 @@ e) Necessidade de obtenção de alvará ou parecer para operações de gestão d
 
 5 - ...
 
-###### Artigo 8º — [...]
+Artigo 8º
+
+[...]
 
 1 - A pessoa singular ou coletiva que exerça atividade industrial em estabelecimento abrangido por seguro obrigatório deve apresentar à entidade coordenadora, no prazo de 30 dias contados a partir da data de início da exploração, comprovativo da celebração de contrato de seguro de responsabilidade civil, acompanhado do respetivo recibo de prémio.
 
 2 - ...
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1 - Para além da entidade coordenadora, nos procedimentos previstos no presente diploma podem pronunciar-se, nos termos das respetivas atribuições e competências legalmente previstas, as seguintes entidades públicas:
 
@@ -238,7 +246,9 @@ e)...
 
 5 - ...
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 1 - ...
 
@@ -264,7 +274,9 @@ d)...
 
 6 - ...
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 1 - Os projetos de eletricidade e de produção de energia térmica, instruídos nos termos da legislação aplicável, são entregues:
 
@@ -278,7 +290,9 @@ b) Diretamente junto das entidades competentes para a sua apreciação, devendo 
 
 4 - ...
 
-###### Artigo 17º — [...]
+Artigo 17º
+
+[...]
 
 1 - No prazo de 5 ou 10 dias, consoante haja ou não lugar a consultas, contado a partir da data do pedido de autorização, a entidade coordenadora procede à verificação sumária do pedido, incluindo os respetivos elementos instrutórios, e disponibiliza às entidades públicas que, nos termos da lei, devam pronunciar-se sobre o pedido de autorização os elementos do processo pertinentes tendo em conta as respetivas atribuições e competências.
 
@@ -292,7 +306,9 @@ b) Diretamente junto das entidades competentes para a sua apreciação, devendo 
 
 6 - ...
 
-###### Artigo 18º — [...]
+Artigo 18º
+
+[...]
 
 1 - Se a verificação do pedido de autorização e respetivos elementos instrutórios revelar a sua não conformidade com os condicionamentos legais e regulamentares aplicáveis, a entidade coordenadora profere, no prazo de 20 dias contados a partir da data do pedido de autorização:
 
@@ -312,7 +328,9 @@ b)...
 
 5 - ...
 
-###### Artigo 37º — [...]
+Artigo 37º
+
+[...]
 
 1 - ...
 
@@ -328,7 +346,9 @@ b)...
 
 7 - ...
 
-###### Artigo 44º — [...]
+Artigo 44º
+
+[...]
 
 1 - ...
 
@@ -340,13 +360,17 @@ b)...
 
 5 - ...
 
-###### Artigo 45º — [...]
+Artigo 45º
+
+[...]
 
 1 - A licença ou o título de exploração do estabelecimento são sempre atualizados na sequência do reexame das condições de exploração.
 
 2 - A não realização atempada da vistoria de reexame, por motivo não imputável ao industrial, não prejudica a continuidade da exploração do estabelecimento industrial.
 
-###### Artigo 52º — [...]
+Artigo 52º
+
+[...]
 
 1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 3700, tratando-se de pessoa singular, ou de (euro) 1000 a (euro) 44 000, tratando-se de pessoa coletiva:
 
@@ -380,11 +404,13 @@ m)...
 
 4 - A negligência é punível com coima de valor reduzido a metade.
 
-## ANEXO I — Secção 1
+ANEXO I
+
+Secção 1
 
 [...]
 
-##### Divisão 16 - [...]
+Divisão 16 - [...]
 
 16101 - Serração de madeira.
 
@@ -412,7 +438,9 @@ m)...
 
 16295 - Fabricação de outros produtos de cortiça.
 
-#### Secção 2 — [...]
+Secção 2
+
+[...]
 
 1- Considera-se atividade produtiva local, nos termos da alínea c) do artigo 2º, as atividades económicas cujo exercício tem lugar a título individual ou em microempresa até cinco trabalhadores, em estabelecimento industrial com potência elétrica contratada não superior a 15 kVA e potência térmica não superior a 4x10(elevado a 5) kJ/h, expressamente identificadas na respetiva coluna, com indicação da subclasse na Classificação Portuguesa das Atividades Económicas (CAE - Rev. 3).
 
@@ -422,7 +450,9 @@ m)...
 
 4 - [...]
 
-## ANEXO IV — Secção 1
+ANEXO IV
+
+Secção 1
 
 [...]
 
@@ -480,7 +510,9 @@ e) [...]
 
 f) [...]
 
-#### Secção 2 — [...]
+Secção 2
+
+[...]
 
 1 - [...]
 
@@ -520,7 +552,9 @@ e) [...]
 
 f) [...]
 
-#### Secção 3 — [...]
+Secção 3
+
+[...]
 
 1 - O formulário de registo e o respetivo projeto de instalação devem ser apresentados com o conteúdo a seguir discriminado:
 
@@ -564,7 +598,9 @@ f) [...]
 
 5 - [...]
 
-#### Secção 4 — [...]
+Secção 4
+
+[...]
 
 a) [...]
 
@@ -576,7 +612,9 @@ d) [...]
 
 e) Autorização de localização a emitir pela câmara municipal territorialmente competente.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - [...]
 
@@ -584,7 +622,7 @@ QUADRO I
 
 Fatores de dimensão (Fd) correspondentes aos regimes aplicáveis aos estabelecimentos industriais em função dos respetivos escalões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 QUADRO II
 
@@ -592,15 +630,15 @@ Fatores de serviço (Fs) a aplicar para efeitos de cálculo das taxas
 
 Autorização prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 Declaração prévia/Registo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 Vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 2 - O valor da taxa base (Tb) é de (euro) 105, sendo automaticamente atualizada, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor na Região Autónoma da Madeira relativo ao ano anterior, excluindo a habitação, e publicado pela Direção Regional de Estatística.
 
@@ -644,11 +682,11 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de janeiro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 1 de fevereiro de 2013.**
+Assinado em 1 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1582,7 +1620,9 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do REAI, as atividades económicas que são incluídas nas subclasses da Classificação Portuguesa das Atividades Económicas (CAE - Rev. 3), aprovada pelo Decreto-Lei nº 381/2007, de 14 de novembro, que seguidamente se apresentam, com exclusão das atividades que expressamente se indicam na respetiva subclasse na secção 2 do presente anexo.
 
-#### Secção 1 — Secção B - Indústrias extrativas
+#### Secção 1
+
+#### Secção B - Indústrias extrativas
 
 05100 - Extração de hulha (inclui antracite).
 
@@ -1596,9 +1636,9 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 09900 - Outras atividades dos serviços relacionados com as indústrias extrativas.
 
-#### Secção C - Indústrias transformadoras
+Secção C - Indústrias transformadoras
 
-##### Divisão 10 - Indústrias alimentares
+Divisão 10 - Indústrias alimentares
 
 10110 - Abate de gado (produção de carne).
 
@@ -1686,7 +1726,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 10920 - Fabricação de alimentos para animais de companhia.
 
-##### Divisão 11 - Indústrias das bebidas
+Divisão 11 - Indústrias das bebidas
 
 11011 - Fabricação de aguardentes preparadas.
 
@@ -1710,11 +1750,11 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 11072 - Fabricação de refrigerantes e de outras bebidas não alcoólicas, n. e.
 
-##### Divisão 12 - Indústrias do tabaco
+Divisão 12 - Indústrias do tabaco
 
 12000 - Indústria do tabaco.
 
-##### Divisão 13 - Fabricação de têxteis
+Divisão 13 - Fabricação de têxteis
 
 13101 - Preparação e fiação de fibras do tipo algodão.
 
@@ -1760,7 +1800,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 13993 - Fabricação de outros têxteis diversos, n. e.
 
-##### Divisão 14 - Indústria do vestuário
+Divisão 14 - Indústria do vestuário
 
 14110 - Confeção de vestuário em couro, exceto confeção por medida.
 
@@ -1782,7 +1822,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 14390 - Fabricação de outro vestuário de malha.
 
-##### Divisão 15 - Indústria do couro e dos produtos do couro
+Divisão 15 - Indústria do couro e dos produtos do couro
 
 15111 - Curtimenta e acabamento de peles sem pelo.
 
@@ -1796,7 +1836,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 15202 - Fabricação de componentes para calçado.
 
-##### Divisão 16 - Indústria da madeira e da cortiça e suas obras, exceto mobiliário; fabricação de obras de cestaria e de espartaria
+Divisão 16 - Indústria da madeira e da cortiça e suas obras, exceto mobiliário; fabricação de obras de cestaria e de espartaria
 
 16101 - Serração de madeira.
 
@@ -1824,7 +1864,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 16295 - Fabricação de outros produtos de cortiça.
 
-##### Divisão 17 - Fabricação de pasta de papel, cartão e seus artigos
+Divisão 17 - Fabricação de pasta de papel, cartão e seus artigos
 
 17110 - Fabricação de pasta.
 
@@ -1842,13 +1882,13 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 17290 - Fabricação de outros artigos de pasta de papel, de papel e de cartão.
 
-##### Divisão 18 - Impressão e reprodução de suportes gravados
+Divisão 18 - Impressão e reprodução de suportes gravados
 
 18110 - Impressão de jornais.
 
 18120 - Outra impressão.
 
-##### Divisão 19 - Fabricação de coque, de produtos petrolíferos refinados e de aglomerados de combustíveis
+Divisão 19 - Fabricação de coque, de produtos petrolíferos refinados e de aglomerados de combustíveis
 
 19100 - Fabricação de produtos de coqueria.
 
@@ -1858,7 +1898,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 19203 - Fabricação de briquetes e aglomerados de hulha e lenhite.
 
-##### Divisão 20 - Fabricação de produtos químicos e de fibras sintéticas ou artificiais, exceto produtos farmacêuticos
+Divisão 20 - Fabricação de produtos químicos e de fibras sintéticas ou artificiais, exceto produtos farmacêuticos
 
 20110 - Fabricação de gases industriais.
 
@@ -1910,7 +1950,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 20600 - Fabricação de fibras sintéticas ou artificiais.
 
-##### Divisão 21 - Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas
+Divisão 21 - Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas
 
 21100 - Fabricação de produtos farmacêuticos de base.
 
@@ -1918,7 +1958,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 21202 - Fabricação de outras preparações e de artigos farmacêuticos.
 
-##### Divisão 22 - Fabricação de artigos de borracha e de matérias plásticas
+Divisão 22 - Fabricação de artigos de borracha e de matérias plásticas
 
 22111 - Fabricação de pneus e câmaras-de-ar.
 
@@ -1938,7 +1978,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 22292 - Fabricação de outros artigos de plástico, n. e.
 
-##### Divisão 23 - Fabricação de outros produtos minerais não metálicos
+Divisão 23 - Fabricação de outros produtos minerais não metálicos
 
 23110 - Fabricação de vidro plano.
 
@@ -2012,7 +2052,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 23992 - Fabricação de outros produtos minerais não metálicos diversos, n. e.
 
-##### Divisão 24 - Indústrias metalúrgicas de base
+Divisão 24 - Indústrias metalúrgicas de base
 
 24100 - Siderurgia e fabricação de ferro -ligas.
 
@@ -2046,7 +2086,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 24540 - Fundição de outros metais não ferrosos.
 
-##### Divisão 25 - Fabricação de produtos metálicos, exceto máquinas e equipamentos
+Divisão 25 - Fabricação de produtos metálicos, exceto máquinas e equipamentos
 
 25110 - Fabricação de estruturas de construções metálicas.
 
@@ -2098,7 +2138,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 25992 - Fabricação de outros produtos metálicos diversos, n. e.
 
-##### Divisão 26 - Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e óticos
+Divisão 26 - Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e óticos
 
 26110 - Fabricação de componentes eletrónicos.
 
@@ -2124,7 +2164,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 26800 - Fabricação de suportes de informação magnéticos e óticos.
 
-##### Divisão 27 - Fabricação de equipamento elétrico
+Divisão 27 - Fabricação de equipamento elétrico
 
 27110 - Fabricação de motores, geradores e transformadores elétricos.
 
@@ -2148,7 +2188,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 27900 - Fabricação de outro equipamento elétrico.
 
-##### Divisão 28 - Fabricação de máquinas e equipamento n. e.
+Divisão 28 - Fabricação de máquinas e equipamento n. e.
 
 28110 - Fabricação de motores e turbinas, exceto motores para aeronaves, automóveis e motociclos.
 
@@ -2200,7 +2240,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 28992 - Fabricação de outras máquinas diversas para uso específico, n. e.
 
-##### Divisão 29 - Fabricação de veículos automóveis, reboques, semirreboques e componentes para veículos automóveis
+Divisão 29 - Fabricação de veículos automóveis, reboques, semirreboques e componentes para veículos automóveis
 
 29100 - Fabricação de veículos automóveis.
 
@@ -2210,7 +2250,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 29320 - Fabricação de outros componentes e acessórios para veículos automóveis.
 
-##### Divisão 30 - Fabricação de outro equipamento de transporte
+Divisão 30 - Fabricação de outro equipamento de transporte
 
 30111 - Construção de embarcações metálicas e estruturas flutuantes, exceto de recreio e desporto.
 
@@ -2230,7 +2270,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 30990 - Fabricação de outro equipamento de transporte, n. e.
 
-##### Divisão 31 - Fabricação de mobiliário e de colchões
+Divisão 31 - Fabricação de mobiliário e de colchões
 
 31010 - Fabricação de mobiliário para escritório e comércio.
 
@@ -2246,7 +2286,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 31094 - Atividades de acabamento de mobiliário.
 
-##### Divisão 32 - Outras indústrias transformadoras
+Divisão 32 - Outras indústrias transformadoras
 
 32110 - Cunhagem de moedas.
 
@@ -2282,15 +2322,17 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 32996 - Outras indústrias transformadoras diversas, n. e.
 
-##### Divisão 33 - (Revogado.) — Secção D - Eletricidade, gás, vapor, água quente e fria e ar frio
+##### Divisão 33 - (Revogado.)
 
-##### Divisão 35 - Eletricidade, gás, vapor, água quente e fria e ar frio
+#### Secção D - Eletricidade, gás, vapor, água quente e fria e ar frio
+
+Divisão 35 - Eletricidade, gás, vapor, água quente e fria e ar frio
 
 35302 - Produção de gelo.
 
-#### Secção I - Alojamento, restauração e similares
+Secção I - Alojamento, restauração e similares
 
-##### Divisão 56 - Fornecimento de refeições para eventos e outras atividades de serviço de refeições
+Divisão 56 - Fornecimento de refeições para eventos e outras atividades de serviço de refeições
 
 56210 - Fornecimento de refeições para eventos.
 
@@ -2306,7 +2348,7 @@ Consideram-se atividade industrial, nos termos da alínea a) do artigo 2º do RE
 
 4 - Quando num mesmo estabelecimento sejam desempenhadas mais do que uma das atividades produtivas locais identificadas no quadro seguinte, o limite de produção a considerar é o correspondente ao somatório dos valores anuais de produção das diferentes atividades praticadas, sendo que o seu valor não poderá ultrapassar o maior dos limites fixados para as atividades em causa, quando exercidas isoladamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 ## ANEXO II — Fatores de conversão e coeficientes de equivalência
 
@@ -2354,7 +2396,7 @@ Combustíveis sólidos:
 
 Entidade coordenadora do processo de licenciamento industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 ## ANEXO IV — Requisitos formais e elementos instrutórios do pedido de autorização, da declaração prévia e do registo do pedido de regularização
 
@@ -2702,7 +2744,7 @@ QUADRO I
 
 Fatores de dimensão (Fd) correspondentes aos regimes aplicáveis aos estabelecimentos industriais em função dos respetivos escalões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 QUADRO II
 
@@ -2710,15 +2752,15 @@ Fatores de serviço (Fs) a aplicar para efeitos de cálculo das taxas
 
 Autorização prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 Declaração prévia/Registo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 Vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03400/0099401024.pdf)
 
 2 - O valor da taxa base (Tb) é de (euro) 105, sendo automaticamente atualizada, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor na Região Autónoma da Madeira relativo ao ano anterior, excluindo a habitação, e publicado pela Direção Regional de Estatística.
 

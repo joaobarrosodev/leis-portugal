@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11000/0001900025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2023/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2023-214100365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce3041522958ba650352b40312a15f323ace339a922ac95b12f7bec4bb191624
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f6bce355e2661553a49d6281a5427aee2102d0ee46affdc5cbbf3624fff07cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,21 +72,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Silvicultura
-- Regulamentação de Atos Legislativos
-- Nemátodo
+- Agricultura
 - Arborização
-- Proteção da Floresta
-- Reconversão da Produção
+- Baldio
+- Exploração Florestal
+- Financiamento
 - Fundos CE
 - Investimento
-- Exploração Florestal
-- Baldio
-- Agricultura
-- PDR 2020
 - Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Nemátodo
+- PDR 2020
+- Programa de Desenvolvimento Rural
+- Proteção da Floresta
+- Reconversão da Produção
+- Regulamentação de Atos Legislativos
+- Silvicultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -128,16 +128,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/274/2015/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/274/2015/09/08/p/dre
+- type: cites
+  target: pt:dre:107507170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114515398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114944613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115132064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115678437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116236989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117343947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118894326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118894327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120847469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130366458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211443517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:35Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +302,9 @@ c) Investimento elegível até ao limite de 2 milhões de euros para os restante
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -232,7 +346,9 @@ vi) Apresentem PGF aprovado, em conformidade com os programas regionais de orden
 
 6 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +388,9 @@ vi) Apresentem PGF aprovado, em conformidade com os programas regionais de orden
 
 5 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -340,7 +458,9 @@ c) Investimento elegível até ao limite de 2 milhões de euros para os restante
 
 5 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -374,7 +494,9 @@ ii) Um mínimo de três espécies, em que a menos abundante represente, pelo men
 
 6 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -400,7 +522,9 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -426,7 +550,9 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -450,7 +576,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -488,4 +616,6 @@ g) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 31 de maio de 2023.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.
+
+116541183

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/04200/0115001152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/86/2013/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2013-259250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04aea747ae1bf1147ec9a9354bd464648434b49d848817dc94981bfca47305d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a1f1624046d5d2545096b14da3e0a7a7a6a106321ba51b9e8a8681e9cbc643c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,16 @@ relationships:
   target: pt:dre:484378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Integrado na Presidência do Conselho de Ministros (cuja orgânica consta do Dec Lei 126-A/2011 de 29-dez) o Instituto\
+    \ de Gestão do Fundo Social Europeu, I. P. (IGFSE, I.P.), anteriormente sob a superintendência e tutela conjunta dos Ministros\
+    \ da Economia e do Emprego e da Solidariedade e da Segurança Social, cujos estatutos foram aprovados presente diploma,\
+    \ e determinado que a respetiva superintendência e tutela seja exercida conjuntamente pelo Ministro da Economia e do Emprego,\
+    \ pelo Ministro Adjunto e do Desenvolvimento Regional, pelo Ministro da Educação e Ciência e pelo Ministro da Solidariedade\
+    \ e da Segurança Social, pelo DEC LEI.60/2013.09.05.2013.PCM, DR.IS [89] de 09.05.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2012/08/22/p/dre
   label: null
@@ -80,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:175345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484378:por
+  label: "Revogado, a partir de 05.12.2013, o presente diploma, na redação do Dec Lei 60/2013 de 09-mai, pela PORT.351/2013.04.12.2013.PCM,\
+    \ DR.IS [235] de 04.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2013-484378
+  date: '2013-12-04'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:25Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +140,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 25 de janeiro de 2013. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de janeiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 25 de janeiro de 2013. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de janeiro de 2013.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO DO FUNDO SOCIAL EUROPEU, I. P.
 

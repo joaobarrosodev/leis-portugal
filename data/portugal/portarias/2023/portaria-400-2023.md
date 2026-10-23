@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23300/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/400/2023/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/400-2023-225125604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8e83e7f48d317e1e6f365697260e0b238bd2e1fdd8d4cc86ad37ff6b941958a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdfd8ca46e862d220f84981f07ae1ec9c3da7d0905bf5528a71eaedb35d7c8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Regulamentação de Atos Legislativos
-- Recrutamento de Pessoal
+- Ensino Artístico
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2018/03/07/p/dre
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/2023/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/2023/10/17/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:04Z'
   warnings: []
   errors: []
 ---
@@ -120,14 +132,16 @@ Todas as vagas referidas no artigo anterior consideram-se extintas para efeitos 
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 17 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 14 de novembro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 27 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 17 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 14 de novembro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 27 de novembro de 2023.
 
 ## ANEXO — Concurso extraordinário destinado à vinculação do pessoal docente do ensino artístico especializado das artes visuais e dos audiovisuais
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nome do Estabelecimento de Ensino | Áreas Curriculares/Número de Vagas |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nome do Estabelecimento de Ensino | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas | Áreas Curriculares/Número de Vagas |
-| Nome do Estabelecimento de Ensino | Gestão das Artes | Imagem e Som | Projeto e Tecnologias | Projeto e Tecnologias -Cerâmica | Projeto e Tecnologias - Design Gráfico | Projeto e Tecnologias - Metais | Projeto e Tecnologias - Multimédia | Projeto e Tecnologias - Representação Digital | Projeto e Tecnologias - Têxteis | Projeto e Tecnologias - Vídeo | Teoria do Design | Total |
+| Gestão<br>das Artes | Imagem<br>e Som | Projeto<br>e<br>Tecnologias | Projeto<br>e<br>Tecnologias -Cerâmica | Projeto<br>e<br>Tecnologias - Design Gráfico | Projeto<br>e<br>Tecnologias - Metais | Projeto<br>e<br>Tecnologias - Multimédia | Projeto<br>e<br>Tecnologias - Representação Digital | Projeto<br>e<br>Tecnologias - Têxteis | Projeto<br>e<br>Tecnologias - Vídeo | Teoria<br>do<br>Design | Total |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 404172 - Escola Artística António Arroio, Lisboa... | 2 | 1 | 34 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 38 |
 | 404184 - Escola Artística Soares dos Reis, Porto... | 0 | 0 | 0 | 1 | 2 | 1 | 2 | 2 | 1 | 1 | 0 | 10 |
 | Total... | 2 | 1 | 34 | 1 | 2 | 1 | 2 | 2 | 1 | 1 | 1 | 48 |
+
+117110475

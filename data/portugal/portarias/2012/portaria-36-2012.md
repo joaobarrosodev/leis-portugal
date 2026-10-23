@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02800/0063300635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/36/2012/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1857e5cea034d1c8e6c5e7877deb9a7945d65f641281e3cd6efa84f9a009363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da897b4e900b35002ea7a4672505aa7bd2306745ce9591bbccaa1a6c443e4f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,15 +73,21 @@ subjects:
 - Ministério da Solidariedade e Segurança Social
 - Ministério das Finanças
 - Passe Social
+- Porto
 - Preço
 - Transporte de Passageiros
 - Transporte Público
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:899558357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121626426:por
+  label: Alterado, com efeitos a 26.03.2019, o art. 2.º da Port 272/2011 de 23-set, na redação do presente diploma, pelo(a)
+    Portaria n.º 91-A/2019 - Diário da República n.º 60/2019, 1º Suplemento, Série I de 2019-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-a-2019-121626426
+  date: '2019-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
   label: null
@@ -90,16 +96,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/272/2011/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/272/2011/09/23/p/dre
+- type: cites
+  target: pt:dre:2472435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:899558357:por
+  label: Revogada a partir de 11 de dezembro de 2024 a Portaria n.º 272/2011 - Diário da República n.º 184/2011, Série I de
+    2011-09-23 na redação do presente diploma pelo(a) Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento,
+    Série I de 2024-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-a-2024-899558357
+  date: '2024-12-10'
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:45Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +165,9 @@ b) ...
 
 5 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O valor do Passe Social+ consubstancia-se nos dois escalões de bonificação seguintes:
 
@@ -184,7 +207,9 @@ b) O rendimento médio anual equivalente do agregado familiar resulta de uma fra
 
 5 - O Passe Social+ confere o direito ao transporte nas mesmas condições dos passes em vigor e que lhes estão associados.
 
-###### Artigo 3.º-B — Atribuição do Passe Social+
+Artigo 3.º-B
+
+Atribuição do Passe Social+
 
 1 - A venda dos títulos de transporte abrangidos pelo Passe Social+ é efetuada pelos operadores de transporte coletivo de passageiros, mediante solicitação dos interessados, através do preenchimento de modelo definido pelas autoridades metropolitanas de Lisboa e do Porto, devendo aquele requerimento ser acompanhado dos seguintes documentos:
 
@@ -202,7 +227,9 @@ e) Quando aplicável, declaração das entidades competentes do Ministério da S
 
 3 - A impossibilidade de apuramento dos rendimentos nos termos previstos nesta portaria, por motivos imputáveis ao requerente, determina a impossibilidade de acesso ao Passe Social+.
 
-###### Artigo 3.º-C — Determinação dos rendimentos
+Artigo 3.º-C
+
+Determinação dos rendimentos
 
 1 - Para efeito de cálculo do rendimento médio mensal do agregado familiar, consideram-se rendimentos relevantes os rendimentos brutos, ainda que isentos de tributação, nos termos do número seguinte.
 
@@ -216,11 +243,15 @@ c) O valor bruto das prestações sociais pagas pelos serviços e entidades do M
 
 d) Todos os demais rendimentos brutos auferidos pelo agregado familiar.
 
-###### Artigo 6.º-A — Tratamento de dados pessoais
+Artigo 6.º-A
+
+Tratamento de dados pessoais
 
 O tratamento de dados pessoais realizado ao abrigo da presente portaria encontra-se regulado pela legislação relativa à proteção de dados pessoais, na generalidade, e, na especialidade, pela legislação que regula os requisitos de tratamento de dados pessoais para a constituição de ficheiros de âmbito nacional, com recurso a tecnologias de informação.
 
-###### Artigo 6.º-B — Articulação entre entidades
+Artigo 6.º-B
+
+Articulação entre entidades
 
 Os operadores de transporte das áreas metropolitanas de Lisboa e Porto, através das Autoridades Metropolitanas de Transportes, articulam-se com as entidades competentes dos Ministérios das Finanças e da Solidariedade Social, através de protocolo que estabeleça os procedimentos de comunicação de dados, por via desmaterializada, para verificação dos elementos necessários à atribuição do Passe Social+, referidos no artigo 3.º-B da presente portaria.»
 
@@ -234,4 +265,4 @@ A presente portaria produz efeitos a 1 de fevereiro de 2011.
 
 Em 31 de janeiro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira.

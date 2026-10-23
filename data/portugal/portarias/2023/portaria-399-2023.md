@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/23200/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/399/2023/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29714d72fcbd685ae9582498fcdf2a8a194621b94c688e28c9d32e542c1b4e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0430845f41faf5aaf315d8d2d005a3ca563cd182e151ab3fdf138f148f77dd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Financiamento
 - Empresa
-- Instituto do Emprego e Formação Profissional
+- Financiamento
 - Formação Profissional
 - Fundos CE
 - Indústria
+- Instituto do Emprego e Formação Profissional
+- Programa Qualifica
 - Qualificação Profissional
 - Subsídio não Reembolsável
-- Programa Qualifica
 relationships:
 - type: cites
   target: celex:32014R0651
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/282/2023/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/282/2023/09/14/p/dre
+- type: cites
+  target: pt:dre:138217581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221642378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:03Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +188,9 @@ j) [...]
 
 2 - Sem prejuízo do disposto na alínea b) do número anterior, poderão aceder ao Programa Grandes Empresas desde que a respetiva candidatura não exceda o limite de 100 trabalhadores.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os apoios a atribuir traduzem-se numa subvenção não reembolsável, para fazer face aos encargos com os custos salariais e subsídio de alimentação, e com os custos de formação, nos termos indicados nos números seguintes.
 
@@ -184,7 +206,9 @@ j) [...]
 
 7 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -200,7 +224,9 @@ j) [...]
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O apoio previsto no artigo 4.º é atribuído ao abrigo do regime de auxílios de Estado - auxílios à formação, nos termos do artigo 31.º do Regulamento (EU) n.º [651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt) da Comissão, de 17 de junho de 2014, com as alterações dadas pelo Regulamento (EU) n.º [2017/1084](https://data.europa.eu/eli/reg/2017/1084/oj?locale=pt) da Comissão, de 14 de junho de 2017.»
 
@@ -212,4 +238,6 @@ O apoio previsto no artigo 4.º é atribuído ao abrigo do regime de auxílios d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 9 de novembro de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 9 de novembro de 2023.
+
+117105794

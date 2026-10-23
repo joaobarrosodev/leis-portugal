@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/362/2013/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-2013-483953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f006ae31076eb3dc22c1d8b930beafdb795e29b1322f3d782ef8b80bb13368b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4c8a5dbf639ff771bd3541fadb3147eb5b9a10dfc537ecf2483e7b75d106fe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Montemor-o-Velho
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Montemor-o-Velho
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:02Z'
   warnings: []
   errors: []
 ---
@@ -236,13 +248,13 @@ c) Lagos e quaisquer obras ou escavações destinadas à extração e armazename
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 10 de julho de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 10 de julho de 2013.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -252,11 +264,11 @@ Zona de proteção intermédia
 
 Captações de Fonterma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Captações de Pereira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -266,11 +278,11 @@ Zona de proteção alargada
 
 Captações de Fonterma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Captações de Pereira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -282,8 +294,8 @@ Extrato da Carta Militar de Portugal - 1 : 25 000 (IGeoE)
 
 Captações de Fonterma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
 
 Captações de Pereira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24600/0684606848.pdf)

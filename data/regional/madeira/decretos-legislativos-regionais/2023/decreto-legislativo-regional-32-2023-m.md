@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14700/0002700030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/32/2023/07/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2023-216406852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b53191bb4bb041f618aa6746408fff4ef385d0abe62e016de6f2a8afc316a4a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7115b203801dd53b47698a56e296ab5dbb21ad62d96628678b81697787ca8dcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
-- Regime Laboral
 - Administração Pública
-- Sistema Retributivo
-- Subsídio de Risco
+- Avaliação do Pessoal
+- Contrato de Trabalho
+- Instituto das Florestas e Conservação da Natureza
 - Integração de Trabalhadores
 - Madeira.região Autónoma
 - Progressão na Carreira
-- Contrato de Trabalho
+- Regime do Contrato de Trabalho em Funções Públicas
+- Regime Laboral
 - Remuneração
 - Sapador Florestal
-- Avaliação do Pessoal
-- Instituto das Florestas e Conservação da Natureza
+- Sistema Retributivo
+- Subsídio de Risco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2018/08/20/m/dre
@@ -100,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:116108111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:47Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +192,9 @@ c) (Revogada.)
 
 7 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -198,7 +220,9 @@ c) (Revogada.)
 
 12 - O trabalhador provido no cargo de coordenador geral tem o direito de optar, a todo o tempo, pela remuneração base devida na categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento-base do Presidente do Governo Regional, sem prejuízo de outro limite legalmente aplicável.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os trabalhadores integrados na carreira de sapador florestal, bem como os coordenadores e o coordenador geral, têm direito a um suplemento de risco, pago em 12 vezes por ano, no montante de (euro)110,00 mensais, que será atualizado nos termos do diploma que proceder à atualização dos montantes dos suplementos remuneratórios auferidos pelos trabalhadores da administração pública regional.
 
@@ -230,11 +254,11 @@ Com a aplicação do disposto no presente diploma os trabalhadores abrangidos pe
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 28 de julho de 2023.**
+Assinado em 28 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -244,4 +268,6 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 (a que se referem os artigos 17.º e 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14700/0002700030.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14700/0002700030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14700/0002700030.pdf)
+
+116727962

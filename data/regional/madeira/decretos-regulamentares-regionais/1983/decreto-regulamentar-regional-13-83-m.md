@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17100/27912792.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o nome do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1983-454304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6317cbbbd298cb220eff9181983e79453d06a443fee9f043b0d9cfb8bb33a1db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 865c982aa7b12efce2fc3fde6ffed81f68cd8bde219c380b923518d0ddf79626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional da Administração Pública
+- Inspecção Administrativa Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Administração
 relationships:
 - type: amended_by
   target: pt:dre:547809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:547809:por
+  label: "Revogado pelo DRR.19/89/M.20.09.1989.GR-RAM, DR.IS [217] de 20.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1989-547809
+  date: '1989-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:17Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +118,9 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 9.º e 16.º do [Decreto Regulamentar Regional n.º 23/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1982-376178), de 19 de Outubro, e o respectivo mapa anexo passam a ter a redacção que segue:
+Artigo 1.º Os artigos 5.º, 9.º e 16.º do [Decreto Regulamentar Regional n.º 23/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1982-376178), de 19 de Outubro, e o respectivo mapa anexo passam a ter a redacção que segue:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) ...
 
@@ -126,11 +144,11 @@ j) Promover a abertura dos concursos a que aludem os n.os 1 a 5 do artigo 16.º
 
 ...
 
-###### Art. 9.º - O pessoal constante do mapa anexo ao presente diploma tem direito a gratificação mensal, que será de importância equivalente a 20% do respectivo vencimento.
+Art. 9.º - O pessoal constante do mapa anexo ao presente diploma tem direito a gratificação mensal, que será de importância equivalente a 20% do respectivo vencimento.
 
 ...
 
-###### Art. 16.º - 1 - O lugar de inspector superior administrativo será provido mediante concurso documental, tomando por base a avaliação curricular, de entre inspectores-coordenadores administrativos da administração central ou regional e assessores referidos no n.º 2, todos licenciados em Direito e com o mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 16.º - 1 - O lugar de inspector superior administrativo será provido mediante concurso documental, tomando por base a avaliação curricular, de entre inspectores-coordenadores administrativos da administração central ou regional e assessores referidos no n.º 2, todos licenciados em Direito e com o mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de inspector-coordenador administrativo serão providos mediante concurso documental, tomando por base a avaliação curricular, de entre inspectores principais administrativos e assessores dos quadros dos serviços do Ministério da Administração Interna, da Secretaria Regional da Administração Pública dos Açores, da Direcção Regional da Administração Pública da Madeira e secretários de governos civis de 1.ª ordem, todos com mais de 3 anos de bom e efectivo serviço na categoria.
 
@@ -160,12 +178,12 @@ b) De entre licenciados em Direito ou habilitados com outra licenciatura adequad
 
 Mapa a que se refere o n.º 1 do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17100/27912792.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17100/27912792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17100/27912792.pdf)
 
 Aprovado em plenário do Governo Regional em 5 de Maio de 1983.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Maio de 1983.**
+Assinado em 30 de Maio de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

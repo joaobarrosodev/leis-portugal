@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/497/2010/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-2010-334325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83e2ab3f78d101e9052e5aab64c6092e3377e080ab59391d67b8e4a8c9e91682
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b56a52559daed5a634b404e5087af7c9c12b9370afa5a0672b4e1697609da7b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aljustrel
 - Almodôvar
 - Castro Verde
 - Julgado de Paz
 - Ourique
-- Aljustrel
 - Regulamento Interno
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1417-a/2008/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1417-a/2008/12/05/p/dre
+- type: cites
+  target: pt:dre:143682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:42Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +139,9 @@ b) No concelho de Aljustrel, na Avenida dos Algares.
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O Julgado de Paz do Agrupamento dos Concelhos de Aljustrel, Almodôvar, Castro Verde, Mértola e Ourique tem o seguinte horário de funcionamento:
 

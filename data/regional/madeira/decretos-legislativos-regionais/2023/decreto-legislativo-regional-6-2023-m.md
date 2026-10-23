@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01100/0003000055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2023/01/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eba769b3c5e8fa4e3bc255cb9df589b5653acaf151be9971dcd08fd85b93c81b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da72bb69b13c4c7ab03f33eed631fcfee3d1d85da38ad9fb86e63717a760bc35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Política Fiscal
-- Governo Regional
+- Apoio ao Investimento
+- Benefícios Fiscais
+- Código Fiscal do Investimento
+- Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento
+- Contribuições e Impostos
 - Definição de Competências
+- Empresa
 - Empresa Privada
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- Contribuições e Impostos
+- Governo Regional
 - Incentivos Fiscais
-- Isenção Fiscal
-- Operador Económico
-- IRC
-- Madeira.região Autónoma
-- Código Fiscal do Investimento
-- Microempresa
-- Pequenas e Médias Empresas
-- Regime Fiscal
-- Benefícios Fiscais
 - Investimento Privado
+- IRC
+- Isenção Fiscal
+- Madeira.região Autónoma
+- Microempresa
+- Operador Económico
+- Pequenas e Médias Empresas
+- Política Fiscal
+- Projeto de Investimento
+- Regime Fiscal
 - Tributação
-- Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento
 relationships:
 - type: amended_by
   target: pt:dre:216512881:por
@@ -148,16 +148,92 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:106522679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74811912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 53
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:48Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +280,9 @@ Os artigos 1.º, 2.º, 9.º, 14.º, 22.º, 23.º, 29.º 35.º, 38.º e 45.º do 
 
 3 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Até 31 de dezembro de 2027, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 750 000,00 euros, no caso de investimentos realizados na ilha da Madeira, e de 250 000,00 euros, no caso de investimentos realizados na Ilha do Porto Santo.
 
@@ -236,7 +314,9 @@ k) [...]
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O benefício fiscal a conceder aos projetos de investimento corresponde a 25 % das aplicações relevantes do projeto efetivamente realizadas.
 
@@ -264,7 +344,9 @@ d) (Revogada.)
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -278,7 +360,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O RFAI-RAM é aplicável aos sujeitos passivos de IRC que exerçam uma atividade nos setores especificamente previstos no n.º 3 do artigo 2.º, tendo em consideração os códigos de atividade definidos na portaria prevista no n.º 4 do referido artigo, com exceção das atividades excluídas do âmbito setorial de aplicação das OAR e do RGIC.
 
@@ -308,7 +392,9 @@ f) Efetuem investimento relevante que proporcione a criação de postos de traba
 
 8 - Para efeito do apuramento da condição referida na alínea f) do n.º 4 são considerados os trabalhadores por conta de outrem admitidos por efeitos do investimento.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Aos sujeitos passivos de IRC previstos no n.º 1 do artigo anterior, são concedidos os seguintes benefícios fiscais:
 
@@ -336,7 +422,9 @@ d) [...]
 
 7 - Para efeitos do disposto no número anterior, os sujeitos passivos ficam sujeitos aos procedimentos especiais de controlo do montante dos auxílios de Estado com finalidade regional concedidos ao investimento, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos assuntos europeus.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os sujeitos passivos referidos no artigo anterior, podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, até 25 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
 
@@ -348,11 +436,15 @@ d) [...]
 
 5 - No caso dos sujeitos passivos que sejam micro e pequenas empresas, tal como definidas na [Recomendação 2003/361/CE](http://data.europa.eu/eli/reco/2003/361/oj?locale=pt), da Comissão, de 6 de maio de 2003, a dedução prevista no n.º 2, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, é feita até à concorrência de 50 % da coleta do IRC.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 O SIFIDE-RAM, a vigorar nos períodos de tributação de 2016 a 2025, processa-se nos termos dos artigos seguintes.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os sujeitos passivos de IRC residentes no território da Região Autónoma da Madeira que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2016 e até 31 de dezembro de 2025, numa dupla percentagem:
 
@@ -370,7 +462,9 @@ b) [...]
 
 6 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de janeiro de 2022 a 31 de dezembro de 2027, aprovado pela Comissão Europeia em 8 de fevereiro de 2022, o limite máximo aplicável aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI, na Região Autónoma da Madeira é de 40 %.
 
@@ -404,11 +498,11 @@ O Código Fiscal de Investimento da Região Autónoma da Madeira, no seu novo te
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 11 de janeiro de 2023.**
+Assinado em 11 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1073,3 +1167,5 @@ b) Comprometer-se a não relocalizar o estabelecimento para o qual se solicitou 
 2 - Para efeitos do presente Código, e em conformidade com o [Regulamento (UE) 2017/1084](http://data.europa.eu/eli/reg/2017/1084/oj?locale=pt) da Comissão de 14 de junho de 2017, «a relocalização» consiste «na transferência da mesma atividade, de atividade semelhante ou de parte dessa atividade de um estabelecimento numa parte contratante do Acordo EEE (estabelecimento inicial) para o estabelecimento objeto do auxílio noutra parte contratante do Acordo EEE (estabelecimento auxiliado). Verifica-se uma transferência se o produto ou serviço nos estabelecimentos inicial e auxiliado servir, pelo menos parcialmente, os mesmos fins e satisfizer a procura ou as necessidades do mesmo tipo de clientes e se perderem empregos na mesma atividade ou em atividade semelhante num dos estabelecimentos iniciais do beneficiário no EEE».
 
 3 - O cumprimento das obrigações impostas pelo n.º 1 do presente artigo é fiscalizado pelo IDE, IP-RAM, o qual deverá, em caso de comprovado incumprimento, desencadear os procedimentos legais conducentes à perda total dos benefícios fiscais concedidos nos termos do presente Código, designadamente, notificar os promotores e beneficiários infratores para, nos termos legais e no prazo de 30 dias, pagarem os montantes correspondentes às receitas fiscais não arrecadadas, acrescidos de juros compensatórios calculados nos termos da lei geral tributária (LGT), aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de dezembro, na sua atual redação, devendo ser extraída certidão de dívida, para efeitos de instauração de procedimento executivo no serviço de finanças competente, em caso de falta de pagamento até ao termo daquele prazo de 30 dias.
+
+116059874

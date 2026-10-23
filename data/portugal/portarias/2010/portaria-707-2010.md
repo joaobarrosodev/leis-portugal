@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15800/0354703547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/707/2010/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/707-2010-343147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7316ebf8e1c37af10b980a43766b2ccdc48ffc1f40720c31e2d5571ae56505dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3526b34dacca40666ec6f015fe7a657c51302ac215c373e10b848c197f2ef03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1474/2004/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1474/2004/12/21/p/dre
+- type: cites
+  target: pt:dre:219569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:514179:por
+  label: "Revogada, a partir de 15.10.2010, a Port 1474/2004, de 21-Dez, alterada pela presente portaria, pela PORT.924-A/2010.17.09.2010.MS,\
+    \ DR.IS [182]Supl de 17.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/924-a-2010-514179
+  date: '2010-09-17'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:59Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +144,4 @@ Grupo 18 - Vacinas e imunoglobulinas
 
 18.3 - [...]»
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 9 de Agosto de 2010.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 9 de Agosto de 2010.

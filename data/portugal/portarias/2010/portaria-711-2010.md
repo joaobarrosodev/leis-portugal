@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/2010/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2010-342840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45254b6f86edcd4c8337fb7136fd3d3b004dddafd297f70f2dc721637c2173db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dca5766664ccab56059332cda6c7a23bfc3b4032630fda476dc3d2989c33fe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Certificação Profissional
 - Educação
-- Formando
 - Educação dos Adultos
+- Formação Profissional
+- Formando
 - Programa Operacional Potencial Humano
 - Qualificação Profissional
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:146928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146928:por
+  label: "Alterados os art.s 1º, 19º e 38º da Port 230/2008, de 07-Mar, na redacção da presente portaria, pela PORT.283/2011.24.10.2011.MEE,\
+    \ DR.IS [204] de 24.10.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-2011-146928
+  date: '2011-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2009/05/18/p/dre
   label: null
@@ -114,16 +120,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/230/2008/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/230/2008/03/07/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:01Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +204,9 @@ Os artigos 1.º, 19.º e 38.º da Portaria n.º 230/2008, de 7 de Março, passam
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os grupos de formação são constituídos por um mínimo de 20 formandos.
 
@@ -170,7 +214,9 @@ Os artigos 1.º, 19.º e 38.º da Portaria n.º 230/2008, de 7 de Março, passam
 
 No caso de cursos EFA de dupla certificação ou no caso de ser desenvolvida apenas a componente tecnológica do curso EFA correspondente, podem ser constituídos grupos de formação com um mínimo de 10 formandos, apenas para o desenvolvimento da componente de formação tecnológica.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os grupos de formação são constituídos por um número mínimo de 20 formandos.
 
@@ -188,4 +234,4 @@ No caso de cursos EFA de dupla certificação ou no caso de ser desenvolvida ape
 
 2 - Os cursos enquadrados em candidaturas aprovadas pelo Programa Operacional Potencial Humano ao abrigo do seu Aviso n.º 19/2009, de 16 de Setembro, são regulados pela legislação aplicável à data da abertura do respectivo concurso.
 
-**A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 3 de Agosto de 2010. - O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 30 de Julho de 2010.**
+A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 3 de Agosto de 2010. - O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 30 de Julho de 2010.

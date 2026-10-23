@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/100/2012/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-2012-552536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b100417da4896a647f9a43b55cc5ba9702421f0f6198a9530f9e71dbc77013a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a79aef9e6f02232089da200c991f09799ed3fc37240c7fd1391af320a01c4a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Chamusca
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:2795866:por
+  label: "Tornada pública a alteração da delimitação da Reserva Ecológica Nacional do município da Chamusca aprovada pela\
+    \ Res. 78/96, de 29-mai, na redação do presente diploma, pelo AV.13911/2013.15.11.2013.CCDRLVT-PCM, DR.IIS [222] de 15.11.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13911-2013-2795866
+  date: '2013-11-15'
+- type: amended_by
+  target: pt:dre:3156304:por
+  label: "Tornada pública a alteração da delimitação da Reserva Ecológica Nacional do município da Chamusca aprovada pela\
+    \ Res. 78/96, de 29-mai, na redação do presente diploma, pelo AV.3936/2014.21.03.2014.CCDRLVT-PCM, DR.IIS [57] de 21.03.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3936-2014-3156304
+  date: '2014-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -88,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/1996/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/1996/05/29/p/dre
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641075:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:17Z'
   warnings: []
   errors: []
 ---
@@ -132,10 +166,10 @@ A referida planta, o quadro anexo e a memória descritiva do presente processo p
 
 A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 29 de março de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 29 de março de 2012.
 
 QUADRO ANEXO
 
 Alteração da Reserva Ecológica Nacional do concelho da Chamusca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07100/0179201793.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07100/0179201793.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07100/0179201793.pdf)

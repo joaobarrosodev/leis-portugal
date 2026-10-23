@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189/2013/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-2013-261117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f63668160c63e907afdef94404ba5dec8bf447a5d7b60b62b27485c20e07b965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bf234791381559aaa2e05e97d9ab1cf1a00c0c5755638508e7461f1489943a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1271/2009/10/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1271/2009/10/19/p/dre
+- type: cites
+  target: pt:dre:175329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:02Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +133,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 7 de maio de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE AÇÃO SOCIAL DAS FORÇAS ARMADAS, I. P.
 

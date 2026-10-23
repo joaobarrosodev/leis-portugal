@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07500/0159501596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2018/04/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2018-115124397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 518a83a4715d1bc3e6499f7814ca7d16da00aded3e74859f52896a4fa3a30946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1cdb49d0be37d6b632c3b392d6be46ef612a29be0b68776a954b6613b38070b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Formação Profissional
-- Ensino Oficial
-- Estatuto da Carreira Docente
+- Avaliação do Pessoal
 - Carreira Profissional
-- Ensino Secundário
-- Pessoal Docente
 - Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Estatuto da Carreira Docente
+- Formação Profissional
 - Madeira.região Autónoma
+- Pessoal Docente
 - Progressão na Carreira
 - Remuneração
-- Avaliação do Pessoal
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre
@@ -119,16 +119,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:21Z'
   warnings: []
   errors: []
 ---
@@ -209,10 +265,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de março de 2018.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 2 de abril de 2018.**
+Assinado em 2 de abril de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+111245468

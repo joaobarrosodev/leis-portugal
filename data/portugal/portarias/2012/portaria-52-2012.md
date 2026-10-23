@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/2012/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-2012-542387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ff8c815149fb3d126ea30a2ffc87ec4b07d5bb0f6e5e81624840230bf2c1ca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25411a039961d9485624a374bd714d7e1299be4d5cc64443790b457930b0bafb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Autoridade Tributária e Aduaneira
 - Bebida Alcoólica
-- SELO de Garantia
 - Controlo de Qualidade
 - Definição de Competências
+- SELO de Garantia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1631/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1631/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628007:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67120684:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 117/2015 - Diário da República n.º 84/2015, Série I de 2015-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-2015-67120684
+  date: '2015-04-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:16Z'
   warnings: []
   errors: []
 ---
@@ -130,13 +147,13 @@ A partir de 1 de abril do corrente ano, a Imprensa Nacional-Casa da Moeda (INCM)
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012.
 
 ## ANEXO — Estampilhas especiais para bebidas espirituosas
 
 Modelo A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf)
 
 1 - Especificações do modelo:
 
@@ -150,7 +167,7 @@ Modelo A
 
 Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04500/0093600937.pdf)
 
 2 - Especificações do modelo:
 

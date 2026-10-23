@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2014/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2014-25345963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f3459591b4a1cad6ff222d1dd7efee9de8fee4ecaa2793c53329a4070decd91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c89c72a8f12a1c02540e58f8d9bcd8738935ce5702315a10b3a122801ffff6e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
-- Domínio Público Marítimo
-- Propriedade do Estado
 - Domínio Público do Estado
+- Domínio Público Marítimo
 - Equipamento Marítimo
 - Equipamento Portuário
 - Madeira.região Autónoma
+- Propriedade do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:51Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +161,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de abril de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 12 de maio de 2014.**
+Assinado em 12 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/10000/0295602958.pdf))](https://files.diariodarepublica.pt/1s/2014/05/10000/0295602958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/10000/0295602958.pdf)

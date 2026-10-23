@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05900/0184701848.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/117/2013/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-2013-259384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfadeba61b3fc751d8ea85e88edd2ea3114f0666be8c9019fd531d28303c0302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10f980b54a592bfd0d98bd906aa31e41d9ba350dbfe5f86a5317a1f1fc9523a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Código do IRC
 - Contribuições e Impostos
-- Pessoa Coletiva
+- Empresa
 - IRC
+- Pessoa Coletiva
 - SGPS
 - Tributação
 - Unidade dos Grandes Contribuintes
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/320-a/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/320-a/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:229897:por
+  label: "Declarada sem efeito, por corresponder à publicação em duplicado do texto da Port. 107/2013 de 15-mar, pela DECL-RECT.18-A/2013.26.03.2013.PCM,\
+    \ DR.IS [60-Supl] de 26.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/18-a-2013-229897
+  date: '2013-03-26'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:37Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +179,4 @@ e) Sociedades integradas em grupos, abrangidos pelo regime especial de tributaç
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 12 de março de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 12 de março de 2013.

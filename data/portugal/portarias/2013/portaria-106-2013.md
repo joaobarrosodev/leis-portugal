@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05200/0162301626.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106/2013/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-2013-259763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 222b9776d9a040ad6c7bba67f0dfc49f1c9dda77f7851b3bf9f2f7c578097e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327aafce6b457cea88be78389ea81991e3e7166f63eaee390e1662289a5390d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Financiamento
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Contratação de Pessoal
+- Contrato de Trabalho
 - Contribuições da Segurança Social
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
-- Instituto de Informática
-- Contratação de Pessoal
-- TAXA Social Unica
-- Criação de Emprego
-- Mercado de Emprego
 - Emprego
-- Programa de Emprego
+- Financiamento
+- Formação Profissional
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
 - Política de Emprego
+- Programa de Emprego
 - Reembolso
-- Contrato de Trabalho
+- TAXA Social Unica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/
@@ -125,16 +125,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/20/2012/03/09/p/dre
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:55021051:por
+  label: Revogada, a partir de 25.07.2014, pelo(a) Portaria n.º 149-A/2014 - Diário da República n.º 141/2014, 1º Suplemento,
+    Série I de 2014-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-a-2014-55021051
+  date: '2014-07-24'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:35Z'
   warnings: []
   errors: []
 ---
@@ -381,4 +423,4 @@ A Medida Estímulo 2013 inclui financiamento comunitário, sendo-lhe aplicáveis
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 11 de março de 2013.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 11 de março de 2013.

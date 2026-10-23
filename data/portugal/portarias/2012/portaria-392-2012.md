@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/2012/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-2012-190602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7fd50d889f2fafdfd349b280058cc50288b6df8ab41f91db8327b6fad367d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59c5791369fe7b773ba9ee56dd6fb832ea8853a1cfcad055099904c62b2da7da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1416/2007/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1416/2007/10/30/p/dre
+- type: cites
+  target: pt:dre:553627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628847:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:56Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +129,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de novembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 15 de novembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de novembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 15 de novembro de 2012.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO NACIONAL DE INVESTIGAÇÃO AGRÁRIA E VETERINÁRIA, I. P.
 

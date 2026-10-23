@@ -5,8 +5,8 @@ title: Decreto-Lei n.º 346/79
 short_title: null
 summary: Transfere para a Região Autónoma da Madeira a competência e atribuições relativas aos serviços periféricos dependentes
   do Ministério da Agricultura e Pescas
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: decreto-lei
 document_type_label: Decreto-Lei
 issuing_authority:
@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19900/21162117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1979-378535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63139e803e1835de474985267e8bac5f565464b8f71aea8316aeaecf7dc8f4d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3e7793608e0f74cde5a7cda43a004918807b5bb94e0e5ea775e422bbb47b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Ministério da Agricultura e Pescas
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:02Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +112,11 @@ O presente diploma visa a consecução desse propósito e nele se teve a preocup
 
 Assim, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição:
 
-###### Artigo 1.º São transferidas para a Região Autónoma da Madeira a competência e atribuições que o Governo da República até agora vinha exercendo, através do Ministério da Agricultura e Pescas, quanto aos serviços periféricos dependentes do mesmo e enunciados expressamente no artigo 3.º do presente diploma.
+Artigo 1.º São transferidas para a Região Autónoma da Madeira a competência e atribuições que o Governo da República até agora vinha exercendo, através do Ministério da Agricultura e Pescas, quanto aos serviços periféricos dependentes do mesmo e enunciados expressamente no artigo 3.º do presente diploma.
 
-###### Art. 2.º À Secretaria Regional de Agricultura e Pescas da Região Autónoma da Madeira competirá estabelecer a política agrária e coordenar as acções necessárias à sua execução, de harmonia com o seu diploma orgânico, publicado através do Decreto Regulamentar Regional n.º 8/78, de 29 de Maio.
+Art. 2.º À Secretaria Regional de Agricultura e Pescas da Região Autónoma da Madeira competirá estabelecer a política agrária e coordenar as acções necessárias à sua execução, de harmonia com o seu diploma orgânico, publicado através do Decreto Regulamentar Regional n.º 8/78, de 29 de Maio.
 
-###### Art. 3.º São extintos os seguintes serviços periféricos na Região Autónoma dependentes do Ministério da Agricultura e Pescas:
+Art. 3.º São extintos os seguintes serviços periféricos na Região Autónoma dependentes do Ministério da Agricultura e Pescas:
 
 a) Delegação do Funchal do Instituto de Gestão e Estruturação Fundiária;
 
@@ -114,34 +130,34 @@ e) Administração Florestal da Ribeira Brava;
 
 f) Posto Aquícola do Funchal ou de Ribeiro Frio.
 
-###### Art. 4.º O pessoal que presta serviço nos organismos ora extintos pelo presente diploma será integrado nos quadros de pessoal dos serviços dependentes da Secretaria Regional de Agricultura e Pescas em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no novo lugar o tempo de serviço prestado no seu actual cargo.
+Art. 4.º O pessoal que presta serviço nos organismos ora extintos pelo presente diploma será integrado nos quadros de pessoal dos serviços dependentes da Secretaria Regional de Agricultura e Pescas em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no novo lugar o tempo de serviço prestado no seu actual cargo.
 
-###### Art. 5.º A integração prevista no artigo anterior será efectuada mediante lista nominativa elaborada pelo Ministério da Agricultura e Pescas e aprovada pelo Secretário Regional de Agricultura e Pescas, independentemente de quaisquer formalidades, salvo visto do Tribunal de Contas e publicação no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.
+Art. 5.º A integração prevista no artigo anterior será efectuada mediante lista nominativa elaborada pelo Ministério da Agricultura e Pescas e aprovada pelo Secretário Regional de Agricultura e Pescas, independentemente de quaisquer formalidades, salvo visto do Tribunal de Contas e publicação no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 6.º Os funcionários que não desejarem a integração nos quadros da Secretaria Regional de Agricultura e Pescas deverão apresentar a respectiva declaração no prazo de cento e oitenta dias a seguir à publicação do presente diploma no Diário da República, a fim de lhes ser dada nova colocação.
+Art. 6.º Os funcionários que não desejarem a integração nos quadros da Secretaria Regional de Agricultura e Pescas deverão apresentar a respectiva declaração no prazo de cento e oitenta dias a seguir à publicação do presente diploma no Diário da República, a fim de lhes ser dada nova colocação.
 
-###### Art. 7.º - 1 - Os funcionários que à data da integração habitem em casa do Estado ou pelo Estado arrendada, mediante o pagamento de renda calculada segundo as instruções publicadas no Diário do Governo, 2.ª série, n.º 305, de 31 de Dezembro de 1956, continuarão a auferir essa regalia até cessarem as suas funções.
+Art. 7.º - 1 - Os funcionários que à data da integração habitem em casa do Estado ou pelo Estado arrendada, mediante o pagamento de renda calculada segundo as instruções publicadas no Diário do Governo, 2.ª série, n.º 305, de 31 de Dezembro de 1956, continuarão a auferir essa regalia até cessarem as suas funções.
 
 2 - Os mestres e guardas florestais que prestarem serviço à data da integração manterão o cultivo de terrenos, nos termos dos artigos 73.º e 74.º e seu § único do Regulamento de Polícia Florestal, aprovado pelo Decreto de 9 de Março de 1905, até cessarem as suas funções.
 
 3 - Aos funcionários que prestarem serviço à data da integração e que ao serem reformados na Região pretendam fixar residência ou regressar ao continente ser-lhes-á aplicado o regime do [Decreto-Lei n.º 42935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42935-1960-281604), de 21 de Abril de 1960, no que se refere a transporte de pessoas e bens.
 
-###### Art. 8.º A gestão de todos os bens afectos aos serviços extintos transitará para o Governo Regional mediante relações de cadastro, exceptuando o edifício localizado no sítio de Salão, em Porto Santo, que passa para o património do Gabinete do Ministro da República para a Madeira.
+Art. 8.º A gestão de todos os bens afectos aos serviços extintos transitará para o Governo Regional mediante relações de cadastro, exceptuando o edifício localizado no sítio de Salão, em Porto Santo, que passa para o património do Gabinete do Ministro da República para a Madeira.
 
-###### Art. 9.º As posições contratuais na titularidade dos serviços periféricos extintos que estejam relacionados com os serviços das suas delegações na Madeira, nomeadamente os direitos de arrendamento, são transferidas para o Governo Regional, independentemente de quaisquer formalidades.
+Art. 9.º As posições contratuais na titularidade dos serviços periféricos extintos que estejam relacionados com os serviços das suas delegações na Madeira, nomeadamente os direitos de arrendamento, são transferidas para o Governo Regional, independentemente de quaisquer formalidades.
 
-###### Art. 10.º O Ministério da Agricultura e Pescas prestará a colaboração e o apoio técnico que estiverem dentro das suas possibilidades às actividades próprias da Secretaria Regional de Agricultura e Pescas, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
+Art. 10.º O Ministério da Agricultura e Pescas prestará a colaboração e o apoio técnico que estiverem dentro das suas possibilidades às actividades próprias da Secretaria Regional de Agricultura e Pescas, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
 
-###### Art. 11.º As dotações orçamentais previstas no corrente ano para os serviços periféricos extintos serão transferidas para o orçamento regional, a partir da entrada em vigor do presente decreto.
+Art. 11.º As dotações orçamentais previstas no corrente ano para os serviços periféricos extintos serão transferidas para o orçamento regional, a partir da entrada em vigor do presente decreto.
 
-###### Art. 12.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
+Art. 12.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
 
-###### Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Lino Dias Miguel - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 13 de Agosto de 1979.**
+Promulgado em 13 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

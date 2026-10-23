@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/255/2012/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-2012-174565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905f35bed0ae2faa08c284970ea88d519cc87a737c511bc03282ad4ad7941400
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f3ab5b5001cda8b47d586a5a107e5f6826245757696cf22236c620853b52ab0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/862/1999/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/862/1999/10/08/p/dre
+- type: cites
+  target: pt:dre:367228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687807:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:12Z'
   warnings: []
   errors: []
 ---
@@ -168,10 +192,10 @@ Sem prejuízo do disposto nos números anteriores, mantêm-se válidos os cartõ
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de agosto de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de agosto de 2012.
 
 ## ANEXO — Modelo do cartão de contribuinte
 
 Cartão de plástico com as dimensões: 85 mm x 54 mm - cantos redondos com as seguintes especificações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16500/0471004711.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16500/0471004711.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16500/0471004711.pdf)

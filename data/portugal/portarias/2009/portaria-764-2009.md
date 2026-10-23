@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13600/0451204512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/764/2009/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/764-2009-492248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db611b3756ad094de81ea4687b51491e60dcdafe090b1c401df2c89b69a57461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9e00a9e2eb68d8ed654df803cf869cf808f88471a5c3426426200b92959e5f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Álcool
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Destilador
-- Álcool
+- Financiamento
 - IFAP
 - Produtor
 - Transporte de Carga
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:276847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334900:por
+  label: "Alterado o art. 12º da Port 42/2009, de 19-Jan, na redacção do presente diploma, pela PORT.402/2010.28.06.2010.MADRP,\
+    \ DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-2010-334900
+  date: '2010-06-28'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -88,16 +94,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/42/2009/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/42/2009/01/19/p/dre
+- type: repealed_by
+  target: pt:dre:276847:por
+  label: "Revogada, com efeitos a 21.02.2011 e sem prejuízo do disposto no art. 23.º da Port 152/2011, de 11-Abr, a Port.\
+    \ 42/2009, de 19-Jan, na redacção dada pelo presente diploma, pela PORT.152/2011.11.04.2011.MADRP, DR.IS [71] de 11.04.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2011-276847
+  date: '2011-04-11'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:10Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +149,9 @@ Entregas de vinho na destilaria
 
 6 - ...
 
-###### Artigo 12.º — Pedido de ajuda
+Artigo 12.º
+
+Pedido de ajuda
 
 1 - O pedido de ajuda, em formulário próprio definido pelo IFAP, I. P., é entregue naquela entidade até 31 de Julho da campanha em causa, acompanhado dos documentos comprovativos da entrega de vinho na destilaria, da destilação e do tipo de produto obtido, podendo no entanto ser fixada por deliberação do conselho directivo do IFAP, I. P., a publicitar na respectiva página da Internet, em www.ifap.pt, uma data posterior, que não exceda 45 dias após a data limite para as entregas de vinho na destilaria prevista no artigo 9.º
 
@@ -146,4 +161,4 @@ Entregas de vinho na destilaria
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Julho de 2009.

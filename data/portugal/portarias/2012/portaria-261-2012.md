@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/261/2012/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-2012-174794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7847c3f1757544e02ca8b9cfefadfc842e581036ededd0069e9f22a9e207b824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c450851ae53958aeb8e3869b08c775ac6297051181d5021d143c592830dd4cc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Curso de Especialização
+- Ensino Superior
+- Formação Profissional
 - Pessoal de Enfermagem
 - Qualificação Profissional
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2002/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2002/03/13/p/dre
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:13Z'
   warnings: []
   errors: []
 ---
@@ -120,16 +128,16 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 9 de agosto de 2012.**
+O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 9 de agosto de 2012.
 
 ## ANEXO I
 
 Vagas para a candidatura à matrícula e inscrição, no ano letivo de 2012-2013, nos cursos de pós-licenciatura de especialização em Enfermagem em instituições de ensino superior público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf)
 
 ## ANEXO II
 
 Vagas para a candidatura à matrícula e inscrição, no ano letivo de 2012-2013, nos cursos de pós-licenciatura de especialização em Enfermagem em estabelecimentos de ensino superior privado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16700/0485704858.pdf)

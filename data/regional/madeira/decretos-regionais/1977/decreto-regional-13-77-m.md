@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24100/25112516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75d718b1c4bb99d1d7f1f77310862ee97efaac3ca4e4c0e9b16e5c88f78bd53b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe454f30b93957a224d0dd76045a2a4286047e4c5f3d2321155ced4cb09a221f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Indemnização
+- Madeira.região Autónoma
+- Política Agrícola
+- Regime de Colónia
+- Remição de BENS
 relationships:
 - type: amended_by
   target: pt:dre:571470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O REGIME DE COLONIA NA REGIÃO AUTÓNOMA DA MADEIRA PELO ART 55 DA LEI 77/77 DE 29-SET - LEI BASE DA REFOMRA\
+    \ AGRÁRIA -, DR.IS [226]\0.IS [226]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1977-09-29'
+- type: amended_by
+  target: pt:dre:571470:por
+  label: "Prorrogados até 31.12.1994 e 31.12.1996, respectivamente, os prazos de remição conferidos ao senhorio pela segunda\
+    \ parte da al. a) do art. 1.º, e ao proprietário do prédio confinante, pela al. b) do mesmo art. pelo DLR.13/90/M.23.05.1990.ALR-RAM,\
+    \ DR.IS [118] de 23.05.1990\0990\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-1990-571470
+  date: '1990-05-23'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391001:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369990:por
+  label: "Revogados o n.º 2 do art. 22.º e o art. 24.º pelo DRG.16/79.14.09.1979.ARM, DR.IS [213] de 14.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/16-1979-369990
+  date: '1979-09-14'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:12Z'
   warnings: []
   errors: []
 ---
@@ -346,10 +378,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 29 de Julho de 1977.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 4 de Outubro de 1977.**
+Assinado em 4 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

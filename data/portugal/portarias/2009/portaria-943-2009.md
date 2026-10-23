@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/943/2009/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-2009-488306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65aa909675c4f2cff61d1812b8c35fb9a23ec44547622f24b24ab4951799f393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a395798808aef3b748d00d0ba5ef217b3f53ba7b0427b900d4fdc9f208769d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1589/2007/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1589/2007/12/14/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627783:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:13Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +121,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 5 de Agosto de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Agosto de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0551105511.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0551105511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0551105511.pdf)

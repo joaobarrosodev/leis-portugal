@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:208203164:por
 title: Portaria n.º 65-A/2023
 short_title: null
-summary: Suspende a atualização da taxa do adicionamento sobre as emissões de CO<sub>2</sub>
+summary: Suspende a atualização da taxa do adicionamento sobre as emissões de CO2
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 45/2023, 1º Suplemento, Série I de 2023-03-03
   number: '45'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 56-(4) a 56-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04501/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65-a/2023/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-a-2023-208203164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d50f9972264dcdbc6e23ee283f206336e1a7e3692d08892233fc9e0a3040d5fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6641e5d32e07acf188c84f61de283e8d28ed79638682fa6a298d267026a4613f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
 - Cobrança de Impostos
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
-- Poluição Atmosférica
-- Política Energética
-- Produto Petrolífero
+- Efeito de Estufa
 - Gás
+- Imposto sobre Produtos Petrolíferos
+- Política Energética
+- Poluição Atmosférica
 - Prazo
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: amended_by
@@ -117,16 +117,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38-b/2023/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38-b/2023/02/03/p/dre
+- type: cites
+  target: pt:dre:150368750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180923376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185452472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200525833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201773290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207062801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:32Z'
   warnings: []
   errors: []
 ---
@@ -155,4 +191,6 @@ Mantém-se aplicável a taxa do adicionamento sobre as emissões de CO(índice 2
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos entre o dia 6 de março de 2023 e o dia 3 de abril de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 3 de março de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 3 de março de 2023.
+
+116235035

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/2022/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-2022-184764707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2de0a37aeea24e0cf6885ba0db47a71f342b30b349d4af322f13b718cdda81f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c7908e01694a83b0778ad86a780f92fe9ae816f50530558de5365721936cee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Programa Apicola Nacional
-- Financiamento
+- Apicultura
 - Controlo Financeiro
 - Decisão CE
 - Direcção Regional de Agricultura e Pescas
+- Financiamento
 - Fiscalização
-- Pagamento
+- Grupo de Acompanhamento do Programa Apícola
 - IFAP
-- Apicultura
+- Pagamento
+- Programa Apicola Nacional
 - Regime de Apoio
 - Regulamento CE
 - Subsídio
-- Grupo de Acompanhamento do Programa Apícola
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -109,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/387-a/2019/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/387-a/2019/10/25/p/dre
+- type: cites
+  target: pt:dre:124831367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125747677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165373326:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:14Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +183,7 @@ O anexo i da [Portaria n.º 325-A/2019](https://diariodarepublica.pt/dr/detalhe/
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf))](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf)
 
 ###### Artigo 4.º — Republicação
 
@@ -181,7 +193,7 @@ O anexo i da [Portaria n.º 325-A/2019](https://diariodarepublica.pt/dr/detalhe/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 18 de maio de 2022.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 18 de maio de 2022.
 
 Republicação do anexo I da [Portaria n.º 325-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2019-124831367), de 20 de setembro
 
@@ -189,4 +201,6 @@ Republicação do anexo I da [Portaria n.º 325-A/2019](https://diariodarepublic
 
 (a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf))](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/11500/0000700009.pdf)
+
+115422557

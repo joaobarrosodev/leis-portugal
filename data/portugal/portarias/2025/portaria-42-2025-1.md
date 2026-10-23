@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03400/0000500026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2025/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2025-907763811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b448277a66a29a0bb2f1384f91e457b2766c83e3c34f09b4b1c6f1cd532129ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40ab78e26af806c21067d044cb7d5a5ae7f2fa8e144ecd63b12fbe1e31b84093
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso
-- Instituto Superior de Línguas e Administração
 - Ensino Superior Politécnico
 - Estatuto
 - Estudante
+- Instituto Superior de Línguas e Administração
 - Santarém
 relationships:
 - type: cites
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899909679:por
+  label: null
+  source: null
 article_structure:
   article_count: 64
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ validation:
 
 de 18 de fevereiro
 
-Considerando o reconhecimento de interesse público do ISLA Santarém - Instituto Politécnico, como instituto politécnico, operado pelo [Decreto-Lei n.º 105/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2024-899909679), de 12 de dezembro, bem como o requerimento de registo dos seus estatutos formulado pela respetiva entidade instituidora, a ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.<sup>da</sup>;
+Considerando o reconhecimento de interesse público do ISLA Santarém - Instituto Politécnico, como instituto politécnico, operado pelo [Decreto-Lei n.º 105/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2024-899909679), de 12 de dezembro, bem como o requerimento de registo dos seus estatutos formulado pela respetiva entidade instituidora, a ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.da;
 
 Considerando que, nos termos do n.º 3 do artigo 35.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, que aprovou o regime jurídico das instituições de ensino superior, em caso de reconhecimento de interesse público, e, consequentemente, da sua alteração, «juntamente com o reconhecimento de interesse público, são registados os estatutos do estabelecimento de ensino através de portaria do ministro da tutela»;
 
@@ -114,7 +122,7 @@ Manda o Governo, pelo Ministro da Educação, Ciência e Inovação, o seguinte:
 
 São registados os Estatutos do ISLA Santarém - Instituto Politécnico, cujo texto vai publicado em anexo à presente portaria.
 
-**O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de fevereiro de 2025.**
+O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de fevereiro de 2025.
 
 ## ANEXO — Estatutos do ISLA Santarém - Instituto Politécnico
 
@@ -124,7 +132,7 @@ São registados os Estatutos do ISLA Santarém - Instituto Politécnico, cujo te
 
 ###### Artigo 1.º — Denominação, natureza e sede
 
-1 - O ISLA Santarém - Instituto Politécnico, adiante designado por ISLA Santarém, é um estabelecimento de ensino superior instituído pela ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.<sup>da</sup>, adiante designada por Entidade Instituidora.
+1 - O ISLA Santarém - Instituto Politécnico, adiante designado por ISLA Santarém, é um estabelecimento de ensino superior instituído pela ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.da, adiante designada por Entidade Instituidora.
 
 2 - O ISLA Santarém é um estabelecimento de ensino superior politécnico privado, regendo-se pelos presentes Estatutos e pela legislação aplicável.
 
@@ -198,7 +206,7 @@ O ISLA Santarém garante a liberdade de criação pedagógica, científica e cul
 
 ###### Artigo 7.º — Entidade Instituidora e as suas competências
 
-1 - A ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.<sup>da</sup>, é a Entidade Instituidora do ISLA Santarém.
+1 - A ISLA - Santarém, Educação e Cultura, Sociedade Unipessoal, L.da, é a Entidade Instituidora do ISLA Santarém.
 
 2 - Compete à Entidade Instituidora, designadamente:
 
@@ -338,7 +346,7 @@ c) O Conselho Geral.
 
 ###### Artigo 16.º — Competências
 
-**O Presidente é o responsável pela condução da política de desenvolvimento da instituição, orientando as suas atividades pedagógicas e científicas, segundo um plano estratégico de desenvolvimento, ao qual compete:**
+O Presidente é o responsável pela condução da política de desenvolvimento da instituição, orientando as suas atividades pedagógicas e científicas, segundo um plano estratégico de desenvolvimento, ao qual compete:
 
 a) Garantir o exercício efetivo da autonomia científica, cultural e pedagógica do ISLA Santarém;
 
@@ -880,7 +888,7 @@ d) Satisfazer as propinas e outros encargos fixados no regulamento administrativ
 
 3 - Além dos direitos e obrigações gerais fixados nos números anteriores, os estudantes usufruem das faculdades e estão sujeitos aos deveres definidos na legislação aplicável e nos regulamentos do ISLA Santarém.
 
-4 - O regime disciplinar consta de regulamento próprio elaborado e aprovado pela Entidade Instituidora, ouvidos os órgãos do ISLA Santarém em que haja representação dos estudantes, assegura todas as garantias de defesa, tem estrutura acusatória e são-lhe aplicáveis, subsidiariamente, as disposições plasmadas nos n.<sup>os</sup>4 e 5 do artigo 75.º do RJIES.
+4 - O regime disciplinar consta de regulamento próprio elaborado e aprovado pela Entidade Instituidora, ouvidos os órgãos do ISLA Santarém em que haja representação dos estudantes, assegura todas as garantias de defesa, tem estrutura acusatória e são-lhe aplicáveis, subsidiariamente, as disposições plasmadas nos n.os4 e 5 do artigo 75.º do RJIES.
 
 ### CAPÍTULO VI — REGIME GERAL DE CICLOS DE ESTUDOS
 
@@ -965,3 +973,5 @@ Os presentes Estatutos entram em vigor após registo pelo ministério da tutela 
 a) Escola Superior de Gestão.
 
 b) Escola Superior de Engenharia e Tecnologia.
+
+118688738

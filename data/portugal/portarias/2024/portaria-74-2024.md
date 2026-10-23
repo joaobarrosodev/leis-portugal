@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04300/0001600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/74/2024/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-2024-853918464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 346bbe226259bedabd65bdb5e7fabce81fe08124b08a97cc09eee0b8e7bc5232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 092520d4e3ba1be655d8099b4d997a31f000ae894a0151fa025cbc618d84cf83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Unidade de Cuidados Continuados Integrados de Saúde Mental
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Medicamento
 - Meios Complementares de Diagnóstico
 - Preço
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 - Setor Privado
 - Sistema Nacional de Cuidados Continuados Integrados
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
 - Unidade de Internamento
 relationships:
+- type: amends
+  target: pt:numero:portaria:45/2021
+  label: Altera, a partir de 1 de março de 2024, com efeitos a partir de 1 de janeiro de 2024, os anexos I e II da Portaria
+    n.º 45/2021, de 24 de fevereiro, Diário da República n.º 38/2021, Série I
+  source: null
+  date: '2021-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -103,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/47/2024/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/47/2024/02/09/p/dre
+- type: cites
+  target: pt:dre:158238387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203283190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840849894:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:38Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +183,7 @@ Os anexos i e ii à [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/deta
 
 2 - A presente portaria produz efeitos a 1 de janeiro de 2024, com exceção do artigo 3.º, que produz efeitos a 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 23 de fevereiro de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de fevereiro de 2024. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 26 de fevereiro de 2024.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 23 de fevereiro de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de fevereiro de 2024. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 26 de fevereiro de 2024.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -163,9 +193,9 @@ Tabela de preços aplicáveis às unidades de internamento da RNCCI UCP-RNCCI
 
 Unidades
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Valor global para suportar encargos com medicamentos, realização de exames auxiliares de diagnóstico, apósitos e material de penso para tratamento de úlceras de pressão, encargos com cuidados de saúde (utente/dia). | Encargos com cuidados de apoio social (utente/dia) | Encargos com utilização de fraldas (utente/dia) | Total (utente/dia) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | I - Unidades de internamento: |  |  |  |  |  |
 | I.1 - Unidade de Convalescença... | 101,25 (euro) | 16,79 (euro) | - | - | 118,04 (euro) |
 | I.2 - Unidade de Média Duração e Reabilitação... | 65,84 (euro) | 13,52 (euro) | 23,39 (euro) | - | 102,75 (euro) |
@@ -180,9 +210,9 @@ Tabela de preços aplicáveis às unidades e equipas de cuidados continuados int
 
 Unidades
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Encargos com medicamentos (utente/dia) | Encargos com cuidados de apoio social (utente/dia | Diária global (utente/dia) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | I - Adultos: |  |  |  |  |
 | I.1 - Unidades residenciais: |  |  |  |  |
 | a) Residência de treino de autonomia... | 31,03 (euro) | 1,12 (euro) | 22,12 (euro) | 54,27 (euro) |
@@ -199,9 +229,9 @@ Unidades
 
 Equipas de apoio domiciliário
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/visita) | Encargos com cuidados de apoio social (utente/visita) | Encargos globais (utente/visita) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | I - Adultos... | 26,71 (euro) | 12,78 (euro) | 39,49 (euro) |
 | II - Infância e adolescência... | 24,98 (euro) | 11,62 (euro) | 36,60 (euro) |
 
@@ -211,9 +241,9 @@ Tabela de preços aplicáveis às unidades de internamento da RNCCI UCP-RNCCI - 
 
 Unidades
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Valor global para suportar encargos com medicamentos, realização de exames auxiliares de diagnóstico, apósitos e material de penso para tratamento de úlceras de pressão, encargos com cuidados de saúde (utente/dia). | Encargos com cuidados de apoio social (utente/dia) | Encargos com utilização de fraldas (utente/dia) | Total (utente/dia) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | I - Unidades de internamento: |  |  |  |  |  |
 | I.1 - Unidade de Convalescença... | 97,35 (euro) | 16,15 (euro) | - | - | 113,50 (euro) |
 | I.2 - Unidade de Média Duração e Reabilitação ... | 62,88 (euro) | 12,91 (euro) | 22,34 (euro) | - | 98,14 (euro) |
@@ -224,9 +254,9 @@ Tabela de preços aplicáveis às unidades e equipas de cuidados continuados int
 
 Unidades
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Encargos com medicamentos (utente/dia) | Encargos com cuidados de apoio social (utente/dia) | Diária global (utente/dia) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | I - Adultos: |  |  |  |  |
 | I.1 - Unidades residenciais: |  |  |  |  |
 | a) Residência de treino de autonomia... | 28,57 (euro) | 1,03 (euro) | 20,37 (euro) | 49,97 (euro) |
@@ -243,8 +273,12 @@ Unidades
 
 Equipas de apoio domiciliário - Ano de 2023
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/visita) | Encargos com cuidados de apoio social (utente/visita) | Encargos globais (utente/visita) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | I - Adultos... | 25,68 (euro) | 12,29 (euro) | 37,97 (euro) |
 | II - Infância e adolescência... | 24,02 (euro) | 11,17 (euro) | 35,19 (euro) |
+
+117399874
+
+.Tbl1 { text-align:center; vertical-align:center; } .Tbl2 { text-align:justify; vertical-align:center; } .Tbl3 { text-align:justify; vertical-align:top; } .Tbl4 { text-align:center; vertical-align:top; } .Tbl5 { text-align:center; vertical-align:bottom; }

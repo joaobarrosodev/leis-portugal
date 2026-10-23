@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/6-1978-446680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc97cc0ef976ce338e5c7fef956000aac575f5fca5a8fedbbe0055ea90784b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcd10ad93ebbba3cb89743a757f5054d616e92ca271912439fbad822d2e1279c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social Escolar
+- Câmara Municipal
+- Definição de Competências
+- Ensino Oficial
+- Ensino Particular
+- Estudante
+- Financiamento
+- Governo Regional
+- Madeira.região Autónoma
+- Transporte Escolar
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:278233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:22Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +115,7 @@ Finalmente, é necessário manter-se a imprescindível articulação entre o Gov
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira determina para valer como lei:
 
-###### Artigo 1.º - 1 - O Governo da Região Autónoma da Madeira determina, para valer como lei:
+Artigo 1.º - 1 - O Governo da Região Autónoma da Madeira determina, para valer como lei:
 
 fação das necessidades de transporte da população escolar quando:
 
@@ -102,9 +125,9 @@ b) Na medida em que os meios de transporte colectivo se não mostrem adequados �
 
 2 - Para os efeitos referidos na alínea a) do número anterior, serão considerados os meios de transporte colectivo cujos terminais ou pontos de paragem se situem a distância não superior a dois quilómetros da residência dos alunos.
 
-###### Art. 2.º Em cada concelho da Região Autónoma da Madeira, a respectiva câmara municipal organizará anualmente um plano de transportes escolares, através de uma comissão onde também participarão obrigatoriamente representantes dos conselhos directivos de cada um dos estabelecimentos de ensino público e particular, com efectiva satisfação das necessidades escolares na área do referido concelho.
+Art. 2.º Em cada concelho da Região Autónoma da Madeira, a respectiva câmara municipal organizará anualmente um plano de transportes escolares, através de uma comissão onde também participarão obrigatoriamente representantes dos conselhos directivos de cada um dos estabelecimentos de ensino público e particular, com efectiva satisfação das necessidades escolares na área do referido concelho.
 
-###### Art. 3.º O plano de transportes referido no artigo anterior terá particularmente em conta o seguinte:
+Art. 3.º O plano de transportes referido no artigo anterior terá particularmente em conta o seguinte:
 
 a) A procura prevista para o ano lectivo seguinte;
 
@@ -118,11 +141,11 @@ e) Preços e horários pretendidos, assim como outras condições de transporte;
 
 f) Possíveis alternativas.
 
-###### Art. 4.º - 1 - O plano mencionado no artigo 2.º deverá ser enviado ao Governo Regional até 1 de Abril de cada ano.
+Art. 4.º - 1 - O plano mencionado no artigo 2.º deverá ser enviado ao Governo Regional até 1 de Abril de cada ano.
 
 2 - Compete ao Governo Regional aprovar os planos de transportes escolares, inserindo as alterações que entender mais convenientes em função dos meios disponíveis, e após estabelecida a devida articulação com os serviços de acção social escolar.
 
-###### Art. 5.º - 1 - No caso de alteração de itinerário, paragem de zona ou horários de uma carreira existente, o Governo Regional procurará obter o acordo da empresa respectiva e, se tal não conseguir, poderão ser impostas as alterações nos termos do artigo 97.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção que lhe foi introduzida pelo artigo 1.º do [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março.
+Art. 5.º - 1 - No caso de alteração de itinerário, paragem de zona ou horários de uma carreira existente, o Governo Regional procurará obter o acordo da empresa respectiva e, se tal não conseguir, poderão ser impostas as alterações nos termos do artigo 97.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção que lhe foi introduzida pelo artigo 1.º do [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março.
 
 2 - No caso da criação de uma nova carreira, o Governo Regional consultará as empresas de transportes colectivos rodoviários de passageiros que operam na zona.
 
@@ -130,36 +153,36 @@ f) Possíveis alternativas.
 
 4 - No caso de nenhuma empresa se declarar interessada na exploração de nova carreira, o Governo Regional poderá actuar nos termos do artigo 97.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910).
 
-###### Art. 6.º - 1 - O Governo Regional, no âmbito da sua competência e em função dos meios disponíveis, poderá ainda determinar a realização de circuitos escolares especiais com veículos pertencentes à Região Autónoma, ou a pessoas colectivas de direito público ou de utilidade pública administrativa, ou a estabelecimentos de ensino particular ou cooperativas de ensino reconhecidas nos termos legais.
+Art. 6.º - 1 - O Governo Regional, no âmbito da sua competência e em função dos meios disponíveis, poderá ainda determinar a realização de circuitos escolares especiais com veículos pertencentes à Região Autónoma, ou a pessoas colectivas de direito público ou de utilidade pública administrativa, ou a estabelecimentos de ensino particular ou cooperativas de ensino reconhecidas nos termos legais.
 
 2 - O disposto no número anterior implica a remuneração da entidade proprietária do veículo.
 
-###### Art. 7.º - 1 - Nos circuitos escolares especiais, criados nos termos do artigo anterior, o Governo Regional poderá prever o transporte de outras pessoas, além dos alunos, na medida em que haja lugares disponíveis e que, para a satisfação das respectivas necessidades de transporte, não disponham de transportes colectivos adequados.
+Art. 7.º - 1 - Nos circuitos escolares especiais, criados nos termos do artigo anterior, o Governo Regional poderá prever o transporte de outras pessoas, além dos alunos, na medida em que haja lugares disponíveis e que, para a satisfação das respectivas necessidades de transporte, não disponham de transportes colectivos adequados.
 
 2 - As pessoas transportadas nos termos do n.º 1 pagarão pelo seu transporte as tarifas estabelecidas pelo Governo Regional e que constituirão receita da Região.
 
-###### Art. 8.º Todas as entidades transportadoras terão de observar, em matéria de responsabilidade civil, o disposto no [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910).
+Art. 8.º Todas as entidades transportadoras terão de observar, em matéria de responsabilidade civil, o disposto no [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910).
 
-###### Art. 9.º - 1 - As empresas de transporte colectivo de passageiros concederão obrigatoriamente bilhetes de assinatura (passe escolar) para os estudantes abrangidos por este diploma.
+Art. 9.º - 1 - As empresas de transporte colectivo de passageiros concederão obrigatoriamente bilhetes de assinatura (passe escolar) para os estudantes abrangidos por este diploma.
 
 2 - As disposições que regulam os bilhetes de assinatura, nomeadamente o seu preço, pagamento e ocupação de lugares, serão estabelecidas pelo Governo Regional depois de ouvidas as direcções dos estabelecimentos de ensino público e particular.
 
-###### Art. 10.º - 1 - As empresas são obrigadas a assegurar o transporte de todos os estudantes portadores de bilhetes de assinatura, utilizando os indispensáveis desdobramentos, independentemente do condicionalismo referido no artigo 128.º do Decreto n.º 32272.
+Art. 10.º - 1 - As empresas são obrigadas a assegurar o transporte de todos os estudantes portadores de bilhetes de assinatura, utilizando os indispensáveis desdobramentos, independentemente do condicionalismo referido no artigo 128.º do Decreto n.º 32272.
 
 2 - Sempre que às empresas transportadoras sejam impostas obrigações que impliquem desequilíbrio financeiro na exploração das carreiras, por motivo deste diploma, ser-lhe-ão atribuídas indemnizações compensatórias pelo Governo Regional, revistas anualmente ou quando se modificarem as condições que as determinaram.
 
-###### Art. 11.º Enquanto os serviços do Instituto de Acção Social Escolar não estiverem regionalizados, o Governo Regional articulará com o referido Instituto a forma como na Região Autónoma este suportará os encargos, nos termos do artigo 17.º do [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233), de 24 de Setembro.
+Art. 11.º Enquanto os serviços do Instituto de Acção Social Escolar não estiverem regionalizados, o Governo Regional articulará com o referido Instituto a forma como na Região Autónoma este suportará os encargos, nos termos do artigo 17.º do [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233), de 24 de Setembro.
 
-###### Art. 12.º - 1 - As disposições do presente diploma aplicam-se a todos os estudantes do ensino primário, telescola, ciclo preparatório, secundário ou equivalente e magistério primário, quer oficial, quer particular.
+Art. 12.º - 1 - As disposições do presente diploma aplicam-se a todos os estudantes do ensino primário, telescola, ciclo preparatório, secundário ou equivalente e magistério primário, quer oficial, quer particular.
 
 2 - Compete ao Governo Regional regulamentar a atribuição dos benefícios contemplados neste diploma aos estudantes trabalhadores e aos que frequentam cursos nocturnos.
 
-###### Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 24 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 10 de Fevereiro de 1978.**
+Assinado em 10 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

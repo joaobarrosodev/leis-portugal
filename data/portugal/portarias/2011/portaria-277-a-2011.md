@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13
   number: '197'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4634-(2) a 4634-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/10/19701/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/277-a/2011/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a5abacb21fc1b63fb4a5ee1a5ccb2de06e951ca8e9a3254013cbe48ea7cf5ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0192add284bfe120642df4d8174805ed22ee9e031f0f667b594954ed3a9aefee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
+- type: cites
+  target: pt:dre:270808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544669:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:37Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +150,4 @@ A suspensão da produção de efeitos da Portaria n.º 237/2011, de 15 de Junho,
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Cultura, Francisco José Viegas, em 12 de Outubro de 2011.**
+O Secretário de Estado da Cultura, Francisco José Viegas, em 12 de Outubro de 2011.

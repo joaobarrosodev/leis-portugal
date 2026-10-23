@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23500/0014600155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2024/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81a07bf4322fe7bbbba6470c4545be50f88e0f3e768f67188dadc05fa9afc570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3773eedf69281b99101ec06757a130c123860a9d461b915052126b8d4dfe640d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Regional de Saúde
-- Saúde Pública
-- Política de Saúde
 - Madeira.região Autónoma
+- Política de Saúde
+- Saúde Pública
 - Serviço Regional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:9/2013/M
+  label: Altera, a partir de 5 de dezembro de 2024, os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 8.º, adita na mesma data os
+    artigos 4.º-A, 4.º-B, 4.º-C, 4.º-D e 4.º-E e revoga, a partir de 5 de dezembro de 2024, os n.os 2, 5 e 6 do artigo 2.º
+    e os n.os 2 e 3 do artigo 6.º do Decreto Legislativo Regional n.º 9/2013/M - Diário da República n.º 35/2013, Série I
+    de 2013-02-19, que republica em anexo
+  source: null
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/2013/10/04/p/dre
   label: null
@@ -113,16 +121,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887091776:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:51Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +197,7 @@ Foram ouvidas as organizações representativas dos trabalhadores das entidades 
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nas Bases 7 e 34 da Lei de Bases da Saúde, aprovada em anexo à [Lei n.º 95/2019](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), de 4 de setembro, e na alínea c) do artigo 6.º e no artigo 9.º do Estatuto do Sistema Regional de Saúde da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de abril, alterado pelo [Decreto Legislativo Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2008-449933), de 23 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nas Bases 7 e 34 da Lei de Bases da Saúde, aprovada em anexo à [Lei n.º 95/2019](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), de 4 de setembro, e na alínea c) do artigo 6.º e no artigo 9.º do Estatuto do Sistema Regional de Saúde da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de abril, alterado pelo [Decreto Legislativo Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2008-449933), de 23 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -157,7 +213,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 8.º do [Decreto Legislativo Reg
 
 O presente diploma estabelece as regras de designação, competências e funcionamento das entidades que exercem o poder de autoridade de saúde na administração regional autónoma da Madeira, e adapta o [Decreto-Lei n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229), de 2 de abril, na sua atual redação, de acordo com as especificidades constantes dos artigos seguintes.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - As autoridades de saúde na administração regional autónoma da Madeira exercem poderes de âmbito regional e local, e têm como áreas geográficas de intervenção os territórios da Região Autónoma da Madeira e dos polos de concelhos, respetivamente.
 
@@ -171,7 +229,9 @@ O presente diploma estabelece as regras de designação, competências e funcion
 
 6 - (Revogado.)
 
-###### Artigo 3.º — Designação
+Artigo 3.º
+
+Designação
 
 1 - A autoridade de saúde regional ou delegado de saúde regional é designado em comissão de serviço por despacho do membro do Governo Regional responsável pela área da saúde.
 
@@ -189,7 +249,9 @@ O presente diploma estabelece as regras de designação, competências e funcion
 
 8 - Perante o manifesto interesse público de assegurar a cobertura efetiva integral do exercício das funções de autoridade de saúde no território da Região Autónoma da Madeira, a título excecional e verificados os demais pressupostos legais, em caso de comprovada impossibilidade de designar médico com grau de especialista de saúde pública, nos termos do n.º 3, o despacho de designação de médico com grau de especialista em áreas relevantes para a saúde pública deve, de forma fundamentada, autorizar expressamente a acumulação de funções de autoridade de saúde.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As referências, bem como as competências estabelecidas no [Decreto-Lei n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229), de 2 de abril, na sua atual redação, para o Serviço Nacional de Saúde e o Ministério da Saúde, entendem-se reportadas, na Região Autónoma da Madeira, respetivamente, ao Serviço Regional de Saúde e à Secretaria Regional de Saúde e Proteção Civil.
 
@@ -199,11 +261,15 @@ O presente diploma estabelece as regras de designação, competências e funcion
 
 4 - A representação da Região Autónoma da Madeira, a nível nacional e internacional, em matérias da competência da autoridade de saúde, compete à autoridade de saúde regional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Os médicos no exercício efetivo de funções de autoridade de saúde regional e local, que implicam a obrigatoriedade de apresentação ao serviço sempre que solicitada, têm direito a um suplemento remuneratório, suportado pelo orçamento do departamento do Governo Regional responsável pela área da saúde, cujo montante pecuniário, termos e condições de atribuição são definidos por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O Governo Regional deve adotar as medidas regulamentares necessárias à execução do presente diploma.
 
@@ -211,7 +277,9 @@ Os médicos no exercício efetivo de funções de autoridade de saúde regional 
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As autoridades de saúde designadas mantêm-se no exercício de funções até que se proceda às novas designações, nos termos do artigo 3.º»
 
@@ -227,7 +295,9 @@ Autoridade de saúde regional
 
 2 - A autoridade de saúde regional é substituída, nas suas ausências e ou impedimentos, por um delegado de saúde por si expressamente designado para o efeito.
 
-###### Artigo 4.º-B — Autoridades de saúde locais
+Artigo 4.º-B
+
+Autoridades de saúde locais
 
 1 - As autoridades de saúde locais ou delegados de saúde exercem as suas competências na área geográfica de intervenção correspondente a um dos polos de concelhos a que se refere o número seguinte, sem prejuízo do disposto no artigo 4.º-C.
 
@@ -249,13 +319,17 @@ d) Polo do Porto Santo, que abrange o concelho do Porto Santo, para o qual devem
 
 6 - Os delegados de saúde são substituídos, nas suas ausências e ou impedimentos, por um delegado de saúde do mesmo polo de concelhos designado pelo delegado de saúde coordenador a que se refere o n.º 3 ou, nesta impossibilidade, por um delegado de saúde designado pelo delegado de saúde regional.
 
-###### Artigo 4.º-C — Acumulação de áreas geográficas de intervenção
+Artigo 4.º-C
+
+Acumulação de áreas geográficas de intervenção
 
 1 - Os delegados de saúde podem ser designados para exercer as suas funções, simultaneamente, em dois polos de concelhos, no máximo, mediante proposta de designação fundamentada.
 
 2 - O exercício de funções de autoridade de saúde, nos termos do número anterior, não confere direito a acréscimo remuneratório.
 
-###### Artigo 4.º-D — Apoio técnico e logístico
+Artigo 4.º-D
+
+Apoio técnico e logístico
 
 1 - As autoridades de saúde, no exercício do seu poder e competências, dispõem de apoio técnico, tecnológico, informático, de recursos humanos e logístico, incluindo instalações e transportes, assegurado pelo GASREP, pelo departamento do Governo Regional responsável pela área da saúde e pelo SESARAM, EPERAM, nos seguintes termos:
 
@@ -267,7 +341,9 @@ b) Às autoridades de saúde locais, pelo SESARAM, EPERAM.
 
 3 - Sem prejuízo do disposto nos números anteriores, deve ser assegurado o apoio às autoridades de saúde, em função da natureza específica das matérias, pela Direção Regional da Saúde e pelo SESARAM, EPERAM, bem como por outros serviços ou organismos integrados naquele departamento do Governo Regional.
 
-###### Artigo 4.º-E — Gabinete da Autoridade de Saúde Regional e Emergências em Saúde Pública
+Artigo 4.º-E
+
+Gabinete da Autoridade de Saúde Regional e Emergências em Saúde Pública
 
 1 - O GASRESP presta apoio técnico, tecnológico, informático, de recursos humanos e logístico às autoridades de saúde.
 
@@ -281,7 +357,7 @@ b) Às autoridades de saúde locais, pelo SESARAM, EPERAM.
 
 1 - São revogados:
 
-a) Os n.<sup>os</sup>2, 5 e 6 do artigo 2.º e os n.<sup>os</sup>2 e 3 do artigo 6.º do [Decreto Legislativo Regional n.º 9/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-258534), de 19 de fevereiro;
+a) Os n.os2, 5 e 6 do artigo 2.º e os n.os2 e 3 do artigo 6.º do [Decreto Legislativo Regional n.º 9/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-258534), de 19 de fevereiro;
 
 b) O Despacho Normativo n.º 4/2005, de 19 de abril; e
 
@@ -299,11 +375,11 @@ O presente diploma entra em vigor e produz efeitos no dia seguinte ao da sua pub
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 29 de novembro de 2024.**
+Assinado em 29 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -436,3 +512,5 @@ As autoridades de saúde designadas mantêm-se no exercício de funções até q
 ###### Artigo 9.º — Entrada em vigor
 
 O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação.
+
+118413077

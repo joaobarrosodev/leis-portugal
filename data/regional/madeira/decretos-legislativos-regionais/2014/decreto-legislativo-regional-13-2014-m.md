@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21400/0566105661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2014/11/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2014-58752836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c61d3d1cacfebac732b1fa86549a8d296f15598e829e20950df9aec968bf39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39f4fb80d886bdf0338e9c7ce4da31b17b07f12691e15f8b84d8adfc4c245db6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -93,16 +93,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57695125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73973894:por
+  label: Revogado, a partir de 02.04.2016, com efeitos a 01.01.2016, pelo(a) Decreto Legislativo Regional n.º 18/2016/M -
+    Diário da República n.º 60/2016, Série I de 2016-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2016-73973894
+  date: '2016-03-28'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:48Z'
   warnings: []
   errors: []
 ---
@@ -133,10 +159,10 @@ O valor referido no artigo anterior é devido com efeitos a partir de 1 de outub
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 16 de outubro de 2014.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 24 de outubro de 2014.**
+Assinado em 24 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

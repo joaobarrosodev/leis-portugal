@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1978-298271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf15e4c41648447100493dd990848b1f0031b4e2ae51f4dabc9d493bdd6f24bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7fb26df0af779fc5db5392474295ccc309206da05ef63b2c31a7602799fdb2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Regional de Segurança Social
+- Conselho Diretivo
+- Conselho Regional de Segurança Social
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446568:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:53Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +104,11 @@ Cumprindo, entretanto, regulamentar a sua estrutura orgânica, nos termos da al�
 
 ESTATUTO DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DA REGIÃO AUTÓNOMA DA MADEIRA
 
-###### Artigo 1.º - 1 - O Centro Regional de Segurança Social é um complexo funcional de órgãos e serviços, dependentes da Secretaria Regional dos Assuntos Sociais, que visam a promoção e coordenação das acções tendentes ao equilíbrio ou reequilíbrio económico-social das pessoas em situação de carência, por razões de idade, do meio familiar, da situação económica, incluindo o desemprego involuntário, e de incapacidade física ou psíquica, sem prejuízo da protecção específica que lhes possa ser prestada por outros organismos de alcance social.
+Artigo 1.º - 1 - O Centro Regional de Segurança Social é um complexo funcional de órgãos e serviços, dependentes da Secretaria Regional dos Assuntos Sociais, que visam a promoção e coordenação das acções tendentes ao equilíbrio ou reequilíbrio económico-social das pessoas em situação de carência, por razões de idade, do meio familiar, da situação económica, incluindo o desemprego involuntário, e de incapacidade física ou psíquica, sem prejuízo da protecção específica que lhes possa ser prestada por outros organismos de alcance social.
 
 2 - Exercerá a sua acção através dos serviços que lhe são próprios e dos centros concelhios de segurança social que, para o efeito, ficarão nele integrados.
 
-###### Art. 2.º - 1 - São atribuições genéricas do Centro:
+Art. 2.º - 1 - São atribuições genéricas do Centro:
 
 a) Gerir de forma racional e equilibrada os estabelecimentos e serviços a seu cargo;
 
@@ -112,7 +128,7 @@ h) Promover a integração dos serviços no sistema de segurança social unifica
 
 i) Apoiar, orientar e fiscalizar as instituições privadas de solidariedade social não lucrativas.
 
-###### Art. 3.º - 1 - Compete-lhe, nomeadamente:
+Art. 3.º - 1 - Compete-lhe, nomeadamente:
 
 a) Orientar e dirigir o sector, nomeadamente nos aspectos administrativos, contabilísticos e de gestão de pessoal;
 
@@ -136,7 +152,7 @@ j) Assegurar a articulação com os demais serviços da Secretaria Regional e, q
 
 l) Arrecadar as contribuições e outras receitas que lhe sejam destinadas.
 
-###### Art. 4.º - 1 - Constituem receitas do Centro:
+Art. 4.º - 1 - Constituem receitas do Centro:
 
 a) Comparticipação do orçamento da Região;
 
@@ -148,7 +164,7 @@ d) Outras receitas.
 
 2 - O programa financeiro do Centro Regional de Segurança Social depende de aprovação da Secretaria Regional dos Assuntos Sociais, que vigiará pelo seu cumprimento e pelas alterações que se revelem necessárias.
 
-###### Art. 5.º - 1 - O Centro terá pessoal dirigente, técnico, administrativo e auxiliar que consta do quadro de pessoal a aprovar nos termos da lei em vigor.
+Art. 5.º - 1 - O Centro terá pessoal dirigente, técnico, administrativo e auxiliar que consta do quadro de pessoal a aprovar nos termos da lei em vigor.
 
 2 - O pessoal do Centro, bem como o dos centros concelhios nele integrados, fará parte de um quadro único, ainda que a sua distribuição por serviços ou estabelecimentos e condição de transferência obedeçam a critérios previamente fixados.
 
@@ -156,17 +172,17 @@ d) Outras receitas.
 
 4 - A reclassificação do pessoal obedecerá a critérios objectivos a definir oportunamente para os casos em que não existam normas de âmbito nacional, sendo, porém, salvaguardados os direitos adquiridos, conforme o artigo 4.º do [Decreto Regional n.º 5/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568).
 
-###### Art. 6.º - 1 - O Centro está ao serviço de toda a população, ainda que esta, para ter acesso aos seus benefícios, deva preencher os requisitos previstos na legislação em vigor.
+Art. 6.º - 1 - O Centro está ao serviço de toda a população, ainda que esta, para ter acesso aos seus benefícios, deva preencher os requisitos previstos na legislação em vigor.
 
 2 - Os benefícios prestados terão, quando for caso disso, a contrapartida definida em base objectiva e segundo juízo de equidade.
 
-###### Art. 7.º São órgãos de gestão do Centro:
+Art. 7.º São órgãos de gestão do Centro:
 
 a) Conselho Regional de Segurança Social;
 
 b) Conselho directivo.
 
-###### Art. 8.º - 1 - O Conselho Regional de Segurança Social tem a seguinte composição:
+Art. 8.º - 1 - O Conselho Regional de Segurança Social tem a seguinte composição:
 
 a) Um representante da Secretaria Regional, que preside;
 
@@ -182,7 +198,7 @@ f) Os membros do conselho directivo.
 
 2 - Os membros previstos nas alíneas b), c) e e) são designados por um mandato de dois anos, renovável, pelas entidades que representam, às quais compete também a sua substituição e recondução.
 
-###### Art. 9.º - O Conselho Regional pode reunir desde que esteja presente a maioria dos seus membros em exercício.
+Art. 9.º - O Conselho Regional pode reunir desde que esteja presente a maioria dos seus membros em exercício.
 
 2 - As deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
 
@@ -190,19 +206,19 @@ f) Os membros do conselho directivo.
 
 4 - A ordem de trabalhos só pode ser alterada por unanimidade.
 
-###### Art. 10.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos, dirigir e assegurar as tarefas correntes para o exercício normal da sua competência, nomeadamente quanto à elaboração das actas, expediente e assinatura dos termos de abertura e fecho dos livros de actas.
+Art. 10.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos, dirigir e assegurar as tarefas correntes para o exercício normal da sua competência, nomeadamente quanto à elaboração das actas, expediente e assinatura dos termos de abertura e fecho dos livros de actas.
 
 2 - Qualquer dos membros do Conselho Regional pode pedir a inscrição de assuntos na ordem de trabalhos que caibam no âmbito da sua competência.
 
 3 - O Conselho Regional reunirá ordinariamente de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias por iniciativa do conselho directivo ou de metade do número dos seus membros.
 
-###### Art. 11.º - 1 - Os membros do Conselho Regional referidos nas alíneas b), c), d) e e) do artigo 8.º terão direito ao abono de senhas de presença e de despesas de deslocação e ajudas de custo quando tiverem de se deslocar, segundo o montante que for devido ao escalão mais elevado da função pública.
+Art. 11.º - 1 - Os membros do Conselho Regional referidos nas alíneas b), c), d) e e) do artigo 8.º terão direito ao abono de senhas de presença e de despesas de deslocação e ajudas de custo quando tiverem de se deslocar, segundo o montante que for devido ao escalão mais elevado da função pública.
 
 2 - Os membros previstos nas alíneas a) e f) do mesmo artigo terão direito ao abono de senhas de presença quando as reuniões tiverem lugar fora das horas de serviço.
 
 3 - As despesas previstas no número precedente são suportadas pelo orçamento do Centro Regional de Segurança Social.
 
-###### Art. 12.º - 1 - Compete ao Conselho Regional:
+Art. 12.º - 1 - Compete ao Conselho Regional:
 
 a) Apreciar e aprovar os planos de acção anuais e plurianuais para o Centro;
 
@@ -228,13 +244,13 @@ h) Contribuir para a sensibilização das populações, tendo em vista as medida
 
 5 - Poderão ser chamados a participar nas reuniões técnicos especializados em assuntos respeitantes ao sector.
 
-###### Art. 13.º - 1 - O conselho directivo é constituído por três membros nomeados pelo Secretário Regional dos Assuntos Sociais, por períodos renováveis de três anos, sendo um presidente e dois vogais.
+Art. 13.º - 1 - O conselho directivo é constituído por três membros nomeados pelo Secretário Regional dos Assuntos Sociais, por períodos renováveis de três anos, sendo um presidente e dois vogais.
 
 2 - Caso a nomeação venha a recair em funcionários do Centro, estes mantêm entretanto os direitos inerentes aos quadros de origem, incluindo os de acesso, considerando-se o período de tempo de nomeação, para todos os efeitos, como serviço prestado nesse quadro.
 
-###### Art. 14.º O conselho directivo é um órgão de acção permanente a quem compete gerir os serviços dele dependentes, promovendo a actualização contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
+Art. 14.º O conselho directivo é um órgão de acção permanente a quem compete gerir os serviços dele dependentes, promovendo a actualização contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
 
-###### Art. 15.º - 1 - Compete-lhe, em especial:
+Art. 15.º - 1 - Compete-lhe, em especial:
 
 a) Preparar os planos gerais de actividade do Centro, incluindo os respectivos orçamentos, e submetê-los ao Conselho Regional e às instâncias de tutela;
 
@@ -276,11 +292,11 @@ t) Definir e atribuir aos centros concelhios os fundos de maneio.
 
 2 - Os membros do conselho directivo no desempenho das tarefas de execução que lhes são próprias poderão estabelecer entre si pelouros de actuação diferenciados, competindo neste caso ao presidente assegurar a coordenação e ainda a representação do Centro.
 
-###### Art. 16.º - 1 - Os membros do conselho directivo são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
+Art. 16.º - 1 - Os membros do conselho directivo são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
 
 2 - O conselho directivo representa o Centro em juízo e fora dele.
 
-###### Art. 17.º - 1 - O conselho directivo reunirá sempre que se torne necessário e obrigatoriamente uma vez por semana.
+Art. 17.º - 1 - O conselho directivo reunirá sempre que se torne necessário e obrigatoriamente uma vez por semana.
 
 2 - As reuniões não poderão efectuar-se sem a presença da maioria dos seus componentes.
 
@@ -288,7 +304,7 @@ t) Definir e atribuir aos centros concelhios os fundos de maneio.
 
 4 - O conselho directivo possuirá livro de actas de todas as reuniões.
 
-###### Art. 18.º O Centro terá os seguintes serviços:
+Art. 18.º O Centro terá os seguintes serviços:
 
 Administrativos;
 
@@ -296,7 +312,7 @@ Técnicos específicos;
 
 Apoio técnico.
 
-###### Art. 19.º - 1 - Os serviços administrativos, para além das funções que lhes são inerentes, asseguram o apoio burocrático e técnico-administrativo a todas as actividades do Centro.
+Art. 19.º - 1 - Os serviços administrativos, para além das funções que lhes são inerentes, asseguram o apoio burocrático e técnico-administrativo a todas as actividades do Centro.
 
 2 - Estes serviços compreendem:
 
@@ -326,7 +342,7 @@ m) Viaturas;
 
 n) Centro de dados.
 
-###### Art. 20.º - 1 - Aos serviços técnicos específicos competem as funções que correspondem à realização dos fins cometidos ao Centro.
+Art. 20.º - 1 - Aos serviços técnicos específicos competem as funções que correspondem à realização dos fins cometidos ao Centro.
 
 2 - Integram os seguintes departamentos:
 
@@ -338,7 +354,7 @@ c) Terceira Idade;
 
 d) Reabilitação e Reintegração Social.
 
-###### Art. 21.º - 1 - Ao Departamento de Infância e Juventude incumbe, em geral, promover acções destinadas a crianças e jovens, numa perspectiva de apoio à família como função supletiva desta, visando o seu desenvolvimento integral e a sua inserção na vida da comunidade e ainda cobrir situações de carência económica, através de prestações pecuniárias ou em espécie.
+Art. 21.º - 1 - Ao Departamento de Infância e Juventude incumbe, em geral, promover acções destinadas a crianças e jovens, numa perspectiva de apoio à família como função supletiva desta, visando o seu desenvolvimento integral e a sua inserção na vida da comunidade e ainda cobrir situações de carência económica, através de prestações pecuniárias ou em espécie.
 
 2 - Compete-lhe, em especial:
 
@@ -360,7 +376,7 @@ h) Assegurar o cumprimento das prestações pecuniárias ou em espécie compreen
 
 i) Propor ao órgão de tutela as tabelas de comparticipação dos utentes nos equipamentos sociais para a infância e juventude.
 
-###### Art. 22.º - 1 - Ao Departamento da População Activa, Família e Comunidade incumbe assegurar o acolhimento, informação e orientação das pessoas e famílias, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico, através de prestações pecuniárias ou em espécie.
+Art. 22.º - 1 - Ao Departamento da População Activa, Família e Comunidade incumbe assegurar o acolhimento, informação e orientação das pessoas e famílias, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico, através de prestações pecuniárias ou em espécie.
 
 2 - Compete-lhe, especificamente:
 
@@ -376,7 +392,7 @@ e) Assegurar o cumprimento das prestações pecuniárias ou em espécie compreen
 
 f) A prestação, directa ou em colaboração com outras entidades, de socorros urgentes, por motivo de calamidades públicas ou sinistros, coordenando e orientando a utilização dos recursos públicos e a aplicação de donativos ou produtos de subscrição que se realizem.
 
-###### Art. 23.º - 1 - O Departamento da Terceira Idade cobre acções destinadas ao correspondente grupo etário (60 e mais anos) e todas as pessoas que, pelo seu estado de diminuição, embora de idade mais baixa, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar e comunitária, visando ainda cobrir situações de carência económica, através de prestações pecuniárias ou em espécie.
+Art. 23.º - 1 - O Departamento da Terceira Idade cobre acções destinadas ao correspondente grupo etário (60 e mais anos) e todas as pessoas que, pelo seu estado de diminuição, embora de idade mais baixa, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar e comunitária, visando ainda cobrir situações de carência económica, através de prestações pecuniárias ou em espécie.
 
 2 - Compete-lhe, em especial:
 
@@ -398,7 +414,7 @@ h) Assegurar o cumprimento das prestações pecuniárias ou em espécie compreen
 
 i) Manter actualizado o inventário dos estabelecimentos particulares para a terceira idade.
 
-###### Art. 24.º - 1 - O Departamento de Reabilitação e Reintegração Social visa acções de reabilitação dos deficientes intelectuais, físicos e sensoriais e a recuperação e integração na comunidade dos indivíduos socialmente desajustados.
+Art. 24.º - 1 - O Departamento de Reabilitação e Reintegração Social visa acções de reabilitação dos deficientes intelectuais, físicos e sensoriais e a recuperação e integração na comunidade dos indivíduos socialmente desajustados.
 
 2 - Compete-lhe, em especial:
 
@@ -414,7 +430,7 @@ e) Desenvolver e orientar tecnicamente os equipamentos sociais para os socialmen
 
 f) Assegurar o serviço social dos estabelecimentos oficiais, bem como das instituições particulares de assistência destinados a deficientes ou socialmente desajustados.
 
-###### Art. 25.º - 1 - O Centro disporá de serviços de apoio técnico constituídos por sectores específicos, incumbidos de prestar de forma permanente e sistemática todo o apoio consultivo aos órgãos de gestão e restantes serviços, através da realização de estudos, relatórios e pareceres necessários ao seu funcionamento e aperfeiçoamento.
+Art. 25.º - 1 - O Centro disporá de serviços de apoio técnico constituídos por sectores específicos, incumbidos de prestar de forma permanente e sistemática todo o apoio consultivo aos órgãos de gestão e restantes serviços, através da realização de estudos, relatórios e pareceres necessários ao seu funcionamento e aperfeiçoamento.
 
 2 - Os serviços de apoio técnico terão o seu plano de acção subordinado às necessidades do Centro, e actuarão quer por iniciativa própria quer por solicitação dos restantes serviços.
 
@@ -438,9 +454,9 @@ h) Contencioso;
 
 i) Documentação e informação.
 
-###### Art. 26.º O Centro assegurará transitoriamente a concessão dos benefícios extraordinários presentemente concedidos pelos serviços integrados até que os mesmos sejam objecto de esquema regulamentar.
+Art. 26.º O Centro assegurará transitoriamente a concessão dos benefícios extraordinários presentemente concedidos pelos serviços integrados até que os mesmos sejam objecto de esquema regulamentar.
 
-###### Art. 27.º - 1 - Nos aglomerados onde as necessidades das populações, objectivamente avaliadas, o justifiquem, são criados centros concelhios integradores de todas as acções de segurança social, com aproveitamento dos recursos humanos e materiais que eventualmente possam existir.
+Art. 27.º - 1 - Nos aglomerados onde as necessidades das populações, objectivamente avaliadas, o justifiquem, são criados centros concelhios integradores de todas as acções de segurança social, com aproveitamento dos recursos humanos e materiais que eventualmente possam existir.
 
 2 - Os centros concelhios de segurança social visam uma acção descentralizada do sistema unificado de segurança social a nível da respectiva área, em ordem a garantir às populações formas directas de resposta, designadamente através da criação de equipamento social de serviços de acção social e de outras prestações compreendidas no seu âmbito.
 
@@ -456,9 +472,9 @@ d) Número de trabalhadores activos;
 
 e) Outros factores com interesse.
 
-###### Art. 28.º Os centros concelhios constituem unidades de acção directa dependentes do Centro Regional de Segurança Social e serão coordenados por uma comissão constituída pelos representantes de cada um dos sectores que correspondem aos departamentos e serviços do Centro Regional.
+Art. 28.º Os centros concelhios constituem unidades de acção directa dependentes do Centro Regional de Segurança Social e serão coordenados por uma comissão constituída pelos representantes de cada um dos sectores que correspondem aos departamentos e serviços do Centro Regional.
 
-###### Art. 29.º - 1 - São atribuições dos centros concelhios:
+Art. 29.º - 1 - São atribuições dos centros concelhios:
 
 a) Promover a execução na sua área das acções de segurança social determinadas pelo Centro Regional;
 
@@ -468,18 +484,18 @@ b) Coordenar a acção dos serviços e estabelecimentos locais do sector, na sua
 
 3 - Sempre que a situação aconselhe, o conselho directivo do Centro Regional solicitará às assembleias municipais parecer sobre as questões de interesse para o respectivo concelho, no âmbito do sistema unificado de segurança social.
 
-###### Art. 30.º A criação do Centro implica a transferência para o mesmo de todas as acções a cargo das instituições e serviços que nele ficam integrados, nomeadamente os referidos no artigo 3.º do [Decreto Regional n.º 5/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568), de 24 de Fevereiro.
+Art. 30.º A criação do Centro implica a transferência para o mesmo de todas as acções a cargo das instituições e serviços que nele ficam integrados, nomeadamente os referidos no artigo 3.º do [Decreto Regional n.º 5/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568), de 24 de Fevereiro.
 
-###### Art. 31.º O presente diploma vigorará a título experimental pelo prazo de um ano, findo o qual sofrerá as adaptações que a experiência aconselhar.
+Art. 31.º O presente diploma vigorará a título experimental pelo prazo de um ano, findo o qual sofrerá as adaptações que a experiência aconselhar.
 
-###### Art. 32.º As dúvidas e omissões resultantes da aplicação deste Regulamento serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 32.º As dúvidas e omissões resultantes da aplicação deste Regulamento serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 33.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
+Art. 33.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim. - O Secretário Regional dos Assuntos Sociais, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim. - O Secretário Regional dos Assuntos Sociais, Jorge Nélio Praxedes Ferraz de Mendonça.
 
-**Assinado em 2 de Junho de 1978.**
+Assinado em 2 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

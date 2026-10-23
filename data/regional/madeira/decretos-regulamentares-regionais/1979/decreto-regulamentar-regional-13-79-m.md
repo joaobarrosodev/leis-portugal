@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/12600/12041206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1979-383870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f35ef46c83b79c16704191189b5e50987a7057edf675c27f6fd0753c8f2fe75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49899c065e5dfdaa3802d58512a5276706cd6d4997106e29a514a55a9be2b952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional da Administração Pública
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:326917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692821:por
+  label: "Alterados os artigos 13º, 19º e 20º pelo DRR.1/M/80.14.02.1980.GR-RAM, DR.IS [38] de 14.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-1980-692821
+  date: '1980-02-14'
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380373:por
+  label: Rectificado pela DECL.DD8190.03.07.1979.PCM, DR.IS [151] de 03.07.1979, que procede à publicação do mapa anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380373
+  date: '1979-07-03'
+- type: corrected_by
+  target: pt:dre:380535:por
+  label: Rectificado pela DECL.DD7284.09.07.1979.PCM, DR.IS [156] de 09.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380535
+  date: '1979-07-09'
+- type: repealed_by
+  target: pt:dre:326917:por
+  label: "Revogado pelo DRR.7/85/M.15.03.1985.GR-RAM, DR.IS [62] de 15.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1985-326917
+  date: '1985-03-15'
 article_structure:
-  article_count: 20
+  article_count: 22
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:54Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +275,9 @@ h) Elaborar propostas de diplomas legislativos e regulamentares atinentes às ma
 
 i) Transmitir instruções de carácter geral e obrigatório em matéria da sua competência a todos os serviços regionais, precedida concordância superior.
 
-#### SECÇÃO III — Artigo 13.º
+#### SECÇÃO III
+
+###### Artigo 13.º
 
 (Secretaria)
 
@@ -286,7 +319,9 @@ O pessoal administrativo apoia-se no pessoal de igual natureza da Secretaria da 
 
 O pessoal auxiliar apoia-se no pessoal de igual natureza da Secretaria da Presidência, nos termos preceituados pela Lei Orgânica da Secretaria da Presidência.
 
-### CAPÍTULO IV — Artigo 21.º
+### CAPÍTULO IV
+
+###### Artigo 21.º
 
 (Resolução de dúvidas e casos omissos)
 
@@ -296,10 +331,10 @@ As dúvidas e casos omissos resultantes da aplicação do presente diploma serã
 
 O presente diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Abril de 1979.**
+Assinado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

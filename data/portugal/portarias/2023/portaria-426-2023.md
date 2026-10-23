@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0006000066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae042d6d528fedb2b7225a7b41542dc4f0d5ba54051e18224a664ef584c93ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ec8c257bab7da54dbbec7dbd6225cf2c06a60bac70e8f838ff833b637c34e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Equipamento Social
+- Instituto da Segurança Social
 - Jardim de Infância
-- Santa Casa da Misericórdia
 - Pessoa Colectiva de Direito Privado
 - Pessoa Colectiva de Direito Privado sem FINS Lucrativos
 - Pessoa Colectiva de Direito Público
 - Proteção Social
+- Santa Casa da Misericórdia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2007/03/14/p/dre
@@ -105,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/411/2012/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/411/2012/12/14/p/dre
+- type: cites
+  target: pt:dre:176907536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186721643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205109990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215270116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671660:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:13Z'
   warnings: []
   errors: []
 ---
@@ -177,11 +205,15 @@ b) Creches, cujo desenvolvimento e gestão da resposta seja efetuado por autarqu
 
 3 - A presente portaria estabelece os termos e as condições em que a segurança social apoia a família pelos encargos decorrentes da frequência da criança nas creches das entidades mencionadas nos números anteriores, bem como os procedimentos necessários à atribuição do apoio.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 A presente portaria aplica-se a todas as crianças nascidas a partir de 1 de setembro de 2021, inclusive, que frequentem as creches identificadas no artigo 3.º, localizadas nos concelhos de residência, do local de trabalho dos pais ou de quem exerce as responsabilidades parentais, ou nos respetivos concelhos limítrofes, sempre que se verifique a falta de vagas abrangidas pela gratuitidade na rede social e solidária com acordo de cooperação com o ISS, I. P., e da Santa Casa da Misericórdia de Lisboa, nos termos definidos no artigo 5.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Entende-se por creche aderente a creche identificada no artigo 1.º, desde que para tal tenha manifestado ao ISS, I. P., a intenção de se tornar creche aderente para disponibilização de vagas para a gratuitidade e cumpra os requisitos previstos nos n.os 2 a 5 do presente artigo, com as devidas adaptações às creches da rede pública.
 
@@ -201,7 +233,9 @@ A presente portaria aplica-se a todas as crianças nascidas a partir de 1 de set
 
 9 - Podem, ainda, a qualquer momento as creches aderentes solicitar ao ISS, I. P., que deixem de constar na bolsa, sem prejuízo do disposto no n.º 4 do artigo 5.º, no que diz respeito à continuidade da frequência da creche, no âmbito da gratuitidade.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O apoio pecuniário da segurança social às famílias para frequência de creches aderentes é concedido a todas as crianças nascidas a partir de 1 de setembro de 2021 inclusive, que satisfaçam as seguintes condições:
 
@@ -229,7 +263,9 @@ b) [...]
 
 7 - O não cumprimento do prazo previsto no número anterior implica o arquivamento do novo pedido de apoio da gratuitidade.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -241,7 +277,9 @@ b) [...]
 
 5 - Sem prejuízo do disposto no n.º 3, apenas pode ser cobrado à família o valor adicional respeitante às situações previstas nos n.os 2 e 3 do artigo 4.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +327,9 @@ Os artigos 7.º, 9.º e 23.º-A da [Portaria n.º 262/2011](https://diariodarepu
 
 9 - O Instituto da Segurança Social, I. P. (ISS, I. P.) pode autorizar o aumento do número máximo de crianças por grupo nas alíneas b) e c) do n.º 3, até ao limite de duas em cada grupo, desde que garantidas as áreas mínimas por criança previstas nos n.os 6 e 7 do presente artigo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -299,7 +339,9 @@ Os artigos 7.º, 9.º e 23.º-A da [Portaria n.º 262/2011](https://diariodarepu
 
 4 - [...]
 
-###### Artigo 23.º-A — [...]
+Artigo 23.º-A
+
+[...]
 
 1 - [...]
 
@@ -331,4 +373,6 @@ A medida da gratuitidade das creches abrange as crianças que frequentem creches
 
 4 - O disposto no n.º 3 do artigo 6.º da [Portaria n.º 305/2022](https://diariodarepublica.pt/dr/detalhe/portaria/305-2022-205109990), de 22 de dezembro, na redação dada pela presente portaria, é igualmente aplicável para o ano de 2023, nos termos previstos no Memorando de Entendimento assinado entre o Ministério do Trabalho, Solidariedade e Segurança Social e o Setor Social e Solidário 2023-2024 para a resposta social creche.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 24 de novembro de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 24 de novembro de 2023.
+
+117139336

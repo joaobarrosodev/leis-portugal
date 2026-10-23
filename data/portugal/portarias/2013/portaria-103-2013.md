@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/04900/0132001321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103/2013/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-2013-258752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe003e7a261357a78f2c4ac619c6977093bebf3fffdb6d5e1dda3d034b5a30f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1957f72d77d79df13342dade89ec5a3b1d469fe68eedff8a8fcf5f4528e1a153
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Contribuições e Impostos
 - Declaração de Rendimentos
 - Impresso
-- Contribuições e Impostos
 - IRS
 - Segurança Social
 - Trabalhador Independente
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/2012/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/2012/05/14/p/dre
+- type: cites
+  target: pt:dre:175522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66012650:por
+  label: Revogada, a partir de 01.01.2015, pelo(a) Portaria n.º 284/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-2014-66012650
+  date: '2014-12-31'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:34Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +151,6 @@ A presente Portaria entra em vigor no dia seguinte ao da sua publicação
 
 Em 1 de março de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0132001321.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0132001321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0132001321.pdf)

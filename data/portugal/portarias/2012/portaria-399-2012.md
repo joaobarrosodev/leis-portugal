@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/399/2012/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/399-2012-190633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef5edee6df7a8235247d87b6347b61fee451815cda9804b865a8cdc34a57e9a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8330050878410b88a7668b48ff2fc9599e39ccffd22ea2a98dfc6d9f7cfc958b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Academia Militar
-- Mestrado
 - Ensino Superior
+- Mestrado
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2008/06/25/p/dre
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2007/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2007/08/16/p/dre
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:58Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +166,7 @@ As áreas científicas, os créditos que devem ser reunidos para a obtenção do
 
 A presente portaria produz efeitos a partir do ano letivo de 2012-2013, inclusive.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 22 de outubro de 2012.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 22 de outubro de 2012.
 
 ## ANEXO
 
@@ -154,7 +182,7 @@ A presente portaria produz efeitos a partir do ano letivo de 2012-2013, inclusiv
 
 6 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
 
 7 - Plano de estudos:
 
@@ -168,22 +196,22 @@ QUADRO N.º 1
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23500/0688306885.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/35/2012/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-2012-543684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1151600ed92653f11fbeea95ca9bd2dd2ce2eea6359671b16d559403c282f9b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008414aee7f46053823f4926749c2c12954d40102d679c4f4d183264c64fc612
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Ordem dos Nutricionistas
-- Ordem dos Médicos Dentistas
-- Pessoal de Saúde
-- Médico
 - Circulação de Pessoas
+- Direito de Estabelecimento
 - Equivalência de Habilitações Literárias
 - Farmacêutico
-- Direito de Estabelecimento
+- Médico
 - Nutricionista
 - Ordem dos Enfermeiros
 - Ordem dos Farmacêuticos
 - Ordem dos Médicos
+- Ordem dos Médicos Dentistas
+- Ordem dos Nutricionistas
 - Pessoal de Enfermagem
+- Pessoal de Saúde
 - Prestação de Serviços
 - Qualificação Profissional
 relationships:
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:42Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +136,11 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de janeiro de 2012.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de janeiro de 2012.
 
 ## ANEXO I — Lista de profissões regulamentadas e de autoridades nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/02500/0057300574.pdf))](https://files.diariodarepublica.pt/1s/2012/02/02500/0057300574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/02500/0057300574.pdf)
 
 ## ANEXO II — Lista de profissões regulamentadas com impacto na saúde que não beneficiam do sistema de reconhecimento automático
 

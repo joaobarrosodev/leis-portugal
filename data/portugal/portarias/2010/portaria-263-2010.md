@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263/2010/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-2010-615037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68d1009bf54012be2a6d08bd0f1a6a26d953985696a6b70474dbcb4e32e27eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95b9d88d50b694b57ae94e60bc1b813bc4b701b54c31bb71d790f9817315f624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/949/2003/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/949/2003/09/08/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510797:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:21Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +142,6 @@ Esta portaria produz efeitos a partir do dia 9 de Setembro de 2009.
 
 Em 6 de Março de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/09000/0162501626.pdf))](https://files.diariodarepublica.pt/1s/2010/05/09000/0162501626.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/09000/0162501626.pdf)

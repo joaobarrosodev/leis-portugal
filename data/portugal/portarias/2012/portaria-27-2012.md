@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2012/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-2012-543905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a6fa5037bd24fd6051dcdbfd36d9b37fac1d6949cc406fb0d438cefd81404ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61bd8b691f1cbc01e14eb1a6c4fc62edc785a5cd3305e301c932ffd0a3e36af0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão para a Cidadania e a Igualdade de Género
 - Definição de Competências
 - Orgânica
-- Comissão para a Cidadania e a Igualdade de Género
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/1/2012/01/06/p/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:477078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:16Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +147,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 25 de janeiro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas.

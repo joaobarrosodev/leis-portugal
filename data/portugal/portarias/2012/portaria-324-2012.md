@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20000/0590405906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/324/2012/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-2012-192394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc9a1e11d7c26b57a6cacbd594ab11c493a6c8a715a343a77ce3a023c5a651a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4ba025977c732b5a1deadafc5b99f96864d9e6911338c1ea62e1593b7b84e83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Coordenador
 - Definição de Competências
 - Diretor
 - Estatuto
 - Instituto da Habitação e da Reabilitação Urbana
 - Pessoal de Chefia
+- Pessoal Dirigente
 relationships:
+- type: amended_by
+  target: pt:dre:70041212:por
+  label: Declarada a extinção das unidades orgânicas do IHRU, I. P, criadas pelo presente diploma, pelo(a) Deliberação (extrato)
+    n.º 1598/2015 - Diário da República n.º 160/2015, Série II de 2015-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao-extrato/1598-2015-70041212
+  date: '2015-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
   label: null
@@ -86,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662-m/2007/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662-m/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69812102:por
+  label: Revogada, a partir de 16.07.2015, pelo(a) Portaria n.º 208/2015 - Diário da República n.º 136/2015, Série I de 2015-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/208-2015-69812102
+  date: '2015-07-15'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:33Z'
   warnings: []
   errors: []
 ---

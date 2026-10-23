@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/191/2013/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-2013-513582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee27e9d0fd020739d3a661560d504c4c7ea7c8a1afd446b348c360e58d6a371d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdeee8764603151c8eea62ee44349e678aa7a0f6ed3e99d74b7c47e0d4f679a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direção Geral das Atividades Económicas
+- Documento Eletrónico
 - Feira
 - Feirante
 - Formulário Eletrónico
 - Livre Prestação de Serviços
-- Documento Eletrónico
 - Preço
 - Prestação de Serviços
 - Taxa
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2013/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2013/04/12/p/dre
+- type: cites
+  target: pt:dre:260444:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:03Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +162,11 @@ Os modelos do cartão de feirante e de vendedor ambulante e do letreiro identifi
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Franquelim Fernando Garcia Alves, em 17 de maio de 2013.**
+O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Franquelim Fernando Garcia Alves, em 17 de maio de 2013.
 
 ## ANEXO I — Modelo de cartão de feirante e de vendedor ambulante em suporte duradouro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf)
 
 I. Especificações do cartão de feirante e de vendedor ambulante: Cartão polimérico no formato ID1 (86 mm x 54 mm x 0,8 mm), de acordo com a norma ISO 7810/2003.
 
@@ -204,7 +208,7 @@ e) Painel de assinatura branco com a dimensão de 72 mm x 8 mm.
 
 ## ANEXO II — Modelo de letreiro identificativo de feirante e de vendedor ambulante em suporte duradouro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10000/0304103042.pdf)
 
 I. Especificações do letreiro identificativo de feirante e de vendedor ambulante: placa em PVC no formato A5.
 

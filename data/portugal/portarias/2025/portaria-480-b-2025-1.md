@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/480-b/2025/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/480-b-2025-993056223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5a28b0f21f2712540de6a66946ecec925cb31477cad803c4d0fe34a537ca9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ccca1d0b30187dd63077e3d2a51565a73363ba4ed239c10861d50a954d117a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,45 +68,45 @@ subjects:
 - Actualização de Pensões
 - Aposentação Bonificada
 - Aposentado
+- Artes do Espectáculo
 - Associação de Socorros Mútuos
-- Pescador
+- Caixa de Previdência
 - Caixa de Previdência do Pessoal da Marinha Mercante Nacional
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Câmara dos Despachantes Oficiais
 - Centro Nacional de Pensões
 - Complemento Extraordinario de Solidariedade
 - Complemento por Dependência
 - Complemento Social de Pensão
-- Regulamentação de Atos Legislativos
-- Pensão por Incapacidade Permanente para o Trabalho
-- Caixa Geral de Aposentações
+- Doença Profissional
 - Indústria Fosforeira
-- Caixa de Previdência
-- Trabalhador Rural
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Preço de Sangue
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
-- Doença Profissional
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Social
 - Pensão Unificada
 - Pensionista
 - Pensões
+- Pescador
 - Prestações Complementares
 - Prestações da Segurança Social
-- Artes do Espectáculo
 - Proteção Social
 - Reformado
 - Regime de Protecção Social Convergente
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
+- Regulamentação de Atos Legislativos
 - Subsídio Complementar
 - Subsídio de Férias
 - Subsídio de Natal
+- Trabalhador Rural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
@@ -148,16 +148,146 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115578262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158054820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661965:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:372-B/2024
+  label: Revoga, com efeitos a 1 de janeiro de 2026, nos termos do artigo 29.º do presente diploma, a Portaria n.º 372-B/2024/1,
+    de 31 de dezembro, Diário da República n.º 253/2024, Suplemento, Série I
+  source: null
+  date: '2024-12-31'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:02Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +362,7 @@ c) 2,02 % para as pensões de montante superior a € 3222,78.
 | De 21 a 30 anos | € 394,82 |
 | 31 e mais anos | € 493,52 |
 
-3 - Os valores mínimos fixados nos n.<sup>os</sup>1 e 2 deste artigo:
+3 - Os valores mínimos fixados nos n.os1 e 2 deste artigo:
 
 a) Não relevam para efeitos da parcela de pensão a que se refere a última parte da alínea a) do n.º 2 do artigo 1.º;
 
@@ -386,7 +516,7 @@ O valor do complemento extraordinário de solidariedade atribuído ao abrigo do 
 
 ###### Artigo 27.º — Atualização das pensões resultantes de doença profissional
 
-As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2026, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA anteriormente a 1 de janeiro de 2026, quer ao abrigo das Leis n.<sup>os</sup> [1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de julho de 1936, e 2127, de 3 de agosto de 1965, quer do [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de novembro, são atualizadas de acordo com a percentagem prevista na alínea a) do n.º 1 do artigo 2.º
+As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2026, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA anteriormente a 1 de janeiro de 2026, quer ao abrigo das Leis n.os [1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de julho de 1936, e 2127, de 3 de agosto de 1965, quer do [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de novembro, são atualizadas de acordo com a percentagem prevista na alínea a) do n.º 1 do artigo 2.º
 
 ###### Artigo 28.º — Pensões unificadas
 
@@ -404,7 +534,7 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2026.
 
 Em 22 de dezembro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.
 
 ## ANEXO — Tabela de coeficientes de atualização de pensões para efeitos de cúmulo
 
@@ -471,3 +601,7 @@ Em 22 de dezembro de 2025.
 | 1967 | 37,827 4 |
 | 1966 | 39,735 0 |
 | Até 1965 | 42,508 3 |
+
+119926782
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { border-collapse:collapse; border-width:1px; margin-left:auto; }

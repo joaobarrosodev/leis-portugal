@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14000/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/184/2022/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/184-2022-186429709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b473c6620e30ed979a9bb6bdb8703c5138ca3c6a57c7a039a73c34aec9d020d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6b664cb5ee1ebfd40e677ed7486c4b76493a77f9f22490721959adf21c2f4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ subjects:
 - Acreditação
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - ALTO Comissariado para as Migrações
-- Instituto do Emprego e Formação Profissional
 - Cidadão Estrangeiro
 - Coordenador
-- Língua Portuguesa
 - Curso de Português
+- Curso de Português Língua de Acolhimento
+- Direção Geral dos Estabelecimentos Escolares
+- Educação dos Adultos
 - Ensino à Distância
+- Estabelecimento de Ensino
 - Formador
-- Jovem
 - Grupo de Trabalho
 - Habilitações Literárias
 - Imigrante
-- Educação dos Adultos
-- Sistema Nacional de Qualificações
-- Direção Geral dos Estabelecimentos Escolares
-- Estabelecimento de Ensino
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Língua Portuguesa
 - Pessoal Docente
 - Qualificação Profissional
 - Sistema de Ensino
-- Curso de Português Língua de Acolhimento
+- Sistema Nacional de Qualificações
 relationships:
 - type: amended_by
   target: pt:dre:202899920:por
@@ -113,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/851/2010/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/851/2010/09/06/p/dre
+- type: cites
+  target: pt:dre:139563956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184956015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:27Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +203,9 @@ c) ...
 
 3 - São igualmente destinatários dos cursos PLA os cidadãos portadores de visto de curta duração para trabalho sazonal, de estada temporária ou de residência, nos termos da legislação nacional aplicável a cidadãos estrangeiros, que se encontrem nas condições previstas no n.º 1.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os docentes e formadores devem aplicar os métodos e as técnicas que melhor se adequem às características dos formandos, nomeadamente a sua idade, e aos conteúdos da formação, com base nos contextos, nos recursos disponíveis e nos resultados de aprendizagem a alcançar.
 
@@ -179,7 +213,9 @@ c) ...
 
 3 - Os cursos PLA podem ser realizados, total ou parcialmente, à distância, desde que estejam, comprovadamente, reunidas as condições técnicas e pedagógicas necessárias para garantir a qualidade da formação, nomeadamente as previstas na [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -201,4 +237,6 @@ d) Instituto do Emprego e da Formação Profissional, I. P.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de março de 2022.
 
-**A Secretária de Estado da Igualdade e Migrações, Isabel Maria Duarte de Almeida Rodrigues, em 7 de julho de 2022. - O Secretário de Estado da Educação, António de Oliveira Leite, em 12 de julho de 2022. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 18 de julho de 2022.**
+A Secretária de Estado da Igualdade e Migrações, Isabel Maria Duarte de Almeida Rodrigues, em 7 de julho de 2022. - O Secretário de Estado da Educação, António de Oliveira Leite, em 12 de julho de 2022. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 18 de julho de 2022.
+
+115530587

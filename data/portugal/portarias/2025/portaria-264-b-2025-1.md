@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264-b/2025/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3bb312b67fc8fa8e0b851802a67a08bcd63e8975cbcaa86e08e9484fb2e7ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4786c153255cfe70ffba3e1e09ab12ae2b245bc29e46db5ac98e56dc2ed28804
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
-- Concurso
-- Regulamentação de Atos Legislativos
-- Euromilhões
 - Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
+- Concurso
+- Euromilhões
+- Jogos de Fortuna e Azar
 - Prémio
+- Regulamentação de Atos Legislativos
+- Santa Casa da Misericórdia
 - Totosorteio
 relationships:
+- type: amends
+  target: pt:numero:portaria:227/2016
+  label: Altera, a partir de 26 de julho de 2025, nos termos dos artigos 3.º e 5.º do presente diploma, os artigos 2.º, 6.º,
+    8.º e 11.º e revoga os n.ºs 9 e 10 do artigo 2.º do Regulamento do «Totosorteio» aprovado em anexo à Portaria n.º 227/2016,
+    de 25 de agosto, Diário da República n.º 163/2016, Série I
+  source: null
+  date: '2025-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -90,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232/2017/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232/2017/07/27/p/dre
+- type: cites
+  target: pt:dre:107761912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75195059:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:44Z'
   warnings: []
   errors: []
 ---
@@ -146,9 +169,11 @@ Os artigos 2.º, 6.º, 8.º e 11.º do Regulamento do «Totosorteio» aprovado e
 
 10 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
 
-1 - Da receita de cada sorteio do «Totosorteio», constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50 %, conforme previsto nos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 43/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), de 16 de agosto.
+[...]
+
+1 - Da receita de cada sorteio do «Totosorteio», constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50 %, conforme previsto nos n.os1 e 2 do artigo 5.º do [Decreto-Lei n.º 43/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), de 16 de agosto.
 
 2 - [...]
 
@@ -156,7 +181,9 @@ Os artigos 2.º, 6.º, 8.º e 11.º do Regulamento do «Totosorteio» aprovado e
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +251,9 @@ b) A cópia de segurança dos suportes referidos na alínea anterior se encontre
 
 18 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os sorteios do «Totosorteio» realizam-se uma vez por mês, normalmente na última sexta-feira de cada mês, através de aplicação informática, que extrai, de forma aleatória, um ou mais códigos, de acordo com o respetivo plano de prémios.
 
@@ -240,10 +269,12 @@ Para efeitos do disposto no n.º 4 do artigo 2.º, participam no sorteio do «To
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>9 e 10 do artigo 2.º
+São revogados os n.os9 e 10 do artigo 2.º
 
 ###### Artigo 5.º — Entrada em vigor e produção de efeitos
 
 A presente portaria entra em vigor no dia 26 de julho de 2025 e aplica-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 9 de julho de 2025.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 9 de julho de 2025.
+
+119287116

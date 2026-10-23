@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128-a/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-a-2025-912256317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 740e72bea55fc76025cacfb6582e19697ef5084b04368549f37a26a7ac212eab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31e314b80942ef859248536bc85ea8cd9cb14ec83ba9ad9a2b796aa5a7b14010
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estrutura de Missão Recuperar Portugal
+- Fundo Ambiental
+- Plano de Recuperação e Resiliência
 - Política Energética
 - Proteção do Ambiente
 - Transporte de Passageiros
 - Transporte Público
-- Fundo Ambiental
-- Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
 relationships:
+- type: amends
+  target: pt:numero:portaria:109/2024
+  label: Altera, a partir de 25 de março de 2025, o artigo 3.º do Regulamento do Sistema de Incentivo às Empresas «Descarbonização
+    dos Transportes Públicos», investimento C21-i12 do PRR, aprovado em anexo à Portaria n.º 109/2024/1, de 18 de março, Diário
+    da República n.º 55/2024, Série I
+  source: null
+  date: '2024-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
   label: null
@@ -94,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/172/2024/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/172/2024/06/26/p/dre
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855760681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870033780:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:56Z'
   warnings: []
   errors: []
 ---
@@ -162,4 +189,6 @@ b) Categoria 2 - operações respeitantes a veículos com nível nulo de emissõ
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 21 de março de 2025.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 21 de março de 2025.
+
+118851741

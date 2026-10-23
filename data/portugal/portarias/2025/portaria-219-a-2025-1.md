@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219-a/2025/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-a-2025-917598396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8067b23ff707892e6a96ae99c61df173a6e0300e96b61cab493f3c6edbafd61e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffa46df4a8ac2e843767113b9455174f3ecafc85c61ab3afa96a3e8cf164519f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
 - Auxílio de Minimis
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
+- IAPMEI
 - Página na Internet
+- Plano de Recuperação e Resiliência
+- Plano Nacional Energia e Clima 2030
 - Política do Ambiente
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Regulamento CE
-- IAPMEI
-- Plano Nacional Energia e Clima 2030
-- Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
 relationships:
+- type: amends
+  target: pt:numero:portaria:160/2024
+  label: Altera, a partir de 13 de maio de 2025, os artigos 7.º e 13.º do Regulamento do Sistema de Incentivos «Apoio ao Desenvolvimento
+    de uma Indústria Ecológica», aprovado em anexo à Portaria n.º 160/2024/1, de 7 de junho, Diário da República n.º 110/2024,
+    Série I
+  source: null
+  date: '2024-06-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
   label: null
@@ -90,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/160/2024/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/160/2024/06/07/p/dre
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868245180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905121163:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:28Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +197,9 @@ o) [...]
 
 2 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -182,4 +211,6 @@ o) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 9 de maio de 2025. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 24 de abril de 2025.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 9 de maio de 2025. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 24 de abril de 2025.
+
+119036445

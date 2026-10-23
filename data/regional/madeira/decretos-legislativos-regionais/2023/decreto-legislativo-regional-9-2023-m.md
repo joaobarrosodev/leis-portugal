@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2023/01/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2023-206269671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de8b7c1c4904ecef8555e96d911c5298de259330b0b6ea14e8c614827172a065
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbb8d280877288ba89fc0c6d566dc0028f8f88b6bd7ce41e3de0d3e544e3bf3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Governo Regional
 - Definição de Competências
 - Desenvolvimento Regional
+- Governo Regional
 - Madeira.região Autónoma
+- Ordenamento do Território
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2007/06/15/p/dre
@@ -107,16 +107,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671457:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:49Z'
   warnings: []
   errors: []
 ---
@@ -189,11 +225,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 12 de janeiro de 2023.**
+Assinado em 12 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -267,7 +303,7 @@ Neste contexto, assume-se como missão fundamental do PROTRAM contribuir para o 
 
 A tabela seguinte sistematiza a relação entre estes objetivos estratégicos e os definidos na Resolução do Governo da Região Autónoma da Madeira para a elaboração do PROTRAM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 O PROTRAM prossegue os objetivos de interesse regional e respeita o disposto no PNPOT - Programa Nacional da Política do Ordenamento do Território e, nesse sentido, o PROTRAM contém opções e normas que concretizam, na sua escala e âmbito próprios, as orientações do PNPOT.
 
@@ -279,7 +315,7 @@ O PROTRAM tem como âmbito temporal o horizonte correspondente ao decénio de 20
 
 De um ponto de vista geoestratégico, importa posicionar o arquipélago da Madeira na confluência de quatro entidades geográficas de âmbito superior: Portugal Continental, a União Europeia, os restantes arquipélagos da Macaronésia - Açores, Canárias e Cabo Verde - e o conjunto dos principais territórios da diáspora madeirense, com destaque para a Venezuela, a África do Sul e o Reino Unido (ver figura seguinte).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Para além dos correspondentes reforços de conectividade aos mais diversos níveis, as ilações a retirar deste posicionamento complexo e multifacetado são muitas, cruzando-se complementaridades, sinergias, mas também concorrências e ameaças, resultando em diversos desafios que, se uns estarão para além do âmbito e propósito do PROTRAM, outros contribuem e constam das suas opções estratégicas e modelo territorial.
 
@@ -353,7 +389,7 @@ A relevância do Centro Internacional de Negócios da Madeira dada a influência
 
 O papel da ilha do Porto Santo na coerência do modelo global territorial da RAM, quer pelo papel complementar do aeroporto em termos de acessibilidade à Região, quer pelo potencial de imagem e de demonstração de sustentabilidade que aquela ilha pode assumir no contexto do modelo global da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 ##### SUBSECÇÃO II — Modelo territorial da RAM à escala da ilha
 
@@ -395,7 +431,7 @@ Dito isto, convém realçar, desde já, que as áreas de expansão urbana precon
 
 Nos casos em que tais dinâmicas demográficas sejam claramente de declínio, como nos aglomerados sobre a encosta norte da ilha da Madeira, os ajustes terão de ser mais intensos para permitir que os atuais aglomerados urbanos tenham condições para se virem a consolidar progressivamente. Só desta forma se poderão desenvolver políticas eficazes de qualificação urbana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 ### CAPÍTULO III — Normas orientadoras
 
@@ -789,13 +825,13 @@ QUADRO 1
 
 Indicadores de avaliação do PROTRAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 QUADRO 2
 
 Outros indicadores de desenvolvimento do PROTRAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 ### CAPÍTULO V — Programa de execução e plano de financiamento
 
@@ -817,7 +853,7 @@ Apresenta-se como anexo ao presente relatório o quadro de normas e ações que 
 
 O programa de execução do PROTRAM contém a identificação das ações que são necessárias à concretização das normas, contribuindo para o cumprimento dos objetivos do programa. As normas do PROTRAM traduzem-se em ações de variada índole, sendo que parte significativa se concretiza em estudos ou na elaboração ou revisão de programas e planos territoriais. Cerca de um quinto das normas corresponde a ações que se enquadram na atividade corrente das entidades a que respeitam. Um número reduzido de normas traduz-se, ainda, em obras públicas e plataformas tecnológicas de informação e comunicação. O gráfico seguinte representa a tipologia de ações que traduzem as normas do PROTRAM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Como se verifica no quadro anexo, a cada norma correspondem entidades específicas que são responsáveis pela concretização das ações previstas. Aproximadamente dois terços das normas (64) têm como responsável apenas uma entidade, sendo as restantes realizadas em articulação entre duas entidades e, em algumas situações pontuais (apenas 8), três entidades.
 
@@ -871,7 +907,7 @@ QUADRO 1
 
 Normas da competência da SRAAC por tipologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 No que se refere aos programas e planos, 7 das 15 normas que se traduzem na elaboração/revisão de programas ou planos envolvem exclusivamente processos de revisão de PDM (e em alguns casos alargam-se a outros PMOT). Para além disso, estas normas pressupõem o desenvolvimento dos seguintes instrumentos, competindo às entidades sob tutela da SRAAC desencadear os respetivos processos:
 
@@ -939,7 +975,7 @@ QUADRO 2
 
 Plano de ação SRAAC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 ##### SUBSECÇÃO II — Recomendações
 
@@ -959,7 +995,7 @@ QUADRO 3
 
 Estudos a realizar por outras entidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 As ações que se traduzem em obras públicas ou concessões envolvem, sobretudo, iniciativas no âmbito das infraestruturas e estão, na sua maioria, associadas a normas que se concretizam através dos estudos já referidos. As normas que se traduzem em concessões (e que exigem o lançamento do respetivo concurso) são três (nG 4; nG5; nT.MA 9) e prendem-se com o reforço da ligação marítima interilhas e com a rede de transportes públicos na ilha da Madeira. As normas que implicam obra pública são sete e, associam-se quase totalmente às questões da mobilidade e transportes (nS.IT 2; nT.MA 10; nT.MA 11; nT.MA 12; nT.MA 13; nT.MA 14). A exceção corresponde à implementação de um programa de sinalética turística a nível regional (nS.SE 6).
 
@@ -987,24 +1023,26 @@ Agilizar formas de entrega e acesso à informação ambiental, promovendo a tran
 
 Quadro de normas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Carta do Sistema Socioeconómico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Carta do Sistema de Proteção e Valorização Ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Carta do Sistema de Povoamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Carta do Sistema de Infraestruturas e Transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
 
 Carta do Sistema de Riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01300/0002500073.pdf)
+
+116062198

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21900/0005200072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/2023/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-2023-224139050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 600a34ea36f3a0840a66a43e073fafc5a0c6a8d24c70a04d91ef461e04d9f58c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0719c60b13e6d53a84d3f8b3905df16d45c7f79f2941c4985c1117b7949da4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Vinho
-- Regulamentação de Atos Legislativos
 - Fundos CE
 - IFAP
+- Plano Estratégico da Política Agrícola Comum para Portugal
 - Política Agrícola
 - Produto Vitivinícola
+- Regulamentação de Atos Legislativos
+- Vinho
 - Vitivinicultor
-- Plano Estratégico da Política Agrícola Comum para Portugal
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -150,16 +150,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73/2019/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73/2019/03/07/p/dre
+- type: cites
+  target: pt:dre:114099655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120672708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152197939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213707001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214724639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221029892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2577623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70509976:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:47Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +262,9 @@ i) 'Parcela', a área delimitada geograficamente com uma identificação única,
 
 [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -216,7 +278,9 @@ a) No caso das candidaturas agrupadas apresentadas no âmbito da intervenção '
 
 b) No caso das candidaturas agrupadas apresentadas no âmbito da intervenção 'B.3.4 - Reestruturação e conversão de vinhas', em que a produção seja fornecida a uma adega cooperativa do setor vitivinícola.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -230,7 +294,9 @@ b) Ser objeto, após o início da execução do investimento, de um pedido de ad
 
 4 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -262,7 +328,9 @@ c) [...]
 
 12 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -270,7 +338,9 @@ c) [...]
 
 3 - A restituição referida no número anterior pode ser efetuada por execução da garantia constituída no âmbito do adiantamento da ajuda, por compensação com qualquer apoio a que o beneficiário tenha direito a receber do IFAP, I. P., ou por pagamento voluntário ou coercivo.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 [...]
 
@@ -278,21 +348,21 @@ c) [...]
 
 2 - Instalação da vinha:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Sistematização do terreno | Região | Densidade (plantas/ha) | Ajuda(euro)/ha) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Sem alteração do perfil... | Minho... | (igual ou maior que) 1 100 e (igual ou menor que) 1 700 | 10 670 |
-| Sem alteração do perfil... | Minho... | (maior que) 1 700 e (igual ou menor que) 2 500 | 11 520 |
-| Sem alteração do perfil... | Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 8 890 |
-| Sem alteração do perfil... | Toda a área do território... | (maior que) 3 000 | 9 510 |
+| (maior que) 1 700 e (igual ou menor que) 2 500 | 11 520 |  |  |
+| Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 8 890 |  |
+| (maior que) 3 000 | 9 510 |  |  |
 | Com alteração do perfil ... | Minho... | (igual ou maior que) 1 100 e (igual ou menor que) 1 700 | 12 320 |
-| Com alteração do perfil ... | Minho... | (maior que) 1 700 e (igual ou menor que) 2 500 | 13 170 |
-| Com alteração do perfil ... | Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 10 930 |
-| Com alteração do perfil ... | Toda a área do território... | (maior que) 3 000 | 12 000 |
+| (maior que) 1 700 e (igual ou menor que) 2 500 | 13 170 |  |  |
+| Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 10 930 |  |
+| (maior que) 3 000 | 12 000 |  |  |
 | Alteração de perfil (com terraceamento, manutenção dos socalcos do Douro). | Douro... | (igual ou menor que) 4 000 | 16 400 |
-| Alteração de perfil (com terraceamento, manutenção dos socalcos do Douro). | Douro... | (maior que) 4 000 | 18 420 |
+| (maior que) 4 000 | 18 420 |  |  |
 | Alteração de perfil, com terraceamento ou manutenção dos socalcos do Douro [nos termos da alínea e) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639), de 23 de junho] ou vinhas ao alto. | Douro... | (igual ou menor que) 4 000 | 15 990 |
-| Alteração de perfil, com terraceamento ou manutenção dos socalcos do Douro [nos termos da alínea e) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639), de 23 de junho] ou vinhas ao alto. | Douro... | (maior que) 4 000 | 17 960 |
+| (maior que) 4 000 | 17 960 |  |  |
 | Vinhas históricas... | Toda a área do território... | (maior ou igual que) 1 000 | 16 870 |
 
 [...]»
@@ -305,7 +375,7 @@ c) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 8 de novembro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 8 de novembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -863,21 +933,21 @@ ii) Construção de muros em gabião - (euro) 100,00/m3;
 
 2 - Instalação da vinha:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Sistematização do terreno | Região | Densidade(plantas/ha) | Ajuda(euro)/ha) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Sem alteração do perfil... | Minho... | (igual ou maior que) 1 100 e (igual ou menor que) 1 700 | 10 670 |
-| Sem alteração do perfil... | Minho... | (maior que) 1 700 e (igual ou menor que) 2 500 | 11 520 |
-| Sem alteração do perfil... | Toda a área do território ... | (maior que) 2 500 e (igual ou menor que) 3 000 | 8 890 |
-| Sem alteração do perfil... | Toda a área do território ... | (maior que) 3 000 | 9 510 |
+| (maior que) 1 700 e (igual ou menor que) 2 500 | 11 520 |  |  |
+| Toda a área do território ... | (maior que) 2 500 e (igual ou menor que) 3 000 | 8 890 |  |
+| (maior que) 3 000 | 9 510 |  |  |
 | Com alteração do perfil ... | Minho... | (igual ou maior que) 1 100 e (igual ou menor que) 1 700 | 12 320 |
-| Com alteração do perfil ... | Minho... | (maior que) 1 700 e (igual ou menor que) 2 500 | 13 170 |
-| Com alteração do perfil ... | Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 10 930 |
-| Com alteração do perfil ... | Toda a área do território... | (maior que) 3 000 | 12 000 |
+| (maior que) 1 700 e (igual ou menor que) 2 500 | 13 170 |  |  |
+| Toda a área do território... | (maior que) 2 500 e (igual ou menor que) 3 000 | 10 930 |  |
+| (maior que) 3 000 | 12 000 |  |  |
 | Alteração de perfil (com terraceamento, manutenção dos socalcos do Douro). | Douro... | (igual ou menor que) 4 000 | 16 400 |
-| Alteração de perfil (com terraceamento, manutenção dos socalcos do Douro). | Douro... | (maior que) 4 000 | 18 420 |
+| (maior que) 4 000 | 18 420 |  |  |
 | Alteração de perfil, com terraceamento ou manutenção dos socalcos do Douro (nos termos da alínea e) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639), de 23 de junho) ou vinhas ao alto. | Douro... | (igual ou menor que) 4 000 | 15 990 |
-| Alteração de perfil, com terraceamento ou manutenção dos socalcos do Douro (nos termos da alínea e) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639), de 23 de junho) ou vinhas ao alto. | Douro... | (maior que) 4 000 | 17 960 |
+| (maior que) 4 000 | 17 960 |  |  |
 | Vinhas históricas... | Toda a área do território... | (maior ou igual que) 1 000 | 16 870 |
 
 2.1 - Os valores constantes em «Instalação da vinha» são reduzidos:
@@ -944,9 +1014,9 @@ ii) Construção de muros em gabião - (euro) 65,00/m3;
 
 2 - Instalação da vinha:
 
-|  |  |  |
-| --- | --- | --- |
 | Sistematização do terreno | Densidade(plantas/ha) | Ajuda(euro)/ha) |
+| --- | --- | --- |
+|  |  |  |
 | Sem alteração do perfil... | (maior que) 3 000 | 6 910 |
 | Com alteração do perfil... | (maior que) 3 000 | 8 400 |
 
@@ -980,9 +1050,9 @@ ii) Quando a parcela possua mais de 50 % da sua superfície com declive inferior
 
 Montantes das ajudas
 
-|  |  |
-| --- | --- |
 | Compensação pela perda de receita | Ajuda(euro)/ha) |
+| --- | --- |
+|  |  |
 | Replantação de vinhas instaladas... | 1 500 |
 | Sobreenxertia ou reenxertia... | 1 000 |
 
@@ -990,8 +1060,10 @@ Montantes das ajudas
 
 Tabela de ligação entre intervenções, Objetivos Específicos e indicadores de resultado
 
-|  |  |  |
-| --- | --- | --- |
 | Intervenção | Objetivos Específicos | Indicadores de Resultado |
+| --- | --- | --- |
+|  |  |  |
 | Reestruturação e conversão de vinhas. | OE2 - Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização. | R9 - Modernização das explorações agrícolas. |
-| Reestruturação e conversão de vinhas (biológica). | OE2 - Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE6 - Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços de ecossistemas e preservar os habitats e as paisagens. | R9 - Modernização das explorações agrícolas; R29 - Desenvolvimento da agricultura biológica: Percentagem da superfície agrícola utilizada (SAL) que beneficia de apoio da PAC para a agricultura biológica, discriminada entre manutenção e conversão. |
+| Reestruturação e conversão de vinhas (biológica). | OE2 - Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização;<br>OE6 - Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços de ecossistemas e preservar os habitats e as paisagens. | R9 - Modernização das explorações agrícolas;<br>R29 - Desenvolvimento da agricultura biológica: Percentagem da superfície agrícola utilizada (SAL) que beneficia de apoio da PAC para a agricultura biológica, discriminada entre manutenção e conversão. |
+
+117041155

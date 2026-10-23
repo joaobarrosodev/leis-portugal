@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21100/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/2022/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-2022-202899920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40be7f94b4ff2a4055b18e0b534d37cdc74b5ac33826de241b858cdd7d0b3103
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbca2bae44298042201d8533f5050e98f093193a88e861213ab8de36c1b36e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Língua Portuguesa
-- Regulamentação de Atos Legislativos
-- Imigrante
-- Emprego
-- Inserção Social
-- Quadro de Referência Europeu de Garantia da Qualidade na Educação e Formação Profissional
-- Violência Doméstica
 - CIC Portugal 2020
+- Emprego
+- Imigrante
+- Inserção Social
+- Língua Portuguesa
+- Quadro de Referência Europeu de Garantia da Qualidade na Educação e Formação Profissional
+- Regulamentação de Atos Legislativos
 - Regulamento Específico do Domínio da Inclusão Social e Emprego
+- Violência Doméstica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/131/2021/06/25/p/dre
@@ -116,16 +116,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97-a/2015/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97-a/2015/03/30/p/dre
+- type: cites
+  target: pt:dre:114618020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116154044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119901751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135711318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136990470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139563956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165797129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176075691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178714899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184054399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186429709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66888645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75521169:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:54Z'
   warnings: []
   errors: []
 ---
@@ -190,17 +258,23 @@ h) Instrumentos específicos de proteção das vítimas e de acompanhamento dos 
 
 8 - [...]
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - [...]
 
 2 - O incumprimento dos prazos previstos no número anterior determina a caducidade da decisão de aprovação da candidatura, salvo motivo justificado, não imputável ao beneficiário e aceite pela autoridade de gestão.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 São destinatários da formação financiada no âmbito da presente secção os cidadãos destinatários da [Portaria n.º 183/2020](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), de 5 de agosto, na sua redação atual, que regula os cursos de Português Língua de Acolhimento, assim como as suas regras de funcionamento e organização.
 
-###### Artigo 256.º — [...]
+Artigo 256.º
+
+[...]
 
 1 - [...]
 
@@ -250,4 +324,6 @@ k) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 17 de outubro de 2022.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 17 de outubro de 2022.
+
+115833632

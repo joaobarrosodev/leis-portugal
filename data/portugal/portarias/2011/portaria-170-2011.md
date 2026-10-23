@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/170/2011/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2011-287138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eb3f3d9ce9a8e240a5af183dc87d56626bbd51cdf893db3beb6fa50018f2baa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f9786ff7b54534dd31374187dd40b8d6047304a4e9bf973ef9167df9c7df4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embarcação
-- Pesca
 - Gestão dos Recursos
-- Recursos do Mar
 - Molusco
-- Quota de Pesca
+- Pesca
 - Pesca por ARTE de Arrasto
+- Quota de Pesca
+- Recursos do Mar
 relationships:
+- type: amended_by
+  target: pt:dre:56376279:por
+  label: Alterado o art. 1º da Port. 629/2009, de 08-jun, na redação do presente diploma, pelo(a) Portaria n.º 170-A/2014
+    - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-a-2014-56376279
+  date: '2014-08-27'
+- type: amended_by
+  target: pt:dre:106434270:por
+  label: Alterado o art. 1.º da Port 629/2009 de 08-jun, na redação da presente portaria, pelo(a) Portaria n.º 66/2017 - Diário
+    da República n.º 31/2017, Série I de 2017-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-2017-106434270
+  date: '2017-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -86,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/629/2009/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/629/2009/06/08/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:02Z'
   warnings: []
   errors: []
 ---

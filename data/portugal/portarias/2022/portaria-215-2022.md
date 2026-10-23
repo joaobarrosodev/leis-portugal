@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16600/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/2022/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-2022-200360490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c7da8f01202d1eff671e3da0f415bbf301760e3dc77bbf3f8ee0b6d40077b70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88fff2d5bdd11038e4782cb509d63f6fcbe6c7cc0984d97cfc01cea49fcf66db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Classificação de Obras
-- Recursos Hídricos
-- Barragem
 - Aproveitamento Hidroagrícola
+- Barragem
+- Classificação de Obras
 - Interesse Público
 - Lousã
 - Política Agrícola
+- Recursos Hídricos
 - Tomar
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:37Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +111,6 @@ Assim, manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do 
 
 A obra de Aproveitamento Hidroagrícola do Carril é classificada como obra do grupo iii - obra de interesse local com elevado impacte coletivo.
 
-**O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 9 de agosto de 2022.**
+O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 9 de agosto de 2022.
+
+115609854

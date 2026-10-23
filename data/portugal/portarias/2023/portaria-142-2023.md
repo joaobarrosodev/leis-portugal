@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10400/0004000044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/142/2023/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8ab96983b62a1ab2b5d882ccaa0ef5cd90ccc880d6467c5c428f94c412b660b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eb2393628d658d5b1b4c044d539bc77555e4c9f99174e2245727a552db5ea49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspecção Geral das Actividades Culturais
+- Autoridade para as Condições do Trabalho
+- Código do Trabalho
+- Comunicações
 - Contrato de Prestação de Serviços
+- Dados Pessoais
+- Documento Eletrónico
+- Inspecção Geral das Actividades Culturais
+- Plataforma de Interoperabilidade da Administração Pública
 - Regime Laboral
 - Regulamentação de Atos Legislativos
-- Código do Trabalho
-- Documento Eletrónico
-- Comunicações
-- Dados Pessoais
-- Plataforma de Interoperabilidade da Administração Pública
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: celex:32014R0910
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/13-a/2022/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/13-a/2022/01/04/p/dre
+- type: cites
+  target: pt:dre:175043505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177087987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509698:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:29Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +157,9 @@ d) (Revogada.)
 
 3 - Compete à IGAC e à ACT a responsabilidade pelo tratamento dos dados pessoais recolhidos para efeitos de confirmação do fundamento pela não celebração de contrato de trabalho e de planeamento das atividades de fiscalização, incluindo as referidas no artigo 5.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A comunicação objeto da presente portaria é efetuada no portal ePortugal e contém os seguintes elementos:
 
@@ -163,7 +177,9 @@ f) As caraterísticas de laboralidade identificadas no Código do Trabalho e a f
 
 g) Código CAE/CIRS.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A entidade beneficiária da prestação, que disponha ou deva dispor de contabilidade organizada, deve comunicar, até ao 10.º dia útil seguinte ao final de cada trimestre, através do portal ePortugal, os contratos de prestação de serviço que tenham sido celebrados nesse trimestre.
 
@@ -185,7 +201,9 @@ e) [...]
 
 5 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Nos termos do disposto no n.º 3 do artigo 30.º, no artigo 79.º e no n.º 3 do artigo 81.º do Estatuto e do n.º 3 do artigo 2.º da presente portaria, podem ser realizadas verificações eletrónicas com base nas comunicações efetuadas em cumprimento da presente portaria e as obrigações fiscais e contributivas associadas ao mesmo contrato.
 
@@ -207,7 +225,7 @@ b) O n.º 2 e a alínea c) do n.º 3 do artigo 4.º
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 17 de maio de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 25 de maio de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 25 de maio de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 19 de maio de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 17 de maio de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 25 de maio de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 25 de maio de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 19 de maio de 2023.
 
 ## ANEXO — Republicação da [Portaria n.º 13-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria/13-a-2022-177087987), de 4 de janeiro
 
@@ -286,3 +304,5 @@ A publicação, divulgação e disponibilização, para consulta ou outro fim, d
 ###### Artigo 7.º — Entrada em vigor
 
 A presente portaria produz efeitos a 1 de janeiro de 2022.
+
+116515255

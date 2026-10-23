@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22500/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/382/2023/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2023-224576581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ada193f3cd4d5be0e8aad20b39a80000d52465943d94713494518e6ccc0e29c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7b91f4f56461a853f0956edbaa847579b230bf1f648a733d858707c90140ea3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
-- Zona de Proteção
 - Águas Subterrâneas
+- Recursos Hídricos
 - Santarém
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:57Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +138,14 @@ c) «Zona alargada», delimitada pelo polígono a-b-c-d, cujos vértices têm as
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de setembro de 2023.**
+A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de setembro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Base cartográfica do Centro de Informação Geoespacial do Exército
 
-![](https://files.diariodarepublica.pt/images/224576581/224553788.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224576581/224553788.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -140,18 +153,18 @@ TABELA I
 
 Coordenadas do vértice da zona imediata
 
-|  |  |  |  |
+| Vértice | X (m) | Y (m) | Raio da circunferência<br>(m) |
 | --- | --- | --- | --- |
-| Vértice | X (m) | Y (m) | Raio da circunferência (m) |
+|  |  |  |  |
 | Captação Healsi... | -26 297 | -39 630 | 10 |
 
 TABELA II
 
 Coordenadas dos vértices da zona intermédia
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | A ... | -26 800 | -39 350 |
 | B ... | -25 900 | -39 350 |
 | C ... | -25 900 | -40 000 |
@@ -161,10 +174,14 @@ TABELA III
 
 Coordenadas dos vértices da zona alargada
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | a ... | -26 950 | -39 350 |
 | b ... | -25 645 | -39 350 |
 | c ... | -25 645 | -40 935 |
 | d ... | -26 950 | -40 935 |
+
+117071847
+
+.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

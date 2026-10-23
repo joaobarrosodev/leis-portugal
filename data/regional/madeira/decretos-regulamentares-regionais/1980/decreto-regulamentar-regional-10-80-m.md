@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1980-457874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3224106f42d176b3a799cfb5197dc94638f7ea370a7bfa6f47600c88179aaa92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 592085960a837a4cecd36037c0c9e71be2e254085a5ff5853741ad7345023e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete de Coordenação do Frio
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:59Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +119,13 @@ Assim, faz-se sentir a necessidade de um órgão coordenador que intervenha dire
 
 Nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º É criado na dependência da Secretaria Regional da Coordenação Económica o Gabinete de Coordenação do Frio, adiante designado simplesmente por GCF.
+Artigo 1.º É criado na dependência da Secretaria Regional da Coordenação Económica o Gabinete de Coordenação do Frio, adiante designado simplesmente por GCF.
 
-###### Art. 2.º O GCF rege-se pelo presente diploma e pelos regulamentos que venham a ser publicados.
+Art. 2.º O GCF rege-se pelo presente diploma e pelos regulamentos que venham a ser publicados.
 
-###### Art. 3.º O GCF exerce a sua acção na Região Autónoma da Madeira.
+Art. 3.º O GCF exerce a sua acção na Região Autónoma da Madeira.
 
-###### Art. 4.º São atribuições do GCF:
+Art. 4.º São atribuições do GCF:
 
 a) Definir a política regional do frio;
 
@@ -136,26 +143,26 @@ g) Assegurar a representação oficial do sector do frio em todos os organismos 
 
 h) Desempenhar todas as tarefas que resultem deste diploma e da demais legislação em vigor ou das funções que, cumulativamente, lhe forem atribuídas.
 
-###### Art. 5.º - 1 - O GCF fica na directa dependência do Secretário Regional da Coordenação Económica e é dirigido por um director, equiparado, para efeitos de vencimento, a director de serviços.
+Art. 5.º - 1 - O GCF fica na directa dependência do Secretário Regional da Coordenação Económica e é dirigido por um director, equiparado, para efeitos de vencimento, a director de serviços.
 
 2 - O director é nomeado em comissão de serviço, nos termos do artigo 8.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), por despacho do Secretário Regional da Coordenação Económica.
 
-###### Art. 6.º O quadro do pessoal do GCF é o constante do quadro anexo ao presente diploma.
+Art. 6.º O quadro do pessoal do GCF é o constante do quadro anexo ao presente diploma.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Coordenação Económica.
+Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Coordenação Económica.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em plenário do Governo Regional da Madeira em 18 de Setembro de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Outubro de 1980.**
+Assinado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro do pessoal do Gabinete de Coordenação do Frio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/25900/38033804.pdf))](https://files.diariodarepublica.pt/1s/1980/11/25900/38033804.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/25900/38033804.pdf)

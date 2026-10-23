@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/250/2011/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-2011-670365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae6a2340b258e3d5b6cc54c7d3cef23dce18edbfa52257699596cb762c8bacfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bc3754e6147cafa2926aaad9e4eaf00aa5ce49d868d5526448ca58b2ad7f7e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:27Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +121,4 @@ Manda o Governo, pelo Secretário de Estado da Energia e da Inovação, que seja
 
 2 - ...»
 
-**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 16 de Junho de 2011.**
+O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 16 de Junho de 2011.

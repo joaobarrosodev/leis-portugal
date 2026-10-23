@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 210/2023, 1º Suplemento, Série I de 2023-10-30
   number: '210'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 97-(108) a 97-(247)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/21001/0010800247.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/328-b/2023/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-b-2023-223573621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60232e31f44c63018f32ef03b874259c3927f21365b4d227759b51de4b2caf42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeff9b3922dd2949fedc8b1503eb2669fcb0ee28a99b70e1c8efdd9369c01979
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Beneficiário
-- Investigação Científica e Tecnológica
-- Tecnologia da Informação
-- Competitividade Empresarial
-- Feader
-- Energia Renovável
-- FEDER
-- Auxílio de Minimis
 - Apoio ao Investimento
-- Pagamento
-- Incentivos ao Desenvolvimento
-- Tecnologia
-- Sistema Científico e Tecnológico
-- Projeto
-- Recursos Humanos
-- Pequenas e Médias Empresas
-- Regulamento
-- Regulamento CE
+- Auxílio de Minimis
+- Beneficiário
+- CIC Portugal 2030
 - Clima
-- Subsídio
-- Taxa
-- Portugal 2030
+- Competitividade Empresarial
+- Empreendedorismo
+- Empresa
+- Energia Renovável
+- Feader
+- FEDER
+- Financiamento
 - Fundo para Uma Transição Justa
 - Fundo Social Europeu Mais
-- CIC Portugal 2030
+- Incentivos ao Desenvolvimento
+- Investigação Científica e Tecnológica
+- Pagamento
+- Pequenas e Médias Empresas
+- Portugal 2030
+- Projeto
+- Recursos Humanos
+- Regulamento
+- Regulamento CE
 - Regulamento Específico da Área Temática Inovação e Transição Digital
+- Sistema Científico e Tecnológico
+- Subsídio
+- Taxa
+- Tecnologia
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: celex:31990R3037
@@ -232,20 +232,96 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2019/786/oj
   label: null
   source: http://data.europa.eu/eli/reco/2019/786/oj
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211717115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215085999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L0410
   label: null
   source: null
 article_structure:
-  article_count: 303
-  section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 163
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:40Z'
   warnings: []
   errors: []
 ---
@@ -284,7 +360,7 @@ Manda o Governo, pela Ministra da Presidência, o seguinte:
 
 4 - Determinar que a presente alteração ao Regulamento Específico da Área Temática Inovação e Transição Digital entra em vigor no dia seguinte ao da publicação da presente portaria, sem prejuízo das alterações aos artigos 21.º, 25.º e 26.º, que produzem efeitos à data de entrada em vigor da [Portaria n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/103-a-2023-211717115), de 12 de abril, desde que as decisões de financiamento de candidaturas ainda não tenham sido adotadas.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 27 de outubro de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 27 de outubro de 2023.
 
 ## ANEXO I — (a que de refere o n.º 2)
 
@@ -306,7 +382,9 @@ c) As disposições específicas aplicáveis ao Sistema de Apoio à Criação de
 
 d) As disposições específicas aplicáveis às operações enquadráveis no Regime Contratual de Investimento (RCI), financiadas no âmbito do Sistema de Incentivos à Competitividade Empresarial, do Sistema de Incentivos à Investigação e Desenvolvimento e do Sistema de Incentivos à Transição Climática e Energética.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - No âmbito do Portugal 2030 são criados os seguintes Sistemas de Incentivos e Sistemas de Apoio:
 
@@ -346,7 +424,9 @@ f) [...]
 
 6 - Os Sistemas de Incentivos e Sistemas de Apoio do Portugal 2030 podem ser financiados por outras fontes de financiamento para além das previstas no n.º 3, designadamente através de reembolsos gerados através de instrumentos financeiros ou subvenções reembolsáveis, nos termos do artigo 8.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, na sua redação atual, e do artigo 32.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, bem como de outros fundos nacionais, nos termos da [Resolução do Conselho de Ministros n.º 34/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2023-211996390), de 19 de abril.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 [...]
 
@@ -440,7 +520,9 @@ dd) «Resistência às alterações climáticas», processo destinado a evitar q
 
 ee) «Selo de excelência», rótulo de qualidade atribuído pela Comissão Europeia a uma proposta de projeto apresentada para financiamento no âmbito do programa Horizonte 2020, do programa Horizonte Europa ou de outros programas europeus, considerada como cumprindo os requisitos de qualidade desse instrumento, mas que não pôde beneficiar de apoio face ao orçamento disponível.
 
-###### Artigo 8.º — Princípio «Não Prejudicar Significativamente» e metas climáticas e ambientais
+Artigo 8.º
+
+Princípio «Não Prejudicar Significativamente» e metas climáticas e ambientais
 
 1 - [...]
 
@@ -448,7 +530,9 @@ ee) «Selo de excelência», rótulo de qualidade atribuído pela Comissão Euro
 
 3 - [...]
 
-###### Artigo 9.º — Elegibilidade das despesas
+Artigo 9.º
+
+Elegibilidade das despesas
 
 1 - Além do estabelecido no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, bem como de outras despesas definidas para cada uma das tipologias dos sistemas de incentivos previstos no presente regulamento, são consideradas não elegíveis, sem prejuízo do previsto nas metodologias de custos simplificados, as seguintes despesas:
 
@@ -482,7 +566,9 @@ k) [...]
 
 5 - São elegíveis, nos termos do enquadramento em matéria de elegibilidade territorial na aplicação dos fundos europeus e dos programas financiadores, as despesas com pessoal técnico do beneficiário e os encargos salariais com a contratação de recursos humanos em regime de teletrabalho, de acordo com o especificado no aviso para apresentação de candidaturas.
 
-###### Artigo 11.º — Obrigações dos beneficiários
+Artigo 11.º
+
+Obrigações dos beneficiários
 
 1 - [...]
 
@@ -502,13 +588,17 @@ g) Nas operações de infraestruturas com um prazo de vida útil previsto de, pe
 
 2 - [...]
 
-###### Artigo 12.º — Pagamentos
+Artigo 12.º
+
+Pagamentos
 
 1 - Os pagamentos a efetuar aos beneficiários observam o regime previsto no artigo 28.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e o disposto em regulamento administrativo emitido pelo órgão pagador do Portugal 2030 e em aviso para apresentação de candidaturas.
 
 2 - [...]
 
-###### Artigo 16.º — Tipologias de intervenção
+Artigo 16.º
+
+Tipologias de intervenção
 
 No Sistema de Incentivos à Competitividade Empresarial são apoiadas as seguintes tipologias de intervenção, conjugadas com a tipologia prevista no artigo seguinte:
 
@@ -516,11 +606,15 @@ a) [...]
 
 b) [...]
 
-###### Artigo 17.º — Operações de regime simplificado
+Artigo 17.º
+
+Operações de regime simplificado
 
 O apoio à aquisição de serviços de consultoria de inovação e/ou na área de prospeção de mercado pode ser enquadrado num regime simplificado, ao abrigo do regime de auxílios de minimis, nos termos e condições a fixar em aviso para apresentação de candidaturas.
 
-###### Artigo 19.º — Tipologias de operação
+Artigo 19.º
+
+Tipologias de operação
 
 1 - [...]
 
@@ -540,7 +634,9 @@ d) A alteração fundamental do processo global de produção ou da prestação 
 
 3 - Para efeitos do disposto na alínea a) do número anterior, entende-se por «mesma atividade ou atividade semelhante», uma atividade que se insere na mesma classe - código numérico de quatro dígitos, da nomenclatura estatística das atividades económicas NACE Rev. 2, nos termos do [Regulamento (CE) n.º 1893/2006](https://data.europa.eu/eli/reg/2006/1893/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, que estabelece a nomenclatura estatística das atividades económicas NACE Revisão 2 e que altera o [Regulamento (CEE) n.º 3037/90](https://data.europa.eu/eli/reg/1990/3037/oj?locale=pt) do Conselho, assim como certos regulamentos CE relativos a domínios estatísticos específicos.
 
-###### Artigo 21.º — Elegibilidade específica das operações
+Artigo 21.º
+
+Elegibilidade específica das operações
 
 1 - [...]
 
@@ -562,7 +658,9 @@ a) [...]
 
 b) Sempre que seja prestado apoio a investimentos destinados a reduzir as emissões de gases com efeito de estufa (GEE) provenientes das atividades enumeradas no anexo II do [Decreto-Lei n.º 12/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2020-131124444), de 6 de abril, que estabelece o regime jurídico aplicável ao comércio de licenças e emissão de gases com efeito de estufa, transpondo a [Diretiva (UE) 2018/410](https://data.europa.eu/eli/dir/2018/410/oj?locale=pt), é exigida uma justificação de como as operações contribuem para a transição para uma economia com impacto neutro no clima e conduzem a uma redução substancial das emissões de GEE situada substancialmente abaixo dos parâmetros de referência estabelecidos para a atribuição de licenças a título gratuito ao abrigo da mesma Diretiva, e desde que estas operações sejam necessárias para a proteção de um número significativo de postos de trabalho.
 
-###### Artigo 24.º — Taxas de financiamento
+Artigo 24.º
+
+Taxas de financiamento
 
 1 - [...]
 
@@ -590,7 +688,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 25.º — Elegibilidade das despesas
+Artigo 25.º
+
+Elegibilidade das despesas
 
 1 - [...]
 
@@ -624,7 +724,9 @@ e) No caso das grandes empresas, as despesas com ativos incorpóreos referidos n
 
 7 - [...]
 
-###### Artigo 26.º — Obrigações dos beneficiários
+Artigo 26.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 11.º, são ainda exigíveis, na tipologia de intervenção «Inovação Produtiva»:
 
@@ -650,7 +752,9 @@ iii) A adoção de comportamentos e práticas de sustentabilidade ambiental no p
 
 (6) A garantia de que os investimentos asseguram a eficiência no consumo de água nos edifícios a intervencionar, contribuindo para a conservação dos recursos hídricos e para a redução de consumos energéticos associados ao ciclo de urbano da água.
 
-###### Artigo 28.º — Enquadramento europeu de auxílios de Estado
+Artigo 28.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - [...]
 
@@ -668,11 +772,15 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 30.º — Modalidade de apresentação de candidaturas
+Artigo 30.º
+
+Modalidade de apresentação de candidaturas
 
 No âmbito da tipologia de intervenção «Qualificação e Internacionalização das PME» as candidaturas podem ser apresentadas individualmente, em conjunto ou em parceria.
 
-###### Artigo 31.º — Elegibilidade específica das operações
+Artigo 31.º
+
+Elegibilidade específica das operações
 
 [...]
 
@@ -680,7 +788,9 @@ a) Não incluir as mesmas ações em operações distintas, designadamente em ca
 
 b) No caso de candidatura em conjunto ou em parceria, serem sustentadas por um plano de ação conjunto nos termos previstos nas subalíneas ii) e iii) da alínea b) do n.º 2 do artigo 23.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e cumprir as condições estabelecidas em aviso para apresentação de candidaturas relativas à abrangência e participação das PME.
 
-###### Artigo 32.º — Natureza e elegibilidade dos beneficiários
+Artigo 32.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - [...]
 
@@ -688,7 +798,9 @@ b) No caso de candidatura em conjunto ou em parceria, serem sustentadas por um p
 
 3 - Para além dos critérios estabelecidos no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 6.º, os beneficiários devem, à data da candidatura, ter concluído as operações aprovadas ao abrigo da presente subsecção para o mesmo estabelecimento da empresa, exceto no caso das candidaturas apresentadas em conjunto ou em parceria, sem prejuízo dos casos excecionados em aviso para apresentação de candidaturas.
 
-###### Artigo 34.º — Taxas de financiamento
+Artigo 34.º
+
+Taxas de financiamento
 
 1 - [...]
 
@@ -702,7 +814,9 @@ c) [...]
 
 3 - No caso das candidaturas em conjunto ou em parceria, a taxa de financiamento dos custos elegíveis com o acompanhamento e desenvolvimento da operação pode ser de até 75 %.
 
-###### Artigo 35.º — Elegibilidade das despesas
+Artigo 35.º
+
+Elegibilidade das despesas
 
 1 - [...]
 
@@ -766,9 +880,13 @@ iii) Secção II, denominada «Sistema de Apoio a Ações Coletivas», que integ
 
 [...]
 
-### CAPÍTULO I — [...]
+CAPÍTULO I
 
-###### Artigo 8.º-A — Apoio aos objetivos em matéria de alterações climáticas
+[...]
+
+Artigo 8.º-A
+
+Apoio aos objetivos em matéria de alterações climáticas
 
 1 - Os avisos para apresentação de candidaturas definem os requisitos necessários para assegurar o cumprimento das metas climáticas previstas nos programas, nomeadamente associadas às tipologias de intervenção da Subsecção III, da Secção I e das Subsecções II e III, da Secção IV, do Capítulo II, tendo em consideração os coeficientes para o cálculo do apoio àqueles objetivos definidos no anexo I do [Regulamento (UE) n.º 2021/1060](https://data.europa.eu/eli/reg/2021/1060/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de junho de 2021.
 
@@ -776,11 +894,15 @@ iii) Secção II, denominada «Sistema de Apoio a Ações Coletivas», que integ
 
 3 - Os apoios à eficiência energética e de demonstração nas PME ou nas grandes empresas são contabilizados em 100 % para as metas climáticas se for alcançada, em média, pelo menos uma renovação de grau médio, como definido na [Recomendação (UE) 2019/786](https://data.europa.eu/eli/reco/2019/786/oj?locale=pt) da Comissão, de 8 de maio de 2019, relativa à renovação dos edifícios ou uma redução de, pelo menos, 30 % das emissões diretas e indiretas de gases com efeito de estufa em comparação com as emissões ex ante.
 
-###### Artigo 12.º-A — Contribuição privada
+Artigo 12.º-A
+
+Contribuição privada
 
 Para efeito do n.º 5 do artigo 31.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, nos Sistemas de Incentivos do Portugal 2030, em que se verifiquem operações em conjunto ou em parceria, a contribuição privada dos beneficiários pode ser assegurada por outras entidades que não os próprios, desde que não se constituam como prestadores de serviços no âmbito da operação, devendo ser apresentada, na candidatura, prova da sua disponibilidade para o referido financiamento, nos termos previstos em aviso para apresentação de candidaturas.
 
-###### Artigo 14.º-A — Indicadores de realização e de resultado
+Artigo 14.º-A
+
+Indicadores de realização e de resultado
 
 1 - Nos termos do n.º 2 do artigo 22.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, os mecanismos de bonificação e ou de penalização são aplicados em função do grau de cumprimento dos resultados contratualizados, estabelecidos através dos indicadores de realização e ou de resultado associados à aprovação do financiamento, para este efeito definidos nos avisos para apresentação de candidaturas.
 
@@ -802,11 +924,17 @@ Para efeito do n.º 5 do artigo 31.º do [Decreto-Lei n.º 20-A/2023](https://di
 
 10 - Para as tipologias de operação em que não sejam estabelecidos mecanismos de bonificação ou de penalização, devem os avisos para apresentação de candidaturas prever, nos termos do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, a apresentação pelo beneficiário, no pedido de pagamento de saldo final, de uma autoavaliação qualitativa das realizações e resultados atingidos.
 
-#### SECÇÃO II — Sistema de Incentivos à Investigação e Desenvolvimento
+SECÇÃO II
 
-##### SUBSECÇÃO I — Normas gerais
+Sistema de Incentivos à Investigação e Desenvolvimento
 
-###### Artigo 39.º — Objetivos
+SUBSECÇÃO I
+
+Normas gerais
+
+Artigo 39.º
+
+Objetivos
 
 1 - O presente sistema de incentivos tem por objetivo promover o investimento em I&D, nas categorias de investigação industrial e/ou de desenvolvimento experimental, estimulando a sua valorização económica e a promoção de inovação em domínios prioritários de especialização inteligente, incluindo o reforço da articulação entre as empresas e as instituições científicas e tecnológicas, bem como promover a internacionalização das capacidades nacionais em matéria de investigação e inovação (I&I), através da integração em redes internacionais de I&I.
 
@@ -814,7 +942,9 @@ Para efeito do n.º 5 do artigo 31.º do [Decreto-Lei n.º 20-A/2023](https://di
 
 3 - Os apoios atribuídos ao abrigo do presente sistema de incentivos enquadram-se no Objetivo Específico 1.1 «Desenvolver e reforçar as capacidades de investigação e inovação e a adoção de tecnologias avançadas» do FEDER.
 
-###### Artigo 40.º — Tipologias de intervenção
+Artigo 40.º
+
+Tipologias de intervenção
 
 No âmbito do Sistema de Incentivos à Investigação e Desenvolvimento são apoiadas as seguintes tipologias de intervenção conjugadas com a tipologia prevista no artigo seguinte:
 
@@ -824,15 +954,21 @@ b) Investigação, Desenvolvimento e Inovação Empresarial (I&D&I Empresarial);
 
 c) Empreendedorismo Qualificado e Associado ao Conhecimento.
 
-###### Artigo 41.º — Operações de regime simplificado
+Artigo 41.º
+
+Operações de regime simplificado
 
 O apoio a serviços de consultoria em investigação e apoio à inovação, designadamente a serviços de consultoria em atividades de investigação e desenvolvimento tecnológico, bem como a serviços de transferência de tecnologia, pode ser enquadrado num regime simplificado, ao abrigo do regime de auxílios de minimis, nos termos e condições a fixar em aviso para apresentação de candidaturas.
 
-###### Artigo 42.º — Elegibilidade das operações
+Artigo 42.º
+
+Elegibilidade das operações
 
 Para além dos requisitos de elegibilidade fixados no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, as operações, devem inserir-se nos domínios prioritários das estratégias regional e nacional de investigação e inovação para uma especialização inteligente (RIS3) aplicáveis, nos termos a definir em aviso para apresentação de candidatura.
 
-###### Artigo 43.º — Obrigações dos beneficiários
+Artigo 43.º
+
+Obrigações dos beneficiários
 
 1 - Para além das obrigações previstas no artigo 11.º do presente regulamento e no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, constituem ainda obrigações dos beneficiários:
 
@@ -862,9 +998,13 @@ iv) Garantir que das obras efetuadas resulta a redução do uso de energia e o a
 
 v) Garantir a utilização de materiais reciclados e cumprimento do Protocolo de Gestão de Resíduos de Construção e Demolição da União Europeia.
 
-##### SUBSECÇÃO II — Investigação e desenvolvimento empresarial
+SUBSECÇÃO II
 
-###### Artigo 44.º — Tipologias de operação
+Investigação e desenvolvimento empresarial
+
+Artigo 44.º
+
+Tipologias de operação
 
 1 - No âmbito da presente tipologia de intervenção são suscetíveis de apoio as seguintes tipologias de operação:
 
@@ -878,7 +1018,7 @@ d) «Provas de conceito» - operações que visam demonstrar uma ideia e validar
 
 e) «Proteção da propriedade intelectual e industrial» - operações que visem o registo de direitos de propriedade intelectual e industrial sob a forma de registo de patentes, modelos de utilidade, desenhos ou modelos, direitos de autor e direitos conexos, pelas vias nacional, europeia e internacional;
 
-f) «Núcleos I&D» - operações que visam a criação ou reforço de competências e capacidades internas das empresas em I&D;
+f) «Núcleos I&D» - operações que visam a criação ou reforço de competências e capacidades internas das empresas em I&D
 
 g) «Internacionalização da I&D» - operações de suporte à internacionalização da I&D empresarial, incluindo, designadamente:
 
@@ -892,7 +1032,9 @@ iv) Operações às quais tenha sido atribuído um Selo de Excelência ao abrigo
 
 2 - Com exceção das operações previstas nas subalíneas ii) e iv) da alínea g) do número anterior, os apoios podem ser utilizados para financiar atividades de I&D decorrentes da participação em projetos, parcerias ou programas europeus de I&I, nos termos previstos na regulamentação europeia.
 
-###### Artigo 45.º — Modalidade de apresentação de candidaturas
+Artigo 45.º
+
+Modalidade de apresentação de candidaturas
 
 1 - No âmbito da presente tipologia de intervenção, as candidaturas podem ser apresentadas individualmente ou em copromoção.
 
@@ -902,13 +1044,17 @@ iv) Operações às quais tenha sido atribuído um Selo de Excelência ao abrigo
 
 4 - As operações apresentadas em copromoção envolvem obrigatoriamente uma colaboração efetiva entre empresas e ENESII ou apenas entre empresas, sendo a entidade líder obrigatoriamente uma empresa.
 
-###### Artigo 46.º — Natureza e elegibilidade dos beneficiários
+Artigo 46.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - São beneficiárias as PME e as Small Mid Cap.
 
 2 - No caso de candidaturas apresentadas em copromoção são ainda beneficiárias as ENESII, incluindo as das regiões autónomas dos Açores e da Madeira, estas em operações financiadas pelo Programa Inovação e Transição Digital.
 
-###### Artigo 47.º — Elegibilidade específica das operações
+Artigo 47.º
+
+Elegibilidade específica das operações
 
 Para além do cumprimento dos requisitos de elegibilidade das operações previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e nos artigos 7.º e 42.º, as operações enquadradas nas tipologias referidas nas alíneas a) a d), do n.º 1, do artigo 44.º, devem ainda satisfazer os seguintes requisitos:
 
@@ -924,11 +1070,15 @@ e) Incorporar desenvolvimentos técnicos ou tecnológicos significativos ou, no 
 
 f) Envolver recursos humanos qualificados cujos curricula garantam a sua adequada execução.
 
-###### Artigo 48.º — Forma de apoio
+Artigo 48.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenções, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidatura.
 
-###### Artigo 49.º — Taxas de financiamento
+Artigo 49.º
+
+Taxas de financiamento
 
 1 - O incentivo a conceder no âmbito das tipologias de operação «Projetos de ID&T», «Projetos demonstradores», «Programas mobilizadores», «Provas de conceito» e «Internacionalização de I&D», na vertente I&D industrial à escala europeia, é calculado através da aplicação às despesas elegíveis de uma taxa base até:
 
@@ -974,7 +1124,9 @@ c) Os organismos ou infraestruturas de investigação recebem uma compensação 
 
 10 - O incentivo a atribuir às operações resulta da aplicação das taxas referidas no presente artigo às despesas elegíveis de cada beneficiário, quando aplicável.
 
-###### Artigo 50.º — Elegibilidade das despesas
+Artigo 50.º
+
+Elegibilidade das despesas
 
 1 - Nas tipologias de operação «Projetos de ID&T», «Projetos demonstradores», «Programas mobilizadores», «Provas de conceito», «Internacionalização da I&D» na vertente de I&D industrial à escala europeia, e «Núcleos I&D», são consideradas elegíveis as seguintes despesas:
 
@@ -1030,7 +1182,9 @@ d) Despesas com a intervenção de Contabilista Certificado ou Revisor Oficial d
 
 7 - No caso de entidades sujeitas a auxílios de Estado, relativamente aos custos previstos na alínea f) do n.º 1 e na alínea a) do n.º 2, apenas são considerados elegíveis os encargos de amortização correspondentes ao período de utilização no âmbito da operação, calculados com base em princípios contabilísticos aceites.
 
-###### Artigo 51.º — Enquadramento europeu de auxílios de Estado
+Artigo 51.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - As operações enquadradas nas tipologias de operação «Projetos de ID&T», «Projetos demonstradores», «Programas mobilizadores», «Provas de conceito» e «Internacionalização de I&D», na vertente I&D industrial à escala europeia, respeitam o seguinte enquadramento europeu de auxílios de Estado:
 
@@ -1064,9 +1218,13 @@ b) O artigo 29.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli
 
 5 - As operações «Internacionalização da I&D» às quais tenha sido atribuído um rótulo de qualidade Selo de Excelência ao abrigo do programa Horizonte 2020 ou do programa Horizonte Europa, ou que resultem de outras medidas daqueles programas ou de outros programas europeus, respeitam o enquadramento europeu previsto no artigo 25.º-A, 25.º-B e 25.º-C do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na sua redação atual, para as despesas previstas no n.º 6 do artigo 50.º
 
-##### SUBSECÇÃO III — Investigação, desenvolvimento e inovação empresarial
+SUBSECÇÃO III
 
-###### Artigo 52.º — Tipologias de operação
+Investigação, desenvolvimento e inovação empresarial
+
+Artigo 52.º
+
+Tipologias de operação
 
 1 - No âmbito da presente tipologia de intervenção são apoiadas as operações de «Investimento integrado em Investigação, Desenvolvimento e Inovação Empresarial (I&D&I)», com o objetivo de desenvolver atividades desde a investigação até à produção e/ou introdução no mercado de produtos ou processos, potenciando a inovação produtiva, decorrentes da cooperação entre empresas, envolvendo PME e/ou Small mid caps em copromoção com grandes empresas e/ou com ENESII.
 
@@ -1080,11 +1238,15 @@ b) Estar inseridos em domínios prioritários de especialização inteligente;
 
 c) Corresponder a um investimento inicial, ou a um investimento inicial a favor de uma nova atividade económica, conforme definido no n.º 2 do artigo 19.º
 
-###### Artigo 53.º — Modalidade de apresentação de candidaturas
+Artigo 53.º
+
+Modalidade de apresentação de candidaturas
 
 No âmbito da presente tipologia de intervenção, as candidaturas são apresentadas em copromoção, aplicando-se o disposto nos números 2, 3 e 4 do artigo 45.º
 
-###### Artigo 54.º — Natureza, elegibilidade e obrigações dos beneficiários
+Artigo 54.º
+
+Natureza, elegibilidade e obrigações dos beneficiários
 
 1 - São beneficiárias as PME e as Small Mid Caps.
 
@@ -1094,7 +1256,9 @@ No âmbito da presente tipologia de intervenção, as candidaturas são apresent
 
 4 - Para além das obrigações previstas no artigo 11.º, os beneficiários deverão ainda cumprir as obrigações específicas previstas no artigo 26.º e no artigo 43.º
 
-###### Artigo 55.º — Elegibilidade específica das operações
+Artigo 55.º
+
+Elegibilidade específica das operações
 
 Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e nos artigos 7.º, 21.º e 42.º, as operações devem ainda cumprir os seguintes requisitos:
 
@@ -1102,39 +1266,55 @@ a) Incluir obrigatoriamente atividades de I&D e de Inovação, sendo que as ativ
 
 b) Se os beneficiários forem grandes empresas e os incentivos forem concedidos a favor de uma alteração fundamental no processo de produção, os custos elegíveis devem exceder a amortização e depreciação dos ativos associados à atividade a modernizar no decurso dos três exercícios fiscais precedentes, conforme previsto no n.º 7 do artigo 14.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na sua redação atual.
 
-###### Artigo 56.º — Forma de apoio
+Artigo 56.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenção, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidatura.
 
-###### Artigo 57.º — Taxas de financiamento
+Artigo 57.º
+
+Taxas de financiamento
 
 1 - As taxas de financiamento no âmbito das atividades de I&D são as que decorrem do estabelecido no artigo 49.º
 
 2 - A taxa de financiamento no âmbito dos investimentos produtivos é a que decorre do estabelecido no artigo 24.º
 
-###### Artigo 58.º — Elegibilidade das despesas
+Artigo 58.º
+
+Elegibilidade das despesas
 
 1 - No âmbito das atividades de I&D, são elegíveis as despesas referidas no n.º 1 do artigo 50.º, aplicando-se o disposto no n.º 7 do mesmo artigo.
 
 2 - No âmbito dos investimentos produtivos, são elegíveis as despesas referidas no n.º 1 do artigo 25.º, aplicando-se o disposto nos n.os 2 e 3 do mesmo artigo, sendo que, para as grandes empresas, as despesas previstas na alínea b) do n.º 1 do referido artigo estão limitadas a 50 % da totalidade dos custos elegíveis.
 
-###### Artigo 59.º — Enquadramento europeu de auxílios de Estado
+Artigo 59.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - As atividades de I&D respeitam o enquadramento europeu de auxílios de Estado nos termos definidos no n.º 1 do artigo 51.º
 
 2 - Os investimentos produtivos respeitam o enquadramento europeu de auxílios de Estado nos termos definidos no artigo 28.º
 
-##### SUBSECÇÃO IV — Empreendedorismo qualificado associado ao conhecimento
+SUBSECÇÃO IV
 
-###### Artigo 60.º — Tipologias de operação
+Empreendedorismo qualificado associado ao conhecimento
+
+Artigo 60.º
+
+Tipologias de operação
 
 No âmbito da tipologia de intervenção «Empreendedorismo Qualificado Associado ao Conhecimento» são apoiadas operações de criação de novas empresas e novos negócios que resultem de projetos de I&D, ou que detenham uma componente forte de valorização do conhecimento, incluindo em áreas intensivas em tecnologia e criatividade.
 
-###### Artigo 61.º — Modalidade de apresentação de candidaturas
+Artigo 61.º
+
+Modalidade de apresentação de candidaturas
 
 No âmbito da presente tipologia de intervenção, as candidaturas são apresentadas individualmente.
 
-###### Artigo 62.º — Natureza e elegibilidade dos beneficiários
+Artigo 62.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - São beneficiárias as micro e pequenas empresas em fase de arranque.
 
@@ -1158,7 +1338,9 @@ a) Demonstrar, através de uma avaliação efetuada por um perito externo, que n
 
 b) Apresentar custos de investigação e desenvolvimento que representem, pelo menos, 10 % do total dos seus custos de funcionamento em, pelo menos, um dos três anos que precederam a concessão do auxílio, ou, no caso de uma empresa em fase de arranque sem qualquer historial financeiro, na auditoria do seu exercício fiscal corrente, tal como certificado por um auditor externo.
 
-###### Artigo 63.º — Elegibilidade específica das operações
+Artigo 63.º
+
+Elegibilidade específica das operações
 
 Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º e no artigo 42.º, as operações devem ainda cumprir os seguintes requisitos:
 
@@ -1168,11 +1350,15 @@ b) Ter caráter inovador alicerçado em atividades de I&D concluídas com sucess
 
 c) Nos casos em que as operações prevejam despesas enquadradas no n.º 3 do artigo 66.º, encontrar-se o respetivo projeto de arquitetura aprovado pelas entidades competentes nos casos em que seja legalmente exigida a instrução de um procedimento de licença administrativa, ou ter sido apresentada a comunicação prévia na respetiva entidade nos casos em que seja legalmente permitido o procedimento de comunicação prévia e devidamente instruídos com os pareceres legalmente exigíveis.
 
-###### Artigo 64.º — Forma de apoio
+Artigo 64.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenção, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 65.º — Taxas de financiamento
+Artigo 65.º
+
+Taxas de financiamento
 
 1 - A taxa de financiamento máxima é de 75 %, até aos seguintes limites de incentivo:
 
@@ -1184,7 +1370,9 @@ c) 500 mil euros para empresas estabelecidas em territórios das regiões NUTS I
 
 2 - No caso das empresas inovadoras, os montantes máximos indicados no número anterior podem ser duplicados, nos termos previstos no aviso para apresentação de candidaturas.
 
-###### Artigo 66.º — Elegibilidade das despesas
+Artigo 66.º
+
+Elegibilidade das despesas
 
 1 - Consideram-se elegíveis as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação:
 
@@ -1208,31 +1396,45 @@ d) Para as despesas das alíneas a) e b) do número anterior, serem amortizávei
 
 3 - Em casos devidamente justificados, as operações podem ainda incluir a construção de edifícios, obras de remodelação e outras construções.
 
-###### Artigo 67.º — Obrigações dos beneficiários
+Artigo 67.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 11.º e no artigo 43.º, os beneficiários devem ainda assegurar, no mínimo, a manutenção dos postos de trabalho existentes à data da candidatura até à conclusão da operação.
 
-###### Artigo 68.º — Enquadramento europeu de auxílios de Estado
+Artigo 68.º
+
+Enquadramento europeu de auxílios de Estado
 
 As operações apoiadas no âmbito da presente tipologia de intervenção respeitam o artigo 22.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na sua redação atual.
 
-#### SECÇÃO III — Sistema de Incentivos de Base Territorial
+SECÇÃO III
 
-###### Artigo 69.º — Objetivos
+Sistema de Incentivos de Base Territorial
+
+Artigo 69.º
+
+Objetivos
 
 1 - O presente sistema de incentivos visa operacionalizar os apoios a operações de investimento de pequena dimensão para criação de micro e pequenas empresas e para a expansão ou modernização da sua atividade, incluindo os que estejam enquadrados em estratégias e abordagens territoriais, e que contribuam para o emprego e para a modernização e resiliência das economias locais.
 
 2 - Os apoios atribuídos ao abrigo do presente sistema de incentivos enquadram-se no Objetivo Específico 1.3 «Reforçar o crescimento sustentável e a competitividade das PME, bem como a criação de emprego nas PME, inclusive através de investimentos produtivos» do FEDER, e no FTJ, no objetivo específico único de «permitir às regiões e às pessoas abordar os impactos sociais, no emprego, económicos e ambientais da transição para as metas em matéria de energia e de clima da União para 2030 e para uma economia da União com impacto neutro no clima até 2050, com base no Acordo de Paris».
 
-###### Artigo 70.º — Tipologias de intervenção e de operação
+Artigo 70.º
+
+Tipologias de intervenção e de operação
 
 No âmbito Sistema de Incentivos de Base Territorial, são apoiadas operações para «criação, expansão ou modernização de micro e pequenas empresas».
 
-###### Artigo 71.º — Modalidade de apresentação de candidaturas
+Artigo 71.º
+
+Modalidade de apresentação de candidaturas
 
 As candidaturas são apresentadas individualmente ou em copromoção.
 
-###### Artigo 72.º — Natureza e elegibilidade dos beneficiários
+Artigo 72.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - São beneficiárias as micro e pequenas empresas.
 
@@ -1240,15 +1442,21 @@ As candidaturas são apresentadas individualmente ou em copromoção.
 
 3 - No caso de os beneficiários disporem de operações aprovadas, para o mesmo estabelecimento da empresa, ao abrigo da presente secção, ou de operações no âmbito dos apoios à criação de emprego e microempreendedorismo e apoios ao empreendedorismo previstos no Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, podem ser definidas, nos avisos para apresentação de candidaturas regras específicas quanto à conclusão das referidas operações, designadamente prevendo a obrigatoriedade da sua conclusão.
 
-###### Artigo 73.º — Elegibilidade específica das operações
+Artigo 73.º
+
+Elegibilidade específica das operações
 
 Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º, as operações elegíveis devem ainda, nos casos em que as operações preveem despesas enquadradas no n.º 3 do artigo 76.º, dispor do respetivo projeto de arquitetura aprovado pelas entidades competentes nos casos em que seja legalmente exigida a instrução de um procedimento de licença administrativa, ou ter apresentado a comunicação prévia na respetiva entidade nos casos em que seja legalmente permitido o procedimento de comunicação prévia, com os pareceres legalmente exigíveis.
 
-###### Artigo 74.º — Forma de apoio
+Artigo 74.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenção, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 75.º — Taxa de financiamento
+Artigo 75.º
+
+Taxa de financiamento
 
 1 - A taxa de financiamento das operações no âmbito do presente sistema de incentivos é calculada através da aplicação às despesas elegíveis de uma taxa base de:
 
@@ -1264,7 +1472,9 @@ a) Majoração Territórios Vulneráveis: até 10 p.p. para as sub-regiões do A
 
 b) Majoração Prioridades Regionais: até 10 p.p. nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 76.º — Elegibilidade das despesas
+Artigo 76.º
+
+Elegibilidade das despesas
 
 1 - Consideram-se elegíveis as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação:
 
@@ -1312,7 +1522,9 @@ e) Não corresponder a postos de trabalho de gerentes, administradores e/ou sóc
 
 7 - A elegibilidade das despesas referidas no n.º 5 depende da demonstração, por parte do beneficiário, da criação líquida de postos de trabalho.
 
-###### Artigo 77.º — Obrigações dos beneficiários
+Artigo 77.º
+
+Obrigações dos beneficiários
 
 1 - Para além das obrigações previstas no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 11.º, constitui ainda obrigações dos beneficiários, assegurar, no mínimo, a manutenção dos postos de trabalho existentes até à data de conclusão da operação.
 
@@ -1338,15 +1550,23 @@ v) A garantia que as infraestruturas estão preparadas para riscos climáticos, 
 
 vi) A garantia que os investimentos asseguram a eficiência no consumo de água nos edifícios a intervencionar, contribuindo para a conservação dos recursos hídricos e para a redução de consumos energéticos associados ao ciclo de urbano da água.
 
-###### Artigo 78.º — Enquadramento europeu de auxílios de Estado
+Artigo 78.º
+
+Enquadramento europeu de auxílios de Estado
 
 As operações apoiadas na presente secção respeitam o previsto no [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro, relativo aos auxílios de minimis, na sua redação atual.
 
-#### SECÇÃO IV — Sistema de Incentivos à Transição Climática e Energética
+SECÇÃO IV
 
-##### SUBSECÇÃO I — Normas gerais
+Sistema de Incentivos à Transição Climática e Energética
 
-###### Artigo 79.º — Objetivos
+SUBSECÇÃO I
+
+Normas gerais
+
+Artigo 79.º
+
+Objetivos
 
 1 - O presente sistema de incentivos visa:
 
@@ -1358,7 +1578,9 @@ c) Promover a economia circular e processos produtivos regenerativos, e melhorar
 
 2 - Os apoios atribuídos ao abrigo do presente sistema de incentivos enquadram-se nos Objetivos Específicos 2.1 «Promover a eficiência energética e reduzir as emissões de gases com efeito de estufa», 2.2 «Promover as energias renováveis, em conformidade com a [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), incluindo os critérios de sustentabilidade nela estabelecidos» e 2.6 «Promover a transição para uma economia circular e eficiente na utilização dos recursos» do FEDER.
 
-###### Artigo 80.º — Tipologias de intervenção
+Artigo 80.º
+
+Tipologias de intervenção
 
 No sistema de incentivos à transição climática e energética são apoiadas as seguintes tipologias de intervenção:
 
@@ -1366,9 +1588,13 @@ a) «Descarbonização das empresas»;
 
 b) «Diversificação da produção de energia a partir de fontes de energia renovável».
 
-##### SUBSECÇÃO II — Descarbonização das empresas
+SUBSECÇÃO II
 
-###### Artigo 81.º — Tipologias de operação
+Descarbonização das empresas
+
+Artigo 81.º
+
+Tipologias de operação
 
 Na tipologia de intervenção «Descarbonização das empresas», são suscetíveis de apoio as seguintes tipologias de operação, conjugadas com a tipologia prevista no artigo seguinte:
 
@@ -1378,17 +1604,23 @@ b) «Investimento Produtivo Verde», que visa o apoio ao desenvolvimento de novo
 
 c) «Qualificação Verde das PME», que visa apoiar domínios imateriais de competitividade focados em questões relacionadas com a temática da transição climática e energética, tais como a inovação organizacional, de gestão e logística sustentável, a digitalização e a transformação digital, a capacitação para o desenvolvimento de produtos, serviços e processos sustentáveis (eco-inovação), a qualidade e certificação, o eco-design; ou a transferência de conhecimento e tecnologia.
 
-###### Artigo 82.º — Operações de regime simplificado
+Artigo 82.º
+
+Operações de regime simplificado
 
 O apoio à aquisição de serviços de consultoria ou a projetos de pequena dimensão com vista à transição climática e energética pode ser enquadrado num regime simplificado, ao abrigo do regime de auxílios de minimis, nos termos e condições a fixar em aviso para apresentação de candidaturas.
 
-###### Artigo 83.º — Modalidade de apresentação de candidaturas
+Artigo 83.º
+
+Modalidade de apresentação de candidaturas
 
 1 - Nas tipologias de operação «Eficiência Energética e Descarbonização» e «Investimento Produtivo Verde», as candidaturas são apresentadas individualmente ou em copromoção.
 
 2 - Na tipologia de operação «Qualificação Verde das PME» as candidaturas são apresentadas individualmente, em conjunto ou em parceria.
 
-###### Artigo 84.º — Natureza e elegibilidade dos beneficiários
+Artigo 84.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - Nas tipologias de operação «Eficiência Energética e Descarbonização» e «Investimento Produtivo Verde», são beneficiárias empresas de qualquer dimensão.
 
@@ -1404,7 +1636,9 @@ a) Ter concluído as operações aprovadas ao abrigo da presente subsecção par
 
 b) No caso da tipologia de operação «Investimento Produtivo Verde», confirmar que não efetuou uma relocalização para o estabelecimento em que se realizará a operação prevista na candidatura, nos dois anos anteriores à data da sua apresentação, e comprometer-se a não o fazer por um período de dois anos após a conclusão da operação, conforme no n.º 16 do artigo 14.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na sua redação atual.
 
-###### Artigo 85.º — Elegibilidade específica das operações
+Artigo 85.º
+
+Elegibilidade específica das operações
 
 1 - Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º, as operações elegíveis à presente tipologia de intervenção devem ainda cumprir os seguintes requisitos:
 
@@ -1436,13 +1670,17 @@ ii) Nas operações em conjunto ou em parceria, ser sustentadas por um plano de 
 
 2 - Não são elegíveis investimentos destinados a reduzir as emissões de GEE provenientes de atividades enumeradas no anexo i da [Diretiva 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt).
 
-###### Artigo 86.º — Forma de apoio
+Artigo 86.º
+
+Forma de apoio
 
 1 - Os incentivos a conceder nas tipologias de operação «Eficiência Energética e Descarbonização» e «Qualificação Verde das PME» assumem a natureza de subvenções, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - Os incentivos a conceder na tipologia de operação «Investimento Produtivo Verde» podem assumir a forma de subvenção ou um formato híbrido, integrando uma subvenção e uma componente de empréstimo, podendo esta última ser concedida através de um Instrumento Financeiro financiado pelo Portugal 2030.
 
-###### Artigo 87.º — Taxas de financiamento
+Artigo 87.º
+
+Taxas de financiamento
 
 1 - Na tipologia de operação «Eficiência Energética e Descarbonização», a taxa de financiamento das operações é obtida da seguinte forma:
 
@@ -1464,7 +1702,9 @@ d) As taxas base referidas nas alíneas anterior são reduzidas para até 15 %, 
 
 3 - Na tipologia de operação «Qualificação Verde das PME», a taxa de financiamento é obtida nos termos do artigo 34.º
 
-###### Artigo 88.º — Elegibilidade das despesas
+Artigo 88.º
+
+Elegibilidade das despesas
 
 1 - Na tipologia de operação «Eficiência Energética e Descarbonização»:
 
@@ -1514,11 +1754,15 @@ e) No caso das operações em conjunto ou em parceria, custos com o acompanhamen
 
 4 - No caso da tipologia de operação «Qualificação Verde das PME», não são elegíveis custos diretamente relacionados com a área produtiva ou operacional dos beneficiários.
 
-###### Artigo 89.º — Obrigações dos beneficiários
+Artigo 89.º
+
+Obrigações dos beneficiários
 
 No âmbito das tipologias de operação «Eficiência Energética/Descarbonização» e «Investimento Produtivo Verde», os avisos para apresentação de candidaturas definem as obrigações dos beneficiários em matéria de auditoria energética, sendo que, em regra, os beneficiários devem realizar uma auditoria energética antes e após a realização da operação, de modo a aferir a redução das emissões de GEE ou, quando aplicável, a poupança de energia primária.
 
-###### Artigo 90.º — Enquadramento europeu de auxílios de Estado
+Artigo 90.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - As operações enquadradas na tipologia de operação «Eficiência energética e Descarbonização» respeitam os artigos 38.º e 38.º-A do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na redação atual.
 
@@ -1534,33 +1778,49 @@ c) O artigo 31.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli
 
 d) O [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt) da Comissão, de 18 de dezembro, com as alterações introduzidas pelo [Regulamento (UE) 2020/972](https://data.europa.eu/eli/reg/2020/972/oj?locale=pt), de 2 de julho, relativo aos auxílios de minimis, para as despesas previstas na alínea e) do n.º 3 do artigo 88.º
 
-##### SUBSECÇÃO III — Diversificação da produção de energia a partir de fontes de energia renovável
+SUBSECÇÃO III
 
-###### Artigo 91.º — Tipologias de operação
+Diversificação da produção de energia a partir de fontes de energia renovável
+
+Artigo 91.º
+
+Tipologias de operação
 
 Na presente tipologia de intervenção são suscetíveis de apoio as operações de «Produção de energia renovável», que visam promover a produção e o uso de energia renovável, em particular a partir de fontes e tecnologias não suficientemente disseminadas no mercado.
 
-###### Artigo 92.º — Modalidade de apresentação de candidaturas
+Artigo 92.º
+
+Modalidade de apresentação de candidaturas
 
 Na presente tipologia de intervenção, as candidaturas são apresentadas individualmente.
 
-###### Artigo 93.º — Beneficiários
+Artigo 93.º
+
+Beneficiários
 
 Na presente tipologia de intervenção são beneficiárias empresas de qualquer dimensão.
 
-###### Artigo 94.º — Elegibilidade específica das operações
+Artigo 94.º
+
+Elegibilidade específica das operações
 
 Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º, as operações elegíveis à presente tipologia de intervenção, devem ainda corresponder a uma nova instalação que ainda não se encontre em funcionamento.
 
-###### Artigo 95.º — Forma de apoio
+Artigo 95.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenções, na forma de custos reais.
 
-###### Artigo 96.º — Taxas de financiamento
+Artigo 96.º
+
+Taxas de financiamento
 
 A taxa de financiamento das operações no âmbito da presente tipologia de intervenção é de até 100 % das despesas elegíveis.
 
-###### Artigo 97.º — Elegibilidade das despesas
+Artigo 97.º
+
+Elegibilidade das despesas
 
 Na presente tipologia de operação, consideram-se elegíveis os custos totais de investimento necessários para promover a produção de energia a partir de fontes renováveis, sendo consideradas as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação:
 
@@ -1570,27 +1830,41 @@ b) Ativos incorpóreos, incluindo a transferência de conhecimento tecnologia at
 
 c) Outras despesas de investimento, incluindo despesas com a intervenção de contabilistas certificados ou de revisores oficiais de contas, na validação da despesa dos pedidos de pagamento; estudos, diagnósticos e auditorias, designadamente energéticas e certificações.
 
-###### Artigo 98.º — Enquadramento europeu de auxílios de Estado
+Artigo 98.º
+
+Enquadramento europeu de auxílios de Estado
 
 As operações enquadradas na tipologia de operação «Produção de energia renovável» respeitam o artigo 41.º [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na redação atual.
 
-#### SECÇÃO V — Sistema de Incentivos à Qualificação de Recursos Humanos
+SECÇÃO V
 
-##### SUBSECÇÃO I — Disposições comuns
+Sistema de Incentivos à Qualificação de Recursos Humanos
 
-###### Artigo 99.º — Objetivos
+SUBSECÇÃO I
+
+Disposições comuns
+
+Artigo 99.º
+
+Objetivos
 
 1 - O presente sistema de incentivos tem por objetivo promover intervenções que, atuando do lado da procura, permitam dar resposta aos desafios de transformação do tecido empresarial, quer no âmbito das políticas públicas de inovação, qualificação e internacionalização das empresas, quer na área das transições gémeas, digital e climática, onde as necessidades de qualificações são centrais, de forma a permitir uma efetiva adaptação às mudanças necessárias para promover a competitividade das empresas, ajustando o desenvolvimento de competências às necessidades reveladas pelo mercado de trabalho.
 
 2 - Os apoios atribuídos ao abrigo do presente sistema de incentivos enquadram-se no Objetivo Específico 4.d «Promover a adaptação dos trabalhadores, das empresas e dos empresários à mudança, o envelhecimento ativo e saudável e um ambiente de trabalho saudável e bem-adaptado capaz de prevenir riscos para a saúde», do FSE+.
 
-###### Artigo 100.º — Tipologias de intervenção
+Artigo 100.º
+
+Tipologias de intervenção
 
 No sistema de incentivos à qualificação de recursos humanos são apoiadas as tipologias de intervenção «Qualificação de empresários e trabalhadores das empresas» e «Inserção de recursos humanos altamente qualificados».
 
-##### SUBSECÇÃO II — Qualificação de empresários e trabalhadores das empresas
+SUBSECÇÃO II
 
-###### Artigo 101.º — Tipologias de operação
+Qualificação de empresários e trabalhadores das empresas
+
+Artigo 101.º
+
+Tipologias de operação
 
 Na presente tipologia de intervenção são suscetíveis de apoio as seguintes tipologias de operação:
 
@@ -1598,11 +1872,15 @@ a) «Formação empresarial individual», operações de formação promovidas p
 
 b) «Formação empresarial conjunta», operações de formação organizadas através de um programa estruturado de qualificação de empresários e de trabalhadores, dirigido a um conjunto de empresas participantes a quem se destina a formação, na qual se inclui o recurso à metodologia de formação-ação, que prevê formação, alternada, em sala e on the job.
 
-###### Artigo 102.º — Modalidade de apresentação de candidaturas
+Artigo 102.º
+
+Modalidade de apresentação de candidaturas
 
 Na presente tipologia de intervenção, as candidaturas podem ser apresentadas individualmente. em conjunto ou em parceria.
 
-###### Artigo 103.º — Elegibilidade das operações
+Artigo 103.º
+
+Elegibilidade das operações
 
 Para além dos requisitos de elegibilidade fixados no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º, as operações elegíveis à tipologia de intervenção «Formação empresarial conjunta», devem ainda cumprir os seguintes requisitos:
 
@@ -1616,7 +1894,9 @@ d) Identificar as competências internas e externas necessárias ao desenvolvime
 
 e) Os grupos formativos podem ser organizados em modelos de formação interempresas ou intraempresas, sendo que, nas operações que recorram à metodologia de formação-ação, a componente de formação realizada individualmente nas empresas participantes (on the job), só pode ser organizada em modelo intraempresa.
 
-###### Artigo 104.º — Natureza e elegibilidade dos beneficiários
+Artigo 104.º
+
+Natureza e elegibilidade dos beneficiários
 
 São beneficiários da presente tipologia de intervenção:
 
@@ -1630,11 +1910,15 @@ d) Entidades formadoras certificadas ao abrigo do regime estabelecido pela [Port
 
 e) Organismos responsáveis pela concretização de instrumentos de política pública, podendo para o efeito dispor de estrutura própria certificada ou recorrer a entidade formadora certificada ou equiparada.
 
-###### Artigo 105.º — Forma de apoio
+Artigo 105.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenções, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidatura.
 
-###### Artigo 106.º — Taxas de financiamento
+Artigo 106.º
+
+Taxas de financiamento
 
 1 - O incentivo a conceder é determinado a partir da aplicação de uma taxa base de até 50 %, que pode ser acrescida das seguintes majorações, não podendo a taxa global ultrapassar 70 % do custo elegível financiado:
 
@@ -1644,7 +1928,9 @@ b) Em 10 p.p. se o incentivo for concedido a médias empresas e em 20 p.p. se fo
 
 2 - Na tipologia de operação prevista na alínea b) do artigo 101.º que recorra à metodologia de formação-ação, os custos com a componente de formação realizada individualmente nas empresas participantes, on the job, são financiados com uma taxa de até 90 % do custo elegível.
 
-###### Artigo 107.º — Elegibilidade das despesas
+Artigo 107.º
+
+Elegibilidade das despesas
 
 Para a presente tipologia de intervenção são elegíveis as seguintes despesas:
 
@@ -1662,7 +1948,9 @@ f) Encargos diretos com a preparação, desenvolvimento, acompanhamento e avalia
 
 g) Encargos gerais da operação, incluindo as despesas necessárias à respetiva conceção, desenvolvimento e gestão, nomeadamente as despesas correntes com energia, água, comunicações, materiais consumíveis e bens não duradouros, as despesas gerais de manutenção de equipamentos e instalações, as despesas com consultas jurídicas e emolumentos notariais e com peritagens técnicas e financeiras.
 
-###### Artigo 108.º — Enquadramento europeu de auxílios de Estado
+Artigo 108.º
+
+Enquadramento europeu de auxílios de Estado
 
 As operações apoiadas no âmbito da presente tipologia de intervenção respeitam o seguinte enquadramento europeu de auxílios de Estado:
 
@@ -1670,9 +1958,13 @@ a) O artigo 31.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli
 
 b) O [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis, o [Regulamento (UE) n.º 1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt), de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis no setor agrícola, ou o [Regulamento (UE) n.º 717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), de 27 de junho, na sua redação atual, relativo aos auxílios de minimis no setor das pescas e da aquicultura, para as despesas previstas na alínea c) do artigo 107.º
 
-##### SUBSECÇÃO III — Inserção de recursos humanos altamente qualificados
+SUBSECÇÃO III
 
-###### Artigo 109.º — Tipologias de operação
+Inserção de recursos humanos altamente qualificados
+
+Artigo 109.º
+
+Tipologias de operação
 
 No âmbito da presente tipologia de intervenção são suscetíveis de apoio as seguintes tipologias de operação:
 
@@ -1682,11 +1974,15 @@ b) «Contratação de Recursos Humanos Altamente Qualificados em infraestruturas
 
 c) «Contratação de Recursos Humanos Altamente Qualificados noutras entidades públicas ou associativas de natureza não empresarial».
 
-###### Artigo 110.º — Modalidade de apresentação de candidaturas
+Artigo 110.º
+
+Modalidade de apresentação de candidaturas
 
 Na presente tipologia de intervenção deve ser adotada a modalidade de apresentação individual de candidaturas.
 
-###### Artigo 111.º — Elegibilidade das operações
+Artigo 111.º
+
+Elegibilidade das operações
 
 Para além dos requisitos de elegibilidade fixados no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 7.º, as operações devem ainda satisfazer os seguintes requisitos:
 
@@ -1696,7 +1992,7 @@ b) O grau académico dos recursos humanos a contratar deve ser atribuído por in
 
 c) Quando estejam em causa licenciados e mestres, para além do grau académico, deverá ser evidenciada especialização profissional específica relevante para a área de contratação, no contexto empresarial ou regional em que o beneficiário se insere, sendo exigida uma experiência profissional mínima de 5 anos;
 
-d) Apresentar um programa de inserção dos recursos humanos na dinâmica do beneficiário, identificando os objetivos e as tarefas a atribuir, evidenciando o contributo esperado para a concretização da estratégia de inovação da empresa em matéria de processos e organização, bem como para o reforço das competências empresariais em I&D&I e para a intensificação das interações entre empresas e outras entidades do sistema nacional de I&I;
+d) Apresentar um programa de inserção dos recursos humanos na dinâmica do beneficiário, identificando os objetivos e as tarefas a atribuir, evidenciando o contributo esperado para a concretização da estratégia de inovação da empresa em matéria de processos e organização, bem como para o reforço das competências empresariais em I&D&I e para a intensificação das interações entre empresas e outras entidades do sistema nacional de I&I
 
 e) Ter por base a existência de contrato de trabalho sem termo entre o trabalhador e o beneficiário;
 
@@ -1714,7 +2010,9 @@ i) As contratações não podem corresponder a postos de trabalho de gerentes, a
 
 j) Registar uma criação líquida de postos de trabalho, ao nível dos recursos humanos altamente qualificados, calculada pela diferença entre a média mensal do ano da conclusão do projeto e a média mensal do ano pré-projeto.
 
-###### Artigo 112.º — Natureza e elegibilidade dos beneficiários
+Artigo 112.º
+
+Natureza e elegibilidade dos beneficiários
 
 São beneficiários da presente tipologia de intervenção:
 
@@ -1724,11 +2022,15 @@ b) Entidades não empresariais do Sistema de Investigação & Inovação, inclui
 
 c) Outras entidades de natureza não empresarial, quando previstas no Programa financiador, no contexto de projetos âncora públicos, associativos ou empresariais associados a estratégias de eficiência coletiva ou à territorialização da estratégia regional de especialização inteligente.
 
-###### Artigo 113.º — Forma de apoio
+Artigo 113.º
+
+Forma de apoio
 
 Os incentivos a conceder no âmbito da presente tipologia de intervenção assumem a natureza de subvenções, na forma de custos reais e ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 114.º — Taxas de financiamento
+Artigo 114.º
+
+Taxas de financiamento
 
 1 - As taxas de financiamento das operações na presente tipologia de intervenção são as seguintes:
 
@@ -1738,7 +2040,9 @@ b) Taxa base até 85 % das despesas elegíveis, para ENESII e outras entidades d
 
 2 - Sem prejuízo do disposto na alínea b) do n.º anterior, para poderem beneficiar de uma taxa base de até 85 %, as entidades devem demonstrar que o incentivo concedido não se enquadra no regime de auxílios de Estado nos termos previstos no enquadramento dos auxílios estatais à investigação, desenvolvimento e inovação - Comunicação 2022/C 414/01 -, relativamente ao financiamento público de atividades não económicas.
 
-###### Artigo 115.º — Elegibilidade das despesas
+Artigo 115.º
+
+Elegibilidade das despesas
 
 1 - No âmbito da presente tipologia de intervenção, são elegíveis os custos salariais com a contratação de recursos humanos altamente qualificados, sendo, sem prejuízo do previsto na alínea h) do artigo 111.º, estabelecidos limiares mínimos e máximos de elegibilidade dos mesmos em aviso para apresentação de candidaturas.
 
@@ -1746,17 +2050,25 @@ b) Taxa base até 85 % das despesas elegíveis, para ENESII e outras entidades d
 
 3 - Considera-se salário base o conjunto de todas as remunerações de caráter certo e permanente sujeitas a tributação fiscal e declaradas para efeitos de proteção social do trabalhador, considerando-se elegíveis os subsídios de férias e de Natal, sendo a sua determinação feita nos termos do enquadramento legal aplicável.
 
-###### Artigo 116.º — Obrigações dos beneficiários
+Artigo 116.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 11.º, é ainda exigível a manutenção no beneficiário dos postos de trabalho apoiados, durante três anos a partir da data da conclusão da operação, e na localização do projeto, podendo os quadros técnicos contratados ser substituídos, desde que por outros com qualificação mínima equivalente.
 
-###### Artigo 117.º — Enquadramento europeu de auxílios de Estado
+Artigo 117.º
+
+Enquadramento europeu de auxílios de Estado
 
 Para os beneficiários empresas, previstos na alínea a) do artigo 109.º, as operações respeitam o artigo 29.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, na sua redação atual.
 
-### CAPÍTULO III — Regime contratual de investimento (RCI)
+CAPÍTULO III
 
-###### Artigo 118.º — Enquadramento das operações no RCI
+Regime contratual de investimento (RCI)
+
+Artigo 118.º
+
+Enquadramento das operações no RCI
 
 1 - As operações candidatas ao Sistema de Incentivos à Competitividade Empresarial na tipologia de intervenção «Inovação Produtiva», ao Sistema de Incentivos à Investigação e Desenvolvimento, na tipologia de intervenção «Investigação e Desenvolvimento Empresarial», e ao sistema de incentivo à Transição Climática e Energética, nas tipologias de operação «Eficiência energética e Descarbonização», «Investimento Produtivo Verde» e «Produção de energia renovável»), previstos nas alíneas a), b) e d) do n.º 1 do artigo 2.º, e regulamentados no Capítulo II são passíveis de enquadramento no regime contratual de investimento, previsto no [Decreto-Lei n.º 191/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2014-66012653), de 31 de dezembro.
 
@@ -1782,13 +2094,17 @@ b) No caso de estarem localizadas nas NUTS II de Lisboa e Algarve, nos territór
 
 7 - No regime contratual de investimento podem ser aplicadas regras diferentes das previstas no presente diploma quando os beneficiários demonstrem a existência, no âmbito dos fundos europeus, de regime de incentivos ao investimento nas empresas mais favorável noutro país da União Europeia, sem prejuízo do cumprimento das regras de auxílios de Estado, incluindo a respetiva notificação, e das regras de elegibilidade estabelecidas nos programas.
 
-###### Artigo 119.º — Aviso para apresentação de candidaturas
+Artigo 119.º
+
+Aviso para apresentação de candidaturas
 
 1 - Sem prejuízo do disposto no artigo 5.º, as candidaturas ao regime contratual de investimento são apresentadas em contínuo, no âmbito de avisos para apresentação de candidaturas.
 
 2 - Para além do previsto no n.º 2 do artigo 5, os avisos para apresentação de candidaturas ao regime contratual de investimento podem ainda conjugar diferentes fontes de financiamento.
 
-###### Artigo 120.º — Efeito de incentivo
+Artigo 120.º
+
+Efeito de incentivo
 
 1 - Sem prejuízo do disposto na alínea a) do artigo 7.º, as operações do regime contratual de investimento têm de demonstrar o efeito de incentivo, em conformidade com o ponto 5.2 das orientações relativas aos auxílios estatais com finalidade regional para 2022-2027 (2021/C 153/01), com o ponto 3.1.2 do enquadramento dos auxílios estatais à investigação, desenvolvimento e inovação (2022/C 414/01) ou com o ponto 3.1.2 das Orientações relativas a auxílios estatais à proteção do clima e do ambiente e à energia 2022 (2022/C 80/01), conforme aplicável, podendo fazê-lo das seguintes formas:
 
@@ -1798,11 +2114,15 @@ b) Decisão de localização: o financiamento incentiva a realização do invest
 
 2 - Caso não se demonstre o efeito de incentivo nos termos do número anterior, para as operações localizadas nas NUTS II Norte, Centro e Alentejo considera-se que há efeito de incentivo quando, na ausência do financiamento, a realização do investimento na respetiva região não teria sido suficientemente rentável para o beneficiário, resultando no encerramento de um estabelecimento existente nessa região.
 
-###### Artigo 121.º — Beneficiários
+Artigo 121.º
+
+Beneficiários
 
 Em derrogação do disposto no n.º 1 do artigo 22.º e no n.º 1 do artigo 46.º, são elegíveis ao regime contratual de investimento empresas de qualquer dimensão.
 
-###### Artigo 122.º — Taxas de financiamento
+Artigo 122.º
+
+Taxas de financiamento
 
 1 - As operações enquadráveis no regime contratual de investimento são sujeitas a um processo negocial específico, o qual compreende as fases de análise, negociação e renegociação, decisão, contratualização e resolução, sendo-lhe aplicável o regime especial previsto no [Decreto-Lei n.º 191/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2014-66012653), de 31 de dezembro.
 
@@ -1810,11 +2130,17 @@ Em derrogação do disposto no n.º 1 do artigo 22.º e no n.º 1 do artigo 46.�
 
 3 - As taxas máximas de financiamento das despesas elegíveis são definidas nos termos do artigo 24.º, do artigo 49.º e do artigo 87.º
 
-## TÍTULO III — Sistemas de apoio
+TÍTULO III
 
-### CAPÍTULO I — Disposições comuns
+Sistemas de apoio
 
-###### Artigo 123.º — Aviso para apresentação de candidaturas
+CAPÍTULO I
+
+Disposições comuns
+
+Artigo 123.º
+
+Aviso para apresentação de candidaturas
 
 1 - As candidaturas aos Sistemas de Apoio são apresentadas no âmbito de avisos para apresentação de candidaturas, conforme previsto no artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
@@ -1822,7 +2148,9 @@ Em derrogação do disposto no n.º 1 do artigo 22.º e no n.º 1 do artigo 46.�
 
 3 - Pode verificar-se a suspensão de aviso para apresentação de candidaturas, em casos devidamente fundamentados, nos termos da alínea b) do n.º 8 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, designadamente decorrentes de situações de dotações orçamentais insuficientes para a abertura de novos concursos.
 
-###### Artigo 124.º — Elegibilidade dos beneficiários
+Artigo 124.º
+
+Elegibilidade dos beneficiários
 
 Sem prejuízo do disposto no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e de outros especificamente referidos para cada sistema de apoio, são exigíveis à data da candidatura e até à conclusão da operação os seguintes requisitos:
 
@@ -1830,7 +2158,9 @@ a) Apresentar uma situação económico-financeira equilibrada e demonstrar ter 
 
 b) Declarar que não tem salários em atraso.
 
-###### Artigo 125.º — Princípio «não prejudicar significativamente» e metas climáticas e ambientais
+Artigo 125.º
+
+Princípio «não prejudicar significativamente» e metas climáticas e ambientais
 
 1 - O princípio «Não Prejudicar Significativamente» (DNSH), previsto na alínea d) do artigo 4.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, visa garantir que o impacto ambiental gerado pela atividade económica e pelos produtos e serviços ao longo de todo o seu ciclo de vida respeita as normas e prioridades da União Europeia (UE) em matéria de clima e ambiente e não prejudica significativamente, nos termos do artigo 17.º do [Regulamento (UE) 2020/852](https://data.europa.eu/eli/reg/2020/852/oj?locale=pt), de 18 de junho, do Parlamento e do Conselho, nenhum dos objetivos ambientais estabelecidos no artigo 9.º do mesmo Regulamento.
 
@@ -1838,13 +2168,17 @@ b) Declarar que não tem salários em atraso.
 
 3 - Os avisos para apresentação de candidaturas podem igualmente estabelecer obrigações e requisitos adicionais a verificar no âmbito do princípio «não prejudicar significativamente», bem como para efeitos do cumprimento das metas climáticas e das metas ambientais previstas nos programas.
 
-###### Artigo 126.º — Apoio aos objetivos em matéria de alterações climáticas
+Artigo 126.º
+
+Apoio aos objetivos em matéria de alterações climáticas
 
 1 - Os avisos para apresentação de candidaturas definem os requisitos necessários para assegurar o cumprimento das metas climáticas previstas nos programas, nomeadamente associadas às tipologias de intervenção da Secção II, do Capítulo II do presente Título, tendo em consideração os coeficientes para o cálculo do apoio àqueles objetivos definidos no anexo I do [Regulamento (UE) n.º 2021/1060](https://data.europa.eu/eli/reg/2021/1060/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de junho de 2021.
 
 2 - Na digitalização das PME, os apoios serão contabilizados em 40 % para as metas climáticas se a atividade tratar ou recolher dados para permitir reduções das emissões de gases com efeito de estufa que se traduzam em reduções substanciais comprovadas das emissões de gases com efeito de estufa ao longo do ciclo de vida, ou se o objetivo da medida exigir que os centros de dados cumpram o código de conduta europeu relativo à eficiência energética dos centros de dados.
 
-###### Artigo 127.º — Elegibilidade das despesas
+Artigo 127.º
+
+Elegibilidade das despesas
 
 1 - Sem prejuízo do estabelecido no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, bem como de outras despesas definidas para cada uma das tipologias dos Sistemas de Apoio previstos no presente regulamento, e do previsto nas metodologias de custos simplificados, são consideradas não elegíveis, as seguintes despesas:
 
@@ -1878,7 +2212,9 @@ c) Adaptação ou remodelação de edifícios.
 
 4 - Sem prejuízo do disposto nos números anteriores, apenas é elegível a despesa declarada pelo beneficiário que seja considerada adequada, tendo em conta a sua razoabilidade, incluindo face às condições de mercado, e que resulte de aquisições a terceiros não relacionados com o adquirente.
 
-###### Artigo 128.º — Obrigações dos beneficiários
+Artigo 128.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e de outras específicas fixadas no presente regulamento para cada sistema de apoio, constituem ainda obrigações dos beneficiários:
 
@@ -1904,7 +2240,9 @@ j) Assegurar, quando aplicável, que os investimentos realizados se encontram al
 
 k) Nas operações de infraestruturas com um prazo de vida útil previsto de, pelo menos, cinco anos, demonstrar que as mesmas asseguraram a resistência às alterações climáticas.
 
-###### Artigo 129.º — Contribuição privada e receitas geradas
+Artigo 129.º
+
+Contribuição privada e receitas geradas
 
 1 - Para efeito do n.º 5 do artigo 31.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, a contribuição privada no âmbito dos sistemas de apoio previstos no presente capítulo pode ser assegurada por outras entidades que não o beneficiário, desde que não se constituam como prestadores de serviços no âmbito da operação, devendo ser demonstrada a sua disponibilidade, nos termos previstos em aviso para apresentação de candidaturas;
 
@@ -1920,23 +2258,31 @@ b) As receitas realizadas durante a execução da operação são deduzidas ao c
 
 5 - Sempre que se encontre prevista a relevação das receitas geradas durante a execução, o respetivo montante é relevado, por estimativa e quando possível, no momento da decisão, para efeitos de apuramento dos montantes a financiar, e no final da operação, em sede de apuramento do saldo final, tendo em consideração as receitas efetivamente realizadas.
 
-###### Artigo 130.º — Pagamentos aos beneficiários
+Artigo 130.º
+
+Pagamentos aos beneficiários
 
 1 - Os pagamentos a efetuar aos beneficiários observam o regime previsto no artigo 28.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e o disposto em regulamento administrativo emitido pelo órgão pagador do Portugal 2030 e em aviso para apresentação de candidaturas.
 
 2 - Sem prejuízo do referido no número anterior, os pedidos de pagamento apresentados pelo beneficiário, com base em custos reais, têm de ser justificados através de faturas eletrónicas pagas ou documentos fiscalmente equivalentes ou outros documentos contabilísticos de valor probatório equivalente.
 
-###### Artigo 131.º — Condições de alteração dos projetos
+Artigo 131.º
+
+Condições de alteração dos projetos
 
 1 - O calendário de realização das operações pode ser objeto de atualização até à assinatura do termo de aceitação, desde que não seja alterada a duração aprovada em sede de decisão e que o adiamento do prazo de início de execução da operação respeite o disposto no n.º 2 do artigo 27.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, sem prejuízo do previsto no n.º 3 do mesmo artigo.
 
 2 - Após a assinatura do termo de aceitação, os resultados contratados, o calendário de realização, o momento de avaliação e as metas aprovadas podem ser objeto de revisão, em casos excecionais devidamente fundamentados, nos termos do n.º 8 do artigo 25.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-###### Artigo 132.º — Critérios de seleção
+Artigo 132.º
+
+Critérios de seleção
 
 A seleção das operações respeita a metodologia e critérios aprovados pelos comités de acompanhamento dos programas financiadores e pondera fatores como a adequação à estratégia, a qualidade e o impacto da operação, e a capacidade de execução.
 
-###### Artigo 133.º — Indicadores de realização e de resultado
+Artigo 133.º
+
+Indicadores de realização e de resultado
 
 1 - Nos termos do n.º 2 do artigo 22.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, os mecanismos de bonificação e ou de penalização são aplicados em função do grau de cumprimento dos resultados contratualizados, estabelecidos através dos indicadores de realização e ou de resultado associados à aprovação do financiamento, para este efeito definidos nos avisos para apresentação de candidaturas.
 
@@ -1960,11 +2306,17 @@ A seleção das operações respeita a metodologia e critérios aprovados pelos 
 
 11 - Para as tipologias de operação em que não sejam estabelecidos mecanismos de bonificação ou de penalização, devem os avisos para apresentação de candidaturas prever, nos termos do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, a apresentação pelo beneficiário, no pedido de pagamento de saldo final, de uma autoavaliação qualitativa das realizações e resultados atingidos.
 
-### CAPÍTULO II — Disposições específicas
+CAPÍTULO II
 
-#### SECÇÃO I — Sistema de Apoio à Criação de Conhecimento Científico e Tecnológico
+Disposições específicas
 
-###### Artigo 134.º — Objetivos
+SECÇÃO I
+
+Sistema de Apoio à Criação de Conhecimento Científico e Tecnológico
+
+Artigo 134.º
+
+Objetivos
 
 1 - O presente Sistema de Apoio tem como objetivo o desenvolvimento e reforço das capacidades de investigação científica e tecnológica reconhecida internacionalmente e alinhada com os domínios prioritários da estratégia de investigação e inovação para uma especialização inteligente (RIS3), estimulando uma economia de elevado valor acrescentado, bem como a excelência, a cooperação e a internacionalização através de:
 
@@ -1976,11 +2328,15 @@ c) Aumento da valorização económica do conhecimento.
 
 2 - Os apoios atribuídos ao abrigo do presente sistema de apoio enquadram-se no Objetivo Específico 1.1 «Desenvolver e reforçar as capacidades de investigação e inovação e a adoção de tecnologias avançadas» do FEDER.
 
-###### Artigo 135.º — Tipologias de intervenção
+Artigo 135.º
+
+Tipologias de intervenção
 
 No âmbito do presente Sistema de Apoio são apoiadas as tipologias de intervenção «Investigação Científica e Tecnológica» e «Infraestruturas de Ciência e Tecnologia».
 
-###### Artigo 136.º — Tipologias de operação
+Artigo 136.º
+
+Tipologias de operação
 
 1 - No âmbito da tipologia de intervenção «Investigação Científica e Tecnológica» são suscetíveis de apoio as seguintes tipologias de operação:
 
@@ -2006,7 +2362,9 @@ d) «Internacionalização de I&D», operações que visam o apoio à preparaç�
 
 3 - As tipologias de operação previstas no n.º 1 podem ser mobilizadas para financiar atividades de I&D decorrentes da participação em projetos, parcerias ou programas europeus de I&I, nos termos previstos na regulamentação europeia.
 
-###### Artigo 137.º — Modalidade de apresentação de candidaturas
+Artigo 137.º
+
+Modalidade de apresentação de candidaturas
 
 1 - No âmbito do presente Sistema de Apoio as candidaturas podem ser apresentadas individualmente ou em copromoção.
 
@@ -2016,7 +2374,9 @@ d) «Internacionalização de I&D», operações que visam o apoio à preparaç�
 
 4 - Nas operações apresentadas em copromoção, a entidade líder é, obrigatoriamente, uma ENESII, podendo envolver a participação de empresas enquanto copromotoras, exceto na tipologia de intervenção «Infraestruturas de Ciência e Tecnologia».
 
-###### Artigo 138.º — Elegibilidade das operações
+Artigo 138.º
+
+Elegibilidade das operações
 
 1 - Para além dos requisitos de elegibilidade fixados no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, as operações devem ainda satisfazer os seguintes requisitos:
 
@@ -2042,11 +2402,13 @@ c) Identificar um responsável pela operação que deve corresponder ao investig
 
 4 - As operações apoiam projetos de investigação aplicada e inovação, incluindo atividades de investigação industrial, atividades de desenvolvimento experimental e estudos de viabilidade e podendo, de modo auxiliar e acessório, abranger atividades de investigação a montante sempre que indispensáveis para a prossecução do projeto de modo integrado, em condições a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 139.º — Natureza e elegibilidade dos beneficiários
+Artigo 139.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - São beneficiárias as ENESII, nomeadamente:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado, Laboratórios Associados ou internacionais com a sede em Portugal;
 
@@ -2058,11 +2420,15 @@ d) Outras instituições públicas e privadas, sem fins lucrativos, que desenvol
 
 3 - No caso das operações financiadas pelo Programa Inovação e Transição Digital, podem ainda ser beneficiárias as ENESII das regiões autónomas dos Açores e da Madeira, desde que em copromoção com entidades localizadas nas regiões menos desenvolvidas do continente.
 
-###### Artigo 140.º — Forma de apoio
+Artigo 140.º
+
+Forma de apoio
 
 Os apoios a conceder no âmbito do presente sistema de apoio revestem a natureza de subvenções, na forma de custos reais e ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 141.º — Taxas de financiamento
+Artigo 141.º
+
+Taxas de financiamento
 
 1 - O apoio a conceder no âmbito das tipologias de operação «IC&DT», «Provas de conceito» e «Infraestruturas Científicas» é calculado através da aplicação às despesas elegíveis de uma taxa base até:
 
@@ -2084,11 +2450,15 @@ b) Em até 20 p. p. para micro e pequenas empresas.
 
 5 - No caso das tipologias de operação «Proteção de propriedade intelectual e industrial» e «Internacionalização de I&D», o apoio a conceder é calculado através da aplicação às despesas elegíveis de uma taxa de até 85 %.
 
-###### Artigo 142.º — Cumulação de apoios
+Artigo 142.º
+
+Cumulação de apoios
 
 Para as mesmas despesas elegíveis, os apoios concedidos ao abrigo do presente sistema de apoio não são cumuláveis com quaisquer outros da mesma natureza, exceto no caso das operações de «IC&DT» e «Infraestruturas Científicas», em que a contrapartida nacional pode ser assegurada por via de outros apoios públicos, no respeito pelos limites previstos nas regras europeias de auxílios de Estado.
 
-###### Artigo 143.º — Elegibilidade das despesas
+Artigo 143.º
+
+Elegibilidade das despesas
 
 1 - Nas tipologias de operação «IC&DT» e «Provas de Conceito», são consideradas elegíveis as seguintes despesas:
 
@@ -2136,7 +2506,9 @@ d) Custos com a demonstração, promoção e divulgação dos resultados da oper
 
 7 - Para além do disposto no artigo 127.º, não são elegíveis os custos com a amortização de equipamento já existente, na componente que haja sido cofinanciada ao abrigo de outros programas nacionais ou internacionais.
 
-###### Artigo 144.º — Obrigações dos beneficiários
+Artigo 144.º
+
+Obrigações dos beneficiários
 
 1 - Para além das obrigações previstas no artigo 128.º, são ainda exigíveis as seguintes obrigações:
 
@@ -2160,7 +2532,9 @@ iv) Garantir que das obras efetuadas resultará a redução do uso de energia e 
 
 v) Garantir a utilização de materiais reciclados e cumprimento do Protocolo de Gestão de Resíduos de Construção e Demolição da União Europeia.
 
-###### Artigo 145.º — Enquadramento europeu de auxílios de Estado
+Artigo 145.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - Os apoios atribuídos às empresas para a realização de operações enquadradas nas tipologias de operação «IC&DT» e «Provas de Conceito» respeitam o seguinte enquadramento europeu:
 
@@ -2188,9 +2562,13 @@ b) O artigo 29.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli
 
 4 - Apoios a ENESII que consubstanciem auxílios estatais são enquadrados nos artigos 25.º ou 26.º do [Regulamento (EU) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 17 de junho, ou no [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro, relativo aos auxílios de minimis, na sua redação atual.
 
-#### SECÇÃO II — Sistema de Apoio a Ações Coletivas
+SECÇÃO II
 
-###### Artigo 146.º — Objetivos
+Sistema de Apoio a Ações Coletivas
+
+Artigo 146.º
+
+Objetivos
 
 1 - O presente Sistema de Apoio tem como objetivo complementar, a montante e a jusante, os sistemas de incentivos diretamente orientados para as empresas e visa potenciar os seus resultados e a criação ou melhoria das condições envolventes, com particular relevo para as associadas a fatores imateriais de competitividade de natureza coletiva, que se materializem na disponibilização de bens coletivos ou públicos capazes de induzir efeitos de arrastamento na economia.
 
@@ -2206,7 +2584,9 @@ c) Assegurar a disponibilização livre e universal de todos os bens e serviços
 
 4 - As operações a enquadrar no presente sistema de apoio não configuram auxílios de Estado.
 
-###### Artigo 147.º — Tipologias de intervenção
+Artigo 147.º
+
+Tipologias de intervenção
 
 No âmbito do presente Sistema de Apoio são apoiadas as seguintes tipologias de intervenção:
 
@@ -2222,11 +2602,15 @@ e) Qualificação;
 
 f) Descarbonização.
 
-###### Artigo 148.º — Modalidade de apresentação de candidaturas
+Artigo 148.º
+
+Modalidade de apresentação de candidaturas
 
 No Sistema de Apoio a Ações Coletivas deve ser adotada a modalidade de apresentação individual de candidaturas ou em copromoção.
 
-###### Artigo 149.º — Elegibilidade das operações
+Artigo 149.º
+
+Elegibilidade das operações
 
 Para além dos requisitos de elegibilidade fixados no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, as operações devem ainda satisfazer os seguintes requisitos:
 
@@ -2236,11 +2620,13 @@ b) Inserir-se nos domínios prioritários da estratégia de investigação e ino
 
 c) Assegurar que a operação se desenvolve na região ou regiões definidas nos avisos para apresentação de candidaturas, sendo, no entanto, admissível a realização de ações noutros locais, incluindo no estrangeiro, desde que essas ações beneficiem a economia da região ou regiões em causa.
 
-###### Artigo 150.º — Natureza e elegibilidade dos beneficiários
+Artigo 150.º
+
+Natureza e elegibilidade dos beneficiários
 
 1 - Para a tipologia de intervenção «Transferência do conhecimento científico e tecnológico» são beneficiárias as ENESII, nomeadamente:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado, Laboratórios Associados ou internacionais com sede ou representação permanente em Portugal continental;
 
@@ -2272,19 +2658,27 @@ d) Estar localizado, através da sede ou de estabelecimento com atividade regula
 
 e) Evidenciar capacidade interna, em termos de recursos humanos, financeiros e outros para executar as ações propostas, sendo excluídas as candidaturas maioritariamente desenvolvidas por entidades externas aos beneficiários nas atividades de coordenação e monitorização.
 
-###### Artigo 151.º — Forma de apoio
+Artigo 151.º
+
+Forma de apoio
 
 Os apoios a conceder no âmbito deste sistema de apoio revestem a natureza de subvenções, na forma de custos reais e ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
-###### Artigo 152.º — Taxas de financiamento
+Artigo 152.º
+
+Taxas de financiamento
 
 A taxa de financiamento das despesas elegíveis é de até 85 %.
 
-###### Artigo 153.º — Cumulação de apoios
+Artigo 153.º
+
+Cumulação de apoios
 
 Para as mesmas despesas elegíveis, os apoios concedidos ao abrigo do presente sistema de apoio não são cumuláveis com quaisquer outros da mesma natureza.
 
-###### Artigo 154.º — Elegibilidade das despesas
+Artigo 154.º
+
+Elegibilidade das despesas
 
 1 - Consideram-se elegíveis as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação e efetuadas em condições de mercado e a entidades fornecedoras com capacidade para o efeito:
 
@@ -2342,11 +2736,15 @@ e) Transporte de mostruários e material informativo e promocional.
 
 6 - Para a tipologia de intervenção «Empreendedorismo Qualificado Associado ao Conhecimento», para além do previsto nos n.os 1 a 3, são ainda elegíveis despesas com a atribuição de bolsas destinadas a empreendedores que, beneficiando das ações da operação, pretendam desenvolver um projeto empresarial, em condições a definir nos avisos para apresentação de candidaturas.
 
-###### Artigo 155.º — Obrigações dos beneficiários
+Artigo 155.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 128.º, os beneficiários devem ainda assegurar a disponibilização livre, universal e gratuita, garantindo a publicação no website da(s) entidade(s) beneficiária(s) da informação e dos principais produtos desenvolvidos no âmbito da operação, e em condições de utilização, por um período mínimo de três anos após a conclusão do projeto.
 
-###### Artigo 156.º — Receitas geradas
+Artigo 156.º
+
+Receitas geradas
 
 1 - As receitas geradas durante a execução da operação devem ser comunicadas em sede de saldo final e são relevadas como fonte de financiamento a título de contribuição pública ou privada, nos termos da alínea b) do n.º 4 do artigo 129.º
 
@@ -3338,7 +3736,7 @@ d) «Provas de conceito» - operações que visam demonstrar uma ideia e validar
 
 e) «Proteção da propriedade intelectual e industrial» - operações que visem o registo de direitos de propriedade intelectual e industrial sob a forma de registo de patentes, modelos de utilidade, desenhos ou modelos, direitos de autor e direitos conexos, pelas vias nacional, europeia e internacional;
 
-f) «Núcleos I&D» - operações que visam a criação ou reforço de competências e capacidades internas das empresas em I&D;
+f) «Núcleos I&D» - operações que visam a criação ou reforço de competências e capacidades internas das empresas em I&D
 
 g) «Internacionalização da I&D» - operações de suporte à internacionalização da I&D empresarial, incluindo, designadamente:
 
@@ -4156,7 +4554,7 @@ b) O grau académico dos recursos humanos a contratar deve ser atribuído por in
 
 c) Quando estejam em causa licenciados e mestres, para além do grau académico, deverá ser evidenciada especialização profissional específica relevante para a área de contratação, no contexto empresarial ou regional em que o beneficiário se insere, sendo exigida uma experiência profissional mínima de 5 anos;
 
-d) Apresentar um programa de inserção dos recursos humanos na dinâmica do beneficiário, identificando os objetivos e as tarefas a atribuir, evidenciando o contributo esperado para a concretização da estratégia de inovação da empresa em matéria de processos e organização, bem como para o reforço das competências empresariais em I&D&I e para a intensificação das interações entre empresas e outras entidades do sistema nacional de I&I;
+d) Apresentar um programa de inserção dos recursos humanos na dinâmica do beneficiário, identificando os objetivos e as tarefas a atribuir, evidenciando o contributo esperado para a concretização da estratégia de inovação da empresa em matéria de processos e organização, bem como para o reforço das competências empresariais em I&D&I e para a intensificação das interações entre empresas e outras entidades do sistema nacional de I&I
 
 e) Ter por base a existência de contrato de trabalho sem termo entre o trabalhador e o beneficiário;
 
@@ -4506,7 +4904,7 @@ c) Identificar um responsável pela operação que deve corresponder ao investig
 
 1 - São beneficiárias as ENESII, nomeadamente:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado, Laboratórios Associados ou internacionais com a sede em Portugal;
 
@@ -4700,7 +5098,7 @@ c) Assegurar que a operação se desenvolve na região ou regiões definidas nos
 
 1 - Para a tipologia de intervenção «Transferência do conhecimento científico e tecnológico» são beneficiárias as ENESII, nomeadamente:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado, Laboratórios Associados ou internacionais com sede ou representação permanente em Portugal continental;
 
@@ -5047,3 +5445,5 @@ DE(índice p) - montante da despesa elegível da operação.
 7 - No caso das PME que se constituem como Empresários em Nome Individual, no cumprimento da legislação aplicável em matéria de contabilidade simplificada, não reunindo desta forma os requisitos para aferição da situação líquida nos termos fixados na alínea b) do n.º 1, a aferição da capacidade de financiamento da operação resulta do cumprimento da seguinte condição: o somatório de 15 % das vendas de produtos com 75 % das prestações de serviços, por referência ao ano pré-projeto ou à média aritmética simples dos dois últimos anos, é igual ou superior ao valor do custo total da operação, ou da parte desse o valor que cabe à PME, no caso de operações em conjunto ou em parceria.
 
 8 - Para as PME que se constituíram como Empresários em Nome Individual há menos de um ano, por referência à data da candidatura ou à data de adesão à operação, no caso de operações em conjunto ou em parceria, no cumprimento da legislação aplicável em matéria de contabilidade simplificada, não reunindo desta forma os requisitos para aferição dos capitais próprios nos termos fixados no n.º 5, a aferição da capacidade de financiamento da operação resulta do cumprimento da seguinte condição: o volume de negócios (vendas e prestação de serviços) expectável a realizar no ano (recolhido na declaração de início de atividade) é igual ou superior a 20 % do custo elegível financiado da operação, ou da parte desse valor que cabe à PME, no caso de operações em conjunto ou em parceria.
+
+117007127

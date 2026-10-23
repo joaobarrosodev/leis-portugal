@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1977-252442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2c7758158b710f2f2ea9c7581aabeed9cc5aa552d6cb2e753c1cb21c3e9a47a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec1dbd666651afd44c6b6f3b9cb7bca4c6634e5544adcbf0ab2ea94738907094
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Regional
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Empresa Pública Regional
+- Empresa Regional
+- Indústria Gráfica
+- Organismo do Estado
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:13Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +104,18 @@ Por outro lado, e apesar da situação descrita, verifica-se que alguns serviço
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira legisla, para valer como decreto regional:
 
-###### Artigo 1.º Todos os serviços, institutos públicos e empresas nacionalizadas ou com quotas nacionalizadas, dependentes dos órgãos de governo próprio da Região Autónoma da Madeira ou por estes superintendidos, farão obrigatoriamente as suas encomendas gráficas em empresas com sede na Região através de concurso público, exceptuando-se os trabalhos de litografia (offset), heliogravura, flexografia e serigrafia, para os quais devem ser considerados sua qualidade e preço.
+Artigo 1.º Todos os serviços, institutos públicos e empresas nacionalizadas ou com quotas nacionalizadas, dependentes dos órgãos de governo próprio da Região Autónoma da Madeira ou por estes superintendidos, farão obrigatoriamente as suas encomendas gráficas em empresas com sede na Região através de concurso público, exceptuando-se os trabalhos de litografia (offset), heliogravura, flexografia e serigrafia, para os quais devem ser considerados sua qualidade e preço.
 
-###### Art. 2.º O disposto no artigo anterior aplica-se igualmente às autarquias locais da Região.
+Art. 2.º O disposto no artigo anterior aplica-se igualmente às autarquias locais da Região.
 
-###### Art. 3.º O Governo Regional solicitará idêntica orientação aos serviços, institutos públicos, empresas nacionalizadas ou com quotas nacionalizadas com sede no arquipélago que não estejam dependentes dos órgãos de governo próprio da Região ou por estes superintendidos.
+Art. 3.º O Governo Regional solicitará idêntica orientação aos serviços, institutos públicos, empresas nacionalizadas ou com quotas nacionalizadas com sede no arquipélago que não estejam dependentes dos órgãos de governo próprio da Região ou por estes superintendidos.
 
-###### Art. 4.º O presente decreto regional entra imediatamente em vigor.
+Art. 4.º O presente decreto regional entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 3 de Maio de 1977.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 18 de Maio de 1977.**
+Assinado em 18 de Maio de 1977.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06500/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/97/2023/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-211241821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acf0be30195a1890c655138d0c8890f58b46a33d9a17559a2a9d2d768145817a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc9a980630cbcc12bc5223a1769d03d67e359fb6efc1cea17ae9dda6a31b9b02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
+- Documento Eletrónico
+- Exame Médico
 - Formulário Eletrónico
 - Medicamento
-- Documento Eletrónico
 - Meios Complementares de Diagnóstico
-- Exame Médico
 - Prazo
 - Prazo de Validade
 - Receita Médica
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
@@ -120,16 +120,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/224/2015/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/224/2015/07/27/p/dre
+- type: cites
+  target: pt:dre:106970981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115235763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125781753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72812702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75660778:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:43Z'
   warnings: []
   errors: []
 ---
@@ -198,4 +262,6 @@ São revogados os n.os 3 e 4 do artigo 13.º da [Portaria n.º 224/2015](https:/
 
 A presente portaria entra em vigor no dia 1 de abril de 2023.
 
-**O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 28 de março de 2023.**
+O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 28 de março de 2023.
+
+116321162

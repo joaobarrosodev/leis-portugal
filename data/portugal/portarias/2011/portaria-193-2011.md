@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2011/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2011-287808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06e19b7f32bd23e3391f8f9131121c864f42b209c61794eaf6b637e6e33c0a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e23d91279333cff1b040ce2db866d585137a5982c47b34fefe6b5f29d61fdf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Beneficiário
-- Farmácia
 - Centro de Conferência de Facturas
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
-- Medicamento
-- Embalagem
-- Administração Central do Sistema de Saúde
 - Droga
+- Embalagem
+- Farmácia
+- Medicamento
 - Preço
 - Preço de Venda
+- Serviço Nacional de Saúde
 - Substância Estupefaciente ou Psicotrópica
 relationships:
 - type: amended_by
   target: pt:dre:69879390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570727:por
+  label: Alterados, a partir de 01.03.2014 e sem prejuízo do disposto no n.º 2 do art. 5.º, os arts. 1.º, 3.º, 4.º, 6.º, 7.º
+    e 9.º e o Anexo I, aditado o art. 14.º-A, revogados o n.º 6 do art. 4.º, o n.º 7 do art. 7.º, o n.º 6 do art. 8.º e os
+    n.ºs 1 e 2 do art. 11.º e retificada a epígrafe do anexo IV da presente portaria, que é republicada no anexo II, retificada
+    pela Decl-Ret 19/2011 de 12-jul PCM, pela PORT.24/2014.31.01.2014.MS, DR.IS [22] de 31.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2014-570727
+  date: '2014-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/2007/05/29/p/dre
   label: null
@@ -100,16 +108,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
+- type: cites
+  target: pt:dre:197495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638532:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:669295:por
+  label: "Rectificado o nº 2 do art. 12º, pela DECL-RECT.19/2011.12.07.2011.PCM, DR.IS [132] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-2011-669295
+  date: '2011-07-12'
+- type: repealed_by
+  target: pt:dre:69879390:por
+  label: Revogada, a partir de 01.08.2015, mantendo em vigor nos termos do art. 13.º, a presente Portaria, pelo(a) Portaria
+    n.º 223/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2015-69879390
+  date: '2015-07-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:09Z'
   warnings: []
   errors: []
 ---
@@ -522,28 +557,28 @@ b) A Portaria n.º 90/2009, de 23 de Janeiro.
 
 A presente portaria entra em vigor no 1.º dia útil do 2.º mês seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 12 de Abril de 2011.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 12 de Abril de 2011.
 
 ## ANEXO I — (a que se refere o n.º 6 do artigo 4.º)
 
 Verso de receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 8.º)
 
 Factura SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4 do artigo 9.º)
 
 Nota de débito/crédito SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 6 do artigo 9.º)
 
 Formulário para reclamações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09300/0271702722.pdf)

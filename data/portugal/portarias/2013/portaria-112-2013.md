@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/112/2013/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99cbcefd4ad45a3cf9c85b83d5b8c318ec16742eda22d7b7234f013a8ef01128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47c5f288d1fc57da93e9a9793b11ea6433a0f230fb47c4f99bd6368b0e2fc7ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Departamento de Jogos
 - Jogos de Fortuna e Azar
-- Lisboa
-- Regulamento dos Mediadores dos Jogos Sociais do Estado
 - JURI
+- Lisboa
+- Regulamento
+- Regulamento dos Mediadores dos Jogos Sociais do Estado
+- Remuneração
 - Santa Casa da Misericórdia
 - Serviço de Mediação
-- Regulamento
-- Remuneração
-- Departamento de Jogos
 relationships:
 - type: amended_by
   target: pt:dre:571049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260446:por
+  label: "Dada nova redação aos arts. 2º, 3º, 4º, 8º, 9º e 11º do Regulamento da Lotaria Instantânea, aprovado pela Port 552/2001\
+    \ de 31-mai, alterado pelo presente diploma, pela PORT.148/2013.12.04.2013.MSSSOC, DR.IS [72] de 12.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2013-260446
+  date: '2013-04-12'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: "Dada nova redação, a partir de 26.01.2014, ao art. 7º do Regulamento da Lotaria Instantânea, aprovado pela Port\
+    \ 552/2001 de 31-mai, alterado pelo presente diploma, pela PORT.15/2014.23.01.2014.MSESS, DR.IS [16] de 23.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2014-571049
+  date: '2014-01-23'
+- type: amended_by
+  target: pt:dre:123324348:por
+  label: Alterado o art. 8.º do Regulamento dos Mediadores dos Jogos Sociais do Estado aprovado pela Port 313/2004 de 23-mar,
+    na versão republicada do Regulamento pela Port 216/2012 de 18-jul e na redação do presente diploma, pelo(a) Portaria n.º
+    227-B/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19, com os efeitos previstos no n.º 2
+    do art. 5.º desta, que republica e renumera o referido Regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-b-2019-123324348
+  date: '2019-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -111,16 +131,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:209625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:36Z'
   warnings: []
   errors: []
 ---
@@ -309,7 +361,7 @@ O artigo 8.º do Regulamento dos mediadores dos jogos sociais do Estado, aprovad
 
 2 - A alteração ao artigo 8.º do Regulamento dos mediadores dos jogos sociais do Estado aplica-se aos prémios pagos pelos mediadores após a data de entrada em vigor da presente Portaria.
 
-**O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 5 de março de 2013.**
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 5 de março de 2013.
 
 ## ANEXO — REGULAMENTO DA LOTARIA INSTANTÂNEA
 

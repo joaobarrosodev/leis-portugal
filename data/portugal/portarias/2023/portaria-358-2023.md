@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22000/0002800035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/358/2023/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-2023-224203161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56354f28cce5a56eeccdfb0eb3f1ec1db460f9cae8033f2a2d3acf5686de5cac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efe8f6c12eb0fffb3e96e189c2d82ee89acba227d6d2413ef6f6485f7123e8e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
+- Controlo Metrológico
+- Equipamento de Veículo
+- Instituto Português da Qualidade
 - Metrologia
+- Normalização
 - Regulamentação de Atos Legislativos
 - Regulamento de Controlo Metrológico de Manometros para Pneumaticos de Veículos Automóveis
-- Aparelho de Medição
-- Instituto Português da Qualidade
-- Equipamento de Veículo
-- Controlo Metrológico
-- Normalização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/389/1998/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/389/1998/07/06/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200139611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555639:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:48Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +140,7 @@ São revogadas a [Portaria n.º 963/90](https://diariodarepublica.pt/dr/detalhe/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 9 de novembro de 2023.**
+O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 9 de novembro de 2023.
 
 ## ANEXO — REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS MANÓMETROS PARA PNEUMÁTICOS DE VEÍCULOS AUTOMÓVEIS
 
@@ -330,10 +346,10 @@ A indicação depois da perturbação deve permanecer dentro das margens dos err
 
 QUADRO I
 
-|  |  |  |
+| Pressão medida, P/MPa | Erros máximos admissíveis, EMA/MPa |  |
 | --- | --- | --- |
-| Pressão medida, P/MPa | Erros máximos admissíveis, EMA/MPa | Erros máximos admissíveis, EMA/MPa |
-| Pressão medida, P/MPa | Aprovação de modelo e primeira verificação | Verificação periódica |
+| Aprovação de modelo e primeira verificação | Verificação periódica |  |
+|  |  |  |
 | P (igual ou menor que) 0,4 (até 4 bar, inclusive)... | 0,008 | 0,01 |
 | 0,4 (menor que) P (igual ou menor que) 1 (de 4 bar a 10 bar, inclusive)... | 0,016 | 0,02 |
 | P (maior que) 1 (maior do que 10 bar)... | 0,025 | 0,03 |
@@ -344,9 +360,9 @@ Os erros máximos admissíveis são válidos entre 15ºC e 25ºC, adiante design
 
 QUADRO II
 
-|  |  |
-| --- | --- |
 | Pressão medida, P/MPa | Variação máxima admissível, VMA/MPa |
+| --- | --- |
+|  |  |
 | P (igual ou menor que) 0,4 (até 4 bar, inclusive)... | 0,1 % de 0,4 MPa/ºC |
 | 0,4 (menor que) P (igual ou menor que) 1 (de 4 bar a 10 bar, inclusive)... | 0,05 % de 1 MPa/ºC |
 | P (maior que) 1 (para além de 10 bar)... | 0,05 % do valor máximo da escala/ºC |
@@ -416,3 +432,5 @@ Os erros de reversibilidade dos manómetros não devem ultrapassar o valor absol
 Para um dado valor de pressão, o valor medido para pressões crescentes deve ser inferior ou igual ao valor medido para pressões decrescentes.
 
 A obtenção das indicações para valores decrescentes efetuar-se-á após ter mantido o manómetro pelo menos durante cinco minutos a uma pressão igual ao valor limite superior da escala. Terminado o ensaio e decorridos cinco minutos de repouso, o dispositivo indicador deve marcar o valor 0, à pressão atmosférica.
+
+117047393

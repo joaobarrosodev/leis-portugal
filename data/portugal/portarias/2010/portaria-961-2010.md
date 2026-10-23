@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/961/2010/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-2010-342113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 062fe7fc02d88200365d2ab1c953e4ce7b4140b409f00d4dd2dc80c058edd426
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c424d8e1f7b226e136d41dcdb3f482c54995869a5000ba049fcca8252f75210c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/86/1995/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/86/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:301654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546975:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:25Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +124,4 @@ Assim, manda o Governo, pelo Primeiro-Ministro e pelo Ministro da Agricultura, d
 
 Reverter a favor de Nuno Tristão Neves e de Arnalda Neves Tavares da Costa a área de 142,2467 ha, correspondente aos lotes n.os 102-F, 54-A, 75-A, 14-P, 80-OL e 75-F do prédio rústico denominado «Herdade dos Machados», inscrito sob o artigo matricial n.º 1, secção I a I8, da freguesia de Santo Agostinho, concelho de Moura, e a consequente derrogação da [Portaria n.º 740/75](https://diariodarepublica.pt/dr/detalhe/portaria/740-1975-311215), de 13 de Dezembro, na parte em que expropria a referida área.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa, em 17 de Setembro de 2010. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa, em 17 de Setembro de 2010. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.

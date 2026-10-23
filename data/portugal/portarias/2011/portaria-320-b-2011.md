@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 250/2011, 2º Suplemento, Série I de 2011-12-30
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5538-(272) a 5538-(275)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/320-b/2011/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-b-2011-243735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eb30ae1d656786bbc53e5826e8695f766d4377d57fe02e9b875dc1792fbfc99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbb93d0c53cef2b8960a81b8ffe8d65b5f6975b73148ae068231deed7578667e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Pensões
-- Função Pública
+- Administração Pública
 - Aposentado
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Centro Nacional de Pensões
 - Complemento por Dependência
 - Contribuições da Segurança Social
-- Administração Pública
-- Caixa Geral de Aposentações
+- Função Pública
+- Funcionário Público
 - IAS
-- Trabalhador Rural
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
@@ -93,13 +93,23 @@ subjects:
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Segurança Social
-- Funcionário Público
 - Subsídio de Férias
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:632426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinado o congelamento, durante o ano de 2013, dos valores das pensões regulamentares de invalidez e de velhice\
+    \ do regime geral de segurança social e demais pensões, subsídios e complementos, atribuídos em data anterior a 01.01.2012;\
+    \ assim como os valores das pensões de aposentação, reforma, invalidez e de outras pensões, subsídios e complementos,\
+    \ atribuídos pela CGA, I. P em data anterior a 01.01.2013, previstos no presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012, com exceção das pensões e prestações elencadas nos nºs 2 e 3 do art. 115º daquele diploma.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
@@ -140,16 +150,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1458/2009/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1458/2009/12/31/p/dre
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:543881:por
+  label: "Retificada a epígrafe do anexo II, pela DECL-RECT.4/2012.27.01.2012.PCM, DR.IS [20] de 27.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/4-2012-543881
+  date: '2012-01-27'
+- type: repealed_by
+  target: pt:dre:632426:por
+  label: "Revogada, a partir de 01.01.2013, pela PORT.432-A/2012.31.12.2012.MF, DR.IS [252-2ºSupl] de 31.12.2012, que atualiza\
+    \ as percentagens de indexação ao indexante dos apoios sociais (IAS) do valor mínimo das pensões e de outras prestações\
+    \ sociais.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-a-2012-632426
+  date: '2012-12-31'
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:53Z'
   warnings: []
   errors: []
 ---
@@ -258,13 +332,13 @@ Os montantes adicionais das pensões previstos no artigo 41.º do [Decreto-Lei n
 
 Os valores mínimos garantidos às pensões de aposentação, reforma e invalidez pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são os constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf))](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
 
 ###### Artigo 14.º — Valor mínimo das pensões de sobrevivência, preço de sangue e outras
 
 Os valores mínimos garantidos às pensões de sobrevivência pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf))](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
 
 ###### Artigo 15.º — 14.º mês
 
@@ -282,13 +356,13 @@ O presente diploma produz efeitos a partir de 1 de janeiro de 2012.
 
 São revogados os artigos 1.º, 2.º, 5.º, n.os 1 e 3; 6.º, 10.º, 11.º, 14.º a 16.º, 18.º a 20.º, 27.º, 30.º e 32.º da [Portaria n.º 1458/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), de 31 de dezembro.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de dezembro de 2011. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 30 de dezembro de 2011.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de dezembro de 2011. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 30 de dezembro de 2011.
 
 ## ANEXO I — Indexação ao IAS das pensões e de outras prestações sociais
 
 (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf))](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/25002/0027200275.pdf)
 
 ## ANEXO II — Coeficientes de atualização de pensões para efeitos de cúmulo
 

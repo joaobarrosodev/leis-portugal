@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1977-492711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22bae069d076de521c2d7c1671acb21f045275b8f0602413357adf3d1cf261c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a16808c5ce962ffd77d8371aea6c0e1e766ecbd16b5f9b2d70f7a06befaa3e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Distrital de Contas
+- Estatuto
+- Governo Regional
+- Incompatibilidades
+- Madeira.região Autónoma
+- Membros do Governo
+- Rectificação de Numero de Diploma
+- Remuneração
+- Responsabilidade Civil
+- Responsabilidade Criminal
 relationships:
 - type: amended_by
   target: pt:dre:446142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446142:por
+  label: "Mantido em vigor o disposto no presente diploma que não contrarie o constante do DRG.12/78/M.10.03.1978.ARM, DR.IS\
+    \ [58] de 10.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/12-1978-446142
+  date: '1978-03-10'
 article_structure:
-  article_count: 11
+  article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:13Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,9 @@ ESTATUTO DOS MEMBROS DO GOVERNO REGIONAL
 
 Tornando-se necessária ao exercício das suas funções a definição do conjunto de direitos e deveres dos membros do Governo Regional, a Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição e do artigo 33.º, alínea i), do Estatuto Provisório da Região Autónoma da Madeira, o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 (Responsabilidade civil e criminal dos membros do Governo)
 
@@ -104,7 +122,9 @@ Os membros do Governo são civil e criminalmente responsáveis pelos actos que p
 
 3. Movido procedimento criminal contra algum membro do Governo Regional e indiciado este por despacho de pronúncia ou equivalente, o Presidente do Governo Regional decidirá, tratando-se de algum Secretário Regional, ou a Assembleia Regional deliberará, tratando-se do Presidente do Governo Regional, se o membro do Governo em questão deverá ou não ser suspenso para efeito de seguimento do processo.
 
-### CAPÍTULO II — Artigo 3.º
+### CAPÍTULO II
+
+###### Artigo 3.º
 
 (Direitos e regalias)
 
@@ -168,7 +188,9 @@ Para o exercício das suas funções, ou por causa delas, os membros do Governo 
 
 As remunerações dos membros do Governo Regional estão sujeitas ao regime fiscal aplicável aos funcionários públicos.
 
-### CAPÍTULO III — Artigo 13.º
+### CAPÍTULO III
+
+###### Artigo 13.º
 
 (Encargos)
 
@@ -178,10 +200,10 @@ Os encargos resultantes da aplicação da presente lei serão satisfeitos por ve
 
 O presente decreto regional entra imediatamente em vigor e produz efeitos desde 1 de Outubro de 1976, salvo quanto às remunerações e despesas já suportadas por outras entidades.
 
-**Assinado em 21 de Dezembro de 1976.**
+Assinado em 21 de Dezembro de 1976.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 21 de Dezembro de 1976.**
+Assinado em 21 de Dezembro de 1976.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

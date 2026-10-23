@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23900/0003000040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/435/2023/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/435-2023-230006500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 968ef66c7ec93d6cddf9df892e9e7d09665fc79251b0d6553185545c9d7f87f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd9a3ef9dfc0170fdabad868402fc808594e99d2bd5a851a528845d95df004ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
+- Academia do Empresário
 - Associação Empresarial de Portugal
 - Câmara de Comércio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Empreendedorismo
 - Empresário
+- Formação Profissional
 - Homologação
 - Indústria
+- Instituto do Emprego e Formação Profissional
 - Jovem Empresário
 - Protocolo Nacional
-- Academia do Empresário
 relationships:
 - type: amended_by
   target: pt:dre:853939141:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:853939141:por
+  label: Homologado e publicado, com efeitos a 15 de fevereiro de 2023, o adicional e respetivas alterações ao protocolo pelo(a)
+    Portaria n.º 76/2024/1 - Diário da República n.º 44/2024, Série I de 2024-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2024-853939141
+  date: '2024-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/2012/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/143/2012/07/11/p/dre
+- type: cites
+  target: pt:dre:151559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:16Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +170,7 @@ Ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do [Decreto-Lei n.º 165/85
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data da assinatura do Protocolo constante do anexo.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 7 de dezembro de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 7 de dezembro de 2023.
 
 ## ANEXO — PROTOCOLO DE CRIAÇÃO DO CENTRO ACADEMIA DO EMPRESÁRIO - CENTRO DE FORMAÇÃO PARA O EMPREENDEDORISMO, GESTÃO E LIDERANÇA
 
@@ -545,3 +563,5 @@ Pelo Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), Dom
 Pela Associação Empresarial de Portugal (AEP), Luís Miguel Magalhães Ribeiro (presidente do conselho de administração) e Miguel Pedro Duarte Pinto (vice-presidente do conselho de administração).
 
 Pela Associação Nacional de Jovens Empresários (ANJE), Alexandre Vasconcelos Veiga de Meireles (presidente da direção) e Francisco Melo Vaz Pinto Mendes (vice-presidente da direção).
+
+117147671

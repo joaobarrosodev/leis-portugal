@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2014/04/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-25343992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af747679912a251e705eb50e9bea28e6f206a374e7498c19504f22ecfa8fb333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93749552b9a34b0933e4015b2b3140f7aa8cf4ff39f3c2f7e568708afbb604d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Plano de Desenvolvimento Económico e Social
-- Plano de Desenvolvimento
 - Desenvolvimento Económico
+- Governo Regional
 - Madeira.região Autónoma
+- Plano de Desenvolvimento
+- Plano de Desenvolvimento Económico e Social
 relationships:
 - type: amended_by
   target: pt:dre:116152180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116152180:por
+  label: Aditado o ponto 5 com a epígrafe «5 - Plano de Financiamento 2014-2020» ao Plano de Desenvolvimento Económico e Social
+    para o período 2014-2020 («Compromisso Madeira@2020») pelo(a) Decreto Legislativo Regional n.º 18/2018/M - Diário da República
+    n.º 161/2018, Série I de 2018-08-22, que o republicou em anexo, no seu novo texto.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2018-116152180
+  date: '2018-08-22'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -90,13 +97,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:49Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +140,11 @@ A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do d
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de março de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 19 de março de 2014.**
+Assinado em 19 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -169,7 +176,7 @@ Evolução 2007-2013: alterações de contexto. O comportamento dos principais i
 
 Indicadores-chave da RAM - Evolução pós-2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
 
 Fonte:
 
@@ -229,7 +236,7 @@ Neste difícil contexto, em que os caminhos são estreitos, a Região terá de s
 
 Paisagem humanizada de vastos territórios da Madeira e do Porto Santo, fruto das atividades agrícolas (vertente agricultura e silvicultura) e de desenvolvimento rural que muito contribuem para a preservação da paisagem e habitat natural do Arquipélago;
 
-Recursos do Mar, relevantes num contexto insular e na ótica da clusterização de atividades, que abrangem recursos vivos e recursos não vivos, usos de natureza económica (Portos, transportes e logística; recreio; desporto e turismo) e atividades de I&D;
+Recursos do Mar, relevantes num contexto insular e na ótica da clusterização de atividades, que abrangem recursos vivos e recursos não vivos, usos de natureza económica (Portos, transportes e logística; recreio; desporto e turismo) e atividades de I&D
 
 A formalização recente do Cluster Marítimo da Macaronésia, envolvendo um conjunto alargado de entidades públicas e privadas da Madeira, Açores e Canárias, constitui uma "plataforma de entendimento e comunhão de interesses", para potenciar o desenvolvimento da Economia do mar fundamental para as Ilhas;
 
@@ -311,7 +318,7 @@ Os contributos sectoriais preparados pelos Organismos do Governo Regional consti
 
 Neste enquadramento, e tendo também presente as Prioridades temáticas em torno das quais a RAM deve estruturar contributos próprios para a Estratégia Europa 2020, propõe-se um modelo de estruturação de Eixos de Intervenção assente no Diamante Estratégico apresentado no diagrama.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
 
 As alíneas seguintes enunciam pressupostos a ter presente para o acesso, mobilização e aplicação de Fundos Estruturais na Região, reflexo da interação dinâmica entre os diferentes vértices do Diamante Estratégico:
 
@@ -683,7 +690,7 @@ Sensibilizar dos utilizadores para a eficiência no consumo de recursos hídrico
 
 A Política Energética Regional encontra tradução operacional nos Planos de Ação para a Energia Sustentável da Ilha da Madeira e da Ilha do Porto Santo, aprovado pelo Governo Regional em 2012, e que assenta em objetivos estratégicos e específicos, materializados nas Medidas da Tabela seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07100/0236602384.pdf)
 
 Esta árvore de objetivos dos Planos abrange e articula-se positivamente com um conjunto de objetivos de política regional, dos quais se destaca:
 

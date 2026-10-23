@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2013/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2013-498761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18e04e537cc4e297e7e433cbee87adeb3e85e06bc2e3dd9c8faae395a8e58e5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e8f8871fab77f895cc75fbffd018f66ce86f08b85e62e5797cdb6a81a78cc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acreditação
-- Exame
-- Propriedade Industrial
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Licenciamento
-- Qualificação Profissional
+- Agente Oficial da Propriedade Industrial
 - Avaliação de Conhecimentos
+- Direito de Estabelecimento
+- Exame
+- Licenciamento
+- Livre Prestação de Serviços
+- Propriedade Industrial
+- Qualificação Profissional
+- Recurso
 - Regulamento
 - Taxa
-- Agente Oficial da Propriedade Industrial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1200/2010/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1200/2010/11/29/p/dre
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:19Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +130,9 @@ Os artigos 2º, 3º e 12º do Regulamento da Prova de Aptidão publicado como An
 
 4 - Os interessados cujos pedidos de prestação de provas sejam deferidos até 31 de outubro realizam a prova de aptidão durante o mês de dezembro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 -...
 
@@ -142,7 +144,9 @@ Os artigos 2º, 3º e 12º do Regulamento da Prova de Aptidão publicado como An
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As decisões do júri são passíveis de recurso judicial.»
 
@@ -150,4 +154,4 @@ As decisões do júri são passíveis de recurso judicial.»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de julho de 2013.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de julho de 2013.

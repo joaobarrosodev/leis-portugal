@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/2013/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2013-497404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40fef433e996da713c30d2c97d2a9eacd5c55f39dca08c0315a3514d37f6ab59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09e2e1ff30b34a5d51632ce136f54a7cbc86a8dfa7e7812b621ee3405d36069d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acreditação
-- Formação Profissional
-- Certificação Profissional
-- Entidade Certificadora
-- Educação
-- Formador
-- Qualificação Profissional
-- Madeira.região Autónoma
 - Açores
+- Acreditação
+- Certificação Profissional
+- Educação
+- Entidade Certificadora
+- Formação Profissional
+- Formador
+- Madeira.região Autónoma
+- Qualificação Profissional
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -89,15 +89,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/851/2010/09/06/p/dre
 article_structure:
-  article_count: 47
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:08Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +146,9 @@ b) O regime supletivo de certificação para acesso e exercício da atividade de
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -164,7 +166,9 @@ f) [anterior alínea d)]
 
 g) «Referencial de certificação» o conjunto de requisitos de certificação da entidade formadora que definem condições relativas à intervenção da mesma no âmbito para que é certificada.
 
-###### Artigo 4.º — Entidades formadoras
+Artigo 4.º
+
+Entidades formadoras
 
 1 - Pode requerer a certificação inserida na política da qualidade dos serviços qualquer entidade pública ou privada, nomeadamente, do âmbito educativo, científico ou tecnológico, que desenvolva atividades formativas, salvo se estas corresponderem às previstas na respetiva lei orgânica, diploma de criação, homologação, autorização de funcionamento ou outro regime especial aplicável.
 
@@ -176,7 +180,9 @@ g) «Referencial de certificação» o conjunto de requisitos de certificação 
 
 5 - O disposto nos n.os 2 a 4 não prejudica o reconhecimento de requisitos a que o prestador de serviços já tenha sido submetido noutro Estado membro, nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho e, quanto aos requisitos relativos a qualificações profissionais, nos termos da Lei n.º 9/2009, de 4 de março.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Pode obter a certificação a entidade formadora que satisfaça os seguintes requisitos:
 
@@ -192,7 +198,9 @@ d) [...]
 
 3 - As fontes de verificação do cumprimento dos requisitos referidos no n.º 1 constam do Anexo I da presente portaria, que dela faz parte integrante, sem prejuízo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-###### Artigo 6.º — Entidades certificadoras
+Artigo 6.º
+
+Entidades certificadoras
 
 1 - A certificação das entidades formadoras inserida na política de qualidade dos serviços, assim como a certificação regulada por legislação setorial, a que se refere a alínea b) do n.º 1 do artigo 1.º, são asseguradas pelo serviço central competente do ministério responsável pela área da formação profissional, sem prejuízo do disposto no n.º 3.
 
@@ -216,7 +224,9 @@ h) [...]
 
 3 - Sempre que a legislação setorial referida na alínea b) do n.º 1 do artigo 1.º atribua a outra entidade a competência para a certificação de entidades formadoras em determinada área de educação e formação ou em determinados cursos ou ações de formação, o ato de certificação é comunicado, nos termos dessa legislação, ao serviço referido no n.º 1.
 
-###### Artigo 7.º — Referencial de certificação de entidade formadora
+Artigo 7.º
+
+Referencial de certificação de entidade formadora
 
 1 - Os requisitos do referencial de certificação respeitam a:
 
@@ -232,7 +242,9 @@ c) [revogada]
 
 4 - A entidade certificadora divulga, no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio da internet, esclarecimentos adicionais relativos aos requisitos referidos nos números anteriores e aos respetivos critérios de apreciação e fontes de verificação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A certificação da entidade formadora é comprovada mediante a emissão do respetivo certificado de acordo com modelo aprovado pela entidade certificadora e a disponibilizar no sítio da internet da mesma.
 
@@ -240,7 +252,9 @@ c) [revogada]
 
 3 - No caso de certificação inserida na política da qualidade dos serviços, o certificado emitido pelo serviço central competente do ministério responsável pela área da formação profissional deve referir que o mesmo não constitui título legal para o acesso e exercício em território nacional de atividades de formação abrangidas por legislações setoriais.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - No caso de certificação inserida na política da qualidade dos serviços, o representante legal da entidade formadora apresenta o requerimento no balcão único eletrónico dos serviços, de acordo com informação disponibilizada no sítio da internet da entidade certificadora, indicando as áreas de educação e formação em que se propõe exercer a atividade formativa, de acordo com o n.º 2 do artigo 1.º.
 
@@ -258,7 +272,9 @@ c) [revogada]
 
 8 - A entidade certificadora participa na cooperação entre autoridades administrativas nos termos do Capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente para confirmação das declarações e comprovativos de requerente estabelecido noutro Estado membro do Espaço Económico Europeu relativos aos requisitos referidos no n.º 2 do artigo 4.º, aos requisitos de recursos humanos e aos demais requisitos aplicáveis, através do Sistema de Informação do Mercado Interno (IMI).
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A atividade da entidade formadora certificada é objeto de auditoria que incide sobre a manutenção do cumprimento dos requisitos prévios de acesso à certificação e dos que respeitam ao referencial de certificação estabelecidos na presente portaria.
 
@@ -280,7 +296,9 @@ d) [...]
 
 e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente recorrendo ao Sistema de Informação do Mercado Interno (IMI).
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A certificação de entidade formadora, o alargamento da certificação a outras áreas de educação e formação e o pedido de transmissão da certificação estão sujeitos ao pagamento de uma taxa, a efetuar pela entidade requerente com o respetivo requerimento.
 
@@ -290,7 +308,9 @@ e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Ca
 
 4 - O pagamento da taxa é condição prévia para a prática dos atos previstos no n.º 1, exceto no caso de auditoria em que a taxa é paga no prazo indicado pela entidade certificadora, considerando-se o não pagamento como oposição da entidade formadora à realização da mesma.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A entidade certificadora disponibiliza o logótipo de entidade formadora certificada no âmbito da política da qualidade dos serviços e as regras da sua utilização, que esta deve adotar na publicitação da atividade formativa.
 
@@ -302,7 +322,9 @@ e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Ca
 
 5 - A entidade certificadora informa do ato de certificação, nos termos do n.º 3 do artigo 6.º e através do sistema eletrónico a que se refere o n.º 7 do artigo 10.º, o serviço central competente do ministério responsável pela área da formação profissional, para efeitos de divulgação de uma lista geral de entidades formadoras certificadas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O desempenho da atividade da entidade formadora certificada estabelecida em território nacional é objeto de avaliação, a ser aferida de acordo com indicadores relativos a:
 
@@ -318,7 +340,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O incumprimento dos requisitos prévios ou dos que se reportam ao referencial de certificação ou, ainda, de algum dos deveres da entidade formadora certificada estabelecidos na presente portaria determina, conforme a gravidade das situações e a possibilidade da sua regularização, a revogação total ou parcial da certificação, sem prejuízo do disposto nos números seguintes.
 
@@ -344,11 +368,15 @@ d) Interdição do exercício da sua atividade em território nacional, por deci
 
 8 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 O acompanhamento do procedimento de certificação das entidades formadoras é assegurado por um conselho de acompanhamento que funciona junto do serviço central competente do ministério responsável pela área da formação profissional.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -384,7 +412,9 @@ h) [anterior alínea g)]
 
 5 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A acreditação de entidade formadora, ao abrigo da legislação agora revogada, cujo prazo de validade esteja em curso à data da publicação da presente portaria, deixa de estar sujeita a período de validade, sem prejuízo do disposto no n.º 3.
 
@@ -422,7 +452,9 @@ Decisão
 
 5 - Os requerimentos previstos nos n.os 2 e 3 consideram-se tacitamente deferidos, se a decisão não for proferida no prazo estabelecido.
 
-###### Artigo 19.º-A — Regiões Autónomas
+Artigo 19.º-A
+
+Regiões Autónomas
 
 1 - Os atos e os procedimentos necessários à execução da presente portaria nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.
 
@@ -432,21 +464,29 @@ Decisão
 
 4 - O sistema eletrónico a que se refere o n.º 7 do artigo 10.º assegura o intercâmbio da informação relativa à certificação de entidades formadoras recebida pelo serviço central competente do ministério responsável pela área da formação profissional e pelos serviços competentes responsáveis pela mesma área nas administrações das regiões autónomas, nos termos do n.º 5 do artigo 14.º e do n.º 1 do presente artigo, com vista à permanente atualização da lista das entidades formadoras certificadas a operar em território nacional na posse daqueles serviços.
 
-###### Artigo 5.º — Revogação
+Artigo 5.º
+
+Revogação
 
 São revogados o n.º 2 do artigo 5.º, a alínea c) do n.º 1 do artigo 7.º, o artigo 12.º, o n.º 3 do artigo 13.º, o artigo 19.º e o n.º 6 do artigo 21.º da Portaria n.º 851/2010, de 6 de setembro.
 
-###### Artigo 6.º — Republicação
+Artigo 6.º
+
+Republicação
 
 A Portaria n.º 851/2010, de 6 de setembro, é republicada no Anexo II da presente portaria, que dela faz parte integrante, com a redação por esta conferida.
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor 90 dias após a sua publicação.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 14 de junho de 2013. - O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 13 de junho de 2013.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 14 de junho de 2013. - O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 13 de junho de 2013.
 
-## ANEXO I — (Referido no artigo 3.º desta Portaria)
+ANEXO I
+
+(Referido no artigo 3.º desta Portaria)
 
 Referencial de certificação de entidade formadora
 
@@ -548,11 +588,15 @@ A entidade formadora estabelecida em território nacional deve respeitar os requ
 
 3 - [...]
 
-## ANEXO II — (Referido no artigo 6.º da Portaria)
+ANEXO II
+
+(Referido no artigo 6.º da Portaria)
 
 Republicação da Portaria n.º 851/2010, de 6 de setembro, com as alterações resultantes da presente portaria
 
-###### Artigo 1.º — Objeto e âmbito
+Artigo 1.º
+
+Objeto e âmbito
 
 1 - O presente diploma regula:
 
@@ -562,7 +606,9 @@ b) O regime supletivo de certificação para acesso e exercício da atividade de
 
 2 - A certificação é concedida por áreas de educação e formação em que a entidade formadora desenvolve a sua atividade.
 
-###### Artigo 2.º — Objetivos
+Artigo 2.º
+
+Objetivos
 
 Constituem objetivos do sistema de certificação de entidades formadoras:
 
@@ -570,7 +616,9 @@ a) Promover a qualidade e a credibilização da atividade das entidades formador
 
 b) Contribuir para que o financiamento das atividades formativas tenha em conta a qualidade da formação ministrada e os seus resultados.
 
-###### Artigo 3.º — Conceitos
+Artigo 3.º
+
+Conceitos
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -588,7 +636,9 @@ f) «Entidade formadora certificada» a entidade dotada de recursos e capacidade
 
 g) «Referencial de certificação» o conjunto de requisitos de certificação da entidade formadora que definem condições relativas à intervenção da mesma no âmbito para que é certificada.
 
-###### Artigo 4.º — Entidades formadoras
+Artigo 4.º
+
+Entidades formadoras
 
 1 - Pode requerer a certificação inserida na política da qualidade dos serviços qualquer entidade pública ou privada, nomeadamente, do âmbito educativo, científico ou tecnológico, que desenvolva atividades formativas, salvo se estas corresponderem às previstas na respetiva lei orgânica, diploma de criação, homologação, autorização de funcionamento ou outro regime especial aplicável.
 
@@ -600,7 +650,9 @@ g) «Referencial de certificação» o conjunto de requisitos de certificação 
 
 5 - O disposto nos n.os 2 a 4 não prejudica o reconhecimento de requisitos a que o prestador de serviços já tenha sido submetido noutro Estado membro, nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho e, quanto aos requisitos relativos a qualificações profissionais, nos termos da Lei n.º 9/2009, de 4 de março.
 
-###### Artigo 5.º — Requisitos prévios da certificação
+Artigo 5.º
+
+Requisitos prévios da certificação
 
 1 - Pode obter a certificação a entidade formadora que satisfaça os seguintes requisitos:
 
@@ -616,7 +668,9 @@ d) Inexistência de situações por regularizar respeitantes a dívidas ou resti
 
 3 - As fontes de verificação do cumprimento dos requisitos referidos no n.º 1 constam do Anexo I da presente portaria, que dela faz parte integrante, sem prejuízo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-###### Artigo 6.º — Entidades certificadoras
+Artigo 6.º
+
+Entidades certificadoras
 
 1 - A certificação das entidades formadoras inserida na política da qualidade dos serviços assim como a certificação regulada por legislação setorial, a que se refere a alínea b) do n.º 1 do artigo 1.º, são asseguradas pelo serviço central competente do ministério responsável pela área da formação profissional, sem prejuízo do disposto no n.º 3.
 
@@ -640,7 +694,9 @@ h) Promover as ações necessárias ao acompanhamento, monitorização, regulaç
 
 3 - Sempre que a legislação setorial referida na alínea b) do n.º 1 do artigo 1.º atribua a outra entidade a competência para a certificação de entidades formadoras em determinada área de educação e formação ou em determinados cursos ou ações de formação, o ato de certificação é comunicado, nos termos dessa legislação, ao serviço referido no n.º 1.
 
-###### Artigo 7.º — Referencial de certificação de entidade formadora
+Artigo 7.º
+
+Referencial de certificação de entidade formadora
 
 1 - Os requisitos do referencial de certificação respeitam a:
 
@@ -656,11 +712,15 @@ c) [revogada].
 
 4 - A entidade certificadora divulga, no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio da internet, esclarecimentos adicionais relativos aos requisitos referidos nos números anteriores e aos respetivos critérios de apreciação e fontes de verificação.
 
-###### Artigo 8.º — Manutenção dos requisitos da certificação
+Artigo 8.º
+
+Manutenção dos requisitos da certificação
 
 A entidade formadora certificada deve manter os requisitos da certificação referidos nos artigos 5.º e 7.º e desenvolver as atividades formativas de acordo com as competências que foram objeto de certificação, bem como cumprir os contratos de formação celebrados.
 
-###### Artigo 9.º — Certificado
+Artigo 9.º
+
+Certificado
 
 1 - A certificação da entidade formadora é comprovada mediante a emissão do respetivo certificado de acordo com modelo aprovado pela entidade certificadora e a disponibilizar no sítio da internet da mesma.
 
@@ -668,7 +728,9 @@ A entidade formadora certificada deve manter os requisitos da certificação ref
 
 3 - No caso de certificação inserida na política da qualidade dos serviços, o certificado emitido pelo serviço central competente do ministério responsável pela área da formação profissional deve referir que o mesmo não constitui título legal para o acesso e exercício em território nacional de atividades de formação abrangidas por legislações setoriais.
 
-###### Artigo 10.º — Procedimento de certificação
+Artigo 10.º
+
+Procedimento de certificação
 
 1 - No caso de certificação inserida na política da qualidade dos serviços, o representante legal da entidade formadora apresenta o requerimento no balcão único eletrónico dos serviços, de acordo com informação disponibilizada no sítio da internet da entidade certificadora, indicando as áreas de educação e formação em que se propõe exercer a atividade formativa, de acordo com o n.º 2 do artigo 1.º.
 
@@ -686,7 +748,9 @@ A entidade formadora certificada deve manter os requisitos da certificação ref
 
 8 - A entidade certificadora participa na cooperação entre autoridades administrativas nos termos do Capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente para confirmação das declarações e comprovativos de requerente estabelecido noutro Estado membro do Espaço Económico Europeu relativos aos requisitos referidos no n.º 2 do artigo 4.º, aos requisitos de recursos humanos e aos demais requisitos aplicáveis, através do Sistema de Informação do Mercado Interno (IMI).
 
-###### Artigo 10.º-A — Decisão
+Artigo 10.º-A
+
+Decisão
 
 1 - Na decisão de requerimento de certificação inserida na política da qualidade dos serviços, bem como nas decisões de requerimento para alargamento a outras áreas de educação e formação ou para a transmissão daquela certificação, a proferir no prazo máximo de 90 dias, não há lugar a deferimento tácito.
 
@@ -698,7 +762,9 @@ A entidade formadora certificada deve manter os requisitos da certificação ref
 
 5 - Os requerimentos previstos nos n.os 2 e 3 consideram-se tacitamente deferidos, se a decisão não for proferida no prazo estabelecido.
 
-###### Artigo 11.º — Auditorias
+Artigo 11.º
+
+Auditorias
 
 1 - A atividade da entidade formadora certificada é objeto de auditoria que incide sobre a manutenção do cumprimento dos requisitos prévios de acesso à certificação e dos que respeitam ao referencial de certificação estabelecidos na presente portaria.
 
@@ -720,9 +786,13 @@ d) Examinar quaisquer elementos indispensáveis sobre assuntos de interesse para
 
 e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente recorrendo ao Sistema de Informação do Mercado Interno (IMI).
 
-###### Artigo 12.º — [revogado]
+Artigo 12.º
 
-###### Artigo 13.º — Taxas
+[revogado]
+
+Artigo 13.º
+
+Taxas
 
 1 - A certificação de entidade formadora, o alargamento da certificação a outras áreas de educação e formação e o pedido de transmissão da certificação estão sujeitos ao pagamento de uma taxa, a efetuar pela entidade requerente com o respetivo requerimento.
 
@@ -732,7 +802,9 @@ e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Ca
 
 4 - O pagamento da taxa é condição prévia para a prática dos atos previstos no n.º 1, exceto no caso de auditoria em que a taxa é paga no prazo indicado pela entidade certificadora, considerando-se o não pagamento como oposição da entidade formadora à realização da mesma.
 
-###### Artigo 14.º — Divulgação
+Artigo 14.º
+
+Divulgação
 
 1 - A entidade certificadora disponibiliza o logótipo de entidade formadora certificada no âmbito da política da qualidade dos serviços e as regras da sua utilização, que esta deve adotar na publicitação da atividade formativa.
 
@@ -744,7 +816,9 @@ e) Fazer uso da cooperação entre autoridades administrativas, nos termos do Ca
 
 5 - A entidade certificadora informa do ato de certificação, nos termos do n.º 3 do artigo 6.º e através do sistema eletrónico a que se refere o n.º 7 do artigo 10.º, o serviço central competente do ministério responsável pela área da formação profissional, para efeitos de divulgação de uma lista geral de entidades formadoras certificadas.
 
-###### Artigo 15.º — Avaliação do desempenho de entidade formadora certificada
+Artigo 15.º
+
+Avaliação do desempenho de entidade formadora certificada
 
 1 - O desempenho da atividade da entidade formadora certificada estabelecida em território nacional é objeto de avaliação, a ser aferida de acordo com indicadores relativos a:
 
@@ -760,7 +834,9 @@ c) Resultados da atividade formativa.
 
 4 - A informação a que se refere o número anterior visa a melhoria contínua da entidade formadora certificada, bem como o acompanhamento e monitorização do seu desempenho, contribuindo, igualmente, para a preparação do procedimento de auditoria pela entidade certificadora.
 
-###### Artigo 16.º — Revogação e caducidade da certificação
+Artigo 16.º
+
+Revogação e caducidade da certificação
 
 1 - O incumprimento dos requisitos prévios ou dos que se reportam ao referencial de certificação ou, ainda, de algum dos deveres da entidade formadora certificada estabelecidos na presente portaria determina, conforme a gravidade das situações e a possibilidade da sua regularização, a revogação total ou parcial da certificação, sem prejuízo do disposto nos números seguintes.
 
@@ -786,11 +862,15 @@ d) Interdição do exercício da sua atividade em território nacional, por deci
 
 8 - É da competência da entidade certificadora proceder à revogação da certificação ou declarar a respetiva caducidade de acordo com os números anteriores, bem como proceder à respetiva divulgação.
 
-###### Artigo 17.º — Acompanhamento da certificação de entidades formadoras
+Artigo 17.º
+
+Acompanhamento da certificação de entidades formadoras
 
 O acompanhamento do procedimento de certificação das entidades formadoras é assegurado por um conselho de acompanhamento que funciona junto do serviço central competente do ministério responsável pela área da formação profissional.
 
-###### Artigo 18.º — Conselho de acompanhamento da certificação
+Artigo 18.º
+
+Conselho de acompanhamento da certificação
 
 1 - O conselho de acompanhamento da certificação de entidades formadoras é um órgão de natureza consultiva, ao qual compete formular sugestões com vista à melhoria das atividades, apreciando, designadamente:
 
@@ -826,9 +906,13 @@ h) Um especialista indicado por cada uma das confederações patronais.
 
 5 - O conselho de acompanhamento aprova o seu regulamento interno.
 
-###### Artigo 19.º — [revogado]
+Artigo 19.º
 
-###### Artigo 19.º-A — Regiões Autónomas
+[revogado]
+
+Artigo 19.º-A
+
+Regiões Autónomas
 
 1 - Os atos e os procedimentos necessários à execução da presente portaria nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.
 
@@ -838,11 +922,15 @@ h) Um especialista indicado por cada uma das confederações patronais.
 
 4 - O sistema eletrónico a que se refere o n.º 7 do artigo 10.º assegura o intercâmbio da informação relativa à certificação de entidades formadoras recebida pelo serviço central competente do ministério responsável pela área da formação profissional e pelos serviços competentes responsáveis pela mesma área nas administrações das regiões autónomas, nos termos do n.º 5 do artigo 14.º e do n.º 1 do presente artigo, com vista à permanente atualização da lista das entidades formadoras certificadas a operar em território nacional na posse daqueles serviços.
 
-###### Artigo 20.º — Norma revogatória
+Artigo 20.º
+
+Norma revogatória
 
 É revogada a Portaria n.º 782/97, de 29 de agosto.
 
-###### Artigo 21.º — Norma transitória
+Artigo 21.º
+
+Norma transitória
 
 1 - A acreditação de entidade formadora, ao abrigo da legislação agora revogada, cujo prazo de validade esteja em curso à data da publicação da presente portaria, deixa de estar sujeita a período de validade, sem prejuízo do disposto no n.º 3.
 
@@ -858,11 +946,15 @@ h) Um especialista indicado por cada uma das confederações patronais.
 
 7 - Uma vez criados os dispositivos necessários para o efeito, a entidade certificadora divulga, por despacho publicado no Diário da República e através do respetivo sítio da internet, a data a partir da qual os requerimentos de certificação passam a ser apresentados por via eletrónica.
 
-###### Artigo 22.º — Entrada em vigor
+Artigo 22.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor 60 dias após a sua publicação.
 
-## ANEXO I — Requisitos prévios da certificação
+ANEXO I
+
+Requisitos prévios da certificação
 
 (n.º 1 do artigo 5.º da portaria)
 
@@ -892,7 +984,9 @@ Fontes de verificação
 
 Declaração do requerente e registos das entidades financiadoras.
 
-## ANEXO II — Referencial de certificação de entidade formadora
+ANEXO II
+
+Referencial de certificação de entidade formadora
 
 (Referido no artigo 7.º da Portaria)
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 68/2010, 1º Suplemento, Série I de 2010-04-08
   number: '68'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1160-(2) a 1160-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/06801/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/195-a/2010/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-a-2010-679777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8a06906ba199d8bb8456aaae79f84b71ea5240acfc8de9872b0415e3117b5a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11a5caf756667f2c2a47f76ac83bc7f46f79ffef526a97c809ae5da4ee678efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medidas de Coacção
-- Processo Penal
+- Administrador da Insolvência
+- Assinatura Digital
 - Certificação Electrónica
+- Comunicações
+- Documento Eletrónico
 - Execução de Penas
+- Execução de Sentença
 - Formulário Eletrónico
 - Gestão Processual
+- Internet
 - Juiz
 - Magistrado do Ministério Público
-- Documento Eletrónico
+- Medidas de Coacção
 - Medidas Preventivas
-- Execução de Sentença
 - Notificação
-- Sanção Penal
-- Internet
-- Sistema de Informação
-- Recluso
 - Processo Judicial
-- Assinatura Digital
-- Comunicações
+- Processo Penal
+- Recluso
 - Restrição da Liberdade
-- Administrador da Insolvência
+- Sanção Penal
+- Sistema de Informação
 - Tribunal de Execução das Penas
 relationships:
 - type: amended_by
   target: pt:dre:499513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334586:por
+  label: "Alterado o art. 2.º da Port 114/2008, de 06-Fev, na redacção do presente diploma, alterado e republicado pela Port\
+    \ 1538/2008 de 30-Dez, pela PORT.471/2010.08.07.2010.MJ, DR.IS [131] de 08.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2010-334586
+  date: '2010-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/114/2008/02/06/p/dre
   label: null
@@ -101,16 +107,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1538/2008/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1538/2008/12/30/p/dre
+- type: cites
+  target: pt:dre:444233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499513:por
+  label: "Revogada, a partir de 01.09.2013, a Port 114/2008 de 06-fev, na redação do presente diploma, pela PORT.280/2013.26.08.2013.MJ,\
+    \ DR.IS [163] de 26.08.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-2013-499513
+  date: '2013-08-26'
 article_structure:
-  article_count: 14
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:57Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +193,9 @@ g) ...
 
 h) De acordo com o previsto no livro ii do Código da Execução das Penas e Medidas Privativas da Liberdade, apresentação de peças processuais e documentos por transmissão electrónica de dados, distribuição de processos por meios electrónicos, prática de actos processuais por meios electrónicos por magistrados e funcionários judiciais e notificações e comunicações por transmissão electrónica de dados.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O disposto na presente portaria aplica-se à tramitação electrónica:
 
@@ -187,7 +205,9 @@ b) ...
 
 c) Dos processos da competência dos tribunais ou juízos de execução das penas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -195,7 +215,9 @@ c) Dos processos da competência dos tribunais ou juízos de execução das pena
 
 3 - Nos processos em que intervenham no exercício das competências previstas nas alíneas a), d), e), g) e o) do n.º 1 do artigo 3.º do Estatuto do Ministério Público e no livro ii do Código da Execução das Penas e Medidas Privativas da Liberdade, a apresentação de peças processuais e documentos pelos magistrados do Ministério Público é sempre efectuada por transmissão electrónica de dados.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +225,9 @@ c) Dos processos da competência dos tribunais ou juízos de execução das pena
 
 3 - A distribuição automática através do sistema informático não obsta a que se proceda a uma classificação manual prévia dos processos quando tal classificação não seja efectuada de forma automática.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os actos dos funcionários que se limitem a realizar uma notificação electrónica, proceder a uma comunicação interna ou a remeter o processo para o juiz, Ministério Público ou outra secretaria ou secção do mesmo tribunal são sempre praticados em suporte informático, através do sistema informático disponibilizado para o efeito.
 
@@ -219,7 +243,9 @@ Disposições aplicáveis
 
 Aos processos da competência dos tribunais ou juízos de execução das penas são aplicáveis as disposições da presente portaria, com as especificidades previstas no presente capítulo.
 
-###### Artigo 25.º-B — Processo único de recluso
+Artigo 25.º-B
+
+Processo único de recluso
 
 1 - Quando for recebida no tribunal de execução das penas comunicação de aplicação de pena ou medida privativa da liberdade, nos termos do artigo 25.º-D, é distribuído e autuado o processo único de recluso, se ainda não existir.
 
@@ -227,11 +253,15 @@ Aos processos da competência dos tribunais ou juízos de execução das penas s
 
 3 - Os autos referidos no n.º 1 são reabertos sempre que o tribunal o entender conveniente ou quando dê entrada expediente a que não deva corresponder forma de processo ou incidente autónomo.
 
-###### Artigo 25.º-C — Publicação dos resultados da distribuição
+Artigo 25.º-C
+
+Publicação dos resultados da distribuição
 
 O disposto no artigo 16.º não é aplicável aos processos da competência dos tribunais ou juízos de execução das penas.
 
-###### Artigo 25.º-D — Comunicação da sentença e da aplicação de medida de coacção
+Artigo 25.º-D
+
+Comunicação da sentença e da aplicação de medida de coacção
 
 1 - As comunicações previstas no artigo 477.º do Código de Processo Penal são realizadas pela secretaria judicial, a requerimento do Ministério Público, por transmissão electrónica de dados, nos termos dos números seguintes.
 
@@ -307,4 +337,4 @@ b) A utilização facultativa dos meios informáticos referidos na alínea anter
 
 A presente portaria entra em vigor no dia 12 de Abril de 2010.
 
-**O Ministro da Justiça, Alberto de Sousa Martins, em 7 de Abril de 2010.**
+O Ministro da Justiça, Alberto de Sousa Martins, em 7 de Abril de 2010.

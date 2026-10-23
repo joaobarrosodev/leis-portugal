@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 17/2014, 1º Suplemento, Série I de 2014-01-24
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 532-(2) a 532-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/01701/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15-a/2014/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-a-2014-595118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d455070000d8125e73deabbd30a02e460cbf8edeeba807a41ae4ea8b6391149a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 734ffa5368c009c01c692ca1ed60e962aabbc551b538665173637f246af02f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atleta de ALTA Competição
+- Autoridade Nacional de Protecção Civil
 - Autoridade Tributária e Aduaneira
+- Bolsa de Estudos
+- Bombeiro
 - Código do IRS
 - Comité Paraolímpico de Portugal
-- Declaração de Rendimentos
 - Contribuições e Impostos
+- Declaração de Rendimentos
 - IRS
-- Bombeiro
 - Prémio
-- Bolsa de Estudos
 - Remuneração
-- Autoridade Nacional de Protecção Civil
 - Subsídio
 - Tributação
 relationships:
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2013/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2013/07/26/p/dre
+- type: cites
+  target: pt:dre:498733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66397917:por
+  label: Revogada, com efeitos a 01.01.2015, as instruções de preenchimento aprovadas pelo presente diploma, pelo(a) Portaria
+    n.º 17-A/2015 - Diário da República n.º 21/2015, 1º Suplemento, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-a-2015-66397917
+  date: '2015-01-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:32Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +143,6 @@ A presente portaria produz efeitos desde 1 de janeiro de 2014, devendo as instru
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 17 de janeiro de 2014.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 17 de janeiro de 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01701/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01701/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01701/0000200003.pdf)

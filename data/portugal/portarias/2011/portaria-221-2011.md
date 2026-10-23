@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/221/2011/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-2011-673576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aded9e6d351f58bb6e52bbbbf7e6ee09e9c3785b64cc48530f145c31dfe7eb4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dff26a3ad11c32c82b1c2ae70af3a87976fc36fc2b9cdb8914a09edfb2957df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Castelo Branco
 - Definição de Competências
 - Direcção Regional de Cultura
 - Direcção Regional de Cultura do Centro
 - Orgânica
-- Castelo Branco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/34/2007/03/29/p/dre
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/373/2007/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/373/2007/03/30/p/dre
+- type: cites
+  target: pt:dre:343580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:18Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +144,6 @@ O anexo da Portaria n.º 373/2007, de 30 de Março, é alterado de acordo com o 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 20 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 13 de Dezembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 20 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 13 de Dezembro de 2010.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10600/0302203022.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10600/0302203022.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10600/0302203022.pdf)

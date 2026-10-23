@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 101/2013, 1º Suplemento, Série I de 2013-05-27
   number: '101'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3116-(2) a 3116-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193-a/2013/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-a-2013-499046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbbc3ec70f605312163be6bc940c704124a5c3ee20bd79f98bb4a00fa6c68a81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad8251cc3e3c6a665b203688b69ed4ea62c86f24974eb023e34be19adf08692d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Comércio
 - Concurso
 - Consumidor
 - Definição de Competências
-- Distribuição de Gás
+- Desenvolvimento Local
 - Direção Geral de Energia e Geologia
-- Licenciamento
-- Página na Internet
+- Distribuição de Gás
+- Empresa
 - Entidade Reguladora dos Serviços Energéticos
 - Informação do Consumidor
+- Licenciamento
+- Página na Internet
 - Preço
-- Serviço Público
 - Proteção do Consumidor
 - Rede Nacional de Distribuição de Gás Natural
-- Desenvolvimento Local
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
 - Sistema Nacional de Gás Natural
-- Comércio
 relationships:
 - type: cites
   target: celex:32009L0073
@@ -95,15 +95,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1213/2010/12/02/p/dre
 article_structure:
-  article_count: 52
+  article_count: 43
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:04Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +166,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Não havendo lugar a indeferimento liminar, a DGEG publica o aviso a que se refere o n.º 1 do artigo 25.º do Decreto-Lei n.º 140/2006, de 26 de julho, na redação dada pelo Decreto-Lei n.º 231/2012, de 26 de outubro, na 2.ª série do Diário da República, bem como no respetivo sítio na Internet, através do qual dá a conhecer a eventuais interessados a existência de uma declaração inicial de interesse para obtenção de licença de distribuição em polo de consumo, permitindo que os mesmos, até ao limite do prazo nele fixado, desde que superior a seis meses mas inferior a sete meses, possam manifestar o seu interesse na obtenção da licença de distribuição para este mesmo polo de consumo.
 
@@ -190,19 +192,25 @@ f) Indicação de que, além de todos os requisitos a cumprir, haverá lugar à 
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A manifestação de interesse a apresentar na sequência do previsto nos artigos 5.º e 6.º deve ser dirigida ao membro do Governo responsável pela área da energia, identificar expressamente o aviso ao abrigo do qual a declaração é apresentada, através do seu número e, se for o caso, a referência do procedimento, bem como o Diário da República em que foi publicado, e vir acompanhada dos elementos previstos no n.º 2 do artigo 3.º
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Caso venha a existir, na sequência do previsto nos artigos 5.º e 7.º, mais de um declarante interessado para o mesmo polo de consumo, é aberto concurso limitado entre eles, como previsto no n.º 2 do artigo 25.º do Decreto-Lei n.º 140/2006, na redação dada pelo Decreto-Lei n.º 231/2012, de 26 de outubro, e no número seguinte.
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -212,7 +220,9 @@ f) Indicação de que, além de todos os requisitos a cumprir, haverá lugar à 
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -248,7 +258,9 @@ j) [...]
 
 7 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -302,7 +314,9 @@ P(índice i ano 6) = 15% x C(índice i ano 6) + 20% x D(índice i) + 25% x E(ín
 
 5- As propostas devem apresentar projeções detalhadas, incluindo todas as variáveis, para um horizonte temporal mínimo de 15 anos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As propostas devem apresentar, para a área de implantação da rede de distribuição, o levantamento exaustivo do mercado potencial, incluindo:
 
@@ -330,7 +344,7 @@ Q(índice 1) - o consumo anual característico do perfil de menor consumo public
 
 6- [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
 
 7- Aos valores de referência dos consumidores finais de cada segmento são atribuídos pesos específicos determinados de acordo com a expressão seguinte:
 
@@ -346,7 +360,7 @@ Q(índice 1) - o consumo anual característico do perfil de menor consumo public
 
 8- O valor de referência da população potencialmente servida pela rede de distribuição é determinado de acordo com a seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
 
 9 - O valor do critério C resulta da seguinte expressão:
 
@@ -360,7 +374,9 @@ N(índice i) - população potencialmente servida pela rede de distribuição do
 
 N(índice r) - valor de referência da população potencialmente servida, afetado pelos pesos específicos dos consumidores finais por segmento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -382,7 +398,9 @@ I(índice i) - investimento previsto para o desenvolvimento da infraestrutura da
 
 I(índice r) - valor de referência do investimento previsto para o desenvolvimento da rede de distribuição.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As propostas devem apresentar previsões para a taxa de penetração, incluindo as quantidades de gás natural veiculadas na rede de distribuição, devidamente justificadas.
 
@@ -610,7 +628,7 @@ A presente portaria é aplicável aos procedimentos iniciados previamente à sua
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 23 de maio de 2013.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 23 de maio de 2013.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 9.º)
 
@@ -1044,7 +1062,7 @@ Q(índice 1) - o consumo anual característico do perfil de menor consumo public
 
 6 - A população potencialmente servida pela rede de distribuição é determinada, para cada concorrente, de acordo com a seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
 
 7 - Aos valores de referência dos consumidores finais de cada segmento são atribuídos pesos específicos determinados de acordo com a expressão seguinte:
 
@@ -1060,7 +1078,7 @@ Q(índice 1) - o consumo anual característico do perfil de menor consumo public
 
 8 - O valor de referência da população potencialmente servida pela rede de distribuição é determinado de acordo com a seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
 
 9 - O valor do critério C resulta da seguinte expressão:
 
@@ -1096,7 +1114,7 @@ f) Outros investimentos, desagregando as suas principais rubricas.
 
 4 - As propostas devem apresentar o valor do investimento previsto para o desenvolvimento da infraestrutura da rede de distribuição, de acordo com a seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10101/0000200019.pdf)
 
 5 - O valor do Critério D é calculado de acordo com a seguinte expressão:
 
@@ -1410,7 +1428,7 @@ Alterações ao enquadramento legal do setor
 
 2 - No caso de as condições serem alteradas nos termos do número anterior, exceto no que respeita ao prazo da licença, a licenciada não pode exigir ao Estado qualquer tipo de compensação.
 
-**O Ministro da Economia e do Emprego.**
+O Ministro da Economia e do Emprego.
 
 Apêndices:
 

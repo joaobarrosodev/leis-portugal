@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-2000-1409239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dfde48797f6bbecf245e57d30d1ed8bcb21acd7bfb020f97eae2f6426053ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d3a5b08a9aac21c658547ee441334224aaa0d259bb7bffda79641e2881da3b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Navios
+- Marinha
+- Unidade Naval
+relationships:
+- type: cites
+  target: pt:dre:654524:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2199942:por
+  label: "Rectificada pela RECT.713/2000.2000.02.21.MDN, DR.IIS [52] de 02/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/713-2000-2199942
+  date: '2000-02-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:11:36Z'
   warnings: []
   errors: []
 ---

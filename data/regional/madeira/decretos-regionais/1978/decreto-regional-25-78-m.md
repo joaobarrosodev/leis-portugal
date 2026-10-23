@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1978-295144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51fd1b36464d7c416275f554b83efc76e7ac9cfe395d4f23cdc7e788fee24e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a038eca6a95992283eadacc8fb552f11f885281f1f1dd1dfe85d06a9cd06944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Regional do Trabalho
+- Integração de Serviços
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria de Estado do Trabalho
+- Secretaria Regional do Trabalho
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:19Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +101,17 @@ Sabido que o Decreto Regional n.º 2/76 atribuiu à Secretaria Regional do Traba
 
 Nestes termos, usando da faculdade conferida pelo artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e de harmonia com a alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criada, na dependência da Secretaria Regional do Trabalho, a Direcção Regional do Trabalho.
+Artigo 1.º É criada, na dependência da Secretaria Regional do Trabalho, a Direcção Regional do Trabalho.
 
-###### Art. 2.º Ficam integrados naquela Direcção Regional os serviços enquadrados, orgânica ou funcionalmente, na extinta delegação da Direcção de Serviços das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, que funcionava na Região Autónoma da Madeira.
+Art. 2.º Ficam integrados naquela Direcção Regional os serviços enquadrados, orgânica ou funcionalmente, na extinta delegação da Direcção de Serviços das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, que funcionava na Região Autónoma da Madeira.
 
-###### Art. 3.º A Direcção Regional do Trabalho é constituída pelos seguintes serviços:
+Art. 3.º A Direcção Regional do Trabalho é constituída pelos seguintes serviços:
 
 a) Instrumentos de Regulamentação Colectiva de Trabalho e Salários;
 
 b) Registo e Depósito.
 
-###### Art. 4.º Ao Serviço de Instrumentos de Regulamentação Colectiva de Trabalho e Salários compete:
+Art. 4.º Ao Serviço de Instrumentos de Regulamentação Colectiva de Trabalho e Salários compete:
 
 a) Colaborar nas diferentes fases das negociações de convenções colectivas de trabalho, desde que haja acordo prévio, nesse sentido, de ambas as partes em negociação. Participar nelas, desde que lei imperativa o determine;
 
@@ -118,7 +131,7 @@ h) Efectuar a recolha de elementos estatísticos que sirvam de suporte à condu�
 
 i) Estabelecer a matriz regional de salários por sectores de actividade, por forma a possibilitar o estabelecimento de políticas de salários e de preços adequadas às diferentes situações conjunturais da economia.
 
-###### Art. 5.º Ao Serviço de Registo e Depósito compete:
+Art. 5.º Ao Serviço de Registo e Depósito compete:
 
 a) Promover o depósito das convenções colectivas de trabalho efectuadas na Região e respectivas alterações ou rectificações, apreciando previamente a sua conformidade ou não com a lei;
 
@@ -128,18 +141,18 @@ c) Remeter para publicação no Jornal Oficial da Região e Boletim do Trabalho 
 
 d) Colaborar no tratamento estatístico dos mesmos e com o Serviço de Estatística do Governo Regional, consoante orientação e directivas superiores.
 
-###### Art. 6.º - 1 - O pessoal da Direcção Regional do Trabalho constará de um quadro regional, aprovado pelo Secretário Regional, com salvaguarda do cominado no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
+Art. 6.º - 1 - O pessoal da Direcção Regional do Trabalho constará de um quadro regional, aprovado pelo Secretário Regional, com salvaguarda do cominado no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
 
 2 - A Direcção Regional terá a chefiá-la um director nomeado por livre escolha do secretário.
 
 3 - O quadro de pessoal, formas de provimento, categorias e dotações serão determinados por diploma regional posterior.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 1 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 3 de Maio de 1978.**
+Assinado em 3 de Maio de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

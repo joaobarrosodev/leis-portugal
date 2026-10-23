@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2022/05/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183403837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56c313df5debbdb89b4cdd8469faf8c8a160ae2f1a97806e159c210c288271c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9aa3c7262986fcff389e49fcb88f1372164cf89efb94a34abe3496263507bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
-- Divulgação Cultural
 - Assembleia Legislativa
-- Prémio
+- Divulgação Cultural
+- Investigação Científica e Tecnológica
 - Madeira.região Autónoma
+- Prémio
 - Prémio + Valor Madeira
 - Prémio Cultural
 relationships:
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:157575588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:39Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +153,9 @@ Pelo presente diploma são alterados os artigos 3.º, 5.º, 6.º e 7.º do [Decr
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -153,7 +171,9 @@ ii) Quando publicado em revista eletrónica, um exemplar imprimido a partir do s
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 São condições de admissibilidade dos trabalhos ao procedimento de atribuição do Prémio +Valor Madeira, as seguintes:
 
@@ -167,7 +187,9 @@ d) No caso de trabalhos que se encontrem em língua estrangeira, a tradução a 
 
 e) A declaração a que se refere a alínea anterior é feita de acordo com o modelo constante de anexo ao presente diploma, que do mesmo faz parte integrante.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -229,11 +251,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de maio de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 11 de maio de 2022.**
+Assinado em 11 de maio de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -383,8 +405,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf))](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf)
 
 ## ANEXO II — [a que se refere a alínea e) do artigo 6.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf))](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/09300/0001200023.pdf)
+
+115314795

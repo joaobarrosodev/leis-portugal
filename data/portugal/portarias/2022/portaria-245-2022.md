@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18700/0004100043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/245/2022/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/245-2022-201509701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6251fb53b69b41d74d8476180d16eded6cea83a58355a15386c2529a9e78688f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0b1ea52400e4c77eafb80a84764eaf3cca54c194fbfb64cca4543e62c8e5865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Pessoal Dirigente
+- Carreira Profissional
 - Concurso
 - Concurso de Ingresso
-- Regulamentação de Atos Legislativos
-- Carreira Profissional
-- Formas de Provimento
-- Recrutamento de Pessoal
 - Contratação de Pessoal
-- Polícia Judiciária
+- Formas de Provimento
 - Gestão de Recursos Humanos
 - Investigação Criminal
+- Pessoal Dirigente
+- Polícia Judiciária
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/248/2021/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/248/2021/11/11/p/dre
+- type: cites
+  target: pt:dre:124680595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174193081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:49Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +191,6 @@ Os postos de trabalho não providos no ano de abertura do procedimento concursal
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 26 de setembro de 2022. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 25 de setembro de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 26 de setembro de 2022.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 26 de setembro de 2022. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 25 de setembro de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 26 de setembro de 2022.
+
+115723489

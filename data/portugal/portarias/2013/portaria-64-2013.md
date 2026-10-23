@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64/2013/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2013-258701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1308dcd94808f8a42883d7547190cbd00f232ba3d30c4616afe3314d5d0675d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4fb9368366903c28d81ece58b55238be602d76a39657f7f51e63755525738cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Leiria
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:1132129:por
+  label: "Aprovada a alteração (incidente sobre a folha 1C, com as áreas a excluir identificada de E2 a E9 e a área a incluir\
+    \ identificada como I1) da delimitação da Reserva Ecológica Nacional do Município de Leiria, aprovada Res 117/2003 de\
+    \ 13-dez, posteriormente alterado pelo presente diploma, pelo AV.14748/2013.02.12.2013.CCDRC-PCM, DR.IIS [233] de 02.12.2013,\
+    \ que republicou em anexo a folha 1C e a carta da REN do Municipio de Leiria, na área do Plano de Pormenor de S. Romão/Olhalvas.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14748-2013-1132129
+  date: '2013-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -95,16 +104,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/1996/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/1996/06/11/p/dre
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660085:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:259382:por
+  label: "Retificada os parag. 1º, 2º, 5º do preâmbulo e o art. 3º - produção de efeitos - pela DECL-RECT.17/2013.25.03.2013.PCM,\
+    \ DR.IS [59] de 25.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/17-2013-259382
+  date: '2013-03-25'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:18Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +186,12 @@ As referidas plantas, o quadro anexo e a memória descritiva do presente process
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano de Pormenor de Arrabalde da Ponte.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 29 de janeiro de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 29 de janeiro de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf)
 
 QUADRO ANEXO
 
 Alteração da Reserva Ecológica Nacional do município de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03100/0078700789.pdf)

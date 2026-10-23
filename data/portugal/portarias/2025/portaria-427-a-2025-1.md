@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427-a/2025/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2025-958688189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0eabb897f763ad48efbfada36827c9a26096a2c2cd861530fe833a351fefc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad8e6798266c71faae098e35621884d6e7296a5dfe11e0cfeae6219e91b3a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
-- Produto Petrolífero
 - Combustível
 - Gasóleo
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: cites
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/244-a/2023/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/244-a/2023/07/28/p/dre
+- type: cites
+  target: pt:dre:212450607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214012391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215097648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216326004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:42Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +144,11 @@ Em 2021 e 2022, o XXIII Governo Constitucional adotou um conjunto de medidas, qu
 
 Com efeito, em outubro de 2021, o Governo à época adotou uma redução excecional e temporária da taxa do imposto sobre os produtos petrolíferos e energéticos (ISP), aplicável à gasolina e ao gasóleo, correspondente ao acréscimo do imposto sobre o valor acrescentado (IVA), decorrente do aumento do preço dos combustíveis em resultado do choque ao nível da procura devido à pandemia de COVID-19, medida que, na sequência da guerra da Rússia contra a Ucrânia, foi substituída, em março de 2022, por um mecanismo de revisão as taxas do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário.
 
-Adicionalmente, foi suspensa a atualização do adicionamento sobre as emissões de CO<sub>2</sub> e, finalmente, aprovada, em abril de 2022, no âmbito do pacote de medidas extraordinárias para mitigar o aumento dos preços dos combustíveis, uma descida nas taxas do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário, equivalente ao que resultaria da redução da taxa do IVA de 23 % para 13 %.
+Adicionalmente, foi suspensa a atualização do adicionamento sobre as emissões de CO2 e, finalmente, aprovada, em abril de 2022, no âmbito do pacote de medidas extraordinárias para mitigar o aumento dos preços dos combustíveis, uma descida nas taxas do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário, equivalente ao que resultaria da redução da taxa do IVA de 23 % para 13 %.
 
-Em consonância com a natureza temporária e extraordinária de que se revestiram todas estas medidas, o XXIII Governo Constitucional iniciou, em março de 2023, o descongelamento gradual da atualização do adicionamento sobre as emissões de CO<sub>2</sub>, tendo aumentado esta taxa através da [Portaria n.º 113-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2023-212450607), de 28 de abril, da [Portaria n.º 150-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/150-a-2023-214012391), de 5 de junho, da [Portaria n.º 187-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/187-b-2023-215097648), de 3 de julho, e da [Portaria n.º 244-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-a-2023-216326004), de 28 de julho.
+Em consonância com a natureza temporária e extraordinária de que se revestiram todas estas medidas, o XXIII Governo Constitucional iniciou, em março de 2023, o descongelamento gradual da atualização do adicionamento sobre as emissões de CO2, tendo aumentado esta taxa através da [Portaria n.º 113-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2023-212450607), de 28 de abril, da [Portaria n.º 150-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/150-a-2023-214012391), de 5 de junho, da [Portaria n.º 187-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/187-b-2023-215097648), de 3 de julho, e da [Portaria n.º 244-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-a-2023-216326004), de 28 de julho.
 
-O XXIV Governo Constitucional prosseguiu o descongelamento gradual da atualização do adicionamento sobre as emissões de CO<sub>2</sub>, o qual foi concretizado tendo em conta a evolução do mercado, de forma a assegurar que o mesmo não se refletisse num aumento dos preços dos combustíveis.
+O XXIV Governo Constitucional prosseguiu o descongelamento gradual da atualização do adicionamento sobre as emissões de CO2, o qual foi concretizado tendo em conta a evolução do mercado, de forma a assegurar que o mesmo não se refletisse num aumento dos preços dos combustíveis.
 
 Em consonância com as recomendações da Comissão Europeia, estas medidas devem ser progressivamente eliminadas à medida que a evolução do mercado da energia o permitir.
 
@@ -152,4 +176,6 @@ A presente portaria entra em vigor no dia 1 de dezembro de 2025.
 
 Em 28 de novembro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.
+
+119834993

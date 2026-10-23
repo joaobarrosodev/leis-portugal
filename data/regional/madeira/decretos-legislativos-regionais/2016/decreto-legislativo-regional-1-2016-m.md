@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/00900/0016200163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2016/01/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73135327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afce2991547a4b24c58978b5a85f3583c5d624707138da8cf60af8151fd88fcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 393b9291bffb210d72dfcf9bc1f94e5addd8a92d150d3860232a6cdb2d01ad2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,32 @@ reuse:
 subjects:
 - Acreditação
 - Agência para a Energia
-- Multa
-- Direção Geral da Saúde
+- Agência Portuguesa do Ambiente
+- Agência Regional de Energia e Ambiente
+- Certificação Energética dos Edifícios
+- Certificado de Qualidade
+- Climatização
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Direcção Regional do Ordenamento do Território e Ambiente
-- Climatização
-- Sistema de Certificação Energética
-- União Europeia
-- Fiscalização
+- Direção Geral da Saúde
 - Direção Geral de Energia e Geologia
-- Certificação Energética dos Edifícios
-- Licenciamento
-- Agência Regional de Energia e Ambiente
-- Certificado de Qualidade
-- Poupança de Energia
-- Madeira.região Autónoma
-- Regulamento
-- Habitação
-- Qualidade  do AR
-- Prédio Urbano
-- Eficiência Energética
-- Taxa
-- Comércio
 - Direção Regional da Economia e Transportes
+- Direcção Regional do Ordenamento do Território e Ambiente
+- Eficiência Energética
+- Fiscalização
+- Habitação
 - Instituto de Administração da Saúde e Assuntos Sociais
-- Agência Portuguesa do Ambiente
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
+- Poupança de Energia
+- Prédio Urbano
+- Qualidade  do AR
+- Regulamento
+- Sistema de Certificação Energética
+- Taxa
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:170413763:por
@@ -141,6 +141,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:170413763:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 23/2021/M - Diário da República n.º 168/2021, Série I de 2021-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2021-170413763
+  date: '2021-08-30'
 - type: transposes
   target: celex:32010L0031
   label: null
@@ -148,13 +185,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:57Z'
   warnings: []
   errors: []
 ---
@@ -213,10 +250,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 18 de dezembro de 2015.**
+Assinado em 18 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

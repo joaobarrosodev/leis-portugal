@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05700/0002400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2022/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2022-180830504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c335026e5dcce387712640360c42a75cca4a1b7cf429a4e2f702c7ff506cd1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c64b15432de384642d14e7bb80f97bf3aca9da0d21001519557c485493ef940b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AMA
-- Núcleo Infantil
-- Licenciamento
-- Secretaria Regional da Educação
-- Madeira.região Autónoma
-- Regime Jurídico
 - Educação Pré-escolar
+- Licenciamento
+- Madeira.região Autónoma
+- Núcleo Infantil
+- Regime Jurídico
+- Secretaria Regional da Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2006/04/24/m/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660957:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:38Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +156,9 @@ Autorização de funcionamento do núcleo infantil
 
 2 - Compete ao membro do Governo Regional responsável pela área da educação autorizar o funcionamento do núcleo infantil cuja avaliação prevista no número anterior seja favorável.
 
-###### Artigo 10.º — Suspensão e cancelamento da licença de titular e encerramento do núcleo
+Artigo 10.º
+
+Suspensão e cancelamento da licença de titular e encerramento do núcleo
 
 1 - A licença de titular de núcleo pode ser temporariamente suspensa nos casos em que:
 
@@ -170,7 +188,9 @@ b) O funcionamento do núcleo infantil em condições de grave degradação e do
 
 7 - O encerramento compulsivo do núcleo infantil pode ser solicitado às autoridades administrativas e policiais, com comunicação do despacho correspondente.
 
-###### Artigo 11.º — Contratos de apoio aos titulares de núcleo infantil
+Artigo 11.º
+
+Contratos de apoio aos titulares de núcleo infantil
 
 1 - A formação e os apoios técnico-pedagógico e administrativo aos titulares de núcleo infantil serão objeto de contrato de cooperação.
 
@@ -186,10 +206,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de fevereiro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 11 de março de 2022.**
+Assinado em 11 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+115110999

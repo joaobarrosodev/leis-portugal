@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/181/2012/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2012-178781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e130591b191c331871f6ec57549fc7ced2e8b158da89754e2dadb9c00375fcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf74bf48a8ef102d53c5f0c47f84f4fa209c0e77c1afa22d294f1babb439fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Definição de Competências
 - Combustível
-- Fiscalização
+- Definição de Competências
 - Direção Geral de Energia e Geologia
+- Fiscalização
 - Normas de Construção
 - Regulamento
 - Segurança das Instalações
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 71
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:41Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,7 @@ Manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 28 de maio de 2012.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 28 de maio de 2012.
 
 ## ANEXO — REGULAMENTO DE ARMAZENAMENTO SUBTERRÂNEO DE GÁS NATURAL EM FORMAÇÕES SALINAS NATURAIS
 
@@ -1028,7 +1028,7 @@ c) Dispersão da nuvem de gás, nomeadamente por efeito dos ventos.
 
 5 - As distâncias de segurança a praticar, constantes do quadro seguinte, devem ser as resultantes dos cálculos referidos no n.º 2, reportados aos níveis de radiação térmica, sem nunca serem inferiores às indicadas na coluna dos valores mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
 
 6 - As diversas unidades das instalações de superfície que contenham gás natural devem ser espaçadas, pelo menos, 15 metros entre si e em relação a fontes de ignição.
 
@@ -1148,7 +1148,7 @@ NFPA 13 - Standard for the Installation of Sprinkler Systems;
 
 NFPA 14 - Standard for the Installation of Standpipes and Hose Systems;
 
-NFPA 70 - National Electrical Code[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf).
+NFPA 70 - National Electrical Code[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf).
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
@@ -1158,10 +1158,10 @@ Até à disponibilização pela concessionária em cuja concessão se integre a 
 
 ## ANEXO — Detalhes de construção das cavidades e dos furos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
 
 Figura n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11100/0294602961.pdf)
 
 Figura n.º 2

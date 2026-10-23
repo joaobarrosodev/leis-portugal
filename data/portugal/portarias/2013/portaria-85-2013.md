@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/85/2013/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-2013-259243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a9361ebd650a23f236ac307a972a68c0a970522be3b3b8ad809464bd5aca7a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 620209159a5e43f68100feeea8ccd2981a78bbcf40c78a0283c05b6f5d329f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto da Construção e do Imobiliário
-- Contrato Administrativo
-- Definição de Competências
 - Agenda Portugal Digital
-- Documento Eletrónico
-- Entidade de Serviços Partilhados da Administração Pública
-- Portal dos Contratos Públicos
-- Página na Internet
-- Internet
-- Publicação Electrónica
 - Contratação Eletrónica
 - Contratação Pública
+- Contrato Administrativo
+- Definição de Competências
+- Documento Eletrónico
+- Entidade de Serviços Partilhados da Administração Pública
+- Instituto da Construção e do Imobiliário
+- Internet
+- Página na Internet
+- Portal dos Contratos Públicos
+- Publicação Electrónica
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
@@ -112,16 +112,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:179504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108086621:por
+  label: Revoga a Port 701-F/2008 de 29-jul, alterada pela presente portaria, pelo(a) Decreto-Lei n.º 111-B/2017 - Diário
+    da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, nos termos do disposto nos seus arts. 12.º e 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:25Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +184,9 @@ Os artigos 3.º, 4.º, 6.º e 7.º da Portaria n.º 701 -F/2008, de 29 de julho,
 
 2 - Para suporte à gestão do Portal, o InCI, I.P. utiliza, preferencialmente, os serviços partilhados de Tecnologias de Informação e Comunicação (SP TIC) da Entidade de Serviços Partilhados da Administração Pública (eSPap, I.P.), designadamente os serviços de alojamento e administração de infraestruturas tecnológicas, bem como de desenvolvimento e manutenção aplicacional, estando, nesse caso, dispensado do cumprimento de quaisquer formalismos pré-contratuais, nomeadamente dos previstos no [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O Portal dos Contratos Públicos disponibiliza, obrigatoriamente, informação sobre:
 
@@ -178,7 +214,9 @@ c) Identificação dos demais concorrentes, com indicação de nome, sede e núm
 
 6 - O Portal dos Contratos Públicos deve constituir o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração do relatório estatístico a que se refere o artigo 472.º do CCP.
 
-###### Artigo 6.º — Interligação e interoperabilidade
+Artigo 6.º
+
+Interligação e interoperabilidade
 
 1 - ...
 
@@ -186,7 +224,9 @@ c) Identificação dos demais concorrentes, com indicação de nome, sede e núm
 
 3 - Sem prejuízo do disposto no n.º 1, no que se refere ao Sistema Nacional de Compras Públicas, o Portal dos Contratos Públicos deve interligar-se com a plataforma prevista no ponto 3.1.6 da Agenda Portugal Digital, aprovada pela [Resolução do Conselho de Ministros n.º 112/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2012-189514), de 31 de dezembro, designadamente para efeitos de disponibilização de informação necessária à gestão e monitorização do referido SNCP e recepção de informação relativa a todas as aquisições efetuadas ao abrigo do mesmo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os dados de natureza pública constantes do Portal dos Contratos Públicos devem ser passíveis de extração automática, de forma gratuita e em formatos abertos ao abrigo da [Lei n.º 36/2011](https://diariodarepublica.pt/dr/detalhe/lei/36-2011-670285), de 21 de junho, através do próprio portal e de outros portais públicos, designadamente, do portal Dados.Gov.pt
 
@@ -198,4 +238,4 @@ c) Identificação dos demais concorrentes, com indicação de nome, sede e núm
 
 2 - A disponibilização da funcionalidade prevista no n.º 4 do artigo 4.º respeitante à pesquisa por "sócios" fica dependente da celebração de protocolo entre o Instituto da Construção e do Imobiliário, I.P., enquanto entidade gestora do Portal dos Contratos Públicos, e o Instituto dos Registos e do Notariado, nos termos do qual se regula o acesso, pelo primeiro, à base de dados do registo comercial, detida e gerida pelo segundo.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 12 de fevereiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 13 de fevereiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de fevereiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 12 de fevereiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 13 de fevereiro de 2013.

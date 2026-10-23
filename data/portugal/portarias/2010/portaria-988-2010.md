@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/988/2010/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/988-2010-342166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8379cb0faecd343e99b4df55281ea1bfb2f87d8e995f55fdaee9a3f1d92aeef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8168b827e4b5972cfb32679e3b22f93bdb430a07f10c2777e7d14f6194ba8730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Pescador
-- Compensação Financeira
-- Frota de Pesca
-- Pesca
-- Apoio ao Investimento
 - Abate de Navios
-- IFAP
-- Investimento
+- Ajuda Comunitária
+- Apoio ao Investimento
 - Aquicultura
-- Prémio
-- Intervenção Operacional Pescas
+- Compensação Financeira
 - Contrato de Trabalho
-- Regulamento
 - Embarcação de Pesca
+- Financiamento
+- Frota de Pesca
+- IFAP
+- Intervenção Operacional Pescas
+- Investimento
+- Pesca
+- Pescador
+- Prémio
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:503050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503050:por
+  label: "Alterado o art. 6º do Regulamento do Regime de Apoio Para a Atribuição de Compensações Sócio-Económicas Não Renováveis\
+    \ Para Efeitos de Gestão da Frota de Pesca, aprovado pela Port 424-E/2008, de 13-jun, na redação da presente Portaria,\
+    \ pela PORT.310/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-2013-503050
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 6º do Regulamento do Regime de Apoio Para a Atribuição de Compensações Sócio-Económicas Não Renováveis\
+    \ Para Efeitos de Gestão da Frota de Pesca aprovado pela Port 424-E/2008 de 13-jun, na redação do presente diploma, pela\
+    \ PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:31986R2930
   label: null
@@ -104,15 +118,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/424-e/2008/06/13/p/dre
 article_structure:
-  article_count: 32
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:35Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +159,9 @@ a) Compensações sócio-económicas não renováveis, doravante designadas de p
 
 b) Aquisição de embarcações de pesca por jovens pescadores, nos termos do n.º 2 do artigo 27.º do supra-referido Regulamento.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São beneficiários dos apoios previstos na alínea a) do artigo anterior os pescadores cujos contratos de trabalho terminaram em virtude de a embarcação a bordo da qual exerciam a sua profissão ter cessado definitivamente a actividade no contexto da imobilização definitiva de embarcações de pesca, ao abrigo do disposto na subalínea i) da alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio.
 
@@ -153,7 +169,9 @@ b) Aquisição de embarcações de pesca por jovens pescadores, nos termos do n.
 
 3 - Para efeitos do presente regulamento, considera-se 'pescador' o tripulante, residente legal no território comunitário, que exerça uma actividade de pesca profissional a bordo de uma embarcação de pesca, registada num porto do continente.
 
-###### Artigo 3.º — Condições de acesso dos promotores
+Artigo 3.º
+
+Condições de acesso dos promotores
 
 1 - Sem prejuízo das condições gerais de acesso previstas no artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de Maio, os promotores das candidaturas aos prémios fixos individuais devem reunir as seguintes condições:
 
@@ -175,7 +193,9 @@ c) Terem idade inferior a 40 anos;
 
 d) Nunca terem sido proprietários de uma embarcação de pesca, ainda que parcialmente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Estão impedidos de apresentar candidaturas aos prémios fixos individuais previstos no presente Regulamento os seguintes tripulantes:
 
@@ -185,7 +205,9 @@ b) Aqueles que já tenham beneficiado do prémio fixo individual ao abrigo do pr
 
 2 - Não são admissíveis as candidaturas aos apoios à aquisição de embarcações de pesca previstos no presente Regulamento que envolvam transacções entre parentes do 1.º grau da linha recta, ou entre uma pessoa colectiva e um seu associado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +219,9 @@ b) Aqueles que já tenham beneficiado do prémio fixo individual ao abrigo do pr
 
 5 - O máximo elegível do apoio previsto no número anterior é definido no anexo i do presente Regulamento.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As candidaturas são apresentadas nas direcções regionais de agricultura e pescas, adiante designadas por DRAP.
 
@@ -207,7 +231,9 @@ b) Aqueles que já tenham beneficiado do prémio fixo individual ao abrigo do pr
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — Decisão e formalização dos apoios
+Artigo 7.º
+
+Decisão e formalização dos apoios
 
 1 - ...
 
@@ -221,7 +247,9 @@ b) Aqueles que já tenham beneficiado do prémio fixo individual ao abrigo do pr
 
 6 - A notificação prevista no número anterior produz efeitos decorridos cinco dias contados da sua expedição.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O pagamento dos apoios a atribuir ao abrigo do presente regime é realizado pelo IFAP, no prazo de 50 dias úteis após a notificação da concessão do apoio, nos seguintes termos:
 
@@ -229,7 +257,9 @@ a) No caso dos prémios fixos individuais, o pagamento realiza-se após comprova
 
 b) No caso dos apoios à aquisição de embarcação de pesca, o pagamento é realizado de uma só vez mediante a comprovação, pelo beneficiário, de que a propriedade da embarcação se encontra definitivamente registada em seu nome e que a mesma se encontra operacional, devendo, neste último caso, fazê-lo através da apresentação do respectivo certificado de navegabilidade ou documento equivalente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, nos casos aplicáveis, constituem obrigações dos beneficiários dos apoios aos prémios fixos individuais:
 
@@ -247,7 +277,9 @@ c) Informar as DRAP de qualquer alteração das condições que suportam a decis
 
 3 - Os prazos previstos nos artigos anteriores podem ser prorrogados pelo gestor, a requerimento dos promotores, devidamente fundamentado e quando a impossibilidade do cumprimento, ou incumprimento objectivamente verificado, não lhe seja imputável.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os apoios designados prémios fixos individuais não são acumuláveis com quaisquer prestações de protecção ao desemprego ou outro apoio da mesma natureza e finalidade.»
 
@@ -269,13 +301,17 @@ c) Tenha entre 5 e 30 anos;
 
 d) Não tenha sido objecto de qualquer transacção comercial nos 12 meses anteriores à data de apresentação das candidaturas.
 
-###### Artigo 4.º-A — Despesas elegíveis
+Artigo 4.º-A
+
+Despesas elegíveis
 
 1 - Para efeitos de concessão dos apoios à aquisição de embarcações de pesca previstos no presente Regulamento, apenas se consideram elegíveis as despesas relativas à aquisição da embarcação de pesca com os respectivos equipamentos e artes de pesca.
 
 2 - Os montantes máximos elegíveis são calculados de acordo com a arqueação bruta da embarcação, conforme a tabela constante do anexo i do presente Regulamento.
 
-###### Artigo 4.º-B — Critérios de selecção das candidaturas aos apoios à aquisição de embarcações de pesca
+Artigo 4.º-B
+
+Critérios de selecção das candidaturas aos apoios à aquisição de embarcações de pesca
 
 1 - Para efeitos de concessão de apoio, as candidaturas são ordenadas e seleccionadas por ordem decrescente da respectiva pontuação final (PF), resultante da aplicação da seguinte fórmula:
 
@@ -283,7 +319,9 @@ PF = 0,4 IP + 0,3 IE + 0,3 QA
 
 2 - A forma de cálculo das pontuações relativas aos indicadores de IP (idade do promotor), de IE (idade da embarcação) e de QA (quota de aquisição) é definida no anexo ii do presente Regulamento.
 
-###### Artigo 9.º-A — Correcções financeiras
+Artigo 9.º-A
+
+Correcções financeiras
 
 1 - No caso dos prémios fixos individuais, o apoio é reembolsado pro rata temporis sempre que o beneficiário reinicie a actividade profissional de pescador num período inferior a 12 meses, após a entrega da cédula marítima.
 
@@ -297,9 +335,11 @@ PF = 0,4 IP + 0,3 IE + 0,3 QA
 
 (a que se refere o n.º 2 do artigo 4.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf)
 
-## ANEXO II — (a que se refere o n.º 2 do artigo 4.º-B)
+ANEXO II
+
+(a que se refere o n.º 2 do artigo 4.º-B)
 
 Cálculo da pontuação final (PF)
 
@@ -505,7 +545,7 @@ Todos os prazos de natureza procedimental contam-se em dias úteis, nos termos d
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 4.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18900/0431104317.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º-B)
 

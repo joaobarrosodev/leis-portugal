@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01900/0001200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2024/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2024-839326797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 011409749e52bd60a87d49ae16fd039bb946618763a775986fb607716a000bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f366318eb0e005d2b0aeff3e75c8df6414b2288fe0960a84d031ae6a22ef80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Equipamento Social
-- Projeto de Investimento
+- Financiamento
 - Investimento
+- Programa de Alargamento da Rede de Equipamentos Sociais
+- Projeto de Investimento
 - Proteção ao Deficiente
 - Proteção na Velhice
-- Programa de Alargamento da Rede de Equipamentos Sociais
 - Regulamento
 - Segurança Social
 relationships:
+- type: amends
+  target: pt:numero:portaria:155/2023
+  label: Altera, a partir de 27 de janeiro de 2024, o anexo à Portaria n.º 155/2023, de 6 de junho, Diário da República n.º
+    109/2023, Série I
+  source: null
+  date: '2023-06-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
@@ -92,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/290/2019/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/290/2019/09/05/p/dre
+- type: cites
+  target: pt:dre:124457188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214042399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:17Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +160,6 @@ Os projetos aprovados no âmbito dos avisos de abertura do Programa de Alargamen
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 22 de janeiro de 2024.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 22 de janeiro de 2024.
+
+117281823

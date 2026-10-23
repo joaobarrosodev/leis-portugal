@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13500/0450104501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/757/2009/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/757-2009-492266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c068a9345ab14ff78d81489612630830c726111baf9806bd2457f6294fe077d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ea75836c7c011960b173318960f8f7b8da070471828576b79799775663297d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Inspecção Geral da Educação
 - Livre Trânsito
+- Pessoal Dirigente
 - Pessoal Técnico Superior de Inspecção
 relationships:
 - type: amended_by
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174789:por
+  label: "Revogada pela PORT.260/2012.29.08.2012.MECI, DR.IS [167] de 29.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-2012-174789
+  date: '2012-08-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:07Z'
   warnings: []
   errors: []
 ---
@@ -138,6 +147,6 @@ b) No verso superior, contém os direitos do portador; na parte inferior, a assi
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 9 de Julho de 2009.**
+A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 9 de Julho de 2009.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13500/0450104501.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13500/0450104501.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13500/0450104501.pdf)

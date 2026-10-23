@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04300/0007000073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/79/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-2025-909476477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 381f1065a1a303e63d5da4f335601233fe95a6f2a15a2459497dabd592eb9e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a791f1b279715e3483fb3c45dd673464baa1e6b193289351d22f7e3fc683058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NAFO
-- Regulamentação de Atos Legislativos
-- Pesca
-- Licença de Pesca
-- Oceano Atlântico
-- Pescado
-- Pesca Profissional
-- Quota de Pesca
 - Embarcação de Pesca
+- Licença de Pesca
+- NAFO
+- Oceano Atlântico
+- Pesca
+- Pesca Profissional
+- Pescado
+- Quota de Pesca
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:156-A/2021
+  label: Altera, a partir de 4 de março de 2025, com efeitos a 1 de janeiro de 2025, o artigo 2.º e o anexo I da Portaria
+    n.º 156-A/2021, de 20 de julho, Diário da República n.º 43/2025, Série I
+  source: null
+  date: '2025-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/156-a/2021/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/156-a/2021/07/20/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167904904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868636240:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:16Z'
   warnings: []
   errors: []
 ---
@@ -150,16 +168,16 @@ O anexo I da [Portaria n.º 156-A/2021](https://diariodarepublica.pt/dr/detalhe/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025.
 
-**A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 27 de fevereiro de 2025.**
+A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 27 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 ## ANEXO I — Licenciamento e repartição de quotas por navio no Atlântico Norte - NAFO, Noruega e Svalbard
 
-| Navio | Registo frota UE | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | 1 navio | 1 navio | % quota PT |
+| Navio | Registo frota UE | Abrótea | Bacalhau | Cantarilho | Palmeta | Camarão | Raia |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Navio | Registo frota UE | Abrótea | Bacalhau | Bacalhau | Bacalhau | Bacalhau | Cantarilho | Cantarilho | Cantarilho | Cantarilho | Palmeta | Camarão | Camarão | Raia |
-| Navio | Registo frota UE | NAFO 3NO (HKW/N3NO.) (<sup>4</sup>) | Svalbard (COD/1/2B.) (<sup>1</sup>) | Noruega (COD/1N2AB.) (<sup>1</sup>) | NAFO 3M (COD/N3M.) | NAFO2J3KL (COD/N2J3KL) | Noruega (REB/1N2AB.) (<sup>2</sup>) | NAFO 3M (RED/N3M.) (<sup>4</sup>) | NAFO 3º (RED/N3O.) (<sup>4</sup>) | Irminger (RED/51214D) (<sup>3</sup>) | NAFO (GHL/N3LMNO) (<sup>4</sup>) | NAFO 3M (PRA(EFF/*N3M.) | Svalbard (PRA/EF_XSV) | NAFO3LNO (SKA/N3LNO) (<sup>4</sup>) |
+| NAFO 3NO (HKW/N3NO.) (4) | Svalbard (COD/1/2B.) (1) | Noruega (COD/1N2AB.) (1) | NAFO 3M (COD/N3M.) | NAFO2J3KL (COD/N2J3KL) | Noruega (REB/1N2AB.) (2) | NAFO 3M (RED/N3M.) (4) | NAFO 3º (RED/N3O.) (4) | Irminger (RED/51214D) (3) | NAFO (GHL/N3LMNO) (4) | NAFO 3M (PRA(EFF/*N3M.) | Svalbard (PRA/EF_XSV) | NAFO3LNO (SKA/N3LNO) (4) |  |  |
+| % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | % quota PT | 1 navio | 1 navio | % quota PT |  |  |
 | Cidade de Amarante | PRT000019075 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |
 | Coimbra | PRT000000095 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |
 | França Morte | PRT000023094 | 20,73 | 11,11 | 11,11 | 16,66 | 13,33 | (**) | 20,73 | 20,73 | (*) | 19,99 | (***) | (***) | 20,73 |
@@ -177,10 +195,12 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 (***) De acordo com o artigo 5.º da presente portaria.
 
-(<sup>1</sup>) Pesca livre para todos os navios licenciados a partir de 1 de novembro, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.
+(1) Pesca livre para todos os navios licenciados a partir de 1 de novembro, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.
 
-(<sup>2</sup>) Quota acessível a todos os navios licenciados para a Noruega.
+(2) Quota acessível a todos os navios licenciados para a Noruega.
 
-(<sup>3</sup>) Pesca livre a partir de 1 de maio para todos os navios licenciados para o mar de Irminger, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.
+(3) Pesca livre a partir de 1 de maio para todos os navios licenciados para o mar de Irminger, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.
 
-(<sup>4</sup>) Pesca livre a partir de 1 de julho, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) ao(s) respetivo(s) navio(s) até final do ano.
+(4) Pesca livre a partir de 1 de julho, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) ao(s) respetivo(s) navio(s) até final do ano.
+
+118750329

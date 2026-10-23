@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/2013/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-2013-497465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc35b3eef7ca1c66a137c5c33fc32f32e9c4d9a7effdcac5456f6bf9ac0bb079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d8958316f81bb9b7b2af56d8995cb76b24c08da5b2c87f7f686ca1bf328d7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Coruche
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
@@ -95,16 +95,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2000/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2000/07/14/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:11Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +173,9 @@ A referida planta e a memória descritiva do presente processo podem ser consult
 
 A presente portaria entra em vigor no dia seguinte ao da respetiva publicação em Diário da República.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 28 de maio de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 28 de maio de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)
 
 QUADRO ANEXO
 
@@ -153,7 +185,7 @@ PROPOSTA DE EXCLUSÕES
 
 PLANO DE PORMENOR DA ZIMB-NORTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)
 
 QUADRO ANEXO
 
@@ -163,4 +195,4 @@ PROPOSTA DE EXCLUSÕES
 
 PLANO DE PORMENOR DA ZONA DE EXPANSÃO DA ZIMB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12400/0385203854.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/403/2010/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-2010-334898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b68f3949e14ac5420fb7b05b555c3ff751d3bd9d168517a098d5ef85f455e5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28fd2e9fe7990ec17a8e676c7840450b47b6c140143f938806ec44ce66c0a612
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento de Aplicação da ÁREA de Intervenção N.º 5 - Funcionamento da REDE Rural do Programa para a REDE Rural Nacional
-- Financiamento
-- Desenvolvimento Rural
+- Açores
+- Agricultura
+- Apoio ao Investimento
 - Contrato de Financiamento
 - Definição de Competências
-- REDE Rural Nacional
-- Feader
-- Apoio ao Investimento
-- Pagamento
-- IFAP
+- Desenvolvimento Rural
 - Exploração Agrícola
-- Página na Internet
 - Exploração Florestal
+- Feader
+- Financiamento
+- IFAP
 - Madeira.região Autónoma
+- Pagamento
+- Página na Internet
+- REDE Rural Nacional
 - Regulamento
-- Agricultura
-- Açores
+- Regulamento de Aplicação da ÁREA de Intervenção N.º 5 - Funcionamento da REDE Rural do Programa para a REDE Rural Nacional
 relationships:
 - type: cites
   target: celex:32005R1290
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:09Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +130,7 @@ Manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rura
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 16 de Junho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 16 de Junho de 2010.
 
 ## ANEXO — Regulamento de Aplicação da Área de Intervenção N.º 5 - Funcionamento da Rede Rural do Programa para a Rede Rural Nacional
 

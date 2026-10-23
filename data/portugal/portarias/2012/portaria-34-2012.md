@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2012/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2012-543900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44590dcb05df6038bbc8b3d9c5636dd0ce31f918b42d21d04e86acb2267ed644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07234d55fc76479468b1165143cfa786ce18acb9fa105718452c996aa1a658c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Batata
-- Porto de Lisboa
 - Certificado de Origem
 - Certificado Fitossanitário
-- Doença Vegetal
-- Decisão CE
+- Circulação de Mercadorias
+- Comércio
 - Controlo Sanitário
+- Decisão CE
+- Doença Vegetal
 - Egipto
+- Embalagem
 - Etiquetagem
 - Importação
-- Embalagem
-- Circulação de Mercadorias
 - Porto de Aveiro
 - Porto de Leixões
+- Porto de Lisboa
 - Porto de Sines
 - Proteção Fitossanitária
-- Comércio
 relationships:
 - type: cites
   target: celex:32004D0004
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:38Z'
   warnings: []
   errors: []
 ---
@@ -162,4 +162,4 @@ Para efeitos de circulação e comercialização da batata de consumo importada 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 5 de janeiro de 2012.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 5 de janeiro de 2012.

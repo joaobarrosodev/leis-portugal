@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24800/0978909815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2015/12/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf289a55232b98a0e80c6570a477568d42d4080615c313055f75f5122b4c1bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14df5be12332c3f6d6337c208e66661b87b571b3b35eb076f217caa7a1cef32c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Pessoal Dirigente
-- Comissão Paritária
-- Definição de Competências
 - Administração Pública
-- SIADAP
-- Avaliação das Instituições
-- Conselho Coordenador
-- Madeira.região Autónoma
-- Avaliação do Pessoal
-- Funcionário Público
 - Administração Regional
+- Avaliação das Instituições
+- Avaliação do Pessoal
+- Comissão Paritária
+- Conselho Coordenador
+- Definição de Competências
+- Funcionário Público
+- Madeira.região Autónoma
+- Pessoal Dirigente
+- Região Autónoma
+- SIADAP
 relationships:
 - type: amended_by
   target: pt:dre:152639812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Alterado, a partir de 01.01.2021, o art. 71.º do DLR 27/2009/M de 21-ago, na versão republicada pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2009/08/21/m/dre
   label: null
@@ -123,16 +129,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/d
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/d
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 134
+  article_count: 89
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:53Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +243,9 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 9.º, 10.º, 14.º, 16.º, 20.º, 22.º
 
 2 - O SIADAP-RAM baseia-se na articulação entre a avaliação de serviços, de dirigentes e demais trabalhadores, visando contribuir para a promoção da sua motivação profissional e desenvolvimento de competências, para a coerência e harmonia da ação dos serviços, com vista à melhoria continuada da administração pública regional.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -181,7 +261,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para os efeitos do disposto no presente diploma, entende-se por:
 
@@ -209,7 +291,9 @@ l) [...]
 
 m) [...]
 
-###### Artigo 7.º — Sistema de planeamento e ciclo de gestão
+Artigo 7.º
+
+Sistema de planeamento e ciclo de gestão
 
 1 - [...]
 
@@ -229,7 +313,9 @@ e) [...]
 
 4 - [...]
 
-###### Artigo 8.º — Subsistemas do SIADAP-RAM
+Artigo 8.º
+
+Subsistemas do SIADAP-RAM
 
 1 - O SIADAP-RAM integra os seguintes subsistemas:
 
@@ -249,7 +335,9 @@ b) SIADAP-RAM 2, de cinco ou três anos, de acordo com a duração da comissão 
 
 c) SIADAP-RAM 3, bienal.
 
-###### Artigo 9.º — Quadro de avaliação e responsabilização
+Artigo 9.º
+
+Quadro de avaliação e responsabilização
 
 1 - A avaliação de desempenho de cada serviço assenta num quadro de avaliação e responsabilização (QUAR), sujeito a avaliação permanente e atualização a partir dos sistemas de informação do serviço, assentando nos seguintes elementos estruturantes do SIADAP-RAM 1:
 
@@ -279,7 +367,9 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A avaliação do desempenho realiza-se com base nos seguintes parâmetros:
 
@@ -305,7 +395,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A autoavaliação tem caráter obrigatório e deve evidenciar os resultados alcançados e os desvios verificados de acordo com o QUAR do serviço, em particular face aos objetivos anualmente fixados.
 
@@ -323,7 +415,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -335,7 +429,9 @@ a) Identificar, anualmente, os serviços que se distinguiram positivamente ao n�
 
 b) [...]
 
-###### Artigo 20.º — Programa anual de heteroavaliações
+Artigo 20.º
+
+Programa anual de heteroavaliações
 
 1 - O órgão inspetivo propõe ao Governo Regional, através do membro do Governo Regional responsável pelas áreas das finanças e da administração pública, o programa de heteroavaliações, que terá periodicidade anual.
 
@@ -355,7 +451,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Cada serviço procede à divulgação, na sua página eletrónica, da autoavaliação com indicação dos respetivos parâmetros.
 
@@ -363,7 +461,9 @@ d) [...]
 
 3 - [Revogado.]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -379,7 +479,9 @@ c) [...]
 
 4 - A atribuição consecutiva de menções de Desempenho insuficiente ou a não superação de desvios evidenciados e analisados em sede de heteroavaliação podem fundamentar as decisões relativas à pertinência da existência do serviço, da sua missão, atribuições, organização e atividades, sem prejuízo do apuramento de eventuais responsabilidades.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -393,7 +495,9 @@ c) [...]
 
 6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita bienalmente, nos termos do SIADAP-RAM 3, não sendo aplicável o disposto no n.º 5.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes máximos dos serviços e dos dirigentes superiores efetua-se com base no grau de cumprimento dos objetivos assumidos no âmbito do QUAR, tendo por base os respetivos indicadores de medida fixados para a avaliação dos resultados obtidos e, na situação prevista no n.º 8 do artigo 28.º, considerando, ainda, as competências de liderança, de visão estratégica, de representação externa e de gestão demonstradas.
 
@@ -403,7 +507,9 @@ c) [...]
 
 4 - A avaliação do desempenho dos membros dos conselhos diretivos dos institutos públicos sujeitos para todos os efeitos legais ao Estatuto do Gestor Público segue o regime neste estabelecido.
 
-###### Artigo 27.º — Monitorização intercalar
+Artigo 27.º
+
+Monitorização intercalar
 
 1 - Para efeitos da monitorização intercalar prevista no n.º 2 do artigo 25.º, deve o dirigente máximo do serviço remeter ao respetivo membro do Governo Regional, até 15 de abril de cada ano, os seguintes elementos:
 
@@ -419,7 +525,9 @@ b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais
 
 5 - [Revogado.]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 8, a avaliação do desempenho dos dirigentes que exerçam a função de dirigente máximo do serviço reporta-se ao nível de avaliação final atribuído ao respetivo serviço em sede de SIADAP-RAM 1, nos termos do artigo 17.º, traduzindo-se no sucesso geral com superação de alguns objetivos, no cumprimento ou incumprimento global dos objetivos.
 
@@ -439,13 +547,17 @@ b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais
 
 9 - [Revogado.]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes superiores tem os efeitos previstos no respetivo estatuto, designadamente, em matéria de não renovação ou de cessação da respetiva comissão de serviço.
 
 2 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 A avaliação do desempenho dos dirigentes intermédios efetua-se com base nos seguintes parâmetros:
 
@@ -453,7 +565,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 33.º — Avaliação
+Artigo 33.º
+
+Avaliação
 
 1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início da sua comissão de serviço e no quadro das suas competências legais, negoceiam com o respetivo avaliador a definição dos objetivos, quantificados e calendarizados, a atingir no decurso do exercício de funções, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
 
@@ -493,7 +607,9 @@ c) [...]
 
 13 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no respetivo estatuto, designadamente em matéria de não renovação ou de cessação da respetiva comissão de serviço.
 
@@ -515,17 +631,23 @@ c) [...]
 
 10 - [...]
 
-###### Artigo 37.º — Processo de avaliação
+Artigo 37.º
+
+Processo de avaliação
 
 No que não estiver previsto no presente título, ao processo de avaliação dos dirigentes intermédios aplica-se, com as necessárias adaptações, o disposto no título IV do presente diploma.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A avaliação do desempenho dos trabalhadores é de caráter bienal, sem prejuízo do disposto no presente diploma para a avaliação a efetuar em modelos adaptados do SIADAP-RAM.
 
 2 - A avaliação respeita ao desempenho dos dois anos civis anteriores.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
 
@@ -541,7 +663,9 @@ No que não estiver previsto no presente título, ao processo de avaliação dos
 
 7 - Se no caso previsto no n.º 5 o titular da relação jurídica de emprego público não tiver avaliação que releve nos termos do número anterior ou se pretender a sua alteração, requer avaliação do biénio, feita pelo Conselho Coordenador da Avaliação, mediante proposta de avaliador especificamente nomeado pelo dirigente máximo do serviço.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 A avaliação do desempenho dos trabalhadores incide sobre os seguintes parâmetros:
 
@@ -549,7 +673,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -577,7 +703,9 @@ d) [...]
 
 6 - Os indicadores de medida do desempenho não devem ultrapassar o número de três.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -595,7 +723,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -635,7 +765,9 @@ a) Seis pontos por cada menção de Desempenho excelente;
 
 b) Quatro pontos por cada menção de Desempenho relevante.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -653,7 +785,9 @@ f) [...]
 
 2 - [...]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...]
 
@@ -685,7 +819,9 @@ f) [...]
 
 9 - Às reuniões do conselho coordenador da avaliação aplicam-se as disposições do Código do Procedimento Administrativo relativas às garantias de imparcialidade, nomeadamente, o disposto no seu artigo 69.º
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -721,7 +857,9 @@ f) [...]
 
 11 - [...]
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
@@ -745,7 +883,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 O processo de avaliação dos trabalhadores comporta as seguintes fases:
 
@@ -767,7 +907,9 @@ h) [...]
 
 i) [...]
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -787,7 +929,9 @@ d) A definição de orientações que permitam assegurar o cumprimento das perce
 
 5 - A fase de planeamento deve decorrer no último trimestre do ano anterior ao início do ciclo avaliativo.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -799,11 +943,15 @@ d) A definição de orientações que permitam assegurar o cumprimento das perce
 
 5 - [...]
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 Na 2.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo avaliativo, em regra, realizam-se as reuniões do Conselho Coordenador da Avaliação para proceder à análise das propostas de avaliação e à sua harmonização de forma a assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos, transmitindo, se for necessário, novas orientações aos avaliadores, na sequência das previstas na alínea d) do n.º 1 e no n.º 3 do artigo 58.º, e iniciar o processo que conduz à validação dos Desempenhos relevantes e Desempenhos inadequados e de reconhecimento dos Desempenhos excelentes.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Durante o mês de fevereiro do ano seguinte àquele em que se completa o ciclo avaliativo e após a harmonização referida no artigo anterior, realizam-se as reuniões dos avaliadores com cada um dos respetivos avaliados, tendo como objetivo dar conhecimento da avaliação.
 
@@ -819,13 +967,17 @@ Na 2.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo a
 
 7 - [...]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - No início de cada ciclo de avaliação, no começo do exercício de um novo cargo ou função, bem como em todas as circunstâncias em que seja possível a fixação de objetivos a atingir, é efetuada reunião entre avaliador e avaliado destinada a fixar e registar na ficha de avaliação tais objetivos e as competências a demonstrar, bem como os respetivos indicadores de medida e critérios de superação.
 
 2 - A reunião de negociação referida no número anterior pode ser precedida de reunião de análise do dirigente com todos os avaliados que integrem a respetiva unidade orgânica ou equipa, sendo a mesma obrigatória quando existirem objetivos partilhados decorrentes de documentos que integram o ciclo de gestão.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...]
 
@@ -835,11 +987,15 @@ b) A identificação das competências a demonstrar no desempenho de cada trabal
 
 2 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 A homologação das avaliações de desempenho deve ser, em regra, efetuada até 30 de abril, dela devendo ser dado conhecimento ao avaliado no prazo de cinco dias úteis.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - [...]
 
@@ -851,7 +1007,9 @@ A homologação das avaliações de desempenho deve ser, em regra, efetuada até
 
 5 - [...]
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - A diferenciação de desempenhos é garantida pela fixação da percentagem máxima de 25 % para as avaliações finais qualitativas de Desempenho relevante e, de entre estas, 5 % do total dos trabalhadores para o reconhecimento de Desempenho excelente.
 
@@ -863,7 +1021,9 @@ A homologação das avaliações de desempenho deve ser, em regra, efetuada até
 
 5 - [...]
 
-###### Artigo 72.º — Gestão e acompanhamento
+Artigo 72.º
+
+Gestão e acompanhamento
 
 1 - [...]
 
@@ -875,7 +1035,9 @@ A homologação das avaliações de desempenho deve ser, em regra, efetuada até
 
 5 - [...]
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - Até 30 de novembro de cada ano, os serviços iniciam ou prosseguem a construção do QUAR prevista no artigo 9.º e, no quadro das orientações fixadas pelos respetivos membros do Governo Regional, propõem os objetivos a prosseguir no ano seguinte e estabelecem os indicadores de desempenho e respetivas fontes de verificação.
 
@@ -889,7 +1051,9 @@ A homologação das avaliações de desempenho deve ser, em regra, efetuada até
 
 6 - [Revogado].
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 Os modelos de fichas de autoavaliação, de avaliação, de monitorização do desempenho, de reformulação de objetivos, bem como as listas de competências, são os constantes da [Portaria n.º 359/2013](https://diariodarepublica.pt/dr/detalhe/portaria/359-2013-483933), de 13 de dezembro, considerando-se reportadas aos departamentos do Governo Regional, as referências a Ministérios ou a entidades da administração central.»
 
@@ -903,13 +1067,17 @@ Monitorização intercalar
 
 Para efeitos da monitorização intercalar prevista no n.º 2 do artigo 25.º para os dirigentes intermédios, deve ser apresentado ao respetivo dirigente superior, até 15 de abril de cada ano, relatório sintético explicitando a evolução dos resultados obtidos face aos objetivos negociados.
 
-###### Artigo 50.º-A — Potencial de desenvolvimento dos trabalhadores
+Artigo 50.º-A
+
+Potencial de desenvolvimento dos trabalhadores
 
 1 - O sistema de avaliação do desempenho deve permitir a identificação do potencial de evolução e desenvolvimento dos trabalhadores e o diagnóstico das respetivas necessidades de formação, devendo estas ser consideradas no plano de formação anual de cada serviço.
 
 2 - A identificação das necessidades de formação deve associar as necessidades prioritárias dos trabalhadores e a exigência do posto de trabalho que lhe está atribuído, tendo em conta os recursos disponíveis para esse efeito.
 
-###### Artigo 75.º-A — Avaliação com base nas competências
+Artigo 75.º-A
+
+Avaliação com base nas competências
 
 1 - Em casos excecionais, a avaliação dos desempenhos pode incidir apenas sobre o parâmetro 'Competências', previsto na alínea b) do artigo 42.º, mediante decisão fundamentada do dirigente máximo do serviço, ouvido o Conselho Coordenador da Avaliação e com observância do disposto nos números seguintes.
 
@@ -957,11 +1125,11 @@ O [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 4 de dezembro de 2015.**
+Assinado em 4 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

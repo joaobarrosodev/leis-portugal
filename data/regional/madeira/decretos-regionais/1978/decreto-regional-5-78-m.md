@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04600/04050406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e11afc4d620eb3c939348ebfc1178b0680c65b4ea0079ce24386b2c8715c6fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6395f1ad2dec0a91e2ae53fdb6535f73c250549c3bbf86ef6f9d42f93b2e030f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Caixa de Previdência dos Empregados da Assistência
+- Centro Regional de Segurança Social
+- Criação de Serviços
+- Instituições de Previdência Social
+- Integração de Serviços
+- Junta Central das Casas do Povo
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:578305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382468:por
+  label: "Revogado pelo DRG.9/79.12.04.1979.ARM, DR.IS [86] de 12.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/9-1979-382468
+  date: '1979-04-12'
+- type: repealed_by
+  target: pt:dre:578305:por
+  label: "Revogado pelo DRG.13/81/M.07.04.1981.ARM, DR.IS [141] de 23.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/13-1981-578305
+  date: '1981-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:22Z'
   warnings: []
   errors: []
 ---
@@ -116,34 +152,34 @@ Nestes termos:
 
 Usando da faculdade conferida pela alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criado o Centro Regional de Segurança Social da Região Autónoma da Madeira, dotado de personalidade jurídica e autonomia administrativa.
+Artigo 1.º É criado o Centro Regional de Segurança Social da Região Autónoma da Madeira, dotado de personalidade jurídica e autonomia administrativa.
 
-###### Art. 2.º - 1 - O Centro Regional de Segurança Social visa a gestão racional e integrada dos sistemas de previdência e assistência sociais da Região.
+Art. 2.º - 1 - O Centro Regional de Segurança Social visa a gestão racional e integrada dos sistemas de previdência e assistência sociais da Região.
 
 2 - Será dotado dos órgãos e serviços necessários ao prosseguimento dos seus fins.
 
 3 - Deverá assegurar o cumprimento, por parte das instituições particulares de assistência, dos objectivos da política social definida, quer de natureza técnica, quer quanto à qualidade dos serviços que prestam.
 
-###### Art. 3.º - 1 - Ficam integradas no Centro Regional de Segurança Social as instituições de previdência e serviços oficiais da área da Região, nomeadamente os serviços de previdência da caixa de previdência, os serviços de previdência rural coordenados pela delegação da Junta Central das Casas do Povo, os serviços de previdência a cargo da delegação da Caixa de Previdência dos Profissionais de Pesca, os serviços de acção directa, os estabelecimentos especializados e os de assistência dedicados à infância, juventude e terceira idade.
+Art. 3.º - 1 - Ficam integradas no Centro Regional de Segurança Social as instituições de previdência e serviços oficiais da área da Região, nomeadamente os serviços de previdência da caixa de previdência, os serviços de previdência rural coordenados pela delegação da Junta Central das Casas do Povo, os serviços de previdência a cargo da delegação da Caixa de Previdência dos Profissionais de Pesca, os serviços de acção directa, os estabelecimentos especializados e os de assistência dedicados à infância, juventude e terceira idade.
 
 2 - As funções de previdência social até agora exercidas pela Caixa de Previdência dos Empregados da Assistência, bem como das caixas de empresa e de actividade, serão integradas no Centro Regional de Segurança Social à medida que as respectivas estruturas orgânicas reúnam condições para o efeito.
 
 3 - Os estabelecimentos particulares de assistência poderão vir a ser integrados nos termos do disposto no n.º 3 do [Decreto Regional n.º 12/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1977-279416).
 
-###### Art. 4.º - 1 - O pessoal afecto ao Centro Regional de Segurança Social fica sujeito ao regime do Estatuto da Função Pública, sendo, porém, aplicáveis ao pessoal dos quadros das instituições de previdência os condicionalismos previstos no [Decreto Regulamentar n.º 68/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1977-276873), de 17 de Outubro, do MAS, com as necessárias adaptações.
+Art. 4.º - 1 - O pessoal afecto ao Centro Regional de Segurança Social fica sujeito ao regime do Estatuto da Função Pública, sendo, porém, aplicáveis ao pessoal dos quadros das instituições de previdência os condicionalismos previstos no [Decreto Regulamentar n.º 68/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1977-276873), de 17 de Outubro, do MAS, com as necessárias adaptações.
 
 2 - Quando transitar de outros serviços, manterá os direitos e regalias que vinha auferindo, designadamente o de continuar a descontar para a instituição de previdência em que estava inscrito, contando-se, para efeitos de aposentação, o tempo de serviço prestado, nos termos da legislação em vigor.
 
 3 - Para preenchimento dos quadros poderão ser recrutados funcionários de outros serviços, por requisição ou em regime de comissão de serviços.
 
-###### Art. 5.º O presente decreto regional será objecto de diploma regulamentar.
+Art. 5.º O presente decreto regional será objecto de diploma regulamentar.
 
-###### Art. 6.º O Centro Regional de Segurança Social ficará em regime de instalação pelo prazo de um ano, prorrogável, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 6.º O Centro Regional de Segurança Social ficará em regime de instalação pelo prazo de um ano, prorrogável, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 Aprovado em 3 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 23 de Janeiro de 1978.**
+Assinado em 23 de Janeiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03500/0001400023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2021/02/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7873a11dde754d38cb89d64388451c56a4a602f6c6297ec8ddde9557955ba869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e1b97791c2be5e064900c533eb22ec4bbed087116efdff78bff6a66b2a77981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
+- Autarquia Local
 - Comissão de Acompanhamento
 - Construção Civil
 - Contra-ordenação
 - Fiscalização
+- Incêndio
 - Inspecção Regional das Actividades Económicas
-- Urbanismo
 - Madeira.região Autónoma
+- Prevenção de Incêndios
 - Receita Própria
 - Regime Jurídico
 - Serviço Regional de Protecção Civil
-- Autarquia Local
+- Urbanismo
 - Vistoria
 relationships:
 - type: cites
@@ -120,16 +120,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:123279819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125468543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70497202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:32Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +220,17 @@ São alterados os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º,
 
 2 - As referências feitas à Autoridade de Segurança Alimentar e Económica entendem-se reportadas na Região à Autoridade Regional das Atividades Económicas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região, com exceção dos edifícios e recintos, que são classificados na 1.ª categoria de risco, cuja competência é dos municípios.
 
 2 - Ao SRPC, IP-RAM incumbe a credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE, nos termos previstos no presente diploma e nas suas portarias complementares.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São competentes para fiscalizar o cumprimento das condições de SCIE:
 
@@ -190,7 +250,9 @@ d) (Revogada.)
 
 5 - (Revogado.)
 
-###### Artigo 5.º — Edifícios e recintos existentes
+Artigo 5.º
+
+Edifícios e recintos existentes
 
 1 - Estão sujeitos ao disposto no presente diploma, nos termos do regime jurídico da urbanização e edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 37/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-538807), de 18 de agosto, na sua atual redação, as operações urbanísticas referentes a edifícios, ou suas frações autónomas, e recintos, construídos ao abrigo do direito anterior, nos termos previstos nos números seguintes.
 
@@ -200,7 +262,9 @@ d) (Revogada.)
 
 4 - Compete à ANEPC definir e publicar as características fundamentais a que devem obedecer os métodos que venham a ser reconhecidos no âmbito do número anterior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Na Região, quando, justificada e comprovadamente, as disposições do regulamento técnico referido no artigo 15.º do [Decreto-Lei n.º 220/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), de 12 de novembro, na sua atual redação, sejam desadequadas face ao relevo acidentado do terreno, às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIE que, cumulativamente:
 
@@ -212,7 +276,9 @@ c) Sejam aprovadas pelo SRPC, IP-RAM, ou pelos órgãos executivos dos municípi
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 37/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-538807), de 18 de agosto, na sua atual redação, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIE.
 
@@ -220,7 +286,9 @@ c) Sejam aprovadas pelo SRPC, IP-RAM, ou pelos órgãos executivos dos municípi
 
 3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, devem integrar um representante do SRPC, IP-RAM, ou de uma entidade por ele credenciada.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Para efeitos de apreciação das medidas de autoproteção referidas no artigo 21.º do [Decreto-Lei n.º 220/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), de 12 de novembro, na sua atual redação, o respetivo processo deve ser entregue no SRPC, IP-RAM, ou nos municípios quanto à 1.ª categoria de risco, pelas entidades referidas no artigo 6.º do supracitado diploma, nos seguintes prazos:
 
@@ -230,11 +298,15 @@ b) No prazo máximo de um ano após a data de entrada em vigor do presente diplo
 
 2 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A instrução e decisão de processos por contraordenação prevista no [Decreto-Lei n.º 220/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), de 12 de novembro, na sua atual redação, compete ao SRPC, IP-RAM, com exceção dos que se referem a edifícios ou recintos classificados na 1.ª categoria de risco, cuja competência é do respetivo município.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 ...
 
@@ -246,7 +318,9 @@ c) 90 % para o respetivo município quanto à 1.ª categoria de risco;
 
 d) 60 % para a Região quanto às 2.ª, 3.ª e 4.ª categorias de risco.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os serviços prestados pelo SRPC, IP-RAM, no âmbito do presente diploma, estão sujeitos a taxas cujo valor é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da proteção civil.
 
@@ -278,13 +352,17 @@ d) A emissão de pareceres sobre medidas de autoproteção.
 
 6 - A cobrança coerciva das taxas faz-se através de processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestou os serviços.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspeções das condições de SCIE pelo SRPC, IP-RAM, nos termos previstos no presente diploma, é definido por portaria do membro do Governo Regional responsável pela área da proteção civil.
 
 2 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -314,11 +392,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de janeiro de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 12 de fevereiro de 2021.**
+Assinado em 12 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -489,3 +567,5 @@ d) O [Decreto Regulamentar Regional n.º 25/92/M](https://diariodarepublica.pt/d
 ###### Artigo 16.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+113990226

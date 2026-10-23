@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/593/2010/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/593-2010-333871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 545485a876e98692b74da0bc0e93d07004f86c636f99919dddf5497377828a84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e9efaeb4de598f643658f41ffc920414f5c55fa5fba2ee3403407007098467b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
 subjects:
 - Acreditação
 - Aguiar da Beira
+- Arganil
 - Carregal do SAL
 - Castro Daire
-- Vinho
-- Indicação Geográfica
+- Comércio
 - Conselho Vitivinícola Interprofissional
 - Etiquetagem
 - Fiscalização
 - Fornos de Algodres
 - Gouveia
+- Indicação Geográfica
 - Mangualde
 - Mortágua
 - Nelas
 - Oliveira do Hospital
 - Penalva do Castelo
-- Arganil
+- Produto Vitivinícola
 - Santa Comba DÃO
 - Satão
 - Seia
 - Sever do Vouga
 - Tabua
-- Comércio
 - Tondela
 - VILA NOVA de Paiva
-- Produto Vitivinícola
+- Vinha
+- Vinho
 - Vinho Espumante
 - Viseu
-- Vinha
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -109,16 +109,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/166/2005/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/166/2005/02/11/p/dre
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595742:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:55235836:por
+  label: Revogada, a partir de 08.08.2014, pelo(a) Portaria n.º 155/2014 - Diário da República n.º 151/2014, Série I de 2014-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-2014-55235836
+  date: '2014-08-07'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:15Z'
   warnings: []
   errors: []
 ---
@@ -291,16 +304,16 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medei
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)
 
 Área geográfica de produção da sub-região «Terras de Lafões»
 
 (a que se refere o n.º 2 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
 Castas aptas à produção de vinho com IG «Terras do Dão», incluindo a sub-região «Terras de Lafões»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0290802912.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377/2013/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-2013-483883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4fbea27f0b11daa7912f0616473d2ff3c9d91b43991eaf19ac4033cf7c91a04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b55ed6096ca54fcfd61548745a3a8e42580547ab8f9c8ef04b754b407ab1a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Direcção Regional de Agricultura e Pescas
-- Segurança das Embarcações
 - Apoio ao Investimento
-- Projeto de Investimento
+- Direcção Regional de Agricultura e Pescas
 - IFAP
-- Programa Comunitário
 - Intervenção Operacional Pescas
+- Programa Comunitário
+- Projeto de Investimento
 - Regulamento
+- Regulamento do Regime de Apoio às Acções Colectivas
+- Segurança das Embarcações
 relationships:
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 8.º do Regulamento do Regime de Apoio às Ações Coletivas Relativas à Melhoria das Condições de Segurança\
+    \ a Bordo das Embarcações de Pesca aprovado pela Port 219/2012 de 19-jul, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM,\
+    \ DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
   label: null
@@ -85,16 +92,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219/2012/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219/2012/07/19/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:06Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +132,9 @@ Os artigos 8.º e 12.º do Regulamento do Regime de Apoio às Ações Coletivas 
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50 % do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -143,4 +156,4 @@ b) Decorridos 30 dias após o termo do prazo a que alude o n.º 2 sem que o prom
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 23 de dezembro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 23 de dezembro de 2013.

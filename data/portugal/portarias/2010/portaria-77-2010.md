@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/02/02500/0032500334.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/77/2010/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-2010-617104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba4804d2213c341bb20b0065976e7d475e18db8189b9fd9815d046bba86de6a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99f42d2ab8699db57cb734bb2d4ea089333a9216a530d3ae0078da463579ded6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,27 @@ subjects:
 - Arquivística
 - Conservação de Documentos
 - Instituto de Gestão Financeira da Segurança Social
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139472789:por
+  label: Revogado, a partir de 09.08.2020, a presente Portaria, pelo(a) Portaria n.º 182/2020 - Diário da República n.º 150/2020,
+    Série I de 2020-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2020-139472789
+  date: '2020-08-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:21Z'
   warnings: []
   errors: []
 ---
@@ -293,7 +303,7 @@ Instituto de Gestão Financeira da Segurança Social, I. P.
 
 Classificação - localização intelectual das unidades de avaliação. Apresenta-se em dois subcampos:
 
-##### Subdivisão orgânico-funcional - designação das classes e subclasses definidas no plano de classificação que enquadram as séries documentais produzidas.
+Subdivisão orgânico-funcional - designação das classes e subclasses definidas no plano de classificação que enquadram as séries documentais produzidas.
 
 Código de classificação - código que no plano de classificação é atribuído a cada subdivisão orgânico-funcional e a cada série e subsérie documental.
 
@@ -321,4 +331,4 @@ CP - Código para a opção «Conservação Permanente Parcial», atribuído qua
 
 Observações - campo aberto a informações complementares ou esclarecimentos necessários à correcta aplicação da tabela de selecção. As observações deverão ser breves, objectivas e pertinentes. A informação registada nos campos anteriores deve ser seguida de nota de rodapé sempre que haja uma observação que com ela se relacione directamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02500/0032500334.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02500/0032500334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02500/0032500334.pdf)

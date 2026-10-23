@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/323/2012/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/323-2012-176355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d96c79b6e43450fdd37a3b4026539ee741c33886cf974645018659f353b9aebf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4785bc4fb1ce0d69b1b3c022e05889b0e25cb12e38cee2b95fa76b18a6ff2a76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/129/2010/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/129/2010/03/01/p/dre
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:33Z'
   warnings: []
   errors: []
 ---
@@ -144,17 +152,17 @@ Manda o Governo, pela Secretária de Estado do Ensino Básico e Secundário, nos
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 2 de outubro de 2012.**
+A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 2 de outubro de 2012.
 
 ## ANEXO I — Logótipos
 
 1.ª versão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
 
 2.ª versão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
 
 ## ANEXO II — Características do logótipo
 
@@ -162,7 +170,7 @@ Cores
 
 A 1.ª e a 2.ª versão do logótipo são constituídas pelas cores cinza (texto), amarelo, vermelho e verde, de acordo com a tabela de valor cromático se encontra abaixo indicada. Relativamente à sua aplicação em fundos de cor que possam comprometer a identidade cromática, é permitida a utilização de versões a preto, a branco (positivo e negativo), assim como marca d'água. No processo de impressão a quatro cores (quadricromia) e RGB (Internet e aplicações multimédia), devem ser utilizadas as seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19900/0590005901.pdf)
 
 Dimensões
 

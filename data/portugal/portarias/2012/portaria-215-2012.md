@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/2012/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-2012-179537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de3ed0737c48575f9b7ccc35bdf79d801202343e668c6e1a9154b8f1e5bc1386
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b1257c11f22e185992b96339e88deb3d0b4aff9fc77bac9249f5ee893641f3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Comércio
+- Direção Geral de Alimentação e Veterinária
 - Estabelecimento Comercial
 - Fundo Sanitário e de Segurança Alimentar mais
-- Direção Geral de Alimentação e Veterinária
+- Produto Agrícola
 - Produto Agro-alimentar
+- Produto Alimentar
+- Produto Animal
 - Produto Congelado
 - Proteção do Consumidor
 - Taxa de Segurança Alimentar mais
-- Comércio
-- Produto Agrícola
-- Produto Animal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2012/06/15/p/dre
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:52Z'
   warnings: []
   errors: []
 ---
@@ -239,4 +263,4 @@ A tudo o que não esteja especialmente previsto na presente portaria e no [Decre
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 14 de julho de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 14 de julho de 2012.

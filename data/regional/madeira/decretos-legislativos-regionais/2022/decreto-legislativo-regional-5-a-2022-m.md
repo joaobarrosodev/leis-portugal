@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 55/2022, 1º Suplemento, Série I de 2022-03-18
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 105-(2) a 105-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05501/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5-a/2022/03/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-a-2022-180720352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cee0cfdcfa8c03c8d8e526aa773bf4986ddca27da5014232fd4f1905c74cb36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fdaa71f334dc548339379754afd7242948c4490d7afb7600215a0364b8c02dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Agente Desportivo
 - Apoio Técnico
-- Formação Profissional
-- Pessoal Dirigente
-- Governo Regional
+- Associação
 - Definição de Competências
+- Desporto
 - Desporto Profissional
 - Estatuto
-- Administração Pública
-- Férias
-- Voluntariado
 - Faltas
-- Madeira.região Autónoma
+- Férias
+- Formação Profissional
+- Governo Regional
 - Horário de Trabalho
+- Madeira.região Autónoma
+- Pessoal Dirigente
 - Registo Obrigatório
-- Associação
-- Desporto
+- Voluntariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/19/2002/11/16/m/dre
@@ -104,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/2004/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/2004/06/05/p/dre
+- type: cites
+  target: pt:dre:277848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:39Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +186,11 @@ O presente diploma entra em vigor no dia seguinte após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de janeiro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 26 de janeiro de 2022.**
+Assinado em 26 de janeiro de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -331,3 +351,5 @@ Em tudo o que não se encontre previsto no presente diploma, aplica-se, subsidia
 ###### Artigo 18.º — Regulamentação
 
 O presente estatuto é regulamentado por despacho do membro do Governo Regional com atribuições no setor do desporto.
+
+115136132

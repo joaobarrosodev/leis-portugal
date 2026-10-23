@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/853/2009/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-2009-493482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c866432f62b74db6765f9938388244bb5b65e7418aaac925f13f0340fc7dc01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fd88dcadd691509ba4b476b74f16d87e76262c1b8a4d4ab6f0edcd6200fb995
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Concurso
-- Marinha
 - Formação Complementar
-- Recrutamento de Pessoal
+- Formação Profissional
+- Marinha
+- Militar
 - Pessoal Técnico Superior
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regulamento
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1129/2000/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1129/2000/11/29/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:41Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +209,7 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 7.º, 9.º, 10.º e 11.º do regulamento do c
 
 Regulamento do concurso de admissão ao CFCO
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - ...
 
@@ -193,7 +225,7 @@ c)...
 
 4 - Ao concurso externo podem candidatar-se, para além dos militares referidos nos números anteriores, civis habilitados com licenciatura obtida antes da adequação aos princípios do processo de Bolonha ou com o 1.º e o 2.º ciclos obtidos depois da adequação ao processo de Bolonha, desde que ambos se reportem à área para que foi aberto o concurso e reúnam as condições gerais de admissão previstas no artigo 4.º do presente regulamento.
 
-###### Artigo 2.º
+Artigo 2.º
 
 ...
 
@@ -203,7 +235,7 @@ b) Ter idade não superior a 38 anos, até 31 de Dezembro do ano de abertura do 
 
 c) Ter cumprido, à data limite para a apresentação da candidatura, pelo menos dois anos de serviço efectivo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 ...
 
@@ -213,7 +245,7 @@ b) Ter idade não superior a 32 anos, até 31 de Dezembro do ano de abertura do 
 
 c)...
 
-###### Artigo 4.º
+Artigo 4.º
 
 ...
 
@@ -223,7 +255,7 @@ b) Ter idade não superior a 32 anos, até 31 de Dezembro do ano de abertura do 
 
 c)...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O concurso compreende as fases documental e de prestação de provas.
 
@@ -233,7 +265,7 @@ c)...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - ...
 
@@ -253,7 +285,7 @@ a) Motivação para a vida militar naval;
 
 b) Cultura naval e grau de conhecimento da organização geral e das missões da Marinha.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Os candidatos aprovados para cada uma das áreas definidas no concurso são ordenados de acordo com a classificação final (CF) que obtiverem, através das seguintes fórmulas:
 
@@ -303,7 +335,7 @@ E - entrevista - a classificação deste método de selecção é atribuída num
 
 4 - ...
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Após a fase documental e a elaboração pelo júri da lista provisória relativa à classificação e ordenação finais, os candidatos são notificados pelo júri para a realização da audiência dos interessados para, no prazo de 10 dias, se pronunciarem por escrito.
 

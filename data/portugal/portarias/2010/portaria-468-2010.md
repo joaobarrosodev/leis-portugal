@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/468/2010/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-2010-334575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b650d5123c74225cfe058a1c80f318bb8df7baf0d32ed8061e27b91c01993839
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7866f3ecf71c68d9eb24689be94406b322a09f46dc8e380bcde537e575b07694
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Financiamento
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Financiamento
 - Fiscalização
-- Mobilidade Elétrica
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
 - GNR
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Mobilidade Elétrica
+- PSP
+- Veículo
 - Veículo Elétrico
 relationships:
 - type: cites
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:32Z'
   warnings: []
   errors: []
 ---
@@ -237,4 +245,4 @@ O procedimento de concessão dos incentivos decorre em suporte de papel até à 
 
 Em 30 de Junho de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça.

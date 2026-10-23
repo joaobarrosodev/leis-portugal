@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 87/2022, 1º Suplemento, Série I de 2022-05-05
   number: '87'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3-(2) a 3-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/141-a/2022/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/141-a-2022-183001211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 878f6e3c054f65351c4d1fc082cb1d1d9c2fd4760203f99514c4722e0b2a277a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 234d86edb7e28c49d518f130d3b86aaf6327f5ea0e0c5b488bba4296f158cb31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Portuguesa do Ambiente
 - Águas Balneares
 - Aproximação das Legislações
-- Governo Regional
-- Controlo de Qualidade
-- Recursos Hídricos
-- Definição de Competências
-- Regulamentação de Atos Legislativos
+- Autarquia Local
 - Autoridade Marítima Nacional
-- Saúde Pública
+- Controlo de Qualidade
+- Definição de Competências
 - Fiscalização
+- Governo Regional
 - Instituto de Socorros a Náufragos
+- Madeira.região Autónoma
 - Pessoal de Assistência aos Banhistas nas Praias
 - Praia Fluvial
-- Madeira.região Autónoma
-- Recursos Naturais
-- Açores
-- Tratamento de ÁGUA
-- Autarquia Local
-- Vigilância nas Praias
-- ZONA Fluvial
 - Praia Marítima
+- Recursos Hídricos
+- Recursos Naturais
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Tratamento de ÁGUA
+- Vigilância nas Praias
 - ZONA Balnear
-- Agência Portuguesa do Ambiente
+- ZONA Fluvial
 relationships:
 - type: cites
   target: celex:32006L0007
@@ -114,6 +114,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384877:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0007
   label: null
@@ -121,13 +141,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:10Z'
   warnings: []
   errors: []
 ---
@@ -196,28 +216,30 @@ c) Proposta de plano de evacuação de sinistrados, com estabelecimento de acess
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 3 de maio de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 4 de maio de 2022.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 3 de maio de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 4 de maio de 2022.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Identificação de águas balneares costeiras e de transição, qualificação das praias de banhos marítimas e identificação das praias de uso limitado para o ano de 2022, no território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
 Identificação de águas balneares interiores e qualificação de praias de banhos de águas fluviais e lacustres para o ano de 2022, no território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 2.º)
 
 Identificação de águas balneares costeiras e qualificação das praias de banhos marítimas, para o ano de 2022, na Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 4 do artigo 2.º)
 
 Identificação de águas balneares costeiras, qualificação das praias de banhos marítimas e identificação das praias de uso limitado, para o ano de 2022, na Região Autónoma da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/08701/0000200024.pdf)
+
+115289864

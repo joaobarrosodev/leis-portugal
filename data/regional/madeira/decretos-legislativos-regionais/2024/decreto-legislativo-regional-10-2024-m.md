@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22200/0005900078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2024/11/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2024-896791626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1388a287c097ef18c34f762254d56b445805e772dce2b43c359416759e8f8bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327da29ba746cf39f1ad6c7dd082fafb62165815034c61beff2a1d19c6b00243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Humanitária dos Bombeiros Voluntários
-- Financiamento
-- Governo Regional
-- Definição de Competências
-- Fiscalização
 - Bombeiro
+- Definição de Competências
+- Financiamento
+- Fiscalização
+- Governo Regional
 - Madeira.região Autónoma
 - Serviço Regional de Protecção Civil da Madeira
 relationships:
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2015/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2015/08/13/p/dre
+- type: cites
+  target: pt:dre:183909246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007181:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:50Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +169,7 @@ Deste modo, torna-se de extrema importância a redefinição e reestruturação 
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º, da alínea vv) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º, da alínea vv) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -487,7 +519,7 @@ b) Relatório da Execução do Plano de Atividades do Corpo de Bombeiros.
 
 5 - Os documentos mencionados nas alíneas a), b), d) e f) do n.º 1 do presente artigo são entregues até ao dia 30 de abril do ano seguinte ao ano de referência a que respeitam.
 
-6 - Caso se verifique o incumprimento, por factos imputáveis às AHB da RAM, dos prazos mencionados nos n.<sup>os</sup>4 e 5 do presente artigo, o SRPC, IP-RAM notifica a associação para proceder à entrega dos documentos em falta no prazo máximo de 15 dias úteis.
+6 - Caso se verifique o incumprimento, por factos imputáveis às AHB da RAM, dos prazos mencionados nos n.os4 e 5 do presente artigo, o SRPC, IP-RAM notifica a associação para proceder à entrega dos documentos em falta no prazo máximo de 15 dias úteis.
 
 7 - Decorrido o prazo mencionado no número anterior e mantendo-se a situação de incumprimento, o SRPC, IP-RAM e as entidades públicas que contribuem para o seu financiamento suspendem todas as transferências financeiras, até ao cumprimento das obrigações.
 
@@ -617,7 +649,7 @@ e) Um representante da Federação de Bombeiros da Região Autónoma da Madeira.
 
 1 - Compete aos membros do Governo Regional responsáveis pelas áreas das finanças e proteção civil, aprovar a regulamentação necessária prevista no presente diploma.
 
-2 - Em tudo o que não se encontrar previsto no presente decreto legislativo regional aplicar-se-á, subsidiariamente, o disposto nas Leis n.<sup>os</sup>[32/2007](https://diariodarepublica.pt/dr/detalhe/lei/32-2007-636956) e [94/2015](https://diariodarepublica.pt/dr/detalhe/lei/94-2015-70007181), ambas de 13 de agosto, na sua atual redação.
+2 - Em tudo o que não se encontrar previsto no presente decreto legislativo regional aplicar-se-á, subsidiariamente, o disposto nas Leis n.os[32/2007](https://diariodarepublica.pt/dr/detalhe/lei/32-2007-636956) e [94/2015](https://diariodarepublica.pt/dr/detalhe/lei/94-2015-70007181), ambas de 13 de agosto, na sua atual redação.
 
 ###### Artigo 38.º — Entrada em vigor e produção de efeitos
 
@@ -625,11 +657,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de outubro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 12 de novembro de 2024.**
+Assinado em 12 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -649,30 +681,30 @@ e) Na tabela v é atribuído à tipologia de Força Operacional de Bombeiros, o 
 
 Tabela I
 
-| Unidade | Unidade | Unidade | (km²) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (km²) | (n.º) | (n.º) | (adm) | (adm) |
+| NUT II | Área de atuação própria<br>(Municípios) | Corporação | Critérios |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NUT II | Área de atuação própria (Municípios) | Corporação | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios |
-| NUT II | Área de atuação própria (Municípios) | Corporação | Área de atuação própria | População residente | Ocorrências | Ocorrências | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecido empresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destacamento | Dupla insularidade | Centralidade |
-| NUT II | Área de atuação própria (Municípios) | Corporação | Área de atuação própria | População residente | Pré-hospitalar (AAP) | Pré-hospitalar (fora da AAP) | Total | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecido empresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destacamento | Dupla insularidade | Centralidade |
+| Área<br>de atuação própria | População residente | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5<br>andares) | Unidades hoteleiras | Tecido empresarial \| industrial | Área<br>de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destacamento | Dupla<br>insularidade | Centralidade |  |  |  |  |  |
+| Pré-hospitalar<br>(AAP) | Pré-hospitalar<br>(fora da AAP) | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade | (km²) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (n.º) | (km²) | (n.º) | (n.º) | (adm) | (adm) |  |  |  |  |
 | Madeira | Ribeira Brava e Ponta do Sol | Bombeiros Volunt. da Ribeira Brava e Ponta do Sol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Madeira | Calheta | Bombeiros Voluntários da Calheta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Madeira | São Vicente e Porto Moniz | Bombeiros Volunt. de São Vicente e Porto Moniz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Madeira | Santana | Bombeiros Voluntários de Santana |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Madeira | Funchal (Este) | Bombeiros Voluntários Madeirenses |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Madeira | Câmara de Lobos | Bombeiros Voluntários de Câmara de Lobos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calheta | Bombeiros Voluntários da Calheta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| São Vicente e<br>Porto Moniz | Bombeiros Volunt. de São Vicente e Porto Moniz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Santana | Bombeiros Voluntários de Santana |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Funchal (Este) | Bombeiros Voluntários Madeirenses |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Câmara de Lobos | Bombeiros Voluntários de Câmara de Lobos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Porto Santo | Porto Santo | Bombeiros Voluntários do Porto Santo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | Média | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|  |  | Máximo | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|  |  | Mínimo | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|  |  | Desvio-Padrão | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|  |  | Total | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  | Média | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
+|  | Máximo | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
+|  | Mínimo | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
+|  | Desvio-Padrão | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
+|  | Total | 0,00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
 
 Tabela II
 
-| Pontos | Área de atuação própria | População residente | Pré-hospitalar (AAP) | Pré-hospitalar (fora da AAP) | Total | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecidoempresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destacamento | Dupla insularidade | Centralidade | Total |
+| Pontos | Classificação | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pontos | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Classificação | Total |
-| Pontos | Área de atuação própria | População residente | Ocorrências | Ocorrências | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecidoempresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destacamento | Dupla insularidade | Centralidade | Total |
+| Área<br>de atuação<br>própria | População residente | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecidoempresarial \| industrial | Área<br>de risco<br>(elevada) | Infraest. críticas<br>(barragens,<br>aeroporto,<br>indust.<br>SEVESO, etc.) | Destacamento | Dupla<br>insularidade | Centralidade |  |  |  |  |
+| Pré-hospitalar (AAP) | Pré-hospitalar (fora da AAP) | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -681,28 +713,28 @@ Tabela II
 
 Tabela III
 
-| Unidade | Unidade | Unidade | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM (Valor adimensional) | ADM |
+| NUT II | Área<br>de atuação<br>própria<br>(municípios) | Corporação | Critérios | Total<br>de pontos atribuídos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NUT II | Área de atuação própria (municípios) | Corporação | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Critérios | Total de pontos atribuídos |
-| NUT II | Área de atuação própria (municípios) | Corporação | Área de atuação própria | População residente | Ocorrências | Ocorrências | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecido empresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destaca- mento | Dupla insulari- dade | Centralidade | Total de pontos atribuídos |
-| NUT II | Área de atuação própria (municípios) | Corporação | Área de atuação própria | População residente | Pré- -hospitalar (AAP) | Pré- -hospitalar (fora da AAP) | Total | Alojamentos | Edifícios | Edifícios(> 5 andares) | Unidades hoteleiras | Tecido empresarial \\| industrial | Área de risco (elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destaca- mento | Dupla insulari- dade | Centralidade | Total de pontos atribuídos |
+| Área<br>de<br>atuação própria | População residente | Ocorrências | Alojamentos | Edifícios | Edifícios(> 5<br>andares) | Unidades hoteleiras | Tecido empresarial \| industrial | Área de risco<br>(elevada) | Infraest. críticas (barragens, aeroporto, indust. SEVESO, etc.) | Destaca-<br>mento | Dupla<br>insulari-<br>dade | Centralidade |  |  |  |  |  |  |
+| Pré-<br>-hospitalar<br>(AAP) | Pré-<br>-hospitalar<br>(fora<br>da AAP) | Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade | ADM (Valor adimensional) | ADM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Madeira | Ribeira Brava e Ponta do Sol | Bombeiros Volunt. da Ribeira Brava e Ponta do Sol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-| Madeira | Calheta | Bombeiros Voluntários da Calheta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-| Madeira | São Vicente e Porto Moniz | Bombeiros Volunt. de São Vicente e Porto Moniz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-| Madeira | Santana | Bombeiros Voluntários de Santana |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-| Madeira | Funchal (Este) | Bombeiros Voluntários Madeirenses |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-| Madeira | Câmara de Lobos | Bombeiros Voluntários de Câmara de Lobos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
+| Calheta | Bombeiros Voluntários da Calheta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  |
+| São Vicente e<br>Porto Moniz | Bombeiros Volunt. de São Vicente e Porto Moniz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  |
+| Santana | Bombeiros Voluntários de Santana |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  |
+| Funchal (Este) | Bombeiros Voluntários Madeirenses |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  |
+| Câmara de Lobos | Bombeiros Voluntários de Câmara de Lobos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  |
 | Porto Santo | Porto Santo | Bombeiros Voluntários do Porto Santo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |
-|  |  | Média | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
-|  |  | Máximo | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
-|  |  | Mínimo | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
-|  |  | Total | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |
+|  | Média | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  |
+|  | Máximo | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  |
+|  | Mínimo | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  |
+|  | Total | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  |
 
 Tabela IV
 
-| Classes do total de pontos atribuídos | Tipologia de Força Operacional de Bombeiros (FOB) |
+| Componente financeira variável |  |
 | --- | --- |
-| Componente financeira variável | Componente financeira variável |
+| Classes do total de pontos atribuídos | Tipologia de Força Operacional de Bombeiros (FOB) |
 | ≤ 25 | FOB04 |
 | > 25 e ≤ 35 | FOB03 |
 | > 35 e ≤ 45 | FOB02 |
@@ -710,10 +742,12 @@ Tabela IV
 
 Tabela V
 
-| Tipologia de Força Operacional de Bombeiros (FOB) | Subvenção a atribuir |
+| Componente financeira variável |  |
 | --- | --- |
-| Componente financeira variável | Componente financeira variável |
+| Tipologia de Força Operacional de Bombeiros (FOB) | Subvenção a atribuir |
 | FOB04 | 240 000 € |
 | FOB03 | 280 000 € |
 | FOB02 | 320 000 € |
 | FOB01 | 360 000 € |
+
+118340517

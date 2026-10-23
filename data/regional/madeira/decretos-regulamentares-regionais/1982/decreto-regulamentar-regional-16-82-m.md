@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19400/24692470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1982-396556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f36343193a65f1c378398013357b3f02a3eab53e3fed844cb3469034600dc945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae70a0b6059bf2469262879ab21cb081f21ee2bb9ad0df0f516be9d9760f6d8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Fogos
+- CASA do Estado
+- Habitação Social
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:372607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372607:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 9/88/M - Diário da República n.º 167/1988, Série I de 1988-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-1988-372607
+  date: '1988-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:10Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +125,11 @@ Aliás, este diploma apenas vem formalizar a promessa já feita neste sentido pe
 
 Nestes termos, ao abrigo da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo decreta:
 
-###### Artigo 1.º - 1 - As habitações arrendadas, património da Região Autónoma da Madeira, organismos autónomos, institutos públicos, pessoas colectivas de direito público, podem ser alienadas nos termos do presente diploma.
+Artigo 1.º - 1 - As habitações arrendadas, património da Região Autónoma da Madeira, organismos autónomos, institutos públicos, pessoas colectivas de direito público, podem ser alienadas nos termos do presente diploma.
 
 2 - As habitações arrendadas a funcionários públicos, ao abrigo do artigo 14.º - casas de função - da [Portaria n.º 78/80](https://diariodarepublica.pt/dr/detalhe/portaria/78-1980-678864), de 18 de Julho, não são abrangidas por este diploma.
 
-###### Art. 2.º - 1 - As entidades a que se refere o artigo anterior só podem vender as habitações referidas no mesmo artigo ao respectivo arrendatário ou, a requerimento deste, aos seus parentes ou afins na linha recta que com ele coabitem há mais de 1 ano.
+Art. 2.º - 1 - As entidades a que se refere o artigo anterior só podem vender as habitações referidas no mesmo artigo ao respectivo arrendatário ou, a requerimento deste, aos seus parentes ou afins na linha recta que com ele coabitem há mais de 1 ano.
 
 2 - A propriedade poderá ser transmitida ao parente ou afim do arrendatário e o usufruto a este, ao seu cônjuge ou aos 2 conjuntamente.
 
@@ -112,11 +137,11 @@ Nestes termos, ao abrigo da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-
 
 4 - O prazo referido no número anterior poderá ser prorrogado por despacho do secretário regional competente.
 
-###### Art. 3.º - 1 - A alienação de habitações que não sejam moradias unifamiliares será precedida da constituição em propriedade horizontal da edificação.
+Art. 3.º - 1 - A alienação de habitações que não sejam moradias unifamiliares será precedida da constituição em propriedade horizontal da edificação.
 
 2 - Para a realização do registo de constituição da propriedade horizontal, o documento exigido pelo n.º 3 do artigo 110.º do Código do Registo Predial pode ser substituído por documento emitido pela entidade proprietária, autenticado com o respectivo selo banco, em que esta ateste que as fracções autónomas satisfazem os requisitos exigidos pelo artigo 1415.º do Código Civil.
 
-###### Art. 4.º - 1 - Sempre que a entidade proprietária das habitações e o arrendatário acordem na venda das moradias ou fracções autónomas, o preço será calculado pela aplicação da seguinte fórmula:
+Art. 4.º - 1 - Sempre que a entidade proprietária das habitações e o arrendatário acordem na venda das moradias ou fracções autónomas, o preço será calculado pela aplicação da seguinte fórmula:
 
 V = C x Ar x Pc x (1 - 0,0235 x N x 0,85)
 
@@ -128,7 +153,7 @@ sendo V o valor do fogo, C um coeficiente de correcção variável no intervalo 
 
 4 - O preço calculado nos termos do n.º 1 poderá ser corrigido a requerimento dos interessados e precedendo vistoria por 3 peritos, a designar nos termos do n.º 2, sempre que o fogo se encontre deteriorado devido a deficiências da construção inicial.
 
-###### Art. 5.º - 1 - A entidade proprietária, 60 dias após a recepção do requerimento para a compra do fogo, comunicará ao interessado o respectivo preço, calculado nos termos do artigo anterior.
+Art. 5.º - 1 - A entidade proprietária, 60 dias após a recepção do requerimento para a compra do fogo, comunicará ao interessado o respectivo preço, calculado nos termos do artigo anterior.
 
 2 - Havendo fundadas dúvidas sobre a exactidão de qualquer dos elementos que serviram de base à determinação do valor do fogo, pode o interessado na sua compra, dentro de 60 dias, que se seguirem à comunicação a que se refere o número anterior, requerer a intervenção das comissões previstas no artigo 9.º para uma eventual correcção.
 
@@ -140,13 +165,13 @@ b) Requerer o financiamento para a compra no prazo de 30 dias a contar da data d
 
 c) Celebrar a escritura de compra e venda na data marcada por acordo entre as entidades vendedora e financiadora, sendo caso disso.
 
-###### Art. 6.º - 1 - Os interessados na compra das habitações poderão ter acesso directo ao sistema de crédito que vigorar para a aquisição de habitação própria, designadamente o de poupança-habitação, este em condições a fixar por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Habitação, Obras Públicas e Transportes.
+Art. 6.º - 1 - Os interessados na compra das habitações poderão ter acesso directo ao sistema de crédito que vigorar para a aquisição de habitação própria, designadamente o de poupança-habitação, este em condições a fixar por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros dos Assuntos Sociais e da Habitação, Obras Públicas e Transportes.
 
 2 - Na aplicação dos esquemas referidos no número anterior, haverá sempre lugar a adaptações dos mesmos aos condicionalismos da Região, por proposta do Governo Regional.
 
 3 - Este diploma não impede o funcionamento da modalidade «Propriedade resolúvel», incluída na [Portaria n.º 78/80](https://diariodarepublica.pt/dr/detalhe/portaria/78-1980-678864), de 18 de Julho, nem de outra que venha a surgir na Região Autónoma da Madeira.
 
-###### Art. 7.º - 1 - As habitações adquiridas ao abrigo do presente diploma são inalienáveis durante os 5 anos subsequentes à aquisição, salvo para execução das dívidas relacionadas com a compra de que seja garantia o próprio imóvel e de dívidas fiscais.
+Art. 7.º - 1 - As habitações adquiridas ao abrigo do presente diploma são inalienáveis durante os 5 anos subsequentes à aquisição, salvo para execução das dívidas relacionadas com a compra de que seja garantia o próprio imóvel e de dívidas fiscais.
 
 2 - Com salvaguarda da segunda parte do referido no número anterior, a entidade promotora tem sempre direito de preferência na aquisição do fogo, sendo o seu valor calculado com base na fórmula referida no n.º 1 do artigo 4.º deste diploma.
 
@@ -154,20 +179,20 @@ c) Celebrar a escritura de compra e venda na data marcada por acordo entre as en
 
 4 - As habitações aqui referidas destinam-se a residência permanente dos adquirentes.
 
-###### Art. 8.º A orientação e coordenação das acções decorrentes da aplicação do presente diploma será exercida por comissões a funcionar nos organismos proprietários dos fogos, a nomear pelos secretários regionais da respectiva tutela.
+Art. 8.º A orientação e coordenação das acções decorrentes da aplicação do presente diploma será exercida por comissões a funcionar nos organismos proprietários dos fogos, a nomear pelos secretários regionais da respectiva tutela.
 
-###### Art. 9.º O disposto no presente diploma não se aplica às habitações que, sendo consideradas de carácter provisório por terem sido construídas ou montadas para satisfazer situações de emergência, devem manter-se entregues a título precário e pelo prazo necessário para que às famílias possa ser assegurado o alojamento adequado.
+Art. 9.º O disposto no presente diploma não se aplica às habitações que, sendo consideradas de carácter provisório por terem sido construídas ou montadas para satisfazer situações de emergência, devem manter-se entregues a título precário e pelo prazo necessário para que às famílias possa ser assegurado o alojamento adequado.
 
-###### Art. 10.º As receitas provenientes da venda de fogos ao abrigo deste diploma serão obrigatoriamente reinvestidas na construção de habitações sociais e, como tal, sujeitas ao respectivo regulamento de atribuição.
+Art. 10.º As receitas provenientes da venda de fogos ao abrigo deste diploma serão obrigatoriamente reinvestidas na construção de habitações sociais e, como tal, sujeitas ao respectivo regulamento de atribuição.
 
-###### Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Plenário do Governo aos 18 de Fevereiro de 1982.
 
-**O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 27 de Julho de 1982.**
+Assinado em 27 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

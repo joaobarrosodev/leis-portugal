@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/2025/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-2025-906519109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc0a7360c95f792df54ab7bf36ebade3d4e4f6a6817c33fcb0fdc30fbe359b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14407cb95e19291754aac8c23a5b5c962b920b131f601671c7b2a2d3d2b35282
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
+- Monchique
 - Recursos Hídricos
 - Regulamentação de Atos Legislativos
-- Monchique
 - Zona de Proteção
 relationships:
 - type: cites
@@ -80,16 +80,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/238/2015/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/238/2015/08/12/p/dre
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:877330532:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:238/2015
+  label: Revoga, a partir de 8 de fevereiro de 2025, a Portaria n.º 238/2015, de 12 de agosto, Diário da República n.º 156/2015,
+    Série I
+  source: null
+  date: '2015-08-12'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:07Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +126,7 @@ O perímetro de proteção abrange três zonas - imediata, intermédia e alargad
 
 Considerando as referidas disposições, a [Portaria n.º 238/2015](https://diariodarepublica.pt/dr/detalhe/portaria/238-2015-69992906), de 12 de agosto, fixou o perímetro de proteção da água mineral natural com o número de cadastro HM-06 e a denominação «Caldas de Monchique», sito no concelho de Monchique, distrito de Faro.
 
-Ao abrigo do n.º 4 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março, a empresa Sociedade das Termas de Monchique II, L.<sup>da</sup>, atual titular do contrato de concessão de exploração da referida água mineral natural, veio propor a revisão do perímetro de proteção fixado pela [Portaria n.º 238/2015](https://diariodarepublica.pt/dr/detalhe/portaria/238-2015-69992906), de 12 de agosto, apresentando para o efeito uma proposta fundamentada em estudo hidrogeológico e uma planta topográfica com a indicação das zonas imediata, intermédia e alargada.
+Ao abrigo do n.º 4 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março, a empresa Sociedade das Termas de Monchique II, L.da, atual titular do contrato de concessão de exploração da referida água mineral natural, veio propor a revisão do perímetro de proteção fixado pela [Portaria n.º 238/2015](https://diariodarepublica.pt/dr/detalhe/portaria/238-2015-69992906), de 12 de agosto, apresentando para o efeito uma proposta fundamentada em estudo hidrogeológico e uma planta topográfica com a indicação das zonas imediata, intermédia e alargada.
 
 Considerando que tal proposta foi aprovada, nos termos do n.º 3 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março.
 
@@ -134,13 +156,14 @@ c) «Zona alargada», delimitada pelo polígono E-J-K-L-M-N-O-G-F, cujos vértic
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia, Maria João Correia Colunas Pereira, em 28 de janeiro de 2025.**
+A Secretária de Estado da Energia, Maria João Correia Colunas Pereira, em 28 de janeiro de 2025.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Base cartográfica da Direção-Geral do Território
 
-![](https://files.diariodarepublica.pt/images/906519109/906560216.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519109/906560216.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -148,16 +171,21 @@ Tabela I
 
 Coordenadas dos vértices da zona imediata
 
-![](https://files.diariodarepublica.pt/images/906519109/906560217.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519109/906560217.png) |
+| --- |
 
 Tabela II
 
 Coordenadas dos vértices da zona intermédia
 
-![](https://files.diariodarepublica.pt/images/906519109/906560218.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519109/906560218.png) |
+| --- |
 
 Tabela III
 
 Coordenadas dos vértices da zona alargada
 
-![](https://files.diariodarepublica.pt/images/906519109/906560219.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519109/906560219.png) |
+| --- |
+
+118649047

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13500/0223102240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2016/07/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71460b32b6857a5e5abcfa85c2a698655fc0fafa3cba2edc8268108e2e3d0e6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9f02d80ba4a06a5ac2b8db1cbe93b28bf7bb372e3149e8a7b7131734ab927ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
 - Centro de Segurança Social da Madeira
+- Conselho Diretivo
 - Definição de Competências
 - Gabinete Governamental
-- Conselho Diretivo
+- Instituto de Segurança Social da Madeira
 - Integração de Trabalhadores
-- Orgânica
+- Jurisdição
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Regime de Pessoal
+- Secretário Regional da Inclusão e Assuntos Sociais
 - Transferência de Competências
 - Transferência de Serviços
 - Transferência Patrimonial
-- Secretário Regional da Inclusão e Assuntos Sociais
-- Instituto de Segurança Social da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:117537584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Aditado o art. 17.º-A à orgânica do Instituto de Segurança Social da Madeira, I.P., aprovada em anexo ao DLR 34/2012/M
+    de 16-nov, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da
+    República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2014/03/04/p/dre
   label: null
@@ -126,16 +133,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74094665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 41
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:02Z'
   warnings: []
   errors: []
 ---
@@ -178,13 +297,17 @@ Os artigos 2.º, 3.º, 4.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 O ISSM, IP-RAM, exerce a sua atividade sob a tutela e superintendência do Secretário Regional da Inclusão e Assuntos Sociais.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
 2 - O ISSM, IP-RAM tem jurisdição sobre todo o território da RAM, sendo, nomeadamente, a instituição competente relativamente aos beneficiários de segurança social com residência na RAM e aos contribuintes da segurança social, sejam entidades empregadoras ou equiparadas, trabalhadores independentes ou entidades contratantes, com sede, direção efetiva, domicílio profissional ou residência na RAM ainda que detenham estabelecimentos, locais de trabalho ou sucursais fora do território regional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -252,11 +375,15 @@ ad) [Anterior alínea x).]
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O conselho diretivo é composto por um presidente, um vice-presidente e um vogal, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +437,9 @@ s) [Anterior alínea q).]
 
 7 - O presidente do conselho diretivo pode decidir e praticar atos inadiáveis, os quais, sendo da competência do conselho diretivo, não possam, por motivos imperiosos de urgência, aguardar reunião deste órgão, devendo tais decisões e atos ser submetidos a ratificação do conselho diretivo, na primeira reunião subsequente deste órgão.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -318,15 +447,21 @@ s) [Anterior alínea q).]
 
 3 - [Revogado.]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O fiscal único tem as competências definidas no regime jurídico aplicável aos institutos públicos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A organização interna do ISSM, IP-RAM é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das Finanças e da Administração Pública e da tutela, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O ISSM, IP-RAM dispõe das seguintes receitas:
 
@@ -354,7 +489,9 @@ k) [Anterior alínea k) do n.º 2.]
 
 2 - Para além das receitas referidas no número anterior, o ISSM, IP-RAM pode ainda beneficiar de dotações, transferências e subsídios do Orçamento da Segurança Social e de outras fontes, nos termos da lei.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]
 
@@ -382,17 +519,23 @@ k) [...]
 
 l) [...]
 
-###### Artigo 15.º — Regime e mapa de pessoal
+Artigo 15.º
+
+Regime e mapa de pessoal
 
 1 - [Anterior corpo do artigo.]
 
 2 - Compete ao membro do Governo Regional da tutela aprovar o mapa de pessoal do ISSM, IP-RAM.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 As competências atribuídas na RAM ao Centro de Segurança Social da Madeira, nos termos do artigo 48.º do [Decreto Legislativo Regional n.º 26/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2004-480292), de 20 de agosto, para os fins do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual, consideram-se atribuídas, para os mesmos fins, na RAM, ao ISSM, IP-RAM, relativamente à execução das pessoas singulares e pessoas coletivas e outras entidades a estas legalmente equiparadas.
 
-###### Artigo 29.º — Mandato do fiscal único
+Artigo 29.º
+
+Mandato do fiscal único
 
 1 - [Revogado.]
 
@@ -412,7 +555,9 @@ Adaptação do regime jurídico de instalação, funcionamento e fiscalização 
 
 2 - A portaria mencionada no artigo 29.º do diploma referido no número anterior é da competência do membro do Governo Regional responsável pela área da segurança social.
 
-###### Artigo 28.º-A — Assunção de encargos, prestação de serviços e despesas
+Artigo 28.º-A
+
+Assunção de encargos, prestação de serviços e despesas
 
 1 - A autorização prévia relativa à assunção de encargos plurianuais pelo ISSM, IP-RAM, nos termos da alínea b) do n.º 1 do artigo 6.º da Lei dos Compromissos e Pagamentos em Atraso, aprovada pela [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, bem como a emissão de parecer prévio vinculativo para a celebração ou renovação de contratos de prestação de serviços a que se refere o n.º 5 do artigo 51.º do [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), de 30 de dezembro, conjugado com o n.º 7 do artigo 49.º do [Decreto Legislativo Regional n.º 18/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), de 31 de dezembro, é da competência do membro do Governo Regional responsável pela área das finanças.
 
@@ -460,11 +605,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 29 de junho de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 4 de julho de 2016.**
+Assinado em 4 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -784,7 +929,9 @@ O ISSM, IP-RAM, pode relacionar-se com as instituições do sistema bancário ou
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-#### SECÇÃO I — Artigo 24.º
+#### SECÇÃO I
+
+###### Artigo 24.º
 
 Aplicação do regime especial de execução de dívidas à RAM
 

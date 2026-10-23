@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/999-2000-3292194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T16:14:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632e2f85fdb8102a64fc486247ca48a5ea8fd37ad740bc51ef01474f2d41a961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f00550748a3248d3b5ee12dac08d5fcff1f750ddab21971a04c6e1e29d90b500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:14:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Médica Hospitalar
+- Criação de Lugares
+- Évora
+- Hospital Distrital
+- Hospital do Espírito Santo
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:193414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:14:49Z'
   warnings: []
   errors: []
 ---

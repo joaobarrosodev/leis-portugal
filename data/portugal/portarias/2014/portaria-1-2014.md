@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/2014/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-2014-606345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd4f9e16fe37e31faca8db878490b15d91a29e3194da04c916f1ec1aaea48df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 027619633255e62b59fe56393d50d012a2399cc0a4fcfec5705f6e91dca48030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Ensino Médico
 - Internato Médico
+- Médico
 - Programa de Formação
 relationships:
 - type: amended_by
   target: pt:dre:877330490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:877330490:por
+  label: Atualizado o programa de formação especializada em endocrinologia e nutrição aprovado pelo(a) Portaria n.º 188-F/2024/1
+    - Diário da República n.º 157/2024, Suplemento, Série I de 2024-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-f-2024-877330490
+  date: '2024-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/337/1997/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/337/1997/05/17/p/dre
+- type: cites
+  target: pt:dre:396172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:30Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +157,7 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 A aplicação e desenvolvimento dos programas compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de dezembro de 2013.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de dezembro de 2013.
 
 ## ANEXO — Programa de Formação da Área de Especialização de Endocrinologia/Nutrição
 
@@ -503,7 +529,7 @@ d) Relações humanas no trabalho - ponderação 2.
 
 8.3. A classificação da prova de discussão curricular é fundamentada no suporte que se apresenta a seguir e de que constam os elementos a valorizar e as respetivas ponderações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00100/0000200005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00100/0000200005.pdf)
 
 8.4. A classificação da avaliação final resulta da média aritmética das classificações obtidas nas provas curricular, prática e teórica.
 

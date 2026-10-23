@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 234/2023, 1º Suplemento, Série I de 2023-12-05
   number: '234'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 136-(2) a 136-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23401/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/411-a/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-a-2023-225265452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66a732f1f67d658ce7f8c650e138dceacf9a53f1fee1a5ad21c0a38124a9c370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41d4ad4af899791d9909e26f8f21a27fdd1de31a4668aa239fe4b567d4727756
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Centro de Responsabilidade Integrada
-- Unidade de Saúde Familiar
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Administração Central do Sistema de Saúde
-- Prémio de Desempenho
+- Centro de Responsabilidade Integrada
 - Cuidados Médicos
-- Relatório
-- Unidade de Saúde Pública
-- Unidade de Cuidados de Saúde Personalizados
 - Direção Executiva do Serviço Nacional de Saúde
+- Prémio de Desempenho
+- Regulamentação de Atos Legislativos
+- Relatório
+- Serviço Nacional de Saúde
+- Unidade de Cuidados de Saúde Personalizados
+- Unidade de Saúde Familiar
+- Unidade de Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
@@ -94,16 +94,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/212/2017/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/212/2017/07/19/p/dre
+- type: cites
+  target: pt:dre:107709510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:212/2017
+  label: Revoga, sem prejuízo do disposto no artigo 15.º do presente diploma, a partir de 6 de dezenbro de 2023, com efeitos
+    a 1 de janeiro de 2024, nos termos do artigo 16.º do presente diploma, a Portaria n.º 212/2017, de 19 de julho Diário
+    da República n.º 138/2017, Série I
+  source: null
+  date: '2017-07-19'
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:08Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +287,7 @@ A SPMS, E. P. E., em articulação com a ACSS, I. P., e com a DE-SNS, I. P., ade
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de dezembro de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 4 de dezembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de dezembro de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 4 de dezembro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -300,9 +327,9 @@ f) Exequibilidade - é possível operacionalizá-los com eficácia.
 
 Índice de Desempenho da Equipa
 
-|  |  |  |  |  |  |
+| Dimensão | N.º<br>Indicador | Designação | Ponderação | Valores<br>Esperados | Variações<br>Aceitáveis |
 | --- | --- | --- | --- | --- | --- |
-| Dimensão | N.º Indicador | Designação | Ponderação | Valores Esperados | Variações Aceitáveis |
+|  |  |  |  |  |  |
 | Acesso... | 8 | Utilização de consultas de planeamento familiar... | 4,0 | [60;100] | [38;60[U]100;100] |
 | Acesso... | 294 | Domicílios de enfermagem... | 4,0 | [500;1500] | [150;500[U]1500;1500] |
 | Acesso... | 330 | Utilização de consultas médicas... | 5,0 | [0,82;2] | [0,7;0,82[U]2;2] |
@@ -351,36 +378,36 @@ f) Exequibilidade - é possível operacionalizá-los com eficácia.
 
 Avaliação do grau e cumprimento de cada indicador do IDE
 
-|  |  |
-| --- | --- |
 | Critério | Valorização |
-| A condição [A e B] é verdadeira: A. [resultado do indicador] (igual ou maior que) [valor mínimo do intervalo esperado] B. [resultado do indicador] (igual ou menor que) [valor máximo do intervalo esperado] | 100 % da ponderação do indicador. |
-| A condição [(A e B) ou (C e D)] é verdadeira: A. [resultado do indicador] (maior que) [valor mínimo da variação aceitável] B. [resultado do indicador] (menor que) [valor mínimo do intervalo esperado] C. [resultado do indicador] (maior que) [valor máximo do intervalo esperado] D. [resultado do indicador] (menor que) [valor máximo da variação aceitável] | Entre 0 e 100 % da ponderação do indicador, obtida através de uma função linear, na proporção direta ou indireta dos resultados, consoante o tipo de indicador e os resultados estarem acima ou abaixo do intervalo esperado. |
-| A condição [A ou B] é verdadeira: A. [resultado do indicador] (igual ou menor que) [valor mínimo da variação aceitável] B. [resultado do indicador] (igual ou maior que) [valor máximo da variação aceitável] | 0 % da ponderação do indicador. |
+| --- | --- |
+|  |  |
+| A condição [A e B] é verdadeira:<br>A. [resultado do indicador] (igual ou maior que) [valor mínimo do intervalo esperado]<br>B. [resultado do indicador] (igual ou menor que) [valor máximo do intervalo esperado] | 100 % da ponderação do indicador. |
+| A condição [(A e B) ou (C e D)] é verdadeira:<br>A. [resultado do indicador] (maior que) [valor mínimo da variação aceitável]<br>B. [resultado do indicador] (menor que) [valor mínimo do intervalo esperado]<br>C. [resultado do indicador] (maior que) [valor máximo do intervalo esperado]<br>D. [resultado do indicador] (menor que) [valor máximo da variação aceitável] | Entre 0 e 100 % da ponderação do indicador, obtida através de uma função linear, na proporção direta ou indireta dos resultados, consoante o tipo de indicador e os resultados estarem acima ou abaixo do intervalo esperado. |
+| A condição [A ou B] é verdadeira:<br>A. [resultado do indicador] (igual ou menor que) [valor mínimo da variação aceitável]<br>B. [resultado do indicador] (igual ou maior que) [valor máximo da variação aceitável] | 0 % da ponderação do indicador. |
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 9.º)
 
 Tabela de indicadores dos incentivos institucionais
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Dimensão | Indicador | Ponderação | Valores Esperados | Variações Aceitáveis |
-| Satisfação dos utentes... | A negociar entre a ULS e equipa... | 20 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Satisfação dos profissionais... | A negociar entre a ULS e equipa... | 20 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
-| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. | Definidos na matriz de indicadores. |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Satisfação dos utentes... | A negociar entre a ULS e equipa... | 20 % | Definidos na matriz de indicadores. |  |
+| Satisfação dos profissionais... | A negociar entre a ULS e equipa... | 20 % | Definidos na matriz de indicadores. |  |
+| Melhoria Contínua (acesso, gestão da saúde, gestão da doença, qualificação da prescrição ou integração de cuidados). | A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |
+| A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa... | 10 % | Definidos na matriz de indicadores. |  |  |
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 9.º)
 
 Critérios e níveis para atribuição de Incentivos Institucionais e valores de ponderação
 
-|  |  |  |  |
+| Escalão | Resultado | Consequência | % do valor máximo<br>por unidade funcional |
 | --- | --- | --- | --- |
-| Escalão | Resultado | Consequência | % do valor máximo por unidade funcional |
+|  |  |  |  |
 | 1.º | (menor que) 50 | Sem direito a incentivos institucionais - intervenção da ULS e da ENA... | - |
 | 2.º | (igual ou maior que) 50 e (menor que) 60 | Sem direito a incentivos institucionais... | - |
 | 3.º | (igual ou maior que) 60 e (menor que) 95 | Direito a incentivos institucionais ... | Função linear |
@@ -390,9 +417,9 @@ Critérios e níveis para atribuição de Incentivos Institucionais e valores de
 
 Valores máximos dos incentivos institucionais
 
-|  |  |
+| Número de unidades ponderadas (UP) por USF ou UCSP | Valor<br>dos incentivos (euros) |
 | --- | --- |
-| Número de unidades ponderadas (UP) por USF ou UCSP | Valor dos incentivos (euros) |
+|  |  |
 | (menor que) 8 500 ... | 9 600 (euro) |
 | 8 500-15 500... | 15 200 (euro) |
 | (igual ou maior que) 15 500... | 20 000 (euro) |
@@ -432,3 +459,5 @@ d) Plano de desenvolvimento organizacional da ULS;
 e) Plano de Ação da USF modelo B ou da UCSP (o qual inclui a Carta de Compromisso, Plano de Formação e o Plano de Aplicação dos Incentivos Institucionais);
 
 2 - O processo de contratualização será suportado por uma aplicação informática a disponibilizar pelo Ministério da Saúde - Áreas da Contratualização e E-Qualidade -, que garanta às USF modelo B ou UCSP aceder às funcionalidades e a toda a informação necessária à boa execução das várias fases do processo de contratualização.
+
+117132718

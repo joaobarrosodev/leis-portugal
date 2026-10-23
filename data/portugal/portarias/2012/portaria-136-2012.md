@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/2012/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-2012-552062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36553fa9e33fc0261aedf23e6bf0e4ae2550afd884cf7402fd4dc55027f8597a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b832d51e5e9b3a3115adb932480d7e9c21426e587f7c8690fe725adfb1060404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Gabinete de Estratégia Planeamento e Avaliação Culturais
 - Orgânica
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:126869983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que o Ministro da Cultura exerce a direção sobre o Gabinete de Estratégia, Planeamento e Avaliação Culturais
+    pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinada, com efeitos a 29.10.2019, que a Ministra da Cultura exerce a direção sobre o Gabinete de Estratégia,
+    Planeamento e Avaliação Culturais com orgânica aprovada pelo presente diploma, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário
+    da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/2012/02/28/p/dre
   label: null
@@ -93,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:375403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:29Z'
   warnings: []
   errors: []
 ---

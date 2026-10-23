@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2000-2000-1589591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c605f923d8e2aaf1f75f3245a4453f0ee10a01e5792d89e483a7aec887240d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37106a0051b4239823a507b41d4a879e37ea16b47f66de08e7a561940d3d58db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Centro Regional de Segurança Social do Norte
 relationships:
 - type: amended_by
   target: pt:dre:2493776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2493776:por
+  label: "Alterada por PORT.1803/2002(2SÉRIE).2002.11.25.SETF-MF, DR.IIS [282] de 6/Dez/2002.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1803-2002-2493776
+  date: '2002-12-06'
+- type: amended_by
+  target: pt:dre:3449871:por
+  label: "Prorrogado o prazo pela PORT.718/2005(2ªSérie).09.06.2005.SETF-MFAP, DR.IIS [121] de 27.06.2005.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/718-2005-3449871
+  date: '2005-06-09'
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600772:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:10:54Z'
   warnings: []
   errors: []
 ---

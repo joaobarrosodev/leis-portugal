@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/2024, 1º Suplemento, Série I de 2024-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(49) a 6-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04101/0004900051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71-c/2024/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-c-2024-853867973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f93d3a2e55bc88bfb31193301018573ab1226ee93a3db88e6e3e9a1f4e2d3fd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1225447f078894a09b28786c2d8bc88fe7bd94ca29ce7ba4df9bea73adc3336d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
+- Documento Eletrónico
 - Fiscalização
 - Licenciamento de Obras
-- Documento Eletrónico
-- Urbanismo
 - Plataforma Eletrónica
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:917839840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:1268/2008
+  label: Altera, a partir de 4 de março de 2024, nos termos do artigo 5.º do presente diploma, os artigos 2.º, 4.º, 13.º e
+    15.º e revoga a alínea e) do artigo 2.º e os artigos 5.º, 14.º, 17.º, 18.º, 19.º, 20.º, 24.º e 25.º da Portaria n.º 1268/2008,
+    de 6 de novembro, Diário da República n.º 216/2008, Série I
+  source: null
+  date: '2008-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
   label: null
@@ -97,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1268/2008/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1268/2008/11/06/p/dre
+- type: cites
+  target: pt:dre:203474487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:37Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +186,7 @@ e) (Revogada.)
 
 f) [...]
 
-###### Artigo 4.º
+Artigo 4.º
 
 O livro de obra deve conter um termo de abertura elaborado pelo dono da obra, assinado por este e pelos diretores de obra e de fiscalização, do qual constem os seguintes elementos:
 
@@ -171,15 +206,19 @@ g) [...]
 
 h) A identificação do procedimento de controlo prévio da operação urbanística em causa e do respetivo título, respetiva data de emissão e prazo concedido para a conclusão da obra, quando aplicável.
 
-###### Artigo 5.º — (Revogado.)
+Artigo 5.º
 
-###### Artigo 13.º
+(Revogado.)
+
+Artigo 13.º
 
 Sem prejuízo do disposto no número anterior, o diretor de fiscalização da obra deve, até ao momento do encerramento do livro de obra, assinar os registos efetuados nos termos do artigo anterior, atestando a conformidade da informação deles constante às características da edificação concluída.
 
-###### Artigo 14.º — (Revogado.)
+Artigo 14.º
 
-###### Artigo 15.º
+(Revogado.)
+
+Artigo 15.º
 
 Sem prejuízo dos deveres, legais ou contratais, que incumbam a outras pessoas ou entidades, o dono de obra está obrigado a:
 
@@ -189,21 +228,33 @@ b) [...]
 
 c) [...]
 
-###### Artigo 17.º — (Revogado.)
+Artigo 17.º
 
-###### Artigo 18.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 19.º — (Revogado.)
+Artigo 18.º
 
-###### Artigo 20.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 24.º — (Revogado.)
+Artigo 19.º
 
-###### Artigo 25.º
+(Revogado.)
+
+Artigo 20.º
+
+(Revogado.)
+
+Artigo 24.º
+
+(Revogado.)
+
+Artigo 25.º
 
 (Revogado.)»
 
-###### Artigo 3.º — Livro de obra digital
+###### Artigo 3.º
+
+## Livro de obra digital
 
 1 - Para efeitos de fiscalização por parte das entidades licenciadoras e para consulta dos cidadãos, o livro de obra digital é elaborado na Plataforma Eletrónica dos Procedimentos Urbanísticos (PEPU), nos termos previstos no artigo 8.º-A do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, incorporando, com as necessárias adaptações, os requisitos funcionais que permitam cumprir as finalidades do livro de obra com maior conveniência, simplicidade, transparência e segurança, de acordo com as regras a definir por despacho dos membros do Governo responsáveis pelas áreas da modernização administrativa, da construção e das autarquias locais e ordenamento do território.
 
@@ -225,4 +276,6 @@ O disposto nos artigos 19.º e 20.º da [Portaria n.º 1268/2008](https://diario
 
 Em 22 de fevereiro de 2024.
 
-**A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.**
+A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.
+
+117405267

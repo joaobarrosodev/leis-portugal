@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 59/2022, 1º Suplemento, Série I de 2022-03-24
   number: '59'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 26-(2) a 26-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/125-a/2022/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-a-2022-180994151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 455ecf172e5eea264413fff832a572666717cacb9e4067b79e36035000d02eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cf419045d9377d1f14e717718f475a81584e5bc7519c2000b91d1fcd55aed95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Actividade Artística
 - Admissão de Pessoal
 - Bailado
 - Colocação de Professores
@@ -74,21 +74,21 @@ subjects:
 - Concurso de Ingresso
 - Contrato de Trabalho a Termo
 - Criação de Lugares
-- Regulamentação de Atos Legislativos
 - Direção Geral da Administração Escolar
+- Ensino
+- Ensino Artístico
 - Ensino Oficial
+- Estabelecimento de Ensino
 - Estatuto da Carreira Docente
 - Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
 - Formas de Provimento
-- Recrutamento de Pessoal
 - JURI
 - Música
-- Ensino
-- Estabelecimento de Ensino
 - Pessoal Docente
-- Qualificação Profissional
 - Quadro de Pessoal
-- Actividade Artística
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -111,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:00Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +173,14 @@ Todas as vagas referidas no artigo 1.º consideram-se extintas quando vagarem.
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 23 de março de 2022. - O Secretário de Estado da Administração Pública, José Correia Fontes Couto, em 24 de março de 2022. - A Secretária de Estado da Educação, Inês Pacheco Ramires Ferreira, em 24 de março de 2022.**
+O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 23 de março de 2022. - O Secretário de Estado da Administração Pública, José Correia Fontes Couto, em 24 de março de 2022. - A Secretária de Estado da Educação, Inês Pacheco Ramires Ferreira, em 24 de março de 2022.
 
 ## ANEXO I — Concurso externo - Vagas de quadro de zona pedagógica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf)
 
 ## ANEXO II — Concurso externo para o ensino artístico especializado da Música e da Dança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05901/0000200004.pdf)
+
+115155549

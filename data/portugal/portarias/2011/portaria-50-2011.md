@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/01/01900/0056300563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/2011/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-2011-280967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0578f18bc5142bcf214e1774ab08f291f4ffb88cbaec0b35eeea40209ca04f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07f96d44b09a7d1f31e247f9e5c2eef773e88af30f4fcd9209f1d54806b688f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,24 @@ reuse:
 subjects:
 - Acção de Formação
 - Carreira Militar
-- Formação Profissional
 - Curso Profissional
-- Marinha
-- Habilitações Literárias
 - Forças Armadas
-- Qualificação Profissional
-- Progressão na Carreira
+- Formação Profissional
+- Habilitações Literárias
+- Marinha
 - Militar
+- Progressão na Carreira
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:105276965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553039:por
+  label: "Alterados os arts. 2º e 3º pela PORT.110/2012.26.04.2012.MDN, DR.IS [82] de 26.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2012-553039
+  date: '2012-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
   label: null
@@ -120,16 +125,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2008/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2008/05/06/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641716:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278206:por
+  label: "Rectificado o n.º 3 do art. 2.º pela DECL-RECT.8/2011.17.03.2011.PCM, DR.IS [54] de 17.03.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-2011-278206
+  date: '2011-03-17'
+- type: repealed_by
+  target: pt:dre:105276965:por
+  label: Revogada pelo(a) Portaria n.º 300/2016 - Diário da República n.º 229/2016, Série I de 2016-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-2016-105276965
+  date: '2016-11-29'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:00Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/762/2010/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-2010-343449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d162c36b3bcb167251b9954b1989b473bd9ce553066401e077e72637ad2c95e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 640c2b040b3a8e9d72a038eb875ce5a08f8ff700dd39a0fa5ba4b3203e11a8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Petrolífero
+- Benefícios Fiscais
 - Fiscalização
 - Isenção Fiscal
-- Benefícios Fiscais
+- Produto Petrolífero
 - Taxa
 relationships:
+- type: amended_by
+  target: pt:dre:58169531:por
+  label: Alterado o n.º 62.º da Port. 117-A/2008, de 08-fev, na redação do presente diploma, pelo(a) Portaria n.º 206/2014
+    - Diário da República n.º 194/2014, Série I de 2014-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-2014-58169531
+  date: '2014-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
   label: null
@@ -81,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/117-a/2008/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/117-a/2008/02/08/p/dre
+- type: cites
+  target: pt:dre:315562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:19Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +137,4 @@ O n.º 62.º da [Portaria n.º 117-A/2008](https://diariodarepublica.pt/dr/detal
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 10 de Agosto de 2010. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 5 de Agosto de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 10 de Agosto de 2010. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 5 de Agosto de 2010.

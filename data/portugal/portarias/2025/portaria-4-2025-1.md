@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/4/2025/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476361226c54bff2a81f67e8007bfe826270eacb92853db4c280776dc1a62335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27aceb8f657c58a13964261d1c9cbd70482614f92163267d3efc7895992351cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estatuto
 - Infarmed
 - Regulamentação de Atos Legislativos
-- Estatuto
 relationships:
+- type: amends
+  target: pt:numero:portaria:267/2012
+  label: Altera, a partir de 4 de janeiro de 2025, os artigos 1.º, 2.º, 8.º e 12.º dos estatutos do INFARMED, I.P., aprovado
+    em anexo à Portaria n.º 267/2012, de 31 de agosto, Diário da República n.º 169/2012, Série I
+  source: null
+  date: '2012-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
   label: null
@@ -90,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/306/2015/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/306/2015/09/23/p/dre
+- type: cites
+  target: pt:dre:174826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865954590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:32Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +168,17 @@ Os artigos 1.º, 2.º, 8.º e 12.º do anexo da [Portaria n.º 267/2012](https:/
 
 2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até 27 (vinte e sete) unidades orgânicas flexíveis, integradas ou não nas direções a que se refere o número anterior, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - As unidades orgânicas previstas no n.º 1 do artigo 1.º são dirigidos por diretores, cargos de direção intermédia de 1.º grau.
 
 2 - As unidades orgânicas flexíveis, previstas no n.º 2 do artigo 1.º, são dirigidas por diretores de unidade, cargos de direção intermédia de 2.º grau.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -192,7 +226,9 @@ u) Promover a melhor articulação nas ações de colaboração conjunta das aut
 
 v) Assegurar, ainda, qualquer representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]
 
@@ -220,4 +256,6 @@ j) [Anterior alínea i).]»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 27 de dezembro de 2024. - A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 29 de dezembro de 2024.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 27 de dezembro de 2024. - A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 29 de dezembro de 2024.
+
+118517154

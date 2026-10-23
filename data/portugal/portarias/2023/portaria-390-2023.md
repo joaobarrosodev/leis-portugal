@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22700/0004300044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/2023/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30830c2066fc25ddc3c675cbdc8740c3543de7c9d8bd48dc0739ae7d15e1b61d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acdca4b1a4856bde124665d8c426dd2560617ea83d3fd4f932fe01fe9d32e4fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Desempregado
-- Regulamentação de Atos Legislativos
-- Jovem
-- IAS
 - Contratação de Pessoal
 - Criação de Emprego
-- Regime de Apoio
-- Remuneração
+- Desempregado
+- IAS
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Programa AVANÇAR
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/187/2023/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/187/2023/07/03/p/dre
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213498830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215086004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:59Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +154,17 @@ b) [...]
 
 c) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º e no artigo anterior, são elegíveis os contratos de trabalho celebrados sem termo, a tempo completo, e cuja retribuição base estabelecida seja igual ou superior ao nível remuneratório de entrada de um licenciado na carreira geral de técnico superior na Administração Pública.
 
 2 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -182,4 +202,6 @@ e) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho numa empr
 
 2 - Sem prejuízo do disposto no número anterior, as alterações ao n.º 2 do artigo 11.º da [Portaria n.º 187/2023](https://diariodarepublica.pt/dr/detalhe/portaria/187-2023-215086004), de 3 de julho, produzem efeitos no dia seguinte à publicação da presente portaria.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 20 de novembro de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 20 de novembro de 2023.
+
+117082409

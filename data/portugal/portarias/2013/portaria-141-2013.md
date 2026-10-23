@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/141/2013/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/141-2013-259972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0bc0317463616eaeb5151cf33d5d4cdc31d50e3da7132751487e7e794ab7d5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc8e2ef18a758e3f70635a7797ff0834c7daeab1a6002b9c2d9afe0b1c34c7cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:47Z'
   warnings: []
   errors: []
 ---
@@ -131,6 +131,6 @@ b) Na face nacional da moeda é representada a Torre dos Clérigos, no centro da
 
 O limite de emissão comemorativa da moeda corrente a que se refere o artigo 1.º é de (euro) 1 050 000 e a INCM, dentro deste limite, é autorizada a cunhar até 15 000 moedas com acabamento BNC e até 10 000 moedas com acabamento proof.
 
-**A Secretária de Estado do Tesouro, Maria Luís Casanova Morgado Dias de Albuquerque, em 13 de março de 2013.**
+A Secretária de Estado do Tesouro, Maria Luís Casanova Morgado Dias de Albuquerque, em 13 de março de 2013.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/06600/0197301974.pdf))](https://files.diariodarepublica.pt/1s/2013/04/06600/0197301974.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/06600/0197301974.pdf)

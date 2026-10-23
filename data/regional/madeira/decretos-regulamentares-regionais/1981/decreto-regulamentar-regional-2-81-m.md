@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04800/05300548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1981-390634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e877844376ecb8f5557bd90d2ac07643fa0f4a19a8eafac4c0c49749e3c67c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd8eb359e3e334ed0dacfebfc4b999f2fa6f5d5f12c03bcc171d609f9f6cf596
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:569901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:388976:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 85/1981, Série I de 1981-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-388976
+  date: '1981-04-11'
+- type: corrected_by
+  target: pt:dre:573153:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 109/1981, Série I de 1981-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-573153
+  date: '1981-05-13'
+- type: repealed_by
+  target: pt:dre:569901:por
+  label: "Revogado pelo DLR.8/86/M.26.05.1986.ALR-RAM, DR.IS [134]Supl de 14.06.1986, após a entrada em vigor dos diplomas\
+    \ referidos no n.º 4 do artigo 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1986-569901
+  date: '1986-05-26'
 article_structure:
   article_count: 79
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:05Z'
   warnings: []
   errors: []
 ---
@@ -476,7 +559,9 @@ Ficheiro de trabalhadores estrangeiros.
 
 2 - O Serviço de Apreciação das Condições de Trabalho é chefiado por um chefe de serviços.
 
-##### SUBSECÇÃO III — Divisão de Higiene e Segurança no Trabalho
+##### SUBSECÇÃO III
+
+##### Divisão de Higiene e Segurança no Trabalho
 
 ###### Artigo 27.º — (Atribuições)
 
@@ -772,7 +857,9 @@ e) Assegurar o efectivo de bens e serviços necessários ao bom funcionamento do
 
 Compete ao Núcleo de Informação e Documentação assegurar todo o apoio documentalístico e informativo necessário à actividade do GRGFD, em articulação com o Centro de Informação e Documentação da Secretaria Regional do Trabalho.
 
-##### SUBSECÇÃO II — Divisão de Inspecção Fiscal e Contencioso
+##### SUBSECÇÃO II
+
+##### Divisão de Inspecção Fiscal e Contencioso
 
 ###### Artigo 48.º — (Atribuições)
 
@@ -808,7 +895,9 @@ o) Prestar as informações que lhe forem solicitadas pelos particulares sobre a
 
 2 - A Divisão de Inspecção Fiscal e Contencioso é chefiada por um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão Financeira
+##### SUBSECÇÃO III
+
+##### Divisão Financeira
 
 ###### Artigo 49.º — (Atribuições)
 
@@ -1186,16 +1275,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Plenário do Governo Regional em 22 de Agosto de 1980.
 
-**O Presidente do Governo Regional em exercício, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente do Governo Regional em exercício, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 26 de Janeiro de 1981.**
+Assinado em 26 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Miguel.
 
 Mapa do pessoal a que se refere o n.º 2 do artigo 58.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04800/05300548.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04800/05300548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04800/05300548.pdf)
 
 Aprovado em Plenário do Governo Regional de 22 de Agosto de 1980.

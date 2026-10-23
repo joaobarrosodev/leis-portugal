@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07200/0223802239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2011/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2011-276840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15069a86ddda5b036e094d8f5e49aa15fa901522ce0a29a428b12b7c4814d5aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3311228604846f7906a359d2039c1f150ea489745694debba0ac7d3cb2abad9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento de Aplicação do Regime do Pagamento Único
+- Agricultura
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
-- Pagamento
-- Jovem Agricultor
+- Baldio
 - Exploração Agrícola
 - Exploração Florestal
-- Baldio
-- Regime de Apoio
-- Produção Vegetal
+- Financiamento
 - Fruticultura
+- Jovem Agricultor
+- Pagamento
 - Pecuária
-- Agricultura
+- Produção Animal
+- Produção Vegetal
+- Regime de Apoio
+- Regulamento de Aplicação do Regime do Pagamento Único
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:66619896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553641:por
+  label: "Alterado o anexo I do Regulamento de Aplicação do Regime de Pagamento Único, aprovado pela Port 68/2010, de 03-fev,\
+    \ na redacção da presente portaria, pela PORT.62/2012.20.03.2012.MAMAOT, DR.IS [57] de 20.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2012-553641
+  date: '2012-03-20'
 - type: cites
   target: celex:32009R0073
   label: null
@@ -98,16 +104,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/68/2010/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/68/2010/02/03/p/dre
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogada, a partir de 28.02.2015, a Port 68/2010 de 03-fev, alterada pelo presente diploma, pelo(a) Portaria n.º
+    57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:59Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +154,9 @@ Atribuição especial de direitos
 
 3 - O valor unitário dos direitos ao pagamento atribuídos ao abrigo do presente regime excepcional é calculado dividindo o valor total dos direitos cedidos à reserva nacional pela área de 0,3 ha, sendo o número de direitos a atribuir igual a 0,3.»
 
-###### Artigo 2.º — Anexo
+###### Artigo 2.º
+
+## Anexo
 
 Para efeitos do pedido único de 2011, o anexo i à Portaria n.º 68/2010, de 3 de Fevereiro, é substituído pelo anexo i à presente portaria, que dela faz parte integrante.
 
@@ -150,7 +164,7 @@ Para efeitos do pedido único de 2011, o anexo i à Portaria n.º 68/2010, de 3 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e é aplicável a partir da campanha de 2011.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 31 de Março de 2011.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 31 de Março de 2011.
 
 ## ANEXO I — Lista de concelhos e freguesias com risco de abandono agrícola para o ano de 2011
 

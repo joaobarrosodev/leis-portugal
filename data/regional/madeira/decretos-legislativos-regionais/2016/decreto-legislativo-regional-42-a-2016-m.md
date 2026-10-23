@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5158-(2) a 5158-(105)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/42-a/2016/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3739ceb206bcfe6ce8212ea0d784a5b0e657eaac470c46334e3fd9421893fb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1060e7315a2c5b04b43119c96e77a220e0a261db03592851106a42655041d850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,175 +65,206 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Acesso à Informação
-- Remuneração Complementar Regional
+- Administração Regional
 - Ajuda aos Sinistrados
 - Ajuda Humanitária
 - Ajudas de Custo
 - Alienação de Imóveis
-- BENS Imóveis
 - Alienação de Participação Social
 - Alteração Orçamental
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
-- Associação de Municípios
-- ILHA da Madeira
-- ILHA de Porto Santo
-- Região Autónoma
+- Arrendamento Urbano não Habitacional
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
+- Associação de Municípios
 - Assunção de Dívidas
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão de Resíduos
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
+- Banca
+- Base de Dados
 - Bebida não Alcoólica
 - BEM Móvel
+- BENS Imóveis
 - Cativação de Verba
-- Pessoal Dirigente
+- Cobrança de Dívidas
 - Código de Procedimento e de Processo Tributário
 - Código do IRC
 - Código do IRS
 - Código dos Impostos Especiais de Consumo
-- Gestão Financeira
-- Subsídio de Disponibilidade Permanente
-- Lei do Enquadramento
-- Finanças Locais
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Condutor
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contratação de Docentes
-- Arrendamento Urbano não Habitacional
 - Contrato de Locação Financeira
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contrato Programa
+- Contribuições e Impostos
 - Controlo Orçamental
 - Cooperação Financeira
 - Cooperação Técnica
 - Crédito Bonificado
+- Créditos do Estado
 - Definição de Competências
 - Derrama
 - Desenvolvimento Regional
 - Despesas Públicas
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
 - Diretor Regional
 - Dívida Pública
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
 - Dotação Orçamental
+- Eliminação de Resíduos
+- Empresa Pública
 - Empresa Pública Regional
 - Empréstimo
-- Empresa Pública
+- Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
 - Estatuto Político-Administrativo da Região Autónoma da Madeira
+- Estatuto Remuneratório
 - Execução do Orçamento
-- Ação Social
-- Subvenção Pública
-- Lei de Finanças das Regiões Autónomas
+- Finanças Locais
+- Finanças Regionais
+- Financiamento
 - Fiscalização
-- Setor Empresarial do Estado
-- Habitação Social
 - Fundo de Coesão para as Regiões Ultraperiféricas
 - Fundo Escolar
-- Projeto de Investimento
 - Fundos Autónomos
 - Fundos CE
-- Presidente do Governo Regional
-- Créditos do Estado
-- Recrutamento de Pessoal
+- Garantia
+- Gestão de Recursos Humanos
+- Gestão de Resíduos
+- Gestão Financeira
 - Gestão Orçamental
 - Gestor Público Regional
-- Conselho do Governo Regional
-- Remuneração Acessória
-- Seguro
+- Governo Regional
+- Habitação Social
 - IHM
+- ILHA da Madeira
+- ILHA de Porto Santo
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
-- Contribuições e Impostos
-- IRS
 - Indemnização Compensatória
-- Base de Dados
-- Banca
 - Inspecção Regional de Finanças
 - Instituto de Desenvolvimento Regional
+- Instituto de Segurança Social da Madeira
+- Instituto para a Qualificação
 - Instituto Público
 - Integração de Trabalhadores
 - Investimento
 - Investimento Público
-- Ensino Secundário
-- Finanças Regionais
+- IRC
+- IRS
+- Lei de Finanças das Regiões Autónomas
+- Lei do Enquadramento
 - Lei Geral do Trabalho em Funções Públicas
 - Linha de Crédito
-- Pagamento em Atraso
 - Locação Financeira
-- Assembleia Legislativa
-- Patriram
-- Secretaria Regional da Educação
-- Valor Ambiente
-- Condutor
-- Orçamento Geral do Estado
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
 - Oneração de Imóveis
 - Operação de Reporte
 - Operações de Crédito
 - Operações de Emprestimo
 - Operações de Tesouraria
 - Orçamento
+- Orçamento Geral do Estado
 - Orçamento Regional
 - Órgãos de Gestão
+- Pagamento em Atraso
 - Parceria Público-Privada
 - Parecer
-- Tesouraria
-- Política Orçamental
-- IRC
-- Estabelecimento de Ensino
+- Patriram
+- Pessoal Dirigente
 - Pessoal Docente
-- Serviço Público
+- PIDDAR
+- Política Orçamental
 - Presidente da Assembleia Legislativa Regional
+- Presidente do Governo Regional
 - Prestação de Contas
-- Ensino Básico
 - Programa de Investimento
-- Madeira.região Autónoma
+- Projeto de Investimento
 - Receita Pública
 - Receita Regional
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
 - Recursos Humanos
+- Reestruturação de Serviços
+- Região Autónoma
 - Regime de Apoio
 - Regime de Pessoal
-- Contrato de Trabalho
 - Regime Fiscal
 - Remuneração
-- Mobilidade de Pessoal
+- Remuneração Acessória
+- Remuneração Complementar Regional
 - Retenção na Fonte
+- Secretaria Regional da Educação
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
 - Secretário Regional
-- Administração Regional
-- Gestão de Recursos Humanos
-- Contabilidade Pública
-- Eliminação de Resíduos
-- Estatuto Remuneratório
+- Sector Empresarial Regional
+- Seguro
+- Serviço Público
+- Setor Empresarial do Estado
+- Sistema de Normalização Contabilística Público
 - Subsídio
+- Subsídio de Disponibilidade Permanente
 - Subsídio de Insularidade
 - Subsídio de Produtividade
 - Subsídio de Reintegração
 - Subsídio de Residência
+- Subvenção Pública
 - Taxa
 - Técnico Especialista de Gabinete
+- Tesouraria
 - Transferência de Verbas
-- Autarquia Local
 - Tributação
 - Unidade de Gestão
+- Valor Ambiente
 - Zona Franca
-- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- Sector Empresarial Regional
-- PIDDAR
-- Instituto para a Qualificação
-- Instituto de Segurança Social da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:1078211088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114157368:por
+  label: Determinado que se mantenha, até à aprovação do Orçamento da Região Autónoma da Madeira para 2018, a expressão orçamental
+    da organização e funcionamento do Governo Regional, aprovada pelo presente diploma, bem como determina que, até à constituição
+    formal de novas unidades de gestão, as atribuições constantes dos n.ºs 2 e 3 do art. 54.º daquele diploma continuem a
+    ser asseguradas pelas unidades que até à data as desempenham, pelo(a) Decreto Regulamentar Regional n.º 13/2017/M - Diário
+    da República n.º 214/2017, Série I de 2017-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2017-114157368
+  date: '2017-11-07'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 2.º, na redação do presente diploma, do DLR 3/2001/M de 22-fev, na
+    versão republicada pelo DLR 33/2016/M de 20-ju, pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República
+    n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterado, com efeitos desde 01.01.2019, o art. 2.º do DLR 3/2001/M de 22-fev, na versão republicada pelo DLR 33/2016/M
+    de 20-jul, e com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da
+    República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do imposto aplicáveis aos sujeitos passivos de IRS residentes
+    na Região Autónoma da Madeira, previstas no art. 2.º, na redação do presente diploma, do DLR 3/2001/M de 22-fev, na versão
+    republicada pelo DLR 33/2016/M de 20-jul, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º
+    22/2020, 1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.
   label: null
@@ -278,16 +309,407 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55028878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58986482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65891078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69820476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70186241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73000147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73462829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74878702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74985443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150259:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:873755644:por
+  label: Revogado, a partir de 30 de julho de 2024, com efeitos a 01 de janeiro de 2024, o artigo 59.º do presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29, nos termos
+    do seu n.º 2 do artigo 76.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
 article_structure:
-  article_count: 79
+  article_count: 75
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:06Z'
   warnings: []
   errors: []
 ---
@@ -468,7 +890,7 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf))](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf)
 
 2 - O quantitativo do rendimento coletável, quando superior a (euro) 7 091, é dividido em duas partes: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
@@ -1132,13 +1554,17 @@ Os artigos 29.º, 32.º-A e 32.º-B do [Decreto Legislativo Regional n.º 17/200
 
 2 - [...].
 
-###### Artigo 32.º-A — [...]
+Artigo 32.º-A
+
+[...]
 
 1 - Aos membros do conselho diretivo dos institutos públicos da Região Autónoma da Madeira são aplicáveis as regras de recrutamento e provimento dos cargos de direção superior da administração regional autónoma da Madeira, previstas no artigo 5.º do [Decreto Legislativo Regional n.º 5/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253), de 22 de abril, alterado e republicado pelos [Decretos Legislativos Regionais n.os 27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de julho, e [27/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), de 6 de julho, sem prejuízo do disposto no número seguinte.
 
 2 - Os membros do conselho diretivo são designados nos termos previstos no diploma orgânico do respetivo instituto e, na sua falta, por despacho conjunto do Presidente do Governo Regional e do membro do Governo competente.
 
-###### Artigo 32.º-B — [...]
+Artigo 32.º-B
+
+[...]
 
 1 - [...].
 
@@ -1200,7 +1626,9 @@ Os artigos 2.º, 6.º e 7.º do [Decreto Legislativo Regional n.º 27/2004/M](ht
 
 2 - As alterações aos estatutos serão efetuadas nos termos da lei comercial, carecendo de autorização prévia mediante despacho conjunto dos membros do Governo Regional que detenham a tutela da habitação e das finanças.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -1208,7 +1636,9 @@ Os artigos 2.º, 6.º e 7.º do [Decreto Legislativo Regional n.º 27/2004/M](ht
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O capital estatutário da IHM, EPERAM, é de 9.800.000,00 (euro) integralmente detido pela Região Autónoma da Madeira, sem prejuízo de poder vir a ser subscrito por outras entidades públicas, a ser realizado por entradas em dinheiro ou espécie, ou por prestações suplementares, nos termos que vierem a ser definidos por deliberação do Conselho do Governo Regional.
 
@@ -1360,12 +1790,12 @@ São revogados os n.os 3 e 4 do artigo 9.º, n.os 2 e 3 do artigo 9.º-A, e n.º
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 16 de dezembro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Publique-se.**
+Publique-se.
 
-**Assinado em 27 de dezembro de 2016.**
+Assinado em 27 de dezembro de 2016.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf))](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/25001/0000200105.pdf)

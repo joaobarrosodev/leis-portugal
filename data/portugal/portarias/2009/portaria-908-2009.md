@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/908/2009/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/908-2009-493708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcca352ca268f1e2a1acef59fe0b0b1bb86735de452faa1701f27b3271bf1770
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 345e0c031a8d47aa2c1c5015dbb51dbd5663a9a9f968d2c2249dd38448c116a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Coletivo de Trabalho
-- Transporte Rodoviário
 - Comunicações
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
 - Regulamento de Extensão
 - Remuneração
 - Trabalhador por Conta de Outrem
+- Transporte Rodoviário
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:00Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +130,4 @@ b) Às relações de trabalho entre empregadores que exerçam a actividade econ�
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de quatro.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 5 de Agosto de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 5 de Agosto de 2009.

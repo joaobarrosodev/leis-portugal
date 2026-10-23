@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00301/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6-c/2025/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-c-2025-902111933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bedfbc7038a18567affa710a627abfbbdc1ca2b1b8835b5b04f1b6ce37af70d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 792328e5ec206974d5e53e7b19f48472825dd82839d8fe663d482183ebb2e574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,25 @@ reuse:
 subjects:
 - Acreditação
 - Administrador
-- Certificação Electrónica
-- Certificação Profissional
-- Pessoal Dirigente
-- Entidade Certificadora
-- Instituto dos Registos e do Notariado
 - Agência para a Modernização Administrativa
 - Assinatura Digital
-- Funcionário Público
-- Taxa
+- Certificação Electrónica
+- Certificação Profissional
 - Chave Móvel Digital
+- Entidade Certificadora
+- Funcionário Público
+- Instituto dos Registos e do Notariado
+- Pessoal Dirigente
 - Plataforma Eletrónica
+- Taxa
 relationships:
+- type: amends
+  target: pt:numero:portaria:73/2018
+  label: Altera, a partir de 7 de janeiro de 2025, os artigos 3.º, 5.º, 7.º, 8.º, 11.º, 13.º, 14.º, 15.º e 16.º e revoga o
+    n.º 4 do artigo 8.º e a alínea b) do n.º 1 do artigo 15.º da Portaria n.º 73/2018, de 12 de março, Diário da República
+    n.º 50/2018, Série I
+  source: null
+  date: '2018-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/2016/12/16/p/dre
   label: null
@@ -89,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73/2018/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73/2018/03/12/p/dre
+- type: cites
+  target: pt:dre:105371771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114848693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:09Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +160,17 @@ Os artigos 3.º, 5.º, 7.º, 8.º, 11.º, 13.º, 14.º, 15.º e 16.º da [Portar
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O utilizador do SCAP é responsável pela atualização dos dados que dele constem, sem prejuízo do disposto no n.º 5 do artigo 3.º e do n.º 2 do artigo 14.º
 
 2 - O utilizador do SCAP não pode utilizar a autenticação e assinatura para certificação dos atributos profissionais, empresariais ou públicos quando já não seja detentor dos mesmos, designadamente, por decurso do prazo do mandato para o qual foi nomeado, quando aplicável, sob pena de incorrer em infração disciplinar, civil e criminal.
 
-###### Artigo 7.º — Atribuição automática e adesão aos atributos empresariais
+Artigo 7.º
+
+Atribuição automática e adesão aos atributos empresariais
 
 1 - Aos administradores, gerentes ou diretores, das sociedades anónimas, sociedades por quotas, sociedades unipessoais por quotas e cooperativas, é atribuído e certificado, de forma automática, o atributo empresarial respetivo, através do SCAP, para posterior autenticação e assinatura, com o Cartão de Cidadão ou Chave Móvel Digital, enquanto representantes da entidade.
 
@@ -155,7 +178,9 @@ Os artigos 3.º, 5.º, 7.º, 8.º, 11.º, 13.º, 14.º, 15.º e 16.º da [Portar
 
 3 - Com o registo de cessação de funções de administrador, gerente ou diretor e o registo do cancelamento de matrícula da sociedade anónima, sociedade por quotas, sociedade unipessoais por quotas e cooperativa, é oficiosa e automaticamente cancelada a certificação da qualidade de administrador, gerente ou diretor dos respetivos titulares.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A assinatura qualificada com certificação da qualidade de administrador, gerente ou diretor, nos termos do n.º 1 do artigo anterior, pode ser utilizada nos seguintes casos:
 
@@ -187,9 +212,11 @@ k) Requerer atos de registo e o registo do beneficiário efetivo.
 
 4 - (Revogado.)
 
-5 - Para efeitos da prática dos atos referidos nos n.<sup>os</sup>1 e 2, presumem-se os poderes do administrador, gerente ou diretor cuja qualidade é certificada.
+5 - Para efeitos da prática dos atos referidos nos n.os1 e 2, presumem-se os poderes do administrador, gerente ou diretor cuja qualidade é certificada.
 
-###### Artigo 11.º — Atributos públicos
+Artigo 11.º
+
+Atributos públicos
 
 1 - Os membros do Governo, pessoal que integra os respetivos Gabinetes, os trabalhadores em funções públicas e dirigentes podem livremente solicitar que seja certificado o seu atributo público para posterior autenticação e assinatura com o Cartão de Cidadão ou Chave Móvel Digital, nos termos do artigo 10.º do [Decreto-Lei n.º 83/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), de 16 de dezembro:
 
@@ -201,7 +228,9 @@ b) No caso dos membros do Governo, pessoal que integra os respetivos Gabinetes e
 
 3 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -213,7 +242,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 14.º — Distribuição dos processos relativos à adesão aos atributos empresariais
+Artigo 14.º
+
+Distribuição dos processos relativos à adesão aos atributos empresariais
 
 1 - O serviço de adesão na modalidade de certificação da qualidade e poderes do procurador é prestado em dias úteis, no prazo máximo de 48 horas.
 
@@ -221,7 +252,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A adesão aos atributos empresariais, nos termos do artigo 7.º, é recusada nos seguintes casos:
 
@@ -241,7 +274,9 @@ b) A pedido de qualquer pessoa com interesse legítimo; ou oficiosamente, aquand
 
 3 - No caso de recusa de certificação efetuada por um serviço de registo, caso o requerente solicite por escrito que pretende impugnar o respetivo ato, o conservador de registos ou o oficial de registos deve emitir despacho especificando os fundamentos respetivos, sendo aplicável a esta recusa o regime de impugnação previsto nos artigos 101.º e seguintes do Código do Registo Comercial, com as devidas adaptações.
 
-###### Artigo 16.º — Custos relativos à certificação de atributos empresariais
+Artigo 16.º
+
+Custos relativos à certificação de atributos empresariais
 
 1 - Pela certificação da qualidade e poderes de procurador é devida uma taxa de 40 euros.
 
@@ -275,4 +310,6 @@ A presente portaria entra em vigor no dia 7 de janeiro de 2025.
 
 Em 3 de janeiro de 2025.
 
-**A Ministra da Juventude e Modernização, Margarida Balseiro Lopes. - A Secretária de Estado da Justiça, Maria José Dias da Mota Magalhães de Barros.**
+A Ministra da Juventude e Modernização, Margarida Balseiro Lopes. - A Secretária de Estado da Justiça, Maria José Dias da Mota Magalhães de Barros.
+
+118527871

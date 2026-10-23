@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/23500/0603406035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2014/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-61239006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63d40acc384a699b82d0adeda0e8a7ffac9c4d6e9b1797d3d4a5cd2ca9b3f677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b6980f2bd80b1608f073821036ddf8d3fba0739d8ae10b4df7bde68678f39f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Distribuição de ÁGUA e Saneamento Básico em Baixa
-- Gestão de Resíduos
-- Sociedade Anónima
-- Capital Social
-- Saneamento Básico
-- Estatuto
-- Setor Empresarial do Estado
-- Sistema Multimunicipal de Recolha de Resíduos
-- Arm-águas e Resíduos da Madeira
-- Madeira.região Autónoma
 - Abastecimento de Água
+- Arm-águas e Resíduos da Madeira
+- Capital Social
+- Estatuto
+- Gestão de Resíduos
+- Madeira.região Autónoma
+- Saneamento Básico
+- Setor Empresarial do Estado
+- Sistema Multimunicipal de Distribuição de ÁGUA e Saneamento Básico em Baixa
+- Sistema Multimunicipal de Recolha de Resíduos
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/7/2009/03/12/m/dre
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:49Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +179,9 @@ São alterados os artigos 5.º e 6.º dos Estatutos, consagrados no Anexo I ao [
 
 2 - O capital social de (euro) 2.500.000,00 é totalmente subscrito, sendo realizado em (euro) 750.000,00 (correspondente a trinta por cento do capital social) no ato da constituição da sociedade, e diferido em (euro) 1.750.000,00 (correspondente a setenta por cento do capital social), a realizar em dinheiro ou em espécie, por uma ou mais vezes, no prazo máximo de três anos, contados da data do registo definitivo da sociedade.
 
-###### Artigo 6.º — Ações
+Artigo 6.º
+
+Ações
 
 1 - O capital social é representado por 500.000 ações, sendo 260.000 ações da categoria A e 240.000 ações da categoria B, com o valor nominal de (euro) 5 cada uma, repartidos pelos acionistas da forma seguinte:
 
@@ -219,10 +237,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 12 de novembro de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 21 de novembro de 2014.**
+Assinado em 21 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

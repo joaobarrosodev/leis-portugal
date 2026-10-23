@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/16200/0509205096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/2013/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-2013-499060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d780835604731c132ee1da5408b16b4c4744a2dd5a0dd52adaef07fc6eaaf1d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 689a44f69bed6b512b903de1c0aa88f8edc70a5b14efa08a16fa6566f109ebb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,33 @@ reuse:
 subjects:
 - Acreditação
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Financiamento
 - Catálogo Nacional de Qualificações
-- Formação Profissional
-- Plano de Estudos
 - Curso
-- Estudante
-- Pedagogia Moderna
-- Jovem
-- Grupo de Trabalho
-- SIGO
-- Sistema Nacional de Qualificações
-- Inovação Educacional
-- Ensino Secundário
 - Direção Geral dos Estabelecimentos Escolares
-- Ministro da Educação e Ciência
+- Ensino Secundário
 - Estabelecimento de Ensino
-- Qualificação Profissional
 - Estágio de Formação
+- Estudante
+- Financiamento
+- Formação Profissional
+- Grupo de Trabalho
+- Inovação Educacional
+- Jovem
+- Ministro da Educação e Ciência
+- Pedagogia Moderna
+- Plano de Estudos
 - Projeto
+- Qualificação Profissional
+- SIGO
 - Sistema Educativo
+- Sistema Nacional de Qualificações
 relationships:
+- type: amended_by
+  target: pt:dre:67401230:por
+  label: Alterado, a partir de 04.06.2015, o art. 20.º e revogado o n.º 4 do mesmo art. 20.º pelo(a) Portaria n.º 165-A/2015
+    - Diário da República n.º 107/2015, 1º Suplemento, Série I de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-a-2015-67401230
+  date: '2015-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -101,16 +107,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/292-a/2012/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/292-a/2012/09/26/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70497208:por
+  label: Revogada pelo(a) Portaria n.º 341/2015 - Diário da República n.º 198/2015, Série I de 2015-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-2015-70497208
+  date: '2015-10-09'
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:31Z'
   warnings: []
   errors: []
 ---
@@ -389,10 +412,10 @@ CFCEPE = (7CF+3M)/10
 
 A presente portaria produz efeitos a partir do ano letivo de 2013-2014.
 
-**O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 20 de agosto de 2013.**
+O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 20 de agosto de 2013.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
 Matriz Curricular - Cursos Vocacionais de nível secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16200/0509205096.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16200/0509205096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16200/0509205096.pdf)

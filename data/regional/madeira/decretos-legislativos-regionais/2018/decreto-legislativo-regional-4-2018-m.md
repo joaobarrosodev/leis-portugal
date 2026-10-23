@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02800/0086600875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2018/02/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2018-114655028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d64c51587018e7a027fc261f2452385f56897103064f0b7631a9ba46782505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 757b0fbe43f64f49203ba7db448af9fe9b3ae2f2b2475888235a5caaefbb8ab0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
+- Autarquia Local
 - Comissão Permanente
-- Definição de Competências
 - Conselho Municipal de Juventude
+- Definição de Competências
+- Juventude
 - Madeira.região Autónoma
 - Política de Juventude
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/2010/08/20/m/dre
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2009/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2009/02/18/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:19Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +179,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 O presente diploma cria os conselhos municipais de juventude para os municípios da Região Autónoma da Madeira, estabelecendo a sua composição, competências e regras de funcionamento.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 (Atual corpo do artigo.)
 
@@ -171,7 +201,9 @@ g) (Revogada.)
 
 h) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - (Atual corpo do artigo.)
 
@@ -207,17 +239,23 @@ l) Um representante residente no município, designado pela respetiva assembleia
 
 5 - As entidades que compõem o conselho municipal de juventude, de acordo com o n.º 1 do presente artigo, com exceção da alínea a), deverão indicar um representante suplente.
 
-###### Artigo 5.º — Observadores e participantes
+Artigo 5.º
+
+Observadores e participantes
 
 1 - O conselho municipal de juventude atribuí o estatuto de observador permanente, sem direito a voto, a outras entidades ou órgãos públicos e privados locais, nomeadamente a instituições sem fins lucrativos ou outras que tenham o estatuto de utilidade pública sediadas no concelho e que desenvolvam a título principal atividades relacionadas com a juventude, bem como a associações juvenis ou grupos informais de jovens, pessoas de reconhecido mérito, outros titulares de órgãos da autarquia, representantes das referidas entidades e que não disponham do estatuto de observador permanente, representantes de outras entidades públicas cuja presença seja considerada útil para os trabalhos, associações ou grupos informais de jovens que, embora não estejam sediados no município, tenham intervenção e desenvolvam a título principal atividades relacionadas com a juventude no concelho.
 
 2 - O titular do estatuto previsto no número anterior pode participar e intervir nas reuniões do conselho municipal de juventude.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete aos conselhos municipais de juventude emitir parecer obrigatório, não vinculativo, sobre as seguintes matérias:
 
@@ -241,7 +279,9 @@ e) Relatório de atividades e contas do município.
 
 6 - A assembleia municipal pode também solicitar a emissão de pareceres facultativos ao conselho municipal de juventude sobre matérias da sua competência com incidência nas políticas de juventude.
 
-###### Artigo 8.º — Competências de acompanhamento e de iniciativa
+Artigo 8.º
+
+Competências de acompanhamento e de iniciativa
 
 1 - Compete aos conselhos municipais de juventude acompanhar e emitir recomendações aos órgãos do município sobre as seguintes matérias:
 
@@ -261,7 +301,9 @@ b) Recomendar a realização de estudos em diferentes áreas que considere relev
 
 3 - As propostas e recomendações previstas no número anterior, ficam isentas do parecer obrigatório previsto no n.º 1 do artigo 7.º
 
-###### Artigo 9.º — Competências eleitorais
+Artigo 9.º
+
+Competências eleitorais
 
 1 - Compete ao conselho municipal de juventude:
 
@@ -271,7 +313,9 @@ b) Eleger um representante no Conselho Municipal de Educação.
 
 2 - Os representantes deverão acompanhar a evolução das políticas desenvolvidas nos respetivos conselhos de educação e juventude, dando conta aos conselheiros de todos os desenvolvimentos ao plenário.
 
-###### Artigo 10.º — Competências de divulgação e informação
+Artigo 10.º
+
+Competências de divulgação e informação
 
 Compete ao conselho municipal de juventude, no âmbito da sua atividade de divulgação e informação, o seguinte:
 
@@ -281,15 +325,21 @@ b) Divulgar junto da população jovem residente no município as suas iniciativ
 
 c) Promover a realização e divulgação de estudos sobre a situação dos jovens residentes no município.
 
-###### Artigo 11.º — Organização interna
+Artigo 11.º
+
+Organização interna
 
 No âmbito da sua organização interna, compete ao conselho municipal de juventude aprovar o seu regulamento interno, o seu plano e o relatório de atividades, bem como constituir comissões eventuais para missões temporárias.
 
-###### Artigo 12.º — Comissões intermunicipais de juventude
+Artigo 12.º
+
+Comissões intermunicipais de juventude
 
 Para o exercício das suas competências no que respeita a políticas de juventude comuns a diversos municípios, o conselho municipal de juventude pode estabelecer formas permanentes de cooperação, através da constituição de comissões intermunicipais de juventude.
 
-###### Artigo 13.º — Direitos dos membros do conselho municipal de juventude
+Artigo 13.º
+
+Direitos dos membros do conselho municipal de juventude
 
 1 - Os membros do conselho municipal de juventude identificados nas alíneas d) a l) do artigo 4.º têm o direito de:
 
@@ -307,11 +357,15 @@ f) Dispensa de funções públicas ou privadas ou dispensa da frequência de aul
 
 2 - Os restantes membros do conselho municipal de juventude apenas gozam dos direitos identificados nas alíneas a), d) e e) do número anterior.
 
-###### Artigo 14.º — Deveres dos membros do conselho municipal de juventude
+Artigo 14.º
+
+Deveres dos membros do conselho municipal de juventude
 
 (Anterior artigo 12.º)
 
-###### Artigo 15.º — Funcionamento
+Artigo 15.º
+
+Funcionamento
 
 1 - O conselho municipal de juventude pode reunir em plenário e em secções especializadas permanentes.
 
@@ -319,7 +373,9 @@ f) Dispensa de funções públicas ou privadas ou dispensa da frequência de aul
 
 3 - O conselho municipal de juventude pode, ainda, deliberar sobre a constituição de comissões eventuais de duração temporária.
 
-###### Artigo 16.º — Plenário
+Artigo 16.º
+
+Plenário
 
 1 - O plenário dos conselhos municipais de juventude reúne ordinariamente três vezes ao ano, nos seguintes termos:
 
@@ -339,7 +395,9 @@ c) Reunião destinada à emissão de parecer sobre o relatório de atividades e 
 
 6 - As reuniões dos conselhos municipais de juventude devem ser convocadas em horário compatível com as atividades académicas e profissionais dos seus membros.
 
-###### Artigo 17.º — Comissão permanente
+Artigo 17.º
+
+Comissão permanente
 
 1 - Compete à comissão permanente do conselho municipal de juventude:
 
@@ -357,11 +415,15 @@ c) Exercer as competências previstas no artigo 10.º que lhe sejam eventualment
 
 5 - As regras de funcionamento da comissão permanente são definidas no regulamento do conselho municipal de juventude.
 
-###### Artigo 18.º — Comissões eventuais
+Artigo 18.º
+
+Comissões eventuais
 
 Para a preparação dos pareceres a submeter à apreciação do plenário do conselho municipal de juventude e para a apreciação de questões pontuais, pode o conselho municipal de juventude deliberar a constituição de comissões eventuais de duração limitada.
 
-###### Artigo 19.º — Apoio logístico e administrativo
+Artigo 19.º
+
+Apoio logístico e administrativo
 
 1 - O apoio logístico e administrativo aos conselhos municipais de juventude e aos eventos organizados por sua iniciativa é da responsabilidade da câmara municipal, respeitando a autonomia administrativa e financeira do município.
 
@@ -383,17 +445,23 @@ Instalações
 
 2 - O conselho municipal de juventude pode solicitar a cedência de espaço a título gratuito à câmara municipal para organização de atividades por si ou pelos seus membros e para a audição de entidades.
 
-###### Artigo 21.º — Constituição do conselho municipal de juventude
+Artigo 21.º
+
+Constituição do conselho municipal de juventude
 
 1 - A assembleia municipal aprova a constituição do respetivo conselho municipal de juventude, do qual devem constar as disposições que instituem o órgão em cada município, bem como as demais normas relativas à sua composição e competências, nos termos do presente diploma.
 
 2 - O conselho municipal de juventude deve ser constituído até 90 dias após a tomada de posse da autarquia em exercício de funções.
 
-###### Artigo 22.º — Regulamento interno do conselho municipal de juventude
+Artigo 22.º
+
+Regulamento interno do conselho municipal de juventude
 
 O conselho municipal de juventude aprova o respetivo regulamento interno do qual devem constar as regras de funcionamento que não se encontram previstas no Código do Procedimento Administrativo e no presente diploma, bem como a composição e competências da comissão permanente.
 
-###### Artigo 23.º — Regime transitório
+Artigo 23.º
+
+Regime transitório
 
 1 - As regras de funcionamento dos conselhos municipais de juventude existentes à data de entrada em vigor do presente diploma devem ser objeto de adaptação no prazo máximo de 60 dias, a contar da entrada em vigor do presente diploma.
 
@@ -401,7 +469,9 @@ O conselho municipal de juventude aprova o respetivo regulamento interno do qual
 
 3 - As entidades representadas no conselho municipal de juventude devem proceder à designação dos seus representantes, no prazo de 15 dias após a instituição ou adaptação dos conselhos municipais de juventude, consoante o caso.
 
-###### Artigo 24.º — Entrada em vigor
+Artigo 24.º
+
+Entrada em vigor
 
 [Anterior artigo 19.º]»
 
@@ -417,11 +487,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de dezembro de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 22 de janeiro de 2018.**
+Assinado em 22 de janeiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -702,3 +772,5 @@ O conselho municipal de juventude aprova o respetivo regulamento interno do qual
 ###### Artigo 23.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+111103871

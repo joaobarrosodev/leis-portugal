@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2025/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 773be61296c11b0ad4a8111bcf2cf122cfc1966e6451f6c95748e3ce50eb380f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da27b350e2831f159771d04a2b82afe2362a675dd343db191baf3a9f5e7c2ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Prevenção de Incêndios
-- Formação Profissional
-- Igualdade de Tratamento
-- Regulamentação de Atos Legislativos
-- Recrutamento de Pessoal
+- Autoridade Nacional de Emergência e Proteção Civil
 - Bombeiro
-- Qualificação Profissional
 - Câmara Municipal
 - Contrato de Trabalho
-- Autoridade Nacional de Emergência e Proteção Civil
 - Equipa de Intervenção Permanente
+- Formação Profissional
+- Igualdade de Tratamento
+- Prevenção de Incêndios
+- Proteção Civil
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:322/2021
+  label: Altera, a partir de 8 de janeiro de 2025, os artigos 4.º, 6.º, 7.º, 9.º, 10.º, 12.º, 13.º, 14.º, 18.º, 19.º e 20.º
+    da Portaria n.º 322/2021, de 29 de dezembro, Diário da República n.º 251/2021, Série I, que republica
+  source: null
+  date: '2021-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2018/11/29/p/dre
   label: null
@@ -119,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/75/2011/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/2011/02/15/p/dre
+- type: cites
+  target: pt:dre:115375942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215716632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853137721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870819244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:11Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +229,9 @@ Os artigos 4.º, 6.º, 7.º, 9.º, 10.º, 12.º, 13.º, 14.º, 18.º, 19.º e 20
 
 4 - Na situação prevista no n.º 2 e desde que a atuação da EIP seja fora da área do respetivo município, o comandante do corpo de bombeiros informa, de imediato, o presidente da câmara municipal.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -199,7 +259,9 @@ h) [Anterior alínea f).]
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O membro do Governo responsável pela área da proteção civil determina, por despacho a emitir até 31 de janeiro, o número de EIP a constituir no mesmo ano civil.
 
@@ -219,7 +281,9 @@ h) [Anterior alínea f).]
 
 9 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os candidatos a integrar as EIP devem:
 
@@ -249,13 +313,17 @@ iii) [Lei n.º 85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-4888
 
 7 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
 2 - Para efeitos do disposto no número anterior, a proporção de elementos de cada sexo na constituição de EIP não pode ser inferior a 40 %.
 
-###### Artigo 12.º — Processo de recrutamento e seleção
+Artigo 12.º
+
+Processo de recrutamento e seleção
 
 1 - A integração numa EIP é voluntária, dependendo de manifestação individual de interesse, realizada no âmbito do processo de recrutamento aberto pela direção da AHB.
 
@@ -267,7 +335,9 @@ iii) [Lei n.º 85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-4888
 
 5 - A integração nas EIP dos elementos selecionados que cumpram os critérios estabelecidos no artigo 9.º e sejam considerados aptos nas provas físicas, carece de homologação da ANEPC, através de despacho do responsável pela área dos bombeiros.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os bombeiros que integram as EIP devem:
 
@@ -281,7 +351,9 @@ d) [...]
 
 2 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -299,7 +371,9 @@ d) [...]
 
 8 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A transferência de verbas, prevista na alínea a) do n.º 3 do artigo anterior, pode ser suspensa caso:
 
@@ -317,7 +391,9 @@ d) Os prémios de seguros de acidentes de trabalho e doenças profissionais e/ou
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -329,7 +405,9 @@ c) [...]
 
 2 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -347,7 +425,7 @@ c) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro, em 2 de janeiro de 2025.**
+O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro, em 2 de janeiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -459,7 +537,7 @@ b) Sem observância dos prazos previstos nos números anteriores.
 
 8 - A autorização da constituição de EIP especializadas depende de proposta fundamentada da ANEPC ao membro do Governo responsável pela área da proteção civil, acompanhada do projeto de protocolo e das declarações de concordância das entidades parte no protocolo.
 
-9 - A ANEPC é responsável pela preparação dos protocolos de constituição das EIP, a celebrar nos termos dos n.<sup>os</sup>1 e 5 do artigo anterior.
+9 - A ANEPC é responsável pela preparação dos protocolos de constituição das EIP, a celebrar nos termos dos n.os1 e 5 do artigo anterior.
 
 ###### Artigo 8.º — Composição
 
@@ -654,3 +732,5 @@ c) Os planos e relatórios de atividades anuais.
 ###### Artigo 21.º — Norma revogatória
 
 São revogadas a [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de outubro, a [Portaria n.º 75/2011](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), de 15 de fevereiro, e a [Portaria n.º 148-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), de 22 de maio.
+
+118524582

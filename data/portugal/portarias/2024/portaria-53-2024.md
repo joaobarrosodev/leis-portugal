@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03500/0001700025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/2024/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c086f52e69d756d9916cef9f6df9af7c16165cdf8279d5e015cba7b01dabd7a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f8ec04f32ebded0b24108e53dd3f02b28298806fe565bf28d8a78ba944e7b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Coeficiente de Actualização
-- Regulamentação de Atos Legislativos
-- Preço
 - Habitação
+- Preço
+- Prédio Urbano
+- Programa de Arrendamento Acessível
+- Regulamentação de Atos Legislativos
 - Renda de CASA
 - Renda Limite
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
 - Valor de Referência
-- Programa de Arrendamento Acessível
 relationships:
+- type: amends
+  target: pt:numero:portaria:176/2019
+  label: Altera, a partir de 20 de fevereiro de 2024, nos termos do artigo 6.º do presente diploma, os artigos 1.º, 2.º e
+    3.º e os anexos I, II e III da Portaria n.º 176/2019, de 6 de junho, Diário da República n.º 109/2019, Série I, que republica
+  source: null
+  date: '2019-06-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -102,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/176/2019/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/176/2019/06/06/p/dre
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122520773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208087601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213650805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:29Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +186,17 @@ a) [...]
 
 b) [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os limites gerais de preço de renda por tipologia aplicáveis no âmbito Programa de Apoio ao Arrendamento, consoante a modalidade de alojamento, são estabelecidos nos termos do anexo I à presente portaria, que dela faz parte integrante, sendo os mesmos atualizados anualmente, de acordo com o coeficiente fixado para a atualização das rendas habitacionais, arredondado à unidade euro imediatamente superior.
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O valor de referência do preço de renda por alojamento aplicável no âmbito do Programa de Apoio ao Arrendamento é calculado de acordo com as fórmulas estabelecidas, consoante a modalidade de alojamento, nos anexos II e III à presente portaria, que dela fazem parte integrante.»
 
@@ -170,9 +212,9 @@ O anexo I da [Portaria n.º 176/2019](https://diariodarepublica.pt/dr/detalhe/po
 
 1 - Os limites gerais de preço de renda mensal por tipologia, na modalidade habitação, aplicáveis no âmbito do Programa de Apoio ao Arrendamento são os que resultam das tabelas seguintes, em função do concelho onde se localiza o alojamento:
 
-|  |  |
-| --- | --- |
 | Escalão | Concelhos |
+| --- | --- |
+|  |  |
 | E1 | Todos os concelhos não incluídos nos escalões seguintes. |
 | E2 | Alandroal; Alcobaça; Alenquer; Aljustrel; Alpiarça; Alvaiázere; Alvito; Arouca; Azambuja; Barcelos; Barrancos; Beja; Benavente; Caldas da Rainha; Calheta (Região Autónoma da Madeira); Calheta (Região Autónoma dos Açores); Câmara de Lobos; Caminha; Castanheira de Pera; Castro Verde; Chamusca; Coruche; Corvo; Cuba; Esposende; Estarreja; Ferreira do Alentejo; Figueira da Foz; Figueiró dos Vinhos; Góis; Grândola; Guimarães; Lagoa (Região Autónoma dos Açores); Lajes das Flores; Lajes do Pico; Leiria; Lourinhã; Marinha Grande; Mértola; Montemor-o-Novo; Mora; Mourão; Murtosa; Nordeste; Óbidos; Odemira; Ourém; Ourique; Ovar; Pampilhosa da Serra; Pedrógão Grande; Penacova; Penela; Peniche; Ponta Delgada; Portel; Povoação; Redondo; Salvaterra de Magos; Santa Cruz da Graciosa; Santa Cruz das Flores; Santa Maria da Feira; Santarém; São Brás de Alportel; São João da Madeira; São Roque do Pico; Serpa; Sobral de Monte Agraço; Terras de Bouro; Tomar; Trofa; Velas; Vendas Novas; Viana do Alentejo; Viana do Castelo; Vila da Praia da Vitória; Vila do Conde; Vila do Porto; Vila Franca do Campo; Vila Nova de Famalicão; Vila Real; Viseu. |
 | E3 | Alcochete; Alcoutim; Aljezur; Arruda dos Vinhos; Aveiro; Braga; Castro Marim; Coimbra; Espinho; Évora; Faro; Gondomar; Ílhavo; Lagoa; Machico; Madalena; Mafra; Maia; Moita; Monchique; Montijo; Nazaré; Olhão; Palmela; Ponta do Sol; Porto Moniz; Porto Santo; Póvoa de Varzim; Ribeira Brava; Santa Cruz; Santana; Santiago do Cacém; São Vicente (Madeira); Sesimbra; Setúbal; Silves; Torres Vedras; Valongo; Vila do Bispo; Vila Franca de Xira; Vila Nova de Gaia. |
@@ -306,7 +348,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 12 de fevereiro de 2024.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -342,11 +384,11 @@ Limites gerais do preço de renda por tipologia
 
 Tabela 1 - Concelhos por escalão
 
-|  |  |
-| --- | --- |
 | Escalão | Concelhos |
+| --- | --- |
+|  |  |
 | E1 | Todos os concelhos não incluídos nos escalões seguintes. |
-| E2 | Alandroal; Alcobaça; Alenquer; Aljustrel; Alpiarça; Alvaiázere; Alvito; Arouca; Azambuja; Barcelos; Barrancos; Beja; Benavente; Caldas da Rainha; Calheta (Região Autónoma da Madeira); Calheta (Região Autónoma dos Açores); Câmara de Lobos; Caminha; Castanheira de Pera; Castro Verde; Chamusca; Coruche; Corvo; Cuba; Esposende; Estarreja; Ferreira do Alentejo; Figueira da Foz; Figueiró dos Vinhos; Góis; Grândola; Guimarães; Lagoa (Região Autónoma dos Açores); Lajes das Flores; Lajes do Pico; Leiria; Lourinhã; Marinha Grande; Mértola; Montemor-o-Novo; Mora; Mourão; Murtosa; Nordeste; Óbidos; Odemira; Ourém; Ourique; Ovar; Pampilhosa da Serra; Pedrógão Grande; Penacova; Penela; Peniche; Ponta Delgada; Portel; Povoação; Redondo; Salvaterra de Magos; Santa Cruz da Graciosa; Santa Cruz das Flores; Santa Maria da Feira; Santarém; São Brás de Alportel; São João da Madeira; São Roque do Pico; Serpa; Sobral de Monte Agraço; Terras de Bouro; Tomar; Trofa; Velas; Vendas Novas; Viana do Alentejo; Viana do Castelo; Vila da Praia da Vitória; Vila do Conde; Vila do Porto; Vila Franca do Campo; Vila Nova de Famalicão; Vila Real; Viseu. |
+| E2 | Alandroal; Alcobaça; Alenquer; Aljustrel; Alpiarça; Alvaiázere;<br>Alvito; Arouca; Azambuja; Barcelos; Barrancos; Beja; Benavente; Caldas da Rainha; Calheta (Região Autónoma da Madeira); Calheta (Região Autónoma dos Açores); Câmara de<br>Lobos; Caminha; Castanheira de Pera; Castro Verde; Chamusca; Coruche; Corvo; Cuba; Esposende; Estarreja; Ferreira do Alentejo; Figueira da Foz; Figueiró dos Vinhos; Góis; Grândola; Guimarães; Lagoa (Região Autónoma dos Açores); Lajes das Flores; Lajes do Pico; Leiria; Lourinhã; Marinha Grande; Mértola; Montemor-o-Novo; Mora; Mourão; Murtosa; Nordeste; Óbidos; Odemira; Ourém; Ourique; Ovar; Pampilhosa da Serra; Pedrógão Grande; Penacova; Penela; Peniche; Ponta Delgada; Portel; Povoação; Redondo; Salvaterra de Magos; Santa Cruz da Graciosa; Santa Cruz das Flores; Santa Maria da Feira; Santarém; São Brás de Alportel; São João da Madeira; São Roque do Pico; Serpa; Sobral de Monte Agraço; Terras de Bouro; Tomar; Trofa; Velas; Vendas Novas; Viana do Alentejo; Viana do Castelo; Vila da Praia da Vitória; Vila do Conde; Vila do Porto; Vila Franca do Campo; Vila Nova de Famalicão; Vila Real; Viseu. |
 | E3 | Alcochete; Alcoutim; Aljezur; Arruda dos Vinhos; Aveiro; Braga; Castro Marim; Coimbra; Espinho; Évora; Faro; Gondomar; Ílhavo; Lagoa; Machico; Madalena; Mafra; Maia; Moita; Monchique; Montijo; Nazaré; Olhão; Palmela; Ponta do Sol; Porto Moniz; Porto Santo; Póvoa de Varzim; Ribeira Brava; Santa Cruz; Santana; Santiago do Cacém; São Vicente (Madeira); Sesimbra; Setúbal; Silves; Torres Vedras; Valongo; Vila do Bispo; Vila Franca de Xira; Vila Nova de Gaia. |
 | E4 | Albufeira; Almada; Amadora; Barreiro; Funchal; Lagos; Loulé; Loures; Matosinhos; Odivelas; Portimão; Seixal; Sines; Sintra; Tavira; Vila Real de Santo António. |
 | E5 | Cascais, Oeiras, Porto. |
@@ -354,9 +396,9 @@ Tabela 1 - Concelhos por escalão
 
 Tabela 2 - Limites gerais de preço de renda mensal por tipologia, em euros, por escalão
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Escalão | T0 | T1 | T2 | T3 | T4 | T5 | (maior que) T5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
 | E1 | 200 | 275 | 350 | 425 | 475 | 525 | 525 + n * 50 |
 | E2 | 250 | 350 | 450 | 525 | 600 | 675 | 675 + n * 50 |
 | E3 | 325 | 475 | 600 | 700 | 800 | 875 | 875 + n * 50 |
@@ -408,7 +450,8 @@ Ad - Área de terreno livre que excede o limite de duas vezes a área de implant
 
 4 - O coeficiente de ajustamento de áreas (Caj) referido no n.º 2 é calculado com base na soma da área bruta privativa (Aa) e das áreas brutas dependentes (Ab), resultando da seguinte expressão:
 
-![](https://files.diariodarepublica.pt/images/0/0.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/0/0.png) |
+| --- |
 
 5 - O coeficiente do certificado energético (Ce) é determinado pela classe constante do Certificado Energético da habitação em questão, segundo a tabela seguinte:
 
@@ -505,3 +548,5 @@ Vref(índice h) - Valor de referência do preço de renda da habitação;
 Auq - Área útil do quarto integrante da parte de habitação em causa, majorada em 25 % caso tenha instalação sanitária privativa;
 
 Aut - Área útil do total dos quartos da habitação.
+
+117359398

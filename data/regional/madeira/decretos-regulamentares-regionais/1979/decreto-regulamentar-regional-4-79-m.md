@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1979-382673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 555045d81ff2f1630062d13e81cf7bf408ec53a1e5a1eb747df5f0c5bccdb6b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3579621c67022acc20658bd97072f92d864f209c606daa687afc2a1cbdd46e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:364926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364926:por
+  label: "Transitada para a Presidência do Governo Regional a superintendência no sector do turismo, bem como a Direcção Regional\
+    \ de Turismo e transitada para a Secretaria Regional do Equipamento Social a superintendência nos sectores dos transportes\
+    \ e da energia, bem como a Direcção Regional de Transportes e integrada na Secretaria Regional da Coordenação Económica,\
+    \ todo o âmbito de competência e os serviços à Direcção Regional do Comércio e Abastecimento e à Direcção Regional da\
+    \ Indústria, Recursos Naturais e Energia, à excepção da competência e serviços que se prendam com o sector energético\
+    \ e integrados os serviços referidos no art. 3.º do presente diploma pelo DRG.24/79/M.16.10.1979.ARM, DR.IS [239] de 16.10.1979\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/24-1979-364926
+  date: '1979-10-16'
+- type: cites
+  target: pt:dre:329837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444743:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380543:por
+  label: Rectificado pela DECL.DD7286.10.07.1979.PCM, DR.IS [157] de 10.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380543
+  date: '1979-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:57Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +127,7 @@ Assim, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição da 
 
 ### CAPÍTULO I — Estrutura
 
-###### Artigo 1.º A Secretaria Regional de Economia é superiormente dirigida pelo Secretário Regional de Economia e integra os seguintes sectores de actividades:
+Artigo 1.º A Secretaria Regional de Economia é superiormente dirigida pelo Secretário Regional de Economia e integra os seguintes sectores de actividades:
 
 a) Comércio interno, externo e abastecimento;
 
@@ -104,7 +137,7 @@ c) Transportes terrestres, aéreos e marítimos;
 
 d) Turismo.
 
-###### Art. 2.º A Secretaria Regional de Economia compreende as seguintes direcções regionais:
+Art. 2.º A Secretaria Regional de Economia compreende as seguintes direcções regionais:
 
 a) Direcção Regional do Comércio e Abastecimentos;
 
@@ -114,7 +147,7 @@ c) Direcção Regional dos Transportes;
 
 d) Direcção Regional de Turismo.
 
-###### Art. 3.º Na dependência directa do Secretário Regional de Economia funcionam os seguintes serviços:
+Art. 3.º Na dependência directa do Secretário Regional de Economia funcionam os seguintes serviços:
 
 a) Gabinete do Secretário Regional;
 
@@ -124,7 +157,7 @@ c) Repartição dos Serviços Administrativos.
 
 ### CAPÍTULO II — Do Secretário Regional
 
-###### Art. 4.º Compete ao Secretário Regional de Economia:
+Art. 4.º Compete ao Secretário Regional de Economia:
 
 a) Propor e fazer executar as políticas de comércio e abastecimento, indústria, recursos naturais e energia, transportes e turismo;
 
@@ -134,17 +167,17 @@ c) Orientar e coordenar os órgãos e serviços que estejam na sua directa depen
 
 d) Superintender nas empresas públicas e nacionalizadas dos sectores dependentes da Secretaria de Economia que exerçam a sua actividade exclusivamente na Região, bem como nos institutos que estejam sob a sua tutela.
 
-###### Art. 5.º O Secretário Regional de Economia poderá delegar nos directores regionais as suas competências.
+Art. 5.º O Secretário Regional de Economia poderá delegar nos directores regionais as suas competências.
 
 ### CAPÍTULO III — Dos órgãos directamente dependentes do Secretário Regional
 
 #### SECÇÃO I — Gabinete do Secretário Regional
 
-###### Art. 6.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
+Art. 6.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
 
 #### SECÇÃO II — Do Gabinete Técnico
 
-###### Art. 7.º O Gabinete Técnico é um órgão de apoio, estudo, planeamento e programação da Secretaria Regional de Economia, competindo-lhe, designadamente:
+Art. 7.º O Gabinete Técnico é um órgão de apoio, estudo, planeamento e programação da Secretaria Regional de Economia, competindo-lhe, designadamente:
 
 a) Estudar e dar parecer sobre questões de natureza técnica, económica, financeira e jurídica que lhe sejam submetidas;
 
@@ -164,7 +197,7 @@ h) Propor iniciativas adequadas ao aperfeiçoamento técnico-profissional do pes
 
 #### SECÇÃO III — Da Repartição dos Serviços Administrativos
 
-###### Art. 8.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal, contabilidade e património.
+Art. 8.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal, contabilidade e património.
 
 2 - A Repartição dos Serviços Administrativos incumbe especialmente:
 
@@ -184,7 +217,7 @@ e) Organizar os processos de liquidação de despesas resultantes da execução 
 
 #### SECÇÃO I — Da Direcção Regional de Comércio e Abastecimentos
 
-###### Art. 9.º Compete à Direcção Regional do Comércio e Abastecimentos:
+Art. 9.º Compete à Direcção Regional do Comércio e Abastecimentos:
 
 a) Apoiar o Secretário Regional na promoção e execução da política definida em matéria de coordenação económica, designadamente sobre abastecimento, comércio interno e externo;
 
@@ -204,13 +237,13 @@ h) Intervir no mercado da Região de forma a assegurar o abastecimento de produt
 
 i) Incentivar a promoção de organismos de defesa do consumidor.
 
-###### Art. 10.º Na Direcção Regional do Comércio e Abastecimentos funcionam os seguintes serviços:
+Art. 10.º Na Direcção Regional do Comércio e Abastecimentos funcionam os seguintes serviços:
 
 a) Serviços de Comércio Interno;
 
 b) Serviços de Comércio Externo e de Abastecimentos.
 
-###### Art. 11.º Compete genericamente aos Serviços de Comércio Interno:
+Art. 11.º Compete genericamente aos Serviços de Comércio Interno:
 
 a) Propor a execução legal do regime de preços de bens e serviços na Região, bem como a adopção de critérios gerais para a sua formação;
 
@@ -222,7 +255,7 @@ d) Licenciar e coordenar toda a actividade comercial da Região;
 
 e) Realizar todas as demais tarefas, no campo específico das suas atribuições, de que seja superiormente incumbida.
 
-###### Art. 12.º Compete genericamente aos Serviços de Comércio e Abastecimentos:
+Art. 12.º Compete genericamente aos Serviços de Comércio e Abastecimentos:
 
 a) Estudar e propor as operações de importação e exportação de produtos;
 
@@ -238,7 +271,7 @@ f) Realizar todas as demais tarefas no campo específico das suas atribuições 
 
 #### SECÇÃO II — Da Direcção Regional da Indústria, Recursos Naturais e Energia
 
-###### Art. 13.º Compete à Direcção Regional da Indústria, Recursos Naturais e Energia:
+Art. 13.º Compete à Direcção Regional da Indústria, Recursos Naturais e Energia:
 
 a) Apoiar o Secretário Regional na promoção e execução da política industrial, recursos naturais e energéticos;
 
@@ -254,13 +287,13 @@ f) Estudar e propor medidas de fomento das actividades industriais da Região;
 
 g) Organizar o inventário, valorização, aproveitamento e fiscalização dos recursos naturais da Região e promover o seu aproveitamento.
 
-###### Art. 14.º A Direcção Regional da Indústria, Recursos Naturais e Energia compreende os seguintes serviços:
+Art. 14.º A Direcção Regional da Indústria, Recursos Naturais e Energia compreende os seguintes serviços:
 
 a) Serviços de Indústria;
 
 b) Serviços de Recursos Naturais e Energia.
 
-###### Art. 15.º Compete ao Serviços de Indústria intervir, de um modo geral, em todos os assuntos relacionados com o funcionamento, expansão, fiscalização e melhoria das indústrias e, em especial:
+Art. 15.º Compete ao Serviços de Indústria intervir, de um modo geral, em todos os assuntos relacionados com o funcionamento, expansão, fiscalização e melhoria das indústrias e, em especial:
 
 a) Propor e executar as acções que se enquadram na política definida superiormente para os sectores da indústria;
 
@@ -276,7 +309,7 @@ f) Prestar apoio às unidades industriais no campo da questão empresarial;
 
 g) Realizar todas as demais tarefas no campo específico das suas atribuições de que sejam superiormente incumbidos.
 
-###### Art. 16.º Compete aos Serviços de Recursos Naturais e Energia:
+Art. 16.º Compete aos Serviços de Recursos Naturais e Energia:
 
 a) Organizar o inventário e propor medidas tendentes à valorização, aproveitamento e protecção dos recursos naturais da Região;
 
@@ -296,7 +329,7 @@ h) Realizar todas as demais tarefas no campo específico das suas atribuições 
 
 #### SECÇÃO III — Da Direcção Regional dos Transportes
 
-###### Art. 17.º Compete à Direcção Regional dos Transportes:
+Art. 17.º Compete à Direcção Regional dos Transportes:
 
 a) Apoiar o Secretário Regional na promoção e execução da política de transportes;
 
@@ -308,13 +341,13 @@ d) Coordenar e desenvolver a segurança dos meios de transporte em conformidade 
 
 e) Exercer as atribuições conferidas às Direcções-Gerais de Viação e de Transporte Terrestres em matéria de circulação rodoviária pelo Código da Estrada, seu regulamento, bem como pelo Regulamento de Transportes em Automóveis, e disposições complementares no que respeita a material automóvel.
 
-###### Art. 18.º A Direcção Regional dos Transportes compreende os seguintes serviços:
+Art. 18.º A Direcção Regional dos Transportes compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Viação;
 
 b) Serviços de Transportes Terrestres, Marítimos e Aéreos.
 
-###### Art. 19.º Compete à Direcção dos Serviços de Viação:
+Art. 19.º Compete à Direcção dos Serviços de Viação:
 
 a) Propor o licenciamento e regulamentação das escolas de condução;
 
@@ -348,7 +381,7 @@ p) Elaborar em cada ano um relatório cobrindo, em relação ao ano anterior, as
 
 q) Desempenhar as demais tarefas não especicadas nas alíneas anteriores mas exercidas pela secção de Viação dos Serviços Industriais, Eléctricos e de Viação das extintas Juntas Gerais.
 
-###### Art. 20.º Compete aos Serviços de Transportes Terrestres, Marítimos e Aéreos:
+Art. 20.º Compete aos Serviços de Transportes Terrestres, Marítimos e Aéreos:
 
 a) Proceder a estudos e análise do tráfego, bem como estabelecer planos de ordenamento e contrôle do tráfego;
 
@@ -376,7 +409,7 @@ m) Realizar todas as demais tarefas no campo específico das suas atribuições 
 
 #### SECÇÃO IV — Da Direcção Regional de Turismo
 
-###### Art. 21.º Compete à Direcção Regional de Turismo, nomeadamente:
+Art. 21.º Compete à Direcção Regional de Turismo, nomeadamente:
 
 a) Apoiar o Secretário Regional na elaboração e execução da política de desenvolvimento do turismo da Região, tendo em vista genericamente o aproveitamento e valorização dos seus recursos turísticos, o estímulo das actividades turísticas, o incremento da qualidade dos serviços e a promoção da imagem da Região em termos de turismo;
 
@@ -392,7 +425,7 @@ f) Propor o plano sectorial do turismo e coordenar e assegurar a sua execução;
 
 g) Superintender as pousadas, casas de abrigo e apoio de montanha, bem como na Escola de Hotelaria e Turismo da Madeira e no Hotel Nova Avenida.
 
-###### Art. 22.º A Direcção Regional de Turismo terá os seguintes serviços:
+Art. 22.º A Direcção Regional de Turismo terá os seguintes serviços:
 
 a) Direcção dos Serviços de Promoção Turística;
 
@@ -400,7 +433,7 @@ b) Direcção dos Serviços de Equipamento e Património;
 
 c) Direcção dos Serviços de Empresas e Actividades Turísticas.
 
-###### Art. 23.º Compete à Direcção dos Serviços de Promoção Turística:
+Art. 23.º Compete à Direcção dos Serviços de Promoção Turística:
 
 a) Proceder ao tratamento de informação estatística e aos estudos de mercado necessários;
 
@@ -414,7 +447,7 @@ e) Proceder ao estudo de medidas legislativas, designadamente sobre propaganda t
 
 f) Realizar todas as demais tarefas no campo específico das suas atribuições de que seja superiormente incumbida.
 
-###### Art. 24.º Compete à Direcção dos Serviços de Equipamento e Património:
+Art. 24.º Compete à Direcção dos Serviços de Equipamento e Património:
 
 a) Proceder aos estudos necessários à definição do plano sectorial, bem como acompanhar a sua execução;
 
@@ -428,7 +461,7 @@ e) Administrar o património turístico da Região da Madeira;
 
 f) Realizar todas as demais tarefas no campo específico das suas atribuições de que seja superiormente incumbida.
 
-###### Art. 25.º Compete à Direcção dos Serviços de Empresas e Actividades Turísticas:
+Art. 25.º Compete à Direcção dos Serviços de Empresas e Actividades Turísticas:
 
 a) Proceder ao licenciamento e à classificação das empresas e actividades turísticas, bem como à sua fiscalização, nos termos da respectiva legislação;
 
@@ -440,7 +473,7 @@ d) Realizar todas as demais tarefas no campo específico das suas atribuições 
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 26.º - 1 - O quadro do pessoal da Secretaria Regional de Economia é o constante do mapa em anexo ao presente diploma.
+Art. 26.º - 1 - O quadro do pessoal da Secretaria Regional de Economia é o constante do mapa em anexo ao presente diploma.
 
 2 - O quadro do pessoal da Direcção Regional de Turismo será objecto de diploma próprio, de acordo com o n.º 2 do artigo 7.º do [Decreto-Lei n.º 281/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1978-329837), de 8 de Setembro.
 
@@ -448,40 +481,40 @@ d) Realizar todas as demais tarefas no campo específico das suas atribuições 
 
 4 - O pessoal da Secretaria de Economia será distribuído pelos diversos serviços que a integram mediante despacho do Secretário.
 
-###### Art. 27.º As condições de ingresso, acesso e carreira profissional, o provimento e as suas formas, do pessoal técnico superior, técnico e técnico auxiliar serão realizadas de harmonia com o preceituado nestas matérias pelo Decreto Regulamentar Regional n.º 3/78, de 6 de Setembro.
+Art. 27.º As condições de ingresso, acesso e carreira profissional, o provimento e as suas formas, do pessoal técnico superior, técnico e técnico auxiliar serão realizadas de harmonia com o preceituado nestas matérias pelo Decreto Regulamentar Regional n.º 3/78, de 6 de Setembro.
 
-###### Art. 28.º As condições de admissão e promoção do pessoal administrativo e auxiliar serão objecto de regulamento próprio, nos termos do n.º 1 do artigo 25.º do Decreto Regulamentar Regional n.º 3/78, de 6 de Setembro.
+Art. 28.º As condições de admissão e promoção do pessoal administrativo e auxiliar serão objecto de regulamento próprio, nos termos do n.º 1 do artigo 25.º do Decreto Regulamentar Regional n.º 3/78, de 6 de Setembro.
 
-###### Art. 29.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pelas 1.ª e 2.ª classes a que são atribuídas respectivamente as letras S e T.
+Art. 29.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pelas 1.ª e 2.ª classes a que são atribuídas respectivamente as letras S e T.
 
 2 - Serão classificados em 1.ª classe os actuais contínuos, porteiros e guardas que tenham dez anos de bom e efectivo serviço.
 
-###### Art. 30.º Os funcionários poderão exercer temporariamente funções em regime de comissão de serviço, destacamento, requisição, interinidade ou substituição.
+Art. 30.º Os funcionários poderão exercer temporariamente funções em regime de comissão de serviço, destacamento, requisição, interinidade ou substituição.
 
 ### CAPÍTULO VI — Disposições gerais, finais e transitórias
 
-###### Art. 31.º O primeiro provimento do pessoal que à data de entrada em vigor do presente diploma se ache adstrito a qualquer título à Secretaria de Economia far-se-á mediante listas nominativas, aprovadas pelo Secretário Regional de Economia, com dispensa de quaisquer formalidades, excepto o visto da Delegação do Tribunal de Contas na Região e publicação no Jornal Oficial da Região Autónoma da Madeira e sempre sem prejuízo das habilitações literárias exigíveis.
+Art. 31.º O primeiro provimento do pessoal que à data de entrada em vigor do presente diploma se ache adstrito a qualquer título à Secretaria de Economia far-se-á mediante listas nominativas, aprovadas pelo Secretário Regional de Economia, com dispensa de quaisquer formalidades, excepto o visto da Delegação do Tribunal de Contas na Região e publicação no Jornal Oficial da Região Autónoma da Madeira e sempre sem prejuízo das habilitações literárias exigíveis.
 
-###### Art. 32.º - 1 - As normas de integração e reclassificação do pessoal são as definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 32.º - 1 - As normas de integração e reclassificação do pessoal são as definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
 2 - No que respeita à aplicação do artigo 30.º do diploma referido no n.º 1, depende exclusivamente do Plenário do Governo Regional por iniciativa do respectivo presidente ou de qualquer Secretaria Regional.
 
 3 - As reclassificações produzirão efeito a partir do dia 1 de Janeiro de 1979.
 
-###### Art. 33.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Secretário Regional de Economia.
+Art. 33.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Secretário Regional de Economia.
 
-###### Art. 34.º O presente diploma entra imediatamente em vigor.
+Art. 34.º O presente diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Abril de 1979.**
+Assinado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro de vencimentos do pessoal a que se refere o artigo 26.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10731078.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10731078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10731078.pdf)
 
-**O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.

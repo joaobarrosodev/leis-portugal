@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:973857:por
-title: Portaria n.º 1686/2001(2.ªsérie)
+title: Portaria n.º 1686/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1686-2001-973857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad934df34a3c30a4ce25600ea54461078f8fc28bb8357230e4ad03b467123cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e33f2414d5a0753680fd7dd29f5d1ca0cac8131c5320a2b357a6742382018032
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Conselho Cinegético
+- Covilhã
+- Nomeação
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:952008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:952008:por
+  label: "Alterada pela PORT.1816/2001(2ªSÉRIE).2001.10.15.MADRP, DR.IIS [258] de 2001/NOV/07\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1816-2001-952008
+  date: '2001-10-15'
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:18:40Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1686/2001(2.ªsérie)
+# Portaria n.º 1686/2001 (2.ª série)
 
 Portaria n.º 1686/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 6/2015, 1º Suplemento, Série I de 2015-01-09
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 252-(2) a 252-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00601/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1-a/2015/01/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2015-66145304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a53c5de4ad63b6ad79b9a96b250ddc62148910e736586b587a2b7c9c8b45595
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60980ab42122e8a44878cf9755f7a547893a4271ddd802347c405ca9c8fb4023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
+- Certificado de Qualidade
+- Comércio
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Embalagem
 - Estatuto da Vinha e do Vinho
 - Etiquetagem
+- Indicação Geográfica
 - Instituto do Vinho Bordado e do Artesanato da Madeira
-- Certificado de Qualidade
-- Embalagem
 - Madeira.região Autónoma
-- Taxa
-- Comércio
 - Produto Vitivinícola
-- Vitivinicultor
+- Região Demarcada
+- Taxa
 - Vinha
+- Vinho
+- Vitivinicultor
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:177644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:53Z'
   warnings: []
   errors: []
 ---
@@ -427,14 +455,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 12 de dezembro de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 30 de dezembro de 2014.**
+Assinado em 30 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## Anexo Único — Representação cartográfica da Região Demarcada da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/00601/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2015/01/00601/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/00601/0000200007.pdf)

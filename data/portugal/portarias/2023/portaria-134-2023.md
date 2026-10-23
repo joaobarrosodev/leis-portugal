@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09300/0001300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/134/2023/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-2023-213069633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc06f93c7a3aef862f6a801d683cc35f8d11d72bf4804f5fe18e0e1c5c567ae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2563edd3cbb7ee93431fdae135f401ea582495b7692de464a2cfff330023f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ subjects:
 - Ajuda Comunitária
 - Aproximação das Legislações
 - Autoridade Tributária e Aduaneira
-- Publicidade
 - Campanha Vinícola
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Contra-ordenação
 - Direcção Regional de Agricultura e Pescas
-- União Europeia
+- Governo
 - Instituto da Vinha e do Vinho
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Página na Internet
 - Prazo
-- Governo
 - Produto Vitivinícola
+- Publicidade
 - Sistema de Informação da Vinha e do Vinho
+- União Europeia
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -110,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/82-a/2020/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/82-a/2020/03/30/p/dre
+- type: cites
+  target: pt:dre:107677706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160316761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479876:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:26Z'
   warnings: []
   errors: []
 ---
@@ -230,4 +250,6 @@ São revogados o n.º 1 do artigo 1.º e os artigos 2.º a 8.º da [Portaria n.�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de agosto de 2023.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 9 de maio de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 9 de maio de 2023.
+
+116455623

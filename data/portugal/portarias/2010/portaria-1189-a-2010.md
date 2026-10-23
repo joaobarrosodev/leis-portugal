@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 223/2010, 1º Suplemento, Série I de 2010-11-17
   number: '223'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5250-(2) a 5250-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/11/22301/0000200017.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1189-a/2010/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1189-a-2010-173721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef8e788461aa4f1a26c37be8febd433dff68222a75a22afbbcb5f4435a49ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d615303fd577da7de53900b8dd5e4423a0da8956e70841fddedd6704da8440e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Actividade Artística
+- Artes do Espectáculo
+- Belas-artes
 - Comissão de Acompanhamento
 - Comissão de Análise
 - Definição de Competências
-- Diretor Geral
 - Direcção Geral das Artes
-- Artes do Espectáculo
-- Belas-artes
+- Diretor Geral
+- Financiamento
 - Regulamento
 - Regulamento de Apoio às Artes
-- Actividade Artística
 relationships:
 - type: amended_by
   target: pt:dre:108301506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:1204-A/2008
+  label: "Altera os arts 1.º a 7.º, 10.º, 11.º, 13.º, 15.º a 19.º, 21.º a 23.º do anexo i, os arts. 3.º a 6.º, 8.º, 13.º e\
+    \ 16.º do anexo ii e revoga a al. d) do n.º 4 do art. 7.º do anexo i da Portaria n.º 1204-A/2008, de 17-Out, DR IS [202]\
+    \ Supl, procedendo à republicação dos anexos i e ii \0\0"
+  source: null
+  date: '2008-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/2008/10/06/p/dre
   label: null
@@ -98,16 +105,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1204-a/2008/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1204-a/2008/10/17/p/dre
+- type: cites
+  target: pt:dre:449961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658629:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108301506:por
+  label: Revogada a Port 1204-A/2008 de 17-out, na redação do presente diploma, pelo(a) Portaria n.º 301/2017 - Diário da
+    República n.º 199/2017, Série I de 2017-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-2017-108301506
+  date: '2017-10-16'
 article_structure:
-  article_count: 74
+  article_count: 51
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:43Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +177,9 @@ Ao abrigo do disposto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 225/2006](ht
 
 3 - Os apoios a conceder nos termos deste Regulamento têm por objecto actividades desenvolvidas maioritariamente em Portugal continental por entidades de criação, entidades de programação e entidades mistas e ainda, no caso dos apoios pontuais, por grupos informais e pessoas singulares, portugueses ou estrangeiros, com residência fiscal em Portugal continental, e que aqui exerçam maioritariamente a sua actividade.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A concessão dos apoios previstos neste Regulamento tem os objectivos fixados no artigo 3.º do [Decreto-Lei n.º 225/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2006-546070), de 13 de Novembro, alterado pelo [Decreto-Lei n.º 196/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), de 6 de Outubro.
 
@@ -176,7 +207,9 @@ i) Para os cruzamentos disciplinares, fomentar, valorizar e promover as múltipl
 
 4 - O apoio quadrienal, o apoio bienal e o apoio anual destinam-se a incentivar o desenvolvimento de programas de actividades assentes em planos estratégicos e o apoio pontual destina-se a incentivar projectos não necessariamente enquadrados num plano de continuidade.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +229,9 @@ i) Para os cruzamentos disciplinares, fomentar, valorizar e promover as múltipl
 
 9 - O prazo fixado para apresentação das candidaturas nos termos da alínea f) do n.º 5 não pode ser inferior a 15 dias úteis a contar da data da publicação do aviso de abertura.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +267,9 @@ d) Indicação da situação regularizada perante a administração fiscal e a s
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +281,9 @@ d) Indicação da situação regularizada perante a administração fiscal e a s
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 6.º — Verificação
+Artigo 6.º
+
+Verificação
 
 1 - São excluídas, no prazo de cinco dias a contar do termo do prazo de apresentação de candidaturas, as candidaturas que não reúnam as condições previstas na lei e no presente Regulamento, ou cujos proponentes não sejam uma entidade elegível para efeitos do disposto na lei ou neste Regulamento.
 
@@ -252,7 +291,9 @@ d) Indicação da situação regularizada perante a administração fiscal e a s
 
 3 - A publicação referida no número anterior é comunicada aos candidatos por correio electrónico com recibo de entrega, que indica, nomeadamente, a data em que ocorreu a publicação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +327,9 @@ f) [Anterior alínea e).]
 
 5 - ...
 
-###### Artigo 10.º — Projecto de decisão e decisão final
+Artigo 10.º
+
+Projecto de decisão e decisão final
 
 1 - No prazo de 60 dias a contar do termo do prazo de apresentação de candidaturas, as comissões de apreciação deliberam sobre as candidaturas, lavrando acta fundamentada que contém as seguintes menções:
 
@@ -304,7 +347,9 @@ c) ...
 
 5 - A lista dos apoios financeiros a conceder é comunicada aos candidatos nos termos dos n.os 2 e 3.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As entidades beneficiárias entregam à DGArtes, no prazo de 15 dias úteis a contar da comunicação prevista no n.º 5 do artigo anterior:
 
@@ -322,7 +367,9 @@ f) Sempre que se justifique, eventuais ajustamentos ao respectivo plano de activ
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -340,7 +387,9 @@ d) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +403,9 @@ d) [Anterior alínea c).]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +427,9 @@ c) ...
 
 d) Indicação da situação regularizada perante a administração fiscal e a segurança social.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As candidaturas são apreciadas e avaliadas pela DGArtes no prazo de 30 dias úteis a contar do termo do prazo para a apresentação das candidaturas.
 
@@ -384,7 +437,9 @@ d) Indicação da situação regularizada perante a administração fiscal e a s
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -396,7 +451,9 @@ d) Indicação da situação regularizada perante a administração fiscal e a s
 
 5 - A decisão final é tomada pelo director-geral da DGArtes, sendo, com a lista dos apoios financeiros a conceder, comunicada a cada um dos candidatos pelas formas previstas nos n.os 3 e 4.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os candidatos seleccionados entregam à DGArtes, no prazo máximo de 15 dias úteis a contar da comunicação prevista no n.º 5 do artigo anterior, os seguintes documentos:
 
@@ -414,7 +471,9 @@ e) Informação relativa a eventuais ajustamentos ao projecto de actividades e p
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -434,7 +493,9 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +507,9 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Não podem apresentar candidaturas a apoios pontuais as entidades candidatas ou beneficiárias de apoio quadrienal, apoio bienal ou apoio anual.
 
@@ -484,7 +547,9 @@ g) [Anterior alínea g) do n.º 3.]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +579,9 @@ g) Indicação da situação regularizada perante a administração fiscal e a s
 
 7 - Os requisitos indicados nas alíneas d) e e) do n.º 4 respeitam ao primeiro ano de actividade, sendo que, para cada um dos anos seguintes deve ser entregue uma síntese dos dados solicitados, de acordo com o formulário disponibilizado no sítio da Internet da DGArtes.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A apreciação técnica das candidaturas é feita, no prazo de 20 dias úteis a contar da data limite para a apresentação das candidaturas, pelos serviços da DGArtes, ouvida a competente direcção regional de cultura.
 
@@ -528,7 +595,9 @@ g) Indicação da situação regularizada perante a administração fiscal e a s
 
 6 - Após homologação, a decisão final é comunicada a cada um dos candidatos pelas formas previstas nos n.os 3 e 4.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As entidades beneficiárias entregam à DGArtes, no prazo máximo de 15 dias úteis a contar da comunicação prevista no n.º 6 do artigo anterior:
 
@@ -544,7 +613,9 @@ e) [Anterior alínea d).]
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -562,7 +633,9 @@ d) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -570,7 +643,9 @@ d) [Anterior alínea c).]
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -608,7 +683,7 @@ São republicados, em anexo à presente portaria, do qual faz parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 16 de Novembro de 2010.**
+A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 16 de Novembro de 2010.
 
 ## ANEXO — Republicação dos anexos i e ii da [Portaria n.º 1204-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1204-a-2008-658629), de 17 de Outubro
 

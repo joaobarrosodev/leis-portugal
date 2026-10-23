@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/851/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/851-2009-494002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db3bf2360d2840606c19eeb32183642e77cfa23a0620e29313563696bf698526
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae9202713302957023f27700a47182d5bf4e314e48d34638061398fd358c48e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Especificação Técnica
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Plano Estratégico dos Resíduos Sólidos Urbanos
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:32008L0098
@@ -76,14 +76,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2008/98/oj
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:41Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +130,7 @@ c) A compilação dos aspectos relativos à execução de todas as campanhas de 
 
 8.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 31 de Julho de 2009.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 31 de Julho de 2009.
 
 ## ANEXO — Especificações técnicas sobre caracterização de resíduos urbanos
 
@@ -158,7 +158,7 @@ QUADRO N.º 1
 
 Grelha de análise dos resíduos urbanos produzidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
 
 2 - Caracterização por amostragem:
 
@@ -178,7 +178,7 @@ QUADRO N.º 2
 
 Número mínimo de amostras para caracterização dos resíduos urbanos produzidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
 
 2.2.2 - O número de amostras deve ser distribuído proporcionalmente à produção anual estimada de resíduos afecta a cada instalação de triagem ou tratamento de destino.
 
@@ -192,7 +192,7 @@ QUADRO N.º 3
 
 Quantidade de material por amostra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
 
 2.3 - Constituição das amostras:
 
@@ -212,7 +212,7 @@ Mistura dos resíduos com pá carregadora, efectuando diversos revolvimentos;
 
 Espalhamento dos resíduos de forma a constituírem um disco grosseiro com uma altura até cerca de 50 cm;
 
-##### Divisão deste disco em quatro partes sensivelmente iguais, rejeitando-se dois quartos opostos;
+Divisão deste disco em quatro partes sensivelmente iguais, rejeitando-se dois quartos opostos;
 
 Mistura dos quartos restantes;
 
@@ -260,7 +260,7 @@ QUADRO N.º 4
 
 Grelha de análise dos resíduos urbanos depositados em aterro, incinerados ou co-incinerados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514305146.pdf)
 
 3.2 - Os fluxos de resíduos a caracterizar, com excepção dos fluxos monomaterial - aqueles em que a totalidade dos resíduos seja enquadrável numa única categoria ou subcategoria da grelha de análise - devem ser objecto de um procedimento de amostragem para determinação da composição física média.
 

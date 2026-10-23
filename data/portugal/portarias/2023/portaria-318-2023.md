@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20600/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/318/2023/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/318-2023-223203767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f28c1e46fd4567b681545c24b0de8c302ba2de2e1d4479d812a730a85c28acd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1409799e51bfeac3607c366ae9738793655f383bfd6b4346e8fad9cd888adbe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Militar
 - Deficiente
+- Escola de Sargentos do Exército
 - Exército
 - Força Aérea
-- Marinha
-- Escola de Sargentos do Exército
-- Academia Militar
-- Serviço Militar
 - Forças Armadas
+- Incapacidade Física
+- Marinha
+- Militar
 - Pessoal Militarizado
 - Polícia Marítima
+- Recrutamento Militar
+- Serviço Militar
 - Tabelas Gerais de Inaptidão e de Incapacidade para Prestação de Serviço por Militares e Militarizados nas Forças Armadas
   e na Polícia Marítima
-- Incapacidade Física
-- Recrutamento Militar
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/291/1999/08/03/p/dre
@@ -110,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/790/1999/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/790/1999/09/07/p/dre
+- type: cites
+  target: pt:dre:170175412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:36Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +230,7 @@ b) A [Portaria n.º 790/99](https://diariodarepublica.pt/dr/detalhe/portaria/790
 
 A presente portaria entra em vigor na data da entrada em vigor do despacho referido no artigo 2.º do [Decreto-Lei n.º 291/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1999-345123), de 3 de agosto.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 16 de outubro de 2023.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 16 de outubro de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -220,169 +252,173 @@ d) N/A - não aplicável, pois não constitui causa de inaptidão ou incapacidad
 
 2 - A verificação de uma condição prevista na coluna «Entidade nosológica» determina a sua apreciação pela junta médica competente, envolvendo um juízo de discricionariedade técnica nos casos em que seja enquadrada pela sigla AJ/ID, ou determinando de forma vinculada a inaptidão, nos casos em que seja enquadrada pela sigla IN.
 
-|  |  |  |  |  |
+| Códigos OMS<br>CID-11 | Número<br>Código<br>Inaptidão | Entidade nosológica | Tabelas |  |
 | --- | --- | --- | --- | --- |
-| Códigos OMS CID-11 | Número Código Inaptidão | Entidade nosológica | Tabelas | Tabelas |
-| Códigos OMS CID-11 | Número Código Inaptidão | Entidade nosológica | A | B |
-| 5B54-5B81 | 001 | CAPÍTULO I Constituição geral Altura inferior a 1,54 m ... | IN | AJ/ID |
-|  |  | Altura máxima em função das especificidades de cada ramo das Forças Armadas | IN | AJ/ID |
-|  | 002 | Índice de massa corporal inferior a 18 ... | IN | AJ/ID |
-|  | 003 | Obesidade: Índice de massa corporal superior a 30... | IN | AJ/ID |
-|  |  | CAPÍTULO II Doenças infeciosas e parasitárias |  |  |
-| 1B10-1B1Z 1G80 | 004 | Tuberculose com qualquer localização, em atividade ou considerada curada há menos de um ano... Tuberculose refratária à terapêutica, ou cujas sequelas causem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| 1B20 1G82 | 005 | Lepra (doença de Hansen) e/ou suas sequelas causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| A | B |  |  |  |
+|  |  |  |  |  |
+| 5B54-5B81 | 001 | CAPÍTULO I<br>Constituição geral<br>Altura inferior a 1,54 m ... | IN | AJ/ID |
+|  |  | Altura máxima em função das especificidades de cada ramo das Forças Armadas | IN |  |
+|  | 002 | Índice de massa corporal inferior a 18 ... | IN |  |
+| 003 | Obesidade:<br>Índice de massa corporal superior a 30... | IN |  |  |
+|  |  | CAPÍTULO II<br>Doenças infeciosas e parasitárias |  |  |
+| 1B10-1B1Z<br>1G80 | 004 | Tuberculose com qualquer localização, em atividade ou considerada curada há menos de um ano...<br>Tuberculose refratária à terapêutica, ou cujas sequelas causem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| 1B20<br>1G82 | 005 | Lepra (doença de Hansen) e/ou suas sequelas causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 1A60-1A6Z | 006 | Sífilis comprovada e não tratada e/ou suas sequelas causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 1E50-1E5Z | 007 | Infeção por vírus das hepatites, com doença hepática ativa comprovada e sem critérios de cura ou, não medicamente controlada e resulte em incapacidade para o serviço... | IN | AJ/ID |
-| 1C60 | 008 | Infeção pelo vírus VIH1 e/ou VIH2... Doença diagnosticada, sem critérios de cura ou não medicamente controlada, com cargas virais elevadas e que resulte em incapacidade para o serviço... | AJ | AJ/ID AJ/ID |
+| 1C60 | 008 | Infeção pelo vírus VIH1 e/ou VIH2...<br>Doença diagnosticada, sem critérios de cura ou não medicamente controlada, com cargas virais elevadas e que resulte em incapacidade para o serviço... | AJ | AJ/ID<br>AJ/ID |
 | 1F20-1F2Z | 009 | Micoses crónicas ou sequelas destas que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 1F40 | 010 | Malária, suas sequelas ou complicações... | AJ | AJ/ID |
 | 1F40-1F90 | 011 | Sequelas de infeções ou infeções ativas não tratadas por protozoários, nemátodos, cestodos, termátodos e outros parasitas [incluindo quisto hidático (Echinococcus) e hidatidoses]... | IN | AJ/ID |
-| 1C4Y 1C4Z 1G80-1G8Y | 012 | Outras doenças infeciosas ou sequelas de doenças infeciosas, que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO III Neoplasias |  |  |
+| 1C4Y<br>1C4Z<br>1G80-1G8Y | 012 | Outras doenças infeciosas ou sequelas de doenças infeciosas, que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO III<br>Neoplasias |  |  |
 | 2A00-2B3Z | 013 | Neoplasia ou história de neoplasia hematopoiética, síndromes mielodisplásicos ou neoplasias do tecido linfoide e sem critérios de cura... | IN | AJ/ID |
-| 2B50-2E0Y 2E60-2E6Z | 014 | Neoplasia ou história de neoplasia maligna, in situ ou de qualquer órgão ou sistema sem critérios de cura... | IN | AJ/ID |
+| 2B50-2E0Y<br>2E60-2E6Z | 014 | Neoplasia ou história de neoplasia maligna, in situ ou de qualquer órgão ou sistema sem critérios de cura... | IN | AJ/ID |
 | 2E80-2F5Z | 015 | Neoplasia benigna, que pelo seu tratamento, dimensão ou localização possa causar significativa deformidade e/ou perturbação funcional que diminua a capacidade para o serviço... | IN | AJ/ID |
 | 2F70-2F9Z | 016 | Qualquer neoplasia de comportamento incerto ou de evolução imprevisível... | IN | AJ/ID |
-|  |  | CAPÍTULO IV Doenças do sangue, dos órgãos hematopoiéticos e outras doenças do sistema imunitário |  |  |
+|  |  | CAPÍTULO IV<br>Doenças do sangue, dos órgãos hematopoiéticos e outras doenças do sistema imunitário |  |  |
 | 3A00-3A9Z | 017 | Anemias ou doenças da série eritrocitária, não tratada e/ou cuja terapêutica implique ausência frequente e cujas perturbações diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 3B10-3B6Z | 018 | Defeitos da coagulação, e/ou perturbações/doenças hemorrágicas causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 3B80-3C0Z | 019 | Outras doenças da coagulação e órgãos hematopoiéticos causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 4A00-4A6Z | 020 | Imunodeficiências primárias ou adquiridas, entre outros transtornos que comprometam o sistema imunitário e causem perturbações que diminuam a capacidade para o serviço... | AJ | AJ/ID |
 | 4A80-4B4Z | 021 | Outras doenças autoimunes que comprometam o sistema imunitário e causem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO V Doenças endócrinas, nutricionais e metabólicas |  |  |
-| 5A00-5A0Z | 022 | Doenças da tiroide (inclui hiper ou hipotiroidismo)... Nota. - Doenças da tiroide com necessidade de medicação crónica e não controladas assim como doenças da tiroide com indicação cirúrgica constituem fundamento de inaptidão para determinados cargos e missões. | AJ | AJ/ID |
-| 5A10-5A2Y | 023 | Diabetes Mellitus tipo 1 ou Diabetes Mellitus tipo 2 insulino tratada... Diabetes Mellitus tipo 2 com necessidade de medicação crónica e não controlado e/ou com complicações multiorgânicas associadas condiciona inaptidão para determinados cargos e missões... | IN AJ | AJ/ID |
+|  |  | CAPÍTULO V<br>Doenças endócrinas, nutricionais e metabólicas |  |  |
+| 5A00-5A0Z | 022 | Doenças da tiroide (inclui hiper ou hipotiroidismo)...<br>Nota. - Doenças da tiroide com necessidade de medicação crónica e não controladas assim como doenças da tiroide com indicação cirúrgica constituem fundamento de inaptidão para determinados cargos e missões. | AJ | AJ/ID |
+| 5A10-5A2Y | 023 | Diabetes Mellitus tipo 1 ou Diabetes Mellitus tipo 2 insulino tratada...<br>Diabetes Mellitus tipo 2 com necessidade de medicação crónica e não controlado e/ou com complicações multiorgânicas associadas condiciona inaptidão para determinados cargos e missões... | IN<br>AJ | AJ/ID |
 | 5A40-5A8Z | 024 | Outras disfunções endócrinas, nomeadamente disfunções do sistema hormonal gonadal, congénitas ou adquiridas e com necessidade de terapêutica crónica permanente de substituição hormonal... | AJ | AJ/ID |
-|  |  | Nota 1. - Implica avaliação e parecer em consulta de endocrinologia e psiquiatria. Nota 2. - Disfunções endócrinas não controladas constituem fundamento de inaptidão para determinados cargos e/ou missões. Nota 3. - A avaliação destas disfunções requerer avaliação em consulta de endocrinologia e, eventual parecer das especialidades de urologia e/ou ginecologia, e psiquiatria. |  |  |
-| 5B10-5B7Z 5C50-5D46 QB6Y | 025 | Qualquer doença endócrina, metabólica, défice hormonal e/ou nutricional, dislipidémia não controlada ou status pós cirurgia bariátrica sem sucesso e/ou suas sequelas, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO VI Perturbações mentais do comportamento e neurodesenvolvimento |  |  |
-| 6A00-6A0Z MA80-MA8Y | 026 | Perturbações do neurodesenvolvimento e desenvolvimento do sistema intelectual, deficit cognitivo, aprendizagem, atenção e/ou hiperatividade medicada e/ou não controlada... Nota. - Perturbações da fala, linguagem e/ou a gaguez não relacionada com perturbação do neurodesenvolvimento ou deficit cognitivo deve ser avaliada em consulta de otorrinolaringologia e em função do grau de gravidade. | IN AJ | AJ/ID |
-| 6C40-6C7Z | 027 | Perturbações mentais e do comportamento devidas ao uso de substâncias psicoativas, doenças relacionadas com o jogo, doenças impulsivas diagnosticadas (piromania, cleptomania, ninfomania entre outras)... Perturbações suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-| 6A20-6A2Z | 028 | Antecedentes ou história atual de sintomas psicóticos, esquizofrenia, análogos e/ou outras psicoses... Antecedentes suprarreferidos que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-| 6A60-6A8Z | 029 | Antecedentes ou história atual de perturbações do humor, mania, doença bipolar ou episódio depressivo ativo... Antecedentes suprarreferidos que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-| 6B00-6C2Z | 030 | Perturbações neuróticas, distúrbios relacionados com o medo, obsessivo-compulsivos, relacionados com o stress e/ou somatizações ativas sob terapêutica ativa ou acompanhamento específico nos últimos 12 meses... Perturbações suprarreferidas coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-| 6C90-6D5Z | 031 | Perturbações da personalidade e do comportamento, (inclui parafilias)... Perturbações suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-| 6D70-6E0Z | 032 | Doenças neurocognitivas e demências... Condições suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+|  |  | Nota 1. - Implica avaliação e parecer em consulta de endocrinologia e psiquiatria.<br>Nota 2. - Disfunções endócrinas não controladas constituem fundamento de inaptidão para determinados cargos e/ou missões.<br>Nota 3. - A avaliação destas disfunções requerer avaliação em consulta de endocrinologia e, eventual parecer das especialidades de urologia e/ou ginecologia, e psiquiatria. |  |  |
+| 5B10-5B7Z<br>5C50-5D46<br>QB6Y | 025 | Qualquer doença endócrina, metabólica, défice hormonal e/ou nutricional, dislipidémia não controlada ou status pós cirurgia bariátrica sem sucesso e/ou suas sequelas, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO VI<br>Perturbações mentais do comportamento<br>e neurodesenvolvimento |  |  |
+| 6A00-6A0Z<br>MA80-MA8Y | 026 | Perturbações do neurodesenvolvimento e desenvolvimento do sistema intelectual, deficit cognitivo, aprendizagem, atenção e/ou hiperatividade medicada e/ou não controlada...<br>Nota. - Perturbações da fala, linguagem e/ou a gaguez não relacionada com perturbação do neurodesenvolvimento ou deficit cognitivo deve ser avaliada em consulta de otorrinolaringologia e em função do grau de gravidade. | IN<br>AJ | AJ/ID |
+| 6C40-6C7Z | 027 | Perturbações mentais e do comportamento devidas ao uso de substâncias psicoativas, doenças relacionadas com o jogo, doenças impulsivas diagnosticadas (piromania, cleptomania, ninfomania entre outras)...<br>Perturbações suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+| 6A20-6A2Z | 028 | Antecedentes ou história atual de sintomas psicóticos, esquizofrenia, análogos e/ou outras psicoses...<br>Antecedentes suprarreferidos que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+| 6A60-6A8Z | 029 | Antecedentes ou história atual de perturbações do humor, mania, doença bipolar ou episódio depressivo ativo...<br>Antecedentes suprarreferidos que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+| 6B00-6C2Z | 030 | Perturbações neuróticas, distúrbios relacionados com o medo, obsessivo-compulsivos, relacionados com o stress e/ou somatizações ativas sob terapêutica ativa ou acompanhamento específico nos últimos 12 meses...<br>Perturbações suprarreferidas coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+| 6C90-6D5Z | 031 | Perturbações da personalidade e do comportamento, (inclui parafilias)...<br>Perturbações suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
+| 6D70-6E0Z | 032 | Doenças neurocognitivas e demências...<br>Condições suprarreferidas que coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
 | 6E20-6E8Z | 033 | Outros distúrbios mentais, do comportamento e do neurodesenvolvimento psicológico e/ou sob terapêutica psicofarmacológica especifica nos últimos 12 meses em grau suscetível de poder causar perturbações que diminuam a capacidade para o serviço e/ou coloquem em risco o próprio, terceiros ou bens de relevante valor... | IN | AJ/ID |
-|  |  | CAPÍTULO VII Doenças do sistema nervoso e do sono |  |  |
+|  |  | CAPÍTULO VII<br>Doenças do sistema nervoso e do sono |  |  |
 | 8A00-8A2Z | 034 | Doenças extrapiramidais e do movimento, degenerativas do sistema nervoso central (inclui doença de Parkinson, Alzheimer, demência de corpos de Lewy, entre outras)... | IN | AJ/ID |
 | 8A40-8A4Z | 035 | Esclerose múltipla, entre outras doenças desmielinizantes do sistema nervoso central... | IN | AJ/ID |
 | 8A60-8A6Z | 036 | Epilepsia ... | IN | AJ/ID |
 | 8A80-8A8Z | 037 | Enxaquecas ou cefaleias, sob terapêutica específica e/ou sem terapêutica especifica e resulte em perturbações que diminuam a capacidade para o serviço | IN | AJ/ID |
 | 8B00-8B2Z | 038 | Doenças cerebrovasculares e/ou Acidentes Vasculares Cerebrais, e/ou, cujas sequelas resultem em perturbações que diminuam a capacidade para o serviço | IN | AJ/ID |
 | 8B40-8B6Z | 039 | Doenças da espinal medula ou do neurónio motor (excluindo trauma) que afetam o sistema nervoso central (inclui cauda equina, mielite e mielopatia e atrofia muscular pós poliomielite)... | IN | AJ/ID |
-| 8B80-8B9Z | 040 | Doenças dos nervos, raízes e plexos nervosos (inclui pares cranianos)... Sequelas das doenças suprarreferidas ... | IN | AJ/ID |
+| 8B80-8B9Z | 040 | Doenças dos nervos, raízes e plexos nervosos (inclui pares cranianos)...<br>Sequelas das doenças suprarreferidas ... | IN | AJ/ID |
 | 8C00-8C4Z | 041 | Polineuropatias e outras doenças do sistema nervoso periférico e/ou sequelas destas que condicionem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 8C60-8D0Z | 042 | Doenças musculares das junções neuromusculares ... | IN | AJ/ID |
-| 8D80-8E0Z | 043 | Doenças do sistema nervoso autónomo e doenças causadas por priões... Sequelas das doenças suprarreferidas que condicionem perturbações ... | IN | AJ/ID |
-| 7A00-7B2Z | 044 | Doenças/perturbações do sono com diagnóstico definitivo... Perturbações das doenças suprarreferidas que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| 8E20-8D2Z 8D40-8D4Z 8D60-8D6Z | 045 | Outras doenças ou alterações do sistema nervoso, perdas de consciência não especificadas em outro capítulo, doenças inflamatórias e/ou infeciosas com envolvimento do sistema nervoso central e/ou periférico ou sequelas das mesmas que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO VIII Doenças do olho e anexos |  |  |
+| 8D80-8E0Z | 043 | Doenças do sistema nervoso autónomo e doenças causadas por priões...<br>Sequelas das doenças suprarreferidas que condicionem perturbações ... | IN | AJ/ID |
+| 7A00-7B2Z | 044 | Doenças/perturbações do sono com diagnóstico definitivo...<br>Perturbações das doenças suprarreferidas que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| 8E20-8D2Z<br>8D40-8D4Z<br>8D60-8D6Z | 045 | Outras doenças ou alterações do sistema nervoso, perdas de consciência não especificadas em outro capítulo, doenças inflamatórias e/ou infeciosas com envolvimento do sistema nervoso central e/ou periférico ou sequelas das mesmas que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO VIII<br>Doenças do olho e anexos |  |  |
 | 9A00-9A4Z | 046 | Doença das pálpebras, do aparelho lacrimal e órbita com nítida perturbação funcional e/ou que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 9A60-9A9Z | 047 | Doenças do segmento anterior do olho: conjuntiva, córnea, câmara anterior, íris, úvea e corpo ciliar, com perturbação funcional e/ou que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| 9B00-9B3Z | 048 | Doenças funcionais da pupila e cristalino... Cataratas não tratadas e perturbações que diminuam a capacidade para o serviço... | IN IN | AJ/ID AJ/ID |
+| 9B00-9B3Z | 048 | Doenças funcionais da pupila e cristalino...<br>Cataratas não tratadas e perturbações que diminuam a capacidade para o serviço... | IN<br>IN | AJ/ID<br>AJ/ID |
 | 9B50-9B7Y | 049 | Doenças da coroideia e/ou da retina, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 9B80-9B8Z | 050 | Doenças do vítreo, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 9C40-9C4Z | 051 | Doenças do nervo ótico e vias óticas, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | 9C60-9C6Z | 052 | Glaucoma... | IN | AJ/ID |
 | 9C80-9C8Z | 053 | Estrabismos e outras anomalias da motilidade ocular, com nítida perturbação estética ou funcional, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| 9D00-9D0Z | 054 | Acuidade visual: Diminuição da acuidade visual por alterações da refração, acomodação ou outras causas, abaixo dos seguintes limites: a) Oficiais e sargentos em qualquer forma de prestação de serviço: 5/10 num olho e 2/10 no outro, ou inferior a 3/10 em ambos... Não atingir com correção 10/10 em ambos os olhos... Correção máxima: 4 dioptrias esféricas e 2,50 cilíndricas... Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |
-| 9D00-9D0Z | 054 | b) Praças em qualquer forma de prestação de serviço ou admissão para qualquer classe ou especialidade para o serviço efetivo mediante convocação ou mobilização: 2/10 em cada olho... Não atingir com correção 10/10 em ambos os olhos... Correção máxima: 10 dioptrias esféricas e 5 cilíndricas... Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |
-| 9D40-9D46 | 055 | Anomalias da perceção cromática: a) Quadro permanentes: Tricomático anormal ou dicromático... | IN | AJ/ID |
-|  |  | b) Oficiais e sargentos em regime de contrato (RC), nas suas várias modalidades, e regime de voluntariado (RV): Dicromático... | IN | AJ/ID |
+| 9D00-9D0Z | 054 | Acuidade visual:<br>Diminuição da acuidade visual por alterações da refração, acomodação ou outras causas, abaixo dos seguintes limites:<br>a) Oficiais e sargentos em qualquer forma de prestação de serviço:<br>5/10 num olho e 2/10 no outro, ou inferior a 3/10 em ambos...<br>Não atingir com correção 10/10 em ambos os olhos...<br>Correção máxima: 4 dioptrias esféricas e 2,50 cilíndricas...<br>Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |
+| b) Praças em qualquer forma de prestação de serviço ou admissão para qualquer classe ou especialidade para o serviço efetivo mediante convocação ou mobilização:<br>2/10 em cada olho...<br>Não atingir com correção 10/10 em ambos os olhos...<br>Correção máxima: 10 dioptrias esféricas e 5 cilíndricas...<br>Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |  |  |
+| 9D40-9D46 | 055 | Anomalias da perceção cromática:<br>a) Quadro permanentes:<br>Tricomático anormal ou dicromático... | IN | AJ/ID |
+|  |  | b) Oficiais e sargentos em regime de contrato (RC), nas suas várias modalidades, e regime de voluntariado (RV):<br>Dicromático... | IN | AJ/ID |
 |  |  | c) Praças em qualquer forma de prestação de serviço Dicromático... | IN | AJ/ID |
 |  |  | d) Admissões para qualquer classe, arma, serviço ou especialidade para o serviço efetivo nas Forças Armadas mediante convocação ou mobilização... | AJ | AJ/ID |
-| 9C0Y-9C2Z 9D30-9D25 9D50-9E1Z | 056 | Outras alterações do olho e anexos com repercussão funcional, nomeadamente possíveis sequelas de cirurgia ocular prévia, ou suscetíveis de complicações futuras... | IN | AJ/ID |
-|  |  | CAPÍTULO IX Doenças do ouvido e apófise mastóidea |  |  |
-| AA40(1) AB19 LA20-LA2Z | 057 | Alterações anatómicas do pavilhão auricular e do canal auditivo externo ou ouvido médio, causando perturbações que diminuam a capacidade para o serviço | IN | AJ/ID |
+| 9C0Y-9C2Z<br>9D30-9D25<br>9D50-9E1Z | 056 | Outras alterações do olho e anexos com repercussão funcional, nomeadamente possíveis sequelas de cirurgia ocular prévia, ou suscetíveis de complicações futuras... | IN | AJ/ID |
+|  |  | CAPÍTULO IX<br>Doenças do ouvido e apófise mastóidea |  |  |
+| AA40(1)<br>AB19<br>LA20-LA2Z | 057 | Alterações anatómicas do pavilhão auricular e do canal auditivo externo ou ouvido médio, causando perturbações que diminuam a capacidade para o serviço | IN | AJ/ID |
 | AA00-AA6Z | 058 | Doenças agudas ou crónicas do ouvido externo, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | AA00-AB1Z | 059 | Doenças agudas ou crónicas da mastoide e do ouvido médio, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | AB30-AB1Z | 060 | Doenças agudas ou crónicas do ouvido interno, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| AB50-AB1Z | 061 | Função auditiva: Diminuição da acuidade auditiva abaixo dos seguintes limites: a) Oficiais e sargentos em qualquer forma de prestação de serviço: Perda da acuidade auditiva superior a 30 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 8000 Hz... Perda da acuidade auditiva superior a 40 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 2000 Hz (inclusive) e 45 dB (ISO) nas frequências entre 2000 a 8000 Hz... Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN N/A | N/A AJ/ID |
-| AB50-AB1Z | 061 | b) Praças em qualquer forma de prestação de serviço: Perda da acuidade auditiva superior a 45 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 8000 Hz (inclusive)... Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |
-| AB50-AB1Z | 061 | c) Admissões para qualquer classe, arma, serviço ou especialidade para o serviço efetivo nas Forças Armadas mediante convocação ou mobilização... | AJ | AJ/ID |
-| AB90-AC0Z | 062 | Outras doenças do ouvido externo, médio ou interno, e nariz, causando perturbações que diminuam a capacidade para o serviço... Nota. - Inclui complicações pós-operatórias e/ou alterações que condicionem a utilização de equipamento militar e diminuam a capacidade para o serviço. | IN | AJ/ID |
-|  |  | CAPÍTULO X Doenças do aparelho cardiovascular |  |  |
-| BA00-BA04 | 063 | Doença hipertensiva... Hipertensão arterial não controlada, refratária ao tratamento e/ou com repercussões funcionais e/ou que condicionem perturbações... | IN | AJ/ID |
+| AB50-AB1Z | 061 | Função auditiva:<br>Diminuição da acuidade auditiva abaixo dos seguintes limites:<br>a) Oficiais e sargentos em qualquer forma de prestação de serviço:<br>Perda da acuidade auditiva superior a 30 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 8000 Hz...<br>Perda da acuidade auditiva superior a 40 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 2000 Hz (inclusive) e 45 dB (ISO) nas frequências entre 2000 a 8000 Hz...<br>Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN<br>N/A | N/A<br>AJ/ID |
+| b) Praças em qualquer forma de prestação de serviço:<br>Perda da acuidade auditiva superior a 45 dB (ISO) em cada um dos ouvidos nas frequências entre 250 a 8000 Hz (inclusive)...<br>Nota. - Sem prejuízo do disposto nas tabelas complementares, específicas a cada ramo. | IN | AJ/ID |  |  |
+| c) Admissões para qualquer classe, arma, serviço ou especialidade para o serviço efetivo nas Forças Armadas mediante convocação ou mobilização... | AJ | AJ/ID |  |  |
+| AB90-AC0Z | 062 | Outras doenças do ouvido externo, médio ou interno, e nariz, causando perturbações que diminuam a capacidade para o serviço...<br>Nota. - Inclui complicações pós-operatórias e/ou alterações que condicionem a utilização de equipamento militar e diminuam a capacidade para o serviço. | IN | AJ/ID |
+|  |  | CAPÍTULO X<br>Doenças do aparelho cardiovascular |  |  |
+| BA00-BA04 | 063 | Doença hipertensiva...<br>Hipertensão arterial não controlada, refratária ao tratamento e/ou com repercussões funcionais e/ou que condicionem perturbações... | IN | AJ/ID |
 | BA20-BA2Z | 064 | Hipotensão arterial sintomática, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| BA40-BA6Z | 065 | Cardiopatia isquémica ou suas sequelas (inclui doença isquémica aguda, crónica ou angina de peito)... Doença ou sequelas suprarreferidas e/ou que condicionem perturbações... | IN | AJ/ID |
+| BA40-BA6Z | 065 | Cardiopatia isquémica ou suas sequelas (inclui doença isquémica aguda, crónica ou angina de peito)...<br>Doença ou sequelas suprarreferidas e/ou que condicionem perturbações... | IN | AJ/ID |
 | BB00-BB0Z | 066 | Doença cardiopulmonar, e/ou suas sequelas, causando repercussões funcionais e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| BA80-BA8Z BB20-BB4Z | 067 | Doença coronária, do endocárdio, pericárdio, inclui pericardite e endocardite... Sequelas das doenças suprarreferidas e/ou, que condicionem perturbações... | IN | AJ/ID |
-| BB60-BC20 | 068 | Doenças valvulares... Sequelas das doenças suprarreferidas e/ou que condicionem perturbações... | IN | AJ/ID |
-| BC40-BC4Z | 069 | Doença do miocárdio e cavidades cardíacas, inclui miocardite e cardiomiopatias As doenças suprarreferidas que causem repercussões ou perturbações... | IN | AJ/ID |
-| BC60-BC9Z | 070 | Alterações da condução e do ritmo cardíaco, não corrigíveis... Outras alterações do ritmo ou condução causando repercussão funcional e/ou perturbações... Nota. - Inclui bradicardia sinusal sintomática, BAV 2.º grau tipo i de Mobitz sintomático, BAV 2.º grau tipo ii de Mobitz e BAV de 3.º grau (completo), taquicardias paroxísticas supraventriculares e flutter auricular não submetidos a ablação, fibrilhação auricular, extrassistolia ventricular frequente e/ou taquicardia ventricular, bloqueio completo do ramo esquerdo e síndrome de Brugada. | IN | AJ/ID |
+| BA80-BA8Z<br>BB20-BB4Z | 067 | Doença coronária, do endocárdio, pericárdio, inclui pericardite e endocardite...<br>Sequelas das doenças suprarreferidas e/ou, que condicionem perturbações... | IN | AJ/ID |
+| BB60-BC20 | 068 | Doenças valvulares...<br>Sequelas das doenças suprarreferidas e/ou que condicionem perturbações... | IN | AJ/ID |
+| BC40-BC4Z | 069 | Doença do miocárdio e cavidades cardíacas, inclui miocardite e cardiomiopatias<br>As doenças suprarreferidas que causem repercussões ou perturbações... | IN | AJ/ID |
+| BC60-BC9Z | 070 | Alterações da condução e do ritmo cardíaco, não corrigíveis...<br>Outras alterações do ritmo ou condução causando repercussão funcional e/ou perturbações...<br>Nota. - Inclui bradicardia sinusal sintomática, BAV 2.º grau tipo i de Mobitz sintomático, BAV 2.º grau tipo ii de Mobitz e BAV de 3.º grau (completo), taquicardias paroxísticas supraventriculares e flutter auricular não submetidos a ablação, fibrilhação auricular, extrassistolia ventricular frequente e/ou taquicardia ventricular, bloqueio completo do ramo esquerdo e síndrome de Brugada. | IN | AJ/ID |
 | BD10-BD1Z | 071 | Enfarte agudo do miocárdio, ou suas sequelas causando repercussões funcionais e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | BD30-BD9Z | 072 | Doenças oclusivas das artérias, veias e da circulação linfática não classificadas noutro local, inclui pé diabético e doença arteriovenosa, causando repercussões funcionais e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| BE10-BE2Z | 073 | Outras alterações do sistema circulatório com comprovada repercussão funcional e/ou que resultem em perturbações que diminuam a capacidade para o serviço... Nota. - Inclui pós-operatórios e/ou sequelas de cirurgias cardíacas, vasculares ou outras relacionadas com o sistema cardiovascular. | IN | AJ/ID |
-|  |  | CAPÍTULO XI Doenças do aparelho respiratório (não inclui doenças malignas - em capítulo iii) |  |  |
+| BE10-BE2Z | 073 | Outras alterações do sistema circulatório com comprovada repercussão funcional e/ou que resultem em perturbações que diminuam a capacidade para o serviço...<br>Nota. - Inclui pós-operatórios e/ou sequelas de cirurgias cardíacas, vasculares ou outras relacionadas com o sistema cardiovascular. | IN | AJ/ID |
+|  |  | CAPÍTULO XI<br>Doenças do aparelho respiratório<br>(não inclui doenças malignas - em capítulo iii) |  |  |
 | CA00-CA0Z | 074 | Alterações ou doenças trato respiratório superior: nasofaringe, laringe e traqueia, causando incapacidade funcional respiratória ou da fonação que impliquem tratamento prolongado e/ou alterações que condicionem a utilização de equipamento militar, causando perturbações que diminuam a capacidade para o serviço (inclui anósmia)... | IN | AJ/ID |
 | CA09 | 075 | Rinite crónica e/ou rinite alérgica não controlada ... | AJ | AJ/ID |
 | CA20-CA2Z | 076 | Doença pulmonar obstrutiva crónica, bronquite crónica, enfisema, fibrose quística ou outra doença pulmonar do trato respiratório inferior, com repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| CA23 | 077 | Asma brônquica ativa e/ou com crises frequentes e/ou com comprovada repercussão funcional e condicione perturbação ou diminuição da capacidade para o serviço... Asma brônquica com necessidade de medicação crónica permanente ou história de internamentos hospitalares consequentes e/ou necessidade de ventilação mecânica invasiva... Asma brônquica associada ao exercício com episódios frequentes de crises de agudização durante a prática desportiva e necessidade de terapêutica sintomática... Hiperreatividade brônquica, história de asma brônquica medicada, diagnosticada e sintomática após os 12 anos... | IN | AJ/ID |
+| CA23 | 077 | Asma brônquica ativa e/ou com crises frequentes e/ou com comprovada repercussão funcional e condicione perturbação ou diminuição da capacidade para o serviço...<br>Asma brônquica com necessidade de medicação crónica permanente ou história de internamentos hospitalares consequentes e/ou necessidade de ventilação mecânica invasiva...<br>Asma brônquica associada ao exercício com episódios frequentes de crises de agudização durante a prática desportiva e necessidade de terapêutica sintomática...<br>Hiperreatividade brônquica, história de asma brônquica medicada, diagnosticada e sintomática após os 12 anos... | IN | AJ/ID |
 | CA40-CA4Z | 078 | Infeções pulmonares e/ou supurações pulmonares com repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | CA60-CA8Z | 079 | Doenças pulmonares relacionadas com exposição a agentes externos e consequente repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| CB20-CB41 | 080 | Doenças da pleura, diafragma e mediastino... Sequelas das doenças suprarreferidas que causem repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| CB21 | 081 | Pneumotórax espontâneo e/ou história de episódios anteriores de pneumotórax espontâneo recidivante... Sequelas da doença ou histórico suprarreferido com repercussão funcional evidente e que resulte em perturbações... | IN | AJ/ID |
+| CB20-CB41 | 080 | Doenças da pleura, diafragma e mediastino...<br>Sequelas das doenças suprarreferidas que causem repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| CB21 | 081 | Pneumotórax espontâneo e/ou história de episódios anteriores de pneumotórax espontâneo recidivante...<br>Sequelas da doença ou histórico suprarreferido com repercussão funcional evidente e que resulte em perturbações... | IN | AJ/ID |
 | CB20-CB7Z | 082 | Outras doenças do aparelho respiratório e complicações de procedimentos cirúrgicos causando repercussão funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO XII Estomatologia |  |  |
-| DA00-DA09 DA0E NA00-NA0Z | 083 | Patologias agudas ou crónicas da face, boca e glândulas salivares ou perturbações temporo-mandibulares... Doenças periodontais, gengivais, maloclusões, abcessos ou fistulas maxilofaciais agudas ou crónicas e que perturbem a fonação ou a mastigação... Inclui fraturas maxilofaciais com material de osteossíntese e disfunção maxilofacial e/ou alterações/deformações da face que condicionem a utilização de equipamento militar, e/ou condicionem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO XII<br>Estomatologia |  |  |
+| DA00-DA09<br>DA0E<br>NA00-NA0Z | 083 | Patologias agudas ou crónicas da face, boca e glândulas salivares ou perturbações temporo-mandibulares...<br>Doenças periodontais, gengivais, maloclusões, abcessos ou fistulas maxilofaciais agudas ou crónicas e que perturbem a fonação ou a mastigação...<br>Inclui fraturas maxilofaciais com material de osteossíntese e disfunção maxilofacial e/ou alterações/deformações da face que condicionem a utilização de equipamento militar, e/ou condicionem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | DA0C | 084 | Existência de cáries dentárias não tratadas ou reabilitáveis em mais de cinco peças dentárias... | AJ | AJ/ID |
 | DA0E | 085 | Perda com irrecuperabilidade de mais de cinco peças dentárias, não reabilitáveis com prótese fixa ou removível e cuja localização comprometa significativamente a mastigação e/ou a fonação... | AJ | AJ/ID |
 | DA0F-DA0Z | 086 | Outras doenças dos dentes, língua, lábios ou mucosa oral que condicionem alterações funcionais... | AJ | AJ/ID |
-|  |  | CAPÍTULO XIII Doenças do aparelho digestivo (não inclui doenças malignas - em capítulo iii) |  |  |
+|  |  | CAPÍTULO XIII<br>Doenças do aparelho digestivo<br>(não inclui doenças malignas - em capítulo iii) |  |  |
 | DA20-DA2Z | 087 | Doenças do esófago ou junção esófago-gástrica que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| DA40-DA5Y DA60-DA7Z | 088 | Doenças do estômago e duodeno ativo à terapêutica, inclui doença ulcerosa péptica e gastrite ou duodenite crónica não tratada ou com história de sequelas e/ou complicações pós-operatórias que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| DA90-DB3Z DC70-DD7Z | 089 | Doenças do intestino delgado e cólon... Nota. - Inclui doenças do apêndice, doenças da motilidade intestinal, doença celíaca e doenças inflamatórias do aparelho gastrointestinal (doença de Crohn ou Colite ulcerosa), e doença diverticular com necessidade de vigilância e/ou tratamento crónico ou com história de sequelas e/ou complicações pós-operatórias que resultem em perturbações que diminuam a capacidade para o serviço. | IN | AJ/ID |
-| DB50-DB7Z | 090 | Doenças do canal anal congénitas ou adquiridas... Nota. - Inclui, fissuras, fístulas da região perianal, úlceras, prolapsos e doença hemorroidária com necessidade de vigilância e/ou tratamento crónico causando perturbações que diminuam a capacidade para o serviço. | AJ | AJ/ID |
+| DA40-DA5Y<br>DA60-DA7Z | 088 | Doenças do estômago e duodeno ativo à terapêutica, inclui doença ulcerosa péptica e gastrite ou duodenite crónica não tratada ou com história de sequelas e/ou complicações pós-operatórias que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| DA90-DB3Z<br>DC70-DD7Z | 089 | Doenças do intestino delgado e cólon...<br>Nota. - Inclui doenças do apêndice, doenças da motilidade intestinal, doença celíaca e doenças inflamatórias do aparelho gastrointestinal (doença de Crohn ou Colite ulcerosa), e doença diverticular com necessidade de vigilância e/ou tratamento crónico ou com história de sequelas e/ou complicações pós-operatórias que resultem em perturbações que diminuam a capacidade para o serviço. | IN | AJ/ID |
+| DB50-DB7Z | 090 | Doenças do canal anal congénitas ou adquiridas...<br>Nota. - Inclui, fissuras, fístulas da região perianal, úlceras, prolapsos e doença hemorroidária com necessidade de vigilância e/ou tratamento crónico causando perturbações que diminuam a capacidade para o serviço. | AJ | AJ/ID |
 | DB90-DB9Z | 091 | Doença hepática aguda ou crónica de etiologia não viral, não tratada... | IN | AJ/ID |
-| DC10-DC1Z | 092 | Doenças da vesícula ou das vias biliares não tratada ou curada, independente da sua etiologia ou operada há menos de um ano e/ou com história de sequelas e/ou complicações pós-operatórias... Doenças suprarreferidas que causem perturbações... | AJ | AJ/ID |
+| DC10-DC1Z | 092 | Doenças da vesícula ou das vias biliares não tratada ou curada, independente da sua etiologia ou operada há menos de um ano e/ou com história de sequelas e/ou complicações pós-operatórias...<br>Doenças suprarreferidas que causem perturbações... | AJ | AJ/ID |
 | DC30-DC3Z | 093 | Doenças do pâncreas, congénita ou adquirida, operada ou não, ou com história de sequelas ou complicações pós-operatórias... | IN | AJ/ID |
 | DD50-DD5Y | 094 | Hérnias da parede abdominal operada há menos de um ano ou com história de sequelas e/ou complicações operatórias ou recidivas... | IN | AJ/ID |
 | DD90-DD9Z | 095 | Outras doenças funcionais do aparelho gastrointestinal, não malignas ou status de complicações pós-operatórias que resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO XIV Doenças da pele e tecido celular subcutâneo (não inclui doenças malignas - em capítulo iii) |  |  |
+|  |  | CAPÍTULO XIV<br>Doenças da pele e tecido celular subcutâneo (não inclui doenças malignas - em capítulo iii) |  |  |
 | EA00-EA6Y | 096 | Infeções virais, bacterianas da pele com necessidade de tratamento prolongado, refratárias ao tratamento e/ou com sequelas importantes, causando perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | EA80-EA8Y | 097 | Dermatoses inflamatórias (dermatites e eczemas) recorrentes, refratárias aos tratamentos e/ou com sequelas, localização e/ou extensão que resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | EA90-EA95 | 098 | Dermatose papulo-escamosa (psoríase, líquen plano e pitiríase), refratárias aos tratamentos e/ou com sequelas, localização e/ou extensão que resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | EB00-EB0Y | 099 | Urticária crónica e refratária aos tratamentos ou suas sequelas... | AJ | AJ/ID |
 | ED80-ED9Y | 100 | Acne com necessidade de tratamento prolongado, refratário ao tratamento e/ou com sequelas... | AJ | AJ/ID |
 | EE00-EE10 | 101 | Afeções das glândulas sudoríparas refratárias ao tratamento e que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| ED50-ED7Y EE10-EE21 EE40-EF0Y EH90-EK92 | 102 | Outras doenças agudas ou crónicas da pele, da coloração da pele, do cabelo, faneras e do tecido celular subcutâneo refratárias aos tratamentos e/ou com sequelas, localização e/ou extensão que que condicionem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO XV Doenças do sistema músculo-esquelético e tecido conjuntivo |  |  |
-| FA00-FA2Z FA5Y-FA5Z | 103 | Osteoartrite e/ou artropatias inflamatórias (artrite reumatoide, psoriática e gota)... Artroses ou alterações articulares, congénitas, idiopáticas, vasculares e/ou traumáticas... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
-| FA31.0-FA31.Z FA31.8 FA30.0-FA30.Z FA3Z | 104 | Deformidades adquiridas dos membros que resultem em alterações estruturais com limitação funcional importante e impotência funcional significativa... Dismetria ou encurtamento de um dos membros inferiores superior a 2 cm... Pé plano, pé valgo, pé varo, pé equino ou pé cavo pronunciado... Hallux valgus marcado com cavalgamento de dedos ou dedos em martelo ou garra e que causem dor e incompatibilidade com o calçado militar... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
-| FA32-FA38 | 105 | Distúrbio/lesão articular (joelho, ombro, anca e outras articulações)... Nota 1. - Inclui sequelas de lesões ou de patologia da rótula, do joelho e do ombro sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica há menos de um ano. Nota 2. - Inclui instabilidades articulares sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica há menos de um ano. | IN | AJ/ID |
-| FA34.2 | 106 | Outras instabilidades articulares sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica ortopédica há menos de 1 ano com ou sem sequelas... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
-| FA70-FB1Z | 107 | Coluna: Doenças da coluna vertebral ou articulação sacroilíaca, congénita, adquirida ou infeciosa, causando limitações ou perturbações que diminuam a capacidade para o serviço... Espondilose de qualquer etiologia e em qualquer localização, com sintomatologia persistente ou com sinais de compressão medular ou arterial... Espondilartropatias, hiperosteose vertebral anquilosante ou outras afeções da coluna com limitação da flexibilidade vertebral... Espondilolistese com lise ístmica bilateral... Hérnias ou roturas discais com sinais de nevrite ou radiculite, lumbago ou ciatalgia... Escoliose com ângulo de Coob superior a 25º... Cifose dorsal com ângulo superior a 50º... Lordose lombar com ângulo superior a 55º... Espinha bífida quando sintomática, envolvendo mais de um nível vertebral ou com sinuosidade da pele (incluindo se corrigida cirurgicamente)... Traumatismos vertebromedulares e/ou dos nervos periféricos que resultem em sequelas e em alterações estruturais com limitação funcional... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
-| FB30-FB6Z | 108 | Outras sequelas de lesões ou doenças do tecido conjuntivo, dos músculos, tendões, ligamentos, aponevroses ou bursas... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... Nota. - Inclui lesões ou sequelas de lesões sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica ortopédica há menos de um ano. | AJ | AJ/ID |
-| FB80-FB8Z | 109 | Osteopatias e condropatias sem solução cirúrgica satisfatória e/ou com intervenção cirúrgica há menos de um ano... Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | AJ | AJ/ID |
-| FC00-FC0Z | 110 | Outras lesões, sequelas de lesões ou doenças do sistema músculo-esquelético e do tecido conjuntivo submetidas ou não a intervenções cirúrgicas, e cujas sequelas resultem em alterações estruturais com limitação funcional causando perturbações que diminuam a capacidade para o serviço... Inclui Pectum excavatum e Pectus carinatum... | IN | AJ/ID |
-|  |  | CAPÍTULO XVI Doenças do aparelho génito-urinário não inclui doenças malignas (em capítulo iii) |  |  |
-| GA00-GA1Z | 111 | Doenças do aparelho génito-urinário feminino: Inflamatórias ou não inflamatórias, suas sequelas e/ou perturbações relacionadas com ciclos menstruais que diminuam a capacidade para o serviço (inclui complicações de endometriose)... | AJ | AJ/ID |
-| GA20-GA34 N40-N51 | 112 | Anomalias dos órgãos genitais... | IN | AJ/ID |
+| ED50-ED7Y<br>EE10-EE21<br>EE40-EF0Y<br>EH90-EK92 | 102 | Outras doenças agudas ou crónicas da pele, da coloração da pele, do cabelo, faneras e do tecido celular subcutâneo refratárias aos tratamentos e/ou com sequelas, localização e/ou extensão que que condicionem perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO XV<br>Doenças do sistema músculo-esquelético e tecido conjuntivo |  |  |
+| FA00-FA2Z<br>FA5Y-FA5Z | 103 | Osteoartrite e/ou artropatias inflamatórias (artrite reumatoide, psoriática e gota)...<br>Artroses ou alterações articulares, congénitas, idiopáticas, vasculares e/ou traumáticas...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
+| FA31.0-FA31.Z<br>FA31.8<br>FA30.0-FA30.Z<br>FA3Z | 104 | Deformidades adquiridas dos membros que resultem em alterações estruturais com limitação funcional importante e impotência funcional significativa...<br>Dismetria ou encurtamento de um dos membros inferiores superior a 2 cm...<br>Pé plano, pé valgo, pé varo, pé equino ou pé cavo pronunciado...<br>Hallux valgus marcado com cavalgamento de dedos ou dedos em martelo ou garra e que causem dor e incompatibilidade com o calçado militar...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
+| FA32-FA38 | 105 | Distúrbio/lesão articular (joelho, ombro, anca e outras articulações)...<br>Nota 1. - Inclui sequelas de lesões ou de patologia da rótula, do joelho e do ombro sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica há menos de um ano.<br>Nota 2. - Inclui instabilidades articulares sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica há menos de um ano. | IN | AJ/ID |
+| FA34.2 | 106 | Outras instabilidades articulares sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica ortopédica há menos de 1 ano com ou sem sequelas...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
+| FA70-FB1Z | 107 | Coluna:<br>Doenças da coluna vertebral ou articulação sacroilíaca, congénita, adquirida ou infeciosa, causando limitações ou perturbações que diminuam a capacidade para o serviço...<br>Espondilose de qualquer etiologia e em qualquer localização, com sintomatologia persistente ou com sinais de compressão medular ou arterial...<br>Espondilartropatias, hiperosteose vertebral anquilosante ou outras afeções da coluna com limitação da flexibilidade vertebral...<br>Espondilolistese com lise ístmica bilateral...<br>Hérnias ou roturas discais com sinais de nevrite ou radiculite, lumbago ou ciatalgia...<br>Escoliose com ângulo de Coob superior a 25º...<br>Cifose dorsal com ângulo superior a 50º...<br>Lordose lombar com ângulo superior a 55º...<br>Espinha bífida quando sintomática, envolvendo mais de um nível vertebral ou com sinuosidade da pele (incluindo se corrigida cirurgicamente)...<br>Traumatismos vertebromedulares e/ou dos nervos periféricos que resultem em sequelas e em alterações estruturais com limitação funcional...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | IN | AJ/ID |
+| FB30-FB6Z | 108 | Outras sequelas de lesões ou doenças do tecido conjuntivo, dos músculos, tendões, ligamentos, aponevroses ou bursas...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas...<br>Nota. - Inclui lesões ou sequelas de lesões sem solução cirúrgica satisfatória e/ou lesões submetidas a intervenção cirúrgica ortopédica há menos de um ano. | AJ | AJ/ID |
+| FB80-FB8Z | 109 | Osteopatias e condropatias sem solução cirúrgica satisfatória e/ou com intervenção cirúrgica há menos de um ano...<br>Alterações estruturais com limitação funcional que resultem das doenças suprarreferidas... | AJ | AJ/ID |
+| FC00-FC0Z | 110 | Outras lesões, sequelas de lesões ou doenças do sistema músculo-esquelético e do tecido conjuntivo submetidas ou não a intervenções cirúrgicas, e cujas sequelas resultem em alterações estruturais com limitação funcional causando perturbações que diminuam a capacidade para o serviço...<br>Inclui Pectum excavatum e Pectus carinatum... | IN | AJ/ID |
+|  |  | CAPÍTULO XVI<br>Doenças do aparelho génito-urinário não inclui doenças malignas (em capítulo iii) |  |  |
+| GA00-GA1Z | 111 | Doenças do aparelho génito-urinário feminino:<br>Inflamatórias ou não inflamatórias, suas sequelas e/ou perturbações relacionadas com ciclos menstruais que diminuam a capacidade para o serviço (inclui complicações de endometriose)... | AJ | AJ/ID |
+| GA20-GA34<br>N40-N51 | 112 | Anomalias dos órgãos genitais... | IN | AJ/ID |
 | GB20-GB2Z | 113 | Doenças da mama, suas complicações e sequelas ... | AJ | AJ/ID |
-| JA00-JB6Y KD30-KD5Z | 114 | Doenças associadas à gravidez, parto e/ou puerpério e suas complicações, causando perturbações que diminuam a capacidade para o serviço... | N/A | AJ/ID |
-| GA80 | 115 | Doenças do aparelho génito-urinário masculino: Inflamatórias ou não inflamatórias, e suas sequelas e/ou complicações... | AJ | AJ/ID |
+| JA00-JB6Y<br>KD30-KD5Z | 114 | Doenças associadas à gravidez, parto e/ou puerpério e suas complicações, causando perturbações que diminuam a capacidade para o serviço... | N/A | AJ/ID |
+| GA80 | 115 | Doenças do aparelho génito-urinário masculino:<br>Inflamatórias ou não inflamatórias, e suas sequelas e/ou complicações... | AJ | AJ/ID |
 | GB40-GB4Z | 116 | Doenças glomerulares... | IN | AJ/ID |
 | GB50-GB5Z | 117 | Nefropatias túbulo-intersticiais... | IN | AJ/ID |
-| GB60-GB6Z | 118 | Insuficiência renal aguda ou crónica, e outras doenças do aparelho excretor e urinário (incluindo a existência de rim único)... Sequelas e/ou complicações das doenças suprarreferidas resultando em perturbações... | IN | AJ/ID AJ/ID |
+| GB60-GB6Z | 118 | Insuficiência renal aguda ou crónica, e outras doenças do aparelho excretor e urinário (incluindo a existência de rim único)...<br>Sequelas e/ou complicações das doenças suprarreferidas resultando em perturbações... | IN | AJ/ID<br>AJ/ID |
 | GB70-GB7Z | 119 | Litíase renal cálculos renais bilaterais conhecidos e não tratados, nefrocalcinose e urolitíase com história recorrente de episódios de cólicas e internamentos... | IN | AJ/ID |
-| GC40-GC8Z HA60-HA8Z | 120 | Doenças do aparelho génito-urinário, defeitos significativos nos genitais, congénitos ou adquiridos, ou história de cirurgia... Nota. - A avaliação destas doenças carece requerer de parecer das especialidades de urologia, ginecologia, e eventualmente endocrinologia e psiquiatria. | AJ | AJ/ID |
-|  |  | CAPÍTULO XVII Malformações congénitas e deformidades músculo-esqueléticas |  |  |
+| GC40-GC8Z<br>HA60-HA8Z | 120 | Doenças do aparelho génito-urinário, defeitos significativos nos genitais, congénitos ou adquiridos, ou história de cirurgia...<br>Nota. - A avaliação destas doenças carece requerer de parecer das especialidades de urologia, ginecologia, e eventualmente endocrinologia e psiquiatria. | AJ | AJ/ID |
+|  |  | CAPÍTULO XVII<br>Malformações congénitas e deformidades<br>músculo-esqueléticas |  |  |
 | LB70-LB9Z | 121 | Malformações congénitas do esqueleto e deformidades músculo-esqueléticas congénitas e/ou adquiridas não classificadas em capítulo anterior, submetidas ou não a intervenção cirúrgica e, cujas sequelas resultem em alterações estruturais com limitação funcional... | AJ | AJ/ID |
-| LA00-LA1Z LA60-LB0Z LB10-LB6Z LD20-LD9Z | 122 | Outras anomalias cromossómicas ou malformações congénitas ou adquiridas, que causem alterações estruturais com limitação funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-|  |  | CAPÍTULO XVIII Sintomas, sinais e anomalias clínicas e laboratoriais (não classificados noutro capítulo) |  |  |
-| MA00-MG4Y MH2Y | 123 | Sintomas, sinais e anomalias clínicas e/ou alterações em exames complementares de diagnóstico sem significado clínico definido em outro capítulo e, cujo prognóstico de evolução temporal se prevê imprevisível e/ou suscetível de causar perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| MA12 MA3Y | 124 | Controlo toxicológico positivo nas provas de admissão ou durante a recruta... Dois ou mais controlos toxicológicos positivos nos últimos seis meses... | IN | AJ/ID |
-| MA12 8C84 | 125 | Sequelas de lesões e anomalias clínicas e laboratoriais não classificada em capítulo anterior... Inclui história pessoal de doenças do sistema osteomuscular e do tecido conjuntivo, incluindo situações de rabdomiólise grave e/ou que tenha resultado em processo de internamento prolongado, falência orgânica major e/ou necessidade de recurso a técnica dialítica ou outras de suporte de órgão e em unidade de cuidados intensivos... | IN | AJ/ID |
-|  |  | CAPÍTULO XIX Traumatismos, intoxicações e outras lesões não classificadas em capítulos anteriores |  |  |
+| LA00-LA1Z<br>LA60-LB0Z<br>LB10-LB6Z<br>LD20-LD9Z | 122 | Outras anomalias cromossómicas ou malformações congénitas ou adquiridas, que causem alterações estruturais com limitação funcional e/ou perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+|  |  | CAPÍTULO XVIII<br>Sintomas, sinais e anomalias clínicas e laboratoriais<br>(não classificados noutro capítulo) |  |  |
+| MA00-MG4Y<br>MH2Y | 123 | Sintomas, sinais e anomalias clínicas e/ou alterações em exames complementares de diagnóstico sem significado clínico definido em outro capítulo e, cujo prognóstico de evolução temporal se prevê imprevisível e/ou suscetível de causar perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| MA12<br>MA3Y | 124 | Controlo toxicológico positivo nas provas de admissão ou durante a recruta...<br>Dois ou mais controlos toxicológicos positivos nos últimos seis meses... | IN | AJ/ID |
+| MA12<br>8C84 | 125 | Sequelas de lesões e anomalias clínicas e laboratoriais não classificada em capítulo anterior...<br>Inclui história pessoal de doenças do sistema osteomuscular e do tecido conjuntivo, incluindo situações de rabdomiólise grave e/ou que tenha resultado em processo de internamento prolongado, falência orgânica major e/ou necessidade de recurso a técnica dialítica ou outras de suporte de órgão e em unidade de cuidados intensivos... | IN | AJ/ID |
+|  |  | CAPÍTULO XIX<br>Traumatismos, intoxicações e outras lesões<br>não classificadas em capítulos anteriores |  |  |
 | NA00-ND7Z | 126 | Doenças ou sequelas de doenças/lesões traumáticas, não referidas em capítulo anterior, causadas por corpos estranhos ou outros, e resultem em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
 | NE40-NE4Z | 127 | Sequelas graves de doenças relacionadas com o frio, incluindo, queimaduras pelo frio e geladuras, amputação cianótica e/ou necrose tecidular de dedos da mão ou do pé provocada pelo frio... | IN | AJ/ID |
 | ND90-NE2Z | 128 | Sequelas graves de doenças relacionadas com qualquer tipo de queimadura pelo calor e que resultem em lesões que diminuam a capacidade para o serviço | IN | AJ/ID |
-| SE00-SE2Z SE80-SE8Z | 129 | Antecedentes de predisposição a lesão pelo calor como pirexia pelo calor, hipertermia maligna, golpe de calor e/ou história de internamento hospitalar prévios por patologias relacionadas com o calor, com necessidade de intervenção diferenciada e internamento hospitalar... | IN | AJ/ID |
-| QC44 4A84 | 130 | Antecedentes de anafilaxia moderada a grave e tenha implicado choque anafilático no passado e/ou necessidade de tratamento diferenciado ou internamento hospitalar e obrigue a possuir fármaco de terapêutica SOS com adrenalina Antecedentes de intoxicações medicamentosas ou outras... | IN | AJ/ID |
-| NC59 | 131 | Amputação traumática mão: Falange distal do 1.º e 2.º dedos da mão dominante/mão de atirador... Falange distal e média 3.º, 4.º e 5.º dedo da mão e que condicione incapacidade significativa para desempenho de funções como militar, nomeadamente no manejo de armamento... Cicatriz ou deformação da mão dominante resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| ND10 ND19 | 132 | Amputação traumática pé: 1.º ou 5.º dedo do pé... Dois ou mais dedos do pé... Cicatriz ou deformação do pé que resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
-| 3B81 5D40 | 133 | Outras complicações médicas, de atos médicos ou cirúrgicos não classificadas em capítulo anterior... Nota. - Qualquer intervenção cirúrgica há menos de 1 ano implica avaliação pela respetiva especialidade. | AJ | AJ/ID |
-| NA00-NB35 NB50-NB99 NC12-ND5Z | 134 | Qualquer sequela de lesão traumática, amputação e/ou ausência total ou parcial de órgãos (nomeadamente órgãos pares) não classificada em capítulo anterior que resulte em perturbação que diminuam a capacidade para o serviço ou, que coloquem em risco a saúde e/ou a integridade física do próprio ou de terceiros... Nota. - Inclui traumatismos cranioencefálicos e suas sequelas, que tenham implicado alteração grave do estado de consciência e/ou defeito ósseo (com necessidade de craniotomia); a presença de material de osteossíntese cuja existência ou sequelas possam resultar em perturbações que venham a diminuir a capacidade para o serviço e, por último, doentes submetidos a esplenectomia total por causa benigna e/ou traumática. | AJ | AJ/ID |
-| PA00-PB6Z PD50-PJ0Z PJ20-PJ2Z PJ70-PL2Z | 135 | Sequelas de lesões provocadas por outras causas externas e não classificada em capítulo anterior e que, resultem em perturbações que diminuam a capacidade para o serviço... Inclui sequelas de lesões resultantes especificamente de conflitos armados e de uso de armas NBQR... | AJ | AJ/ID |
-| QC04.Z | 136 | Não cumprimento do Programa Nacional de Vacinação... Não cumprimento do plano de vacinação determinado para o desempenho operacional em cargos específicos nacionais ou internacionais ou missões de Forças Nacionais Destacadas... | IN | AJ/ID |
+| SE00-SE2Z<br>SE80-SE8Z | 129 | Antecedentes de predisposição a lesão pelo calor como pirexia pelo calor, hipertermia maligna, golpe de calor e/ou história de internamento hospitalar prévios por patologias relacionadas com o calor, com necessidade de intervenção diferenciada e internamento hospitalar... | IN | AJ/ID |
+| QC44<br>4A84 | 130 | Antecedentes de anafilaxia moderada a grave e tenha implicado choque anafilático no passado e/ou necessidade de tratamento diferenciado ou internamento hospitalar e obrigue a possuir fármaco de terapêutica SOS com adrenalina<br>Antecedentes de intoxicações medicamentosas ou outras... | IN | AJ/ID |
+| NC59 | 131 | Amputação traumática mão:<br>Falange distal do 1.º e 2.º dedos da mão dominante/mão de atirador...<br>Falange distal e média 3.º, 4.º e 5.º dedo da mão e que condicione incapacidade significativa para desempenho de funções como militar, nomeadamente no manejo de armamento...<br>Cicatriz ou deformação da mão dominante resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| ND10<br>ND19 | 132 | Amputação traumática pé:<br>1.º ou 5.º dedo do pé...<br>Dois ou mais dedos do pé...<br>Cicatriz ou deformação do pé que resulte em perturbações que diminuam a capacidade para o serviço... | IN | AJ/ID |
+| 3B81<br>5D40 | 133 | Outras complicações médicas, de atos médicos ou cirúrgicos não classificadas em capítulo anterior...<br>Nota. - Qualquer intervenção cirúrgica há menos de 1 ano implica avaliação pela respetiva especialidade. | AJ | AJ/ID |
+| NA00-NB35<br>NB50-NB99<br>NC12-ND5Z | 134 | Qualquer sequela de lesão traumática, amputação e/ou ausência total ou parcial de órgãos (nomeadamente órgãos pares) não classificada em capítulo anterior que resulte em perturbação que diminuam a capacidade para o serviço ou, que coloquem em risco a saúde e/ou a integridade física do próprio ou de terceiros...<br>Nota. - Inclui traumatismos cranioencefálicos e suas sequelas, que tenham implicado alteração grave do estado de consciência e/ou defeito ósseo (com necessidade de craniotomia); a presença de material de osteossíntese cuja existência ou sequelas possam resultar em perturbações que venham a diminuir a capacidade para o serviço e, por último, doentes submetidos a esplenectomia total por causa benigna e/ou traumática. | AJ | AJ/ID |
+| PA00-PB6Z<br>PD50-PJ0Z<br>PJ20-PJ2Z<br>PJ70-PL2Z | 135 | Sequelas de lesões provocadas por outras causas externas e não classificada em capítulo anterior e que, resultem em perturbações que diminuam a capacidade para o serviço...<br>Inclui sequelas de lesões resultantes especificamente de conflitos armados e de uso de armas NBQR... | AJ | AJ/ID |
+| QC04.Z | 136 | Não cumprimento do Programa Nacional de Vacinação...<br>Não cumprimento do plano de vacinação determinado para o desempenho operacional em cargos específicos nacionais ou internacionais ou missões de Forças Nacionais Destacadas... | IN | AJ/ID |
+
+116964311
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl12 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:10.5; vertical-align:top; } .Tbl13 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl14 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl15 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl17 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl20 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:10.5; vertical-align:top; } .Tbl21 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl22 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl23 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl24 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl25 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl26 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl27 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl28 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl29 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl30 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl31 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl32 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl33 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl34 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl35 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl36 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1980-677441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b168be144617c2db5b3fafb394fb6992872ce85ee42f6bda595a0f2b6db25bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a4a244c48b50e17e83e769b8dd45aecf18343acf6decf2f49ca9b4ccb6cca02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:217367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:34Z'
   warnings: []
   errors: []
 ---
@@ -102,29 +132,29 @@ Assim:
 
 A Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Salvo o disposto em lei especial, nos serviços dependentes da Presidência do Governo e das Secretarias Regionais serão cobradas as taxas constantes da tabela anexa.
+Artigo 1.º Salvo o disposto em lei especial, nos serviços dependentes da Presidência do Governo e das Secretarias Regionais serão cobradas as taxas constantes da tabela anexa.
 
-###### Art. 2.º Ficam isentos de taxa os atestados que estejam isentos de imposto do selo.
+Art. 2.º Ficam isentos de taxa os atestados que estejam isentos de imposto do selo.
 
-###### Art. 3.º Pelos actos notariais que o notário privativo do Governo Regional praticar são devidos os emolumentos fixados na tabela anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, os quais, sem prejuízo do estatuído na lei geral sobre remunerações acessórias, lhe pertencerão integralmente, em cada ano, até ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre da Região.
+Art. 3.º Pelos actos notariais que o notário privativo do Governo Regional praticar são devidos os emolumentos fixados na tabela anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, os quais, sem prejuízo do estatuído na lei geral sobre remunerações acessórias, lhe pertencerão integralmente, em cada ano, até ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre da Região.
 
-###### Art. 4.º As taxas da tabela anexa são cobradas em dinheiro e constituem, na totalidade, receita da Região Autónoma da Madeira.
+Art. 4.º As taxas da tabela anexa são cobradas em dinheiro e constituem, na totalidade, receita da Região Autónoma da Madeira.
 
-###### Art. 5.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças.
+Art. 5.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 15 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 3 de Dezembro de 1979.**
+Assinado em 3 de Dezembro de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 Tabela a que se refere o artigo 1.º do Decreto Regional n.º 3/80/M, de 26 de Março
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Taxas a cobrar pela prestação dos seguintes serviços:
 
@@ -170,9 +200,9 @@ b) De duas faces ... 15$00
 
 13) Termos de entrega de documentos juntos a processos, cuja restituição haja sido autorizada ... 55$00
 
-###### ARTIGO 2.ºFornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento, 20$00.
+ARTIGO 2.ºFornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento, 20$00.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Outras prestações de serviço ao público, quando não haja taxa especialmente prevista:
 

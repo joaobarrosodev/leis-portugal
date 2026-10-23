@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00700/0005200054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/2012/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2012-477158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80332d21ac0ae285f4f17818177a73440bce123c6a7cbd1b01231c188cc4fedb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf8551200e64196c639f7b4de2757435f172b1243c0b15ea505c5af9cb80abc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Inspeção Geral de Finanças
 - Consultoria
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Prestação de Serviços
 - Despesas Públicas
-- Administração Pública
-- Fiscalização
 - Documento Eletrónico
-- Parecer
+- Fiscalização
+- Inspeção Geral de Finanças
 - Ministro de Estado e das Finanças
-- Contratação Pública
+- Parecer
 relationships:
 - type: amended_by
   target: pt:dre:256469:por
@@ -124,16 +124,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/4-a/2011/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/4-a/2011/01/03/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671587:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256469:por
+  label: "Revogada, a partir de 18.01.2013, pela PORT.16/2013.17.01.2013.MF, DR.IS [12] de 17.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-2013-256469
+  date: '2013-01-17'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:28Z'
   warnings: []
   errors: []
 ---
@@ -216,4 +261,4 @@ A presente portaria aplica-se aos pareceres solicitados a partir de 1 de janeiro
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de dezembro de 2011.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de dezembro de 2011.

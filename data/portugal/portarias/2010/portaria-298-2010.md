@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/10600/0189101893.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/298/2010/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2010-332681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2358fa34834febae2643b549b597d54a4111070181234232607e8b2b7de5ecfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0420f56bc7259810f52fccf906071523d9a715e24708a189f68bdaf71d80bb80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituto do Emprego e Formação Profissional
 - Contrato
 - Desempregado
-- Gabinete de Inserção Profissional
-- Publicitação
-- Mercado de Emprego
 - Desemprego
 - Emprego
-- Promoção de Emprego
+- Financiamento
+- Gabinete de Inserção Profissional
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
 - Política de Emprego
+- Promoção de Emprego
+- Publicitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/127/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/127/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250220:por
+  label: Revogada pelo(a) Portaria n.º 140/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-2015-67250220
+  date: '2015-05-20'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:32Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +157,9 @@ k)...
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +169,9 @@ k)...
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Após aprovação da candidatura, o Instituto do Emprego e Formação Profissional, I. P., celebra com a entidade promotora um contrato de objectivos, de onde constam, designadamente:
 
@@ -170,7 +183,9 @@ c)...
 
 d) As obrigações a que se encontra vinculada a entidade promotora tendo em vista o cumprimento dos objectivos contratualizados, considerando os apoios que lhe sejam concedidos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -182,11 +197,15 @@ d) As obrigações a que se encontra vinculada a entidade promotora tendo em vis
 
 5 - Até 31 de Dezembro de cada ano, o Instituto do Emprego e Formação Profissional procede à elaboração de um relatório, que submete à consideração da tutela, do qual deve constar a avaliação do nível de execução contratual a que se refere o n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Ficam impedidas de se candidatar ao presente programa as entidades promotoras de GIP cuja autorização de funcionamento tenha sido revogada por incumprimento que lhes seja imputável.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O incumprimento por parte das entidades promotoras das obrigações inerentes aos objectivos contratualizados e à correcta aplicação dos apoios financeiros concedidos no âmbito do presente diploma, sem prejuízo da participação criminal por ilícito dessa natureza a que possa dar lugar, determina a imediata cessação de todo o tipo de apoios a que possam ter direito, constituindo igualmente a respectiva entidade promotora na obrigação de restituir o valor correspondente aos apoios financeiros entretanto concedidos.
 
@@ -214,4 +233,4 @@ Sem prejuízo do previsto no artigo anterior, o disposto na presente portaria ap
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Maio de 2010.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Maio de 2010.

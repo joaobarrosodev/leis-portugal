@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00100/0002100022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3/2025/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-2025-901693816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c2065b76bd16d173443dd6b6b6540e753b622dd306c6011d4032de2d56a5675
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b04b63cebdd89ab39bb560ba417ef83bb147bc6655975bc2525514d973a5a700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Publicidade
-- Vinho
-- Regulamentação de Atos Legislativos
 - Competitividade Empresarial
+- Financiamento
 - IFAP
-- Produto Vitivinícola
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Produto Vitivinícola
+- Publicidade
+- Regulamentação de Atos Legislativos
+- Vinho
 relationships:
+- type: amends
+  target: pt:numero:portaria:54-H/2023
+  label: Altera, a partir de 3 de janeiro de 2025, aplicando-se às candidaturas no âmbito do Concurso n.º 1/2025 e seguintes,
+    o artigo 16.º e adita o n.º 4 ao artigo 14.º e a alínea c) ao n.º 2 do referido artigo 16.º da Portaria n.º 54-H/2023,
+    de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -90,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-h/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-h/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942902:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:55Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +165,9 @@ São aditados um n.º 4 ao artigo 14.º e a alínea c) ao n.º 2 do artigo 16.º
 
 4 - A gestão orçamental é realizada, após decisão inicial das candidaturas, sem necessidade de alteração do PEPAC, conforme o disposto no artigo 101.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt).
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -168,4 +185,6 @@ c) Reduzam o montante aprovado na candidatura em mais de 20 %.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, e aplica-se às candidaturas no âmbito do Concurso n.º 1/2025 e seguintes.
 
-**O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 3 de dezembro de 2024.**
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 3 de dezembro de 2024.
+
+118515104

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02800/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46/2024/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-2024-840689105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 831f5f9b2abf7743567825ae6caed04296f324493e48e9cd75cd3f36ac3030b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f17b1de19e71140af72baec1592f5adcb946b96b99c2299f8a50259503e1579
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cunhagem de Moeda
 - Banco Central Europeu
+- Cunhagem de Moeda
 - Imprensa Nacional-Casa da Moeda
 - Moeda Comemorativa
 - Numismática
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+- type: cites
+  target: pt:dre:208087600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:27Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +164,16 @@ b) O diferencial entre os custos de produção e o valor facial da moeda designa
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 2 de fevereiro de 2024.**
+O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 2 de fevereiro de 2024.
 
 ## ANEXO — 50 anos do 25 de Abril
 
-![](https://files.diariodarepublica.pt/images/840689105/840691427.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840689105/840691427.png) |
+| --- |
 
 Equipa Olímpica Portugal
 
-![](https://files.diariodarepublica.pt/images/840689105/840691428.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840689105/840691428.png) |
+| --- |
+
+117327678

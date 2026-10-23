@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/00200/0002700031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2010/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2010-459962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 465f426760ecd6a27dfa7bf44eab16e7e76665bbeec02e5cf5f20e51105671a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9af717821360f0a74af78a0186242e120f4bf40a55e3ecb6aade85ac783245e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Vida Selvagem
-- Investigação Científica e Tecnológica
-- Proteção dos Animais
-- Convenção
-- Definição de Competências
-- Importação
-- Proteção do Ambiente
-- Espécie Protegida
-- Exportação
-- Proteção Fitossanitária
-- Instituto da Conservação da Natureza e da Biodiversidade
-- Produção Vegetal
-- Regulamento CE
 - Berna
 - Comércio
+- Convenção
+- Definição de Competências
+- Espécie Protegida
+- Exportação
+- Importação
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Investigação Científica e Tecnológica
+- Produção Animal
+- Produção Vegetal
+- Proteção do Ambiente
+- Proteção dos Animais
+- Proteção Fitossanitária
 - Registo Nacional Cites
+- Regulamento CE
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:108185253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108185253:por
+  label: Mantida transitoriamente em vigor pelo(a) Decreto-Lei n.º 121/2017 - Diário da República n.º 182/2017, Série I de
+    2017-09-20, nos termos do disposto no n.º 2 do seu art. 40.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2017-108185253
+  date: '2017-09-20'
 - type: cites
   target: celex:31997R0338
   label: null
@@ -97,16 +103,21 @@ relationships:
   target: celex:32006R0865
   label: null
   source: http://data.europa.eu/eli/reg/2006/865/oj
+- type: repealed_by
+  target: pt:dre:114913771:por
+  label: Revogada, a partir de 28.03.2018, pelo(a) Portaria n.º 85/2018 - Diário da República n.º 61/2018, Série I de 2018-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-2018-114913771
+  date: '2018-03-27'
 article_structure:
   article_count: 18
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:56Z'
   warnings: []
   errors: []
 ---
@@ -289,7 +300,7 @@ c) Taxidermistas e instituições científicas, no prazo de 30 dias a contar da 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 29 de Dezembro de 2009. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 26 de Novembro de 2009. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 26 de Novembro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 29 de Dezembro de 2009. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 26 de Novembro de 2009. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 26 de Novembro de 2009.
 
 ## ANEXO I — Menções obrigatórias das fichas de registo e dos averbamentos
 

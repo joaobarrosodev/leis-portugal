@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/08302/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/205-b/2025/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-b-2025-916582055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 348bc3f749a88ea34c3c66cf20a5a5887e9e77523f7b67fcb4a4a53b907085f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85c0ad74200e4690df8abbc20420352027025ebd29b7d69bcd4942b59ed0d26b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:24Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +132,7 @@ A orgânica da Secretaria-Geral do Governo, aprovada em anexo I ao [Decreto-Lei 
 
 Importa agora, no desenvolvimento da orgânica aprovada pelo [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, determinar a respetiva estrutura nuclear e as correspondentes competências das unidades orgânicas, assim como estabelecer o número máximo de unidades orgânicas flexíveis e de equipas multidisciplinares.
 
-Assim, ao abrigo dos n.<sup>os</sup>4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e do artigo 11.º da Orgânica da Secretaria-Geral do Governo, aprovada em anexo I ao [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Presidência, o seguinte:
+Assim, ao abrigo dos n.os4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e do artigo 11.º da Orgânica da Secretaria-Geral do Governo, aprovada em anexo I ao [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Presidência, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -496,4 +516,6 @@ e) Unidade de Apoio a Gabinetes Governamentais, com competências em assegurar a
 
 Em 30 de abril de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Presidência, António Leitão Amaro.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Presidência, António Leitão Amaro.
+
+119002246

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/311/2013/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5751f1891ba0b78e41cd5c47f58a7feb4dc3975d8c83dd86a1b9542bab860b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 034b90944bf658646ac6b9c9c177e9289585a932f96cd4904324e78c1a67bd27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pescador
-- Frota de Pesca
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
-- IFAP
-- Artes de Pesca
 - Armador
-- Regime de Apoio
-- Intervenção Operacional Pescas
-- Regulamento
+- Artes de Pesca
 - Embarcação de Pesca
+- Financiamento
+- Frota de Pesca
+- IFAP
+- Intervenção Operacional Pescas
+- Pesca
+- Pescador
+- Projeto de Investimento
+- Regime de Apoio
+- Regulamento
 - Subsídio não Reembolsável
 relationships:
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 12.º do Regulamento do Regime Específico de Apoio à Pequena Pesca Costeira aprovado pela Port 823/2010\
+    \ de 30-ago, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
   label: null
@@ -90,16 +96,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/823/2010/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/823/2010/08/30/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:43Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +146,9 @@ Assim, ao abrigo do disposto na alínea a) do nº 2 do artigo 3º do Decreto-Lei
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 O pagamento dos apoios é realizado pelo IFAP após apresentação, pelo promotor, nas DRAP, dos documentos comprovativos do pagamento das despesas em conformidade com formulários próprios e nos seguintes termos:
 
@@ -148,7 +160,9 @@ c) ...
 
 d) ...
 
-###### Artigo 16º — [...]
+Artigo 16º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a notificação da decisão de aprovação da candidatura.
 
@@ -168,7 +182,9 @@ b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o p
 
 7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 15º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 17º — [...]
+Artigo 17º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11º do Decreto-Lei nº 81/2008, de 16 de maio, quando aplicável, constituem obrigações dos beneficiários:
 
@@ -192,7 +208,9 @@ Correções financeiras
 
 2 - Uma ajuda ao investimento a bordo de uma embarcação, concedida ao abrigo do presente regime, será reembolsada pro rata temporis quando a embarcação em causa for cancelada no registo da frota de pesca da União Europeia, antes de decorridos cinco anos a contar da data da última fatura paga imputável ao projeto apoiado, salvo se o cancelamento resultar de motivo de força maior.
 
-###### Artigo 18-Aº — Alteração dos projetos aprovados
+Artigo 18-Aº
+
+Alteração dos projetos aprovados
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a concepção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, delas não podendo resultar o aumento do apoio público.»
 
@@ -202,4 +220,4 @@ Podem ser admitidas alterações técnicas, desde que se mantenha a concepção 
 
 2 - As alterações ao artigo 15º, ao artigo 16º, nºs 1, 3, 4 e 7, ao artigo 17º, nº 1, alínea c), e n.º 3, todos do Regulamento do Regime Específico de Apoio à Pequena Pesca Costeira, bem como os artigos 16º-A e 18º-A aditados ao mesmo regulamento, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.

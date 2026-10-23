@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01400/0001300052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2023/01/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b7f951d96e6cb1fb9f77e14b02322ea5f1d4aa7d0525c29e1b9138a9ea89499
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21dd6222889e767f01a156b5b244b24d641ec7f8b7d9ad55f4a20a6b63ab39ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Autarquia Local
+- Comércio
+- Contrapartida
+- Direção Regional de Economia e Transportes Terrestres
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Governo Regional
-- Contrapartida
-- Política Energética
 - Entidade Reguladora do Sector Eléctrico
-- Qualidade dos Serviços
-- Gestor
-- Licenciamento
-- Regulamento da Qualidade de Serviço do Sistema Eléctrico de Serviço Público
-- Proteção do Ambiente
 - Entidade Reguladora dos Serviços Energéticos
-- Regulamento Tarifário
+- Gestor
+- Governo Regional
+- Licenciamento
+- Madeira.região Autónoma
+- Política Energética
 - Política Social
 - Preço
-- Serviço Público
 - Prestação de Serviços
 - Produção de Energia Elétrica
-- Madeira.região Autónoma
+- Proteção do Ambiente
 - Proteção do Consumidor
+- Qualidade dos Serviços
 - Regulamento
+- Regulamento da Qualidade de Serviço do Sistema Eléctrico de Serviço Público
+- Regulamento Tarifário
 - Sanção
+- Serviço Público
+- Sistema de Qualificação de Empresas de Serviços Energéticos
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico Independente
-- Comércio
-- Autarquia Local
 - Utente
-- Direção Regional de Economia e Transportes Terrestres
-- Sistema de Qualificação de Empresas de Serviços Energéticos
 relationships:
 - type: cites
   target: celex:32019L0944
@@ -145,16 +145,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:125865392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58406974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75105959:por
+  label: null
+  source: null
 article_structure:
   article_count: 112
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:39Z'
   warnings: []
   errors: []
 ---
@@ -1611,10 +1683,12 @@ O presente decreto legislativo regional entra em vigor 180 dias após a data da 
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 12 de janeiro de 2023.**
+Assinado em 12 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116062043

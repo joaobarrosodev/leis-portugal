@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15803/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/188-h/2024/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-h-2024-884584114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 906cef85c2e19c9c3ab6a11a93362e17fdd5b57a8b9b45d9dfd5b8db26bfc643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3de28561519ae9a9ae2e2c7f68885371ee9832d977689a53fb1b99aec9263df2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Bailado
 - Colocação de Professores
 - Concurso
-- Regulamentação de Atos Legislativos
+- Ensino Artístico
 - Ensino Oficial
-- Recrutamento de Pessoal
 - Música
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2018/03/07/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/2023/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/2023/10/17/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:17Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +118,19 @@ Nos termos do disposto no artigo 28.º do Estatuto da Carreira dos Educadores de
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup>693/98, de 3 de setembro, e 192/2002, de 4 de março.
+A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os693/98, de 3 de setembro, e 192/2002, de 4 de março.
 
 ###### Artigo 2.º — Fixação das vagas para o concurso interno
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso interno no ano escolar de 2024/2025, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo I à presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portaria n.<sup>os</sup>693/98, de 3 de setembro, e 192/2002, de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portaria n.os693/98, de 3 de setembro, e 192/2002, de 4 de março.
 
 ###### Artigo 3.º — Fixação das vagas para o concurso externo
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso externo no ano escolar de 2024/2025, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo II à presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portaria n.<sup>os</sup>693/98, de 3 de setembro, e 192/2002, de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portaria n.os693/98, de 3 de setembro, e 192/2002, de 4 de março.
 
 ###### Artigo 4.º — Ingresso na carreira
 
@@ -136,15 +148,15 @@ Todas as vagas referidas no artigo 3.º consideram-se extintas quando vagarem.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 16 de agosto de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Manuel de Almeida Alexandre, em 13 de agosto de 2024.**
+O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento, em 16 de agosto de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Manuel de Almeida Alexandre, em 13 de agosto de 2024.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Concurso interno - Vagas para o ensino artístico especializado da música e da dança
 
-| Nome do estabelecimento de ensino | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas |
+| Nome do estabelecimento de ensino | Grupo de recrutamento/número de vagas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nome do estabelecimento de ensino | D01 - Dança clássica | D03 - Dança contemporânea | D06 - Música | M01 - Acordeão | M03 - Bandolim | M04 - Clarinete | M06 - Contrabaixo | M07 - Cravo | M08 - Fagote | M09 - Flauta transversal | M10 - Flauta de Bisel | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M30 - História da Música | M32 - Música de conjunto | M34 - Italiano | Total |
+| D01 - Dança clássica | D03 - Dança contemporânea | D06 - Música | M01 - Acordeão | M03 - Bandolim | M04 - Clarinete | M06 - Contrabaixo | M07 - Cravo | M08 - Fagote | M09 - Flauta transversal | M10 - Flauta de Bisel | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M30 - História da Música | M32 - Música de conjunto | M34 - Italiano | Total |  |
 | Agrupamento de Escolas de Bemposta, Portimão | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Agrupamento de Escolas de Vialonga, Vila Franca de Xira | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Agrupamento de Escolas Luís António Verney, Lisboa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -161,9 +173,9 @@ Concurso interno - Vagas para o ensino artístico especializado da música e da 
 
 Concurso externo - Vagas para o ensino artístico especializado da música e da dança
 
-| Nome do estabelecimento de ensino | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas | Grupo de recrutamento/número de vagas |
+| Nome do estabelecimento de ensino | Grupo de recrutamento/número de vagas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nome do estabelecimento de ensino | D01 - Dança clássica | D03 - Dança contemporânea | D06 - Música | M01 - Acordeão | M03 - Bandolim | M04 - Clarinete | M06 - Contrabaixo | M07 - Cravo | M08 - Fagote | M09 - Flauta transversal | M10 - Flauta de Bisel | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M30 - História da Música | M32 - Música de conjunto | M34 - Italiano | Total |
+| D01 - Dança clássica | D03 - Dança contemporânea | D06 - Música | M01 - Acordeão | M03 - Bandolim | M04 - Clarinete | M06 - Contrabaixo | M07 - Cravo | M08 - Fagote | M09 - Flauta transversal | M10 - Flauta de Bisel | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M30 - História da Música | M32 - Música de conjunto | M34 - Italiano | Total |  |
 | Agrupamento de Escolas n.º 2 de Abrantes | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 11 |
 | Agrupamento de Escolas de Bemposta, Portimão | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
 | Agrupamento de Escolas Amadeo de Souza Cardoso, Amarante | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
@@ -178,3 +190,5 @@ Concurso externo - Vagas para o ensino artístico especializado da música e da 
 | Escola Artística do Conservatório de Música Calouste Gulbenkian, Braga | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 14 |
 | Conservatório de Música de Loulé - Francisco Rosado | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 | Total | 7 | 3 | 1 | 3 | 1 | 4 | 8 | 3 | 4 | 7 | 1 | 8 | 3 | 2 | 7 | 15 | 4 | 5 | 3 | 4 | 2 | 6 | 17 | 7 | 2 | 11 | 1 | 1 | 3 | 1 | 144 |
+
+118031948

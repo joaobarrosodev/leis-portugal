@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/77/2012/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ee9998779da1b68dedb2aceada8be695050526ff7cde8215d7f4f217da4ee1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f89e57fe034c9e2b7bc3da86fe6cac55c22a64bc95e7a9f742d2c1cec61859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Banca
 - Caixa Central de Crédito Àgrícola Mútuo
 - Fundo de Garantia de Depósitos
 - Fundo de Garantia do Crédito Agrícola Mútuo
+- Instituição de Crédito
 - Pagamento
-- Banca
 - Sistema Integrado de Crédito Àgrícola Mútuo
 - Taxa
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:74699730:por
+  label: Alterados, com efeitos a 01.01.2016, os arts. 3.º e 4.º e aprovada, com efeitos à mesma data, a nova declaração de
+    modelo oficial n.º 26 e respetivas instruções em anexo à Port. 121/2011 de 30-mar, na redação da presente portaria, pelo(a)
+    Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-a-2016-74699730
+  date: '2016-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2009/06/16/p/dre
   label: null
@@ -104,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/2011/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/2011/03/30/p/dre
+- type: cites
+  target: pt:dre:223423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:24Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +181,9 @@ a) O passivo apurado e aprovado pelos sujeitos passivos deduzidos dos fundos pr�
 
 b)...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +203,7 @@ c) Os depósitos abrangidos pelo Fundo de Garantia de Depósitos e pelo Fundo de
 
 Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em 16 de março de 2012.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06100/0142501427.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06100/0142501427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06100/0142501427.pdf)
 
 Instruções de preenchimento
 

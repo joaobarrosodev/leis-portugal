@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2017/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2017-106572630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 527d8981884480ac973c58f7c8c9aa1616d2515b4c260d8f955864e9fd93238b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 253846cb8b40a27077c87889483b46185663b1f820d6937944b797e252f3488d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tráfico de Estupefacientes
-- Multa
+- Autoridade Regional das Atividades Económicas
+- Combate à Droga
 - Contra-ordenação
 - Definição de Competências
-- Combate à Droga
-- Saúde Pública
-- Fiscalização
-- Menoridade
 - Droga
-- Observatório Europeu da Droga e da Toxicodependência
+- Fiscalização
 - Madeira.região Autónoma
+- Menoridade
+- Multa
+- Observatório Europeu da Droga e da Toxicodependência
 - Receita
-- Autoridade Regional das Atividades Económicas
+- Saúde Pública
+- Tráfico de Estupefacientes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
@@ -120,16 +120,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75132645:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:14Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +240,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 4.º e 10.º do [Decreto Legislativo
 
 O presente diploma tem como objeto a definição do regime jurídico aplicável ao consumo e ao tráfico de substâncias psicoativas não especificadamente controladas ao abrigo de legislação própria.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Estão abrangidas as substâncias psicoativas coligidas das listas das novas substâncias publicadas pelo Observatório Europeu da Droga e da Toxicodependência (OEDT), constantes da lista do Anexo I.
 
@@ -190,7 +252,9 @@ O presente diploma tem como objeto a definição do regime jurídico aplicável 
 
 4 - Caso seja necessário, e com base nas listas das novas substâncias psicoativas do Observatório Europeu da Droga e da Toxicodependência (OEDT) deve o membro do Governo Regional competente na área da Saúde atualizar os Anexos I e II através de Portaria.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [Atual corpo do artigo]:
 
@@ -206,7 +270,9 @@ e) Quem sendo proprietário, gerente, diretor ou, por qualquer título, explorar
 
 2 - A proibição da alínea a) do n.º 1 do presente artigo compreende a venda ambulante, os métodos de venda ao domicílio e equiparada, os eventos de exposição e amostra de produtos, bem como a venda à distância de novas substâncias psicoativas, nomeadamente por catálogo ou em sítios na Internet.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +292,9 @@ c) [Anterior alínea e)];
 
 6 - Compete ainda à ARAE fixar as eventuais coimas e as sanções acessórias previstas no presente diploma, nos termos da sua respetiva lei orgânica.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As infrações previstas nas alíneas a), d) e e) do artigo 3.º e no n.º 1 do artigo 7.º do presente diploma constituem contraordenações puníveis, no caso das pessoas singulares, com coimas no valor mínimo de (euro) 750 e máximo legal previsto de (euro) 3700 e, no caso das pessoas coletivas, no valor mínimo de (euro) 5000 e máximo legal previsto de (euro) 44 000.
 
@@ -256,13 +324,17 @@ b) Ao núcleo de apoio a crianças e jovens em risco localizado no centro de sa�
 
 3 - Sempre que o menor estiver em perigo, nos termos do disposto no artigo 3.º da [Lei n.º 147/99](https://diariodarepublica.pt/dr/detalhe/lei/147-1999-581619), de 1 de setembro, alterada pelas [Leis n.os 31/2003](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), de 22 de agosto, e [142/2015](https://diariodarepublica.pt/dr/detalhe/lei/142-2015-70215246), de 8 de setembro, as entidades referidas no n.º 2 devem diligenciar para pôr termo ao perigo, pelos meios estritamente adequados e necessários e sempre com preservação da vida privada do menor e da sua família.
 
-###### Artigo 10.º- A — Admoestação
+Artigo 10.º- A
+
+Admoestação
 
 1 - A entidade competente para a decisão do processo contraordenacional pode limitar-se a proferir uma admoestação, nos casos em que seja reduzida a gravidade da infração e da culpa do agente.
 
 2 - A admoestação é proferida por escrito.
 
-###### Artigo 11.º-A — Sujeição a tratamento
+Artigo 11.º-A
+
+Sujeição a tratamento
 
 1 - Pode o consumidor aceitar sujeitar-se a tratamento, por sua iniciativa ou dos serviços de saúde, em serviço devidamente habilitado.
 
@@ -272,37 +344,45 @@ b) Ao núcleo de apoio a crianças e jovens em risco localizado no centro de sa�
 
 4 - A escolha pelo serviço privado determina os encargos por responsabilidade do consumidor.
 
-## ANEXO II
+ANEXO II
 
 Adaptação às novas substâncias psicoativas presentes no Anexo I do [Decreto Legislativo Regional n.º 28/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-192424), de 25 de outubro, adaptando-se os valores do mapa que se refere o n.º 9.º da [Portaria n.º 94/96](https://diariodarepublica.pt/dr/detalhe/portaria/94-1996-545980), de 26 de março, de acordo com os mecanismos de ação das novas substâncias psicoativas e ou dados de utilização humana referidos na literatura científica, elaborado por Félix Carvalho, professor catedrático da Faculdade de Farmácia do Porto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf)
 
-###### Artigo 4.º — Alteração de designação de entidades
+Artigo 4.º
+
+Alteração de designação de entidades
 
 A expressão «Inspeção Regional da Atividades Económicas (IRAE)» constante no [Decreto Legislativo Regional n.º 28/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-192424) de 25 de outubro, é substituída pela expressão «Autoridade Regional das Atividades Económicas (ARAE)» face à nova denominação operada pelo [Decreto Legislativo Regional n.º 35/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2016-75132645), de 11 de agosto, que aprova a orgânica da Autoridade Regional das Atividades Económicas.
 
-###### Artigo 5.º — Republicação
+Artigo 5.º
+
+Republicação
 
 1 - As alterações ao [Decreto Legislativo Regional n.º 28/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-192424), de 25 de outubro, que aprova normas para a proteção dos cidadãos e medidas para a redução da oferta de «drogas legais», introduzidas pelo presente decreto legislativo regional, serão inscritas no lugar próprio mediante as substituições, aditamentos e renumeração necessários.
 
 2 - As normas para a proteção dos cidadãos e medidas para a redução da oferta de «drogas legais», no seu novo texto, serão objeto de republicação.
 
-###### Artigo 6.º — Entrada em vigor
+Artigo 6.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de janeiro de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 17 de fevereiro de 2017.**
+Assinado em 17 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO DE REPUBLICAÇÃO — (A que se refere o artigo 5.º)
+ANEXO DE REPUBLICAÇÃO
+
+(A que se refere o artigo 5.º)
 
 Republicação do [Decreto Legislativo Regional n.º 28/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-192424), de 25 de outubro - Aprova normas para a proteção dos cidadãos e medidas para a redução da oferta de «drogas legais».
 
@@ -340,11 +420,15 @@ Assim:
 
 A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea q) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea j) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente diploma tem como objeto a definição do regime jurídico aplicável ao consumo e ao tráfico de substâncias psicoativas não especificadamente controladas ao abrigo de legislação própria.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - Estão abrangidas as substâncias psicoativas coligidas das listas das novas substâncias publicadas pelo Observatório Europeu da Droga e da Toxicodependência (OEDT), constantes da lista do Anexo I.
 
@@ -354,7 +438,9 @@ O presente diploma tem como objeto a definição do regime jurídico aplicável 
 
 4 - Caso seja necessário, e com base nas listas das novas substâncias psicoativas do Observatório Europeu da Droga e da Toxicodependência (OEDT) deve o membro do Governo Regional competente na área da Saúde atualizar os Anexos I e II através de Portaria.
 
-###### Artigo 3.º — Consumo
+Artigo 3.º
+
+Consumo
 
 1 - O consumo, a aquisição e a detenção para consumo próprio das substâncias psicoativas referidas no n.º 1 do artigo 2.º, por criança ou jovem menor de 18 anos, tem por consequência a notificação da ocorrência, sem prejuízo do disposto no artigo 11.º nos casos aplicáveis:
 
@@ -366,7 +452,9 @@ b) Ao núcleo de apoio a crianças e jovens em risco localizado no centro de sa�
 
 3 - Sempre que o menor estiver em perigo, nos termos do disposto no artigo 3.º da [Lei n.º 147/99](https://diariodarepublica.pt/dr/detalhe/lei/147-1999-581619), de 1 de setembro, alterada pelas [Leis n.os 31/2003](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), de 22 de agosto, e [142/2015](https://diariodarepublica.pt/dr/detalhe/lei/142-2015-70215246), de 8 de setembro, as entidades referidas no n.º 2 devem diligenciar para pôr termo ao perigo, pelos meios estritamente adequados e necessários e sempre com preservação da vida privada do menor e da sua família.
 
-###### Artigo 4.º — Infrator
+Artigo 4.º
+
+Infrator
 
 1 - Incorre na prática de uma contraordenação:
 
@@ -382,7 +470,9 @@ e) Quem sendo proprietário, gerente, diretor ou, por qualquer título, explorar
 
 2 - A proibição da alínea a) do n.º 1 do presente artigo compreende a venda ambulante, os métodos de venda ao domicílio e equiparada, os eventos de exposição e amostra de produtos, bem como a venda à distância de novas substâncias psicoativas, nomeadamente por catálogo ou em sítios na Internet.
 
-###### Artigo 5.º — Entidades competentes
+Artigo 5.º
+
+Entidades competentes
 
 1 - A Autoridade Regional das Atividades Económicas, doravante designada ARAE, é a entidade competente para fiscalizar e fazer cumprir o disposto no presente diploma, sem prejuízo das competências cometidas a outras entidades administrativas e policiais.
 
@@ -402,15 +492,21 @@ c) Proceder à instrução dos processos de contraordenação.
 
 6 - Compete ainda à ARAE fixar as eventuais coimas e as sanções acessórias previstas no presente diploma, nos termos da sua respetiva lei orgânica.
 
-###### Artigo 6.º — Ações de prevenção
+Artigo 6.º
+
+Ações de prevenção
 
 Os serviços governamentais competentes na área da educação e da prevenção da toxicodependência devem promover ações de prevenção e informação de forma concertada, por forma a abranger o máximo da população escolar e a comunidade em geral.
 
-###### Artigo 7.º — Controlo prévio
+Artigo 7.º
+
+Controlo prévio
 
 Em caso de suspeita da perigosidade de um produto para a saúde do indivíduo, deve ser retirado o produto para análise, bem como os equipamentos ou utensílios afetos ao uso específico do mesmo, pelo período necessário ao esclarecimento da situação.
 
-###### Artigo 8.º — Proibição de atividade e encerramento de espaços comerciais
+Artigo 8.º
+
+Proibição de atividade e encerramento de espaços comerciais
 
 1 - É proibida toda a atividade comercial associada à produção e comercialização das substâncias consideradas no n.º 1 do artigo 2.º do presente diploma.
 
@@ -418,13 +514,17 @@ Em caso de suspeita da perigosidade de um produto para a saúde do indivíduo, d
 
 3 - Caso o espaço inclua a produção ou a comercialização de outros produtos, não enquadráveis neste diploma, mantém-se em funcionamento, sem prejuízo de encerramento temporário por um período máximo de três meses, caso se comprove ser necessário para remover a ameaça.
 
-###### Artigo 9.º — Responsabilidade das pessoas coletivas ou equiparada
+Artigo 9.º
+
+Responsabilidade das pessoas coletivas ou equiparada
 
 1 - As coimas previstas no presente diploma aplicam-se tanto às pessoas singulares como às pessoas coletivas e associações sem personalidade jurídica.
 
 2 - As pessoas coletivas ou equiparadas serão responsáveis pelas contraordenações praticadas pelos seus órgãos no exercício das suas funções.
 
-###### Artigo 10.º — Determinação da medida da coima
+Artigo 10.º
+
+Determinação da medida da coima
 
 1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da localização do espaço onde se desenrola a atividade, do impacto no meio social envolvente, dos prejuízos provocados na saúde do indivíduo e do benefício económico que o infrator retirou da prática da contraordenação.
 
@@ -432,7 +532,9 @@ Em caso de suspeita da perigosidade de um produto para a saúde do indivíduo, d
 
 3 - Quando houver lugar à atenuação especial da punição por contraordenação, os limites máximo e mínimo da coima são reduzidos para metade.
 
-###### Artigo 11.º — Contraordenações
+Artigo 11.º
+
+Contraordenações
 
 1 - As infrações previstas nas alíneas a), d) e e) do artigo 4.º e no n.º 1 do artigo 8.º do presente diploma constituem contraordenações puníveis, no caso das pessoas singulares, com coimas no valor mínimo de (euro) 750 e máximo legal previsto de (euro) 3700 e, no caso das pessoas coletivas, no valor mínimo de (euro) 5000 e máximo legal previsto de (euro) 44 000.
 
@@ -444,13 +546,17 @@ Em caso de suspeita da perigosidade de um produto para a saúde do indivíduo, d
 
 5 - Quando o infrator for pessoa singular, pode o mesmo requerer, no prazo estabelecido para o pagamento da coima, que esta seja total ou parcialmente substituída por dias de trabalho a favor da comunidade, nos termos previstos no artigo 89.º-A do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na redação que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro.
 
-###### Artigo 12.º — Admoestação
+Artigo 12.º
+
+Admoestação
 
 1 - A entidade competente para a decisão do processo contraordenacional pode limitar-se a proferir uma admoestação, nos casos em que seja reduzida a gravidade da infração e da culpa do agente.
 
 2 - A admoestação é proferida por escrito.
 
-###### Artigo 13.º — Sanções acessórias
+Artigo 13.º
+
+Sanções acessórias
 
 1 - Cumulativamente com a coima prevista no artigo anterior e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -468,7 +574,9 @@ e) Suspensão de autorizações, licenças e alvarás.
 
 3 - O caráter definitivo ou o trânsito em julgado da decisão de perda determina a transferência dos bens cuja propriedade é transferida para a Região Autónoma da Madeira.
 
-###### Artigo 14.º — Sujeição a tratamento
+Artigo 14.º
+
+Sujeição a tratamento
 
 1 - Pode o consumidor aceitar sujeitar-se a tratamento, por sua iniciativa ou dos serviços de saúde, em serviço devidamente habilitado.
 
@@ -478,7 +586,9 @@ e) Suspensão de autorizações, licenças e alvarás.
 
 4 - A escolha pelo serviço privado determina os encargos por responsabilidade do consumidor.
 
-###### Artigo 15.º — Objetos pertencentes a terceiro
+Artigo 15.º
+
+Objetos pertencentes a terceiro
 
 A perda de objetos pertencentes a terceiro só pode ter lugar:
 
@@ -486,11 +596,15 @@ a) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilizaç�
 
 b) Quando os objetos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência.
 
-###### Artigo 16.º — Encargos nas unidades de saúde
+Artigo 16.º
+
+Encargos nas unidades de saúde
 
 O infrator assumirá também a responsabilidade pelos encargos decorrentes da assistência médica em unidades de saúde, sem prejuízo do direito a qualquer indemnização ou retribuição do consumidor das substâncias.
 
-###### Artigo 17.º — Receitas
+Artigo 17.º
+
+Receitas
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -500,11 +614,13 @@ b) 10% para o IASAÚDE IP-RAM, destinado a políticas de prevenção da toxicode
 
 c) 10% para o SESARAM, E. P. E., destinado ao tratamento da toxicodependência.
 
-###### Artigo 18.º — Entrada em vigor
+Artigo 18.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor cinco dias após a sua publicação.
 
-## ANEXO I
+ANEXO I
 
 Lista de substâncias psicoativas coligida das listas de novas substâncias psicoativas publicadas anualmente pelo Observatório Europeu da Droga e da Toxicodependência (OEDT) (2005-2010) e da lista de novas substâncias psicoativas reportadas nos anos de 2011 e 2012, fornecida pelo OEDT, traduzida para língua portuguesa pelo professor catedrático Félix Carvalho e pelo professor auxiliar Carlos Afonso, da Faculdade de Farmácia da Universidade do Porto.
 
@@ -1122,8 +1238,8 @@ Nimetazepam
 
 ODT (o-desmetiltramadol)
 
-## ANEXO II
+ANEXO II
 
 Adaptação às novas substâncias psicoativas presentes no Anexo I do [Decreto Legislativo Regional n.º 28/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-192424), de 25 de outubro, adaptando-se os valores do mapa a que se refere o n.º 9.º da [Portaria n.º 94/96](https://diariodarepublica.pt/dr/detalhe/portaria/94-1996-545980), de 26 de março, de acordo com os mecanismos de ação das novas substâncias psicoativas e ou dados de utilização humana referidos na literatura científica, elaborado por Félix Carvalho, professor catedrático da Faculdade de Farmácia do Porto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04800/0128301292.pdf)

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2013/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b98e1288fe109536d3e4b83d074551f3b472262365b39e008e21d047d66580c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 090d7f38fbab65315544d932886b75a67ba28b939826569614644b6396920ab8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,49 +69,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Programa de Desenvolvimento Rural
-- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
-- Distribuição de Energia Elétrica
-- Financiamento
-- Empresa
-- Turismo
-- Investigação Científica e Tecnológica
-- Silvicultura
-- Desenvolvimento Rural
+- Agricultura
+- Apoio ao Investimento
+- Aproveitamento Hidroagrícola
 - Contrato de Financiamento
+- Cooperação Agrícola
 - Cooperação Inter-regional
 - Cooperação Transfronteira
+- Criação de Emprego
 - Criação de Serviços
-- Recursos Hídricos
+- Desenvolvimento Económico
 - Desenvolvimento Regional
-- Mudança Tecnológica
+- Desenvolvimento Rural
+- Distribuição de Energia Elétrica
 - Electrificação Rural
+- Empresa
+- Exploração Agrícola
+- Exploração Florestal
 - Feader
-- Património Cultural
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
-- Pesca
-- Apoio ao Investimento
-- Projeto de Investimento
-- Pagamento
-- Aproveitamento Hidroagrícola
-- Informação Científica e Técnica
-- TIC
+- Financiamento
 - IFAP
+- Informação Científica e Técnica
+- Infraestrutura Turística
 - Investigação Agronómica
+- Investigação Científica e Tecnológica
 - Jovem Agricultor
 - JURO Bonificado
-- Criação de Emprego
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
-- Ordenamento Florestal
-- Exploração Agrícola
-- Desenvolvimento Económico
-- Cooperação Agrícola
-- Exploração Florestal
-- Regime de Apoio
 - Microempresa
+- Mudança Tecnológica
+- Ordenamento Florestal
+- Pagamento
+- Património Cultural
 - Pequenas e Médias Empresas
+- Pesca
+- PME
+- Proder
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
+- Recursos Hídricos
+- Regime de Apoio
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Regulamento de Aplicação da Acção 4.2.2-redes Tematicas de Informação e Divulgação
 - Regulamento de Aplicação da Acção 4.3.2-serviços de Apoio às Empresas
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
@@ -122,13 +120,15 @@ subjects:
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Regulamento de Aplicação da Medida N.º 3.6-implantação de Redes de Banda Larga de NOVA Geração em Zonas Rurais
+- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
 - Regulamento de Aplicação da Subacção N.º 2.2.3.1-componente Vegetal
 - Regulamento de Aplicação das Acções 3.4.1-cooperação Interterritorial e 3.4.2-cooperação Transnacional
-- Agricultura
-- PME
+- Silvicultura
 - Subsídio não Reembolsável
-- Regulamento de Aplicação da Medida N.º 3.6-implantação de Redes de Banda Larga de NOVA Geração em Zonas Rurais
-- Infraestrutura Turística
+- TIC
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1137-a/2008/10/09/p/dre
@@ -170,16 +170,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/964/2008/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/964/2008/08/28/p/dre
+- type: cites
+  target: pt:dre:198293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618169:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:24Z'
   warnings: []
   errors: []
 ---
@@ -308,7 +360,7 @@ O anexo II do Regulamento de Aplicação da Ação n.º 1.1.3, «Instalação de
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15100/0474104749.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15100/0474104749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15100/0474104749.pdf)
 
 Despesas não elegíveis
 
@@ -1080,4 +1132,4 @@ i) A alínea c) de «Outros investimentos materiais e imateriais», do ponto «D
 
 2- As disposições revogatórias constantes do artigo anterior produzem efeitos à data de entrada em vigor da Portaria n.º 814/2010, de 27 de agosto.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de julho de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de julho de 2013.

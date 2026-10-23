@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/959/2009/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/959-2009-488284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caffc0e14762ae850b9dad13aa063af5c99f663aeb0f30eb7ea72e6a93f358ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f83b314329297ce31a676a285d29bb32ea2e68bf6aea5274e3a3719da331c9d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caderno de Encargos
+- Código dos Contratos Públicos
 - Concurso Público
+- Contratação Pública
 - Contrato Administrativo
 - Documentação Administrativa
 - Empreitada de Obras Públicas
 - Obras Públicas
-- Código dos Contratos Públicos
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/104/2001/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/104/2001/02/21/p/dre
+- type: cites
+  target: pt:dre:240800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:18Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +161,7 @@ O formulário aprovado pela presente portaria é revisto no prazo máximo de um 
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 31 de Julho de 2009.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 31 de Julho de 2009.
 
 ## ANEXO — Formulário de caderno de encargos relativo a contratos de empreitadas de obras públicas
 
@@ -839,7 +855,7 @@ a) ... [enunciar actos ou matérias subtraídos aos poderes de representação d
 
 Cláusula 44.ª
 
-# Livro de registo da obra
+## Livro de registo da obra
 
 1 - O empreiteiro organiza um registo da obra, em livro adequado, com as folhas numeradas e rubricadas por si e pelo director de fiscalização da obra, contendo uma informação sistemática e de fácil consulta dos acontecimentos mais importantes relacionados com a execução dos trabalhos.
 

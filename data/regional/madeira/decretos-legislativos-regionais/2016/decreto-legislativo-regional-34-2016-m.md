@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15000/0268002682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/34/2016/08/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2016-75105959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a036c3fadfa8585e1a7d5ad83e814e3b3604f2c12b7c0a73e5dd50ce1400a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13848773cab34d5040ddb26841b6a3d05af2ea2657a36c02dbeaa8840d8c225c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Definição de Competências
 - Distribuição de Energia Elétrica
-- Financiamento
+- Domínio Público Municipal
+- Electrificação Rural
+- Empresa de Electricidade da Madeira
 - Energia Elétrica
+- Estrada Regional
+- Financiamento
 - Gestão Financeira
 - Governo Regional
-- Definição de Competências
-- Domínio Público Municipal
-- Empresa de Electricidade da Madeira
-- Electrificação Rural
-- Estrada Regional
 - Madeira.região Autónoma
 - Taxa
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
@@ -109,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: pt:dre:262075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:03Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +191,9 @@ São alterados os artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.�
 
 3 - Não integra o âmbito da atribuição transferida nos termos do n.º 1, sendo da responsabilidade do Governo Regional da Madeira, através da Secretaria Regional com a tutela da rede viária regional, a obrigação de prover e suportar os encargos inerentes à iluminação das estradas regionais concessionadas, salvo no caso de transferência, por via contratual, desses encargos para o respetivo concessionário, ou das estradas regionais que deixem de estar integradas no objeto de concessões de infraestruturas rodoviárias.
 
-###### Artigo 2.º — Contrapartida pela utilização de bens do domínio público municipal
+Artigo 2.º
+
+Contrapartida pela utilização de bens do domínio público municipal
 
 1 - Pela utilização dos bens do domínio público municipal, é devida pela EEM - Empresa de Eletricidade da Madeira, S. A. (EEM), no âmbito do desenvolvimento da atividade do transporte e distribuição de eletricidade, o pagamento de uma contrapartida anual a favor de cada município, ou conjunto de municípios agrupados nos termos da legislação em vigor, situados no território da Região Autónoma da Madeira.
 
@@ -173,7 +203,9 @@ São alterados os artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.�
 
 4 - A contrapartida anual referida nos números anteriores é integralmente repercutida na tarifa de uso das redes de distribuição em baixa tensão, nos termos previstos no artigo 44.º do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, e no artigo 1.º do [Decreto-Lei n.º 230/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2008-440570), de 27 de novembro, ambos na redação dada pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e no Regulamento Tarifário da Entidade Reguladora dos Serviços Energéticos (ERSE).
 
-###### Artigo 3.º — Âmbito de aplicação da contrapartida pela ocupação do domínio público municipal
+Artigo 3.º
+
+Âmbito de aplicação da contrapartida pela ocupação do domínio público municipal
 
 O pagamento da contrapartida anual prevista no artigo anterior isenta a EEM do pagamento, aos municípios, de quaisquer outras taxas, remunerações ou outros valores pela utilização do domínio público de qualquer natureza, na Região Autónoma da Madeira.»
 
@@ -187,11 +219,11 @@ O presente diploma produz os seus efeitos a 1 de janeiro de 2016.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de julho de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 26 de julho de 2016.**
+Assinado em 26 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

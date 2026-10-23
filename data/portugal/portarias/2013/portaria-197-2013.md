@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/197/2013/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/197-2013-513599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62216c1695b3a7714ebb430968df02f49e3e4132bb67e91c8b152b9d9686bdcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf609079753d115b73125e51d5479cd5df8fc411dccb731868e59a7c56f0078a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Arrendamento Rural
+- Baldio
+- Benefícios Fiscais
 - Bolsa Nacional de Terras
 - Cessão de Imóveis
-- Silvicultura
-- Direção Geral da Agricultura e Desenvolvimento Rural
 - Contrato
-- Arrendamento Rural
 - Contrato de Compra e Venda
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Exploração Agrícola
+- Exploração Florestal
 - Exploração Pecuária
 - Isenção Fiscal
-- Exploração Agrícola
 - Prédio Rústico
-- Exploração Florestal
-- Baldio
-- Agricultura
 - Regulamento de Gestão
-- Benefícios Fiscais
+- Silvicultura
 - Venda
 relationships:
+- type: amended_by
+  target: pt:dre:67191202:por
+  label: Prorrogado por mais um ano o período de suspensão do pagamento da taxa por custos de gestão a que se refere o art
+    2.º pelo(a) Portaria n.º 128/2015 - Diário da República n.º 91/2015, Série I de 2015-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-2015-67191202
+  date: '2015-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/2013/02/15/p/dre
   label: null
@@ -96,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:190577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258684:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:05Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +164,7 @@ A disponibilização de prédios ou de terrenos baldios, na bolsa de terras, par
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 24 de maio de 2013.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 24 de maio de 2013.
 
 ## ANEXO I — REGULAMENTO DE GESTÃO DA BOLSA NACIONAL DE TERRAS
 
@@ -714,4 +732,4 @@ Para efeito do disposto na Cláusula 4.4, o Segundo Contratante declara autoriza
 
 Em tudo o que não esteja especialmente previsto no presente Contrato, são aplicáveis as disposições da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, respetiva legislação e regulamentação complementar e da lei geral aplicável.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10200/0312603136.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10200/0312603136.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10200/0312603136.pdf)

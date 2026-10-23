@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/895/2010/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-2010-341612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49a3293fb4fb9eb28a47943117057c5d51aec3a7107cdcf2de089fd552d164b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 664e05cba18314ca138417a5f6f873fa112be143ea2af6ca09b246c5de64c8f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: cites
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/431/2006/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/431/2006/05/03/p/dre
+- type: cites
+  target: pt:dre:344969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660322:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:03Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +150,4 @@ Ao abrigo do disposto na alínea b) do n.º 1 do artigo 51.º do [Decreto-Lei n.
 
 Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 19 de Julho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 19 de Julho de 2010.

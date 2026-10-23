@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01400/0001200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/2023/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2023-206297248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c37aa34ba037e8e894510031008a64021e612b56716c576060026b008c99803
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee0e87f738e2a4fe391fa0fc2938637435446c157df9c9827b1ba941703c202d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
+- Autoridade Nacional de Emergência e Proteção Civil
 - Jogos de Fortuna e Azar
 - Ministério da Administração Interna
 - Regulamentação de Atos Legislativos
 - Secretaria Geral
-- Autoridade Nacional de Emergência e Proteção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
@@ -89,16 +89,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:115017488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:33Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +151,6 @@ c) Afetação do valor de 0,66 %, a que se refere a alínea c) do n.º 2 do arti
 
 A presente portaria produz efeitos a 1 de janeiro de 2023.
 
-**A Secretária de Estado da Administração Interna, Maria Isabel Solnado Porto Oneto, em 9 de janeiro de 2023.**
+A Secretária de Estado da Administração Interna, Maria Isabel Solnado Porto Oneto, em 9 de janeiro de 2023.
+
+116062562

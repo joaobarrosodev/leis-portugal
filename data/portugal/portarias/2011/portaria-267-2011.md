@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/267/2011/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-2011-671009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b506bf63c202835c2505cbeb7c1b968df37fff561a2f2bde6fd02a8f7887cfcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b558c870daf47281f0762561ab62fdc4d28742acbe284497eeab6c19563f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Administração do Ensino
 - Bailado
-- Plano de Estudos
 - Diploma
-- Horário Escolar
-- Ensino Secundário
-- Música
-- Estabelecimento de Ensino
+- Ensino Artístico
 - Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Horário Escolar
+- Música
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:179304:por
@@ -121,16 +121,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/691/2009/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/691/2009/06/25/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669549:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179304:por
+  label: "Revogada, a partir de 04.08.2012, a Port 691/2009, de 25-jun, na redação do presente diploma, pela PORT.225/2012.30.07.2012.MECI,\
+    \ DR.IS [146] de 30.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-2012-179304
+  date: '2012-07-30'
 article_structure:
-  article_count: 19
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:33Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +241,9 @@ c) A área curricular não disciplinar de formação cívica.
 
 4 - Os programas e orientações curriculares para as disciplinas que integram a componente de formação vocacional são homologados por despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os alunos que concluam com aproveitamento os cursos criados ao abrigo da presente portaria têm direito a um diploma e a um certificado, nos termos, respectivamente, dos modelos i e IA constantes no anexo i da Portaria n.º 199/2011, de 19 de Maio.
 
@@ -201,7 +273,7 @@ São revogados os artigos 4.º e 5.º, bem como o anexo n.º 10, da Portaria n.�
 
 2 - A revogação do anexo n.º 10 da Portaria n.º 691/2009, de 25 de Junho, produz efeitos na data da entrada em vigor da Portaria n.º 199/2011, de 19 de Maio.
 
-**A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 19 de Agosto de 2011.**
+A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 19 de Agosto de 2011.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -209,7 +281,7 @@ São revogados os artigos 4.º e 5.º, bem como o anexo n.º 10, da Portaria n.�
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -217,7 +289,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -225,7 +297,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -233,7 +305,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -241,7 +313,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -249,7 +321,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -467,7 +539,7 @@ l) O despacho n.º 10 288/2003, de 23 de Maio.
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -475,7 +547,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -483,7 +555,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -491,7 +563,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -499,7 +571,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -507,7 +579,7 @@ O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades ex
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 O trabalho a desenvolver pelos alunos integrará obrigatoriamente actividades experimentais e de pesquisa adequadas à natureza das diferentes áreas ou disciplinas.
 
@@ -569,10 +641,10 @@ Violoncelo.
 
 ## ANEXO N.º 8 — Tabela de disciplinas afins na área da dança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 ## ANEXO N.º 9 — Tabela de disciplinas afins na área da música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf))](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/09/17800/0447004484.pdf)
 
 ## ANEXO N.º 10 — (Revogado.)

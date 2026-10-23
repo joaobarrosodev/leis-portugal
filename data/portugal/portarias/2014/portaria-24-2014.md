@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2014/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2014-570727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 302507b30c372e77afb296cbb7122ea98a5c1cb68b3c5821cc49039fc7ced872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc1e2bab57ca12270e26c998f43fb51eee50cc34af3202f270c4cd6aca36937d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADM
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
 - ADSE
-- PSP
 - Associação de Farmácias de Portugal
 - Associação Nacional de Farmácias
 - Beneficiário
-- Farmácia
 - Centro de Conferência de Facturas
 - Código do IVA
 - Comissão de Acompanhamento
-- Infarmed
 - Comparticipação do Estado
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
-- Medicamento
-- Embalagem
-- GNR
-- Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
 - Droga
+- Embalagem
+- Farmácia
+- GNR
+- Infarmed
+- Medicamento
 - Página na Internet
 - Preço
 - Preço de Venda
 - Protecção na Doença
+- PSP
 - Receita Médica
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
 - Substância Estupefaciente ou Psicotrópica
 relationships:
 - type: amended_by
@@ -130,16 +130,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
+- type: cites
+  target: pt:dre:197495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69879390:por
+  label: Revogada, a partir de 01.08.2015, mantendo em vigor nos termos do art. 13.º, a presente Portaria, pelo(a) Portaria
+    n.º 223/2015 - Diário da República n.º 144/2015, Série I de 2015-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2015-69879390
+  date: '2015-07-27'
 article_structure:
-  article_count: 28
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:35Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +210,9 @@ Manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do disposto no 
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -186,7 +222,9 @@ Manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do disposto no 
 
 4 - São considerados os preços cuja vigência se iniciou desde o 1.º dia do 1.º mês do trimestre civil imediatamente anterior àquele em que ocorre a dispensa, nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º da [Portaria n.º 137-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/137-a-2012-668307), de 11 de maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -230,11 +268,15 @@ c) Nas receitas emitidas manualmente a beneficiários de subsistemas distintos d
 
 d) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O relacionamento entre as diferentes entidades, o qual contém os documentos eletrónicos referentes ao processo de conferência, é exclusivamente realizado através do portal eletrónico do Centro de Conferência de Faturas disponibilizado pela Administração Central do Sistema de Saúde, I. P.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -264,7 +306,9 @@ b) Por troca de ficheiros eletrónicos.
 
 7 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -348,7 +392,7 @@ São revogados o n.º 6 do artigo 4.º, o n.º 7 do artigo 7.º, o n.º 6 do art
 
 2 - A adaptação das farmácias ao previsto no n.º 7 do artigo 4.º, no artigo 6.º e na alínea b) do n.º 1 do artigo 7.º deverá ocorrer no prazo máximo de três meses a contar da data de entrada em vigor da presente portaria de acordo com regulamento a emitir pela ACSS, I. P.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 23 de janeiro de 2014.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 23 de janeiro de 2014.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
@@ -358,13 +402,17 @@ São revogados o n.º 6 do artigo 4.º, o n.º 7 do artigo 7.º, o n.º 6 do art
 
 Verso de Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
 
-## ANEXO II — (referido no artigo 4.º da portaria)
+ANEXO II
+
+(referido no artigo 4.º da portaria)
 
 Republicação da Portaria n.º 193/2011, de 13 de maio, com as alterações resultantes da presente portaria
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 1 - A presente portaria regula o procedimento de pagamento da comparticipação do Estado no preço de venda ao público (PVP) dos medicamentos dispensados a beneficiários do Serviço Nacional de Saúde (SNS) e de subsistemas públicos que sejam da responsabilidade do SNS, ou que beneficiem de comparticipação em regime de complementaridade, abreviadamente designado procedimento de pagamento da comparticipação do Estado.
 
@@ -372,7 +420,9 @@ Republicação da Portaria n.º 193/2011, de 13 de maio, com as alterações res
 
 3 - O procedimento da presente portaria pode ser adotado ao pagamento de comparticipações de outras prestações de saúde.
 
-###### Artigo 2.º — Prazo de validade das receitas
+Artigo 2.º
+
+Prazo de validade das receitas
 
 1 - Para efeitos do procedimento de pagamento da comparticipação do Estado, o prazo de validade das receitas médicas, nas quais sejam prescritos medicamentos comparticipados, é de 30 dias a contar, de forma contínua, da data da prescrição, sem prejuízo do disposto no número seguinte.
 
@@ -382,7 +432,9 @@ a) Medicamentos prescritos em receita médica renovável;
 
 b) Medicamentos esgotados, desde que este facto seja justificado, de forma expressa, na própria receita médica.
 
-###### Artigo 3.º — Modo de fornecimento
+Artigo 3.º
+
+Modo de fornecimento
 
 1 - Quando a receita médica não especifica a dimensão da embalagem do medicamento comparticipado, deve ser dispensada a embalagem de menor dimensão disponível no mercado.
 
@@ -392,7 +444,9 @@ b) Medicamentos esgotados, desde que este facto seja justificado, de forma expre
 
 4 - São considerados os preços cuja vigência se iniciou desde o 1.º dia do 1.º mês do trimestre civil imediatamente anterior àquele em que ocorre a dispensa, nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º da [Portaria n.º 137-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/137-a-2012-668307), de 11 de maio.
 
-###### Artigo 4.º — Ato de dispensa
+Artigo 4.º
+
+Ato de dispensa
 
 1 - Caso exista impresso ou documento impresso da receita, o utente entrega o respetivo documento, na farmácia, no ato da dispensa de medicamentos comparticipados.
 
@@ -436,7 +490,9 @@ c) Nas receitas emitidas manualmente a beneficiários de subsistemas distintos d
 
 d) Nas receitas manuais se da prescrição não constar o regime especial, o utente é comparticipado pelo regime geral.
 
-###### Artigo 5.º — Dispensa de medicamentos estupefacientes ou psicotrópicos
+Artigo 5.º
+
+Dispensa de medicamentos estupefacientes ou psicotrópicos
 
 1 - O farmacêutico ou o seu auxiliar legalmente habilitado, que avie uma receita que inclua medicamento contendo uma substância classificada como estupefaciente ou psicotrópica verifica a identidade do adquirente e anota no verso da receita materializada o nome, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão, ou, no caso de estrangeiros, do passaporte, indicando a data de entrega e assinando de forma legível, sendo ainda aplicável o disposto no n.º 6 do artigo 28.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de outubro.
 
@@ -446,11 +502,15 @@ d) Nas receitas manuais se da prescrição não constar o regime especial, o ute
 
 4 - As farmácias conservam em arquivo adequado, pelo período de três anos, uma reprodução em papel ou em suporte informático das receitas que incluam medicamentos estupefacientes ou psicotrópicos, ordenadas por data de aviamento.
 
-###### Artigo 6.º — Portal do Centro de Conferência de Faturas
+Artigo 6.º
+
+Portal do Centro de Conferência de Faturas
 
 O relacionamento entre as diferentes entidades, o qual contém os documentos eletrónicos referentes ao processo de conferência, é exclusivamente realizado através do portal eletrónico do Centro de Conferência de Faturas disponibilizado pela Administração Central do Sistema de Saúde, I. P..
 
-###### Artigo 7.º — Documentos
+Artigo 7.º
+
+Documentos
 
 1 - A farmácia, ou a entidade por ela designada, envia ao Centro de Conferência de Faturas da responsabilidade da ACSS, I. P., abreviadamente designado Centro de Conferência de Faturas, até ao dia 10 do mês seguinte ao do fornecimento, os seguintes documentos:
 
@@ -480,7 +540,9 @@ b) Por troca de ficheiros eletrónicos.
 
 7 - [Revogado].
 
-###### Artigo 8.º — Organização das receitas médicas
+Artigo 8.º
+
+Organização das receitas médicas
 
 1 - As receitas médicas são entregues, organizadas em lotes, de acordo com o disposto nos números seguintes.
 
@@ -570,7 +632,9 @@ iv) Importância total dos lotes a pagar pelo Estado.
 
 10 - Os modelos correspondentes aos verbetes de identificação dos lotes e às relações-resumo dos lotes podem ser substituídos por impressos produzidos informaticamente, desde que contenham os elementos referidos nos números anteriores e respeitem a ordem indicada, devendo, em qualquer dos casos, respeitar o formato normalizado A4.
 
-###### Artigo 9.º — Fatura mensal
+Artigo 9.º
+
+Fatura mensal
 
 1 - A fatura mensal contém as seguintes indicações:
 
@@ -610,7 +674,9 @@ o) Descritivo onde constará expressamente a menção: «Faturação das dispens
 
 4 - O modelo da fatura mensal de medicamentos pode ser substituído por impresso produzido informaticamente, desde que contenha os elementos referidos no n.º 1 e respeite a ordem indicada, bem como o formato normalizado A4.
 
-###### Artigo 10.º — Validação e contabilização da fatura mensal
+Artigo 10.º
+
+Validação e contabilização da fatura mensal
 
 1 - A validação da fatura mensal envolve:
 
@@ -648,7 +714,9 @@ d) Não serão enviadas às farmácias as receitas que, embora apresentem descon
 
 9 - As desconformidades nas receitas médicas devolvidas ou disponibilizadas por meios eletrónicos devem ser corrigidas no prazo máximo de 60 dias contados da devolução ou disponibilização.
 
-###### Artigo 11.º — Validação do receituário
+Artigo 11.º
+
+Validação do receituário
 
 1 - [Revogado].
 
@@ -664,7 +732,9 @@ c) Notas de crédito e notas de débito recebidas.
 
 4 - A ARS pode pedir elementos adicionais ao Centro de Conferência de Faturas ou à farmácia para efeitos de realização do pagamento.
 
-###### Artigo 12.º — Pagamento
+Artigo 12.º
+
+Pagamento
 
 1 - No dia 10 do mês seguinte ao do envio da fatura mensal, o Estado, através da ARS ou de terceiro, procede ao pagamento dos montantes indicados no número seguinte, mediante transferência para uma conta bancária indicada pela farmácia ou por entidade por esta designada.
 
@@ -672,19 +742,25 @@ c) Notas de crédito e notas de débito recebidas.
 
 3 - No dia referido no n.º 1, a ARS, ou a entidade por esta designada, informa a farmácia, sempre que possível por via eletrónica, do montante transferido, do valor da fatura, das eventuais retificações a crédito ou a débito, da data da transferência e do número de identificação bancária da conta bancária para onde esta foi efetuada.
 
-###### Artigo 13.º — Receituário sinistrado
+Artigo 13.º
+
+Receituário sinistrado
 
 1 - A liquidação de receituário sinistrado, quando tal situação ocorra nos armazéns ou dependências utilizadas pelo transportador, é garantida mediante a apresentação dos quadruplicados das relações-resumo de lotes e das faturas mensais arquivadas pelas farmácias.
 
 2 - Caso o receituário seja sinistrado durante a operação de transporte, o seu pagamento é garantido, de acordo com o procedimento referido no número anterior.
 
-###### Artigo 14.º — Instruções gerais
+Artigo 14.º
+
+Instruções gerais
 
 1 - A aplicação das regras da presente portaria pode ser objeto de instruções gerais a emitir pela ACSS, I. P.
 
 2 - A ACSS, I. P., pode, para efeitos do disposto no número anterior, solicitar parecer prévio ao INFARMED, I. P., às ARS e às associações representativas das farmácias.
 
-###### Artigo 14.º-A — Comissão de Acompanhamento
+Artigo 14.º-A
+
+Comissão de Acompanhamento
 
 1 - Para o acompanhamento de questões que se suscitem no âmbito do processo de faturação previsto na presente portaria, é criada uma Comissão com a seguinte constituição:
 
@@ -704,11 +780,15 @@ f) Um representante da Associação de Farmácias de Portugal.
 
 3 - A ACSS, I. P., assegura o apoio logístico e administrativo necessário ao funcionamento da Comissão.
 
-###### Artigo 15.º — Disposição transitória
+Artigo 15.º
+
+Disposição transitória
 
 Para efeitos de verificação dos requisitos das receitas médicas desde a entrada em funcionamento do Centro de Conferência de Faturas em 1 de março de 2010 até à entrada em vigor da presente portaria, aplicam-se as regras sobre o modo de fornecimento dos medicamentos, as regras necessárias à identificação do valor da comparticipação e organização do receituário e os requisitos de recusa de dispensa de medicamentos.
 
-###### Artigo 16.º — Norma revogatória
+Artigo 16.º
+
+Norma revogatória
 
 São revogadas:
 
@@ -716,30 +796,40 @@ a) A [Portaria n.º 3-B/2007](https://diariodarepublica.pt/dr/detalhe/portaria/3
 
 b) A Portaria n.º 90/2009, de 23 de janeiro.
 
-###### Artigo 17.º — Entrada em vigor
+Artigo 17.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no 1.º dia útil do 2.º mês seguinte ao da sua publicação.
 
-## ANEXO I — (a que se refere o artigo 4.º)
+ANEXO I
+
+(a que se refere o artigo 4.º)
 
 Verso de Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
 
-## ANEXO II — (a que se refere o n.º 2 do artigo 9.º)
+ANEXO II
+
+(a que se refere o n.º 2 do artigo 9.º)
 
 Fatura SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
 
-## ANEXO III — (a que se refere o n.º 4 do artigo 10.º)
+ANEXO III
+
+(a que se refere o n.º 4 do artigo 10.º)
 
 Nota de Débito/Crédito SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
 
-## ANEXO IV — (a que se refere o n.º 6 do artigo 10.º)
+ANEXO IV
+
+(a que se refere o n.º 6 do artigo 10.º)
 
 Formulário para reclamações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0089600904.pdf)

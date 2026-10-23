@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21800/0001600082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346/2023/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2023-224081975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2992c1a7542b3176d87e776562af2bbb90514c1c3b83ca8936f4286f75d0cf32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 758a3c7c358ebd70956c44f65bd406f58b2ac546d653633d9d31f9ff981358ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Regulamentação de Atos Legislativos
 - Homologação
 - Qualificação Profissional
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32006L0087
@@ -113,6 +113,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/39/2023/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/2023/05/30/p/dre
+- type: cites
+  target: pt:dre:213706995:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32017L2397
   label: null
@@ -124,13 +128,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:46Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +171,7 @@ A presente portaria aprova as normas de competência e os conhecimentos e aptid�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 26 de outubro de 2023. - O Ministro da Educação, João Miguel Marques da Costa, em 30 de outubro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 25 de outubro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 20 de outubro de 2023.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 26 de outubro de 2023. - O Ministro da Educação, João Miguel Marques da Costa, em 30 de outubro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 25 de outubro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 20 de outubro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -181,9 +185,9 @@ I - Normas de competência para o nível operacional
 
 Em particular, o marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Auxiliar nas operações de amarração, desamarração e arrasto (alagem). | 1 - Conhecimento dos equipamentos, materiais e procedimentos utilizados a bordo para as operações de amarração, desamarração e arrasto (alagem). |
 |  | 2 - Capacidade de utilizar o equipamento necessário a bordo, por exemplo, cabeços e guinchos para manobras de amarração e desamarração e de arrasto. |
 |  | 3 - Capacidade de utilizar materiais disponíveis a bordo, como cabos, tendo em conta as medidas de segurança relevantes, incluindo o uso de equipamento de proteção individual e de salvamento. |
@@ -191,16 +195,16 @@ Em particular, o marinheiro deve estar apto a:
 |  | 5 - Conhecimento dos efeitos dos movimentos da água em torno da embarcação e dos efeitos locais sobre as condições de navegação, incluindo os efeitos de caimento, água pouco profunda relacionada com o calado da embarcação. |
 |  | 6 - Conhecimento dos movimentos da água que afetam as embarcações durante as manobras, incluindo os efeitos de interação quando duas embarcações se cruzam ou ultrapassam em vias estreitas, e os efeitos de interação numa embarcação amarrada ao lado quando outra embarcação avança pela via e passa a uma curta distância. |
 | 2 - Auxiliar nas operações de acoplamento de combinações de empurradores/batelões. | 1 - Conhecimento dos equipamentos, materiais e procedimentos utilizados para as operações de acoplamento. |
-| 2 - Auxiliar nas operações de acoplamento de combinações de empurradores/batelões. | 2 - Capacidade de acoplar e desacoplar as combinações empurrador/batelão recorrendo ao equipamento e aos materiais necessários. |
+| 2 - Capacidade de acoplar e desacoplar as combinações empurrador/batelão recorrendo ao equipamento e aos materiais necessários. |  |
 |  | 3 - Conhecimento de regras de trabalho seguras, incluindo a utilização de equipamento de proteção individual e de salvamento. |
 |  | 4 - Capacidade para aplicar regras de trabalho seguras e para comunicar com os tripulantes envolvidos. |
 | 3 - Auxiliar nas operações de ancoragem | 1 - Conhecimento dos equipamentos, materiais e procedimentos de ancoragem nas diferentes circunstâncias. |
 |  | 2 - Capacidade de auxiliar nas manobras de ancoragem, por exemplo, preparar o equipamento de ancoragem para as operações de ancoragem, apresentar âncora, dar a devida folga ao cabo ou à amarra para poder virar, a fim de determinar a posição certa da âncora (rolamento de âncora), imobilizar as âncoras após conclusão da manobra de ancoragem, utilizar o arrasto das âncoras em várias manobras e manipular os sinais de âncora. |
 |  | 3 - Conhecimento de regras de trabalho seguras, incluindo a utilização de equipamento de proteção individual e de salvamento. |
 | 4 - Direcionar o veículo aquático de acordo com as ordens do leme, utilizando os dispositivos de governo corretamente. | 1 - Conhecimento das funções e tipos dos vários sistemas de propulsão e de governo. |
-| 4 - Direcionar o veículo aquático de acordo com as ordens do leme, utilizando os dispositivos de governo corretamente. | 2 - Capacidade de governar o veículo aquático com supervisão e de obedecer às ordens do leme. |
+| 2 - Capacidade de governar o veículo aquático com supervisão e de obedecer às ordens do leme. |  |
 | 5 - Governar a embarcação em conformidade com as ordens do leme, tendo em conta a influência do vento e da corrente. | 1 - Conhecimento da influência do vento e da corrente na navegação e nas manobras. |
-| 5 - Governar a embarcação em conformidade com as ordens do leme, tendo em conta a influência do vento e da corrente. | 2 - Capacidade de governar a embarcação com supervisão tendo em conta a influência do vento na navegação e nas manobras com ou sem correntes e com as características do vento. |
+| 2 - Capacidade de governar a embarcação com supervisão tendo em conta a influência do vento na navegação e nas manobras com ou sem correntes e com as características do vento. |  |
 | 6 - Utilizar as ajudas à navegação e os instrumentos sob supervisão. | 1 - Conhecimento das ajudas à navegação e dos instrumentos como o indicador do leme, o radar, o indicador da velocidade angular, o indicador de velocidade de navegação. |
 |  | 2 - Capacidade para utilizar as informações fornecidas pelas ajudas à navegação, tais como o sistema de iluminação e de balizagem e as cartas. |
 |  | 3 - Capacidade para utilizar os instrumentos de navegação como a bússola, o indicador da velocidade angular e o indicador de velocidade de navegação. |
@@ -212,7 +216,7 @@ Em particular, o marinheiro deve estar apto a:
 |  | 6 - Capacidade para realizar o trabalho de acordo com a lista de verificação relativa ao convés e ao alojamento, como, por exemplo, impermeabilização e proteção das escotilhas e porões. |
 |  | 7 - Capacidade para realizar o trabalho de acordo com a lista de verificação relativa à casa das máquinas; guardar e fixar objetos soltos, encher os tanques de serviço e verificar os respiradouros. |
 | 8 - Descrever as características das principais vias navegáveis interiores europeias, portos e terminais para a preparação e governo das viagens. | 1 - Conhecimento das mais importantes vias navegáveis interiores nacionais e internacionais. |
-| 8 - Descrever as características das principais vias navegáveis interiores europeias, portos e terminais para a preparação e governo das viagens. | 2 - Conhecimento dos principais portos e terminais localizados na rede europeia de transporte por navegação interior (IWT). |
+| 2 - Conhecimento dos principais portos e terminais localizados na rede europeia de transporte por navegação interior (IWT). |  |
 |  | 3 - Conhecimento da influência das estruturas de engenharia, perfis das vias navegáveis e obras de proteção na navegação. |
 |  | 4 - Conhecimento das características de classificação de rios, canais e vias navegáveis interiores de natureza marítima: profundidade vertical e horizontal, tipo de margens, proteção da margem, nível da água, movimento da água, altura livre sob pontes e largura livre e profundidade. |
 |  | 5 - Conhecimento das ajudas à navegação e dos instrumentos necessários para navegar nas vias navegáveis interiores de natureza marítima. |
@@ -234,27 +238,27 @@ Em particular, o marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Distinguir entre vários tipos de embarcações. | 1 - Conhecimento dos tipos mais comuns de embarcações, incluindo comboios utilizados no IWT europeu e respetiva construção, dimensões e tonelagens. |
 |  | 2 - Capacidade para explicar as características dos tipos mais comuns de embarcações, incluindo os comboios que navegam no IWT europeu. |
 | 2 - Aplicar o conhecimento da construção das embarcações para a navegação interior e do seu comportamento na água, especialmente em termos de estabilidade e solidez. | 1 - Conhecimento dos efeitos do movimento da embarcação em várias circunstâncias devidas a tensões longitudinais e transversais e a diferentes condições de carga. |
-| 2 - Aplicar o conhecimento da construção das embarcações para a navegação interior e do seu comportamento na água, especialmente em termos de estabilidade e solidez. | 2 - Capacidade para explicar o comportamento da embarcação em diferentes condições de carga, relativamente à sua estabilidade e solidez. |
+| 2 - Capacidade para explicar o comportamento da embarcação em diferentes condições de carga, relativamente à sua estabilidade e solidez. |  |
 | 3 - Aplicar o conhecimento da estrutura das embarcações e identificar as peças por nome e função. | 1 - Conhecimento dos elementos estruturais da embarcação no que respeita ao transporte de diferentes tipos de carga e de passageiros, incluindo a estrutura longitudinal e transversal e os reforços locais. |
 |  | 2 - Capacidade para nomear os elementos estruturais da embarcação e para descrever as suas funções. |
 | 4 - Aplicar os conhecimentos da integridade da estanquidade da embarcação. | 1 - Conhecimento da integridade da estanquidade das embarcações no âmbito do IWT. |
 |  | 2 - Capacidade de verificar a integridade da estanquidade. |
 | 5 - Aplicar o conhecimento da documentação requerida para o funcionamento da embarcação. | 1 - Conhecimento da documentação obrigatória da embarcação. |
-| 5 - Aplicar o conhecimento da documentação requerida para o funcionamento da embarcação. | 2 - Capacidade para explicar a sua importância em relação aos requisitos e à legislação (inter)nacionais. |
+| 2 - Capacidade para explicar a sua importância em relação aos requisitos e à legislação (inter)nacionais. |  |
 
 2.2 - O marinheiro deve estar apto a utilizar o equipamento da embarcação.
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Utilizar âncoras e manusear os molinetes | 1 - Conhecimento dos diferentes tipos de âncora e dos molinetes utilizados a bordo das embarcações. |
 |  | 2 - Capacidade para designar e reconhecer diferentes tipos de âncoras e molinetes utilizados a bordo das embarcações e explicar a sua utilização específica. |
 |  | 3 - Capacidade para manusear com segurança diferentes tipos de âncoras e molinetes em variadas situações e condições. |
@@ -271,9 +275,9 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Decifrar os planos de estiva e estabilidade. | 1 - Conhecimento do impacto dos tipos de carga nos planos de estiva e estabilidade. |
 |  | 2 - Conhecimento dos planos de estiva e estabilidade. |
 |  | 3 - Capacidade para compreender os planos de estiva. |
@@ -303,13 +307,13 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Respeitar os regulamentos e as convenções em matéria de transporte de passageiros. | 1 - Conhecimento dos regulamentos e das convenções aplicáveis em matéria de transporte de passageiros. |
-| 1 - Respeitar os regulamentos e as convenções em matéria de transporte de passageiros. | 2 - Capacidade para prestar assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, em conformidade com os requisitos de formação e instruções do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. |
+| 2 - Capacidade para prestar assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, em conformidade com os requisitos de formação e instruções do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. |  |
 | 2 - Auxiliar a movimentação segura dos passageiros durante o embarque e o desembarque. | 1 - Conhecimento dos procedimentos aplicáveis antes e durante o embarque e o desembarque dos passageiros. |
-| 2 - Auxiliar a movimentação segura dos passageiros durante o embarque e o desembarque. | 2 - Capacidade para posicionar e colocar o equipamento de embarque e desembarque e para aplicar as medidas de segurança. |
+| 2 - Capacidade para posicionar e colocar o equipamento de embarque e desembarque e para aplicar as medidas de segurança. |  |
 | 3 - Auxiliar na supervisão dos passageiros em situações de emergência. | 1 - Conhecimento do equipamento de salvação existente para situações de emergência, dos procedimentos a seguir em caso de derrame, incêndio, homem ao mar, evacuação incluindo crises e gestão de multidões, e de primeiros socorros a bordo da embarcação. |
 |  | 2 - Capacidade para prestar assistência em caso de derrame, incêndio, homem ao mar, abalroamento e evacuação incluindo crises e gestão de multidões, utilização de equipamento de salvamento em situações de emergência e primeiros socorros a bordo da embarcação. |
 | 4 - Comunicar eficazmente com os passageiros. | 1 - Conhecimento de expressões de comunicação normalizadas para evacuação dos passageiros em caso de emergência. |
@@ -321,11 +325,11 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Auxiliar na monitorização dos motores e do sistema de propulsão. | 1 - Conhecimento dos princípios do sistema de propulsão. |
-| 1 - Auxiliar na monitorização dos motores e do sistema de propulsão. | 2 - Conhecimento dos diferentes tipos de motores e respetiva construção, desempenho e terminologia. |
+| 2 - Conhecimento dos diferentes tipos de motores e respetiva construção, desempenho e terminologia. |  |
 |  | 3 - Conhecimento da função e funcionamento do fornecimento de ar, do fornecimento de combustível, do arrefecimento por lubrificação e do sistema de escape dos motores. |
 |  | 4 - Conhecimento dos principais motores e dos motores auxiliares. |
 |  | 5 - Capacidade para efetuar controlos de base e assegurar o funcionamento regular dos motores. |
@@ -342,13 +346,13 @@ O marinheiro deve estar apto a:
 |  | 3 - Capacidade para preparar e gerir paragens operacionais dos motores após funcionamento. |
 |  | 4 - Capacidade para operar os sistemas de esgoto das cavernas e de bombagem do lastro e da carga. |
 | 5 - Auxiliar na monitorização dos dispositivos eletrónicos e elétricos. | 1 - Conhecimento de sistemas e componentes eletrónicos e elétricos. |
-| 5 - Auxiliar na monitorização dos dispositivos eletrónicos e elétricos. | 2 - Conhecimento da corrente alternada e da corrente contínua. |
+| 2 - Conhecimento da corrente alternada e da corrente contínua. |  |
 |  | 3 - Capacidade de acompanhamento e avaliação dos instrumentos de comando. |
 |  | 4 - Conhecimento do magnetismo e da diferença entre ímanes naturais e artificiais. |
 |  | 5 - Conhecimento do sistema eletro-hidráulico. |
 | 6 - Preparar, arrancar, ligar e mudar de geradores e controlar os seus sistemas e o seu aprovisionamento em terra. | 1 - Conhecimento da instalação elétrica. |
-| 6 - Preparar, arrancar, ligar e mudar de geradores e controlar os seus sistemas e o seu aprovisionamento em terra. | 2 - Capacidade de utilizar o quadro de distribuição. |
-| 6 - Preparar, arrancar, ligar e mudar de geradores e controlar os seus sistemas e o seu aprovisionamento em terra. | 3 - Capacidade de utilização do abastecimento em terra. |
+| 2 - Capacidade de utilizar o quadro de distribuição. |  |
+| 3 - Capacidade de utilização do abastecimento em terra. |  |
 | 7 - Definir avarias e falhas comuns e descrever as ações para prevenir danos. | 1 - Conhecimento das avarias fora da casa das máquinas e dos procedimentos a seguir para evitar danos e caso surjam avarias. |
 |  | 2 - Capacidade para identificar falhas comuns e tomar medidas para evitar danos aos sistemas mecânico, elétrico, eletrónico, hidráulico e pneumático. |
 | 8 - Utilizar os instrumentos necessários para garantir a segurança técnica geral. | 1 - Conhecimento das características e limitações dos processos e materiais utilizados para a manutenção e reparação de motores e equipamentos. |
@@ -358,19 +362,19 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Executar as operações de manutenção diária dos motores principais, das máquinas auxiliares e dos sistemas de comando. | 1 - Conhecimento dos procedimentos a seguir para a manutenção e os cuidados adequados da casa das máquinas, do motor principal, das máquinas principais, do equipamento auxiliar e dos sistemas de comando. |
 |  | 2 - Capacidade de manutenção dos motores principais, do equipamento auxiliar e dos sistemas de comando. |
 | 2 - Executar o trabalho de manutenção diária das máquinas, incluindo as bombas, as redes de encanamentos e os sistemas de esgoto e de lastro. | 1 - Conhecimento dos procedimentos de manutenção diária. |
-| 2 - Executar o trabalho de manutenção diária das máquinas, incluindo as bombas, as redes de encanamentos e os sistemas de esgoto e de lastro. | 2 - Capacidade para manter e cuidar de bombas, das redes de encanamentos e dos sistemas de esgoto e sistemas de lastro. |
+| 2 - Capacidade para manter e cuidar de bombas, das redes de encanamentos e dos sistemas de esgoto e sistemas de lastro. |  |
 | 3 - Utilizar os instrumentos necessários para garantir a segurança técnica geral. | 1 - Conhecimento da utilização a bordo do material de manutenção e reparação do equipamento, incluindo as suas qualidades e limitações. |
 |  | 2 - Capacidade para escolher e utilizar material de manutenção e reparação do equipamento a bordo. |
 | 4 - Seguir procedimentos de manutenção e reparação. | 1 - Conhecimento dos manuais e instruções de manutenção e reparação. |
-| 4 - Seguir procedimentos de manutenção e reparação. | 2 - Capacidade para conduzir procedimentos de manutenção e reparação de acordo com os manuais e as instruções aplicáveis. |
+| 2 - Capacidade para conduzir procedimentos de manutenção e reparação de acordo com os manuais e as instruções aplicáveis. |  |
 | 5 - Utilizar informações técnicas e documentar procedimentos técnicos. | 1 - Conhecimento da documentação técnica e dos manuais. |
-| 5 - Utilizar informações técnicas e documentar procedimentos técnicos. | 2 - Capacidade para documentar o trabalho de manutenção. |
+| 2 - Capacidade para documentar o trabalho de manutenção. |  |
 
 5 - Manutenção e reparação
 
@@ -378,28 +382,28 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Trabalhar com diferentes tipos de materiais e instrumentos utilizados para operações de manutenção e reparação. | 1 - Conhecimento dos instrumentos necessários e manutenção do equipamento e das regras de segurança no trabalho e de proteção do ambiente. |
 |  | 2 - Capacidade para utilizar métodos relevantes de manutenção da embarcação, incluindo a capacidade de escolher diferentes materiais. |
 |  | 3 - Capacidade para manter e armazenar corretamente as ferramentas e o equipamento de manutenção. |
 |  | 4 - Capacidade para realizar trabalhos de manutenção em conformidade com as regras de segurança no trabalho e de proteção do ambiente. |
 | 2 - Proteger a saúde e o ambiente aquando da realização de trabalhos de manutenção e reparação. | 1 - Conhecimento dos procedimentos aplicáveis de limpeza e preservação e das regras de higiene. |
-| 2 - Proteger a saúde e o ambiente aquando da realização de trabalhos de manutenção e reparação. | 2 - Capacidade para limpar todos os espaços de alojamento, a casa do leme, e manter a embarcação limpa, em conformidade com as regras de higiene, fazendo com que todos assumam a responsabilidade pelo seu próprio espaço de alojamento. |
+| 2 - Capacidade para limpar todos os espaços de alojamento, a casa do leme, e manter a embarcação limpa, em conformidade com as regras de higiene, fazendo com que todos assumam a responsabilidade pelo seu próprio espaço de alojamento. |  |
 |  | 3 - Capacidade para limpar a casa das máquinas e os motores utilizando os materiais de limpeza necessários. |
 |  | 4 - Capacidade para limpar e preservar as partes exteriores, o casco e os conveses da embarcação na ordem correta, utilizando os materiais necessários de acordo com as normas de proteção do ambiente. |
 |  | 5 - Capacidade para a remoção dos resíduos da embarcação e da respetiva tripulação, em conformidade com as normas de proteção do ambiente. |
 | 3 - Manter os dispositivos técnicos de acordo com as instruções técnicas. | 1 - Conhecimento das instruções técnicas para a manutenção e os programas de manutenção. |
 |  | 2 - Capacidade para cuidar de todo o equipamento técnico de acordo com as instruções e para utilizar os programas de manutenção (incluindo digitais) sob supervisão. |
 | 4 - Manusear com segurança os cabos de fibra e de arame de aço. | 1 - Conhecimento das características dos diferentes tipos de cabos. |
-| 4 - Manusear com segurança os cabos de fibra e de arame de aço. | 2 - Capacidade para os utilizar e armazenar em conformidade com práticas e regras de trabalho seguras. |
+| 2 - Capacidade para os utilizar e armazenar em conformidade com práticas e regras de trabalho seguras. |  |
 | 5 - Fazer nós e junções de acordo com a sua utilização e mantê-los. | 1 - Conhecimento dos procedimentos a seguir para assegurar uma alagem segura e o acoplamento com os meios disponíveis a bordo. |
 |  | 2 - Capacidade de junção de cabos. |
 |  | 3 - Capacidade de aplicar nós de acordo com a sua utilização. |
 |  | 4 - Manter os cabos. |
 | 6 - Preparar e executar planos de trabalho enquanto membro de uma equipa e verificar os respetivos resultados. | 1 - Conhecimento dos princípios do trabalho de equipa. |
-| 6 - Preparar e executar planos de trabalho enquanto membro de uma equipa e verificar os respetivos resultados. | 2 - Capacidade para efetuar operações de manutenção e reparações simples de forma independente como parte da equipa. |
+| 2 - Capacidade para efetuar operações de manutenção e reparações simples de forma independente como parte da equipa. |  |
 |  | 3 - Capacidade para efetuar reparações mais complexas sob supervisão. |
 |  | 4 - Aplicar vários métodos de trabalho, incluindo o trabalho em equipa, de acordo com as instruções de segurança. |
 |  | 5 - Capacidade para avaliar a qualidade do trabalho. |
@@ -410,15 +414,15 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Utilizar os sistemas de informação e comunicação. | 1 - Conhecimento da instalação de um sistema de intercomunicação para a comunicação no interior da embarcação ou com o terminal, do telefone (móvel) da embarcação, do rádio, da TV (satélite) e das câmaras instaladas. |
 |  | 2 - Capacidade para utilizar o sistema de telefonia (móvel) da embarcação, o rádio, a TV (satélite) e o sistema de câmaras. |
 |  | 3 - Conhecimento dos princípios de funcionamento do sistema AIS-fluvial. |
 |  | 4 - Capacidade de utilização dos dados do AIS-fluvial para se dirigir a outras embarcações. |
 | 2 - Solucionar diferentes tarefas com a ajuda de diferentes tipos de dispositivos digitais, serviços de informação [como os serviços de informação fluvial (RIS)] e sistemas de comunicação. | 1 - Conhecimento dos dispositivos digitais disponíveis no transporte por navegação interior. |
-| 2 - Solucionar diferentes tarefas com a ajuda de diferentes tipos de dispositivos digitais, serviços de informação [como os serviços de informação fluvial (RIS)] e sistemas de comunicação. | 2 - Capacidade para utilizar os dispositivos digitais da embarcação de acordo com instruções para a realização de tarefas simples. |
+| 2 - Capacidade para utilizar os dispositivos digitais da embarcação de acordo com instruções para a realização de tarefas simples. |  |
 | 3 - Recolher e armazenar dados incluindo dados de segurança e atualização de dados. | 1 - Conhecimento do sistema de comunicação da embarcação para recolha, armazenamento e atualização de dados. |
 |  | 2 - Capacidade para tratar dados sob rigorosa supervisão. |
 | 4 - Seguir instruções para proteção dos dados. | 1 - Conhecimento da regulamentação em matéria de proteção dos dados e segredo profissional. |
@@ -426,28 +430,28 @@ O marinheiro deve estar apto a:
 | 5 - Apresentar os factos recorrendo aos termos técnicos. | 1 - Conhecimento dos termos técnicos e náuticos necessários, assim como dos termos relativos aos aspetos sociais no âmbito das expressões de comunicação normalizadas. |
 |  | 2 - Capacidade para utilizar os termos técnicos e náuticos necessários, assim como os termos relativos aos aspetos sociais no âmbito das expressões de comunicação normalizadas. |
 | 6 - Obter informações de natureza náutica e técnica a fim de manter a segurança da navegação. | 1 - Conhecimento das fontes de informação disponíveis. |
-| 6 - Obter informações de natureza náutica e técnica a fim de manter a segurança da navegação. | 2 - Capacidade de utilizar fontes de informação para obter as informações náuticas e técnicas necessárias para manter a segurança da navegação. |
+| 2 - Capacidade de utilizar fontes de informação para obter as informações náuticas e técnicas necessárias para manter a segurança da navegação. |  |
 
 6.2 - O marinheiro deve estar apto a ser sociável.
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Seguir instruções e comunicar com os outros em termos de funções a bordo. | 1 - Conhecimento da importância das ordens dadas pelo comando da embarcação, das instruções, regras e procedimentos formais e informais, e da importância de ser um exemplo para os tripulantes inexperientes. |
 |  | 2 - Capacidade para seguir as ordens dadas pelo comando da embarcação e outras instruções e regras, assim como acompanhar os tripulantes inexperientes. |
 |  | 3 - Conhecimento das regras da empresa ou a bordo. |
 |  | 4 - Capacidade de cumprir as regras da empresa ou a bordo. |
 | 2 - Contribuir para as boas relações sociais e cooperar com os demais a bordo. | 1 - Conhecimento da diversidade cultural. |
-| 2 - Contribuir para as boas relações sociais e cooperar com os demais a bordo. | 2 - Capacidade para aceitar diferentes modelos, valores e hábitos culturais. |
+| 2 - Capacidade para aceitar diferentes modelos, valores e hábitos culturais. |  |
 |  | 3 - Capacidade para trabalhar e viver em equipa. |
 |  | 4 - Capacidade para participar em reuniões de equipa e realizar as tarefas distribuídas. |
 |  | 5 - Conhecimento da importância do respeito pelo trabalho de equipa. |
 |  | 6 - Capacidade de respeitar as diferenças sexuais e culturais e de comunicar problemas conexos, incluindo assédio moral e assédio (sexual). |
 | 3 - Aceitar a responsabilidade social, as condições de trabalho, os direitos e as obrigações individuais; Reconhecer os perigos do consumo de álcool e de drogas e reagir adequadamente a uma conduta imprópria e aos perigos. | 1 - Capacidade para identificar uma conduta imprópria e os potenciais perigos. |
-| 3 - Aceitar a responsabilidade social, as condições de trabalho, os direitos e as obrigações individuais; Reconhecer os perigos do consumo de álcool e de drogas e reagir adequadamente a uma conduta imprópria e aos perigos. | 2 - Capacidade para reagir proativamente a uma conduta imprópria e aos potenciais perigos. |
-| 3 - Aceitar a responsabilidade social, as condições de trabalho, os direitos e as obrigações individuais; Reconhecer os perigos do consumo de álcool e de drogas e reagir adequadamente a uma conduta imprópria e aos perigos. | 3 - Capacidade para trabalhar de forma independente de acordo com instruções. |
+| 2 - Capacidade para reagir proativamente a uma conduta imprópria e aos potenciais perigos. |  |
+| 3 - Capacidade para trabalhar de forma independente de acordo com instruções. |  |
 |  | 4 - Conhecimento dos direitos e obrigações individuais dos trabalhadores. |
 |  | 5 - Conhecimento dos perigos do consumo de álcool e de drogas no ambiente laboral e social. (Consciência da existência de regulamentação policial em matéria de toxicologia.) |
 |  | 6 - Capacidade para identificar perigos para um funcionamento seguro da embarcação ligados ao álcool e drogas. |
@@ -460,12 +464,12 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Trabalhar de acordo com instruções e regras em matéria de segurança no trabalho e de prevenção de acidentes. | 1 - Conhecimento das vantagens de práticas de trabalho seguras. |
-| 1 - Trabalhar de acordo com instruções e regras em matéria de segurança no trabalho e de prevenção de acidentes. | 2 - Conhecimento da natureza dos perigos a bordo. |
-| 1 - Trabalhar de acordo com instruções e regras em matéria de segurança no trabalho e de prevenção de acidentes. | 3 - Capacidade para prevenir situações relacionadas com perigos a bordo, por exemplo: |
+| 2 - Conhecimento da natureza dos perigos a bordo. |  |
+| 3 - Capacidade para prevenir situações relacionadas com perigos a bordo, por exemplo: |  |
 |  | . Movimentos da embarcação; |
 |  | . Previsão do embarque e desembarque seguros da embarcação (por exemplo, rampa de portaló, baleeira); |
 |  | . Arrumar objetos móveis com segurança; |
@@ -489,14 +493,14 @@ O marinheiro deve estar apto a:
 |  | . Entrada e trabalho em espaços fechados. |
 |  | 7 - Capacidade para compreender ordens e para comunicar com os demais em relação a tarefas a bordo. |
 | 2 - Utilizar equipamento de proteção individual para prevenir acidentes. | 1 - Conhecimento de equipamento de proteção individual. |
-| 2 - Utilizar equipamento de proteção individual para prevenir acidentes. | 2 - Capacidade para utilizar equipamento de proteção individual, por exemplo: |
+| 2 - Capacidade para utilizar equipamento de proteção individual, por exemplo: |  |
 |  | . Proteção ocular; |
 |  | . Proteção respiratória; |
 |  | . Proteção auricular; |
 |  | . Proteção da cabeça; |
 |  | . Vestuário de proteção. |
 | 3 - Tomar as devidas precauções antes de entrar em espaços fechados. | 1 - Conhecimento dos perigos associados à entrada em espaços fechados. |
-| 3 - Tomar as devidas precauções antes de entrar em espaços fechados. | 2 - Conhecimento das precauções a tomar e dos testes ou medidas a efetuar para determinar se um espaço fechado foi securizado mesmo durante o trabalho. |
+| 2 - Conhecimento das precauções a tomar e dos testes ou medidas a efetuar para determinar se um espaço fechado foi securizado mesmo durante o trabalho. |  |
 |  | 3 - Capacidade de aplicar instruções de segurança antes de entrar em determinados espaços a bordo, por exemplo: |
 |  | . Porões; |
 |  | . Ensecadeiras; |
@@ -507,12 +511,12 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Atuar em caso de emergências de acordo com as instruções e os procedimentos aplicáveis. | 1 - Conhecimento de vários tipos de situações de emergência. |
-| 1 - Atuar em caso de emergências de acordo com as instruções e os procedimentos aplicáveis. | 2 - Conhecimento de rotinas para seguir em caso de alarme. |
-| 1 - Atuar em caso de emergências de acordo com as instruções e os procedimentos aplicáveis. | 3 - Conhecimento de procedimentos aplicáveis em caso de acidente. |
+| 2 - Conhecimento de rotinas para seguir em caso de alarme. |  |
+| 3 - Conhecimento de procedimentos aplicáveis em caso de acidente. |  |
 |  | 4 - Capacidade de agir de acordo com instruções e procedimentos. |
 | 2 - Prestar primeiros socorros... | 1 - Conhecimento dos princípios gerais dos primeiros socorros, incluindo avaliação da estrutura do corpo e das funções a bordo da embarcação após avaliação de uma situação. |
 |  | 2 - Capacidade para manter as condições físicas e mentais e a higiene pessoal no caso de primeiros socorros. |
@@ -534,7 +538,7 @@ O marinheiro deve estar apto a:
 |  | 4 - Conhecimento das funções da baleeira. |
 |  | 5 - Capacidade para preparar, lançar, navegar, recuperar e guardar a baleeira. |
 | 4 - Prestar assistência em caso de operações de salvamento e nadar. | 1 - Capacidade de socorrer e transportar um paciente. |
-| 4 - Prestar assistência em caso de operações de salvamento e nadar. | 2 - Capacidade de utilizar aptidões de natação para operações de salvamento. |
+| 2 - Capacidade de utilizar aptidões de natação para operações de salvamento. |  |
 | 5 - Utilizar vias de evacuação de emergência | Capacidade para manter as vias de evacuação livres (de acordo com a disposição a bordo). |
 | 6 - Utilizar sistemas de alarme e comunicação de emergência internos. | Capacidade de utilizar sistemas e equipamento de alarme e comunicação de emergência. |
 
@@ -542,9 +546,9 @@ O marinheiro deve estar apto a:
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Distinguir os elementos de incêndio e os tipos e fontes de ignição. | 1 - Conhecimento das possíveis causas do incêndio durante as diferentes atividades, assim como conhecimento da classificação dos incêndios de acordo com a norma europeia EN ou equivalente. |
 |  | 2 - Conhecimento dos elementos do processo de combustão. |
 |  | 3 - Capacidade para aplicar os princípios fundamentais do combate ao incêndio. |
@@ -553,17 +557,17 @@ O marinheiro deve estar apto a:
 |  | . A utilização de diferentes tipos de extintores portáteis; e |
 |  | . A influência do vento na aproximação ao fogo. |
 | 3 - Atuar de acordo com os procedimentos e a organização de combate a incêndios a bordo de navios. | 1 - Conhecimento dos sistemas de bordo para combater os incêndios. |
-| 3 - Atuar de acordo com os procedimentos e a organização de combate a incêndios a bordo de navios. | 2 - Capacidade para combater os incêndios e tomar as medidas de notificação adequadas. |
+| 2 - Capacidade para combater os incêndios e tomar as medidas de notificação adequadas. |  |
 | 4 - Seguir instruções sobre: equipamento individual, métodos, agentes extintores e procedimentos durante as operações de combate a incêndios e de salvamento. | 1 - Conhecimento dos procedimentos para evitar pôr-se em perigo. |
-| 4 - Seguir instruções sobre: equipamento individual, métodos, agentes extintores e procedimentos durante as operações de combate a incêndios e de salvamento. | 2 - Capacidade de agir de acordo com os procedimentos de emergência. |
+| 2 - Capacidade de agir de acordo com os procedimentos de emergência. |  |
 
 7.4 - O marinheiro deve estar apto a desempenhar as suas funções tendo em conta a importância da proteção do ambiente.
 
 O marinheiro deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Proteger o ambiente em conformidade com a regulamentação pertinente. | 1 - Conhecimento das regulamentações nacionais e internacionais sobre proteção do ambiente. |
 |  | 2 - Capacidade de utilizar a documentação disponível e os sistemas de informação sobre questões ambientais de acordo com instruções. |
 |  | 3 - Conhecimento das consequências de eventuais fugas, derrames ou libertação de poluentes para o ambiente. |
@@ -595,16 +599,16 @@ Ter obtido aprovação numa avaliação da competência efetuada por uma autorid
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Demonstrar as operações de amarração, desamarração e arrasto (alagem). | 1 - Conhecimento dos equipamentos, materiais e procedimentos utilizados para as operações de amarração, desamarração e arrasto (alagem). |
 |  | 2 - Capacidade de utilizar materiais disponíveis a bordo, como guinchos, cabeços de amarração, cabos de fibra e cabos de arame de aço, tendo em conta as medidas de segurança relevantes, incluindo o uso de equipamento de proteção individual e de salvamento. |
 |  | 3 - Capacidade de comunicação com a casa do leme por meio de sistemas de intercomunicação e de sinais manuais. |
 |  | 4 - Conhecimento dos efeitos dos movimentos da água em torno da embarcação e dos efeitos locais sobre as condições de navegação, incluindo os efeitos de caimento e de fundos baixos em relação ao calado da embarcação. |
 |  | 5 - Conhecimento dos movimentos da água que afetam as embarcações durante as manobras, incluindo os efeitos de interação quando duas embarcações se cruzam ou ultrapassam em vias estreitas, e os efeitos de interação numa embarcação amarrada ao lado quando outra embarcação avança pela via e passa a uma curta distância. |
 | 2 - Demonstrar as operações de acoplamento de combinações de empurradores/batelões. | 1 - Conhecimento dos equipamentos, materiais e procedimentos utilizados para as operações de acoplamento. |
-| 2 - Demonstrar as operações de acoplamento de combinações de empurradores/batelões. | 2 - Capacidade de acoplar e desacoplar as combinações empurrador/batelão recorrendo ao equipamento e aos materiais necessários. |
+| 2 - Capacidade de acoplar e desacoplar as combinações empurrador/batelão recorrendo ao equipamento e aos materiais necessários. |  |
 |  | 3 - Capacidade de utilizar equipamentos e materiais disponíveis a bordo para as operações de acoplamento, tendo em conta as medidas de segurança no trabalho relevantes, incluindo o uso de equipamento de proteção individual e de salvamento. |
 |  | 4 - Capacidade para comunicar com os tripulantes de convés envolvidos nas operações de acoplamento de combinações de empurrador/batelão. |
 | 3 - Demonstrar operações de ancoragem | 1 - Conhecimento dos equipamentos, materiais e procedimentos utilizados para as operações de ancoragem. |
@@ -624,22 +628,22 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Distinguir entre vários tipos de embarcações. | 1 - Conhecimento dos tipos mais comuns de embarcações, incluindo comboios utilizados no IWT europeu e respetiva construção, dimensões e tonelagens. |
 |  | 2 - Capacidade para explicar as características dos tipos mais comuns de embarcações, incluindo os comboios utilizados no IWT europeu. |
-| 2 - Aplicar o conhecimento da documentação requerida para o funcionamento da embarcação. | 1 - Conhecimento da documentação obrigatória da embarcação. 2 - Capacidade para explicar a importância da documentação em relação aos requisitos e à legislação internacionais e nacionais. |
+| 2 - Aplicar o conhecimento da documentação requerida para o funcionamento da embarcação. | 1 - Conhecimento da documentação obrigatória da embarcação.<br>2 - Capacidade para explicar a importância da documentação em relação aos requisitos e à legislação internacionais e nacionais. |
 
 0.3 - Movimentação e estiva da carga e transporte de passageiros
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Explicar os procedimentos de segurança do Acordo Europeu relativo ao Transporte Internacional de Mercadorias Perigosas por Via Navegável Interior (ADN), tanto em matéria de rotulagem como de transporte de passageiros. | 1 - Capacidade para explicar a rotulagem das mercadorias no âmbito do ADN. 2 - Capacidade para explicar os procedimentos de segurança do transporte de passageiros, incluindo a aplicação do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. 3 - Capacidade para comunicar eficazmente com os passageiros. |
-| 2 - Explicar e demonstrar a utilização do sistema de lastro. | 1 - Conhecimento da função e utilização do sistema de lastro. 2 - Capacidade para explicar a utilização do sistema de lastro, por exemplo pelo enchimento ou esvaziamento dos tanques de lastro. |
+|  |  |
+| 1 - Explicar os procedimentos de segurança do Acordo Europeu relativo ao Transporte Internacional de Mercadorias Perigosas por Via Navegável Interior (ADN), tanto em matéria de rotulagem como de transporte de passageiros. | 1 - Capacidade para explicar a rotulagem das mercadorias no âmbito do ADN.<br>2 - Capacidade para explicar os procedimentos de segurança do transporte de passageiros, incluindo a aplicação do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.<br>3 - Capacidade para comunicar eficazmente com os passageiros. |
+| 2 - Explicar e demonstrar a utilização do sistema de lastro. | 1 - Conhecimento da função e utilização do sistema de lastro.<br>2 - Capacidade para explicar a utilização do sistema de lastro, por exemplo pelo enchimento ou esvaziamento dos tanques de lastro. |
 | 3 - Verificar a quantidade de carga... | 1 - Conhecimento do método manual e técnico de determinação do peso da carga em vários tipos de embarcação. |
 |  | 2 - Capacidade para utilizar métodos de determinação da quantidade de carga carregada ou descarregada. |
 |  | 3 - Capacidade para calcular a quantidade de carga líquida utilizando as sondagens e/ou as tabelas dos tanques. |
@@ -648,9 +652,9 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Operar máquinas, incluindo bombas, redes de encanamentos, sistemas de esgoto e sistemas de lastro. | 1 - Conhecimento dos procedimentos a seguir para o funcionamento seguro das máquinas e do sistema de esgoto e de lastro, assim como para a correta remoção dos resíduos. |
 |  | 2 - Capacidade para operar e controlar as máquinas na casa das máquinas, seguindo os procedimentos aplicáveis. |
 |  | 3 - Capacidade para explicar a função, a operação e a manutenção seguras dos sistemas de esgoto e de lastro, incluindo: comunicação de incidentes relacionados com as operações de transferência e capacidade para medir corretamente e comunicar os níveis das cisternas. |
@@ -658,7 +662,7 @@ O comandante de embarcação deve estar apto a:
 |  | 5 - Capacidade para operar os sistemas de esgoto das cavernas e de bombagem do lastro e da carga. |
 |  | 6 - Capacidade para explicar a necessidade de recolher, armazenar e entregar os resíduos de forma correta e segura. |
 |  | 7 - Capacidade para utilizar os sistemas hidráulico e pneumático. |
-| 2 - Preparar, arrancar, ligar e mudar de geradores e controlar os seus sistemas e o seu aprovisionamento em terra. | 1 - Conhecimento da instalação elétrica. 2 - Capacidade de utilização do quadro de distribuição. 3 - Capacidade de utilização do abastecimento em terra. |
+| 2 - Preparar, arrancar, ligar e mudar de geradores e controlar os seus sistemas e o seu aprovisionamento em terra. | 1 - Conhecimento da instalação elétrica.<br>2 - Capacidade de utilização do quadro de distribuição.<br>3 - Capacidade de utilização do abastecimento em terra. |
 | 3 - Utilizar as ferramentas e os materiais necessários. | 1 - Conhecimento das características e limitações dos processos e materiais e ferramentas utilizados para a manutenção e reparação de motores e equipamentos. |
 |  | 2 - Capacidade para aplicar procedimentos de trabalho seguros. |
 | 4 - Executar as operações de manutenção diária dos motores principais, das máquinas auxiliares e dos sistemas de comando. | Capacidade para a manutenção e os cuidados adequados da casa das máquinas, do motor principal, das máquinas principais, do equipamento auxiliar e dos sistemas de comando. |
@@ -668,11 +672,11 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Proteger a saúde e o ambiente aquando da realização de trabalhos de manutenção e reparação. | 1 - Conhecimento dos procedimentos aplicáveis de limpeza e preservação e das regras de higiene. |
-| 1 - Proteger a saúde e o ambiente aquando da realização de trabalhos de manutenção e reparação. | 2 - Capacidade para limpar todos os espaços de alojamento, a casa do leme, e manter a embarcação limpa, em conformidade com as regras de higiene, fazendo com que todos assumam a responsabilidade pelo seu próprio espaço de alojamento. |
+| 2 - Capacidade para limpar todos os espaços de alojamento, a casa do leme, e manter a embarcação limpa, em conformidade com as regras de higiene, fazendo com que todos assumam a responsabilidade pelo seu próprio espaço de alojamento. |  |
 |  | 3 - Capacidade para limpar a casa das máquinas e os motores utilizando os materiais de limpeza necessários. |
 |  | 4 - Capacidade para limpar e preservar as partes exteriores, o casco e os conveses da embarcação na ordem correta, utilizando os materiais necessários de acordo com as normas ambientais. |
 |  | 5 - Capacidade para a remoção dos resíduos da embarcação e da respetiva tripulação, em conformidade com as normas ambientais. |
@@ -680,7 +684,7 @@ O comandante de embarcação deve estar apto a:
 |  | 2 - Capacidade para manter e cuidar de todo o equipamento técnico de acordo com as instruções técnicas. |
 |  | 3 - Capacidade para utilizar os programas de manutenção (incluindo digitais) sob supervisão. |
 | 3 - Manusear com segurança os cabos de fibra e de arame de aço. | 1 - Conhecimento das características dos diferentes tipos de cabos. |
-| 3 - Manusear com segurança os cabos de fibra e de arame de aço. | 2 - Capacidade para os utilizar e armazenar em conformidade com métodos e regras de trabalho seguros. |
+| 2 - Capacidade para os utilizar e armazenar em conformidade com métodos e regras de trabalho seguros. |  |
 | 4 - Fazer nós e junções de acordo com a sua utilização e mantê-los. | 1 - Conhecimento dos procedimentos a seguir para assegurar uma alagem segura e o acoplamento com os meios disponíveis a bordo. |
 |  | 2 - Capacidade de junção de cabos. |
 |  | 3 - Capacidade de aplicar nós de acordo com a sua utilização. |
@@ -690,9 +694,9 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Apresentar os factos recorrendo aos termos técnicos. | 1 - Conhecimento dos termos técnicos e náuticos necessários, assim como dos termos relativos aos aspetos sociais no âmbito das expressões de comunicação normalizadas. |
 |  | 2 - Capacidade para utilizar os termos técnicos e náuticos necessários, assim como os termos relativos aos aspetos sociais no âmbito das expressões de comunicação normalizadas. |
 
@@ -700,10 +704,10 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Aplicar regras em matéria de segurança no trabalho e prevenção de acidentes. | 1 - Conhecimento de métodos de trabalho seguros. 2 - Conhecimento da natureza dos perigos a bordo. |
+|  |  |
+| 1 - Aplicar regras em matéria de segurança no trabalho e prevenção de acidentes. | 1 - Conhecimento de métodos de trabalho seguros.<br>2 - Conhecimento da natureza dos perigos a bordo. |
 |  | 3 - Capacidade para prevenir situações relacionadas com perigos a bordo, por exemplo: |
 |  | . Movimentos da embarcação; |
 |  | . Previsão do embarque e desembarque seguros da embarcação (por exemplo, rampa de portaló, baleeira); |
@@ -739,7 +743,7 @@ O comandante de embarcação deve estar apto a:
 | 4 - Utilizar vias de evacuação de emergência | 1 - Conhecimento dos procedimentos a seguir numa situação de evacuação (de acordo com as características locais a bordo). |
 |  | 2 - Capacidade para manter as vias de evacuação livres. |
 | 5 - Utilizar sistemas de alarme e comunicação de emergência internos. | Capacidade de utilizar sistemas e equipamento de alarme e comunicação de emergência. |
-| 6 - Distinguir os elementos de um incêndio e os tipos e fontes de ignição. | 1 - Conhecimento das possíveis causas do incêndio durante as diferentes atividades, assim como classificação dos incêndios de acordo com a norma europeia EN ou equivalente. 2 - Conhecimento dos elementos do processo de combustão. 3 - Capacidade para aplicar os princípios fundamentais do combate ao incêndio. |
+| 6 - Distinguir os elementos de um incêndio e os tipos e fontes de ignição. | 1 - Conhecimento das possíveis causas do incêndio durante as diferentes atividades, assim como classificação dos incêndios de acordo com a norma europeia EN ou equivalente.<br>2 - Conhecimento dos elementos do processo de combustão.<br>3 - Capacidade para aplicar os princípios fundamentais do combate ao incêndio. |
 | 7 - Distinguir e utilizar diferentes tipos de extintores de incêndio. | 1 - Conhecimento das diferentes características e classes de extintores de incêndio. |
 |  | 2 - Capacidade de aplicar vários métodos de combate a incêndios e equipamento de extinção e as instalações fixas, por exemplo: |
 |  | . Classes de extintores de incêndio; |
@@ -764,11 +768,11 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Navegar nas vias navegáveis interiores europeias, incluindo eclusas e ascensores, de acordo com os acordos de navegação com agente. | 1 - Conhecimento das vias navegáveis nacionais e internacionais utilizadas pela navegação interior, a localização geográfica dos rios, canais, portos marítimos, portos interiores e a relação com os fluxos de carga. |
-| 1 - Navegar nas vias navegáveis interiores europeias, incluindo eclusas e ascensores, de acordo com os acordos de navegação com agente. | 2 - Conhecimento da classificação das vias navegáveis da Conferência dos Ministros Europeus dos Transportes e das dimensões da via navegável em relação às dimensões da embarcação recorrendo aos modernos sistemas de informação. |
+| 2 - Conhecimento da classificação das vias navegáveis da Conferência dos Ministros Europeus dos Transportes e das dimensões da via navegável em relação às dimensões da embarcação recorrendo aos modernos sistemas de informação. |  |
 |  | 3 - Capacidade para calcular com linha de água, profundidade e calado (aéreo) utilizando fontes de informação relevantes. |
 |  | 4 - Capacidade para calcular distâncias e tempo de navegação utilizando fontes de informação relativas a distâncias, eclusas, restrições e velocidade ou tempo de navegação. |
 |  | 5 - Conhecimento da responsabilidade civil e dos seguros. |
@@ -776,23 +780,23 @@ O comandante de embarcação deve estar apto a:
 | 2 - Respeitar e aplicar a regulamentação do tráfego aplicável à navegação nas vias navegáveis interiores a fim de evitar danos. | 1 - Conhecimento das regras da estrada, tais como o conjunto de regras acordadas aplicáveis à navegação interior da via navegável interior que estiver a ser navegada a fim de evitar danos (por exemplo, abalroamento). |
 |  | 2 - Capacidade de aplicar a regulamentação do tráfego pertinente à via navegável que estiver a ser navegada. |
 | 3 - Ter em conta os aspetos económicos e ecológicos do funcionamento da embarcação a fim de o utilizar de forma eficiente e respeitar o ambiente. | 1 - Conhecimento dos aspetos ambientais aquando da navegação das vias navegáveis interiores. |
-| 3 - Ter em conta os aspetos económicos e ecológicos do funcionamento da embarcação a fim de o utilizar de forma eficiente e respeitar o ambiente. | 2 - Capacidade para efetuar uma navegação ambientalmente sustentável e económica em relação, por exemplo, à eficiência dos combustíveis, ao abastecimento de combustível, aos níveis de emissão, aos efeitos de fundos baixos, à ligação à eletricidade em terra e à gestão dos resíduos. |
+| 2 - Capacidade para efetuar uma navegação ambientalmente sustentável e económica em relação, por exemplo, à eficiência dos combustíveis, ao abastecimento de combustível, aos níveis de emissão, aos efeitos de fundos baixos, à ligação à eletricidade em terra e à gestão dos resíduos. |  |
 | 4 - Ter em conta as estruturas e perfis técnicos das vias navegáveis e tomar precauções. | 1 - Conhecimento da influência das estruturas de engenharia, perfis das vias navegáveis e obras de proteção na navegação. |
 |  | 2 - Capacidade para navegar através de vários tipos de eclusas e procedimentos de eclusagem, vários tipos de pontes, perfis de canais e rios e utilizar «portos seguros» e portos para pernoitar. |
-| 5 - Trabalhar com cartas ou mapas atualizados, avisos à navegação e outras publicações. | 1 - Conhecimento das ajudas à navegação. 2 - Capacidade de utilizar as ajudas à navegação conforme o aplicável, por exemplo, sistema de posição por satélite. |
+| 5 - Trabalhar com cartas ou mapas atualizados, avisos à navegação e outras publicações. | 1 - Conhecimento das ajudas à navegação.<br>2 - Capacidade de utilizar as ajudas à navegação conforme o aplicável, por exemplo, sistema de posição por satélite. |
 |  | 3 - Capacidade para utilizar as cartas náuticas tendo em conta fatores relacionados com a precisão e com a leitura das cartas, como a data da carta, símbolos, sondagens, descrição do fundo, profundidades e dados (WGS84) e capacidade para utilizar normas internacionais aplicáveis às cartas, como o ECDIS-fluvial. |
 |  | 4 - Capacidade para utilizar publicações náuticas como os avisos à navegação, a fim de coligir as informações necessárias à segurança da navegação, determinando a altura da maré em qualquer momento, informações sobre o gelo, linha de água alta ou baixa, postos de amarração e lista de portos. |
-| 6 - Utilizar ferramentas de supervisão do tráfego pertinentes e ser capaz de as aplicar. | 1 - Conhecimento dos sinais. 2 - Capacidade de utilização de sinais diurnos e noturnos, como as luzes para orientar as embarcações. Conhecimento do AIS-fluvial, do ECDIS-fluvial, da comunicação eletrónica e dos avisos à navegação, dos RIS, dos sistemas de serviços de tráfego (VTS) vigiados e não vigiados e respetivos componentes. |
+| 6 - Utilizar ferramentas de supervisão do tráfego pertinentes e ser capaz de as aplicar. | 1 - Conhecimento dos sinais.<br>2 - Capacidade de utilização de sinais diurnos e noturnos, como as luzes para orientar as embarcações. Conhecimento do AIS-fluvial, do ECDIS-fluvial, da comunicação eletrónica e dos avisos à navegação, dos RIS, dos sistemas de serviços de tráfego (VTS) vigiados e não vigiados e respetivos componentes. |
 |  | 3 - Capacidade para utilizar ferramentas de informação de tráfego. |
 
 1.2 - O comandante de embarcação deve estar apto a aplicar o conhecimento das regras aplicáveis em matéria de preenchimento da tripulação da embarcação, incluindo os conhecimentos sobre os períodos de repouso e sobre a composição da tripulação de convés;
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Assegurar o preenchimento seguro da tripulação da embarcação em conformidade com as regras aplicáveis, incluindo o conhecimento dos períodos de repouso e da composição da tripulação de convés. | 1 - Conhecimento dos requisitos mínimos em matéria de tripulação e das qualificações profissionais obrigatórias dos tripulantes e do pessoal de bordo. 2 - Conhecimento dos requisitos de aptidão médica e das inspeções médicas dos tripulantes. |
+|  |  |
+| 1 - Assegurar o preenchimento seguro da tripulação da embarcação em conformidade com as regras aplicáveis, incluindo o conhecimento dos períodos de repouso e da composição da tripulação de convés. | 1 - Conhecimento dos requisitos mínimos em matéria de tripulação e das qualificações profissionais obrigatórias dos tripulantes e do pessoal de bordo.<br>2 - Conhecimento dos requisitos de aptidão médica e das inspeções médicas dos tripulantes. |
 |  | 3 - Conhecimento do procedimento administrativo para registar os dados nas cédulas. |
 |  | 4 - Conhecimento dos modos de exploração aplicáveis e dos períodos de repouso mínimos. |
 |  | 5 - Conhecimento do procedimento administrativo para registar os dados no diário de bordo. |
@@ -805,19 +809,19 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Navegar e manobrar tendo em conta as características geográficas, hidrológicas, meteorológicas e morfológicas das principais vias navegáveis interiores. | 1 - Conhecimento das características hidrológicas e morfológicas das principais vias navegáveis, por exemplo, área de captação e descarga do aquífero, tipos de rios por fonte de água, declividade e curso de um rio, velocidade de escoamento e padrão de correntes, intervenção humana no curso de um rio. |
 |  | 2 - Conhecimento dos efeitos meteorológicos nas principais vias navegáveis interiores, por exemplo, previsões meteorológicas e serviços de alarme, escala de Beaufort, divisão distrital em avisos de vento e tempestade com fatores tais como pressão atmosférica, vento, áreas de altas e baixas pressões, nuvens, nevoeiro, tipos e passagem de frentes, mensagens relativas ao gelo e comunicados de nível alto da água. |
 |  | 3 - Capacidade para aplicar informações geográficas, hidrológicas, meteorológicas e morfológicas. |
 | 2 - Emitir ordens de amarração e desamarração da embarcação e de encetar operações de alagem. | 1 - Conhecimento dos requisitos técnicos e dos documentos relativos às operações de amarração e de alagem. |
-| 2 - Emitir ordens de amarração e desamarração da embarcação e de encetar operações de alagem. | 2 - Capacidade de iniciar procedimentos de amarração e manobras de desamarração e de assegurar que o equipamento de diferentes tipos de embarcações cumpre os requisitos do respetivo certificado. |
+| 2 - Capacidade de iniciar procedimentos de amarração e manobras de desamarração e de assegurar que o equipamento de diferentes tipos de embarcações cumpre os requisitos do respetivo certificado. |  |
 |  | 3 - Capacidade de comunicação com o pessoal de convés, por exemplo, utilizando sistemas de comunicação e sinais manuais. |
 | 3 - Providenciar acesso seguro à embarcação. | 1 - Conhecimento dos requisitos técnicos aplicáveis às estruturas de acesso à embarcação. |
 |  | 2 - Capacidade para organizar um acesso seguro à embarcação, esteja este a navegar, amarrado ou ancorado, e para utilizar, por exemplo, a escada, a rampa de portaló, a baleeira, a proteção contra quedas e a iluminação. |
 | 4 - Utilizar ajudas à navegação eletrónicas modernas. | 1 - Conhecimento da função e funcionamento das ajudas à navegação. |
-| 4 - Utilizar ajudas à navegação eletrónicas modernas. | 2 - Conhecimento dos princípios de funcionamento, das limitações e fontes de erro das ajudas à navegação. |
+| 2 - Conhecimento dos princípios de funcionamento, das limitações e fontes de erro das ajudas à navegação. |  |
 |  | 3 - Capacidade para utilizar sensores e indicadores náuticos que fornecem informações de navegação, por exemplo, DGPS, posição, rumo, rota, velocidade, distância, profundidade, ECDIS-fluvial, radar. |
 |  | 4 - Capacidade para utilizar serviços e tecnologias de informação fluvial (RIS), por exemplo, AIS-fluvial, ECDIS-fluvial, comunicação eletrónica e avisos à navegação, serviços de informações do canal navegável (FIS), serviços de informação de tráfego (TIS), serviços de gestão do tráfego (TMS), serviços de prevenção de catástrofes (CAS), informações para a logística do transporte (ITL), informações para aplicação da lei (ILE), estatísticas (ST), taxas de circulação e portuárias (WCHD), distância, profundidade, também em ligação com radar. |
 |  | 5 - Capacidade para detetar declarações falsas de informação e aplicar métodos de correção. |
@@ -829,25 +833,25 @@ O comandante de embarcação deve estar apto a:
 |  | 4 - Capacidade de respeitar os efeitos de interação na navegação, manobras ou embarcação amarrada numa via navegável estreita e de reconhecer os efeitos de interação relativos a uma embarcação sem carga ou com carga. |
 |  | 5 - Conhecimento do efeito de manipulação da carga e das condições de estiva durante a navegação, manobras ou embarcação relativamente à estabilidade. |
 |  | 6 - Capacidade para ter em conta o caimento, o ângulo de adornamento, de alagamento, o princípio da alavanca, os pontos de gravidade. |
-| 7 - Utilização dos sistemas de propulsão e de manobra, assim como dos sistemas de comunicação e de alarme apropriados. | 1 - Conhecimento dos sistemas de propulsão, governo e manobra e sua influência na manobrabilidade. 2 - Capacidade para utilizar os sistemas de propulsão, governo e manobra. |
+| 7 - Utilização dos sistemas de propulsão e de manobra, assim como dos sistemas de comunicação e de alarme apropriados. | 1 - Conhecimento dos sistemas de propulsão, governo e manobra e sua influência na manobrabilidade.<br>2 - Capacidade para utilizar os sistemas de propulsão, governo e manobra. |
 |  | 3 - Conhecimento dos dispositivos de ancoragem. |
 |  | 4 - Capacidade de utilizar a âncora em diferentes circunstâncias. |
 |  | 5 - Conhecimento dos sistemas de comunicação e alarme. |
 |  | 6 - Capacidade para dar instruções se necessário em caso de alarme. |
-| 8 - Navegar e manobrar também em situações caracterizadas por uma densidade de tráfego elevada ou em que outras embarcações transportem mercadorias perigosas, requerendo conhecimento básico do ADN. | 1 - Conhecimento básico da estrutura do ADN, da sua documentação e instruções e dos sinais visuais exigidos pelo ADN. 2 - Capacidade para encontrar instruções no ADN e para identificar os sinais visuais para as embarcações sujeitas ao ADN. |
+| 8 - Navegar e manobrar também em situações caracterizadas por uma densidade de tráfego elevada ou em que outras embarcações transportem mercadorias perigosas, requerendo conhecimento básico do ADN. | 1 - Conhecimento básico da estrutura do ADN, da sua documentação e instruções e dos sinais visuais exigidos pelo ADN.<br>2 - Capacidade para encontrar instruções no ADN e para identificar os sinais visuais para as embarcações sujeitas ao ADN. |
 
 1.4 - O comandante de embarcação deve estar apto a reagir às situações náuticas de emergência nas vias navegáveis interiores.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Tomar precauções numa emergência sempre que sujeita intencionalmente uma embarcação ao desmantelamento em «varadouro» para impedir danos mais graves. | 1 - Conhecimento de zonas de fundos baixos e de bancos de caráter arenoso que podem ser utilizados para encalhar a embarcação. 2 - Capacidade para utilizar máquinas ou dispositivos de ancoragem caso o desmantelamento em «varadouro» se torne necessário. |
+|  |  |
+| 1 - Tomar precauções numa emergência sempre que sujeita intencionalmente uma embarcação ao desmantelamento em «varadouro» para impedir danos mais graves. | 1 - Conhecimento de zonas de fundos baixos e de bancos de caráter arenoso que podem ser utilizados para encalhar a embarcação.<br>2 - Capacidade para utilizar máquinas ou dispositivos de ancoragem caso o desmantelamento em «varadouro» se torne necessário. |
 | 2 - Pôr uma embarcação encalhada a flutuar, com e sem auxílio. | 1 - Conhecimento das medidas a tomar em caso de encalhe, incluindo a selagem de fugas e as ações a empreender para redirecionar a embarcação para o canal navegável. |
 |  | 2 - Capacidade para selar fugas, para redirecionar a embarcação com o auxílio de outras embarcações, por exemplo, rebocadores ou empurradores. |
-| 3 - Tomar as medidas adequadas em caso de abalroamento iminente. | 1 - Conhecimento das regras aplicáveis em caso de abalroamento ou acidente iminentes. 2 - Capacidade para conduzir a embarcação quando perante a iminência de um abalroamento inevitável de forma a minimizar os danos para as pessoas, por exemplo, passageiros e tripulantes, assim como para as embarcações envolvidas, a carga e o ambiente. |
-| 4 - Tomar as medidas adequadas após o abalroamento e proceder à avaliação dos danos. | 1 - Conhecimento das regras aplicáveis após um abalroamento ou acidente. 2 - Capacidade para tomar as medidas adequadas em caso de danos, abalroamento e encalhe, incluindo a avaliação dos danos, a comunicação com a autoridade competente e a obtenção da autorização para prosseguir para uma posição de recuperação. |
+| 3 - Tomar as medidas adequadas em caso de abalroamento iminente. | 1 - Conhecimento das regras aplicáveis em caso de abalroamento ou acidente iminentes.<br>2 - Capacidade para conduzir a embarcação quando perante a iminência de um abalroamento inevitável de forma a minimizar os danos para as pessoas, por exemplo, passageiros e tripulantes, assim como para as embarcações envolvidas, a carga e o ambiente. |
+| 4 - Tomar as medidas adequadas após o abalroamento e proceder à avaliação dos danos. | 1 - Conhecimento das regras aplicáveis após um abalroamento ou acidente.<br>2 - Capacidade para tomar as medidas adequadas em caso de danos, abalroamento e encalhe, incluindo a avaliação dos danos, a comunicação com a autoridade competente e a obtenção da autorização para prosseguir para uma posição de recuperação. |
 
 2 - Funcionamento da embarcação
 
@@ -855,7 +859,7 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Respeitar os princípios utilizados nas vias navegáveis interiores. | 1 - Conhecimento da importância e do impacto das dimensões da embarcação e das dimensões da via navegável de acordo com as regras aplicáveis. |
@@ -869,17 +873,17 @@ O comandante de embarcação deve estar apto a:
 |  | 3 - Conhecimento da estrutura longitudinal e transversal e dos reforços locais a fim de prevenir e analisar os danos. |
 |  | 4 - Capacidade para compreender e controlar as funções do equipamento e a utilização dos diferentes porões e compartimentos, a fim de prevenir e de analisar os danos. |
 | 4 - Tomar medidas para proteger a integridade da estanquidade da embarcação. | 1 - Conhecimento da estanquidade da embarcação. |
-| 4 - Tomar medidas para proteger a integridade da estanquidade da embarcação. | 2 - Capacidade para supervisionar a integridade da estanquidade da embarcação e para dar instruções nesse sentido. |
+| 2 - Capacidade para supervisionar a integridade da estanquidade da embarcação e para dar instruções nesse sentido. |  |
 
 2.2 - O comandante de embarcação deve estar apto a controlar e monitorizar o equipamento obrigatório referido no certificado de embarcação aplicável.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Compreender as funcionalidades do equipamento da embarcação. | 1 - Conhecimento do equipamento obrigatório da embarcação. |
-| 1 - Compreender as funcionalidades do equipamento da embarcação. | 2 - Capacidade para utilizar e controlar todos os equipamentos relativamente às respetivas funcionalidades de acordo com a legislação aplicável e para dar instruções e supervisionar em conformidade. |
+| 2 - Capacidade para utilizar e controlar todos os equipamentos relativamente às respetivas funcionalidades de acordo com a legislação aplicável e para dar instruções e supervisionar em conformidade. |  |
 | 2 - Respeitar as prescrições específicas de transporte de carga e de passageiros. | 1 - Conhecimento das prescrições específicas relativas à construção da embarcação e ao equipamento necessário para o transporte de diferentes cargas e passageiros com diferentes tipos de embarcações de acordo com a legislação aplicável. |
 |  | 2 - Capacidade para dar instruções e supervisionar em conformidade. |
 |  | 3 - Capacidade para dar instruções e supervisionar a aplicação correta dos requisitos do certificado. |
@@ -890,57 +894,57 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Compreender a regulamentação pertinente a nível nacional, europeu e internacional, assim como os códigos e normas em matéria de operação de transporte de carga. | 1 - Conhecimento da regulamentação nacional, europeia e internacional em matéria de operações de carga, descarga e operações de transporte. |
-| 1 - Compreender a regulamentação pertinente a nível nacional, europeu e internacional, assim como os códigos e normas em matéria de operação de transporte de carga. | 2 - Aplicar as regras e as normas pertinentes em matéria de logística e de transporte multimodal. |
+| 2 - Aplicar as regras e as normas pertinentes em matéria de logística e de transporte multimodal. |  |
 | 2 - Formular planos de estiva, incluindo o conhecimento das técnicas de carga e dos sistemas de lastro, por forma a manter a tensão a que o casco é submetido dentro dos limites aceitáveis. | 1 - Conhecimento das limitações operacionais e de projeto das embarcações para transporte de carga seca (por exemplo, porta-contentores) e dos navios-tanque (N, C, G). |
-| 2 - Formular planos de estiva, incluindo o conhecimento das técnicas de carga e dos sistemas de lastro, por forma a manter a tensão a que o casco é submetido dentro dos limites aceitáveis. | 2 - Capacidade de interpretar os limites em que o material dobra e as forças de fragmentação intervêm. |
+| 2 - Capacidade de interpretar os limites em que o material dobra e as forças de fragmentação intervêm. |  |
 |  | 3 - Conhecimento da utilização das aplicações informáticas de estiva e estabilidade. |
 |  | 4 - Capacidade para formular planos de estiva, incluindo a utilização das aplicações informáticas de estiva e estabilidade. |
 | 3 - Controlar os procedimentos de carga e descarga relativamente à segurança do transporte. | 1 - Conhecimento dos planos de estiva e dos dados disponíveis sobre as instalações a bordo e respetiva aplicação. |
-| 3 - Controlar os procedimentos de carga e descarga relativamente à segurança do transporte. | 2 - Capacidade para guardar e fixar a carga, incluindo o equipamento necessário de manuseamento de carga e equipamento de fixação e de retenção. |
+| 2 - Capacidade para guardar e fixar a carga, incluindo o equipamento necessário de manuseamento de carga e equipamento de fixação e de retenção. |  |
 |  | 3 - Conhecimento dos diferentes métodos de determinação do peso da carga nas embarcações de carga e nos navios-tanque e noutras embarcações. |
 |  | 4 - Conhecimento da determinação da quantidade de carga carregada ou descarregada e do cálculo da quantidade de carga seca e líquida. |
 |  | 5 - Conhecimento dos eventuais efeitos negativos de um manuseamento inadequado da carga. |
 |  | 6 - Capacidade de utilizar os meios técnicos para manuseamento de cargas nos ou para as embarcações e portos, e medidas de segurança da mão de obra durante a sua utilização. |
 | 4 - Diferenciar as diferentes mercadorias e as suas características, a fim de monitorizar e garantir o seu carregamento seguro, de acordo com o plano de estiva. | 1 - Capacidade para estabelecer procedimentos de manuseamento seguro da carga, em conformidade com as disposições dos regulamentos pertinentes em matéria de segurança no trabalho. |
-| 4 - Diferenciar as diferentes mercadorias e as suas características, a fim de monitorizar e garantir o seu carregamento seguro, de acordo com o plano de estiva. | 2 - Conhecimento de uma comunicação e de relações de trabalho eficazes com todos os parceiros envolvidos nos procedimentos de carga e descarga. |
+| 2 - Conhecimento de uma comunicação e de relações de trabalho eficazes com todos os parceiros envolvidos nos procedimentos de carga e descarga. |  |
 
 3.2 - O comandante de embarcação deve estar apto a formular planos no sentido de assegurar a estabilidade da embarcação.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Respeitar o efeito sobre o caimento e a estabilidade das cargas e operações de carga. | 1 - Conhecimento da integridade da estanquidade e da estabilidade para todos os tipos de carga e embarcações. |
-| 1 - Respeitar o efeito sobre o caimento e a estabilidade das cargas e operações de carga. | 2 - Capacidade de utilizar instrumentos para corrigir o caimento e a estabilidade. |
-| 2 - Verificar a arqueação efetiva da embarcação, utilizar as tabelas de estabilidade e caimento e o equipamento de cálculo de esforço, incluindo a ADB (Base de Dados Automática) para verificar um plano de estiva. | 1 - Conhecimento das aplicações informáticas específicas para calcular a estabilidade, o caimento e o esforço. 2 - Capacidade para determinar a estabilidade, o caimento e para utilizar as tabelas e os diagramas de esforço e o equipamento de cálculo respetivo. |
+| 2 - Capacidade de utilizar instrumentos para corrigir o caimento e a estabilidade. |  |
+| 2 - Verificar a arqueação efetiva da embarcação, utilizar as tabelas de estabilidade e caimento e o equipamento de cálculo de esforço, incluindo a ADB (Base de Dados Automática) para verificar um plano de estiva. | 1 - Conhecimento das aplicações informáticas específicas para calcular a estabilidade, o caimento e o esforço.<br>2 - Capacidade para determinar a estabilidade, o caimento e para utilizar as tabelas e os diagramas de esforço e o equipamento de cálculo respetivo. |
 
 3.3 - O comandante de embarcação deve estar apto a planear e assegurar o transporte seguro dos passageiros e a prestar-lhes assistência durante a viagem, incluindo a assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, em conformidade com os requisitos de formação e instruções do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Compreender a regulamentação pertinente a nível nacional, europeu e internacional, assim como os códigos e normas em matéria de transporte de passageiros. | 1 - Conhecimento dos regulamentos e das convenções aplicáveis em matéria de transporte de passageiros. |
-| 1 - Compreender a regulamentação pertinente a nível nacional, europeu e internacional, assim como os códigos e normas em matéria de transporte de passageiros. | 2 - Capacidade para assegurar o embarque e o desembarque seguros dos passageiros e prestar-lhes assistência durante a viagem, com especial atenção às pessoas que dela necessitem, incluindo a assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, em conformidade com os requisitos de formação e instruções do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. |
+| 2 - Capacidade para assegurar o embarque e o desembarque seguros dos passageiros e prestar-lhes assistência durante a viagem, com especial atenção às pessoas que dela necessitem, incluindo a assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, em conformidade com os requisitos de formação e instruções do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. |  |
 |  | 3 - Capacidade de controlar os procedimentos em caso de fuga, incêndio, homem ao mar, abalroamento e evacuação, incluindo crises e gestão de multidões. |
 | 2 - Organizar e monitorizar exercícios de segurança regulares tal como previstos no rol de chamada (de segurança), a fim de garantir um comportamento seguro em situações potenciais de perigo. | 1 - Conhecimento das responsabilidades decorrentes da regulamentação internacional e nacional que afetem a segurança da embarcação, dos passageiros e da tripulação. |
-| 2 - Organizar e monitorizar exercícios de segurança regulares tal como previstos no rol de chamada (de segurança), a fim de garantir um comportamento seguro em situações potenciais de perigo. | 2 - Capacidade para aplicar a gestão e a formação do pessoal a bordo no que respeita à segurança. |
+| 2 - Capacidade para aplicar a gestão e a formação do pessoal a bordo no que respeita à segurança. |  |
 |  | 3 - Administrar primeiros socorros a bordo da embarcação. |
 | 3 - Respeitar os impactos na estabilidade da embarcação no que toca à distribuição ponderal dos passageiros, assim como ao comportamento e comunicação com os passageiros. | 1 - Conhecimento das regras e regulamentações em matéria de estabilidade. |
-| 3 - Respeitar os impactos na estabilidade da embarcação no que toca à distribuição ponderal dos passageiros, assim como ao comportamento e comunicação com os passageiros. | 2 - Capacidade para aplicar as medidas pertinentes relativamente à integridade da estanquidade, incluindo a influência sobre o caimento e a estabilidade das embarcações de passageiros. |
+| 2 - Capacidade para aplicar as medidas pertinentes relativamente à integridade da estanquidade, incluindo a influência sobre o caimento e a estabilidade das embarcações de passageiros. |  |
 |  | 3 - Conhecimento do projeto da embarcação relativamente ao caimento e à estabilidade e das medidas a tomar em caso de perda parcial da totalidade da flutuabilidade/estabilidade dos danos nas embarcações de passageiros. |
 |  | 4 - Capacidade para utilizar expressões de comunicação normalizadas. |
 | 4 - Definir e monitorizar a análise do risco a bordo da limitação de acesso aos passageiros, assim como compilar um sistema de proteção a bordo eficaz por forma a impedir o acesso não autorizado. | 1 - Conhecimento e cumprimento da limitação do número de passageiros de acordo com o certificado da embarcação de passageiros. |
-| 4 - Definir e monitorizar a análise do risco a bordo da limitação de acesso aos passageiros, assim como compilar um sistema de proteção a bordo eficaz por forma a impedir o acesso não autorizado. | 2 - Conhecimento dos sistemas de segurança que impedem o acesso não autorizado. |
-| 4 - Definir e monitorizar a análise do risco a bordo da limitação de acesso aos passageiros, assim como compilar um sistema de proteção a bordo eficaz por forma a impedir o acesso não autorizado. | 3 - Capacidade para organizar sistemas de quartos de vigia (ou seja, durante a noite) no que toca à segurança. |
+| 2 - Conhecimento dos sistemas de segurança que impedem o acesso não autorizado. |  |
+| 3 - Capacidade para organizar sistemas de quartos de vigia (ou seja, durante a noite) no que toca à segurança. |  |
 | 5 - Analisar os relatórios dos passageiros (ou seja, ocorrências imprevistas, difamação e vandalismo) a fim de reagir em conformidade. | 1 - Conhecimento dos direitos dos passageiros e das suas queixas, assim como dos riscos relacionados com o transporte de passageiros para o ambiente. |
-| 5 - Analisar os relatórios dos passageiros (ou seja, ocorrências imprevistas, difamação e vandalismo) a fim de reagir em conformidade. | 2 - Capacidade de prevenção da poluição ambiental pelos passageiros e pela tripulação. |
+| 2 - Capacidade de prevenção da poluição ambiental pelos passageiros e pela tripulação. |  |
 |  | 3 - Capacidade de lidar com reclamações e gestão de conflitos. |
 |  | 4 - Capacidade para comunicar com o pessoal de bordo e com todas as partes intervenientes. |
 
@@ -950,29 +954,29 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Utilizar a funcionalidade dos motores principais e do equipamento auxiliar e os respetivos sistemas de comando. | 1 - Conhecimento do funcionamento do motor principal e das instalações do equipamento auxiliar. |
-| 1 - Utilizar a funcionalidade dos motores principais e do equipamento auxiliar e os respetivos sistemas de comando. | 2 - Conhecimento das características dos combustíveis e dos lubrificantes. |
+| 2 - Conhecimento das características dos combustíveis e dos lubrificantes. |  |
 |  | 3 - Conhecimento dos sistemas de comando. |
 |  | 4 - Capacidade para utilizar diversos sistemas de propulsão e máquinas e equipamento auxiliares. |
 | 2 - Monitorizar e supervisionar a tripulação aquando do funcionamento e da manutenção dos motores principais, das máquinas e do equipamento auxiliares. | 1 - Capacidade de gestão da tripulação no que respeita ao funcionamento e à manutenção do equipamento técnico. |
-| 2 - Monitorizar e supervisionar a tripulação aquando do funcionamento e da manutenção dos motores principais, das máquinas e do equipamento auxiliares. | 2 - Capacidade para gerir o arranque e a paragem da propulsão principal, e das máquinas e do equipamento auxiliares. |
+| 2 - Capacidade para gerir o arranque e a paragem da propulsão principal, e das máquinas e do equipamento auxiliares. |  |
 
 4.2 - O comandante de embarcação deve estar apto a monitorizar os motores principais e as máquinas e equipamento auxiliares.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Dar instruções no sentido de preparar os motores principais e as máquinas e equipamento auxiliares. | 1 - Capacidade para dirigir a tripulação na preparação e funcionamento do motor principal e das máquinas e equipamento auxiliares. |
-| 1 - Dar instruções no sentido de preparar os motores principais e as máquinas e equipamento auxiliares. | 2 - Capacidade para estabelecer e monitorizar listas de verificação e para dar instruções para a utilização adequada dessas listas. |
+| 2 - Capacidade para estabelecer e monitorizar listas de verificação e para dar instruções para a utilização adequada dessas listas. |  |
 |  | 3 - Capacidade para dirigir a tripulação quanto aos princípios a observar durante a vigilância do motor. |
-| 2 - Detetar avarias, falhas comuns e tomar medidas para prevenir danos. | 1 - Conhecimento dos métodos para detetar avarias do motor e das máquinas. 2 - Capacidade para detetar avarias, fontes frequentes de erro ou tratamento inadequado, e para responder adequadamente. |
+| 2 - Detetar avarias, falhas comuns e tomar medidas para prevenir danos. | 1 - Conhecimento dos métodos para detetar avarias do motor e das máquinas.<br>2 - Capacidade para detetar avarias, fontes frequentes de erro ou tratamento inadequado, e para responder adequadamente. |
 |  | 3 - Capacidade para dar ordens no sentido de serem tomadas medidas para impedir danos ou para controlo dos danos. |
-| 3 - Compreender as características físicas e químicas do petróleo e de outros lubrificantes. | 1 - Conhecimento das características dos materiais utilizados. 2 - Capacidade para utilizar o petróleo e outros lubrificantes de acordo com as respetivas especificações. |
+| 3 - Compreender as características físicas e químicas do petróleo e de outros lubrificantes. | 1 - Conhecimento das características dos materiais utilizados.<br>2 - Capacidade para utilizar o petróleo e outros lubrificantes de acordo com as respetivas especificações. |
 |  | 3 - Capacidade de entender manuais de máquinas. |
 |  | 4 - Conhecimento das características de funcionamento do equipamento e dos sistemas. |
 | 4 - Avaliar o desempenho do motor... | Capacidade para utilizar e interpretar manuais a fim de avaliar o desempenho do motor e de operar os motores de forma adequada. |
@@ -981,38 +985,38 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Monitorizar os sistemas de bombagem de rotina, de lastro e as bombas de carga. | 1 - Conhecimento dos sistemas de bombagem e das operações de bombagem. |
-| 1 - Monitorizar os sistemas de bombagem de rotina, de lastro e as bombas de carga. | 2 - Capacidade para assegurar a monitorização do funcionamento seguro dos sistemas de esgoto das cavernas e de bombagem do lastro e da carga, incluindo instruções adequadas à tripulação, tendo em conta o efeito de superfície livre sobre a estabilidade. |
+| 2 - Capacidade para assegurar a monitorização do funcionamento seguro dos sistemas de esgoto das cavernas e de bombagem do lastro e da carga, incluindo instruções adequadas à tripulação, tendo em conta o efeito de superfície livre sobre a estabilidade. |  |
 
 4.4 - O comandante de embarcação deve estar apto a organizar a utilização e a aplicação, a manutenção e a reparação seguras dos aparelhos eletrotécnicos da embarcação.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Impedir danos potenciais nos aparelhos elétricos e eletrónicos a bordo. | 1 - Conhecimento de eletrotecnologia, de eletrónica e de equipamento elétrico e dispositivos de segurança, por exemplo, sistemas de automatização, instrumentação e controlo para prevenir danos. |
 |  | 2 - Capacidade para aplicar práticas de trabalho seguras. |
 | 2 - Proceder ao ensaio dos sistemas e instrumentos de controlo a fim de reconhecer as avarias e, simultaneamente, tomar medidas para reparar e manter equipamento de controlo elétrico ou eletrónico. | 1 - Conhecimento dos dispositivos eletrotécnicos de ensaio da embarcação. |
-| 2 - Proceder ao ensaio dos sistemas e instrumentos de controlo a fim de reconhecer as avarias e, simultaneamente, tomar medidas para reparar e manter equipamento de controlo elétrico ou eletrónico. | 2 - Capacidade para operar, ensaiar e manter sistemas de controlo e tomar as medidas adequadas. |
+| 2 - Capacidade para operar, ensaiar e manter sistemas de controlo e tomar as medidas adequadas. |  |
 | 3 - Dar ordens antes e depois para atividades de acompanhamento para ligar ou desligar instalações técnicas em terra. | 1 - Conhecimento das prescrições de segurança do trabalho com sistemas elétricos. |
-| 3 - Dar ordens antes e depois para atividades de acompanhamento para ligar ou desligar instalações técnicas em terra. | 2 - Conhecimento das características operacionais e de projeto dos sistemas e do equipamento elétrico de bordo em relação às instalações em terra. |
+| 2 - Conhecimento das características operacionais e de projeto dos sistemas e do equipamento elétrico de bordo em relação às instalações em terra. |  |
 |  | 3 - Capacidade de dar ordens para garantir uma ligação segura a terra a qualquer momento e reconhecer situações de perigo relativamente às instalações em terra. |
 
 4.5 - O comandante de embarcação deve estar apto a controlar a manutenção e a reparação seguras dos dispositivos técnicos.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Assegurar a utilização adequada de ferramentas para manutenção e reparação de dispositivos técnicos. | 1 - Conhecimento dos procedimentos de manutenção e reparação de dispositivos técnicos. |
-| 1 - Assegurar a utilização adequada de ferramentas para manutenção e reparação de dispositivos técnicos. | 2 - Capacidade para organizar e dar ordens sobre a manutenção e reparação seguras utilizando procedimentos, equipamento e aplicações informáticas adequados (controlo). |
+| 2 - Capacidade para organizar e dar ordens sobre a manutenção e reparação seguras utilizando procedimentos, equipamento e aplicações informáticas adequados (controlo). |  |
 | 2 - Avaliar as características e limitações dos materiais, assim como os procedimentos necessários utilizados para manutenção e reparação dos dispositivos técnicos. | 1 - Conhecimento das características do material de manutenção e reparação de dispositivos técnicos. |
-| 2 - Avaliar as características e limitações dos materiais, assim como os procedimentos necessários utilizados para manutenção e reparação dos dispositivos técnicos. | 2 - Capacidade para aplicar procedimentos de manutenção e reparação em dispositivos de acordo com os manuais. |
+| 2 - Capacidade para aplicar procedimentos de manutenção e reparação em dispositivos de acordo com os manuais. |  |
 | 3 - Avaliar a documentação técnica e interna. | 1 - Conhecimento das especificações de construção e da documentação técnica. |
 |  | 2 - Capacidade para criar listas de verificação para manutenção e reparação de dispositivos técnicos. |
 
@@ -1022,21 +1026,21 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Assegurar um comportamento seguro dos tripulantes relativamente à utilização de materiais e aditivos. | 1 - Conhecimento de procedimentos de manutenção e reparação seguros e eficazes. |
-| 1 - Assegurar um comportamento seguro dos tripulantes relativamente à utilização de materiais e aditivos. | 2 - Capacidade para monitorizar e supervisionar a tripulação a fim de aplicar precauções e contribuir para a prevenção da poluição do meio marinho. |
+| 2 - Capacidade para monitorizar e supervisionar a tripulação a fim de aplicar precauções e contribuir para a prevenção da poluição do meio marinho. |  |
 |  | 3 - Capacidade para aplicar e observar as regras laborais aplicáveis e a regulamentação sobre a segurança no trabalho e assegurar que são respeitadas. |
 | 2 - Definir, monitorizar e assegurar as ordens de trabalho, para que a tripulação esteja apta a efetuar a manutenção e reparação de forma independente. | 1 - Conhecimento de operações de manutenção eficientes e eficazes e dos requisitos legais aplicáveis. |
-| 2 - Definir, monitorizar e assegurar as ordens de trabalho, para que a tripulação esteja apta a efetuar a manutenção e reparação de forma independente. | 2 - Capacidade para utilizar eficazmente os programas de planeamento (digital) de manutenção. |
+| 2 - Capacidade para utilizar eficazmente os programas de planeamento (digital) de manutenção. |  |
 |  | 3 - Capacidade para controlar a manutenção e a reparação das partes interior e exterior da embarcação tendo em conta os requisitos legais aplicáveis, tais como fichas de dados de segurança. |
 |  | 4 - Capacidade para gerir a higiene da embarcação. |
 |  | 5 - Capacidade para organizar a gestão dos resíduos, tendo em conta a regulamentação ambiental, como a Convenção sobre a Recolha, Depósito e Receção de Resíduos durante a Navegação no Reno e nas Vias Navegáveis Interiores (Convenção CDNI). |
 |  | 6 - Capacidade para elaborar o programa periódico de manutenção da embarcação. |
 |  | 7 - Capacidade para monitorizar e controlar os documentos técnicos da embarcação e para manter livros de manutenção. |
 | 3 - Adquirir e controlar materiais e ferramentas relativas à proteção da saúde e do ambiente. | 1 - Capacidade para administrar as existências da embarcação. |
-| 3 - Adquirir e controlar materiais e ferramentas relativas à proteção da saúde e do ambiente. | 2 - Capacidade para organizar um sistema de trabalho seguro a bordo, incluindo a utilização de materiais perigosos nos trabalhos de limpeza e conservação. |
+| 2 - Capacidade para organizar um sistema de trabalho seguro a bordo, incluindo a utilização de materiais perigosos nos trabalhos de limpeza e conservação. |  |
 |  | 3 - Capacidade para verificar a qualidade das reparações. |
 | 4 - Assegurar que os cabos de arame de aço e de fibra são utilizados de acordo com as especificações do fabricante e com a finalidade prevista. | Capacidade para dirigir e supervisionar a tripulação em conformidade com os procedimentos de trabalho e as limitações de segurança na utilização de cabos de acordo com o certificado e as fichas técnicas da embarcação. |
 
@@ -1046,39 +1050,39 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Organizar e estimular o espírito de equipa e dar formação aos tripulantes sobre os deveres a bordo e, se necessário, tomar medidas disciplinares. | 1 - Conhecimento da gestão dos recursos humanos. |
-| 1 - Organizar e estimular o espírito de equipa e dar formação aos tripulantes sobre os deveres a bordo e, se necessário, tomar medidas disciplinares. | 2 - Capacidade para dirigir a tripulação de forma adequada e profissional. |
-| 1 - Organizar e estimular o espírito de equipa e dar formação aos tripulantes sobre os deveres a bordo e, se necessário, tomar medidas disciplinares. | 3 - Capacidade para explicar as instruções dadas à tripulação. |
-| 1 - Organizar e estimular o espírito de equipa e dar formação aos tripulantes sobre os deveres a bordo e, se necessário, tomar medidas disciplinares. | 4 - Capacidade para informar a tripulação sobre os seus comportamentos profissionais e sociais a bordo. |
+| 2 - Capacidade para dirigir a tripulação de forma adequada e profissional. |  |
+| 3 - Capacidade para explicar as instruções dadas à tripulação. |  |
+| 4 - Capacidade para informar a tripulação sobre os seus comportamentos profissionais e sociais a bordo. |  |
 |  | 5 - Capacidade para aplicar a gestão das tarefas e do volume de trabalho, incluindo: planeamento e coordenação, afetação de pessoal, condicionalismos de tempo e de recursos, prioridades. |
 |  | 6 - Capacidade para reconhecer e prevenir a fadiga. |
 | 2 - Instruir a tripulação acerca dos sistemas de informação e comunicação. | 1 - Conhecimento dos sistemas de informação e comunicação disponíveis a bordo. |
 |  | 2 - Capacidade para instruir a tripulação acerca da sua utilização dos sistemas de informática, comunicação e meios de comunicação. |
 | 3 - Recolher, salvar e gerir os dados no que diz respeito à legislação de proteção dos dados. | 1 - Conhecimento da utilização de todos os sistemas informáticos do veículo aquático. |
-| 3 - Recolher, salvar e gerir os dados no que diz respeito à legislação de proteção dos dados. | 2 - Capacidade para recolher e armazenar dados em conformidade com a legislação aplicável. |
+| 2 - Capacidade para recolher e armazenar dados em conformidade com a legislação aplicável. |  |
 
 6.2 - O comandante de embarcação deve estar apto a assegurar a boa comunicação em todas as ocasiões, o que inclui a utilização de expressões de comunicação normalizadas em situações com problemas de comunicação.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Descrever as circunstâncias utilizando a terminologia técnica e náutica relevante. | 1 - Conhecimento da correta utilização dos termos técnicos e náuticos relevantes. |
 |  | 2 - Capacidade para dominar a comunicação. |
 | 2 - Recuperar, avaliar e utilizar informações relevantes para a segurança a bordo, assim como para questões de ordem técnica do ponto de vista náutico. | 1 - Conhecimento dos procedimentos a seguir em todas as comunicações de perigo, emergência e segurança. |
-| 2 - Recuperar, avaliar e utilizar informações relevantes para a segurança a bordo, assim como para questões de ordem técnica do ponto de vista náutico. | 2 - Capacidade para utilizar expressões de comunicação normalizadas. |
+| 2 - Capacidade para utilizar expressões de comunicação normalizadas. |  |
 
 6.3 - O comandante de embarcação deve estar apto a fomentar um ambiente de trabalho equilibrado e sociável a bordo.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Assegurar um bom ambiente de trabalho em termos sociais. | 1 - Capacidade para assumir a liderança na organização de reuniões de equipa para manter o ambiente social equilibrado a bordo. |
 |  | 2 - Conhecimento e sensibilização para as diferenças culturais e de género. |
 |  | 3 - Conhecimento das regras pertinentes aplicáveis à formação e educação dos estudantes, aprendizes e estagiários. |
@@ -1087,10 +1091,10 @@ O comandante de embarcação deve estar apto a:
 | 2 - Aplicar a legislação nacional, europeia e internacional em matéria social. | 1 - Conhecimento da diferente legislação nacional, europeia e internacional em matéria social. |
 |  | 2 - Capacidade para dirigir os tripulantes na utilização das partes pertinentes da legislação social aplicável. |
 | 3 - Adotar a restrição total do álcool e das drogas e reagir adequadamente em caso de infração, assumir a responsabilidade e explicar as consequências de uma violação das regras. | 1 - Conhecimento das regras aplicáveis em matéria de álcool e drogas. |
-| 3 - Adotar a restrição total do álcool e das drogas e reagir adequadamente em caso de infração, assumir a responsabilidade e explicar as consequências de uma violação das regras. | 2 - Capacidade de comunicação e de assegurar a conformidade com a legislação aplicável e de sensibilizar para as regras da empresa em matéria de álcool e drogas. |
-| 3 - Adotar a restrição total do álcool e das drogas e reagir adequadamente em caso de infração, assumir a responsabilidade e explicar as consequências de uma violação das regras. | 3 - Capacidade para reagir de forma adequada em caso de violação da legislação ou das regras da empresa. |
+| 2 - Capacidade de comunicação e de assegurar a conformidade com a legislação aplicável e de sensibilizar para as regras da empresa em matéria de álcool e drogas. |  |
+| 3 - Capacidade para reagir de forma adequada em caso de violação da legislação ou das regras da empresa. |  |
 | 4 - Organizar o aprovisionamento e a preparação das refeições a bordo. | 1 - Conhecimento dos princípios de uma nutrição saudável. |
-| 4 - Organizar o aprovisionamento e a preparação das refeições a bordo. | 2 - Capacidade para instruir os tripulantes no planeamento e na preparação de refeições. |
+| 2 - Capacidade para instruir os tripulantes no planeamento e na preparação de refeições. |  |
 |  | 3 - Capacidade para instruir e supervisionar os tripulantes relativamente às normas de higiene. |
 |  | 4 - Capacidade para instruir os tripulantes no planeamento de possibilidades de aprovisionamento. |
 
@@ -1100,17 +1104,17 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Aplicar a legislação nacional e internacional e tomar as medidas adequadas em matéria de proteção da saúde e de prevenção de acidentes. | 1 - Conhecimento da legislação em matéria de proteção da saúde e de prevenção de acidentes. |
-| 1 - Aplicar a legislação nacional e internacional e tomar as medidas adequadas em matéria de proteção da saúde e de prevenção de acidentes. | 2 - Capacidade para aplicar procedimentos de segurança baseados na legislação aplicável no domínio da segurança e das condições de trabalho. |
+| 2 - Capacidade para aplicar procedimentos de segurança baseados na legislação aplicável no domínio da segurança e das condições de trabalho. |  |
 | 2 - Controlar e monitorizar a validade do certificado do veículo aquático e de outros documentos relevantes para o veículo aquático e o respetivo funcionamento. | 1 - Conhecimento da legislação relativa às inspeções periódicas do equipamento e das peças de construção. |
-| 2 - Controlar e monitorizar a validade do certificado do veículo aquático e de outros documentos relevantes para o veículo aquático e o respetivo funcionamento. | 2 - Capacidade para verificar a validade dos certificados e outros documentos relevantes para o veículo aquático e respetivo funcionamento. |
+| 2 - Capacidade para verificar a validade dos certificados e outros documentos relevantes para o veículo aquático e respetivo funcionamento. |  |
 | 3 - Cumprir a regulamentação de segurança durante todos os procedimentos de trabalho pela utilização das medidas de segurança pertinentes de forma a evitar acidentes. | 1 - Conhecimento de práticas de trabalho seguras e de procedimentos de trabalho seguros. |
-| 3 - Cumprir a regulamentação de segurança durante todos os procedimentos de trabalho pela utilização das medidas de segurança pertinentes de forma a evitar acidentes. | 2 - Capacidade para organizar procedimentos de trabalho seguros, para motivar e monitorizar os tripulantes a aplicar regras de trabalho seguras. |
+| 2 - Capacidade para organizar procedimentos de trabalho seguros, para motivar e monitorizar os tripulantes a aplicar regras de trabalho seguras. |  |
 | 4 - Controlar e monitorizar todas as medidas de segurança necessárias para limpar os espaços fechados antes do pessoal proceder à sua abertura para entrada e limpeza dessas instalações. | 1 - Capacidade para organizar o controlo da segurança e monitorizar os procedimentos de segurança caso a tripulação ou outros entrarem em espaços fechados (por exemplo, tanques de lastro, ensecadeiras, cisternas, espaços de casco duplo), incluindo através de vigilância. |
-| 4 - Controlar e monitorizar todas as medidas de segurança necessárias para limpar os espaços fechados antes do pessoal proceder à sua abertura para entrada e limpeza dessas instalações. | 2 - Capacidade de efetuar uma avaliação do risco antes de entrar em espaços fechados. |
+| 2 - Capacidade de efetuar uma avaliação do risco antes de entrar em espaços fechados. |  |
 |  | 3 - Conhecimento das precauções a tomar antes da entrada num espaço fechado e durante a execução do trabalho nesse espaço, a saber: |
 |  | . Perigos dos espaços fechados; |
 |  | . Ensaios de atmosfera antes da entrada; |
@@ -1124,21 +1128,21 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Utilizar os meios de salvação e aplicar procedimentos de salvação às vítimas e para sua própria segurança. | 1 - Conhecimento do equipamento de salvação disponível. |
-| 1 - Utilizar os meios de salvação e aplicar procedimentos de salvação às vítimas e para sua própria segurança. | 2 - Utilizar os meios de salvação e aplicar procedimentos de salvação às vítimas e para sua própria segurança. |
+| 2 - Utilizar os meios de salvação e aplicar procedimentos de salvação às vítimas e para sua própria segurança. |  |
 | 2 - Organizar exercícios de formação em gestão de crises com vista ao comportamento em situações de emergência como, por exemplo, incêndios, alarme de fugas, explosão, abalroamento, homem ao mar e evacuação. | 1 - Conhecimento dos procedimentos de emergência. |
-| 2 - Organizar exercícios de formação em gestão de crises com vista ao comportamento em situações de emergência como, por exemplo, incêndios, alarme de fugas, explosão, abalroamento, homem ao mar e evacuação. | 2 - Capacidade para dirigir os tripulantes nos procedimentos de emergência. |
-| 2 - Organizar exercícios de formação em gestão de crises com vista ao comportamento em situações de emergência como, por exemplo, incêndios, alarme de fugas, explosão, abalroamento, homem ao mar e evacuação. | 3 - Capacidade para organizar a formação contínua da tripulação a bordo do navio em preparação para uma situação de emergência, incluindo a organização de exercícios de combate a incêndios e de exercícios de abandono do veículo aquático. |
+| 2 - Capacidade para dirigir os tripulantes nos procedimentos de emergência. |  |
+| 3 - Capacidade para organizar a formação contínua da tripulação a bordo do navio em preparação para uma situação de emergência, incluindo a organização de exercícios de combate a incêndios e de exercícios de abandono do veículo aquático. |  |
 | 3 - Dar instruções relacionadas com a prevenção de incêndios, o equipamento de proteção individual, métodos conexos, material de combate a incêndios, respiradores e eventual aplicação destes dispositivos em emergências. | 1 - Conhecimento da legislação em matéria de prevenção de incêndios e da regulamentação aplicável sobre a utilização do tabaco e possíveis fontes de ignição. |
-| 3 - Dar instruções relacionadas com a prevenção de incêndios, o equipamento de proteção individual, métodos conexos, material de combate a incêndios, respiradores e eventual aplicação destes dispositivos em emergências. | 2 - Capacidade para cumprir a regulamentação aplicável em matéria de sistemas de deteção de incêndios; equipamento de extinção de incêndios fixo e móvel e dispositivos conexos, por exemplo, equipamento de bombagem, de salvação, de proteção individual e de comunicação. |
+| 2 - Capacidade para cumprir a regulamentação aplicável em matéria de sistemas de deteção de incêndios; equipamento de extinção de incêndios fixo e móvel e dispositivos conexos, por exemplo, equipamento de bombagem, de salvação, de proteção individual e de comunicação. |  |
 |  | 3 - Capacidade para controlar a monitorização e a manutenção dos sistemas e do equipamento de deteção e extinção de incêndios. |
 |  | 4 - Capacidade para instruir a tripulação e o pessoal de bordo a aplicar regras de segurança no trabalho e de manutenção do equipamento de proteção individual e de segurança pessoal. |
 | 4 - Ministrar primeiros socorros... | Capacidade de agir em conformidade com as normas e práticas em matéria de primeiros socorros. |
 | 5 - Estabelecer um sistema de bordo eficaz para controlar os meios de salvação e a correta aplicação do equipamento de proteção individual. | 1 - Conhecimento da legislação aplicável aos meios de salvação e à regulamentação das condições de segurança no trabalho. |
-| 5 - Estabelecer um sistema de bordo eficaz para controlar os meios de salvação e a correta aplicação do equipamento de proteção individual. | 2 - Capacidade para manter e efetuar inspeções periódicas das condições de funcionamento dos equipamentos e sistemas de salvação, de combate a incêndios e outros equipamentos e sistemas de segurança. |
+| 2 - Capacidade para manter e efetuar inspeções periódicas das condições de funcionamento dos equipamentos e sistemas de salvação, de combate a incêndios e outros equipamentos e sistemas de segurança. |  |
 |  | 3 - Capacidade para ministrar formação, motivar e supervisionar a utilização correta do equipamento de proteção individual pela tripulação e pelo pessoal de bordo. |
 | 6 - Organizar a assistência às pessoas portadoras de deficiência e às pessoas com mobilidade reduzida. | 1 - Conhecimento dos requisitos de formação e instruções constantes do anexo iv do [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010. |
 |  | 2 - Capacidade para prestar e organizar assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida. |
@@ -1147,36 +1151,36 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Dar início aos preparativos necessários para pôr em prática os planos de salvamento de diferentes tipos de emergências. | 1 - Conhecimento de diferentes tipos de emergências que possam ocorrer, como abalroamentos, incêndios, inundações e naufrágios. |
-| 1 - Dar início aos preparativos necessários para pôr em prática os planos de salvamento de diferentes tipos de emergências. | 2 - Capacidade de organização de planos de emergência de bordo para resposta a emergências e atribuição de tarefas específicas à tripulação, incluindo monitorização e controlo. |
+| 2 - Capacidade de organização de planos de emergência de bordo para resposta a emergências e atribuição de tarefas específicas à tripulação, incluindo monitorização e controlo. |  |
 | 2 - Formação sobre métodos de prevenção de incêndios, reconhecimento da origem do fogo e combate a incêndios, de acordo com as diferentes qualificações dos tripulantes. | 1 - Conhecimento dos procedimentos de combate a incêndios, com especial destaque para a tática e o comando. |
-| 2 - Formação sobre métodos de prevenção de incêndios, reconhecimento da origem do fogo e combate a incêndios, de acordo com as diferentes qualificações dos tripulantes. | 2 - Conhecimento da utilização de água para extinção de incêndios tendo em conta o efeito na estabilidade do navio, e capacidade para tomar as medidas adequadas. |
+| 2 - Conhecimento da utilização de água para extinção de incêndios tendo em conta o efeito na estabilidade do navio, e capacidade para tomar as medidas adequadas. |  |
 |  | 3 - Capacidade para comunicar e coordenar durante as operações de combate a incêndios, incluindo a comunicação com organizações externas e tomar ativamente parte nas operações de salvamento e combate ao incêndio. |
 | 3 - Formação sobre a utilização de meios de salvação. | 1 - Conhecimento das características e das instalações específicas dos dispositivos de socorro. |
 |  | 2 - Capacidade de lançamento e de recuperação das baleeiras e de dirigir os tripulantes e o pessoal de bordo sobre a sua utilização. |
 | 4 - Dar instruções sobre os planos de salvamento, as vias de evacuação e os sistemas de comunicação interna e de alarme. | 1 - Conhecimento da legislação aplicável aos planos de salvamento e ao plano de segurança. |
-| 4 - Dar instruções sobre os planos de salvamento, as vias de evacuação e os sistemas de comunicação interna e de alarme. | 2 - Capacidade de dar instruções sobre os planos de salvamento, as vias de evacuação e os sistemas de comunicação interna e de alarme. |
+| 2 - Capacidade de dar instruções sobre os planos de salvamento, as vias de evacuação e os sistemas de comunicação interna e de alarme. |  |
 
 7.4 - O comandante de embarcação deve estar apto a assegurar o cumprimento dos requisitos de proteção ambiental.
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Tomar precauções para prevenir a poluição ambiental e utilizar o equipamento pertinente. | 1 - Conhecimento dos procedimentos para evitar a poluição do ambiente. |
-| 1 - Tomar precauções para prevenir a poluição ambiental e utilizar o equipamento pertinente. | 2 - Capacidade para tomar precauções para evitar a poluição do ambiente. |
-| 1 - Tomar precauções para prevenir a poluição ambiental e utilizar o equipamento pertinente. | 3 - Capacidade para aplicar procedimentos de abastecimento de combustível seguros. |
+| 2 - Capacidade para tomar precauções para evitar a poluição do ambiente. |  |
+| 3 - Capacidade para aplicar procedimentos de abastecimento de combustível seguros. |  |
 |  | 4 - Capacidade para tomar medidas e dar instruções em caso de danos, abalroamentos e encalhe, incluindo a selagem de fugas. |
 | 2 - Aplicar a legislação em matéria de proteção do ambiente. | 1 - Conhecimento da regulamentação ambiental. |
-| 2 - Aplicar a legislação em matéria de proteção do ambiente. | 2 - Capacidade para motivar a tripulação e o pessoal de bordo a tomar as medidas adequadas a um comportamento respeitador do ambiente ou a agir de uma forma respeitadora do ambiente. |
+| 2 - Capacidade para motivar a tripulação e o pessoal de bordo a tomar as medidas adequadas a um comportamento respeitador do ambiente ou a agir de uma forma respeitadora do ambiente. |  |
 | 3 - Utilizar o equipamento e os materiais de uma forma económica e respeitadora do ambiente. | 1 - Conhecimento dos procedimentos para uma utilização sustentável dos recursos. |
-| 3 - Utilizar o equipamento e os materiais de uma forma económica e respeitadora do ambiente. | 2 - Capacidade de instruir a tripulação a utilizar o equipamento e os materiais de uma forma económica e respeitadora do ambiente. |
+| 2 - Capacidade de instruir a tripulação a utilizar o equipamento e os materiais de uma forma económica e respeitadora do ambiente. |  |
 | 4 - Instruir e monitorizar uma remoção dos resíduos sustentável. | 1 - Conhecimento da legislação em matéria de remoção de resíduos. |
-| 4 - Instruir e monitorizar uma remoção dos resíduos sustentável. | 2 - Capacidade para assegurar uma remoção dos resíduos sustentável e para instruir a tripulação e o pessoal de bordo em conformidade. |
+| 2 - Capacidade para assegurar uma remoção dos resíduos sustentável e para instruir a tripulação e o pessoal de bordo em conformidade. |  |
 
 III - Normas de competência para a navegação em vias navegáveis interiores de natureza marítima
 
@@ -1184,11 +1188,11 @@ III - Normas de competência para a navegação em vias navegáveis interiores d
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Utilizar as informações prestadas por fontes náuticas específicas e as regras aplicáveis às vias navegáveis interiores de natureza marítima. | 1 - Conhecimento da utilização de cartas náuticas e mapas de vias navegáveis interiores de natureza marítima. |
-| 1 - Utilizar as informações prestadas por fontes náuticas específicas e as regras aplicáveis às vias navegáveis interiores de natureza marítima. | 2 - Capacidade para utilizar e aplicar corretamente as cartas e mapas de vias navegáveis interiores de natureza marítima para ter em consideração fatores relacionados com a precisão da leitura de cartas, como a data da carta, os símbolos, as sondagens, a descrição dos fundos, as profundidades e os data e normas cartográficas internacionais como o ECDIS. |
+| 2 - Capacidade para utilizar e aplicar corretamente as cartas e mapas de vias navegáveis interiores de natureza marítima para ter em consideração fatores relacionados com a precisão da leitura de cartas, como a data da carta, os símbolos, as sondagens, a descrição dos fundos, as profundidades e os data e normas cartográficas internacionais como o ECDIS. |  |
 |  | 3 - Conhecimento da navegação terrestre e por satélite para a determinação da navegação estimada, pilotagem, coordenadas, latitude e longitude geodésicas, datum geodésico horizontal, diferença entre a latitude e a longitude, distância e velocidade no fundo, direções na terra, rumo, rumo no fundo (COG), rumo da bússola corrigido pela corrente, em resultado da direção e da força do vento, rumo e ângulo, determinação do rumo, determinação do rumo tendo em conta o efeito do vento e da corrente, determinação do rumo com efeito de corrente e determinação da posição em rota e dos ângulos. |
 |  | 4 - Capacidade de utilizar os avisos à navegação e outros serviços de informação, tais como direções de navegação, guias de planeamento, listas de luzes e informações de segurança marítima (MSI). |
 |  | 5 - Conhecimento das regras de trânsito aplicáveis às vias navegáveis interiores de natureza marítima, incluindo as partes pertinentes da Convenção sobre o Regulamento Internacional para Evitar Abalroamentos no Mar. |
@@ -1199,7 +1203,7 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Respeitar as marés, as previsões e as condições meteorológicas antes de largar amarras e durante a navegação. | 1 - Conhecimento das publicações e das informações para previsão de marés e correntes, como as tabelas de marés, previsão de marés para as estações subordinadas, informações sobre o gelo, níveis de água elevados/baixos, lista de portos e de postos de amarração para determinação da linha de água, direção e força da corrente e profundidade disponível. |
@@ -1210,7 +1214,7 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Utilizar as regras da SIGNI (Signalisation de Voies de Navigation Intérieure), da IALA (Associação Internacional de Sinalização Marítima), ou outros sistemas locais de marcação e sinalização. | 1 - Conhecimento dos sistemas de sinalização e marcação da IALA, região A, tais como direcionamento da balizagem, numeração, marcação de objetos e superstruturas, marcações laterais e cardinais, boias de bifurcação, marcas suplementares, marcação de pontos perigosos e de obstáculos, marcação do curso da via assim como do canal, entradas de portos, boias e iluminação e respetivas características. |
@@ -1222,10 +1226,10 @@ IV - Normas de competência para a navegação por radar
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Preparar o início da viagem e a utilização das instalações de navegação por radar e dos indicadores de velocidade angular para a navegação, especialmente em condições de visibilidade reduzida. | 1 - Conhecimento geral das ondas de rádio e conhecimento dos princípios de funcionamento do radar e mais especificamente: . A velocidade de propagação das ondas hertzianas; . A reflexão das ondas hertzianas; . Parâmetros-chave das instalações de navegação por radar (banda de frequências operativa, potência de transmissão, duração de impulso, número de rotações da antena, características da antena, dimensões do visor e escalas de alcance, alcance mínimo, resolução radial e resolução azimutal, etc.). |
+|  |  |
+| 1 - Preparar o início da viagem e a utilização das instalações de navegação por radar e dos indicadores de velocidade angular para a navegação, especialmente em condições de visibilidade reduzida. | 1 - Conhecimento geral das ondas de rádio e conhecimento dos princípios de funcionamento do radar e mais especificamente:<br>. A velocidade de propagação das ondas hertzianas;<br>. A reflexão das ondas hertzianas;<br>. Parâmetros-chave das instalações de navegação por radar (banda de frequências operativa, potência de transmissão, duração de impulso, número de rotações da antena, características da antena, dimensões do visor e escalas de alcance, alcance mínimo, resolução radial e resolução azimutal, etc.). |
 |  | 2 - Conhecimento geral do princípio de funcionamento dos indicadores de velocidade angular e da sua aplicação. |
 |  | 3 - Capacidade para ligar, ajustar e controlar as instalações de navegação por radar, como Sintonizar, Ganho, Brilho, Ligado/Em Pausa, Alcance e utilizar os indicadores de velocidade angular na navegação interior, assegurando a sua correta utilização. |
 
@@ -1233,10 +1237,10 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
-| 1 - Interpretar o visor do radar corretamente em relação à própria posição do veículo aquático e às posições de outros veículos. | 1 - Capacidade de interpretar o visor do radar pela identificação correta: . Da posição da antena no visor e da linha de fé; . Do estabelecimento da posição, do rumo e da direção de viragem do próprio veículo aquático; |
+| 1 - Interpretar o visor do radar corretamente em relação à própria posição do veículo aquático e às posições de outros veículos. | 1 - Capacidade de interpretar o visor do radar pela identificação correta:<br>. Da posição da antena no visor e da linha de fé;<br>. Do estabelecimento da posição, do rumo e da direção de viragem do próprio veículo aquático; |
 |  | . Das distâncias e alcance de determinação. |
 |  | 2 - Capacidade de interpretar o comportamento de outros participantes no tráfego (veículos amarrados, veículos a vante e veículos a prosseguir na mesma direção). |
 | 2 - Analisar outras informações fornecidas pelo radar. | 1 - Capacidade de analisar as informações fornecidas pelo radar, como a linha de fé (HL), linha de marcação eletrónica (EBL), anéis de distância e marcador de distância variável (VRM), tracejamentos do objetivo, descentragem, linhas paralelas (P-Lines) e explicar a imagem de radar. |
@@ -1247,21 +1251,21 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Identificar e reduzir as perturbações provenientes do próprio veículo aquático. | 1 - Conhecimento de perturbações que possam ser causadas por quebra ou fragmentação da haste da antena, por efeitos de sombra (setores de não visibilidade) ou por reflexões múltiplas (por exemplo, na área dos compartimentos de carga). |
 |  | 2 - Capacidade de tomar medidas para reduzir as perturbações provenientes do próprio veículo aquático. |
 | 2 - Identificar e reduzir as perturbações provenientes do ambiente. | 1 - Conhecimento de perturbações da chuva ou das ondas, de campos dispersos (por exemplo, pontes), reflexos múltiplos, ecos falsos/fantasmas, linhas elétricas de transmissão, setor sombra do radar e efeitos de propagação multicircuito. |
 |  | 2 - Capacidade de tomar medidas para reduzir as perturbações causadas pelo ambiente [mediante a utilização do Anti-Rain Clutter (FTC) [contra a interferência da chuva) e do Anti-Sea Clutter (STC) (contra a interferência do mar)]. |
 | 3 - Identificar e reduzir as perturbações provenientes de outras instalações de navegação por radar. | 1 - Conhecimento do aparecimento de perturbações causadas por outras instalações de navegação por radar. |
-| 3 - Identificar e reduzir as perturbações provenientes de outras instalações de navegação por radar. | 2 - Capacidade de tomar medidas para eliminar as perturbações causadas por outras instalações de navegação por radar (rejeição de interferências/IR). |
+| 2 - Capacidade de tomar medidas para eliminar as perturbações causadas por outras instalações de navegação por radar (rejeição de interferências/IR). |  |
 
 4 - O comandante de embarcação a navegar por radar deve estar apto a navegar por radar tendo em conta o conjunto de regras acordadas aplicáveis à navegação interior e em conformidade com a regulamentação que especifica as prescrições da navegação por radar (tais como os requisitos de pessoal ou técnicos para as embarcações).
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Aplicar as regras de utilização dos radares. | 1 - Conhecimento das regras específicas de utilização do radar no conjunto acordado de regras aplicáveis à navegação interior e na regulamentação de polícia aplicável (por exemplo, navegação em situações com visibilidade reduzida, utilização de radar quando a visibilidade não é reduzida e utilização de radar obrigatória na navegação), utilização de VHF, sinais sonoros e acordos sobre a rota a tomar. |
@@ -1274,10 +1278,10 @@ O comandante de embarcação deve estar apto a:
 
 O comandante de embarcação deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
-| 1 - Reagir adequadamente em circunstâncias excecionais, como a elevada densidade de tráfego, a avaria de dispositivos e outras situações de tráfego pouco claras ou perigosas. | 1 - Conhecimento das possibilidades de reação em alta densidade de tráfego. 2 - Capacidade para tomar medidas adequadas em alta densidade de tráfego. 3 - Conhecimento das medidas de atenuação e dos padrões de reação adequados em caso de avaria de dispositivos. |
+| 1 - Reagir adequadamente em circunstâncias excecionais, como a elevada densidade de tráfego, a avaria de dispositivos e outras situações de tráfego pouco claras ou perigosas. | 1 - Conhecimento das possibilidades de reação em alta densidade de tráfego.<br>2 - Capacidade para tomar medidas adequadas em alta densidade de tráfego.<br>3 - Conhecimento das medidas de atenuação e dos padrões de reação adequados em caso de avaria de dispositivos. |
 |  | 4 - Capacidade para reagir em caso de avaria de dispositivos. |
 |  | 5 - Conhecimento das possíveis medidas a tomar em caso de situações de tráfego pouco claras ou perigosas. |
 |  | 6 - Capacidade para reagir em caso de situações de tráfego pouco claras ou perigosas. |
@@ -1288,10 +1292,10 @@ V - Normas de competência para os peritos em transporte de passageiros
 
 O perito deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Organizar a utilização do equipamento de salvação. | 1 - Conhecimento dos planos de controlo de segurança, incluindo: . Plano rotativo de segurança e plano de segurança; . Planos e procedimentos de emergência. |
+|  |  |
+| 1 - Organizar a utilização do equipamento de salvação. | 1 - Conhecimento dos planos de controlo de segurança, incluindo:<br>. Plano rotativo de segurança e plano de segurança;<br>. Planos e procedimentos de emergência. |
 |  | 2 - Conhecimento do equipamento de salvação e das suas funções e aptidão para demonstrar a sua utilização. |
 |  | 3 - Conhecimento das zonas acessíveis aos passageiros com mobilidade reduzida. |
 |  | 4 - Capacidade de demonstrar a utilização do equipamento de salvação aos passageiros, incluindo os passageiros com mobilidade reduzida. |
@@ -1300,7 +1304,7 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Aplicar instruções de segurança... | 1 - Capacidade para monitorizar os sistemas e equipamentos de segurança e para organizar as verificações e o controlo do equipamento de segurança da embarcação de passageiros, incluindo o equipamento respiratório. |
@@ -1317,9 +1321,9 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+|  |  |
 | 1 - Comunicar as questões relacionadas com a segurança em inglês básico. | 1 - Conhecimento do vocabulário inglês básico, sua pronunciação, de forma adequada à orientação de todas as pessoas a bordo em situações normais e para as alertar e guiar em caso de emergência. |
 |  | 2 - Capacidade para utilizar o vocabulário inglês básico, sua pronunciação, de forma adequada à orientação de todas as pessoas a bordo em situações normais e para as alertar e guiar em caso de emergência. |
 
@@ -1327,7 +1331,7 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Prestar assistência aos passageiros em matéria de direitos dos passageiros. | 1 - Conhecimento das regras aplicáveis ao transporte por vias navegáveis interiores estabelecidas pelo [Regulamento (UE) n.º 1177/2010](http://data.europa.eu/eli/reg/2010/1177/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, nomeadamente no atinente à não discriminação dos passageiros no que se refere às condições de transporte oferecidas pelos transportadores, aos direitos dos passageiros em caso de cancelamento ou atraso, às informações mínimas a prestar aos passageiros, ao tratamento das reclamações e às regras gerais de aplicação. |
@@ -1340,19 +1344,19 @@ VI - Normas de competência para os peritos em gás natural liquefeito
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Assegurar a conformidade com a legislação pertinente e as normas aplicáveis aos veículos aquáticos que utilizam GNL como combustível. | 1 - Conhecimento das regulamentações relativas aos veículos aquáticos que utilizam GNL como combustível, tais como a regulamentação de polícia relevante, a regulamentação de prescrições técnicas pertinente e o ADN. |
 |  | 2 - Conhecimento das regras da sociedade de classificação. |
 |  | 3 - Capacidade para dirigir e monitorizar as operações dos tripulantes de forma a assegurar a conformidade com a legislação e as normas aplicáveis aos veículos aquáticos que utilizam GNL como combustível a bordo do veículo e, em particular, com o procedimento de abastecimento. |
-| 2 - Assegurar a conformidade com outra regulamentação relevante em matéria de saúde e segurança ao navegar e quando atracado. | 1 - Conhecimento da regulamentação relevante em matéria de saúde e segurança, incluindo os requisitos e autorizações locais, em especial nos recintos portuários. 2 - Capacidade para dirigir e monitorizar as operações dos tripulantes de forma a assegurar a conformidade com outra regulamentação relevante em matéria de saúde e segurança. |
+| 2 - Assegurar a conformidade com outra regulamentação relevante em matéria de saúde e segurança ao navegar e quando atracado. | 1 - Conhecimento da regulamentação relevante em matéria de saúde e segurança, incluindo os requisitos e autorizações locais, em especial nos recintos portuários.<br>2 - Capacidade para dirigir e monitorizar as operações dos tripulantes de forma a assegurar a conformidade com outra regulamentação relevante em matéria de saúde e segurança. |
 
 2 - O perito deve estar apto a mostrar sensibilidade para os aspetos específicos relacionados com o GNL, reconhecer os riscos e geri-los.
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
 | 1 - Reconhecer pontos específicos de atenção relacionados com as características específicas do GNL. | 1 - Conhecimento da definição, composição e atributos de qualidade do GNL, ficha de dados de segurança (SDS): propriedades físicas e características do produto e características ambientais. |
@@ -1364,10 +1368,10 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
-| 1 - Operar os sistemas específicos ao GNL a bordo e ligados aos sistemas a bordo de uma forma segura. | 1 - Conhecimento dos aspetos técnicos do sistema de GNL, tais como: . Configuração geral e manual de instruções; . Sistema de abastecimento de GNL; . Equipamentos de controlo de derrames; |
+| 1 - Operar os sistemas específicos ao GNL a bordo e ligados aos sistemas a bordo de uma forma segura. | 1 - Conhecimento dos aspetos técnicos do sistema de GNL, tais como:<br>. Configuração geral e manual de instruções;<br>. Sistema de abastecimento de GNL;<br>. Equipamentos de controlo de derrames; |
 |  | . Sistema de contenção de GNL; |
 |  | . Sistema de preparação dos gases; |
 |  | . Sistema de tubagem de GNL; |
@@ -1383,20 +1387,20 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Realizar e monitorizar os controlos regulares do sistema de GNL. | 1 - Conhecimento da manutenção e monitorização do sistema de GNL. 2 - Conhecimento das possíveis avarias e alarmes. |
+|  |  |
+| 1 - Realizar e monitorizar os controlos regulares do sistema de GNL. | 1 - Conhecimento da manutenção e monitorização do sistema de GNL.<br>2 - Conhecimento das possíveis avarias e alarmes. |
 |  | 3 - Capacidade para efetuar operações de manutenção diária, semanal, de periodicidade regular, para corrigir as avarias e para documentar o trabalho de manutenção. |
 
 5 - O perito deve estar apto a saber como realizar as operações de abastecimento de GNL de maneira segura e controlada.
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
-| 1 - Realizar e monitorizar os procedimentos de abastecimento de forma segura. | 1 - Conhecimento dos seguintes aspetos: . Marcação de identificação em conformidade com a regulamentação pertinente de polícia e portuária; . Condições de atracação e amarração para fins de abastecimento de combustível; |
+| 1 - Realizar e monitorizar os procedimentos de abastecimento de forma segura. | 1 - Conhecimento dos seguintes aspetos:<br>. Marcação de identificação em conformidade com a regulamentação pertinente de polícia e portuária;<br>. Condições de atracação e amarração para fins de abastecimento de combustível; |
 |  | . Procedimento de abastecimento de GNL; |
 |  | . Purga do sistema de GNL; |
 |  | . Listas de verificação pertinentes e certificado de entrega; |
@@ -1410,19 +1414,19 @@ O perito deve estar apto a:
 
 O perito deve estar apto a:
 
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
 |  |  |
-| 1 - Preparar o sistema de GNL para a manutenção do veículo aquático e para uma utilização renovada. | 1 - Conhecimento dos procedimentos de purga corretos, como a utilização da drenagem de gás e da limpeza do sistema de GNL antes da estada nos estaleiros. 2 - Capacidade de execução: . Inertização do sistema de GNL; . Procedimento de drenagem do tanque de combustível de GNL; . Primeiro enchimento do tanque de combustível de GNL (secagem e arrefecimento); . Entrada ao serviço na sequência de uma estada no estaleiro. |
+| 1 - Preparar o sistema de GNL para a manutenção do veículo aquático e para uma utilização renovada. | 1 - Conhecimento dos procedimentos de purga corretos, como a utilização da drenagem de gás e da limpeza do sistema de GNL antes da estada nos estaleiros.<br>2 - Capacidade de execução:<br>. Inertização do sistema de GNL;<br>. Procedimento de drenagem do tanque de combustível de GNL;<br>. Primeiro enchimento do tanque de combustível de GNL (secagem e arrefecimento);<br>. Entrada ao serviço na sequência de uma estada no estaleiro. |
 
 7 - O perito deve estar apto a lidar com situações de emergência relacionadas com o GNL.
 
 O perito deve estar apto a:
 
-|  |  |
+| Coluna 1<br>-<br>Competência | Coluna 2<br>-<br>Conhecimentos e aptidões |
 | --- | --- |
-| Coluna 1 - Competência | Coluna 2 - Conhecimentos e aptidões |
-| 1 - Reagir de forma adequada em situações de emergência (tais como derrames e fugas de GNL, contacto da pele com substâncias de baixa temperatura, incêndio, incidentes relacionados com o transporte de mercadorias perigosas, com perigos específicos ou veículo aquático encalhado). | 1 - Conhecimento das medidas de emergência e da documentação a bordo sobre a segurança (incluindo o plano de segurança e as instruções de segurança). 2 - Capacidade para reagir adequadamente em caso de emergências como: . Derrames de GNL no convés; . Contacto da pele com GNL; . Derrames de GNL em espaços fechados (por exemplo, casa das máquinas); |
+|  |  |
+| 1 - Reagir de forma adequada em situações de emergência (tais como derrames e fugas de GNL, contacto da pele com substâncias de baixa temperatura, incêndio, incidentes relacionados com o transporte de mercadorias perigosas, com perigos específicos ou veículo aquático encalhado). | 1 - Conhecimento das medidas de emergência e da documentação a bordo sobre a segurança (incluindo o plano de segurança e as instruções de segurança).<br>2 - Capacidade para reagir adequadamente em caso de emergências como:<br>. Derrames de GNL no convés;<br>. Contacto da pele com GNL;<br>. Derrames de GNL em espaços fechados (por exemplo, casa das máquinas); |
 |  | . Derrames de GNL ou fugas de gás natural em espaços entre barreiras (por exemplo, tanques de combustível de parede dupla, condutas de parede dupla); |
 |  | . Incêndio na proximidade de tanques de GNL ou na casa das máquinas; |
 |  | . Subida de pressão nos sistemas de encanamentos após o acionamento do encerramento de emergência em caso de libertação ou de ventilação iminentes. |
@@ -1441,9 +1445,9 @@ Os examinadores são livres de decidir sobre o conteúdo dos elementos de exame 
 
 Os examinadores realizam provas sobre os elementos 1 a 16 e pelo menos um dos elementos 17 a 19. Os candidatos devem atingir um mínimo de 7 de um total de 10 pontos em cada elemento.
 
-|  |  |  |
-| --- | --- | --- |
 | N.º | Competências | Elemento de exame |
+| --- | --- | --- |
+|  |  |  |
 | 1 | 1.1 | Ligar, ajustar e controlar o funcionamento das instalações de navegação por radar. |
 | 2 | 1.1 | Ligar, ajustar e controlar o funcionamento do indicador de velocidade angular. |
 | 3 | 1.1 | Interpretar o visor do radar corretamente definindo o alcance, a resolução, o brilho, o ganho, o contraste, os outros aparelhos ligados, centrando e sintonizando. |
@@ -1484,9 +1488,9 @@ Os candidatos podem obter um máximo de 10 pontos em cada elemento.
 
 Para a categoria i, os candidatos devem atingir um mínimo de 7 de um total de 10 pontos em cada elemento. Para a categoria ii, os candidatos devem atingir um total mínimo de 45 pontos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | N.º | Competências | Elementos de exame | Categoria I-II |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | 1 | 1.1 | Demonstrar aos passageiros a utilização de boias de salvação. | I |
 | 2 | 1.1 | Demonstrar aos passageiros e aos tripulantes de convés a utilização de coletes de salvação e ao pessoal de bordo, incluindo equipamento de salvação individual específico para as pessoas que não desempenham tarefas no plano rotativo de segurança. | I |
 | 3 | 1.1 | Demonstrar a utilização de equipamento adequado para evacuação para águas pouco profundas, para a margem ou para outro veículo aquático. | I |
@@ -1546,8 +1550,8 @@ Para a categoria i, os candidatos devem atingir um mínimo de 7 de um total de 1
 | 11 | 5.1 | Comunicar o início do processo de abastecimento de combustível. | II |
 | 12 | 5.1 | Realização do abastecimento seguro de acordo com o manual, incluindo a capacidade de monitorizar a pressão, a temperatura e o nível de GNL nos tanques. | I |
 | 13 | 5.1 | Purgar os sistemas de condutas, fechar as válvulas e desligar o veículo aquático da instalação de abastecimento de combustível e comunicar o fim do procedimento após o abastecimento. | I |
-| 14 | 6.1 | Efetuar a: . Inertização do sistema de GNL; . O procedimento de drenagem do tanque de combustível de GNL; . Primeiro enchimento do tanque de combustível de GNL (secagem e arrefecimento); . Entrada ao serviço na sequência de uma estada no estaleiro. | I |
-| 15 | 7.1 | Reagir adequadamente em caso de emergências como derrames de GNL no convés: . Contacto da pele com GNL; . Derrames de GNL em espaços fechados (por exemplo, casa das máquinas); . Derrames de GNL ou fugas de gás natural em espaços entre barreiras (por exemplo, tanques de combustível de parede dupla, condutas de parede dupla). | I |
+| 14 | 6.1 | Efetuar a:<br>. Inertização do sistema de GNL;<br>. O procedimento de drenagem do tanque de combustível de GNL;<br>. Primeiro enchimento do tanque de combustível de GNL (secagem e arrefecimento);<br>. Entrada ao serviço na sequência de uma estada no estaleiro. | I |
+| 15 | 7.1 | Reagir adequadamente em caso de emergências como derrames de GNL no convés:<br>. Contacto da pele com GNL;<br>. Derrames de GNL em espaços fechados (por exemplo, casa das máquinas);<br>. Derrames de GNL ou fugas de gás natural em espaços entre barreiras (por exemplo, tanques de combustível de parede dupla, condutas de parede dupla). | I |
 | 16 | 7.1 | Reagir adequadamente em caso de incêndio na proximidade de tanques de GNL ou na casa das máquinas. | I |
 | 17 | 7.1 | Reagir adequadamente em caso de subida de pressão nos sistemas de encanamentos após o acionamento do encerramento de emergência em caso de libertação ou de ventilação iminentes. | I |
 | 18 | 7.1 | Tomar medidas de emergência e medidas de emergência de vigilância à distância, por exemplo, controlar adequadamente o fogo, uma poça, um jato e uma chama súbita de GNL. | I |
@@ -1608,7 +1612,7 @@ Requer-se que os candidatos demonstrem a sua capacidade para executar uma viagem
 
 Os examinadores são livres de decidir sobre o conteúdo dos elementos de exame individuais.
 
-## Apêndice 1
+Apêndice 1
 
 Teor da parte do exame relativa ao planeamento da viagem
 
@@ -1616,9 +1620,9 @@ Em cada categoria são testados 10 elementos. O candidato pode obter um máximo 
 
 Para a categoria i, os candidatos devem atingir um mínimo de 7 de um total de 10 pontos em cada elemento avaliado. Para a categoria ii, os candidatos devem atingir um total mínimo de 60 pontos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | N.º | Competências | Elementos de exame | Categoria I-II |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | 1 | 1.1.1 | Navegar nas vias navegáveis interiores europeias, incluindo eclusas e ascensores, de acordo com os acordos de navegação com o agente. | I |
 | 2 | 1.1.3 | Ter em conta os aspetos económicos e ecológicos do funcionamento do veículo aquático a fim de o utilizar de forma eficiente e respeitar o ambiente. | II |
 | 3 | 1.1.4 | Ter em conta as estruturas e perfis técnicos das vias navegáveis e tomar precauções. | I |
@@ -1660,15 +1664,15 @@ Para a categoria i, os candidatos devem atingir um mínimo de 7 de um total de 1
 | 39 | 7.4.2 | Aplicar a legislação em matéria de proteção do ambiente. | II |
 | 40 | 7.4.3 | Utilizar o equipamento e os materiais de uma forma económica e respeitadora do ambiente. | II |
 
-## Apêndice 2
+Apêndice 2
 
 Teor da parte do exame relativa à execução da viagem
 
 Todos os elementos enumerados nesta parte do exame devem ser testados. Em cada um dos elementos, os candidatos devem atingir um mínimo de 7 de um total de 10 pontos.
 
-|  |  |  |
-| --- | --- | --- |
 | N.º | Competências | Elemento de exame |
+| --- | --- | --- |
+|  |  |  |
 | 1 | 1.1.1 | Navegar e manobrar o veículo aquático de acordo com a situação e em conformidade com as prescrições legais do direito da navegação (como uma função da velocidade e direção atuais, verificação da profundidade da água e do calado, profundidade abaixo da quilha, densidade do tráfego, interação com outros veículos aquáticos, etc.). |
 | 2 | 1.1.4 | Acostar e largar o veículo aquático para a navegação interior de uma forma correta e em conformidade com as prescrições legais e/ou de segurança. |
 | 3 | 1.1.5 | Reajustar ou repor as ajudas à navegação, se necessário. |
@@ -1704,9 +1708,9 @@ Os candidatos podem obter um máximo de 10 pontos em cada elemento.
 
 Para a categoria i, os candidatos devem atingir um mínimo de 7 de um total de 10 pontos em cada elemento. Para a categoria ii, os candidatos devem atingir um total mínimo de 40 pontos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | N.º | Competências | Elementos de exame | Categoria I-II |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | 1 | 0.1.1 | Utilizar materiais disponíveis a bordo, como guinchos, cabeços de amarração, cabos de fibra e cabos de arame de aço, tendo em conta as medidas de segurança relevantes, incluindo o uso de equipamento de proteção individual e de salvamento. | I |
 | 2 | 0.1.2 | Acoplar e desacoplar as combinações empurrador/batelão recorrendo ao equipamento e aos materiais necessários. | I |
 | 3 | 0.1.2 | Utilizar equipamentos e materiais disponíveis a bordo para as operações de acoplamento, tendo em conta as medidas de segurança no trabalho relevantes, incluindo o uso de equipamento de proteção individual e de salvamento. | I |
@@ -1755,11 +1759,11 @@ Normas para a homologação dos simuladores
 
 I - Prescrições técnicas e funcionais para a pilotagem das embarcações e para os simuladores de radar na navegação interior
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | N.º | Elemento | Nível de qualidade da prescrição técnica | Procedimento de ensaio | Simulador de pilotagem da embarcação | Simulador de radar |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | 1. | Instalações de navegação por radar nas vias navegáveis interiores. | Pelo menos uma instalação de navegação por radar nas vias navegáveis interiores com as mesmas funcionalidades que uma instalação de navegação por radar nas vias navegáveis interiores homologada de acordo com a norma ES-TRIN deve ser instalada no simulador. | Deve verificar-se se a instalação tem as mesmas funcionalidades que a instalação de navegação por radar nas vias navegáveis interiores homologada. | x | x |
-| 2. | Sistema de comunicação... | O simulador deve estar equipado com um sistema de comunicação composto por: - Uma ligação telefónica interna alternativa; e - Dois sistemas independentes de radiocomunicações para a navegação interior. | Deve verificar-se se o simulador está equipado com sistemas de comunicação. | x | x |
+| 2. | Sistema de comunicação... | O simulador deve estar equipado com um sistema de comunicação composto por:<br>- Uma ligação telefónica interna alternativa; e<br>- Dois sistemas independentes de radiocomunicações para a navegação interior. | Deve verificar-se se o simulador está equipado com sistemas de comunicação. | x | x |
 | 3. | ECDIS-fluvial... | Pelo menos um ECDIS-fluvial deve ser instalado no simulador... | Deve verificar-se se a instalação tem as mesmas funcionalidades que um ECDIS-fluvial. | x |  |
 | 4. | Área de exercício... | A área de exercício contém pelo menos um rio representativo com braços laterais ou canais e portos. | Inspeção visual da área... | x | x |
 | 5. | Sinais sonoros... | Os sinais sonoros podem ser dados utilizando pedais ou botões... | Deve verificar-se se estes funcionam corretamente... | x | x |
@@ -1770,35 +1774,35 @@ I - Prescrições técnicas e funcionais para a pilotagem das embarcações e pa
 | 10. | Estação do operador... | O operador deve poder comunicar em todos os canais de frequência muito alta (VHF). O operador tem de ser capaz de monitorizar a utilização dos canais. | Deve verificar-se se o operador sabe comunicar em todos os canais VHF e se o operador sabe monitorizar a utilização de todos os canais. | x | x |
 | 11. | Vários exercícios... | Deve haver a possibilidade de criar, armazenar e correr vários exercícios, que devem ser manipuláveis quando em funcionamento. | São executadas diferentes operações... | x | x |
 | 12. | Exercícios separáveis... | Durante o exame de mais de um candidato, os exercícios dos candidatos não interferem com o exame do outro candidato. | O exercício é recomeçado para cada candidato... | x | x |
-| 13. | Funções e disposição da ponte do veículo aquático. | A secção da casa do leme é concebida para a navegação por radar por uma única pessoa, tal como previsto na norma ES-TRIN 2017/1. | Deve verificar-se se a disposição da ponte e as funções do equipamento correspondem às prescrições técnicas aplicáveis para os veículos aquáticos para a navegação interior. Deve verificar-se se a casa do leme se encontra concebida para operações de governo por uma só pessoa. | x | x |
+| 13. | Funções e disposição da ponte do veículo aquático. | A secção da casa do leme é concebida para a navegação por radar por uma única pessoa, tal como previsto na norma ES-TRIN 2017/1. | Deve verificar-se se a disposição da ponte e as funções do equipamento correspondem às prescrições técnicas aplicáveis para os veículos aquáticos para a navegação interior.<br>Deve verificar-se se a casa do leme se encontra concebida para operações de governo por uma só pessoa. | x | x |
 | 14. | Estação de governo (ponte/cabina)... | As estações de governo assemelham-se às dos veículos aquáticos fluviais no tocante à forma e dimensões. | Inspeção visual... | x | x |
-| 15. | Estação do operador... | 1 - Deve haver uma sala separada na qual o(s) operador(es) e examinador(es) possam estar sentados e onde o examinador possa também acompanhar a imagem de radar do candidato. 2 - A casa do leme e o espaço do operador devem estar separados um do outro. Devem ser tanto quanto possível à prova de som. 3 - O operador deve poder operar pelo menos dois canais VHF simultaneamente. 4 - O operador deve poder identificar claramente o canal de comunicação rádio utilizado pelo candidato. | Inspeção visual da estação do operador e inspeção de funcionalidade. | x | x |
+| 15. | Estação do operador... | 1 - Deve haver uma sala separada na qual o(s) operador(es) e examinador(es) possam estar sentados e onde o examinador possa também acompanhar a imagem de radar do candidato.<br>2 - A casa do leme e o espaço do operador devem estar separados um do outro. Devem ser tanto quanto possível à prova de som.<br>3 - O operador deve poder operar pelo menos dois canais VHF simultaneamente.<br>4 - O operador deve poder identificar claramente o canal de comunicação rádio utilizado pelo candidato. | Inspeção visual da estação do operador e inspeção de funcionalidade. | x | x |
 | 16. | Estação de informação... | Possibilidade de repetir a bordo de uma estação de operação ou de informação. | As atividades de avaliação têm de ser monitorizadas... | x | x |
-| Veículo aquático próprio (3). | Veículo aquático próprio (3). | Veículo aquático próprio (3). | Veículo aquático próprio (3). | Veículo aquático próprio (3). | Veículo aquático próprio (3). |
-| 17. | Graus de liberdade... | O simulador deve estar apto a visualizar o movimento em seis graus de liberdade. | Os graus de liberdade implementados no simulador podem ser avaliados através da observação do sistema de visualização ou através de instrumentos. Por conseguinte, as manobras seguintes são realizadas utilizando pequenos veículos aquáticos que normalmente se movimentam com mais destreza e mais depressa do que os de maiores dimensões. - Se o horizonte balançar ao olhar em frente durante a navegação de curvas, é implementado o movimento de rolo. - Se a proa do veículo aquático levantar e cair com fortes acelerações longitudinais, é implementado o movimento de balanço. - Se o visor do sonar por ecos mudar quando em marcha a altas velocidades a uma profundidade constante, é implementado o movimento de capa. Este ensaio implica a modelização do efeito squat. | x |  |
+| Veículo aquático próprio (3). |  |  |  |  |  |
+| 17. | Graus de liberdade... | O simulador deve estar apto a visualizar o movimento em seis graus de liberdade. | Os graus de liberdade implementados no simulador podem ser avaliados através da observação do sistema de visualização ou através de instrumentos. Por conseguinte, as manobras seguintes são realizadas utilizando pequenos veículos aquáticos que normalmente se movimentam com mais destreza e mais depressa do que os de maiores dimensões.<br>- Se o horizonte balançar ao olhar em frente durante a navegação de curvas, é implementado o movimento de rolo.<br>- Se a proa do veículo aquático levantar e cair com fortes acelerações longitudinais, é implementado o movimento de balanço.<br>- Se o visor do sonar por ecos mudar quando em marcha a altas velocidades a uma profundidade constante, é implementado o movimento de capa. Este ensaio implica a modelização do efeito squat. | x |  |
 | 18. | Graus de liberdade... | O simulador deve estar apto a simular o movimento em três graus de liberdade. | Os graus de liberdade implementados no simulador devem ser avaliados. |  | x |
 | 19. | Sistema de propulsão... | A simulação de todos os componentes do sistema de propulsão é levada a cabo à semelhança da realidade e considera todas as influências relevantes. | O sistema de propulsão tem de ser ensaiado com base em manobras de aceleração e paragem durante as quais se pode observar o desempenho do motor (em termos de reação ao acelerador) e do veículo (em termos de velocidade máxima e comportamento temporal) | x | x |
-| 20. | Dispositivos de comando... | O dispositivo de comando imita a realidade da velocidade angular do leme e considera as influências mais importantes. | Para testar a qualidade da simulação dos dispositivos de comando, podem ser realizadas diferentes investigações. São dadas restrições quando não é possível avaliar o comportamento sem protocolos de variáveis de estado. - Reação: O dispositivo de comando é utilizado em movimento a vante e à ré. Observa-se se se iniciam mudanças na direção tomada pelo veículo aquático. - Velocidade angular do leme: O dispositivo de comando é utilizado e a velocidade angular é observada no visor. Pode ser medida se a velocidade for realista. | x | x |
-| 21. | Efeitos de fundos baixos... | O efeito da profundidade limitada da água na procura de potência e no comportamento de manobra é modelizado corretamente em termos de qualidade. | São propostos dois tipos de ensaios que permitem julgar a qualidade da consideração da influência dos fundos baixos: Marcha a vante em linha reta: em diferentes profundidades, é medida a velocidade máxima alcançada, padronizada com a velocidade em águas profundas e representada contra o parâmetro calado por profundidade (T/h). A comparação com os dados existentes provenientes de testes-padrão fornece informações sobre a qualidade da influência dos fundos baixos na simulação. Diâmetro de viragem: ao submeter um veículo aquático a uma potência constante e um ângulo do leme de 20º em águas laterais sem restrição, os valores de velocidade, ângulo de deriva, velocidade angular e diâmetro de viragem de um veículo aquático fixo em rotação podem ser registados numa profundidade de água reduzida. Representar estes dados contra T/h permite determinar a forma como o ângulo de desvio, a velocidade angular, a velocidade e o diâmetro mudam com a profundidade da água. | x |  |
-| 22. | Influência da corrente... | Existem pelo menos dois pontos de medição atuais no veículo aquático para que o momento de guinada da corrente possa ser calculado. | São previstos ensaios para verificar a existência da característica de desempenho e a sua consideração na simulação: - Um veículo aquático próprio é colocado num rio com uma corrente existente. Observa-se se o veículo aquático é levado pela corrente. Além disso, verifica-se se é acelerado até à velocidade da corrente. Se a corrente seguir a direção do rio, verificar-se-á ainda se a embarcação roda ligeiramente. - Um ensaio com a entrada do porto a partir de um rio com corrente mostra até que ponto o simulador calcula com realismo um momento de guinada gerado pela corrente inomogénea. | x | x |
-| 23. | Influência do vento... | A influência do vento gera forças no plano horizontal de acordo com a velocidade e a direção reais do vento. O vento gera também momentos de guinada e de rolamento. | Para verificar o nível de qualidade da influência do vento, podem ser realizados diferentes ensaios. Para poder detetar facilmente esses efeitos, devem ser escolhidas velocidades do vento relativamente elevadas. Executar o ensaio do seguinte modo: levar a cabo um ensaio tanto do vento frontal como do vento lateral com duas velocidades do vento diferentes numa zona em que a única influência seja a do vento. Acionar o vento e observar o comportamento. Parar o vento e observar o comportamento mais uma vez. Recomeçar com um veículo aquático não móvel. | x |  |
-| 24. | Efeito de margem... | A força lateral e o momento de guinada tendem a variar em função da distância à margem e da velocidade de forma adequada. | Para verificar o efeito de margem no simulador é necessária uma área de exercício que proporcione um embarcadouro ou um muro lateral. Devem ser efetuados os seguintes ensaios: - O veículo aquático prossegue em paralelo ao longo do muro. Verifica-se se a marcha é afetada e se o veículo aquático é atraído pelo muro e se a proa se afasta dele. - A distância à margem ou ao muro e a velocidade do veículo aquático são variadas e observa-se como os efeitos mudam. | x |  |
-| 25. | Interação veículo aquático-veículo aquático... | Regista-se a interação entre veículos aquáticos e calculam-se os efeitos realistas. | Para uma verificação total da interação veículo-veículo, dá-se início a um exercício com duas embarcações próprias no simulador em águas laterais não restritas. Se tal não for possível, o ensaio pode também ser efetuado utilizando um veículo de tráfego como segunda embarcação. Para uma boa avaliação dos resultados, os veículos começam em rotas paralelas a uma distância lateral relativamente pequena. - Tanto na ultrapassagem como no cruzamento, verifica-se em que medida a embarcação própria mostra atração e rotação. - É reduzida a profundidade da água. Verifica-se se os efeitos de interação aumentam. - A distância entre as embarcações deve ser aumentada a fim de verificar se os efeitos diminuem. - A velocidade da outra embarcação deve ser aumentada. Verifica-se a relação funcional entre o efeito da embarcação de passagem e a velocidade de cruzamento. | x |  |
-| 26. | Squat... | Tanto o afundamento dinâmico como o caimento são modelizados em função da velocidade, da profundidade da água e do calado. | Esta característica é testada da melhor maneira numa área com água lateral sem restrições e profundidade constante. - Um ensaio tem de demonstrar se a característica squat pode ser verificada utilizando sonares por eco. - Diferentes valores para a profundidade abaixo da quilha na proa e na popa mostram se a embarcação revela caimento. - Com o aumento da velocidade, a relação funcional entre o squat (diferença entre a profundidade abaixo da quilha durante a posição imóvel e em movimento) e a velocidade do veículo aquático é verificada. - Testa-se se o efeito squat aumenta a uma velocidade constante mas quando diminui a profundidade da água. | x |  |
-| 27. | Efeito de canal... | Consideração do fluxo de retorno da corrente. O fluxo de retorno não é linear em relação à velocidade do veículo. | O fluxo de retorno constitui um efeito físico introduzido no simulador como uma força de resistência imposta sobre o veículo aquático. Para a testar, o veículo é colocado num canal estreito, e posto em marcha estável com potência constante. A velocidade é então medida. A potência é aumentada e a velocidade é medida. O teste é repetido ao largo com a mesma potência constante (dois níveis). O efeito esperado é o seguinte: - A velocidade no canal estreito é menor do que ao largo com a mesma regulação de potência. - Com uma regulação de potência superior, a diferença de velocidade é maior do que numa regulação de potência inferior. | x |  |
-| 28. | Efeito de eclusa... | Numa eclusa, o veículo aquático experimenta o mesmo efeito que num canal. A eclusa causa um efeito adicional devido ao deslocamento provocado pelo veículo aquático com um grande fator de bloqueio ao entrar na eclusa (efeito de pistão). | O ensaio para o efeito de canal mostra o fluxo de retorno. Este ensaio não tem de ser repetido. O efeito de pistão pode ser demonstrado da seguinte maneira: - Levar o veículo aquático até à eclusa a uma velocidade relativamente alta. O veículo aquático experimenta resistência adicional após a sua entrada na eclusa (abrandar). Quando a propulsão parar, as forças de marcha à ré ainda devem estar disponíveis e a embarcação deve fazer ligeiramente marcha à ré. - Ao iniciar a marcha na eclusa, regular a propulsão para um valor fixo. O veículo aquático deixa a eclusa, experimentando uma força de resistência devido ao efeito de pistão. Após a saída da eclusa (veículo aquático fora da eclusa), a força de resistência deve parar, observando-se um aumento repentino da velocidade. | x |  |
-| 29. | Encalhe... | O encalhe reduz a velocidade da marcha do veículo aquático, pode ser audível por um som, mas não conduz, em qualquer caso, a uma paragem do veículo. O encalhe é notificado ao operador. | Para verificar o encalhe é necessário dispor de uma área de exercício com um fundo liso ainda que ligeiramente protuberante. Aqui, trata-se da existência de informação adequada acerca da profundidade no próprio simulador e não da representação no sistema de visualização. Ao encalhar numa praia, deve testar-se se o veículo aquático realmente para, e se o fizer, se o faz abruptamente ou se abranda. Durante o encalhe, a mudança de plano horizontal do veículo tem de ser verificada com o sistema de visualização. Ao passar sobre um fundo liso e muito baixo, deve testar-se se o veículo aquático encalha devido ao efeito squat enquanto a velocidade é continuamente aumentada. Em todos os encalhes, deve verificar-se se o incidente é acompanhado por um som. | x |  |
+| 20. | Dispositivos de comando... | O dispositivo de comando imita a realidade da velocidade angular do leme e considera as influências mais importantes. | Para testar a qualidade da simulação dos dispositivos de comando, podem ser realizadas diferentes investigações. São dadas restrições quando não é possível avaliar o comportamento sem protocolos de variáveis de estado.<br>- Reação: O dispositivo de comando é utilizado em movimento a vante e à ré. Observa-se se se iniciam mudanças na direção tomada pelo veículo aquático.<br>- Velocidade angular do leme: O dispositivo de comando é utilizado e a velocidade angular é observada no visor. Pode ser medida se a velocidade for realista. | x | x |
+| 21. | Efeitos de fundos baixos... | O efeito da profundidade limitada da água na procura de potência e no comportamento de manobra é modelizado corretamente em termos de qualidade. | São propostos dois tipos de ensaios que permitem julgar a qualidade da consideração da influência dos fundos baixos: Marcha a vante em linha reta: em diferentes profundidades, é medida a velocidade máxima alcançada, padronizada com a velocidade em águas profundas e representada contra o parâmetro calado por profundidade (T/h). A comparação com os dados existentes provenientes de testes-padrão fornece informações sobre a qualidade da influência dos fundos baixos na simulação.<br>Diâmetro de viragem: ao submeter um veículo aquático a uma potência constante e um ângulo do leme de 20º em águas laterais sem restrição, os valores de velocidade, ângulo de deriva, velocidade angular e diâmetro de viragem de um veículo aquático fixo em rotação podem ser registados numa profundidade de água reduzida.<br>Representar estes dados contra T/h permite determinar a forma como o ângulo de desvio, a velocidade angular, a velocidade e o diâmetro mudam com a profundidade da água. | x |  |
+| 22. | Influência da corrente... | Existem pelo menos dois pontos de medição atuais no veículo aquático para que o momento de guinada da corrente possa ser calculado. | São previstos ensaios para verificar a existência da característica de desempenho e a sua consideração na simulação:<br>- Um veículo aquático próprio é colocado num rio com uma corrente existente. Observa-se se o veículo aquático é levado pela corrente. Além disso, verifica-se se é acelerado até à velocidade da corrente. Se a corrente seguir a direção do rio, verificar-se-á ainda se a embarcação roda ligeiramente.<br>- Um ensaio com a entrada do porto a partir de um rio com corrente mostra até que ponto o simulador calcula com realismo um momento de guinada gerado pela corrente inomogénea. | x | x |
+| 23. | Influência do vento... | A influência do vento gera forças no plano horizontal de acordo com a velocidade e a direção reais do vento. O vento gera também momentos de guinada e de rolamento. | Para verificar o nível de qualidade da influência do vento, podem ser realizados diferentes ensaios. Para poder detetar facilmente esses efeitos, devem ser escolhidas velocidades do vento relativamente elevadas.<br>Executar o ensaio do seguinte modo: levar a cabo um ensaio tanto do vento frontal como do vento lateral com duas velocidades do vento diferentes numa zona em que a única influência seja a do vento. Acionar o vento e observar o comportamento. Parar o vento e observar o comportamento mais uma vez. Recomeçar com um veículo aquático não móvel. | x |  |
+| 24. | Efeito de margem... | A força lateral e o momento de guinada tendem a variar em função da distância à margem e da velocidade de forma adequada. | Para verificar o efeito de margem no simulador é necessária uma área de exercício que proporcione um embarcadouro ou um muro lateral. Devem ser efetuados os seguintes ensaios:<br>- O veículo aquático prossegue em paralelo ao longo do muro. Verifica-se se a marcha é afetada e se o veículo aquático é atraído pelo muro e se a proa se afasta dele.<br>- A distância à margem ou ao muro e a velocidade do veículo aquático são variadas e observa-se como os efeitos mudam. | x |  |
+| 25. | Interação veículo aquático-veículo aquático... | Regista-se a interação entre veículos aquáticos e calculam-se os efeitos realistas. | Para uma verificação total da interação veículo-veículo, dá-se início a um exercício com duas embarcações próprias no simulador em águas laterais não restritas. Se tal não for possível, o ensaio pode também ser efetuado utilizando um veículo de tráfego como segunda embarcação. Para uma boa avaliação dos resultados, os veículos começam em rotas paralelas a uma distância lateral relativamente pequena.<br>- Tanto na ultrapassagem como no cruzamento, verifica-se em que medida a embarcação própria mostra atração e rotação.<br>- É reduzida a profundidade da água. Verifica-se se os efeitos de interação aumentam.<br>- A distância entre as embarcações deve ser aumentada a fim de verificar se os efeitos diminuem.<br>- A velocidade da outra embarcação deve ser aumentada. Verifica-se a relação funcional entre o efeito da embarcação de passagem e a velocidade de cruzamento. | x |  |
+| 26. | Squat... | Tanto o afundamento dinâmico como o caimento são modelizados em função da velocidade, da profundidade da água e do calado. | Esta característica é testada da melhor maneira numa área com água lateral sem restrições e profundidade constante.<br>- Um ensaio tem de demonstrar se a característica squat pode ser verificada utilizando sonares por eco.<br>- Diferentes valores para a profundidade abaixo da quilha na proa e na popa mostram se a embarcação revela caimento.<br>- Com o aumento da velocidade, a relação funcional entre o squat (diferença entre a profundidade abaixo da quilha durante a posição imóvel e em movimento) e a velocidade do veículo aquático é verificada.<br>- Testa-se se o efeito squat aumenta a uma velocidade constante mas quando diminui a profundidade da água. | x |  |
+| 27. | Efeito de canal... | Consideração do fluxo de retorno da corrente. O fluxo de retorno não é linear em relação à velocidade do veículo. | O fluxo de retorno constitui um efeito físico introduzido no simulador como uma força de resistência imposta sobre o veículo aquático. Para a testar, o veículo é colocado num canal estreito, e posto em marcha estável com potência constante. A velocidade é então medida. A potência é aumentada e a velocidade é medida. O teste é repetido ao largo com a mesma potência constante (dois níveis). O efeito esperado é o seguinte:<br>- A velocidade no canal estreito é menor do que ao largo com a mesma regulação de potência.<br>- Com uma regulação de potência superior, a diferença de velocidade é maior do que numa regulação de potência inferior. | x |  |
+| 28. | Efeito de eclusa... | Numa eclusa, o veículo aquático experimenta o mesmo efeito que num canal. A eclusa causa um efeito adicional devido ao deslocamento provocado pelo veículo aquático com um grande fator de bloqueio ao entrar na eclusa (efeito de pistão). | O ensaio para o efeito de canal mostra o fluxo de retorno. Este ensaio não tem de ser repetido. O efeito de pistão pode ser demonstrado da seguinte maneira:<br>- Levar o veículo aquático até à eclusa a uma velocidade relativamente alta. O veículo aquático experimenta resistência adicional após a sua entrada na eclusa (abrandar). Quando a propulsão parar, as forças de marcha à ré ainda devem estar disponíveis e a embarcação deve fazer ligeiramente marcha à ré.<br>- Ao iniciar a marcha na eclusa, regular a propulsão para um valor fixo. O veículo aquático deixa a eclusa, experimentando uma força de resistência devido ao efeito de pistão. Após a saída da eclusa (veículo aquático fora da eclusa), a força de resistência deve parar, observando-se um aumento repentino da velocidade. | x |  |
+| 29. | Encalhe... | O encalhe reduz a velocidade da marcha do veículo aquático, pode ser audível por um som, mas não conduz, em qualquer caso, a uma paragem do veículo. O encalhe é notificado ao operador. | Para verificar o encalhe é necessário dispor de uma área de exercício com um fundo liso ainda que ligeiramente protuberante. Aqui, trata-se da existência de informação adequada acerca da profundidade no próprio simulador e não da representação no sistema de visualização. Ao encalhar numa praia, deve testar-se se o veículo aquático realmente para, e se o fizer, se o faz abruptamente ou se abranda. Durante o encalhe, a mudança de plano horizontal do veículo tem de ser verificada com o sistema de visualização. Ao passar sobre um fundo liso e muito baixo, deve testar-se se o veículo aquático encalha devido ao efeito squat enquanto a velocidade é continuamente aumentada.<br>Em todos os encalhes, deve verificar-se se o incidente é acompanhado por um som. | x |  |
 | 30. | Encalhe Abalroamento veículo aquático-terra Abalroamento veículo aquático-veículo aquático Abalroamento veículo aquático-ponte. | Um encalhe, um abalroamento veículo aquático-terra, veículo aquático-veículo aquático ou veículo aquático-ponte são notificados na simulação ao candidato e ao operador. | Inspeção visual... |  | x |
-| 31. | Abalroamento veículo aquático-terra... | Os abalroamentos veículo aquático-terra são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. O cálculo do abalroamento é efetuado utilizando uma representação bidimensional do veículo. | A simulação do abalroamento veículo aquático-terra só pode ser testada em áreas de exercício com diferentes objetos em terra. Navegando contra diferentes objetos, pode testar-se se o simulador os consegue detetar e reagir. Relativamente a diferentes objetos, testa-se se existem alguns relativamente aos quais não se verifica qualquer reação. O som que marca o abalroamento pode ser testado com o sistema áudio do simulador, se existir. A observação do abalroamento no sistema de visualização mostra se este ocorreu abruptamente ou se é simulada uma zona de encalhe lento. Um abalroamento com um ângulo raso a baixa velocidade pode mostrar se se calcula tendo em conta uma força tipo elástico. | x |  |
-| 32. | Abalroamento veículo aquático-veículo aquático | Os abalroamentos veículo aquático-veículo aquático são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. | O cálculo do abalroamento é efetuado utilizando uma representação bidimensional do veículo. Na condição prévia de não fazer diferença para a própria embarcação se a embarcação que se abalroa é outra embarcação própria ou uma embarcação de tráfego, podem ser encenados diferentes abalroamentos. Verifica-se qual a reação que ocorre no simulador durante um abalroamento entre duas embarcações e se é audível algum som. Na estação do instrutor, verifica-se com uma ampliação suficiente se os rebordos do veículo aquático são utilizados para a deteção do abalroamento. Testa-se, se o abalroamento ocorrer exatamente nesse momento, quando os rebordos se tocam mutuamente. Verifica-se se existe uma deteção exata do abalroamento também para várias embarcações com formas diferentes. | x |  |
-| 33. | Abalroamento veículo aquático-ponte... | Os abalroamentos veículo aquático-ponte são detetados utilizando um valor de altura estático (correspondente a uma casa do leme rebaixada e a um mastro rebaixado). Os abalroamentos são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. | Para analisar este resultado, deve existir uma ponte na área de exercício e é utilizada uma carta náutica eletrónica fluvial. Verifica-se se durante a passagem de uma ponte sem espaço suficiente ocorre um abalroamento e qual o resultado dessa simulação. Verifica-se se é possível uma passagem segura mediante a redução suficiente do nível da água ou um aumento do calado. Tal também deve ser verificado no sistema de visualização. São necessárias diferentes passagens para verificar o ponto de abalroamento no navio, se só existir um. Neste caso, também se poderá localizar se a ponte causa um abalroamento na linha central ou nos limites exteriores. | x |  |
+| 31. | Abalroamento veículo aquático-terra... | Os abalroamentos veículo aquático-terra são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. O cálculo do abalroamento é efetuado utilizando uma representação bidimensional do veículo. | A simulação do abalroamento veículo aquático-terra só pode ser testada em áreas de exercício com diferentes objetos em terra. Navegando contra diferentes objetos, pode testar-se se o simulador os consegue detetar e reagir.<br>Relativamente a diferentes objetos, testa-se se existem alguns relativamente aos quais não se verifica qualquer reação. O som que marca o abalroamento pode ser testado com o sistema áudio do simulador, se existir.<br>A observação do abalroamento no sistema de visualização mostra se este ocorreu abruptamente ou se é simulada uma zona de encalhe lento.<br>Um abalroamento com um ângulo raso a baixa velocidade pode mostrar se se calcula tendo em conta uma força tipo elástico. | x |  |
+| 32. | Abalroamento veículo aquático-veículo aquático | Os abalroamentos veículo aquático-veículo aquático são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. | O cálculo do abalroamento é efetuado utilizando uma representação bidimensional do veículo. Na condição prévia de não fazer diferença para a própria embarcação se a embarcação que se abalroa é outra embarcação própria ou uma embarcação de tráfego, podem ser encenados diferentes abalroamentos.<br>Verifica-se qual a reação que ocorre no simulador durante um abalroamento entre duas embarcações e se é audível algum som.<br>Na estação do instrutor, verifica-se com uma ampliação suficiente se os rebordos do veículo aquático são utilizados para a deteção do abalroamento.<br>Testa-se, se o abalroamento ocorrer exatamente nesse momento, quando os rebordos se tocam mutuamente. Verifica-se se existe uma deteção exata do abalroamento também para várias embarcações com formas diferentes. | x |  |
+| 33. | Abalroamento veículo aquático-ponte... | Os abalroamentos veículo aquático-ponte são detetados utilizando um valor de altura estático (correspondente a uma casa do leme rebaixada e a um mastro rebaixado). Os abalroamentos são notificados na simulação pelo menos por um som. A simulação abranda o veículo aquático. | Para analisar este resultado, deve existir uma ponte na área de exercício e é utilizada uma carta náutica eletrónica fluvial. Verifica-se se durante a passagem de uma ponte sem espaço suficiente ocorre um abalroamento e qual o resultado dessa simulação.<br>Verifica-se se é possível uma passagem segura mediante a redução suficiente do nível da água ou um aumento do calado. Tal também deve ser verificado no sistema de visualização.<br>São necessárias diferentes passagens para verificar o ponto de abalroamento no navio, se só existir um. Neste caso, também se poderá localizar se a ponte causa um abalroamento na linha central ou nos limites exteriores. | x |  |
 | 34. | Casa do leme regulável em altura... | A altura de abalroamento e o nível dos olhos devem ser adaptáveis à posição da ponte. Deve estar disponível um movimento contínuo da casa do leme regulável em altura. | Uma pré-condição para testar esta característica de desempenho é a disponibilidade de um veículo aquático típico para a navegação interior, por exemplo, um veículo de 110 m de comprimento. A disponibilidade básica desta funcionalidade pode ser verificada através da presença de um dispositivo de comando para a mudança de posição da ponte. | x |  |
-|  |  |  | A função pode ser testada na ponte e verifica-se se podem ser escolhidas posições arbitrárias e se o movimento é abrupto ou com velocidade realista. Ao posicionar outra embarcação própria nas proximidades pode testar-se se esta funcionalidade se encontra igualmente disponível para outros veículos aquáticos no sistema de visualização. Pode observar-se também se as luzes de navegação e os sinais diurnos se movem de acordo com o movimento ascendente da casa do leme da segunda embarcação no sistema de visualização. |  |  |
-| 35. | Cabos de fibra... | O sistema de visualização deve mostrar a dinâmica tanto do veículo aquático como do cabo de fibra (por exemplo, folga, elasticidade, peso e rutura e ligações aos pontos de amarração). | Numa zona de exercício com uma parede de cais, é testada a amarração com um cabo de fibra. Ao utilizar um cabo de fibra, deve verificar-se se este tem ligação a determinados pontos de amarração. O ponto de rutura de um cabo de fibra deve ser verificado ao tentar parar o veículo aquático com o cabo a toda a velocidade. A folga de um cabo é verificada pela diminuição da força e da distância. | x |  |
-| 36. | Âncoras... | As âncoras podem ser lançadas e recolhidas. A profundidade e a dinâmica da corrente devem ser tidas em conta. | Numa zona de exercício com uma profundidade limitada e numa embarcação própria com uma ou várias âncoras, a função de ancoragem pode ser examinada. É razoável, se estiver disponível uma corrente constante com uma velocidade variável. O lançamento e a recolha da âncora só são possíveis se existirem determinados elementos operacionais. Também deve ser verificado se existem instrumentos que indiquem o comprimento da corrente. Verifica-se se as velocidades diferem quando a âncora é lançada e quando é recolhida. Além disso, também deve ser verificado se tal é acompanhado do devido som. Pela variação da profundidade, verifica-se se esta tem influência na função de ancoragem. A baixa velocidade da corrente deve testar-se se o veículo aquático oscila e se para depois de lançada a âncora. À medida que a corrente aumenta continuamente, deve testar-se se a âncora sustém o veículo aquático. Se uma única âncora não sustiver o veículo aquático, deve verificar-se se o veículo para com duas âncoras quando estas são utilizadas. | x |  |
+|  |  |  | A função pode ser testada na ponte e verifica-se se podem ser escolhidas posições arbitrárias e se o movimento é abrupto ou com velocidade realista.<br>Ao posicionar outra embarcação própria nas proximidades pode testar-se se esta funcionalidade se encontra igualmente disponível para outros veículos aquáticos no sistema de visualização. Pode observar-se também se as luzes de navegação e os sinais diurnos se movem de acordo com o movimento ascendente da casa do leme da segunda embarcação no sistema de visualização. |  |  |
+| 35. | Cabos de fibra... | O sistema de visualização deve mostrar a dinâmica tanto do veículo aquático como do cabo de fibra (por exemplo, folga, elasticidade, peso e rutura e ligações aos pontos de amarração). | Numa zona de exercício com uma parede de cais, é testada a amarração com um cabo de fibra. Ao utilizar um cabo de fibra, deve verificar-se se este tem ligação a determinados pontos de amarração.<br>O ponto de rutura de um cabo de fibra deve ser verificado ao tentar parar o veículo aquático com o cabo a toda a velocidade. A folga de um cabo é verificada pela diminuição da força e da distância. | x |  |
+| 36. | Âncoras... | As âncoras podem ser lançadas e recolhidas. A profundidade e a dinâmica da corrente devem ser tidas em conta. | Numa zona de exercício com uma profundidade limitada e numa embarcação própria com uma ou várias âncoras, a função de ancoragem pode ser examinada. É razoável, se estiver disponível uma corrente constante com uma velocidade variável.<br>O lançamento e a recolha da âncora só são possíveis se existirem determinados elementos operacionais. Também deve ser verificado se existem instrumentos que indiquem o comprimento da corrente.<br>Verifica-se se as velocidades diferem quando a âncora é lançada e quando é recolhida. Além disso, também deve ser verificado se tal é acompanhado do devido som. Pela variação da profundidade, verifica-se se esta tem influência na função de ancoragem.<br>A baixa velocidade da corrente deve testar-se se o veículo aquático oscila e se para depois de lançada a âncora.<br>À medida que a corrente aumenta continuamente, deve testar-se se a âncora sustém o veículo aquático.<br>Se uma única âncora não sustiver o veículo aquático, deve verificar-se se o veículo para com duas âncoras quando estas são utilizadas. | x |  |
 | 37. | Reboque (operação entre dois veículos aquáticos) | No reboque, são consideradas a dinâmica de ambos os veículos aquáticos e a ligação por meio do cabo. | A zona de exercício para verificação da função de reboque pode ser uma área de mar aberto. Além do reboque ou do veículo próprio rebocado, é necessário outro veículo aquático (embarcação própria ou de tráfego). | x |  |
-|  |  |  | A condição básica para o reboque pode ser testada com um cabo de reboque entre a embarcação própria e o outro veículo. Se tal não for possível, deve verificar-se se é fornecido um método alternativo para definir uma força proveniente de um rebocador virtual. Verifica-se se a outra embarcação, utilizada como rebocador, pode acelerar a embarcação própria rebocada e dar início igualmente a uma manobra de guinada por força lateral. Verifica-se se a embarcação própria utilizada como rebocador pode mover a outra embarcação através de manobras adequadas e imobilizá-la e se esta também pode ser posta em rotação através de um puxão lateral. | x |  |
-| Veículos aquáticos de tráfego. | Veículos aquáticos de tráfego. | Veículos aquáticos de tráfego. | Veículos aquáticos de tráfego. | Veículos aquáticos de tráfego. | Veículos aquáticos de tráfego. |
+|  |  |  | A condição básica para o reboque pode ser testada com um cabo de reboque entre a embarcação própria e o outro veículo.<br>Se tal não for possível, deve verificar-se se é fornecido um método alternativo para definir uma força proveniente de um rebocador virtual.<br>Verifica-se se a outra embarcação, utilizada como rebocador, pode acelerar a embarcação própria rebocada e dar início igualmente a uma manobra de guinada por força lateral.<br>Verifica-se se a embarcação própria utilizada como rebocador pode mover a outra embarcação através de manobras adequadas e imobilizá-la e se esta também pode ser posta em rotação através de um puxão lateral. | x |  |
+| Veículos aquáticos de tráfego. |  |  |  |  |  |
 | 38. | Quantidade de veículos de tráfego... | Deve estar disponível um mínimo de dez veículos aquáticos... | O ensaio deve demonstrar se a quantidade exigida pode ser inserida num exercício. | x | x |
 | 39. | Controlo do veículo de tráfego... | O veículo aquático de tráfego pode seguir rotas com mudança de rumo e velocidade de forma realista. | A disponibilidade das funções de controlo tem de ser verificada através da criação de um novo exercício que inclua o veículo aquático de tráfego. | x | x |
 | 40. | Comportamento em movimento... | Comportamento em movimento razoavelmente calmo... | Aplica-se o procedimento de ensaio para controlo do veículo de tráfego. | x | x |
@@ -1811,30 +1815,30 @@ I - Prescrições técnicas e funcionais para a pilotagem das embarcações e pa
 | 47. | Sol, lua, corpos celestes... | O sol e a lua seguem um intervalo de 24 horas. As posições não correspondem exatamente ao local e data da simulação. O céu noturno pode ser constituído por estrelas arbitrárias. | A inspeção visual deve indicar se o sol, a lua e os corpos celestes numa situação diurna, noturna e crepuscular podem ser modificados. | x |  |
 | 48. | Meteorologia... | São representadas altas camadas de nuvens estacionárias. Além disso, podem ser representados queda de chuva, neblina e nevoeiro. | A inspeção visual mostra o nível de pormenor exigido... | x |  |
 | 49. | Ruído ambiente... | Os ruídos dos motores são reproduzidos de forma... | Os ruídos dos motores devem ser testados em condições meteorológicas e marítimas silenciosas pela avaliação dos ruídos para todas as velocidades do motor. Deve determinar-se se o ruído do motor é audível e se o volume e o som são adequados. | x | x |
-| 50. | Fontes externas de ruído (por exemplo, ruídos de motor, sinais de alarme e âncora). | Os sinais sonoros únicos são feitos de forma realista, mas não podem localizar-se acusticamente. | Em primeiro lugar, na casa do leme do veículo aquático próprio, estacionário, todos os sinais sonoros disponíveis são ativados um após outro. Determina-se se os sinais sonoros são realistas no que respeita aos níveis sonoros e ao volume. Numa segunda fase, os mesmos sinais sonoros são ativados noutro veículo aquático, enquanto a distância até ao veículo muda. Deve avaliar-se se os sinais sonoros corretos e os níveis de volume estão a ser manipulados corretamente. Todas as unidades de potência auxiliares (por exemplo, âncoras) na casa do leme do veículo aquático são ativadas separadamente. | x |  |
+| 50. | Fontes externas de ruído (por exemplo, ruídos de motor, sinais de alarme e âncora). | Os sinais sonoros únicos são feitos de forma realista, mas não podem localizar-se acusticamente. | Em primeiro lugar, na casa do leme do veículo aquático próprio, estacionário, todos os sinais sonoros disponíveis são ativados um após outro. Determina-se se os sinais sonoros são realistas no que respeita aos níveis sonoros e ao volume. Numa segunda fase, os mesmos sinais sonoros são ativados noutro veículo aquático, enquanto a distância até ao veículo muda. Deve avaliar-se se os sinais sonoros corretos e os níveis de volume estão a ser manipulados corretamente.<br>Todas as unidades de potência auxiliares (por exemplo, âncoras) na casa do leme do veículo aquático são ativadas separadamente. | x |  |
 |  |  |  | Deve verificar-se se o estatuto funcional é percetível em termos acústicos. |  |  |
 | 51. | Ruídos externos (sinais sonoros)... | Os sinais sonoros provenientes dos veículos aquáticos visados devem poder ser ouvidos. | Durante um exercício, é emitido um sinal sonoro por um veículo aquático visado. |  | x |
 | 52. | Informações acústicas internas... | Os sinais acústicos de dispositivos de pontes têm um som realista, mas são emitidos por altifalantes situados na consola do simulador. | Todos os sinais acústicos de todos os dispositivos disponíveis na casa do leme são ativados um após outro. É testado se os sinais são emitidos pelos próprios dispositivos ou pelos altifalantes do simulador e até que ponto parecem realistas. | x |  |
 | 53. | Audição... | O operador pode ouvir todos os ruídos provenientes da casa do leme do veículo aquático. | No âmbito de uma simulação tem de ser testado se os sons provenientes da casa do leme de um veículo aquático são transmitidos de forma clara e compreensível e se o nível de volume é regulável. | x |  |
 | 54. | Gravação... | Os sons da casa do leme do veículo aquático são gravados em simultâneo com a simulação. | É executado um exercício que inclui comunicações via rádio e sons. A reescuta deve revelar uma gravação audível e gravada em sincronia com a repetição da simulação. | x |  |
-| 55. | Conformidade do radar... | A exatidão angular para marcação horizontal deve estar de acordo com a Especificação Técnica Europeia (ETSI) EN 302 194. Os efeitos relativos ao ângulo de abertura verticalmente limitado são identificáveis por exemplo ao passar por pontes. | Conformidade «vertical»: simulação de passagem de ponte tendo em consideração: - A altura da antena acima da superfície da água com o calado atual, - O ângulo de irradiação em conformidade com o lóbulo do radar e o caimento do veículo, - A altura da ponte entre o bordo inferior da ponte e a superfície da água. | x | x |
-| 56. | Resolução... | A simulação de radar deve criar uma imagem de radar realista. A simulação de radar deve preencher os requisitos da ETSI EN 302 194 [1]. | Deve ser demonstrada a correta resolução a uma distância de 1200 m: dois objetos com uma distância azimutal de 30 m têm de ser identificados como dois objetos separados. Dois objetos a uma distância de 1200 m na mesma direção com uma distância de 15 m entre si têm de ser identificados como dois objetos diferentes. | x | x |
-| 57. | Sombra causada pelo próprio veículo aquático ou por outro veículo. | A sombra corresponde às relações trigonométricas, mas não se consideram as alterações da posição dinâmica do veículo aquático. | A sombra causada pelo próprio veículo aquático deve ser testada pela aproximação de uma boia e pela identificação da distância a que a boia se encontra escondida pela proa da embarcação. Esta distância deve ser realista. A sombra causada pelo outro veículo aquático tem de ser testada colocando-se dois veículos na mesma direção. Ao colocar um veículo menor atrás de outro maior, o mais pequeno não deve aparecer no visor do radar. | x | x |
+| 55. | Conformidade do radar... | A exatidão angular para marcação horizontal deve estar de acordo com a Especificação Técnica Europeia (ETSI) EN 302 194.<br>Os efeitos relativos ao ângulo de abertura verticalmente limitado são identificáveis por exemplo ao passar por pontes. | Conformidade «vertical»: simulação de passagem de ponte tendo em consideração:<br>- A altura da antena acima da superfície da água com o calado atual,<br>- O ângulo de irradiação em conformidade com o lóbulo do radar e o caimento do veículo,<br>- A altura da ponte entre o bordo inferior da ponte e a superfície da água. | x | x |
+| 56. | Resolução... | A simulação de radar deve criar uma imagem de radar realista. A simulação de radar deve preencher os requisitos da ETSI EN 302 194 [1]. | Deve ser demonstrada a correta resolução a uma distância de 1200 m: dois objetos com uma distância azimutal de 30 m têm de ser identificados como dois objetos separados.<br>Dois objetos a uma distância de 1200 m na mesma direção com uma distância de 15 m entre si têm de ser identificados como dois objetos diferentes. | x | x |
+| 57. | Sombra causada pelo próprio veículo aquático ou por outro veículo. | A sombra corresponde às relações trigonométricas, mas não se consideram as alterações da posição dinâmica do veículo aquático. | A sombra causada pelo próprio veículo aquático deve ser testada pela aproximação de uma boia e pela identificação da distância a que a boia se encontra escondida pela proa da embarcação. Esta distância deve ser realista.<br>A sombra causada pelo outro veículo aquático tem de ser testada colocando-se dois veículos na mesma direção. Ao colocar um veículo menor atrás de outro maior, o mais pequeno não deve aparecer no visor do radar. | x | x |
 | 58. | Interferência do mar e da chuva... | O ajuste dos filtros e o seu efeito correspondem à amplitude de dispositivos reais homologados. | É feita uma avaliação através da regulação e do ajuste dos filtros. | x | x |
 | 59. | Falsos ecos... | São gerados falsos ecos. Além disso, a frequência de ecos múltiplos muda com a distância de modo realista. | Num exercício com múltiplos veículos aquáticos visados, os falsos ecos devem ser visíveis. Durante o ensaio, o observador deve procurar interferências e ecos múltiplos. | x | x |
 | 60. | Profundidade da água... | A topografia do fundo é descrita em pormenor por curvas e sondagens batimétricas ou por qualquer outra forma numa resolução elevada, tanto quanto haja dados disponíveis. | Ao navegar na zona a inspecionar, deve verificar-se se o sonar por ecos mostra valores realistas. | x |  |
 | 61. | Corrente... | A corrente pode ser arbitrária, definida por pelo menos campos de vetores bidimensionais com uma alta resolução adaptada à dimensão do veículo aquático e à área em causa. | O efeito da corrente tem de ser testado ao deixar-se o veículo aquático próprio vogar livremente num rio. O veículo aquático deve mover-se com a corrente de forma realista. | x | x |
 | 62. | Maré... | Os dados das marés são dados numa resolução espacial ou temporal grosseira, ou em ambas. | O efeito da maré em objetos flutuantes pode ser avaliado pela simulação de um objeto flutuante de preferência de pequena dimensão sem qualquer força de propulsão ou outras forças (por exemplo, do vento ou de um cabo). Por mudar a hora do dia, pode verificar-se se a corrente de maré e a linha de água dependem do tempo e são realistas. A linha de água pode ser vista diretamente no sonar por ecos e pode ser registada por um dia inteiro para comparar com dados medidos ou calculados. | x |  |
 | 63. | Vento... | As flutuações e os campos do vetor do vento podem ser definidos e permitir alterações locais. | Se for instalado um anemómetro a bordo, o instrumento na ponte deve indicar a velocidade relativa do vento, bem como a sua direção. A influência de diferentes campos de vento na dinâmica do veículo aquático deve ser testada. | x |  |
-| 64. | Modelos 2D/3D de objetos fixos... | Os substitutos 2D de objetos só são permitidos se se tratar de objetos distantes e são irreconhecíveis. | Os objetos fixos são observados enquanto um veículo aquático se desloca por toda a zona de simulação que tem de ser validada. Pode ser determinada a que distância e de que maneira o nível de pormenor é reduzido e em que medida são utilizados os modelos de 2D. | x |  |
+| 64. | Modelos 2D/3D de objetos fixos... | Os substitutos 2D de objetos só são permitidos se se tratar de objetos distantes e são irreconhecíveis. | Os objetos fixos são observados enquanto um veículo aquático se desloca por toda a zona de simulação que tem de ser validada.<br>Pode ser determinada a que distância e de que maneira o nível de pormenor é reduzido e em que medida são utilizados os modelos de 2D. | x |  |
 | 65. | Nível de pormenor dos objetos fixos... | Um bom nível de pormenor pode deixar aparecer objetos realistas, embora as simplificações sejam reconhecíveis em termos de forma e de superfície. | A área de formação a avaliar é carregada e estabelecido um veículo aquático próprio. Em primeiro lugar, é necessário examinar se são identificados todos os objetos importantes do sistema de navegação. O cenário deve, à primeira vista, aparecer realista. | x |  |
-| 66. | Modelos diurnos/noturnos de objetos móveis | Na escuridão, qualquer objeto pode ser iluminado. As fontes luminosas importantes para a navegação podem emitir luz com características predeterminadas. | A área de formação a avaliar é carregada e estabelecido um veículo aquático próprio. A hora simulada é regulada para a meia-noite. Deve testar-se se todos os objetos importantes do sistema de navegação são iluminados na simulação tal como na realidade. Além disso, deve testar-se se são iluminados outros objetos. Se a aplicação informática do simulador tiver essa função, o instrutor acende e apaga a luz dos elementos pretendidos. | x |  |
+| 66. | Modelos diurnos/noturnos de objetos móveis | Na escuridão, qualquer objeto pode ser iluminado. As fontes luminosas importantes para a navegação podem emitir luz com características predeterminadas. | A área de formação a avaliar é carregada e estabelecido um veículo aquático próprio. A hora simulada é regulada para a meia-noite. Deve testar-se se todos os objetos importantes do sistema de navegação são iluminados na simulação tal como na realidade.<br>Além disso, deve testar-se se são iluminados outros objetos. Se a aplicação informática do simulador tiver essa função, o instrutor acende e apaga a luz dos elementos pretendidos. | x |  |
 | 67. | Modelos 2D/3D de objetos móveis... | Os objetos bidimensionais só são utilizados em pano de fundo (à distância) pelo que quase não se veem. De outra forma, são adotados os modelos 3D. | A área de formação a avaliar é carregada e selecionado um veículo aquático próprio. A área de formação é completamente navegada; simultaneamente, os objetos móveis disponíveis são utilizados, observados e avaliados para determinar se apresentam superfícies planas viradas para o observador. | x |  |
 | 68. | Nível de pormenor... | Em caso de um nível de pormenor melhorado, são apresentados objetos realistas, embora as formas e as superfícies apareçam de forma simplificada. | Um veículo aquático próprio funciona numa área operacional arbitrariamente selecionada. São utilizados objetos móveis passíveis de avaliação. Devem figurar de forma realista. | x |  |
-| 69. | Sinalização luminosa e diurna... | As luzes e os sinais mostrados podem ser ligados individualmente, ou seja, todas as luzes e sinais são armazenados separadamente na base de dados e são posicionados de acordo com as prescrições de verdadeiros veículos aquáticos e de acordo com a regulamentação aplicável para esses veículos. | Em grande proximidade de um veículo aquático de tráfego, um veículo próprio é utilizado em qualquer zona de formação. Tanto quanto possível, o operador coloca todos os tipos de sinalização diurna e de tráfego no veículo de tráfego. Se o simulador o permitir, um segundo veículo próprio é utilizado em vez do veículo de tráfego. No segundo veículo próprio, são igualmente colocadas todo o tipo de luzes e sinalização diurna. Na estação de governo do primeiro veículo próprio, deve verificar-se quais os sinais e luzes visíveis em ambos os outros veículos. | x |  |
+| 69. | Sinalização luminosa e diurna... | As luzes e os sinais mostrados podem ser ligados individualmente, ou seja, todas as luzes e sinais são armazenados separadamente na base de dados e são posicionados de acordo com as prescrições de verdadeiros veículos aquáticos e de acordo com a regulamentação aplicável para esses veículos. | Em grande proximidade de um veículo aquático de tráfego, um veículo próprio é utilizado em qualquer zona de formação. Tanto quanto possível, o operador coloca todos os tipos de sinalização diurna e de tráfego no veículo de tráfego. Se o simulador o permitir, um segundo veículo próprio é utilizado em vez do veículo de tráfego.<br>No segundo veículo próprio, são igualmente colocadas todo o tipo de luzes e sinalização diurna. Na estação de governo do primeiro veículo próprio, deve verificar-se quais os sinais e luzes visíveis em ambos os outros veículos. | x |  |
 | 70. | Modelos diurnos/noturnos... | As fontes de luz podem piscar de acordo com certas características | Um veículo aquático próprio navega numa determinada área operacional. A hora de simulação é fixada em 24:00 h. São utilizados todos os objetos móveis passíveis de avaliação. Tanto quanto possível, o operador liga todas as fontes luminosas instaladas nos objetos para inspeção visual. | x |  |
 | 71. | Refletividade do radar... | O eco na imagem radar deve ser realista e depender do ângulo de visualização. | Deve verificar-se se os objetos refletidos mostram um eco realista. | x | x |
-| 72. | Ecos provocados pelas ondas e precipitação | Os ecos do estado do mar são registados para um padrão típico de ondas que abrange igualmente a gama de estados do mar. Os ecos por precipitação são apresentados de forma realista... | Os ecos do estado do mar devem ser testados através da introdução de alturas de onda diferentes e de diferentes direções. Os ecos de precipitação são verificados. | x | x |
+| 72. | Ecos provocados pelas ondas e precipitação | Os ecos do estado do mar são registados para um padrão típico de ondas que abrange igualmente a gama de estados do mar.<br>Os ecos por precipitação são apresentados de forma realista... | Os ecos do estado do mar devem ser testados através da introdução de alturas de onda diferentes e de diferentes direções. Os ecos de precipitação são verificados. | x | x |
 | 73. | Ondas... | O estado do mar e a direção das ondas podem ser ajustados; o veículo aquático move-se de forma realista. | Deve testar-se se o movimento do veículo aquático varia de acordo com o estado do mar. As direções e a altura das ondas têm de ser visíveis. | x |  |
 | 74. | Precipitação... | Todas as condições meteorológicas (restrição de visibilidade, precipitação com exceção de relâmpagos e formação de nuvens) estão disponíveis e resultam numa imagem coerente. | Deve ser efetuada uma inspeção visual para verificar se a visibilidade pode ser reduzida. | x |  |
 | 75. | Cartas naúticas... | O ECDIS-fluvial no modo informação deve satisfazer os requisitos da norma mais recente publicada pela União Europeia ou pela Comissão Central para a Navegação do Reno [Regulamento de Execução (UE) n.º 909/2013 da Comissão ou a versão atualizada da edição 2.3 do CCNR ECDIS-fluvial]. | Deve verificar-se se o software ECDIS é ou não certificado e se está a ser utilizada a carta náutica eletrónica fluvial. | x |  |
@@ -1843,7 +1847,7 @@ I - Prescrições técnicas e funcionais para a pilotagem das embarcações e pa
 | 78. | Quantidade de exercícios... | Deve haver a possibilidade de criar, armazenar e correr vários exercícios, que devem ser manipuláveis quando em funcionamento. | São executadas diferentes operações... | x | x |
 | 79. | Quantidade de veículos próprios... | Para cada ponte deve ser carregado um veículo próprio diferente... | Demonstração de exercícios separados em pontes múltiplas (se aplicável). | x |  |
 | 80. | Dados relativos ao armazenamento... | Todos os valores de simulação necessários para recriar a simulação, incluindo o vídeo e o som do desempenho do candidato, têm de ser armazenados. | É iniciada uma simulação e feita a armazenagem. A simulação é recarregada e revista a fim de determinar se todos os dados relevantes estão disponíveis a partir da simulação gravada. | x | x |
-| 81. | Armazenamento do exame visualizado... | Deve haver a possibilidade de voltar a correr a simulação na sala do operador ou numa estação de informação. A comunicação rádio deve ser passível de gravação... | O exercício deve voltar a ser corrido... | x | x |
+| 81. | Armazenamento do exame visualizado... | Deve haver a possibilidade de voltar a correr a simulação na sala do operador ou numa estação de informação.<br>A comunicação rádio deve ser passível de gravação... | O exercício deve voltar a ser corrido... | x | x |
 
 II - Normas relativas ao procedimento administrativo para homologação dos simuladores de pilotagem das embarcações e dos simuladores de radar
 
@@ -1878,3 +1882,5 @@ e) Data de entrada em vigor, revogação ou suspensão da homologação do simul
 (2) Um veículo aquático visado é completamente controlado pelo simulador e pode movimentar-se de uma maneira muito mais simples do que o próprio veículo.
 
 (3) Um veículo aquático próprio constitui um objeto no simulador que é totalmente controlado por um ser humano e que proporciona uma representação visual do cenário.
+
+117027231

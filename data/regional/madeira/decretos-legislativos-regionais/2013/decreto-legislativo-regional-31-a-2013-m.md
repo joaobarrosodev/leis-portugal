@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7056-(298) a 7056-(341)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25302/0029800341.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31-a/2013/12/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d517dcbad608a86523f31b7ae36be59c086f8f4bd7f20994fa7b86cdf4d88848
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de9320e2574d9dfaa86c51d28cae989852e5eef2ecd65b0c4730ea26d313c9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,81 +65,137 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
-- Quadro Interdepartamental Regional
 - Associação de Municípios
-- Valores Mobiliários
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
+- Banca
+- Base de Dados
 - BEM Móvel
-- Turismo
-- Gestão Financeira
-- Finanças Locais
-- Governo Regional
+- Bolsa de Emprego Público
+- Conselho do Governo Regional
 - Contrato Programa
+- Contribuições e Impostos
 - Cooperação Financeira
 - Cooperação Técnica
 - Crédito Bonificado
 - Derrama
 - Despesas Públicas
-- Vice-presidência do Governo Regional
+- Direcção Regional de Qualificação Profissional
 - Direcção Regional do Património
-- Secretaria Regional do Plano e Finanças
 - Dívida
 - Dívida Pública
 - Empreitada de Obras Públicas
+- Empresa Pública
 - Empresa Pública Regional
 - Feader
-- Empresa Pública
-- Fiscalização
-- Setor Empresarial do Estado
-- Habitação Social
-- Fundos Autónomos
-- Presidente do Governo Regional
-- Bolsa de Emprego Público
-- Recrutamento de Pessoal
-- Conselho do Governo Regional
-- IHM
-- Contribuições e Impostos
-- IRS
-- Base de Dados
-- Banca
+- Finanças Locais
 - Finanças Regionais
+- Financiamento
+- Fiscalização
 - FSE
+- Função Pública
+- Funcionário Público
 - Fundo de Gestão dos Programas da DRP
-- Patriram
+- Fundos Autónomos
+- Garantia
+- Gestão Financeira
+- Governo Regional
+- Habitação Social
+- IHM
+- IRC
+- IRS
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
+- Patriram
 - Piddac
-- Sistema de Informação
-- IRC
+- Prédio Urbano
+- Presidente do Governo Regional
 - Proderam
-- Madeira.região Autónoma
+- Quadro Interdepartamental Regional
 - Receita
 - Receita Própria
+- Recrutamento de Pessoal
 - Recursos Humanos
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
-- Direcção Regional de Qualificação Profissional
+- Secretaria Regional do Plano e Finanças
 - Sector Empresarial Local
-- Funcionário Público
-- Prédio Urbano
+- Setor Empresarial do Estado
+- Sistema de Informação
 - Subsídio
 - Taxa
-- Transferência de Verbas
-- Autarquia Local
-- Tributação
-- Vice-presidente do Governo Regional
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- Transferência de Verbas
+- Tributação
+- Turismo
+- Valores Mobiliários
+- Vice-presidência do Governo Regional
+- Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58986482:por
+  label: Alterados os arts 13.º, 22.º, 34.º, 45.º, 48.º e 49.º e alterado o Orçamento da Região Autónoma da Madeira para 2014,
+    na parte respeitante aos mapas I a X, anexos ao presente diploma, que substituem os correspondentes mapas a que se refere
+    o art.1.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 14/2014/M - Diário da República n.º 226/2014,
+    Série I de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2014-58986482
+  date: '2014-11-21'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantidas em vigor na RAM as taxas de Imposto sobre o Rendimento das Pessoas Singulares (IRS) estabelecidas no arts.
+    2º e 2.º-A do DLR 3/2001/M, de 22-fev, mantidas em vigor pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º
+    18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:70007184:por
+  label: Alterado o art. 1.º do DLR 11/83/M, de 01-ago, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2015-70007184
+  date: '2015-08-13'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantidas em vigor as taxas de imposto sobre o rendimento das pessoas coletivas, para vigorar na RAM, estabelecidas
+    no art 2.º (alterado pelo presente diploma e pelos DLR 29-A/2001/M de 20-dez, 30-A/2003/M de 31-dez, 21-A/2005/M de 30-dez,
+    3/2007/M de 09-jan, 2-A/2008/M de 16-jan, 45/2008/M de 31-dez, 34/2009/M de 31-dez e 2/2011/M de 10-jan, DRR 2/2010/M
+    de 26-maio, DLR 20/2011/M de 26-dez e DLR 18/2014/M de 31-dez) do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo
+    Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Prorrogado, com efeitos desde 01.01.2017, o regime da contribuição sobre o setor bancário para a Região Autónoma
+    da Madeira aprovado pelo art. 20.º do DLR 2/2011/M de 10-jan, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterado, com efeitos desde 01.01.2019, o art. 2.º do DLR 2/2001/M de 20-fev, com a redação dada pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do IRC, para vigorar na Região Autónoma da Madeira, estabelecidas
+    no art. 2.º, na redação do presente diploma, do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M
+    - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2010/08/05/m/dre
   label: null
@@ -180,16 +236,304 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:145060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
+  article_count: 67
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:46Z'
   warnings: []
   errors: []
 ---
@@ -952,7 +1296,7 @@ c) ...
 
 2 - ...
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Todos os valores obtidos e previstos no presente diploma serão entregues pela Tesouraria do Governo Regional ao Serviço Regional de Proteção Civil, IP-RAM, através de operações extraorçamentais.
 
@@ -1020,12 +1364,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 20 de dezembro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 26 de dezembro de 2013.**
+Assinado em 26 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25302/0029800341.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25302/0029800341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25302/0029800341.pdf)

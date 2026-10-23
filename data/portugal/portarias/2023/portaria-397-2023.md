@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/23000/0000300081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/397/2023/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/397-2023-224892462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fbcc0ce944488823548b5116501a0a3c3b8bad6dbcc2e0e68d2f06e8d9b1071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9f0dc9f970f5c01fdaa83e5eff74f83efc3b29e496a5283ae8ba3513a4f1aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Adjudicação por Concurso Público
 - Associação de Municípios
-- Energia Elétrica
 - Concurso Público
-- Regulamentação de Atos Legislativos
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
+- Regulamentação de Atos Legislativos
 - Sistema Elétrico Nacional
 relationships:
 - type: cites
@@ -122,16 +122,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/372/2017/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/372/2017/12/14/p/dre
+- type: cites
+  target: pt:dre:107106258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114350958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149948259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025051:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 112
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:02Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +220,7 @@ c) O contrato-tipo da concessão é elaborado nos termos constantes do anexo iii
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de outubro de 2023.**
+A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de outubro de 2023.
 
 ## ANEXO I — [a que se refere a alínea a) do artigo 1.º]
 
@@ -416,11 +468,13 @@ b) Alguns dos membros que o integram o preencham conjuntamente, quando tal seja 
 
 a)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892266.png) |
+| --- |
 
 b)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892267.png) |
+| --- |
 
 4 - O cumprimento do disposto no número anterior imputa-se de igual modo ao concessionário, no final de cada ano.
 
@@ -434,11 +488,13 @@ b) Seja integrado por uma instituição de crédito que apresente documento comp
 
 a)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892268.png) |
+| --- |
 
 b)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892269.png) |
+| --- |
 
 7 - Os requisitos de capacidade financeira devem ser certificados por uma entidade auditora independente.
 
@@ -692,9 +748,9 @@ A todas as matérias que não estiverem especialmente reguladas no presente prog
 
 Composição do agrupamento de entidades adjudicantes
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Entidade adjudicante | Sede | NIPC | Representante | Data da deliberação |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | [...] |  |  |  |  |
@@ -709,9 +765,9 @@ Modelo de declaração sobre os requisitos de capacidade financeira
 
 Lista de membros do agrupamento candidato
 
-|  |  |  |  |  |
+| Designação social | Sede | NIPC | Capital social | Participação relativa<br>no Consórcio/ACE |
 | --- | --- | --- | --- | --- |
-| Designação social | Sede | NIPC | Capital social | Participação relativa no Consórcio/ACE |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | [...] |  |  |  |  |
@@ -756,11 +812,11 @@ Avaliação da qualidade, viabilidade e consistência do plano
 
 |  |  |  |
 | --- | --- | --- |
-| Nível P5 | Excelente ... | O plano aborda diversos temas relevantes, propõe ações que se afiguram viáveis e apresenta uma elevada consistência entre as diversas iniciativas com adequada definição de metas. |
-| Nível P4 | Algumas limitações ... | O plano aborda alguns temas relevantes, propõe ações que na sua maioria se afiguram viáveis e apresenta consistência entre as diversas iniciativas. |
-| Nível P3 | Problemas de consistência ... | Detetam-se inconsistências entre a análise do contexto e as ações previstas, embora estas se afigurem viáveis e as metas pareçam realizáveis. |
-| Nível P2 | Problemas de viabilidade ... | Uma parte importante das iniciativas, ou das metas propostas levantam dúvidas quanto à sua viabilidade e exequibilidade. |
-| Nível P1 | Pouco adequado ... | O plano apresenta lacunas importantes, inconsistências graves e indefinição de objetivos e metas, não contribuindo para o esclarecimento das intenções do concorrente quanto à sua ação futura. |
+| Nível<br>P5 | Excelente ... | O plano aborda diversos temas relevantes, propõe ações que se afiguram viáveis e apresenta uma elevada consistência entre as diversas iniciativas com adequada definição de metas. |
+| Nível<br>P4 | Algumas limitações ... | O plano aborda alguns temas relevantes, propõe ações que na sua maioria se afiguram viáveis e apresenta consistência entre as diversas iniciativas. |
+| Nível<br>P3 | Problemas de consistência ... | Detetam-se inconsistências entre a análise do contexto e as ações previstas, embora estas se afigurem viáveis e as metas pareçam realizáveis. |
+| Nível<br>P2 | Problemas de viabilidade ... | Uma parte importante das iniciativas, ou das metas propostas levantam dúvidas quanto à sua viabilidade e exequibilidade. |
+| Nível<br>P1 | Pouco adequado ... | O plano apresenta lacunas importantes, inconsistências graves e indefinição de objetivos e metas, não contribuindo para o esclarecimento das intenções do concorrente quanto à sua ação futura. |
 
 TABELA 2
 
@@ -768,19 +824,19 @@ Avaliação da qualidade do mecanismo de controlo
 
 |  |  |  |
 | --- | --- | --- |
-| Nível Q5 | Excelente ... | O mecanismo de controlo garante globalmente o cumprimento do plano e das metas respetivas. |
-| Nível Q4 | Efeito muito positivo ... | O mecanismo de controlo cria condições que penalizam um concorrente que não cumpra as metas ou não desenvolva as ações previstas. |
-| Nível Q3 | Efeito marginalmente positivo ... | O mecanismo de controlo cria condições que penalizam ligeiramente um concorrente que não cumpra as metas ou não desenvolva as ações previstas. |
-| Nível Q2 | Efeito pouco significativo ... | O mecanismo de controlo tem um efeito pouco significativo na monitorização do cumprimento das metas e do plano. |
-| Nível Q1 | Sem eficácia ... | O mecanismo de controlo apresenta-se ineficaz, não contribuindo para o controlo a posteriori da credibilidade do plano e respetivas metas |
+| Nível<br>Q5 | Excelente ... | O mecanismo de controlo garante globalmente o cumprimento do plano e das metas respetivas. |
+| Nível<br>Q4 | Efeito muito positivo ... | O mecanismo de controlo cria condições que penalizam um concorrente que não cumpra as metas ou não desenvolva as ações previstas. |
+| Nível<br>Q3 | Efeito marginalmente positivo ... | O mecanismo de controlo cria condições que penalizam ligeiramente um concorrente que não cumpra as metas ou não desenvolva as ações previstas. |
+| Nível<br>Q2 | Efeito pouco significativo ... | O mecanismo de controlo tem um efeito pouco significativo na monitorização do cumprimento das metas e do plano. |
+| Nível<br>Q1 | Sem eficácia ... | O mecanismo de controlo apresenta-se ineficaz, não contribuindo para o controlo a posteriori da credibilidade do plano e respetivas metas |
 
 A pontuação obtém-se pela combinação dos níveis P e Q resultantes das tabelas anteriores.
 
 Pontuação do plano estratégico
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Q5 | Q4 | Q3 | Q2 | Q1 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | P5 ... | 100 | 90 | 80 | 70 | 60 |
 | P4 ... | 85 | 75 | 65 | 55 | 45 |
 | P3 ... | 70 | 60 | 50 | 40 | 30 |
@@ -791,7 +847,8 @@ Pontuação do plano estratégico
 
 A conjugação da pontuação parcial da renda adicional (R(índice 1)) e do plano estratégico (P) é realizada através da seguinte fórmula matemática, de que resulta a pontuação final:
 
-![](https://files.diariodarepublica.pt/images/224892462/224892270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892270.png) |
+| --- |
 
 em que:
 
@@ -1625,11 +1682,13 @@ Financiamento
 
 a)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892271.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892271.png) |
+| --- |
 
 b)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892272.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892272.png) |
+| --- |
 
 Cláusula [...].ª
 
@@ -2021,9 +2080,9 @@ b) As luminárias serão utilizadas de forma a garantir os níveis luminotécnic
 
 Luminária de tecnologia LED
 
-|  |  |
+| Luminária fechada (com difusor) (1) |  |
 | --- | --- |
-| Luminária fechada (com difusor) (1) | Luminária fechada (com difusor) (1) |
+|  |  |
 | FP ... | (igual ou maior que) 0,95 (2) |
 | (eta) ... | (igual ou maior que) 130 lm/W (3) (5) |
 |  | (igual ou maior que) 150 lm/W (4) |
@@ -2050,9 +2109,9 @@ Luminária de tecnologia LED
 
 Luminária de tecnologia LED
 
-|  |  |
+| Luminária fechada (com difusor) (1) |  |
 | --- | --- |
-| Luminária fechada (com difusor) (1) | Luminária fechada (com difusor) (1) |
+|  |  |
 | FP ... | (igual ou maior que) 0,95 (2) |
 | (eta) ... | (igual ou maior que) 80 lm/W (3) (5) |
 |  | (igual ou maior que) 80 lm/W (4) (5) |
@@ -2328,9 +2387,7 @@ c) Obras e trabalhos de conservação, reparação, remodelação e reforço das
 
 ### CAPÍTULO [...] (52) — Iluminação pública
 
-Artigo [...].º
-
-Rede de iluminação pública
+###### Artigo [...].º — Rede de iluminação pública
 
 1 - A concessão integra, ainda, as redes de iluminação pública (IP).
 
@@ -2346,9 +2403,7 @@ c) Os sistemas de medição e comando da rede.
 
 4 - Os bens referidos nos números anteriores integram a concessão a título de comparticipação, sem alteração do valor líquido dos ativos.
 
-Artigo [...].º
-
-Gestão das redes de iluminação pública
+###### Artigo [...].º — Gestão das redes de iluminação pública
 
 1 - O Concessionário assume integralmente os encargos com infraestruturação, operação e manutenção da rede de IP.
 
@@ -2382,9 +2437,7 @@ ii) Publicação de indicadores de desempenho na resolução de avarias na IP, d
 
 7 - O Concessionário deve disponibilizar um centro de atendimento e contacto com o consumidor para IP.
 
-Artigo [...].º
-
-Pontos de luz
+###### Artigo [...].º — Pontos de luz
 
 1 - Os aparelhos de iluminação e respetivos suportes a utilizar na concessão são escolhidos de entre os tipos normalizados existentes no mercado, tendo em conta a utilização racional da energia, sendo a indicação dos locais da sua instalação e a fixação da potência das lâmpadas e tipo/modelo de luminária da competência do Concedente, ouvido o Concessionário.
 
@@ -2402,9 +2455,7 @@ b) Nas redes subterrâneas, em colunas ou consolas.
 
 6 - A revisão do referencial técnico deve basear-se numa avaliação económica e técnica das alternativas disponíveis, suportada em parecer técnico independente, sendo sujeita a pronúncia da Associação Nacional de Municípios Portugueses (ANMP), do Concessionário, do Concedente, do Gestor Integrado das Redes de Distribuição e da ERSE.
 
-Artigo [...].º
-
-Estabelecimento das redes de iluminação pública e respetivos encargos
+###### Artigo [...].º — Estabelecimento das redes de iluminação pública e respetivos encargos
 
 1 - O Concessionário procede, quando tal for solicitado pelo Concedente, ao estabelecimento das redes de IP, de acordo com os projetos aprovados pelo Concedente tendo em conta o que se encontrar convencionado no plano de obras estabelecido entre ambos.
 
@@ -2418,9 +2469,7 @@ Estabelecimento das redes de iluminação pública e respetivos encargos
 
 6 - Sem prejuízo da convenção das partes outorgantes sobre o respetivo valor no plano de investimentos referido no n.º 8 do artigo [«Planeamento e desenvolvimento da rede de distribuição em baixa tensão» (54)], o Concessionário encontra-se vinculado a realizar um investimento não inferior a 12 % do valor da renda anual referida no artigo 6.º
 
-Artigo [...].º
-
-Estabelecimento dos aparelhos de iluminação, e respetivos suportes, e correspondentes encargos
+###### Artigo [...].º — Estabelecimento dos aparelhos de iluminação, e respetivos suportes, e correspondentes encargos
 
 1 - Mediante prévia solicitação do Concedente, o Concessionário procede à instalação e montagem dos aparelhos de iluminação e respetivos suportes.
 
@@ -2434,9 +2483,7 @@ Estabelecimento dos aparelhos de iluminação, e respetivos suportes, e correspo
 
 6 - Para efeitos do disposto no número anterior, consideram-se de iniciativa do Concessionário os trabalhos que não forem requisitados pelo Concedente nem por qualquer outra entidade interessada que comparticipe no estabelecimento da rede.
 
-Artigo [...].º
-
-Conservação das instalações de iluminação pública e correspondentes encargos
+###### Artigo [...].º — Conservação das instalações de iluminação pública e correspondentes encargos
 
 1 - Compete ao Concessionário manter em bom estado de conservação as instalações de IP.
 
@@ -2450,9 +2497,7 @@ Conservação das instalações de iluminação pública e correspondentes encar
 
 6 - O Concedente e o Concessionário podem acordar na transferência da responsabilidade pela conservação das instalações de IP, mediante acordo.
 
-Artigo [...].º
-
-Qualidade do serviço da iluminação pública
+###### Artigo [...].º — Qualidade do serviço da iluminação pública
 
 1 - A qualidade de serviço da rede de IP obedece a critérios que visam:
 
@@ -2470,9 +2515,7 @@ c) Maximizar a eficiência energética da IP.
 
 ### CAPÍTULO [...] (57) — Iluminação pública
 
-Artigo [...].º
-
-Destaque da rede de iluminação pública
+###### Artigo [...].º — Destaque da rede de iluminação pública
 
 1 - A concessão não integra as redes de IP que se situam a jusante dos quadros elétricos de alimentação das luminárias instaladas em parede ou em coluna, bem como a jusante dos conectores de IP para as luminárias alimentadas por rede aérea.
 
@@ -2480,9 +2523,7 @@ Destaque da rede de iluminação pública
 
 3 - Os ativos destacados da concessão, cuja identificação e respetivo montante líquido para efeitos de indemnização constam do anexo [...] (58) ao Contrato, que dele faz parte integrante, são pagos ao concessionário cessante pelo Concedente.
 
-Artigo [...].º
-
-Encargos e remuneração das redes de iluminação pública
+###### Artigo [...].º — Encargos e remuneração das redes de iluminação pública
 
 1 - O Concedente assume todos os encargos com infraestruturação, operação e manutenção da rede de IP, tal como identificada no artigo anterior.
 
@@ -2494,23 +2535,17 @@ Encargos e remuneração das redes de iluminação pública
 
 ### CAPÍTULO [...] (59) — Obrigações, responsabilidades e fiscalização do Concessionário
 
-Artigo [...].º
-
-Objeto social, sede e forma
+###### Artigo [...].º — Objeto social, sede e forma
 
 1 - O Concessionário tem por objeto social exclusivo, ao longo de todo o período de vigência do Contrato, as atividades concedidas e, bem assim, outras atividades para as quais haja obtido a autorização do Concedente, devendo manter ao longo do mesmo período a sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa e com ações nominativas.
 
 2 - A oneração e a transmissão de ações representativas do capital social do Concessionário dependem de autorização prévia do Concedente, pelo prazo de cinco anos e sob pena de nulidade.
 
-Artigo [...].º
-
-Obrigações
+###### Artigo [...].º — Obrigações
 
 O Concessionário está obrigado ao cumprimento das disposições do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro, na sua redação atual, e respetivo quadro regulamentar, na legislação setorial e regulamentação aplicáveis e no Contrato.
 
-Artigo [...].º
-
-Obrigação de receção e entrega de eletricidade
+###### Artigo [...].º — Obrigação de receção e entrega de eletricidade
 
 1 - O Concessionário encontra-se obrigado a receber a eletricidade produzida pelos produtores e outros utilizadores ligados às redes concessionadas, assim como a entregar eletricidade aos mesmos utilizadores nas condições estabelecidas no Contrato.
 
@@ -2518,9 +2553,7 @@ Obrigação de receção e entrega de eletricidade
 
 3 - A receção e a entrega de eletricidade, salvo caso fortuito ou de força maior, só podem ser interrompidas nos termos da regulamentação setorial, sem prejuízo dos artigos seguintes.
 
-Artigo [...].º
-
-Interrupção
+###### Artigo [...].º — Interrupção
 
 1 - A receção ou a entrega de eletricidade podem ser interrompidas por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência energética declarada ao abrigo de legislação específica.
 
@@ -2536,9 +2569,7 @@ Interrupção
 
 7 - Por fim, o Concessionário pode interromper a receção da eletricidade produzida por produtores e outros utilizadores que causem perturbações que afetem a qualidade de serviço do sistema elétrico legalmente estabelecida, aplicando-se o disposto no n.º 5, com as necessárias adaptações.
 
-Artigo [...].º
-
-Planeamento e desenvolvimento da rede de distribuição em baixa tensão
+###### Artigo [...].º — Planeamento e desenvolvimento da rede de distribuição em baixa tensão
 
 1 - O Concessionário deve assegurar a adequada participação nos procedimentos de aprovação e revisão do plano de desenvolvimento e investimento da rede de distribuição em BT, nos termos estabelecidos na legislação aplicável para o plano de desenvolvimento e investimento da RND.
 
@@ -2562,9 +2593,7 @@ Planeamento e desenvolvimento da rede de distribuição em baixa tensão
 
 11 - Os encargos resultantes do número anterior são repartidos de acordo com o disposto no RRC e demais regulamentação aplicável.
 
-Artigo [...].º
-
-Operação das redes em regime perturbado
+###### Artigo [...].º — Operação das redes em regime perturbado
 
 1 - O Concessionário deve dispor de um plano para atuação em caso de crise, designadamente perante a ocorrência de eventos que provoquem uma operação de rede em regime perturbado.
 
@@ -2576,9 +2605,7 @@ Operação das redes em regime perturbado
 
 5 - O plano deve ser enviado para a DGEG e tornado público, sem prejuízo da conservação do segredo comercial, industrial ou sobre a vida interna da empresa, caso em que deve ser disponibilizado ao público uma versão não confidencial com a retirada das informações confidenciais.
 
-Artigo [...].º
-
-Qualidade de serviço aos clientes finais
+###### Artigo [...].º — Qualidade de serviço aos clientes finais
 
 1 - No estabelecimento e na exploração da concessão e tendo em vista a qualidade do serviço, o Concessionário deve cumprir as normas e os regulamentos aplicáveis, nomeadamente o RQS.
 
@@ -2590,9 +2617,7 @@ Qualidade de serviço aos clientes finais
 
 5 - O Concessionário deve contribuir para que os indicadores gerais e individuais de continuidade de serviço se mantenham dentro dos limites fixados no RQS, incluindo o número e a duração total de interrupções (SAIDI) para as redes de BT e respetivos consumidores, de acordo com as zonas de qualidade de serviço em que as redes de BT sejam instaladas.
 
-Artigo [...].º
-
-Cadastro
+###### Artigo [...].º — Cadastro
 
 1 - O Concessionário deve estabelecer e desenvolver mecanismos adequados para fornecer ao Concedente, em permanência e online, o cadastro georreferenciado das infraestruturas da rede de distribuição de eletricidade em BT e restantes ativos da concessão, utilizando para este efeito ferramentas de inventariação do património das concessões e de Sistemas de Informação Geográfica (60) adequadas.
 
@@ -2628,9 +2653,7 @@ e) A informação sobre o cadastro de iluminação pública, quando disponível,
 
 9 - O Concessionário deve garantir a disponibilização de informação pública que permita uma adequada gestão programada de obras e trabalhos na via pública de forma integrada para os diferentes utilizadores.
 
-Artigo [...].º
-
-Acesso a dados
+###### Artigo [...].º — Acesso a dados
 
 1 - O Concessionário acede, a todo o tempo, aos dados relativos à operação da rede de distribuição de eletricidade em BT, incluindo os dados de produção, consumo e injeção, os diagramas de carga e os alarmes dos contadores.
 
@@ -2638,15 +2661,11 @@ Acesso a dados
 
 3 - O Concessionário, observando as regras de proteção de dados, tem o dever de utilizar os dados a que acede para efeitos da operação, gestão e desenvolvimento da rede de distribuição de eletricidade em BT.
 
-Artigo [...].º
-
-Gestão de ativos
+###### Artigo [...].º — Gestão de ativos
 
 O Concessionário deve utilizar ferramentas avançadas de suporte ao desenvolvimento das suas atividades que permitam melhorar os tempos de resposta para efeitos de reposição de serviço.
 
-Artigo [...].º
-
-Gestor do Concedente
+###### Artigo [...].º — Gestor do Concedente
 
 1 - O Concessionário deve disponibilizar um gestor do Concedente, que inclua a disponibilização de informação e resposta personalizada, bem como a realização célere de novas ligações a infraestruturas municipais.
 
@@ -2654,9 +2673,7 @@ Gestor do Concedente
 
 3 - O Concessionário deve instalar um sistema informático, de acesso online, que permita a disponibilização ao Concedente, de forma digital e atualizada, de dados de monitorização, individual e consolidada, incluindo um diagrama de cargas e/ou produção de energia elétrica nos pontos de entrega de todas as instalações do Concedente.
 
-Artigo [...].º
-
-Projetos
+###### Artigo [...].º — Projetos
 
 1 - Constitui obrigação do Concessionário a conceção e a elaboração dos projetos relativos à remodelação e expansão da rede de distribuição.
 
@@ -2664,23 +2681,17 @@ Projetos
 
 3 - Aplica-se o disposto no n.º 3 do artigo 10.º
 
-Artigo [...].º
-
-Atravessamento de terrenos públicos ou de particulares
+###### Artigo [...].º — Atravessamento de terrenos públicos ou de particulares
 
 1 - No atravessamento de terrenos do domínio público, do domínio privado de entidades públicas ou de particulares, o Concessionário deve adotar os procedimentos estabelecidos na legislação e regulamentação aplicáveis e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
 2 - Em especial, o Concessionário procede à comunicação prévia ao Concedente do atravessamento de terrenos que integrem o seu domínio público ou privado.
 
-Artigo [...].º
-
-Cumprimento dos regulamentos
+###### Artigo [...].º — Cumprimento dos regulamentos
 
 No estabelecimento e na exploração da concessão, o Concessionário deve cumprir as normas e os regulamentos aplicáveis.
 
-Artigo [...].º
-
-Fiscalização e auditoria
+###### Artigo [...].º — Fiscalização e auditoria
 
 1 - O Concedente e o Concessionário comprometem-se a estabelecer contactos periódicos estreitos entre os seus técnicos ou representantes, com vista à análise e ao acompanhamento da execução dos planos de atividade do Concessionário, das suas opções em matéria de investimentos e de aspetos essencialmente referentes à exploração do serviço, bem como do cumprimento das obrigações contratuais, nomeadamente para o esclarecimento de dúvidas ou resolução de diferendos emergentes da execução do Contrato.
 
@@ -2692,9 +2703,7 @@ Fiscalização e auditoria
 
 5 - O Concessionário fica sujeito a auditoria do Concedente, assim como da DGEG e da ERSE em função das respetivas competências.
 
-Artigo [...].º
-
-Responsabilidade civil
+###### Artigo [...].º — Responsabilidade civil
 
 1 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse do Concessionário.
 
@@ -2704,9 +2713,7 @@ Responsabilidade civil
 
 4 - O Concessionário deve apresentar ao Concedente os documentos comprovativos da celebração do seguro, bem como da atualização e/ou da revisão referidas nos números anteriores.
 
-Artigo [...].º
-
-Medidas de proteção
+###### Artigo [...].º — Medidas de proteção
 
 1 - O Concessionário deve promover todas as medidas que entender necessárias para repor as adequadas condições de segurança perante a ocorrência de uma situação de emergência que ponha em risco a segurança de pessoas e bens.
 
@@ -2714,9 +2721,7 @@ Medidas de proteção
 
 ### CAPÍTULO [...] (62) — Direitos do Concessionário
 
-Artigo [...].º
-
-Utilização do domínio público
+###### Artigo [...].º — Utilização do domínio público
 
 1 - No estabelecimento de instalações da rede de distribuição ou de outras infraestruturas integrantes da concessão, o Concessionário tem o direito de utilizar os bens do domínio municipal e do Estado, nos termos da lei e do Contrato.
 
@@ -2728,9 +2733,7 @@ a) [A preencher pelo Concedente]
 
 b) [...]
 
-Artigo [...].º
-
-Utilização das vias públicas
+###### Artigo [...].º — Utilização das vias públicas
 
 1 - Dentro da área da concessão, o Concessionário tem o direito de utilizar as vias públicas, bem como os respetivos subsolos, para o estabelecimento e conservação de obras e canalizações aéreas ou subterrâneas de BT, para o cumprimento dos deveres legais e regulamentares que lhe estão atribuídos.
 
@@ -2756,25 +2759,19 @@ b) Memória descritiva sumária, de onde constem os tipos de pavimento a levanta
 
 10 - O Concedente consulta o Concessionário sempre que preveja a realização de obras de que possam resultar trabalhos de deslocação de instalações, com vista a conciliar os interesses em presença na medida do possível.
 
-Artigo [...].º
-
-Expropriações e servidões
+###### Artigo [...].º — Expropriações e servidões
 
 1 - O Concessionário só pode solicitar a expropriação ou a constituição de servidões após a aprovação pela entidade licenciadora competente dos projetos ou anteprojetos das infraestruturas ou das instalações da rede de distribuição, nos termos da legislação aplicável.
 
 2 - No âmbito do número anterior cabe ao Concessionário o pagamento das decorrentes indemnizações.
 
-Artigo [...].º
-
-Remuneração
+###### Artigo [...].º — Remuneração
 
 Pela exploração da concessão é assegurada ao Concessionário uma remuneração, nos termos do RT, que assegure o equilíbrio económico-financeiro da atividade, nas condições de uma gestão adequada e eficiente.
 
 ### CAPÍTULO [...] (63) — Relações entre o Concedente e o Concessionário
 
-Artigo [...].º
-
-Infraestruturas de energia elétrica
+###### Artigo [...].º — Infraestruturas de energia elétrica
 
 1 - O Concedente inclui no controlo prévio administrativo incluído no respetivo quadro legal de competências as condições estabelecidas pelo Concessionário na apreciação dos respetivos projetos de infraestruturas de energia elétrica, sob condição do prévio acordo do Concedente.
 
@@ -2782,17 +2779,13 @@ Infraestruturas de energia elétrica
 
 3 - Com vista à previsão dos corredores e espaços destinados às infraestruturas e demais equipamentos a reservar para a expansão da rede, o Concessionário dá conhecimento ao Concedente da aprovação do PDIRD em BT.
 
-Artigo [...].º
-
-Elaboração de projetos e acompanhamento de obras
+###### Artigo [...].º — Elaboração de projetos e acompanhamento de obras
 
 1 - Mediante prévia solicitação do Concedente, o Concessionário deve proceder à elaboração dos projetos das infraestruturas elétricas das urbanizações a realizar por aquele, assim como emitir pareceres sobre as propostas dos concursos abertos pelo Concedente relativamente a obras de eletrificação.
 
 2 - Ao Concessionário compete acompanhar a execução de toda e qualquer obra de eletrificação a realizar na área da concessão, bem como a realização da sua vistoria e aprovação final.
 
-Artigo [...].º
-
-Informação sobre a viabilidade de alimentação de novos edifícios e loteamentos
+###### Artigo [...].º — Informação sobre a viabilidade de alimentação de novos edifícios e loteamentos
 
 1 - O Concedente deve consultar o Concessionário sobre os anteprojetos das infraestruturas de energia elétrica de urbanizações ou loteamentos, de iniciativa municipal ou particular.
 
@@ -2804,9 +2797,7 @@ b) 50 kVA, nas restantes redes de distribuição.
 
 3 - O Concessionário dará o seu parecer, que é vinculativo, no prazo de 10 dias úteis, no que se refere a edifícios, e de 45 dias úteis, no que respeita a urbanizações e loteamentos, sob pena do seu assentimento tácito.
 
-Artigo [...].º
-
-Zonas de proteção de linhas aéreas e percursos para canalizações subterrâneas
+###### Artigo [...].º — Zonas de proteção de linhas aéreas e percursos para canalizações subterrâneas
 
 1 - O Concedente presta ao Concessionário a possível colaboração no que respeita à definição e manutenção de corredores ou zonas de proteção das linhas aéreas de distribuição de eletricidade, tidas como necessárias ao pontual cumprimento por este das suas obrigações, bem como para as alterações dos traçados daquelas linhas impostas por atos administrativos ou negócios jurídicos.
 
@@ -2816,9 +2807,7 @@ Zonas de proteção de linhas aéreas e percursos para canalizações subterrân
 
 4 - Mediante a prévia solicitação do Concessionário, o Concedente exercerá o seu empenho no sentido de obter a autorização dos proprietários dos terrenos que o Concessionário se proponha atravessar com as linhas ou onde projete implantar os respetivos apoios.
 
-Artigo [...].º
-
-Imóveis para postos de transformação
+###### Artigo [...].º — Imóveis para postos de transformação
 
 1 - O Concessionário adquire os direitos sobre os imóveis necessários à instalação de novos PT, podendo o Concedente disponibilizar os seus imóveis para o efeito.
 
@@ -2828,9 +2817,7 @@ Imóveis para postos de transformação
 
 ### CAPÍTULO [...] (64) — Garantias do cumprimento do Contrato de Concessão
 
-Artigo [...].º
-
-Financiamento
+###### Artigo [...].º — Financiamento
 
 1 - O Concessionário é responsável pela garantia dos meios de financiamento necessários ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no Contrato.
 
@@ -2838,15 +2825,15 @@ Financiamento
 
 a)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892273.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892273.png) |
+| --- |
 
 b)
 
-![](https://files.diariodarepublica.pt/images/224892462/224892274.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224892462/224892274.png) |
+| --- |
 
-Artigo [...].º
-
-Caução
+###### Artigo [...].º — Caução
 
 1 - Para a garantia do cumprimento das obrigações contratuais constantes do Contrato, o Concessionário deve prestar uma caução até ao valor máximo de [a preencher pelo Concedente, por extenso e em algarismos].
 
@@ -2858,9 +2845,7 @@ Caução
 
 5 - A caução pode ser prestada por depósito em dinheiro ou em títulos emitidos ou garantidos pelo Estado, por garantia bancária autónoma ou seguro-caução.
 
-Artigo [...].º
-
-Responsabilidade do Concessionário por incumprimento
+###### Artigo [...].º — Responsabilidade do Concessionário por incumprimento
 
 1 - O Concessionário incorre em responsabilidade perante o Concedente pelo incumprimento do Contrato.
 
@@ -2870,9 +2855,7 @@ Responsabilidade do Concessionário por incumprimento
 
 4 - Independentemente do cumprimento do disposto no número anterior, o Concessionário deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-Artigo [...].º
-
-Multas contratuais
+###### Artigo [...].º — Multas contratuais
 
 1 - Pelo incumprimento de obrigações constantes do Contrato, o Concessionário pode ser punido com uma sanção pecuniária até 10 000 000,00 (euro) (dez milhões de euros), variando o respetivo montante em função do grau de culpa, dos riscos decorrente para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência das medidas adotadas pelo Concessionário para a sua regularização.
 
@@ -2882,9 +2865,7 @@ Multas contratuais
 
 4 - O pagamento das multas não isenta o Concessionário da responsabilidade civil, criminal ou contraordenacional que lhe seja imputável.
 
-Artigo [...].º
-
-Sequestro
+###### Artigo [...].º — Sequestro
 
 1 - O Concedente, mediante deliberação dos respetivos órgãos competentes, pode tomar conta da concessão quando se verificarem graves deficiências na respetiva organização e no funcionamento ou no estado geral das instalações e dos equipamentos que sejam suscetíveis de comprometer a regularidade ou qualidade do serviço.
 
@@ -2898,9 +2879,7 @@ Sequestro
 
 ### CAPÍTULO [...] (68) — Alteração e extinção do Contrato
 
-Artigo [...].º
-
-Alteração
+###### Artigo [...].º — Alteração
 
 1 - As disposições do Contrato podem ser alteradas por acordo entre as partes outorgantes nos termos dos artigos 311.º a 315.º do CCP, sob condição do cumprimento das disposições, legais e regulamentares, aplicáveis no presente âmbito.
 
@@ -2908,9 +2887,7 @@ Alteração
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o Concedente compromete-se a promover a reposição do equilíbrio contratual, contanto que o Concessionário, mediante adequada fundamentação a aceitar pelo Concedente, comprove a sua impossibilidade de prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão financeira.
 
-Artigo [...].º
-
-Extinção
+###### Artigo [...].º — Extinção
 
 1 - A concessão extingue-se por acordo entre as partes outorgantes, por resolução do Contrato, por resgate e pelo decurso do respetivo prazo de vigência.
 
@@ -2926,9 +2903,7 @@ b) Os fundos consignados à garantia ou à cobertura de obrigações do Concessi
 
 5 - A tomada de posse da concessão pelo Concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo próprio na presença de representantes do Concessionário, sem prejuízo do disposto no artigo [«Obrigações e direitos que não se transmitem para o novo concessionário» (69)].
 
-Artigo [...].º
-
-Resolução
+###### Artigo [...].º — Resolução
 
 1 - Na sequência da deliberação dos respetivos órgãos competentes, o Concedente pode resolver o Contrato nos termos do disposto nos artigos 333.º a 335.º do CCP, assim como perante a verificação de situações de grave violação das obrigações contratuais assumidas pelo Concessionário, designadamente:
 
@@ -2964,9 +2939,7 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - O Concessionário não pode resolver o Contrato com fundamento na alteração do regime de exclusivo que decorra da transposição para o direito interno de legislação da União Europeia.
 
-Artigo [...].º
-
-Resgate
+###### Artigo [...].º — Resgate
 
 1 - O Concedente pode resgatar a concessão sempre que motivos de interesse público o justifiquem, decorridos que sejam cinco anos sobre a data de início do respetivo prazo de vigência.
 
@@ -2984,17 +2957,13 @@ Resgate
 
 8 - Para os efeitos do cálculo da indemnização prevista no presente artigo, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiências do Concessionário na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-Artigo [...].º
-
-Extinção por decurso do prazo de vigência
+###### Artigo [...].º — Extinção por decurso do prazo de vigência
 
 1 - A concessão extingue-se pelo decurso do respetivo prazo de vigência, transmitindo-se para o Concedente nos termos previstos nas disposições do capítulo [«Período de transição» (70)].
 
 2 - Com a extinção da concessão nos presentes termos o Concedente fica vinculado a pagar ao Concessionário uma indemnização correspondente ao valor contabilístico dos bens afetos à concessão por ela adquiridos com referência ao último balanço aprovado, nos termos dos n.os 6, 7 e 8 do artigo anterior.
 
-Artigo [...].º
-
-Pagamento da indemnização
+###### Artigo [...].º — Pagamento da indemnização
 
 1 - O Concessionário deve assegurar o custeio da indemnização pelos ativos, cujo montante se encontra devidamente calculado no anexo i ao Contrato, e que corresponde ao valor contabilístico dos bens afetos à concessão para efeitos de fixação de tarifas, líquido de amortizações e comparticipações e subsídios a fundo perdido, nos termos da lei.
 
@@ -3004,17 +2973,13 @@ Pagamento da indemnização
 
 3 - A impossibilidade da obtenção de acordo com o anterior concessionário sobre a forma do pagamento vincula o Concessionário a promover, no imediato, a consignação em depósito a favor do credor.
 
-Artigo [...].º
-
-Procedimento para o termo da concessão
+###### Artigo [...].º — Procedimento para o termo da concessão
 
 1 - O Concedente reserva-se o direito de tomar nos últimos dois anos do prazo da concessão as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva das atividades exercidas pelo Concessionário que cessa o seu contrato para uma nova entidade encarregada da gestão do serviço.
 
 2 - Caso não tenha renovado o respetivo contrato no termo da concessão, ou não tenha decidido sobre o novo modo ou entidade encarregada da gestão do serviço, o Concedente pode acordar a continuação do Contrato com o Concessionário, até ao limite máximo de um ano, mediante arrendamento, prestação de serviços ou qualquer outro título contratual.
 
-Artigo [...].º
-
-Transmissão e oneração da concessão
+###### Artigo [...].º — Transmissão e oneração da concessão
 
 1 - O Concessionário não pode, sem prévia autorização do Concedente, transmitir, subconceder ou onerar, por qualquer forma, a concessão, incluindo os direitos e os bens, imóveis e móveis, afetos à mesma, sob pena de nulidade dos respetivos atos ou contratos, sem prejuízo de outras sanções aplicáveis.
 
@@ -3028,9 +2993,7 @@ Transmissão e oneração da concessão
 
 ### CAPÍTULO [...] (72) — Transição
 
-Artigo [...].º
-
-Período de transição
+###### Artigo [...].º — Período de transição
 
 1 - O período de transição tem por objetivo permitir ao Concessionário o desenvolvimento de todas as ações de implementação da estrutura destinadas a garantir que não ocorram quebras de continuidade e qualidade do serviço com o início da sua exploração.
 
@@ -3048,9 +3011,7 @@ c) O Concessionário informa os utilizadores do serviço, através de comunicaç
 
 5 - A contagem do prazo da concessão inicia-se com a transferência efetiva, após pagamento da indemnização devida pelos ativos e decorrido o período de transição, assumindo o novo concessionário a partir dessa data a plena responsabilidade, bem como os direitos, pela atividade de distribuição de eletricidade em BT.
 
-Artigo [...].º
-
-Comissão de Acompanhamento
+###### Artigo [...].º — Comissão de Acompanhamento
 
 A Comissão de Acompanhamento, composta por representantes indicados pelo Concessionário, pela DGEG, pela ERSE, pela ANMP, pela E-Redes - Distribuição de Eletricidade, S. A., incluindo os respetivos trabalhadores afetos às atividades objeto da concessão, assegura as seguintes funções durante o período de transição:
 
@@ -3062,9 +3023,7 @@ c) Criação de um espaço negocial entre os concessionários, cessante e novo, 
 
 d) Acompanhamento da negociação dos contratos de prestação de serviços com os respetivos prestadores de serviços, para efeitos da transferência com os restantes bens da concessão.
 
-Artigo [...].º
-
-Comissão Intermunicipal de Acompanhamento
+###### Artigo [...].º — Comissão Intermunicipal de Acompanhamento
 
 1 - A Comissão Intermunicipal de Acompanhamento, composta pelos membros, consoante o caso aplicável, do conselho metropolitano ou do conselho intermunicipal em representação de cada um dos Concedentes das áreas territoriais abrangidas pela respetiva entidade intermunicipal, e pelo Concessionário, assegura o acompanhamento da execução das atividades concessionadas, da implementação das medidas propostas no plano estratégico, dos investimentos realizados e da informação partilhada.
 
@@ -3072,15 +3031,11 @@ Comissão Intermunicipal de Acompanhamento
 
 3 - Ainda para o efeito do n.º 1, a Comissão Intermunicipal de Acompanhamento deve disponibilizar uma plataforma digital online, de consulta aberta ao público, para a prestação, por parte do Concessionário, de informação agregada e regularmente atualizada sobre a rede elétrica, a qualidade de serviço, os consumos de energia, a eficiência energética, a mobilidade elétrica e a produção de energia de fonte renovável.
 
-Artigo [...].º
-
-Garantia dos direitos dos trabalhadores afetos à concessão
+###### Artigo [...].º — Garantia dos direitos dos trabalhadores afetos à concessão
 
 Os contratos de trabalho dos trabalhadores que se encontram afetos à atividade de distribuição de eletricidade em BT na área concessionada, conforme identificados no anexo i ao Contrato, transmitem-se para o Concessionário, com manutenção do respetivo quadro de direitos.
 
-Artigo [...].º
-
-Obrigações e direitos que não se transmitem para o novo concessionário
+###### Artigo [...].º — Obrigações e direitos que não se transmitem para o novo concessionário
 
 Os seguintes direitos e obrigações não se transmitem para o novo concessionário, mantendo-se com o atual concessionário mesmo após a transferência da concessão:
 
@@ -3098,17 +3053,13 @@ f) Outros direitos ou obrigações resultantes de acertos relativos ao Contrato,
 
 ### CAPÍTULO [...] (73) — Composição de litígios
 
-Artigo [...].º
-
-Litígios entre o Concedente e o Concessionário
+###### Artigo [...].º — Litígios entre o Concedente e o Concessionário
 
 1 - Os litígios que se suscitarem entre o Concedente e o Concessionário relativamente à interpretação, integração, execução, incumprimento, cumprimento defeituoso ou cessação do Contrato são resolvidos através de arbitragem, nos termos previstos na [Lei n.º 63/2011](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), de 14 de dezembro.
 
 2 - O Regulamento de Arbitragem da Câmara de Comércio e Indústria Portuguesa aplica-se supletivamente no presente âmbito, sem que tal implique atribuição de competência ao Centro de Arbitragem Comercial da referida câmara.
 
-Artigo [...].º
-
-Litígios entre o Concessionário e os utilizadores da rede de distribuição
+###### Artigo [...].º — Litígios entre o Concessionário e os utilizadores da rede de distribuição
 
 1 - O Concessionário, os produtores, o distribuidor em AT e MT, o Gestor Integrado das Redes de Distribuição, os comercializadores de eletricidade e os consumidores, bem como outras entidades que se encontrem ligadas à rede de distribuição de eletricidade em BT, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respetivos contratos ou aderir a processos de arbitragem, nos termos previstos no RRC.
 
@@ -3118,9 +3069,7 @@ Litígios entre o Concessionário e os utilizadores da rede de distribuição
 
 ### CAPÍTULO [...] (74) — Disposições finais
 
-Artigo [...].º
-
-Comunicações e notificações
+###### Artigo [...].º — Comunicações e notificações
 
 1 - Sem prejuízo de poderem ser acordadas outras regras quanto às notificações e comunicações entre as partes outorgantes, estas devem ser dirigidas para o endereço ou sede contratual de cada uma, identificados no Contrato.
 
@@ -3130,9 +3079,7 @@ Comunicações e notificações
 
 4 - Qualquer alteração das informações de contacto constantes do Contrato deve ser comunicada por escrito à outra parte outorgante, nos termos dos números anteriores.
 
-Artigo [...].º
-
-Casos omissos
+###### Artigo [...].º — Casos omissos
 
 1 - A todas as matérias que não estiverem especialmente reguladas no Contrato aplicam-se as disposições, legais e regulamentares, do SEN, e, subsidiariamente, o CCP e demais normas legais e regulamentares aplicáveis.
 
@@ -3317,3 +3264,7 @@ b) Integração em ficheiro informático distinto e de compressão, sendo, nesse
 (76) A preencher, após a numeração do artigo do Contrato de Concessão.
 
 (77) A preencher, após a numeração do artigo do Contrato de Concessão.
+
+117088866
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl15 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl16 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl17 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl20 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl21 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl22 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl23 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl24 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl25 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl26 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl27 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

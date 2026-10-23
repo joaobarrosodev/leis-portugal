@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04200/0002700029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/70/2025/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-2025-909307244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f936d1944afa1764248fbdc5503f66b10f2aecfc843187b9257ad0f8c2a9c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d403316c24f52f4d3855b1e982d773c90f7b705f9459378e0c87b17b292321e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Associação Mutualista
 - Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Convenção Coletiva de Trabalho
 - Educação
 - Regime Laboral
-- Convenção Coletiva de Trabalho
-- Contrato de Trabalho
 - Regulamento de Extensão
 - Remuneração
 - Tabela Salarial
@@ -89,16 +89,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194121:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:12Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +143,7 @@ Considerando que a convenção coletiva tem por âmbito geográfico de aplicaç�
 
 Considerando que as anteriores extensões não são aplicáveis às relações de trabalho em que sejam parte trabalhadores filiados no Sindicato dos Enfermeiros Portugueses - SEP, no Sindicato Nacional dos Técnicos Superiores de Saúde das Áreas de Diagnóstico e Terapêutica e em sindicatos representados pela FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços, pela Federação Nacional de Professores - FENPROF e pela Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Socais - FNSTFPS, por oposição das referidas associações sindicais, mantém-se na presente extensão idêntica exclusão.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup>2 e 4 da [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os2 e 4 da [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 17, de 22 de agosto de 2024, ao qual a APM-RedMut - Associação Portuguesa de Mutualidades, deduziu oposição, pretendendo a exclusão dos seus associados do âmbito da extensão. Em síntese, alega a oponente que: i) tem contrato coletivo próprio, publicado no BTE, n.º 15, de 22 de abril de 2024, gozando por isso de capacidade negocial, resultante do artigo 93.º-A do Estatuto das Instituições Particulares de Solidariedade Social (IPSS) [aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de fevereiro, na redação introduzida pelo [Decreto-Lei n.º 172-A/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-2014-58900566), de 14 de novembro]; ii) representa 80 % do setor mutualista e emprega mais de dois terços dos trabalhadores do setor; iii) não existem quaisquer circunstâncias sociais e económicas que justifiquem a emissão da portaria de extensão das alterações do contrato coletivo em apreço às suas associadas, nem foram aferidos os indicadores previstos na [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho.
 
@@ -155,4 +175,6 @@ b) Empregadores filiados na APM-RedMut - Associação Portuguesa de Mutualidades
 
 2 - As tabelas salariais e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de maio de 2024.
 
-**O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 24 de fevereiro de 2025.**
+O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 24 de fevereiro de 2025.
+
+118735555

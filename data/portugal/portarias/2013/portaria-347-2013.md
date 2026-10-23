@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/347/2013/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/347-2013-484161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8628e860cbc4b9ec54662b2e94ad5a0d79208bc63b5ecd32c0c9f80db48db8da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01a71aff45269fae62f2f2c48ddc5bb81d525fa52272333eed5d01712456d84f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
-- Médico
-- Medicina Privada
-- Hemodiálise
-- Serviço de Saúde
-- Administração Regional de Saúde
-- Farmacêutico
-- Conselho Diretivo
-- Manual de Boas Práticas
 - Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Conselho Diretivo
+- Farmacêutico
+- Hemodiálise
+- Livro de Reclamações
+- Manual de Boas Práticas
+- Medicina Privada
+- Médico
+- Ministério da Saúde
 - Nutricionista
 - Pessoal de Enfermagem
 - Pessoal Técnico
 - Prestação de Serviços
-- Ministério da Saúde
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:854635724:por
@@ -99,16 +99,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/505/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/505/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:3484129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:854635724:por
+  label: Revogada, a partir de 12 de março de 2024, pelo(a) Portaria n.º 94/2024/1 - Diário da República n.º 50/2024, Série
+    I de 2024-03-11, nos termos do seu artigo 40.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-2024-854635724
+  date: '2024-03-11'
 article_structure:
   article_count: 39
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:57Z'
   warnings: []
   errors: []
 ---
@@ -675,7 +697,9 @@ São aprovadas especificações técnicas no que diz respeito aos compartimentos
 
 Sempre que a unidade de saúde dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.
 
-###### Artigo 38.º — Livro de reclamações
+###### Artigo 38.º
+
+## Livro de reclamações
 
 As unidades de diálise estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -683,7 +707,7 @@ As unidades de diálise estão sujeitas à obrigatoriedade de existência e disp
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 15 de novembro de 2013.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 15 de novembro de 2013.
 
 ## ANEXO I — (a que se refere o artigo 35.º)
 
@@ -691,7 +715,7 @@ Unidades de Hemodiálise
 
 Compartimentos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 ## ANEXO II — (a que se refere o artigo 35.º)
 
@@ -703,7 +727,7 @@ Todos os compartimentos deverão satisfazer as condições da atmosfera de traba
 
 2.As especificações previstas neste anexo apenas são exigidas para as atuais unidades de diálise em funcionamento quando sejam realizadas remodelações nos compartimentos seguintes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 ## ANEXO III — (a que se refere o artigo 35.º)
 
@@ -711,7 +735,7 @@ Gases medicinais e aspiração
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 Requisitos especiais:
 
@@ -765,7 +789,7 @@ Equipamentos frigoríficos
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia elétrica pela rede de socorro.
 
@@ -775,7 +799,7 @@ Instalações e equipamentos elétricos
 
 As instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis, as condições constantes no Manual de Boas Práticas de Diálise Crónica e os seguintes requisitos mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 Requisitos especiais:
 
@@ -813,7 +837,7 @@ Equipamento sanitário
 
 Requisitos mínimos a considerar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
 
 ## ANEXO VIII — (a que se refere o artigo 35.º)
 
@@ -821,4 +845,4 @@ Equipamento médico e equipamento geral
 
 Equipamento médico e geral a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23100/0659406607.pdf)

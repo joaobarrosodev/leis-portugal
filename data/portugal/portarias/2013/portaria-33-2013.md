@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/02000/0056100567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/2013/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-2013-258163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 602cdfb11cbe51b3c4e9599cc6ce4b8867fbf5f927acef4907e694729aeb8158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 130bb069c4b3e5cd4647d8b2e282a99b34d18c4d1186da130773afba3fcf4850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Desempregado
-- Património Cultural
-- Inserção Profissional
-- Qualificação Profissional
 - Estágio de Formação
+- Formação Profissional
+- Inserção Profissional
 - Inserção Social
-- Proteção no Desemprego
+- Instituto do Emprego e Formação Profissional
+- Património
+- Património Cultural
 - Património Natural
+- Proteção no Desemprego
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:164429:por
@@ -122,16 +122,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546031:por
+  label: "Revogados, a partir de 19.07.2013, a al. a) do nº 2 do art. 1º, o nº 1 do art. 5º e os arts. 7º a 16º pela PORT.204-B/2013.18.06.2013.MEE,\
+    \ DR.IS [115-2ºSupl] de 18.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-b-2013-546031
+  date: '2013-06-18'
+- type: repealed_by
+  target: pt:dre:164429:por
+  label: "Revogada, a partir de 30.01.2013, pela PORT.378-H/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-h-2013-164429
+  date: '2013-12-31'
 article_structure:
   article_count: 31
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:50Z'
   warnings: []
   errors: []
 ---
@@ -582,4 +633,4 @@ No decurso do Programa podem ser realizadas ações de acompanhamento, verifica�
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de janeiro de 2013.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de janeiro de 2013.

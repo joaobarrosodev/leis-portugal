@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02600/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/40/2023/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96f71028d5961500fd6614d946a94e07dd958ea4252d29402426e83641db0a96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6326542b15338bb838b17bcf155cd95a76a6946be3f85e3a9daa88df2204b462
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Ajuda Comunitária
+- Alimentação
 - Alimento para Crianças
-- Financiamento
 - Criança
 - Direção Geral da Saúde
 - Direcção Geral da Educação
-- Ensino Oficial
-- Estudante
-- Pagamento
-- IFAP
-- Gabinete de Planeamento Políticas e Administração Geral
-- Política de Educação
-- Estabelecimento de Ensino
-- Alimentação
+- Educação Pré-escolar
 - Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Estudante
+- Financiamento
+- Gabinete de Planeamento Políticas e Administração Geral
+- IFAP
+- Pagamento
+- Política de Educação
 - Regime de Apoio
 - Regulamento CE
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -118,16 +118,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/94/2019/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/94/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:115200303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:03Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +192,9 @@ b) (euro) 7,03, por aluno e por ano, no caso da distribuição dos produtos a qu
 
 2 - [...]
 
-###### Artigo 8.º — Modelo de distribuição dos produtos
+Artigo 8.º
+
+Modelo de distribuição dos produtos
 
 A distribuição de produtos é realizada durante 37 semanas por ano letivo, com a seguinte frequência:
 
@@ -184,7 +202,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 10.º — Objetivos e âmbito
+Artigo 10.º
+
+Objetivos e âmbito
 
 1 - [...]
 
@@ -198,13 +218,17 @@ b) [...]
 
 6 - O GPP, em conjunto com o IFAP, I. P., estabelecem as regras de elegibilidade para a aprovação das candidaturas apresentadas ao abrigo do n.º 4 do presente artigo, as quais são publicitadas em conjunto com o aviso de abertura de candidaturas referido no número anterior.
 
-###### Artigo 12.º — Níveis e limites da ajuda
+Artigo 12.º
+
+Níveis e limites da ajuda
 
 1 - [...]
 
 2 - Caso o montante total dos pedidos de ajuda às medidas previstas na alínea b) do número anterior exceda a dotação disponível, os montantes da ajuda a conceder são disponibilizados às candidaturas aprovadas até ao limite da dotação, de acordo com os critérios de seriação estabelecidos nas regras de elegibilidade referidas no n.º 6 do artigo 10.º
 
-###### Artigo 16.º — Aprovação das entidades requerentes
+Artigo 16.º
+
+Aprovação das entidades requerentes
 
 1 - [...]
 
@@ -220,7 +244,9 @@ b) [...]
 
 7 - Excecionalmente, para o ano letivo 2022/2023, a data-limite prevista no n.º 4 do presente artigo é prorrogada até 15 de março de 2023.
 
-###### Artigo 17.º — Pedidos de pagamento
+Artigo 17.º
+
+Pedidos de pagamento
 
 1 - [...]
 
@@ -236,4 +262,6 @@ b) [...]
 
 A presente portaria entra em vigor no dia seguinte à sua publicação, produzindo efeitos a partir de 1 de agosto de 2022.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 1 de fevereiro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 27 de janeiro de 2023. - A Secretária de Estado da Promoção da Saúde, Margarida Fernandes Tavares, em 1 de fevereiro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 1 de fevereiro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 27 de janeiro de 2023. - A Secretária de Estado da Promoção da Saúde, Margarida Fernandes Tavares, em 1 de fevereiro de 2023.
+
+116128586

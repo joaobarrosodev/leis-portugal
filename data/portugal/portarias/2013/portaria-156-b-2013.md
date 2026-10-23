@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 77/2013, 1º Suplemento, Série I de 2013-04-19
   number: '77'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2320-(29) a 2320-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156-b/2013/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-b-2013-146690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10fdcd9fa2787c4c76d4085a4e9efe94d9ac54ac3884af942c48212a5b6f9406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25305d8578a7a3f98f07fe6c3c3ad7026b08961995c1ff417591d3de4c2968df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,16 +117,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79-b/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224080874:por
+  label: Revogada, a partir de 11.11.2023, e extintos os quadros de zona pedagógica criados pela presente portaria, pelo(a)
+    Portaria n.º 345/2023 - Diário da República n.º 218/2023, Série I de 2023-11-10, nos termos do art.º 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2023-224080874
+  date: '2023-11-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:51Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +255,12 @@ Por efeitos da presente portaria, os docentes dos quadros de zona pedagógica ex
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de abril de 2013. - Pelo Ministro da Educação e Ciência, João Casanova de Almeida, Secretário de Estado do Ensino e da Administração Escolar, em 16 de abril de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de abril de 2013. - Pelo Ministro da Educação e Ciência, João Casanova de Almeida, Secretário de Estado do Ensino e da Administração Escolar, em 16 de abril de 2013.
 
 ## ANEXO I — Âmbito geográfico dos quadros de zona pedagógica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf)
 
 ## ANEXO II — Transição dos quadros de zona pedagógica extintos para os quadros de zona pedagógica criados no anexo I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07701/0002900030.pdf)

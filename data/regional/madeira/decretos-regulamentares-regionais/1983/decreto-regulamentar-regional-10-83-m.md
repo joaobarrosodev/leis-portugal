@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1983-451016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d37b317ee26c3b9351221208de7de55eb69a2b86f459e491de0e90ac5c57c70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7cfc22b39cdd4ad2378ffbf31d99481645c8de0c4e8d03ecd50f32f8595bf9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Clero
+- Madeira.região Autónoma
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:308561:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:15Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +115,8 @@ O presente diploma entra em vigor no início do mês seguinte ao da sua publica�
 
 Aprovado em Plenário do Governo aos 17 de Março de 1983.
 
-**O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 5 de Abril de 1983.**
+Assinado em 5 de Abril de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

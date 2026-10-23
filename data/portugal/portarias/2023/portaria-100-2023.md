@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06800/0003100033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/100/2023/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-2023-211443517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b8905b1e23de3877ad4637b5b27eb6e38c106ac173d1dce82bd15a5b6cd8e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d2eabcaf3a3e1edb8a726344b8a4e53a330dc70d9d5315a5c388cb4242e60ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Silvicultura
 - Doença Vegetal
-- Regulamentação de Atos Legislativos
-- Nemátodo
-- Proteção da Floresta
 - Fundos CE
-- PDR 2020
 - Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Nemátodo
+- PDR 2020
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Regulamentação de Atos Legislativos
+- Silvicultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -119,16 +119,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/249/2016/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/249/2016/09/15/p/dre
+- type: cites
+  target: pt:dre:114515398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115132064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116236989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118894327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130366458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:13Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +311,9 @@ gg) [...]
 
 5 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -251,11 +329,13 @@ e) [...]
 
 2 - [...]
 
-## ANEXO III — [...]
+ANEXO III
 
 [...]
 
-### Capítulo II - Intervenção com escala territorial relevante
+[...]
+
+Capítulo II - Intervenção com escala territorial relevante
 
 Abióticos - Estabilização de emergência em áreas iguais ou superiores a 500 ha
 
@@ -265,4 +345,6 @@ Abióticos - Estabilização de emergência em áreas iguais ou superiores a 500
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 30 de março de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 30 de março de 2023.
+
+116333191

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/298/2011/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99be05278f00134a11cc4306f4cdc445a31a1e204f96f3820a90d17592b53de0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: babc388a6653df7615c05a5b1f5e8f63cc8e504938b0e22edc22aeb6222c19ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Direcção Regional de Agricultura e Pescas
-- Pesca
 - Apoio ao Investimento
+- Aquicultura
+- Comércio
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
 - IFAP
 - Investimento
-- Aquicultura
+- Pesca
 - Prazo
 - Produtos de Pesca
 - Regime de Apoio
 - Regulamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:503059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1272217:por
+  label: "Determinada a interrupção, na região não abrangida pelo objetivo de convergência no Continente, do período para\
+    \ apresentação de candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13-Jun, na redação\
+    \ da presente portaria, pelo DESP.641/2012.17.01.2012.AGP-MAMAOT, DR.IIS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/641-2012-1272217
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:2433736:por
+  label: "Determinada a cessação da interrupção, na região abrangida pelo objetivo de convergência no Continente, do período\
+    \ para apresentação das candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Port 424-C/2008, de 13-Jun, com as alterações\
+    \ introduzidas pelo presente diploma, pelo DESP.9713/2013.24.07.2013.AGP-MAMAOT, DR.IIS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9713-2013-2433736
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:503059:por
+  label: "Alterados os arts. 14º e 15º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e\
+    \ da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Port. 424-C/2008, de 13-jun, na redação do\
+    \ presente diploma, pela PORT.308/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2013-503059
+  date: '2013-10-21'
+- type: amends
+  target: pt:numero:portaria:424-C/2008
+  label: "Altera os arts. 7.º (na redacção da Port.619/2009, de 08-Jun), 8.º (na redacção da Port.1174/2010, de 16-Nov.),\
+    \ 13.º (na redacção da Port.227/2010, de 22-Abr), 14.º, 15.º (na redacção da Port.106/2010, de 19-Fev.) e 16.º (na redacção\
+    \ das Ports.619/2009, de 08-Jun. e 1174/2010, de 16-Nov) bem como o Anexo II e adita um novo Anexo IV, todos do Regulamento\
+    \ do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização dos Produtos da Pesca e da Aquicultura,\
+    \ aprovado pela Portaria n.º 424-C/2008, de 13-Jun, DR IS [113] Supl\0\0"
+  source: null
+  date: '2008-06-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -100,16 +132,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:44Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +220,9 @@ j) ...
 
 l) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +242,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +254,9 @@ d) ...
 
 4 - O IFAP, após a recepção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +266,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento de até 50 % do valor do apoio, no prazo de seis meses a contar da data da recepção de um exemplar do respectivo contrato de atribuição outorgado pelo IFAP.
 
@@ -226,7 +282,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, quando aplicáveis, constituem obrigações dos beneficiários:
 
@@ -304,4 +362,4 @@ AL - activo líquido da empresa.
 
 3 - As alterações introduzidas no anexo ii e na alínea f) do artigo 16.º do Regulamento do Regime referido no número anterior aplicam-se às candidaturas já apresentadas e ainda não decididas.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de Novembro de 2011.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de Novembro de 2011.

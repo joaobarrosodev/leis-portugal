@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07200/0001300018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103/2023/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-2023-211666654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b114782f767088172d2b7fff85846e7c2ac1cbeed08cce54be0ad503bd6d83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0bb7f726d0aef66d93313ecc68d55d3aff4159cf93336a4e927887303703fce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Cadap
 - Cagep
-- Formação Profissional
-- Pessoal Dirigente
 - Consórcio
 - Curso de Formação
-- Administração Pública
-- INA
 - Forgep
+- Formação Profissional
+- INA
+- Pessoal Dirigente
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/264/2006/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/264/2006/03/17/p/dre
+- type: cites
+  target: pt:dre:105658704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123407857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200731098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:14Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +289,7 @@ d) O CAT - Futuros Líderes é equiparado ao curso FA>AP: Futuros Dirigentes.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 22 de março de 2023. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de março de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 22 de março de 2023. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de março de 2023.
 
 ## ANEXO I — FA>AP: Dirigentes Superiores
 
@@ -360,3 +400,5 @@ Ciclo de gestão da Administração Pública;
 Cidadania e participação democrática;
 
 Competências de liderança.
+
+116351205

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21500/0006900089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/339/2023/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-2023-223906283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc7434e44d7d9627a21664d6479ea9ef9b577b95c1961a2e8ed8fdf321f9d29c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acad410e43827122e4eb40859e2502ab3cb0034439e5a0456b00aeada34d9968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Autoridade Tributária e Aduaneira
 - Cobrança de Impostos
+- Contribuições e Impostos
+- Documento Eletrónico
 - Formulário Eletrónico
 - Impresso
-- Contribuições e Impostos
 - IVA
-- Documento Eletrónico
 relationships:
 - type: amended_by
   target: pt:dre:1148213729:por
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232/2020/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232/2020/10/01/p/dre
+- type: cites
+  target: pt:dre:107725089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172809420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693823:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:43Z'
   warnings: []
   errors: []
 ---
@@ -154,46 +182,67 @@ São publicados, em anexo à presente portaria, os modelos da declaração peri�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 30 de outubro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 30 de outubro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 Publicação dos modelos da declaração periódica, do anexo R e respetivas instruções de preenchimento
 
-![](https://files.diariodarepublica.pt/images/223906283/223906376.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906376.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906377.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906377.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906378.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906378.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906379.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906379.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906380.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906381.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906382.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906383.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906384.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906385.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906386.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906387.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906388.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906389.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906390.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906391.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906392.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906393.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906283/223906394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906283/223906394.png) |
+| --- |
+
+117022444

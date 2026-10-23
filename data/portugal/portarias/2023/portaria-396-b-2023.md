@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 229/2023, 2º Suplemento, Série I de 2023-11-27
   number: '229'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 115-(2) a 115-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22902/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/396-b/2023/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-b-2023-224892468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db723583bf72d4b61b135c706b1a92b43780ed0daa91326893f262a8d731a273
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 198194a6717fd4a2d4dc3675ffdfad2f088b05c0ae98f414d03dd44673adc14b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
 - Apoio ao Investimento
+- Comércio Eletrónico
+- Financiamento
 - Indústria
 - Informatização
 - Investimento
 - Modernização Tecnológica
-- Comércio Eletrónico
 - Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/43/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/43/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:181574723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:02Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +170,9 @@ h) [...]
 
 i) Indústria 4.0 - apoiar investimentos na implementação integrada de soluções tecnológicas de indústria 4.0, em processos industriais, com incorporação de tecnologias digitais avançadas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -172,13 +186,17 @@ i) Indústria 4.0 - apoiar investimentos na implementação integrada de soluç�
 
 6 - No âmbito das medidas de investimento Aceleradoras do Comércio Digital, Internacionalização Via E-Commerce, Coaching 4.0, Vouchers para Startups, Vales para Incubadoras, Selos de Certificações e Indústria 4.0, em substituição do referido nos n.os 1, 2 e 3, a atribuição de incentivos às empresas pode seguir um processo de avaliação tendo por base critérios de seleção simplificados, nos termos a definir nos respetivos AAC.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - Caso não seja assinado o termo de aceitação no prazo máximo de 30 dias úteis, a contar da data da notificação da decisão, caduca a decisão de aprovação, salvo motivo justificado, não imputável ao candidato.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -190,38 +208,148 @@ i) Indústria 4.0 - apoiar investimentos na implementação integrada de soluç�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 24 de novembro de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 23 de novembro de 2023.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 24 de novembro de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 23 de novembro de 2023.
 
 ## ANEXO I — Despesas elegíveis e intensidade de auxílios por medida de investimento
 
 i) Indústria 4.0:
 
-|  |  |  |
-| --- | --- | --- |
-| Categoria de auxílio | Despesas elegíveis (em determinadas condições) | Intensidade máxima de auxílio (em equivalente-subvenção bruto) |
-| Auxílios de minimis [Regulamento (UE) n.º 1407/2013 da Comissão, de 18 de dezembro]. | . Aquisição de equipamentos e componentes; . Aquisição de software, incluindo os custos iniciais de subscrição de Software as a Service durante 12 meses; | Limite máximo de 200 000 (euro) durante três exercícios financeiros por empresa única. |
-|  | . Aquisição de serviços de consultoria e engenharia essenciais à integração das soluções. |  |
+Categoria de auxílio
+
+Despesas elegíveis (em determinadas condições)
+
+Intensidade máxima de auxílio
+
+(em equivalente-subvenção bruto)
+
+Auxílios de minimis [Regulamento (UE) n.º 1407/2013 da Comissão, de 18 de dezembro].
+
+. Aquisição de equipamentos e componentes;
+
+. Aquisição de software, incluindo os custos iniciais de subscrição de Software as a Service durante 12 meses;
+
+Limite máximo de 200 000 (euro) durante três exercícios financeiros por empresa única.
+
+. Aquisição de serviços de consultoria e engenharia essenciais à integração das soluções.
 
 ## ANEXO II
 
 Grupos de acompanhamento do comité coordenador para as iniciativas da Componente «Empresas 4.0»
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Nome do grupo de acompanhamento | Entidades integrantes do grupo de acompanhamento | Coordenador do grupo de acompanhamento | Medidas afetas ao grupo de acompanhamento | Entidade gestora da medida |
-| 1 - Capacitação Digital das Empresas. | IAPMEI; EMPD; IEFP; ANQEP; FCT. | EMPD | Academia Portugal Digital... | EMPD* |
-| 1 - Capacitação Digital das Empresas. | IAPMEI; EMPD; IEFP; ANQEP; FCT. | EMPD | Emprego + Digital 2025... | IEFP* |
-| 2 - Comércio Digital... | IAPMEI; EMPD; DGAE; AICEP; COMPETE; IEFP. | DGAE | Bairros Comerciais Digitais... | DGAE* |
-|  |  |  | Aceleradoras de Comércio Digital | DGAE* |
-|  |  |  | Internacionalização via e-commerce. | AICEP* |
-| 3 - Empreendedorismo | IAPMEI; EMPD; SUP; COMPETE. | SUP | Reforço da Estrutura Nacional para o Empreendedorismo - Startup Portugal. | SPAPPE* |
-|  |  |  | Vales de Incubadoras/Aceleradoras. | SPAPPE |
-|  |  |  | Voucher para Startups - Novos Produtos Verdes e Digitais. | SPAPPE |
-| 4 - Inovação Digital... | IAPMEI; EMPD; DGAE; ANI; SUP; COMPETE. | EMPD | Apoio a Modelos de Negócio para a Transição Digital (Coaching 4.0). | EMPD |
-|  |  |  | Rede Nacional de Test Beds... | ANI |
-|  |  |  | Digital Innovation Hubs... | ANI |
-|  |  |  | Indústria 4.0... | IAPMEI |
-| 5 - Catalisação da Transição Digital. | IAPMEI; EMPD; INCM; AMA; CNCS; DGAE. | EMPD | Desmaterialização da Faturação | AMA* |
-|  |  |  | Selos de certificações de cibersegurança, privacidade, usabilidade e sustentabilidade. | INCM* EMPD* |
+Nome do grupo
+
+de acompanhamento
+
+Entidades integrantes
+
+do grupo
+
+de acompanhamento
+
+Coordenador
+
+do grupo
+
+de acompanhamento
+
+Medidas afetas ao grupo
+
+de acompanhamento
+
+Entidade gestora
+
+da medida
+
+1 - Capacitação Digital das Empresas.
+
+IAPMEI; EMPD; IEFP; ANQEP; FCT.
+
+EMPD
+
+Academia Portugal Digital...
+
+EMPD*
+
+Emprego + Digital 2025...
+
+IEFP*
+
+2 - Comércio Digital...
+
+IAPMEI; EMPD; DGAE; AICEP; COMPETE; IEFP.
+
+DGAE
+
+Bairros Comerciais Digitais...
+
+DGAE*
+
+Aceleradoras de Comércio Digital
+
+DGAE*
+
+Internacionalização via e-commerce.
+
+AICEP*
+
+3 - Empreendedorismo
+
+IAPMEI; EMPD; SUP; COMPETE.
+
+SUP
+
+Reforço da Estrutura Nacional para o Empreendedorismo - Startup Portugal.
+
+SPAPPE*
+
+Vales de Incubadoras/Aceleradoras.
+
+SPAPPE
+
+Voucher para Startups - Novos Produtos Verdes e Digitais.
+
+SPAPPE
+
+4 - Inovação Digital...
+
+IAPMEI; EMPD; DGAE; ANI; SUP; COMPETE.
+
+EMPD
+
+Apoio a Modelos de Negócio para a Transição Digital (Coaching 4.0).
+
+EMPD
+
+Rede Nacional de Test Beds...
+
+ANI
+
+Digital Innovation Hubs...
+
+ANI
+
+Indústria 4.0...
+
+IAPMEI
+
+5 - Catalisação da Transição Digital.
+
+IAPMEI; EMPD; INCM; AMA; CNCS; DGAE.
+
+EMPD
+
+Desmaterialização da Faturação
+
+AMA*
+
+Selos de certificações de cibersegurança, privacidade, usabilidade e sustentabilidade.
+
+INCM*
+
+EMPD*
 
 * Beneficiário final da respetiva medida afeta.
+
+117107454
+
+.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl3 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl4 { text-align:justify; border<arel='nofollownoopenernoreferrer'target='_blank'href='http://data.europa.eu/eli/reg/2013/1407/oj?locale=pt'title='LinkparaRegulamentodaUniãoEuropeia'>Regulamento(UE)n.º1407/2013</a>t-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:#a7a9a2; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; }

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2011, 1º Suplemento, Série I de 2011-02-03
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 674-(2) a 674-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/02401/0000200030.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64-a/2011/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-a-2011-666701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac9c0950de0c5aae609cb14c9593c9fd5b2538cc9b636d26db8e05d385280625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cc5d080b74fe55f9ed60419d414b606123a7a85581a6679760fe1266811c650
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contabilidade
-- Formulário Eletrónico
-- Impresso
 - Dados Estatísticos
-- Prestação de Contas
+- Formulário Eletrónico
 - IES
+- Impresso
+- Prestação de Contas
 relationships:
 - type: amended_by
   target: pt:dre:118562585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:118406930:por
+  label: Mantido em vigor, para a entrega das declarações relativas aos períodos de 2018 e anteriores, o modelo de impresso
+    aprovado pelo presente diploma, pelo(a) Portaria n.º 32/2019 - Diário da República n.º 17/2019, Série I de 2019-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-2019-118406930
+  date: '2019-01-24'
+- type: amended_by
+  target: pt:dre:118562585:por
+  label: Mantidos em vigor os modelos de impressos respeitantes aos Anexos A1, B1, C1, F, G, L a P e T aprovados pelo presente
+    diploma, pelo(a) Portaria n.º 35/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2019-118562585
+  date: '2019-01-28'
+- type: amended_by
+  target: pt:dre:176908209:por
+  label: Determinado que para a entrega das declarações dos períodos de 2021 e de 2022, bem como de períodos anteriores e
+    ainda das declarações do período de 2023, quando a entrega deva ocorrer antes de 1 de janeiro de 2024, devem ser utilizados
+    os modelos de impressos Anexo F - IRC, Anexo G - IRC, Anexo L - IVA e Anexo M - IVA, aprovados pelo presente diploma,
+    pelo(a) Portaria n.º 331-D/2021 - Diário da República n.º 253/2021, 3º Suplemento, Série I de 2021-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-d-2021-176908209
+  date: '2021-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
@@ -89,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:04Z'
   warnings: []
   errors: []
 ---
@@ -151,6 +183,6 @@ As declarações que incluam ficheiros em formato PDF não podem exceder 5 MB.
 
 2 - Os novos modelos de impressos, independentemente do período a que a declaração se reporte, devem ser utilizados após a entrada em vigor da presente portaria.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 31 de Janeiro de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 31 de Janeiro de 2011.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/02401/0000200030.pdf))](https://files.diariodarepublica.pt/1s/2011/02/02401/0000200030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/02401/0000200030.pdf)

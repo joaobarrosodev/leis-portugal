@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22
   number: '246'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 70-(4) a 70-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24602/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/451-a/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d3fc97c8bdee16063487a4d4f01410decb8f6ba5e523d00fe9abbfdb013473b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c82c7fe2b873749ce0092b7024d52cdb5b5564faf54e18e929b9931960e1c91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
-- Empréstimo
-- União Europeia
 - Apoio ao Investimento
-- Fundos CE
-- Plano de Recuperação e Resiliência
-- Mecanismo de Recuperação e Resiliência da União Europeia
+- Empréstimo
 - Estrutura de Missão Recuperar Portugal
+- Financiamento
+- Fundos CE
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:portaria:193/2021
+  label: Altera, a partir de 23 de dezembro de 2023, o artigo 3.º da Portaria n.º 193/2021 de 15 de setembro, Diário da República
+    n.º 180/2021, Série I
+  source: null
+  date: '2021-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171362456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178050263:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:21Z'
   warnings: []
   errors: []
 ---
@@ -153,13 +171,13 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 21 de dezembro de 2023.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.
 
 ## ANEXO I
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Investimento | Nome do investimento | Tipo de beneficiário | Entidade beneficiária |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | C02-i09 | Programa de apoio ao acesso à habitação (empréstimo) | Beneficiário intermediário | Instituto da Habitação e da Reabilitação Urbana, I. P. |
 | C05-i11 | Reforço: Agendas/Alianças Mobilizadoras para a Inovação Empresarial (Empréstimos). | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |
 | C05-i12 | Reforço: Agendas/Alianças Verdes para a Inovação Empresarial (Empréstimos). | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |
@@ -182,3 +200,5 @@ Em 21 de dezembro de 2023.
 | C10-i03.02 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar III - Academia do Arsenal do Alfeite (Academia 4.0). | Beneficiário direto... | Arsenal do Alfeite, S. A. |
 | C10-i07 | Green Shipping... | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |
 | C15-i03 | Metro Ligeiro de Superfície Odivelas-Loures... | Beneficiário direto... | Metropolitano de Lisboa, E. P. E. |
+
+117195137

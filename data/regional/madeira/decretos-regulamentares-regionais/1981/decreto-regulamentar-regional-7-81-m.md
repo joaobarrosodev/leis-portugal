@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1981-389383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fde01151ef13634cdda5954db027ceb45591c8f5ce6ae1c20a8a439b57fe290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1682d2adb50e3f40bbe5ca634cb763b025e65b74c49d6acf38760e998b852e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Madeira.região Autónoma
+- Pessoal Auxiliar
 relationships:
 - type: amended_by
   target: pt:dre:374808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394570:por
+  label: "Alterado o artigo 31º pelo DRR.13/82/M.09.07.1982.GR-RAM, DR.IS [156] de 09.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1982-394570
+  date: '1982-07-09'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374808:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 3/88/M - Diário da República n.º 113/1988, Série I de 1988-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1988-374808
+  date: '1988-05-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:08Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +145,13 @@ I
 
 Quadros e funções
 
-###### Artigo 1.º Os estabelecimentos de ensino oficial da Região Autónoma da Madeira, com excepção dos do ensino superior, passam a ter um quadro único de pessoal auxiliar de apoio, no qual se integram os respectivos quadros privativos.
+Artigo 1.º Os estabelecimentos de ensino oficial da Região Autónoma da Madeira, com excepção dos do ensino superior, passam a ter um quadro único de pessoal auxiliar de apoio, no qual se integram os respectivos quadros privativos.
 
-###### Art. 2.º - 1 - Os quadros privativos do pessoal auxiliar de apoio serão aprovados por portaria dos Secretários Regionais da Educação e Cultura e do Planeamento e Finanças, ouvida a Direcção Regional da Administração Pública.
+Art. 2.º - 1 - Os quadros privativos do pessoal auxiliar de apoio serão aprovados por portaria dos Secretários Regionais da Educação e Cultura e do Planeamento e Finanças, ouvida a Direcção Regional da Administração Pública.
 
 2 - Os quadros referidos no número anterior poderão ser alterados, quando as circunstâncias o justificarem, por despacho do Secretário Regional da Educação e Cultura, desde que não haja em cada uma das categorias aumento do número total de lugares do quadro único.
 
-###### Art. 3.º - 1 - A constituição dos quadros de cada estabelecimento de ensino atenderá, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, à população docente e à diversidade dos cursos ministrados e respectivos períodos de funcionamento.
+Art. 3.º - 1 - A constituição dos quadros de cada estabelecimento de ensino atenderá, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, à população docente e à diversidade dos cursos ministrados e respectivos períodos de funcionamento.
 
 2 - Na constituição dos quadros privativos será também considerada a natureza das tarefas a desempenhar, criando-se, quando a natureza do serviço o justifique, lugares masculinos e femininos.
 
@@ -121,25 +163,25 @@ b) As escolas que tenham refeitório em funcionamento poderão ser acrescidas de
 
 4 - Os postos de recepção oficial do ciclo preparatório TV consideram-se, para efeitos do presente diploma, integrados na rede escolar do ensino primário.
 
-###### Art. 4.º Quando a dimensão e as necessidades concretas do serviço da escola o justifiquem, o pessoal auxiliar integrado na carreira de contínuo poderá, sem prejuízo do desempenho das funções de apoio geral no domínio de segurança, portaria, telefones e serviços externos, ser afectado a funções específicas relacionadas com o apoio pedagógico e o apoio social escolar.
+Art. 4.º Quando a dimensão e as necessidades concretas do serviço da escola o justifiquem, o pessoal auxiliar integrado na carreira de contínuo poderá, sem prejuízo do desempenho das funções de apoio geral no domínio de segurança, portaria, telefones e serviços externos, ser afectado a funções específicas relacionadas com o apoio pedagógico e o apoio social escolar.
 
-###### Art. 5.º - 1 - Poderá ser criado nos estabelecimentos de ensino preparatório e secundário um lugar de ecónomo, cuja carreira é a constante do mapa anexo a este diploma.
+Art. 5.º - 1 - Poderá ser criado nos estabelecimentos de ensino preparatório e secundário um lugar de ecónomo, cuja carreira é a constante do mapa anexo a este diploma.
 
 2 - Os lugares de ecónomo de apoio social escolar serão providos, mediante concurso, de entre indivíduos que possuam, no mínimo, o curso geral dos liceus ou equivalente e a classificação de Apto num curso de formação apropriado, a reconhecer, como tal, por despacho do Secretário Regional da Educação e Cultura, ouvida a Direcção Regional da Administração Pública.
 
-###### Art. 6.º O pessoal de apoio dos estabelecimentos de ensino exercerá as suas funções na dependência do conselho directivo ou de quem as suas vezes fizer.
+Art. 6.º O pessoal de apoio dos estabelecimentos de ensino exercerá as suas funções na dependência do conselho directivo ou de quem as suas vezes fizer.
 
 II
 
 Da gestão dos quadros
 
-###### Art. 7.º A gestão do pessoal de apoio compete à Secretaria Regional da Educação e Cultura.
+Art. 7.º A gestão do pessoal de apoio compete à Secretaria Regional da Educação e Cultura.
 
 III
 
 Recrutamento
 
-###### Art. 8.º - 1 - O preenchimento dos lugares previstos nos quadros, quando não resulte de transferência, far-se-á mediante um contrato inicial de um ano, em regime de estágio, com remuneração correspondente à letra U do funcionalismo público.
+Art. 8.º - 1 - O preenchimento dos lugares previstos nos quadros, quando não resulte de transferência, far-se-á mediante um contrato inicial de um ano, em regime de estágio, com remuneração correspondente à letra U do funcionalismo público.
 
 2 - Durante o período de contratos referido no número anterior deverá o estagiário contratado frequentar os cursos e acções de formação para que seja convocado.
 
@@ -151,7 +193,7 @@ Recrutamento
 
 6 - Os estagiários referidos no número anterior só poderão candidatar-se por mais uma vez decorrido o prazo de dois anos após o primeiro contrato realizado.
 
-###### Art. 9.º - 1 - O recrutamento do pessoal auxiliar far-se-á, mediante concurso para o estágio referido no artigo anterior, de entre os indivíduos que satisfaçam, cumulativamente, as seguintes condições:
+Art. 9.º - 1 - O recrutamento do pessoal auxiliar far-se-á, mediante concurso para o estágio referido no artigo anterior, de entre os indivíduos que satisfaçam, cumulativamente, as seguintes condições:
 
 a) Estejam habilitados, à data da abertura do concurso, pelo menos, com a escolaridade obrigatória fixada por lei;
 
@@ -161,7 +203,7 @@ b) Possuam a robustez física e mental necessária, devidamente comprovadas.
 
 3 - Só são admitidos candidatos com menos de 21 anos ou mais de 55 anos quando forem candidatos únicos.
 
-###### Art. 10.º - 1 - O concurso previsto no artigo anterior será aberto, quando as necessidades do quadro do pessoal de apoio o justifiquem, pela Direcção Regional de Finanças, Administração, Pessoal e Equipamento, através de aviso a publicar no Jornal Oficial da Região e em órgãos de comunicação social.
+Art. 10.º - 1 - O concurso previsto no artigo anterior será aberto, quando as necessidades do quadro do pessoal de apoio o justifiquem, pela Direcção Regional de Finanças, Administração, Pessoal e Equipamento, através de aviso a publicar no Jornal Oficial da Região e em órgãos de comunicação social.
 
 2 - O prazo para oposição ao concurso será de quinze dias, contados a partir do dia seguinte ao da publicação do respectivo aviso no Jornal Oficial da Região.
 
@@ -171,9 +213,9 @@ IV
 
 Carreira
 
-###### Art. 11.º O quadro único do pessoal compreende as carreiras constantes do mapa anexo ao presente diploma.
+Art. 11.º O quadro único do pessoal compreende as carreiras constantes do mapa anexo ao presente diploma.
 
-###### Art. 12.º - 1 - Nos estabelecimentos de ensino preparatório e secundário com mais de cinco elementos de pessoal de apoio haverá um encarregado de pessoal auxiliar, designado de entre os contínuos ou guardas de 1.ª classe com, pelo menos, cinco anos na categoria, em comissão de serviço, pelo director regional de Finanças, Administração, Pessoal e Equipamento, mediante proposta do conselho directivo ou de quem as suas vezes fizer.
+Art. 12.º - 1 - Nos estabelecimentos de ensino preparatório e secundário com mais de cinco elementos de pessoal de apoio haverá um encarregado de pessoal auxiliar, designado de entre os contínuos ou guardas de 1.ª classe com, pelo menos, cinco anos na categoria, em comissão de serviço, pelo director regional de Finanças, Administração, Pessoal e Equipamento, mediante proposta do conselho directivo ou de quem as suas vezes fizer.
 
 2 - A designação referida no número anterior será válida pelo período de dois anos, a qual poderá ser, automaticamente, renovada por idênticos períodos, com dispensa de quaisquer formalidades legais.
 
@@ -183,13 +225,13 @@ Carreira
 
 5 - A designação prevista no n.º 1 deste artigo será sujeita a visto da Comissão Distrital de Contas.
 
-###### Art. 13.º O disposto no n.º 1 do artigo anterior não é aplicável ao pessoal afecto ê papelaria, bufete e refeitório, que será dirigido pelo ecónomo, quando este existir, nem ao pessoal operário.
+Art. 13.º O disposto no n.º 1 do artigo anterior não é aplicável ao pessoal afecto ê papelaria, bufete e refeitório, que será dirigido pelo ecónomo, quando este existir, nem ao pessoal operário.
 
-###### Art. 14.º - 1 - Os guardas, cozinheiros, motoristas e contínuos de 2.ª classe serão promovidos à categoria de 1.ª classe de acordo com as regras vigentes na lei geral para as carreiras horizontais.
+Art. 14.º - 1 - Os guardas, cozinheiros, motoristas e contínuos de 2.ª classe serão promovidos à categoria de 1.ª classe de acordo com as regras vigentes na lei geral para as carreiras horizontais.
 
 2 - Os ajudantes de cozinha terão acesso aos lugares de cozinheiro de 2.ª classe das vagas existentes por concurso documental, depois de terem frequentado, com aproveitamento; um curso de formação adequado.
 
-###### Art. 15.º - 1 - A colocação nos lugares poderá fazer-se, independentemente de concurso, por transferência, a requerimento do interessado, ou por conveniência de serviço, neste caso com a concordância do interessado.
+Art. 15.º - 1 - A colocação nos lugares poderá fazer-se, independentemente de concurso, por transferência, a requerimento do interessado, ou por conveniência de serviço, neste caso com a concordância do interessado.
 
 2 - As transferências previstas no n.º 1 serão atendidas de acordo com as seguintes razões prioritárias:
 
@@ -207,7 +249,7 @@ e) Quaisquer outros motivos devidamente fundamentados.
 
 4 - Se, após aplicação do disposto no número anterior, a igualdade se mantiver, preferirá o candidato com maior agregado familiar e, se a mesma igualdade se mantiver, o mais idoso.
 
-###### Art. 16.º - 1 - Quando as necessidades de serviço o justifiquem, e mediante acordo do interessado, poderá o pessoal de apoio ser destacado para qualquer outro serviço da Secretaria Regional da Educação e Cultura.
+Art. 16.º - 1 - Quando as necessidades de serviço o justifiquem, e mediante acordo do interessado, poderá o pessoal de apoio ser destacado para qualquer outro serviço da Secretaria Regional da Educação e Cultura.
 
 2 - O destacamento não poderá prolongar-se para além de um ano, prorrogável por igual período, não ocupando o funcionário vaga de quadro, sendo pago pelo organismo de origem e não podendo o lugar de que é titular ser preenchido por outra forma.
 
@@ -219,9 +261,9 @@ V
 
 Das permutas
 
-###### Art. 17.º Por despacho do director regional de Finanças, Administração, Pessoal e Equipamento, pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira profissional, a requerimento dos interessados e mediante concordância do conselho directivo dos estabelecimentos de ensino ou de quem suas vezes fizer.
+Art. 17.º Por despacho do director regional de Finanças, Administração, Pessoal e Equipamento, pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira profissional, a requerimento dos interessados e mediante concordância do conselho directivo dos estabelecimentos de ensino ou de quem suas vezes fizer.
 
-###### Art. 18.º - 1 - O funcionário não poderá beneficiar do regime de permuta mais do que uma vez em cada período de cinco anos.
+Art. 18.º - 1 - O funcionário não poderá beneficiar do regime de permuta mais do que uma vez em cada período de cinco anos.
 
 2 - O funcionário que haja permutado não poderá beneficiar da transferência preceituada no n.º 1 do artigo 15.º durante um período de três anos.
 
@@ -229,7 +271,7 @@ VI
 
 Dos direitos e deveres
 
-###### Art. 19.º Para além dos direitos conferidos pela legislação em vigor, o pessoal de apoio tem, designadamente, mais os seguintes:
+Art. 19.º Para além dos direitos conferidos pela legislação em vigor, o pessoal de apoio tem, designadamente, mais os seguintes:
 
 a) Participar nas acções que os serviços competentes promovam com vista a uma maior valorização cultural e profissional;
 
@@ -239,7 +281,7 @@ c) Apresentar aos seus superiores hierárquicos sugestões fundamentadas, tendo 
 
 d) Receber o fardamento adequado.
 
-###### Art. 20.º - 1 - Para além das tarefas específicas que lhe são inerentes e das funções que vierem a ser definidas nos termos do artigo 32.º, são deveres do pessoal de apoio:
+Art. 20.º - 1 - Para além das tarefas específicas que lhe são inerentes e das funções que vierem a ser definidas nos termos do artigo 32.º, são deveres do pessoal de apoio:
 
 a) Demonstrar, pela prática, receptividade à adopção de medidas que visem o aperfeiçoamento e a maior eficiência dos serviços e da sua actividade;
 
@@ -253,7 +295,7 @@ e) Usar farda, logo que fornecida através do respectivo estabelecimento de ensi
 
 2 - O pessoal de apoio deverá ainda colaborar na acção educativa dos respectivos estabelecimentos de ensino, de modo que estes possam responder devidamente às necessidades da comunidade em que se inserem.
 
-###### Art. 21.º - 1 - Até que venham a ser definidos horários gerais para a função pública, o pessoal de apoio está sujeito ao horário normal de quarenta e cinco horas semanais, sem prejuízo do disposto nos números seguintes.
+Art. 21.º - 1 - Até que venham a ser definidos horários gerais para a função pública, o pessoal de apoio está sujeito ao horário normal de quarenta e cinco horas semanais, sem prejuízo do disposto nos números seguintes.
 
 2 - Sempre que o serviço onde se integra, pela sua natureza, careça de horário diferente do normal, este deverá obedecer a critérios de escala, a estabelecer pelo conselho directivo ou por quem as suas vezes fizer, não podendo qualquer funcionário ser obrigado a trabalhar em mais de dois períodos diários nem deixar de cumprir o número de horas semanais previsto no número anterior.
 
@@ -269,11 +311,11 @@ VII
 
 Disposições gerais e transitórias
 
-###### Art. 22.º Pelo prazo de cinco anos, contado a partir da entrada em vigor do presente diploma, o encarregado do pessoal de apoio poderá ser designado de entre os contínuos ou guardas com qualquer tempo de serviço.
+Art. 22.º Pelo prazo de cinco anos, contado a partir da entrada em vigor do presente diploma, o encarregado do pessoal de apoio poderá ser designado de entre os contínuos ou guardas com qualquer tempo de serviço.
 
-###### Art. 23.º O pessoal dos quadros que se encontre a a prestar serviço à data da entrada em vigor do presente diploma é provido, independentemente de concurso e com dispensa de todas as formalidades legais, nos termos do disposto no [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, conforme [Portaria n.º 65/79](https://diariodarepublica.pt/dr/detalhe/portaria/65-1979-393192), de 5 de Julho, do Governo Regional.
+Art. 23.º O pessoal dos quadros que se encontre a a prestar serviço à data da entrada em vigor do presente diploma é provido, independentemente de concurso e com dispensa de todas as formalidades legais, nos termos do disposto no [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, conforme [Portaria n.º 65/79](https://diariodarepublica.pt/dr/detalhe/portaria/65-1979-393192), de 5 de Julho, do Governo Regional.
 
-###### Art. 24.º - 1 - Transitam para as respectivas carreiras, na categoria de 2.ª classe, dos novos quadros, de acordo com as funções que se encontrem a desempenhar à data da publicação deste diploma e desde que possuam as habilitações literárias mínimas exigidas por lei, os funcionários que, não se encontrando nas condições estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), se integrem numa das seguintes situações:
+Art. 24.º - 1 - Transitam para as respectivas carreiras, na categoria de 2.ª classe, dos novos quadros, de acordo com as funções que se encontrem a desempenhar à data da publicação deste diploma e desde que possuam as habilitações literárias mínimas exigidas por lei, os funcionários que, não se encontrando nas condições estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), se integrem numa das seguintes situações:
 
 a) Serventes do quadro;
 
@@ -281,54 +323,54 @@ b) Outros agentes do pessoal auxiliar, ainda que com diferente designação func
 
 2 - O provimento do pessoal referido no número anterior far-se-á nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo os processos visados pela Comissão Distrital de Contas.
 
-###### Art. 25.º O pessoal eventual ou assalariado que, a qualquer título, preste à data da publicação do presente diploma serviço em estabelecimentos oficiais dos ensinos primário, secundário e médio e que não possua as habilitações legais exigidas ficará na situação de supranumerário em relação aos quadros previstos nos n.os 2 e 3 do artigo 29.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 25.º O pessoal eventual ou assalariado que, a qualquer título, preste à data da publicação do presente diploma serviço em estabelecimentos oficiais dos ensinos primário, secundário e médio e que não possua as habilitações legais exigidas ficará na situação de supranumerário em relação aos quadros previstos nos n.os 2 e 3 do artigo 29.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
-###### Art. 26.º - 1 - Até à publicação do diploma que determine a aplicação do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237), de 10 de Outubro, ao pessoal a que se refere este diploma, o serviço por ele prestado será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente pelo conselho directivo ou por quem as suas vezes o fizer, que para o efeito tomará em consideração proposta escrita e devidamente fundamentada do respectivo encarregado ou ecónomo.
+Art. 26.º - 1 - Até à publicação do diploma que determine a aplicação do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237), de 10 de Outubro, ao pessoal a que se refere este diploma, o serviço por ele prestado será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente pelo conselho directivo ou por quem as suas vezes o fizer, que para o efeito tomará em consideração proposta escrita e devidamente fundamentada do respectivo encarregado ou ecónomo.
 
-###### Art. 27.º No primeiro concurso a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possua cumulativamente:
+Art. 27.º No primeiro concurso a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possua cumulativamente:
 
 a) Mais de cinco anos de serviço na função pública, ainda que prestado com interrupção;
 
 b) Habilitação literária legalmente exigida.
 
-###### Art. 28.º - 1 - As formas de recrutamento e selecção do pessoal operário, bem como o desenvolvimento da respectiva carreira, são as reguladas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, para o respectivo pessoal, tendo em conta o disposto na [Portaria n.º 65/79](https://diariodarepublica.pt/dr/detalhe/portaria/65-1979-393192), de 5 de Julho, do Governo Regional.
+Art. 28.º - 1 - As formas de recrutamento e selecção do pessoal operário, bem como o desenvolvimento da respectiva carreira, são as reguladas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, para o respectivo pessoal, tendo em conta o disposto na [Portaria n.º 65/79](https://diariodarepublica.pt/dr/detalhe/portaria/65-1979-393192), de 5 de Julho, do Governo Regional.
 
 2 - As formas de recrutamento e selecção do pessoal de cozinha e guarda, bem como a respectiva carreira, serão as definidas para as carreiras horizontais.
 
-###### Art. 29.º - 1 - Nos estabelecimentos de ensino preparatório e secundário poderá ser criada a carreira de telefonista, quando as necessidades de serviço o justifiquem.
+Art. 29.º - 1 - Nos estabelecimentos de ensino preparatório e secundário poderá ser criada a carreira de telefonista, quando as necessidades de serviço o justifiquem.
 
 2 - As formas de recrutamento e selecção do pessoal referido no número anterior, bem como o desenvolvimento da respectiva carreira, são as reguladas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, para o respectivo pessoal, tendo em conta o disposto na [Portaria n.º 65/79](https://diariodarepublica.pt/dr/detalhe/portaria/65-1979-393192), de 5 de Julho, do Governo Regional.
 
-###### Art. 30.º Por despacho do Secretário Regional da Educação e Cultura e a requerimento dos interessados, poderão ser autorizadas transferências do pessoal de apoio, quer do pessoal pertencente aos quadros dos órgãos e serviços da Secretaria Regional da Educação e Cultura para o quadro único do pessoal de apoio agora criado, quer do pessoal do quadro do pessoal de apoio criado pelo presente diploma para os quadros dos órgãos e serviços da Secretaria Regional da Educação e Cultura.
+Art. 30.º Por despacho do Secretário Regional da Educação e Cultura e a requerimento dos interessados, poderão ser autorizadas transferências do pessoal de apoio, quer do pessoal pertencente aos quadros dos órgãos e serviços da Secretaria Regional da Educação e Cultura para o quadro único do pessoal de apoio agora criado, quer do pessoal do quadro do pessoal de apoio criado pelo presente diploma para os quadros dos órgãos e serviços da Secretaria Regional da Educação e Cultura.
 
-###### Art. 31.º - 1 - Poderão ser admitidos por despacho do director regional de Finanças, Administração, Pessoal e Equipamento unidades de pessoal de apoio, em regime de contrato de prestação eventual de serviços, sempre que as necessidades de serviço resultem da criação ou ampliação de estabelecimentos de ensino.
+Art. 31.º - 1 - Poderão ser admitidos por despacho do director regional de Finanças, Administração, Pessoal e Equipamento unidades de pessoal de apoio, em regime de contrato de prestação eventual de serviços, sempre que as necessidades de serviço resultem da criação ou ampliação de estabelecimentos de ensino.
 
 2 - O contrato referido no número anterior será obrigatoriamente reduzido a escrito, dele constando a tarefa, o prazo, a remuneração, as condições de rescisão e a menção de que não confere, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 32.º - 1 - As funções a atribuir ao pessoal de apoio, bem como os cursos de formação e aperfeiçoamento, serão objecto de portaria do Governo Regional, ouvida a Direcção Regional da Administração Pública.
+Art. 32.º - 1 - As funções a atribuir ao pessoal de apoio, bem como os cursos de formação e aperfeiçoamento, serão objecto de portaria do Governo Regional, ouvida a Direcção Regional da Administração Pública.
 
 2 - Até à publicação da portaria referida no número anterior, mantêm-se em vigor todas as disposições relativas às funções de pessoal de apoio.
 
-###### Art. 33.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura, ouvida a Direcção Regional da Administração Pública.
+Art. 33.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura, ouvida a Direcção Regional da Administração Pública.
 
-###### Art. 34.º É aplicável à Região o disposto no artigo 52.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
+Art. 34.º É aplicável à Região o disposto no artigo 52.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
 
-###### Art. 35.º Este diploma produz todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem do tempo de serviço e a vencimento.
+Art. 35.º Este diploma produz todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem do tempo de serviço e a vencimento.
 
 Aprovado em Plenário do Governo Regional em 9 de Outubro de 1980.
 
-**O Secretário Regional do Trabalho, exercendo funções de Presidente do Governo Regional, Manuel Jorge Bazenga Marques.**
+O Secretário Regional do Trabalho, exercendo funções de Presidente do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 24 de Fevereiro de 1981.**
+Assinado em 24 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o artigo 11.º do Decreto Regulamentar Regional n.º 7/81/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf)
 
 Mapa a que se refere o artigo 5.º do Decreto Regulamentar Regional n.º 7/81/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07500/08080812.pdf)

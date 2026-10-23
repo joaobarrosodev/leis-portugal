@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02400/0005100052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2024/02/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-840060200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae74e4564ff0a8a25cd3b69ed6d9b7711efef7533fa0c139bd4ae185a9f1aeb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d43aa81e8a58d3ed50a31be41844b1157fcf078281b98a9b7fc752cfee0bc2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
+- Arrendamento Urbano para Habitação
+- Habitação
 - IHM
 - Madeira.região Autónoma
-- Habitação
-- Arrendamento Urbano para Habitação
 - PRAHABITAR
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:10/2020/M
+  label: Altera, nos termos do artigo 3.º do presente diploma, os artigos 3.º e 20.º do Decreto Legislativo Regional n.º 10/2020/M,
+    de 28 de julho, Diário da República n.º 145/2020, Série I
+  source: null
+  date: '2020-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2020/07/28/m/dre
   label: null
@@ -93,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:138963714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187245595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:53Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +179,9 @@ c) Referentes à compra de fogo por valores superiores aos fixados na portaria a
 
 5 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -175,10 +203,12 @@ c) Referentes à compra de fogo por valores superiores aos fixados na portaria a
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de janeiro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 30 de janeiro de 2024.**
+Assinado em 30 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+117305767

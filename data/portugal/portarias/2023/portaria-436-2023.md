@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24000/0000500008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/2023/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-2023-230090187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 089fbfa6de6f7808d4b8a2ee481e80e7015466cb35fcafa487139f88a2b57c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e18c61ed28209a4d7cacc790ac446b03d41baeeea4eaa08ff019fd836c174a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Estatuto
-- Instituto da Habitação e da Reabilitação Urbana
-- Orgânica
 - Habitação
+- Instituto da Habitação e da Reabilitação Urbana
 - Observatório da Habitação do Arrendamento e da Reabilitação Urbana
+- Orgânica
+- Pessoal Dirigente
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/114-a/2021/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/114-a/2021/05/27/p/dre
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164144651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:16Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +192,9 @@ i) [...]
 
 9 - É obrigatoriamente criado, como unidade orgânica de segundo nível, o Observatório da Habitação, do Arrendamento e da Reabilitação Urbana.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -186,7 +208,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 4.º — Direção de Inventariação e Promoção do Património para Habitação
+Artigo 4.º
+
+Direção de Inventariação e Promoção do Património para Habitação
 
 Compete à Direção de Inventariação e Promoção do Património para Habitação, abreviadamente designada por DIPPH, assegurar, em geral, a gestão dos processos de inventariação e integração do património público com aptidão para uso habitacional, a promoção habitacional do património imobiliário do IHRU, I. P., bem como do património cuja gestão lhe seja atribuída, e, em especial:
 
@@ -208,7 +232,9 @@ h) [Anterior alínea d).]
 
 i) [Anterior alínea e).]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -224,7 +250,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 6.º — Direção de Reabilitação do Património
+Artigo 6.º
+
+Direção de Reabilitação do Património
 
 Compete à Direção de Reabilitação do Património, abreviadamente designada por DRP:
 
@@ -234,7 +262,9 @@ b) Elaborar, anualmente, um relatório de execução da reabilitação do patrim
 
 c) Assegurar a gestão e coordenação das equipas de gestão local que lhe sejam afetas por deliberação do conselho diretivo.
 
-###### Artigo 9.º — Direção de Recursos Humanos e Administração Geral
+Artigo 9.º
+
+Direção de Recursos Humanos e Administração Geral
 
 Compete à Direção de Recursos Humanos e Administração Geral, abreviadamente designada por DRHAG:
 
@@ -272,4 +302,6 @@ o) [Anterior alínea j).]»
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de dezembro de 2023. - A Ministra da Habitação, Marina Sola Gonçalves, em 7 de dezembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de dezembro de 2023. - A Ministra da Habitação, Marina Sola Gonçalves, em 7 de dezembro de 2023.
+
+117156232

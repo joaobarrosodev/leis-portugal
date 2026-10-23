@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/74/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-2025-909469972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1451d31a616a3631fc3b0d1cf61bcb31d1c25505cef460694b27ae1e56e8266e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff7de5acf1366f9d83405fc3d1869dc08fb9a1ff68e6bcee7c9be968852def12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso de Formação Militar Complementar de Oficiais
-- Marinha
 - Escola Naval
+- Marinha
+- Militar
 - Oficial do Quadro Permanente
 - Regulamento
-- Militar
 relationships:
+- type: amends
+  target: pt:numero:portaria:408/2023
+  label: Altera, a partir de 4 de março de 2025, os artigos 2.º e 4.º da Portaria n.º 408/2023, de 5 de dezembro, Diário da
+    República n.º 234/2023, Série I bem como os artigos 2.º, 3.º, 4.º, 7.º, 8.º, 9.º, 12.º, 13.º e 14.º do regulamento do
+    concurso de admissão ao CFMCO-ST, que republica, publicado em anexo à portaria
+  source: null
+  date: '2023-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/76/2018/10/11/p/dre
   label: null
@@ -94,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/408/2023/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/408/2023/12/05/p/dre
+- type: cites
+  target: pt:dre:105283926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225217599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868547581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:15Z'
   warnings: []
   errors: []
 ---
@@ -142,13 +173,15 @@ Ingresso na classe de ST e frequência do CFMCO-ST
 
 4 - Os militares do Exército e da Força Aérea, durante a frequência do CFMCO-ST, usam os uniformes previstos no Regulamento de Uniformes dos Militares da Marinha.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
-2 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+2 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
 
-3 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.»
+3 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.»
 
 ###### Artigo 3.º — Alteração do regulamento do concurso de admissão ao CFMCO-ST
 
@@ -160,7 +193,7 @@ Condições de admissão ao concurso interno limitado
 
 1 - [...]
 
-a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) [...]
 
@@ -176,7 +209,9 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 3.º — Condições de admissão ao concurso interno geral
+Artigo 3.º
+
+Condições de admissão ao concurso interno geral
 
 1 - [...]
 
@@ -184,7 +219,7 @@ a) Para militares da Marinha, ser sargento ou praça, dos quadros permanentes (Q
 
 b) Para militares do Exército e da Força Aérea, ser sargento ou praça em RC, nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
 
-c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM;
+c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM;
 
 d) [...]
 
@@ -200,7 +235,9 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 4.º — Condições de admissão ao concurso externo
+Artigo 4.º
+
+Condições de admissão ao concurso externo
 
 1 - Constituem condições gerais de admissão ao concurso externo:
 
@@ -214,7 +251,9 @@ c) [...]
 
 No aplicável, ser detentor de título profissional competente, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -232,7 +271,9 @@ e) Entrevista profissional.
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -246,19 +287,25 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
-2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
-2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
 
-###### Artigo 13.º — Entrevista profissional
+Artigo 13.º
+
+Entrevista profissional
 
 1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de ST.
 
@@ -266,7 +313,9 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +357,7 @@ Ep = entrevista profissional, valorada através da média ponderada das classifi
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.**
+O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -326,7 +375,7 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFMCO - ST
 
 1 - Constituem condições gerais de admissão ao concurso interno limitado:
 
-a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado numa das áreas de formação das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
 
@@ -350,7 +399,7 @@ a) Para militares da Marinha, ser sargento ou praça, dos quadros permanentes (Q
 
 b) Para militares do Exército e da Força Aérea, ser sargento ou praça em RC, nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
 
-c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM;
+c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM;
 
 d) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado numa das áreas de formação das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
 
@@ -432,7 +481,7 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos QP, na classe de serviço técnico, e é realizada de acordo com os critérios fixados por despacho do CEMA.
 
-2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM.
 
 ###### Artigo 10.º — Inspeções médicas
 
@@ -452,7 +501,7 @@ A avaliação psicológica destina-se a avaliar as aptidões e características 
 
 1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de serviço técnico.
 
-2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo Forças Armadas e estejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
 
 ###### Artigo 13.º — Entrevista profissional
 
@@ -507,3 +556,5 @@ Decorrido o período de audiência dos interessados e a tramitação das eventua
 ###### Artigo 17.º — Impugnação administrativa
 
 Sem prejuízo da impugnação junto dos tribunais administrativos dos atos de exclusão do candidato do procedimento concursal e de homologação da lista de ordenação final, cabe recurso hierárquico nos termos do EMFAR e do CPA.
+
+118725098

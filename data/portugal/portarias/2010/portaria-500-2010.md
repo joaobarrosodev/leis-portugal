@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13600/0263302634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/500/2010/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-2010-334335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bb5ef947bc21fb85aa1edbb9b96e8d3100bd8cd963c747b7bb62d73f1944358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f7def17c72284b8c66e7f679ae03beb744b04b84e9929fd21b18ef48336865f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto dos Registos e do Notariado
-- Governo Civil
-- Passaporte Electrónico
-- Loja do Cidadão
 - Dados Pessoais
+- Governo Civil
+- Instituto dos Registos e do Notariado
+- Loja do Cidadão
+- Passaporte Electrónico
 - Taxa
 relationships:
 - type: amended_by
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/2000/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2000/05/11/p/dre
+- type: cites
+  target: pt:dre:275430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671034:por
+  label: "Revogada pela DEC LEI.97/2011.20.09.2011.MAI, DR.IS [181] de 20.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2011-671034
+  date: '2011-09-20'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:44Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +151,4 @@ Revertem a favor do governo civil competente todas as taxas devidas pelos actos 
 
 O regime decorrente da presente portaria começa a ser aplicado no 1.º dia do 2.º mês posterior ao da respectiva publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 23 de Junho de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Junho de 2010.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 23 de Junho de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Junho de 2010.

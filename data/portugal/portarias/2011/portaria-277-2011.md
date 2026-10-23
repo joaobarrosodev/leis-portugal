@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/10/19700/0463304633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/277/2011/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-2011-671250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9389d1af4560fd88c791d176ad2cd741c8d9a31625a9ec028522ac651d25dcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d6344c4d1089aa3b74da5a4ac13866f2f2dd8a556c5b58db2e2b0fdd16c39e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- REDE Escolar
 - Contrato
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Secundário
 - Estabelecimento de Ensino
+- Financiamento
+- REDE Escolar
 - Subsídio
 relationships:
 - type: amended_by
@@ -91,16 +91,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1324-a/2010/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1324-a/2010/12/29/p/dre
+- type: cites
+  target: pt:dre:305382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669549:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67429780:por
+  label: Revogada pelo(a) Portaria n.º 172-A/2015 - Diário da República n.º 109/2015, 1º Suplemento, Série I de 2015-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-a-2015-67429780
+  date: '2015-06-05'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:37Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +156,17 @@ b) No 2.º ciclo de escolaridade e no âmbito da componente curricular não disc
 
 c) No 3.º ciclo, a carga horária definida na alínea f) do anexo iii do [Decreto-Lei n.º 94/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2011-669549), de 3 de Agosto, poderá ser distribuída por qualquer área curricular disciplinar, ou por projectos específicos no âmbito do projecto educativo de escola.
 
-###### Artigo 9.º — Montante do apoio financeiro
+Artigo 9.º
+
+Montante do apoio financeiro
 
 1 - O apoio financeiro a conceder, no âmbito dos contratos de associação por turma, traduzido num subsídio, é fixado para o ano de 2011-2012 no valor de (euro) 85 288 por turma.
 
 2 - ...
 
-###### Artigo 10.º — Redução do financiamento
+Artigo 10.º
+
+Redução do financiamento
 
 1 - É garantido o financiamento referido no n.º 1 do artigo anterior às turmas de continuidade dentro do ciclo.
 
@@ -149,7 +174,9 @@ c) No 3.º ciclo, a carga horária definida na alínea f) do anexo iii do [Decre
 
 3 - (Revogado.)
 
-###### Artigo 15.º — Rede escolar
+Artigo 15.º
+
+Rede escolar
 
 A reavaliação da rede escolar decorre até ao final do ano escolar de 2012-2013.»
 
@@ -157,4 +184,4 @@ A reavaliação da rede escolar decorre até ao final do ano escolar de 2012-201
 
 A presente portaria produz efeitos a partir de 1 de Setembro de 2011.
 
-**O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 27 de Setembro de 2011.**
+O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 27 de Setembro de 2011.

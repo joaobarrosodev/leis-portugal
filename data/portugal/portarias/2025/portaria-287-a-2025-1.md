@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/287-a/2025/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2025-932179904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18deadf477c1ace623e73edb4c768e4f33474bf81768801f3c6fe0590a8b5a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a6b9e9d2cc13813f9f045106553f19afc45e1d77485635be80b198fac81ef4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Corrupção
-- Combate ao Crime
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
 - Branqueamento de Capitais
+- Combate ao Crime
+- Corrupção
 - Documento Eletrónico
-- Prevenção Criminal
-- Trafico de Influencia
 - Estratégia Nacional Anticorrupção 2020-2024
+- Formulário Eletrónico
+- Prevenção Criminal
+- Regulamentação de Atos Legislativos
+- Trafico de Influencia
 relationships:
 - type: amended_by
   target: pt:dre:1159035453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:185/2024
+  label: Altera, a partir de 15 de agosto de 2025, com efeitos a 14 de agosto de 2024, o artigo 3.º (data da entrada em vigor)
+    da Portaria n.º 185/2024/1, de 14 de agosto, Diário da República n.º 157/2024, Série I
+  source: null
+  date: '2024-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109-e/2021/12/09/p/dre
   label: null
@@ -98,16 +104,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38/2025/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38/2025/02/14/p/dre
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:877061176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889914907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907471181:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:38/2025
+  label: Revoga, a partir de 15 de agosto de 2025, com efeitos a 14 de agosto de 2024, a Portaria n.º 38/2025/1, de 14 de
+    fevereiro, Diário da República n.º 32/2025, Série I
+  source: null
+  date: '2025-02-14'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:51Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +158,9 @@ Assim:
 
 Manda o Governo, pela Ministra da Justiça e pela Secretária de Estado da Administração Pública, ao abrigo do disposto no n.º 2 do artigo 13.º do Regime Geral da Prevenção da Corrupção, aprovado em anexo ao [Decreto-Lei n.º 109-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), de 9 de dezembro, o seguinte:
 
-###### Artigo 1.º — Alteração à [Portaria n.º 185/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/185-2024-877061176), de 14 de agosto
+Artigo 1.º
+
+Alteração à [Portaria n.º 185/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/185-2024-877061176), de 14 de agosto
 
 O artigo 3.º da [Portaria n.º 185/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/185-2024-877061176), de 14 de agosto, passa a ter a seguinte redação:
 
@@ -140,18 +170,26 @@ Entrada em vigor
 
 A presente portaria entra em vigor dois anos após a sua publicação.»
 
-###### Artigo 2.º — Revogação
+Artigo 2.º
+
+Revogação
 
 É revogada a [Portaria n.º 38/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), de 14 de fevereiro.
 
-###### Artigo 3.º — Produção de efeitos
+Artigo 3.º
+
+Produção de efeitos
 
 A presente portaria produz efeitos à data da publicação da [Portaria n.º 185/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/185-2024-877061176), de 14 de agosto.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 14 de agosto de 2025.
 
-**A Ministra da Justiça, Rita Alarcão Júdice. - A Secretária de Estado da Administração Pública, Marisa da Luz Bento Garrido Marques Oliveira.**
+A Ministra da Justiça, Rita Alarcão Júdice. - A Secretária de Estado da Administração Pública, Marisa da Luz Bento Garrido Marques Oliveira.
+
+119440668

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1978-447494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d3a09962fd2aadf5858d1d93479d78f576aaac53dbb963cc54269459774d24f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 981279787883bd17b7ac6e76609d1901560cc0b904978b3c78c162488ad93f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação de Estradas
+- Madeira.região Autónoma
+- Rede de Estradas
 relationships:
 - type: amended_by
   target: pt:dre:300389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:229711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300389:por
+  label: "Revogado pelo DLR.22/92/M.16.07.1992.ALR-RAM, DR.IS-A [162] de 16.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-1992-300389
+  date: '1992-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:17Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +118,7 @@ Para a ilha de Porto Santo estabelece-se uma rede rodoviária nacional composta 
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º A rede de estradas nacionais da Região da Madeira (ilhas da Madeira e Porto Santo) tem a constituição descrita nos mapas anexos, incluindo as seguintes estradas florestais:
+Artigo 1.º A rede de estradas nacionais da Região da Madeira (ilhas da Madeira e Porto Santo) tem a constituição descrita nos mapas anexos, incluindo as seguintes estradas florestais:
 
 a) Na Madeira:
 
@@ -108,9 +132,9 @@ b) No Porto Santo:
 
 Tanque-Pico do Castelo, com ramal do Pico do Castelo para a Camacha.
 
-###### Art. 2.º A inclusão de novos troços de estradas na rede nacional da Região deverá ficar dependente da aprovação da Assembleia Regional, mediante proposta do Governo Regional, ouvidas as câmaras municipais ou outras entidades que nelas superintendam.
+Art. 2.º A inclusão de novos troços de estradas na rede nacional da Região deverá ficar dependente da aprovação da Assembleia Regional, mediante proposta do Governo Regional, ouvidas as câmaras municipais ou outras entidades que nelas superintendam.
 
-###### Art. 3.º As características técnicas das estradas nacionais ou de determinados troços dessas estradas são definidas em estudo prévio do projectista, a ser submetido à aprovação do Governo Regional e elaborado de acordo com as regras e determinações do Plano Rodoviário, com as limitações seguintes, impostas pela orografia local:
+Art. 3.º As características técnicas das estradas nacionais ou de determinados troços dessas estradas são definidas em estudo prévio do projectista, a ser submetido à aprovação do Governo Regional e elaborado de acordo com as regras e determinações do Plano Rodoviário, com as limitações seguintes, impostas pela orografia local:
 
 a) Em perfil longitudinal, as inclinações dos trainéis não deverão exceder, em regra, 9%;
 
@@ -126,25 +150,25 @@ c) Os perfis transversais das estradas serão os correspondentes aos das classes
 
 § único. Estes perfis poderão ser modificados em conformidade com a evolução estatística de tráfego, objectivos a atingir e limitações técnicas e económicas resultantes do acidentado do terreno.
 
-###### Art. 4.º A sinalização numérica das estradas nas placas respectivas deve ser feita para uma melhor orientação dos utentes, em particular os visitantes.
+Art. 4.º A sinalização numérica das estradas nas placas respectivas deve ser feita para uma melhor orientação dos utentes, em particular os visitantes.
 
-###### Art. 5.º Ficam revogados os Decretos-Leis n.os 40167, de 20 de Maio de 1955, e 28486, de 19 de Fevereiro de 1938, este último fixando as características técnicas para as estradas nacionais da ilha da Madeira.
+Art. 5.º Ficam revogados os Decretos-Leis n.os 40167, de 20 de Maio de 1955, e 28486, de 19 de Fevereiro de 1938, este último fixando as características técnicas para as estradas nacionais da ilha da Madeira.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 24 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 15 de Fevereiro de 1978.**
+Assinado em 15 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 Região Autónoma da Madeira
 
 Rede rodoviária nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf))](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)
 
 Ilha da Madeira
 
@@ -152,7 +176,7 @@ Escala 1:100000
 
 Rede de estradas nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf))](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)
 
 Ilha de Porto Santo
 
@@ -160,4 +184,4 @@ Escala 1:50000
 
 Rede de estradas nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf))](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/06200/05140519.pdf)

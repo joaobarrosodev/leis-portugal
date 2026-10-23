@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03300/0006000062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/51/2024/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2024-852762919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d5f7094ac354aaa682f52ff2abdebaeeafba73b9e93cf6881ab08497e5f2797
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0bd2b053d4f15c20d04773f9280bf49086a08645ec86a20d92148f32aebadd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
+- Direito à Informação
 - Etiquetagem
 - Fixação de Preços
-- Medicamento
 - Inscrição Obrigatória
-- Direito à Informação
+- Medicamento
 - Preço de Venda
 - Preço Máximo
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:195-C/2015
+  label: Altera, com efeitos no dia 1 de março de 2024, nos termos do artigo 4.º do presente diploma, o artigo 21.º da Portaria
+    n.º 195-C/2015, de 30 de junho, Diário da República n.º 125/2015, 1º Suplemento, Série I
+  source: null
+  date: '2015-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2023/12/26/p/dre
   label: null
@@ -116,16 +122,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/405-a/2019/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/405-a/2019/12/19/p/dre
+- type: cites
+  target: pt:dre:127442478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175336201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67644326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74534746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75481291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75748124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674293:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:29Z'
   warnings: []
   errors: []
 ---
@@ -188,11 +242,13 @@ b) Os medicamentos cujo PVP não tenha sofrido alteração ou tenha baixado pode
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos no dia 1 de março de 2024.
 
-**O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 7 de fevereiro de 2023.**
+O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 7 de fevereiro de 2023.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 2.º)
 
 |  |  |
 | --- | --- |
-| Preço de venda ao público... Preço de referência, se aplicável... Percentagem de comparticipação do Estado no PVP, se aplicável... | Formato Legível. Não devem ser utilizadas fontes estilizadas e de difícil leitura. |
-| Custo Suportado pelo Estado... Custo Suportado pelo Utente... | Inscritos na parte inferior da fatura/recibo, utilizando letra da mesma fonte, a negrito e dois tamanhos inteiros acima do maior tamanho utilizado na fatura ou fatura/recibo, não estreitada e com espaço entre linhas de pelo menos 3 mm. |
+| Preço de venda ao público...<br>Preço de referência, se aplicável...<br>Percentagem de comparticipação do Estado no PVP, se aplicável... | Formato Legível.<br>Não devem ser utilizadas fontes estilizadas e de difícil leitura. |
+| Custo Suportado pelo Estado...<br>Custo Suportado pelo Utente... | Inscritos na parte inferior da fatura/recibo, utilizando letra da mesma fonte, a negrito e dois tamanhos inteiros acima do maior tamanho utilizado na fatura ou fatura/recibo, não estreitada e com espaço entre linhas de pelo menos 3 mm. |
+
+117353184

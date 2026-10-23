@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14
   number: '200'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4530-(2) a 4530-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1056-a/2010/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ce019ae8371213c2fce767c707240522777b5b3ad43c731bbdd58bcc90c89b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe09996f3c87bf95caac9485069042afb21819f9e9023f278e713fb1d0c22771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Enfermagem
-- Medicina Privada
+- Condições de Higiene e Segurança no Trabalho
 - Direção
 - Enfermagem
 - Especificação Técnica
 - Licenciamento
+- Medicina Privada
 - Normas de Construção
 - Normas de Segurança
 - Pessoal de Enfermagem
 - Prestação de Serviços
-- Condições de Higiene e Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:854635716:por
@@ -91,16 +91,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/801/2010/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/801/2010/08/23/p/dre
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:854635716:por
+  label: Revogada, a partir de 12 de março de 2024, pelo(a) Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série
+    I de 2024-03-11, nos termos do seu artigo 21.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2024-854635716
+  date: '2024-03-11'
 article_structure:
-  article_count: 9
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:53Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +141,15 @@ Os artigos 3.º, 7.º, 8.º, 9.º, 10.º, 11.º, 15.º e 20.º da Portaria n.º 
 
 As normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria de acordo com as regras e os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Ordem dos Enfermeiros ou, após parecer desta, à Direcção-Geral da Saúde, propor ao membro do Governo responsável pela área da saúde a sua adopção.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Os centros de enfermagem devem possuir o registo do nome do doente, a data, os cuidados prestados e, em caso de referenciação de outro profissional de saúde, a sua identificação ou, em alternativa, a menção de que o doente compareceu ou solicitou espontaneamente os serviços do posto ou centro de enfermagem.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os centros de enfermagem devem dispor em arquivo da seguinte documentação:
 
@@ -153,7 +167,9 @@ f)...
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São condições de atribuição da licença de funcionamento:
 
@@ -167,21 +183,29 @@ c) O cumprimento dos requisitos que permitam a garantia da qualidade técnica do
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Cada centro de enfermagem funcionará sob a responsabilidade de um enfermeiro com o título profissional adequado aos cuidados de enfermagem a prestar e portador de cédula profissional válida.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os centros de enfermagem devem, para além do enfermeiro responsável e dos enfermeiros que aí prestem serviço, dispor de pessoal de atendimento.
 
 2 - Os enfermeiros prestam cuidados de enfermagem no âmbito do exercício autónomo consagrado no Regulamento do Exercício Profissional do Enfermeiro (REPE) e Estatuto da Ordem dos Enfermeiros, respeitando os padrões de qualidade e perfil de competências de cuidados gerais e especializados definidos pela Ordem dos Enfermeiros e pela Organização Mundial de Saúde (OMS).
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os compartimentos devem satisfazer as condições de qualidade do ar, de temperatura e de humidade previstas na legislação em vigor sobre comportamento térmico e sistemas energéticos dos edifícios e sobre higiene e segurança do trabalho.
 
-###### Artigo 20.º — Outros serviços de saúde
+Artigo 20.º
+
+Outros serviços de saúde
 
 Sempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respectivos diplomas.»
 
@@ -189,4 +213,4 @@ Sempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 28 de Setembro de 2010.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 28 de Setembro de 2010.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/177/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2013-261148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9f0a216ffa68e35f811cb0d7cd3bedc18179335582650a438afd8f54db5035e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7209fde1b455a8ab127ffa88161dff9b80958a6c675ada70941fc9f8b1f27c16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Atribuição de Verba
 - Autoridade Tributária e Aduaneira
+- Cobrança de Dívidas
 - Dívidas ao Estado
 - Execução Fiscal
 - Fundo de Estabilização Tributário
 - Processo Tributário
 - Receita Própria
-- Cobrança de Dívidas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/132/1998/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/132/1998/03/04/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608072:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:58Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +139,4 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do n.º 3 do
 
 A percentagem, a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), de 24 de fevereiro [mantido em vigor por força e nos termos do disposto no n.º 4 do artigo 37.º do [Decreto-Lei n.º 205/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2006-545650), de 27 de outubro, conjugado com a alínea b) do artigo 33.º do [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), de 15 de dezembro], é fixada em 5% do montante constante da declaração anual do Diretor-Geral da Autoridade Tributária e Aduaneira de 12 de março de 2013, relativamente ao ano de 2012, elaborada nos termos do disposto n.º 2 do ponto 1.º da [Portaria n.º 132/98](https://diariodarepublica.pt/dr/detalhe/portaria/132-1998-218526), de 4 de março.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 9 de maio de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 9 de maio de 2013.

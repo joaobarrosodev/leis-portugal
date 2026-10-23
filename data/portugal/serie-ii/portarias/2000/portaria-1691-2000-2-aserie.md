@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:3302553:por
-title: Portaria n.º 1691/2000(2.ªsérie)
+title: Portaria n.º 1691/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1691-2000-3302553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:09:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a666bdde6dac0fc2ea45588292b4a075d225b5e9099ccff27727059ad9c9e34d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d50ce7c5a05b9b09c1aaaaece79d676ddaa54254c01e01142658d8cb11720ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:09:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direção Geral do Orçamento
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:145014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426500:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:09:18Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1691/2000(2.ªsérie)
+# Portaria n.º 1691/2000 (2.ª série)
 
 Portaria n.º 1691/2000 (2.ª série). - Considerando que a licenciada Maria Adozinda Cid Costa Sobreirinho, com a categoria de assessora da carreira técnica superior do regime geral do quadro de pessoal da Direcção-Geral do Orçamento, exerce o cargo de directora de Serviços Administrativos e Financeiros da Direcção-Geral das Relações Económicas Internacionais do Ministério da Economia e reúne os requisitos legais para acesso à categoria de assessora principal;
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 216/2020, 1º Suplemento, Série I de 2020-11-05
   number: '216'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 18-(2) a 18-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21601/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14-a/2020/11/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2020-147688716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9995b56c7baa4c60688d92d527238b6c2930a048e77b1f8ca1d10eb4fbec9f35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 193778ef6879dc1a449dde30d8954ac50d5198cf9e083a99fdc6d40a2f27fa37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actividade Política
-- Governo Regional
+- Autoridade Regional das Atividades Económicas
 - Contra-ordenação
-- Política de Saúde
-- Fiscalização
-- Inspector Regional
+- Desporto
 - Doença Infecciosa
 - Epidemia
-- Programa Nacional de Promoção da Actividade Física
+- Fiscalização
+- Governo Regional
+- Inspector Regional
 - Madeira.região Autónoma
+- Política de Saúde
+- Programa Nacional de Promoção da Actividade Física
 - Proteção do Consumidor
-- Desporto
-- Vigilância nas Praias
-- Autoridade Regional das Atividades Económicas
 - Vigilância Epidemiológica
+- Vigilância nas Praias
 relationships:
 - type: cites
   target: eli:ht
@@ -126,16 +126,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:24Z'
   warnings: []
   errors: []
 ---
@@ -232,10 +288,12 @@ O presente Decreto Legislativo Regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de novembro de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 4 de novembro de 2020.**
+Assinado em 4 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+113707333

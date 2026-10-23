@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/839/2010/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-2010-344396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d03423005e1e672b9adcb79ccb75893d55df4131b5668c92d239c688a0c657ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3c2fae2bb5477ef351e4f53a585cf53d595990bdaf5f2ba2e5c4feb38e47faf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Médico
+- Avaliação de Conhecimentos
 - Exame
 - Internato Médico
+- Medicina
+- Médico
 - Qualificação Profissional
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: cites
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:44Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +147,4 @@ O artigo 75.º da [Portaria n.º 183/2006](https://diariodarepublica.pt/dr/detal
 
 8 - Sem prejuízo do disposto no n.º 4 do artigo 79.º, a título excepcional, os candidatos indicados no número anterior podem entregar o curriculum vitae até ao dia 5 de Fevereiro.»
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 25 de Agosto de 2010.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 25 de Agosto de 2010.

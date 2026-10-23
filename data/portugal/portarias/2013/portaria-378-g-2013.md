@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(369) a 7056-(370)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0036900370.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-g/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-g-2013-164428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecc4a9cc6833b33a5af20b0cc3e4ccee832f992ef7be93207fedd09e6c0afafa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd755dfee91d910a50001642286903ff7698fd4190a0a4568472efdb84900cf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Cálculo de Pensões
 - Idade de Reforma
-- Reforma Antecipada
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Prestações da Segurança Social
 - Reforma
+- Reforma Antecipada
 - Regime Geral da Segurança Social
 - Segurança Social
 relationships:
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:09Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +152,4 @@ A idade normal de acesso à pensão de velhice do regime geral de segurança soc
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2014.
 
-**O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 19 de dezembro de 2013.**
+O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 19 de dezembro de 2013.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 47/2023, 1º Suplemento, Série I de 2023-03-07
   number: '47'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 19-(2) a 19-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04701/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/74-a/2023/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-a-2023-208269534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a3ea96632fb4e9d7814be9180ed640df9c9471a693a8141b2400060cbd77b3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbb0400416b708c9a1cff66546b88dfd8273546381045259c595089eea37fdef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,34 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
-- Financiamento
 - Construção Civil
+- Contratação Pública
 - Empreitada de Obras Públicas
+- Financiamento
 - Indústria da Construção
 - Matéria-Prima
 - Obras Públicas
 - Política de Preços
 - Preço
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/36/2022/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/2022/05/20/p/dre
+- type: cites
+  target: pt:dre:183691731:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:35Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +124,7 @@ As categorias de contratos públicos de aquisição de serviços a que é aplic�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 6 de março de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 28 de fevereiro de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 3 de março de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 2 de março de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 2 de março de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 1 de março de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 6 de março de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 28 de fevereiro de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 3 de março de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 2 de março de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 2 de março de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 1 de março de 2023.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -147,3 +151,5 @@ i) Serviços relativos a águas residuais, resíduos, limpeza e ambiente.
 j) Transporte de água por autotanque.
 
 k) Transporte de pessoas e bens.
+
+116240527

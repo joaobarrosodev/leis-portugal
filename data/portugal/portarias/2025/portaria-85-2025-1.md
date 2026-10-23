@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/85/2025/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-2025-909595555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc2e2deb22467ea32cf084f84b2116ed03326b836a3a717d17cac4b3717ee7c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c42ebbb2b17cbf6d2c542b9c078d490d3e934e7c210550c622330ff9cbcc59e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Berlengas
-- Regulamentação de Atos Legislativos
-- Pesca
 - Licença de Pesca
 - Marisco
+- Pesca
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Reserva Natural das Berlengas
 relationships:
@@ -114,16 +114,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/180/2008/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/180/2008/11/24/p/dre
+- type: cites
+  target: pt:dre:120696372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176075695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205689384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670052:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:378/2000
+  label: Revoga, a partir de 6 de março de 2025, a Portaria n.º 378/2000, de 27 de junho, Diário da República n.º 146/2000,
+    Série I-B
+  source: null
+  date: '2000-06-27'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:18Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +268,7 @@ a) Tenham sido objeto de uma coima, aplicada por decisão administrativa definit
 
 b) Tenha sido adotada, por consenso, uma recomendação da assembleia geral do Comité de Cogestão para a Apanha de Percebe na RNB, para o indeferimento da renovação da licença de apanha de percebe na RNB, comunicada à DGRM até 30 de outubro do ano anterior àquele a que a medida diz respeito, devidamente fundamentada no incumprimento grosseiro das normas estabelecidas e/ou a facilitação ou promoção de práticas lesivas da boa gestão do espaço da RNB ou dos recursos marinhos aí existentes;
 
-c) Tenha sido decidido, nos termos do artigo 3.º, uma redução no número de licenças, aplicando-se, nesse caso, como critério de prioridade o estabelecido nos n.<sup>os</sup> 4, 5 e 6 do presente artigo.
+c) Tenha sido decidido, nos termos do artigo 3.º, uma redução no número de licenças, aplicando-se, nesse caso, como critério de prioridade o estabelecido nos n.os 4, 5 e 6 do presente artigo.
 
 3 - Caso o número de licenças passíveis de ser atribuído em cada ano seja inferior ao número máximo estabelecido, as vagas resultantes só serão ocupadas após decisão da assembleia geral do Comité, por consenso, comunicada à DGRM antes de 30 de outubro de cada ano.
 
@@ -248,14 +298,19 @@ Sem prejuízo do disposto na presente portaria, o exercício da pesca está suje
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 28 de fevereiro de 2025.**
+A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 28 de fevereiro de 2025.
 
 ## ANEXO 1 — Carta do zonamento a que se refere a alínea d) do n.º 2 do artigo 2.º
 
-![](https://files.diariodarepublica.pt/images/909595555/909553466.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/909595555/909553466.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/909595555/909553467.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/909595555/909553467.png) |
+| --- |
 
 ## ANEXO 2 — [a que se refere a alínea f) do n.º 2 do artigo 2.º]
 
-![](https://files.diariodarepublica.pt/images/909595555/909553468.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/909595555/909553468.png) |
+| --- |
+
+118758721

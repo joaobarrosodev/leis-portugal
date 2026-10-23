@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04400/0001000012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/76/2024/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-2024-853939141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53c8ca05aa4c389fdb9ef6599fbd351af192bfc24212873c62087299b63f623c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81adf5484e50d5cfa00af7b7f46a4abeef8071c7f121327d69ae60e3ba0a2aa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia do Empresário
 - Associação Empresarial de Portugal
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Confederação de Turismo Português
 - Confederação do Comércio e Serviços de Portugal
-- Regulamentação de Atos Legislativos
+- Formação Profissional
 - Homologação
+- Instituto do Emprego e Formação Profissional
 - Jovem Empresário
-- Academia do Empresário
-relationships: []
+- Regulamentação de Atos Legislativos
+relationships:
+- type: amends
+  target: pt:numero:portaria:435/2023
+  label: Homologa e publica, com efeitos a 15 de fevereiro de 2023, o adicional e respetivas alterações ao protocolo anexo
+    à Portaria n.º 435/2023, de 13 de dezembro, Diário da República n.º 239/2023, Série I
+  source: null
+  date: '2023-12-13'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:38Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +116,7 @@ Nestes termos, e ao abrigo da cláusula xxvii do protocolo que criou a Academia 
 
 Assim:
 
-Ao abrigo dos n.<sup>os</sup>2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de maio, na sua atual redação, e da cláusula xxvii do protocolo publicado em anexo à Portaria n.º 435/2023, de 13 de dezembro, manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo Despacho n.º 7910/2022, de 21 de junho, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, o seguinte:
+Ao abrigo dos n.os2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de maio, na sua atual redação, e da cláusula xxvii do protocolo publicado em anexo à Portaria n.º 435/2023, de 13 de dezembro, manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo Despacho n.º 7910/2022, de 21 de junho, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -128,7 +134,7 @@ O texto do adicional e respetivas alterações ao protocolo que criou a Academia
 
 A presente portaria entra em vigor no dia seguinte à sua publicação e produz efeitos a 15 de fevereiro de 2023.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 27 de fevereiro de 2024.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 27 de fevereiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -136,7 +142,7 @@ Primeira alteração ao protocolo da Academia do Empresário - Centro de Formaç
 
 O Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), a Associação Empresarial de Portugal (AEP) e a Associação Nacional de Jovens Empresários (ANJE), outorgantes do protocolo em anexo à Portaria n.º 435/2023, de 13 de dezembro, acordam em proceder à primeira alteração do respetivo texto introdutório, e das respetivas cláusulas vii e xv, que passam a ter a seguinte redação:
 
-"Ao abrigo do disposto na alínea b) do artigo 2.º e nos n.<sup>os</sup>2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de maio, entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), adiante designado por primeiro outorgante, a Associação Empresarial de Portugal (AEP), a Associação Nacional de Jovens Empresários (ANJE), a Confederação do Comércio e Serviços de Portugal (CCP) e a Confederação do Turismo de Portugal (CTP), adiante designadas em conjunto por segundas outorgantes, é nesta data celebrada a primeira alteração ao protocolo que criou o centro protocolar denominado Academia do Empresário - Centro de Formação para o Empreendedorismo, Gestão e Liderança, de harmonia com as cláusulas seguintes:
+"Ao abrigo do disposto na alínea b) do artigo 2.º e nos n.os2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de maio, entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), adiante designado por primeiro outorgante, a Associação Empresarial de Portugal (AEP), a Associação Nacional de Jovens Empresários (ANJE), a Confederação do Comércio e Serviços de Portugal (CCP) e a Confederação do Turismo de Portugal (CTP), adiante designadas em conjunto por segundas outorgantes, é nesta data celebrada a primeira alteração ao protocolo que criou o centro protocolar denominado Academia do Empresário - Centro de Formação para o Empreendedorismo, Gestão e Liderança, de harmonia com as cláusulas seguintes:
 
 VII
 
@@ -175,3 +181,5 @@ Pela Associação Nacional de Jovens Empresários (ANJE), Alexandre Vasconcelos 
 Pela Confederação do Comércio e Serviços de Portugal (CCP), João Manuel Lança Vieira Lopes (presidente) e Vasco Linhares de Lima Álvares de Mello (vice-presidente).
 
 Pela CTP - Confederação do Turismo de Portugal (CTP), Francisco Maria Malheiro Calheiros e Menezes (presidente) e Carlos Alberto dos Santos Martins Moura (vice-presidente).
+
+117411333

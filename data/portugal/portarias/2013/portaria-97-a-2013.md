@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 44/2013, 1º Suplemento, Série I de 2013-03-04
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1218-(2) a 1218-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/04401/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/97-a/2013/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-a-2013-193407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa70a7e155fa3ef1b357d4e55b614ea0936877844c5ed0ad55d826a037708c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d98233e228dcf138935b97abd1a9eb4e3a18fea7c511a5db4e9614b4ab16eac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ subjects:
 - Carta de Condução
 - Certificação Profissional
 - Certificado de Conformidade
-- Transporte Ferroviário
+- Condutor
 - Domínio Público Ferroviário
+- Equipamento de Veículo
 - Instituto da Mobilidade e dos Transportes Terrestres
 - Licenciamento
-- Veículo
-- Condutor
-- Transporte de Mercadorias
-- Equipamento de Veículo
 - Prestação de Serviços
 - Receita Própria
 - Segurança Ferroviária
 - Taxa
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Público
+- Veículo
 - Veículo de Aluguer
 relationships:
 - type: cites
@@ -123,16 +123,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1165/2010/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1165/2010/11/09/p/dre
+- type: cites
+  target: pt:dre:190390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:29Z'
   warnings: []
   errors: []
 ---
@@ -169,4 +201,4 @@ A - Centros de inspeção de veículos
 
 A presente portaria produz efeitos a partir da data da sua assinatura.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 1 de março de 2013. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 27 de fevereiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 1 de março de 2013. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 27 de fevereiro de 2013.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2013/02/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2013-258708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00a87f03334d93eee91b16494fc9ecd9af56214bd0135761ea90a7b12538e513
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47d06560c0d0a30f56f9fc2819f718a2211f5326910b88a30c011aeeb529a867
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Estradas
-- Ramedm
 - Empresa Pública Regional
 - Extinção de Serviços
 - Integração de Trabalhadores
 - Madeira.região Autónoma
+- Ramedm
 - Transferência de Capitais
 - Transferência de Competências
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:114484244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 5.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 2/2018/M
+    - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -106,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:47Z'
   warnings: []
   errors: []
 ---
@@ -190,10 +224,10 @@ O presente diploma legal entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de janeiro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 4 de fevereiro de 2013.**
+Assinado em 4 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

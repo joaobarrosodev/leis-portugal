@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/04100/0057900580.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128/2010/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-2010-611299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f69f69b4f26a172aa7bbc6e473988879a21b83fd4f6e2113c5157b4ec50cb946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55b1d737afc2b5f20a6088c3b75064d0452574ef64e355bdf05e1e8360bac9ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
+- Desemprego
+- Estágio de Formação
 - Formação Profissional
 - Iniciativa Novas Oportunidades
-- Desemprego
-- Qualificação Profissional
-- Estágio de Formação
+- Instituto do Emprego e Formação Profissional
 - Programa Qualificação-emprego
+- Qualificação Profissional
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:278899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342858:por
+  label: "Alterado o art. 12º da Port 131/2009, de 30-Jan, na redacção do presente diploma, pela PORT.681/2010.12.08.2010.MTSSO,\
+    \ DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-2010-342858
+  date: '2010-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -91,16 +97,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278899:por
+  label: "Revogada em 01.03.2011 a Port. 131/2009, de 30-Jan, na redacção da presente portaria, pela PORT.92/2011.28.02.2011.MTSSO,\
+    \ DR.IS [41] de 28.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2011-278899
+  date: '2011-02-28'
 article_structure:
-  article_count: 11
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:13Z'
   warnings: []
   errors: []
 ---
@@ -149,21 +169,29 @@ iii) Curso de ensino superior.
 
 2 - Para efeitos do disposto no número anterior, entende-se por pessoa desempregada subsidiada aquela que seja beneficiária da atribuição de subsídio de desemprego ou de subsídio social de desemprego, considerando-se pessoa desempregada não subsidiada aquela que não seja beneficiária da atribuição de nenhum dos subsídios atrás referidos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A entidade promotora compromete-se a não prestar falsas declarações e a cumprir as demais obrigações legais, fiscais e contributivas a que se encontra vinculada.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - O Instituto do Emprego e Formação Profissional, I. P., decide a candidatura nos 30 dias, seguidos, subsequentes ao da apresentação da mesma.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O estágio tem a duração de 12 meses, não prorrogáveis.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Aos estagiários é concedida mensalmente uma bolsa de estágio nos seguintes montantes:
 
@@ -177,7 +205,9 @@ d) Valor do IAS para os estagiários com ensino básico completo.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Aos estagiários são ainda concedidos, mensalmente, os seguintes apoios:
 
@@ -193,7 +223,9 @@ b) ...
 
 5 - Os apoios previstos no n.º 1 são financiados pelo Instituto do Emprego e Formação Profissional, I. P.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A bolsa de estágio prevista no artigo anterior é comparticipada pelo Instituto do Emprego e Formação Profissional, I. P., de acordo com a natureza jurídica das entidades promotoras, nos termos adiante indicados:
 
@@ -229,4 +261,4 @@ A presente portaria produz efeitos desde 1 de Janeiro de 2010.
 
 A presente portaria entra em vigor no dia seguinte ao da publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Fevereiro de 2010.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 24 de Fevereiro de 2010.

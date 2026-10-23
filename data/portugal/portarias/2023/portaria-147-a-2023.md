@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 64-(2) a 64-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147-a/2023/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e0f46d2fc5854772f3d664e69a792d67439f1b8a4b5b7e2c4f8061a51f750b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76235f4e5f606bba9dd99dd8cecc5c30c759eb5a6cd1918977994f07029f71fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Gado Caprino
-- Leite
-- Emparcelamento
-- Gado Bovino
-- Pagamento
-- Gado Ovino
 - Agricultor
 - Agricultura
+- Ajuda Comunitária
 - Algodão
-- Produto Agrícola
+- Emparcelamento
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Leite
+- Pagamento
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Produto Agrícola
 relationships:
 - type: cites
   target: celex:32021R2115
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:31Z'
   warnings: []
   errors: []
 ---
@@ -142,4 +142,6 @@ A presente portaria procede à primeira alteração das Portarias n.os [54-D/202
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 30 de maio de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 30 de maio de 2023.
+
+116525478

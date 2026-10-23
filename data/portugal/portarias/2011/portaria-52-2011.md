@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/01/01900/0056700570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/2011/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42f65e9500582dbbac40bb5c3da1ceb884b6c07bd1299094d6c44f87705f1c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79580a5341e91d972dba96f1d9b283e24b393e0c8ed8a8691b1dedc1dfbb8abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço de Saúde
 - Contra-ordenação
-- Saúde
 - Entidade Reguladora da Saúde
+- Estabelecimento Hospitalar
 - Prestação de Serviços
 - Registo Obrigatório
-- Estabelecimento Hospitalar
+- Saúde
+- Serviço de Saúde
 - Taxa
 - TAXA de Prestação de Serviços
 relationships:
@@ -93,16 +93,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/639/2006/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/639/2006/06/23/p/dre
+- type: cites
+  target: pt:dre:168221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67289945:por
+  label: Revogada a partir de 01.06.2015 pelo(a) Portaria n.º 150/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2015-67289945
+  date: '2015-05-26'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:00Z'
   warnings: []
   errors: []
 ---
@@ -263,4 +280,4 @@ São revogadas as Portarias n.os [38/2006](https://diariodarepublica.pt/dr/detal
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Janeiro de 2011.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Janeiro de 2011.

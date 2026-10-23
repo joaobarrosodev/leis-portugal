@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/2013/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2013-258077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94d2d45fff8790db37e4eb0c0aca3c7912df56a572e63cf686e3951e7c3221dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe8646e35c1bf4f0ef96a76d470ee5d54bd0a4e195c39a423284faf95fb47d4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Produção Animal
-- ÁREA Geográfica
-- Prevenção de Incêndios
-- Financiamento
-- Desenvolvimento Rural
-- Proteção dos Animais
-- Proteção da Floresta
-- Reconversão da Produção
+- Agricultor
+- Agricultura
 - Apoio ao Investimento
+- ÁREA Geográfica
+- Desenvolvimento Rural
+- Espécie Protegida
+- Financiamento
 - IFAP
 - Parque Nacional da Peneda-Gerês
 - Parque Natural da Serra da Estrela
@@ -85,22 +82,39 @@ subjects:
 - Parque Natural do Douro Internacional
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
 - Parque Natural do Tejo Internacional
-- Espécie Protegida
-- Proteção Fitossanitária
-- Agricultor
 - Política Agrícola
+- Prevenção de Incêndios
+- Proder
 - Produção Agrícola
-- ZONA de Protecção Especial da Serra do Gerês
+- Produção Animal
+- Proteção da Floresta
+- Proteção dos Animais
+- Proteção Fitossanitária
+- Reconversão da Produção
 - Região Demarcada do Douro
 - Regulamento
 - Regulamento de Aplicação das Componentes Agro-ambientais e Silvo-ambientais da Medida Nº 2.4. Intervenções Territoriais
   Integradas
-- Agricultura
+- ZONA de Protecção Especial da Serra do Gerês
 relationships:
 - type: amended_by
   target: pt:dre:570683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260105:por
+  label: "Alterado o art. 86.º do Regulamento de aplicação das componentes agroambientais e silvo-ambientais da medida n.º\
+    \ 2.4 «intervenções Territoriais Integradas» aprovado pela Port 232-A/2008, de 11-mar, na redação do presente diploma,\
+    \ pela PORT.137/2013.01.04.2013.MAMAOT, DR.IS [63] de 01.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2013-260105
+  date: '2013-04-01'
+- type: amended_by
+  target: pt:dre:570683:por
+  label: "Alterado o art. 88.º do Regulamento de Aplicação das Componentes Agroambientais e Silvo-Ambientais da Medida n.º\
+    \ 2.4, «Intervenções Territoriais Integradas» aprovado pela Port 232-A/2008 de 11-mar, na redação do presente diploma,\
+    \ pela PORT.19/2014.29.01.2014.MAGM, DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2014-570683
+  date: '2014-01-29'
 - type: cites
   target: celex:32006R1974
   label: null
@@ -122,15 +136,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/232-a/2008/03/11/p/dre
 article_structure:
-  article_count: 21
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:14Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +245,9 @@ aj) [...]
 
 al) [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -259,7 +275,9 @@ e) [...]
 
 8 - [...]
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -287,7 +305,9 @@ c) [...]
 
 10 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -319,7 +339,9 @@ g) [...]
 
 8 - [...]
 
-###### Artigo 68.º-A — [...]
+Artigo 68.º-A
+
+[...]
 
 1 - [...]
 
@@ -337,7 +359,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 82.º-E — [...]
+Artigo 82.º-E
+
+[...]
 
 1 - [...]
 
@@ -387,7 +411,9 @@ f) Identificar no PIP as áreas ocupadas com vegetação herbácea.
 
 9 - [...]
 
-###### Artigo 82.º-F — [...]
+Artigo 82.º-F
+
+[...]
 
 1 - [...]
 
@@ -433,7 +459,9 @@ d) [...]
 
 8 - [...]
 
-###### Artigo 82.º-H — [...]
+Artigo 82.º-H
+
+[...]
 
 [...]
 
@@ -457,7 +485,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 82.º-I — [...]
+Artigo 82.º-I
+
+[...]
 
 1 - [...]
 
@@ -487,7 +517,9 @@ iii) (Revogado)
 
 5 - [...]
 
-###### Artigo 82.º-J — [...]
+Artigo 82.º-J
+
+[...]
 
 1 - [...]
 
@@ -517,7 +549,9 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 82.º-M — [...]
+Artigo 82.º-M
+
+[...]
 
 1 - [...]
 
@@ -579,7 +613,9 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 82.º-N — [...]
+Artigo 82.º-N
+
+[...]
 
 1 - [...]
 
@@ -645,7 +681,9 @@ h) [...]
 
 10 [...]
 
-###### Artigo 82.º-O — [...]
+Artigo 82.º-O
+
+[...]
 
 1 - [...]
 
@@ -659,13 +697,17 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1- [...]
 
 2 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adoptadas de acordo com o Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo Instituto de Financiamento da Agricultura e Pesca, I.P. (IFAP, I.P.), aprovado em anexo à Portaria n.º 86/2011 de 25 de Fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto no Regulamento (UE) n.º [1122/2009](https://data.europa.eu/eli/reg/2009/1122/oj?locale=pt), da Comissão, de 30 de Novembro de 2009.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1- [...]
 
@@ -681,13 +723,17 @@ h) [...]
 
 7 - O disposto no número anterior não é aplicável nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º [1974/2006](https://data.europa.eu/eli/reg/2006/1974/oj?locale=pt).
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - Os beneficiários que apresentem a sua candidatura em 2007 podem optar, na altura do quinto pedido de pagamento, pelo prolongamento do compromisso por mais um ano.
 
 2 - A opção referida no número anterior está sujeita à decisão do gestor do PRODER.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - Nos casos de divergências entre as áreas declaradas e as determinadas em sede de controlo, aplicam-se as reduções e as exclusões previstas nos Regulamentos n.º [1122/2009](https://data.europa.eu/eli/reg/2009/1122/oj?locale=pt) da Comissão de 30 de Novembro de 2009 e (UE) n.º [65/2011](https://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
@@ -713,7 +759,9 @@ h) [...]
 
 12 - Nos casos previstos no n.º 3 do artigo 85.º, o incumprimento dos critérios de elegibilidade ou dos compromissos determinam a devolução total dos apoios e a exclusão do beneficiário de cada apoio para o qual não tenha sido apresentado pedido de pagamento.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - [...]
 
@@ -729,42 +777,54 @@ h) [...]
 
 7 - [...]''.
 
-###### Artigo 2.º — Alteração de anexos
+Artigo 2.º
+
+Alteração de anexos
 
 Os Anexos III, IV e VII do Regulamento de Aplicação das Componentes Agroambientais e Silvo-Ambientais da Medida n.º 2.4 «Intervenções Territoriais Integradas», aprovado pela Portaria n.º 232 -A/2008, de 11 de Março, passam a ter a redação constante do anexo à presente portaria.
 
-###### Artigo 3.º — Norma revogatória
+Artigo 3.º
+
+Norma revogatória
 
 São revogados o n.º 4 do artigo 68.º-D, a alínea i) do n.º 1, do artigo 82.º-C, a alínea j) do n.º 1, do artigo 82.º-F, a subalínea iii), da alínea d) do n.º 1, do artigo 82.º-I e o n.º 11 do artigo 90.º.
 
-###### Artigo 4.º — Produção de efeitos e entrada em vigor
+Artigo 4.º
+
+Produção de efeitos e entrada em vigor
 
 1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos compromissos em curso.
 
 2 - Os n.os 4, 6 e 7 do artigo 86.º e o n.º 12 do artigo 90.º são aplicáveis a partir da campanha de 2012.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de janeiro de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de janeiro de 2013.
 
-## ANEXO I — (a que se refere o artigo 2.º)
+ANEXO I
+
+(a que se refere o artigo 2.º)
 
 «ANEXO III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
 
-## ANEXO IV — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
-
-Incumprimentos que determinam a redução do apoio no próprio ano a que se referem os n.os 4 e 5 do artigo 90.º
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
+ANEXO IV
 
 [...]
 
-## ANEXO VII — Acumulação de apoios a que se refere o n.º 2 do artigo 91.º
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
+Incumprimentos que determinam a redução do apoio no próprio ano a que se referem os n.os 4 e 5 do artigo 90.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
+
+[...]
+
+ANEXO VII
+
+Acumulação de apoios a que se refere o n.º 2 do artigo 91.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02400/0067300685.pdf)
 
 [...]»

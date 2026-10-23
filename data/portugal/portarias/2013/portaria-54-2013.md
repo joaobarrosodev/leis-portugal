@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54/2013/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-2013-258097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 094d8fa21971db8db98eec97f0c3671dd46879005b3c74d435bd6dddc098ad11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4b1019aba83498688550c83167113931382bc07eb818d45f8fc2d969f657c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Recursos Hídricos
 - Soure
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:15Z'
   warnings: []
   errors: []
 ---
@@ -226,13 +238,13 @@ As zonas de proteção imediata, intermédia e alargada, respeitantes aos perím
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 17 de janeiro de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 17 de janeiro de 2013.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -242,47 +254,47 @@ Zonas de proteção imediata
 
 Captação - Camarinheiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Saca Bolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Várzea/Carrascal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casa Velha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Brunhós
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vila Nova de Anços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Pouca Pena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vale de Oliveira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal do Rego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal Cimeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casas Novas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -292,47 +304,47 @@ Zona de proteção intermédia
 
 Captação - Camarinheiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Saca Bolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Várzea/Carrascal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casa Velha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Brunhós
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vila Nova de Anços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Pouca Pena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vale de Oliveira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal do Rego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal Cimeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casas Novas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -342,47 +354,47 @@ Zonas de proteção alargada
 
 Captação - Camarinheiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Saca Bolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Várzea/Carrascal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casa Velha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Brunhós
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vila Nova de Anços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Pouca Pena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vale de Oliveira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal do Rego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal Cimeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casas Novas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -394,44 +406,44 @@ Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
 Captação - Camarinheiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Saca Bolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Várzea/Carrascal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casa Velha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Brunhós
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vila Nova de Anços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Pouca Pena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Vale da Oliveira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal do Rego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casal Cimeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
 
 Captação - Casas Novas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02700/0073800747.pdf)

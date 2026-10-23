@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/260/2010/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2010-615036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03fe961cdb5dadafbd636bd81f19cc47a69a4bedcac60ed88cf91dc134ae772
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b763144744c0d409b1b96aa63c35cb654dd1c9243eee4f8a2556ba25ddcf51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Banco de Portugal
 - Conservação de Documentos
 - Declaração de Rendimentos
 - Impresso
-- Banco de Portugal
+- Instituição de Crédito
 - Tributação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:19Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +137,11 @@ d) Da transferência, para conta aberta em nome do declarante junto de uma insti
 
 Compete ao Banco de Portugal conservar em arquivo, por um período de 10 anos, todas as declarações de regularização tributária e respectivos documentos comprovativos.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Maio de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Maio de 2010.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf))](https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf)
 
 Instruções de preenchimento
 

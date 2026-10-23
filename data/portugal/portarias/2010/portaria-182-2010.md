@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06100/0097600976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/182/2010/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-2010-612640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a12e9d27f37373ecafac41c269c6d127d8c3675036f3b5cac1e26bec1463f1b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adb030067add21a048120d4f33add46ba7480e9d7cd7001adbbfff7f194ce978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,34 @@ reuse:
 subjects:
 - Comparticipação
 - Concurso de Ingresso
-- Recrutamento de Pessoal
+- Investigação Criminal
 - Pagamento
 - Polícia Judiciária
-- Investigação Criminal
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/37/2008/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2008/08/06/p/dre
+- type: cites
+  target: pt:dre:455412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118275386:por
+  label: Revogada, a partir de 23.01.2019, pelo(a) Portaria n.º 29/2019 - Diário da República n.º 15/2019, Série I de 2019-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-2019-118275386
+  date: '2019-01-22'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:52Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +134,4 @@ Ao abrigo do disposto no n.º 4 do artigo 46.º da [Lei n.º 37/2008](https://di
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto de Sousa Martins, em 23 de Março de 2010.**
+O Ministro da Justiça, Alberto de Sousa Martins, em 23 de Março de 2010.

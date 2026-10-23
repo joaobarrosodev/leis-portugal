@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0006700068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2023-229857703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60dfc1539ad67f1ef40142b0a3f938454b2e3e2c316c19cbc56f8d0ceed586ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1808f0296d3c8f037f3da4ff319f9c20ac4733b8f56db7b0b0ff110f02478e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Equipamento Social
+- Financiamento
 - Investimento
+- Programa de Alargamento da Rede de Equipamentos Sociais
 - Proteção ao Deficiente
 - Proteção na Velhice
-- Programa de Alargamento da Rede de Equipamentos Sociais
 - Regulamento
 - Segurança Social
 relationships:
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/334/2023/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/334/2023/11/03/p/dre
+- type: cites
+  target: pt:dre:124457188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206056781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214042399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223700469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:13Z'
   warnings: []
   errors: []
 ---
@@ -170,4 +198,6 @@ Os projetos aprovados no âmbito dos avisos de abertura do Programa de Alargamen
 
 2 - O artigo 4.º produz efeitos a 1 de janeiro de 2024.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de dezembro de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de dezembro de 2023.
+
+117139409

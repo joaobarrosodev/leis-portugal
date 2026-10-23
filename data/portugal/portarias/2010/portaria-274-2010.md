@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/274/2010/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-2010-614863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a3aa56ec88119177627d7250fd1d0c649de543101daddf7b01200678decfb36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba4f6748713aa0349269830a472f06f494b4d7ab5a0229a853ec54dad45700d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Bolsa de Formação
-- Formação Profissional
 - Contribuições da Segurança Social
+- Desemprego
+- Empresa
+- Formação Profissional
 - Indústria da Cerâmica
 - Indústria da Construção
-- Prestações da Segurança Social
-- Desemprego
-- Qualificação Profissional
-- Programa Qualificação-emprego
-- Política de Emprego
 - Indústria Metalúrgica
+- Política de Emprego
+- Prestações da Segurança Social
+- Programa Qualificação-emprego
+- Qualificação Profissional
 - Trabalhador
 relationships:
 - type: amended_by
@@ -98,16 +98,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2010/01/20/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335680:por
+  label: "Revogada, a partir de 01.07.2010, aplicando-se o regime jurídico, aí previsto, às candidaturas ao PQE apresentadas\
+    \ até ao dia 30 de Junho de 2010, pela PORT.353/2010.21.06.2010.MTSSO, DR.IS [118] de 21.06.2010, sem prejuízo do disposto\
+    \ na al b) do seu art. 2.º,\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-2010-335680
+  date: '2010-06-21'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:24Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +161,9 @@ Os artigos 6.º e 15.º da Portaria n.º 126/2010, de 1 de Março, passam a ter 
 
 2 - São destinatários da medida n.º 2 as empresas e os trabalhadores com vínculo à empresa em regime de trabalho intermitente, nos termos consagrados no Código do Trabalho.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -170,4 +187,4 @@ c) A obrigação de proceder à devolução das quantias auferidas e referentes 
 
 A presente portaria produz efeitos a partir de 1 de Maio de 2010.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 10 de Maio de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 10 de Maio de 2010.

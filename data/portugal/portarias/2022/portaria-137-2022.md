@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07000/0000400104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137/2022/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-2022-181830001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fb0d88a6b37aaab9e5c9e5a37acf22a8f3b8a0126aa0a9858ecbb8ca9c7be26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e361da15c2185a33cbc8553d660083f7ea99af62e4068dee9a78f6048ca7b2c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- ÁREA Metropolitana
-- Financiamento
-- Construção Naval
-- Regulamentação de Atos Legislativos
-- Internacionalização Empresarial
 - Algarve
-- Lisboa
 - Apoio ao Investimento
-- Projeto de Investimento
-- Programa Operacional
-- Regulamento CE
+- ÁREA Metropolitana
+- Construção Naval
+- Empreendedorismo
+- Financiamento
+- Internacionalização Empresarial
+- Lisboa
 - PORTUGAL 2020
+- Programa Operacional
 - Programa Operacional Temático Competitividade e Internacionalização
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Regulamento CE
 - Regulamento Específico do Domínio da Competitividade e Internacionalização
 relationships:
 - type: cites
@@ -173,16 +173,124 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:106901298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115730625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117279936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135711318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147664205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160510573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67618690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75082097:por
+  label: null
+  source: null
 article_structure:
-  article_count: 159
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 156
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:04Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +327,9 @@ Os artigos 25.º, 27.º, 31.º e 39.º do Regulamento Específico do Domínio da
 
 2 - Os apoios aos projetos do setor da construção naval, no âmbito da inovação empresarial e empreendedorismo, apenas podem ser concedidos mediante notificação prévia à Direção-Geral da Concorrência da Comissão Europeia em conformidade com as orientações relativas aos auxílios estatais com finalidade regional para 2022-2027 (2021/C 153/01).
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +341,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +375,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -293,11 +407,11 @@ e) ...
 
 A presente portaria entra em vigor e produz efeitos no dia seguinte ao da sua publicação, sendo as alterações ora introduzidas apenas aplicáveis aos projetos que ainda não foram objeto de decisão sobre a concessão de apoio por parte das autoridades de gestão respetiva.
 
-**O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 24 de março de 2022.**
+O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 24 de março de 2022.
 
 ## ANEXO — REGULAMENTO ESPECÍFICO DO DOMÍNIO DA COMPETITIVIDADE E INTERNACIONALIZAÇÃO
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Objeto e âmbito
 
@@ -561,7 +675,7 @@ zzz) «Transferência de tecnologia e conhecimento» o processo pelo qual o conh
 
 3 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.
 
-# PARTE II — Sistema de incentivos às empresas
+## PARTE II — Sistema de incentivos às empresas
 
 ## TÍTULO I — Disposições gerais
 
@@ -1665,7 +1779,7 @@ Na investigação e desenvolvimento, o objetivo principal é aumentar o investim
 
 a) Aumentar a intensidade de I&I nas empresas e da sua valorização económica;
 
-b) Aumentar os projetos e atividades em cooperação das empresas com as restantes entidades do sistema de I&I;
+b) Aumentar os projetos e atividades em cooperação das empresas com as restantes entidades do sistema de I&I
 
 c) Desenvolver novos produtos e serviços, em especial em atividades de maior intensidade tecnológica e de conhecimento;
 
@@ -1681,9 +1795,9 @@ a) Projetos I&D empresas - projetos de I&D promovidos por empresas, compreendend
 
 b) Projetos demonstradores - projetos demonstradores de tecnologias avançadas e de linhas-piloto, que, partindo de atividades de I&D concluídas com sucesso, visam evidenciar, perante um público especializado e em situação real, as vantagens económicas e técnicas das novas soluções tecnológicas que não se encontram suficientemente validadas do ponto de vista tecnológico para utilização comercial;
 
-c) Programas mobilizadores - projetos dinamizadores de capacidades e competências científicas e tecnológicas, com elevado conteúdo tecnológico e de inovação e com impactes significativos a nível multissetorial, regional, cluster, e outras formas de parceria e cooperação, visando uma efetiva transferência do conhecimento e valorização dos resultados de I&D junto das empresas, realizados em colaboração efetiva entre empresas e entidades não empresariais do sistema de I&I;
+c) Programas mobilizadores - projetos dinamizadores de capacidades e competências científicas e tecnológicas, com elevado conteúdo tecnológico e de inovação e com impactes significativos a nível multissetorial, regional, cluster, e outras formas de parceria e cooperação, visando uma efetiva transferência do conhecimento e valorização dos resultados de I&D junto das empresas, realizados em colaboração efetiva entre empresas e entidades não empresariais do sistema de I&I
 
-d) Núcleos de I&D - projetos visando a criação ou reforço de competências e capacidades internas das empresas em I&D;
+d) Núcleos de I&D - projetos visando a criação ou reforço de competências e capacidades internas das empresas em I&D
 
 e) Proteção da propriedade intelectual e industrial - nomeadamente projetos que, na sequência de projetos de I&D apoiados, visem promover o registo de direitos de propriedade industrial sob a forma de registo de patentes, modelos de utilidade, desenhos ou modelos, pelas vias nacional, europeia e internacional;
 
@@ -1769,7 +1883,7 @@ g) Quando o respetivo aviso para apresentação de candidaturas preveja uma fase
 
 3 - Os projetos núcleos I&D devem, além do estabelecido no n.º 1, cumprir aos seguintes critérios:
 
-a) Envolver recursos humanos qualificados cujos curricula garantam a sua adequada execução, incluindo a obrigatoriedade de contratação de, pelo menos, um doutorado ou um quadro técnico com nível de qualificação igual ou superior a licenciatura e experiência em atividades de I&D;
+a) Envolver recursos humanos qualificados cujos curricula garantam a sua adequada execução, incluindo a obrigatoriedade de contratação de, pelo menos, um doutorado ou um quadro técnico com nível de qualificação igual ou superior a licenciatura e experiência em atividades de I&D
 
 b) Estar integrado na estratégia de inovação da(s) empresa(s) e sustentado num plano de atividades de I&D para execução num horizonte igual à duração do projeto;
 
@@ -1849,11 +1963,11 @@ b) Não seja possível demonstrar que os resultados do projeto de I&D, sobre a f
 
 2 - No caso de projetos em copromoção, são ainda beneficiários as entidades não empresariais do sistema de I&I, nomeadamente:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado ou internacionais com a sede em Portugal, em região abrangida pelo presente Regulamento;
 
-c) Instituições privadas sem fins lucrativos que tenham como objetivo principal atividades de I&D;
+c) Instituições privadas sem fins lucrativos que tenham como objetivo principal atividades de I&D
 
 d) Outras instituições públicas e privadas, sem fins lucrativos, que desenvolvam ou participem em atividades de investigação científica.
 
@@ -1873,7 +1987,7 @@ a) Possuir situação líquida positiva;
 
 b) Não ter projetos aprovados na mesma tipologia de projeto;
 
-c) Não ter projetos aprovados de investimento na área de intervenção do I&D;
+c) Não ter projetos aprovados de investimento na área de intervenção do I&D
 
 d) Cumprir os critérios de PME.
 
@@ -2105,7 +2219,7 @@ e) Assegurar, em condições a definir, o acesso livre e gratuito a todas as pub
 
 1 - Sem prejuízo do definido no artigo 10.º, a decisão fundamentada sobre as candidaturas deve ser proferida no prazo de:
 
-a) 20 dias úteis a contar da data limite para a respetiva apresentação no que respeita ao vale I&D;
+a) 20 dias úteis a contar da data limite para a respetiva apresentação no que respeita ao vale I&D
 
 b) 60 dias úteis a contar da data de aprovação da pré-vinculação do incentivo, no caso dos projetos de regime contratual de investimento;
 
@@ -2173,7 +2287,7 @@ c) O artigo 29.º do [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/
 
 5 - Os projetos vale I&D respeitam o n.º 4 do artigo 28.º do [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 16 de junho.
 
-# PARTE III — Sistema de apoio à transformação digital da Administração Pública
+## PARTE III — Sistema de apoio à transformação digital da Administração Pública
 
 ###### Artigo 81.º — Objeto
 
@@ -2543,7 +2657,7 @@ b) Verificações no local de realização da operação.
 
 4 - Conforme estabelecido no artigo 37.º do [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, que define o modelo de governação do Portugal 2020, as autoridades de gestão podem delegar em organismos intermédios as funções de acompanhamento e controlo dos projetos.
 
-# PARTE IV — Sistema de apoio à investigação científica e tecnológica
+## PARTE IV — Sistema de apoio à investigação científica e tecnológica
 
 ###### Artigo 101.º — Objeto
 
@@ -2585,7 +2699,7 @@ c) Programas de atividades conjuntas (PAC), envolvendo investimentos de dimensã
 
 d) Programas integrados de IC&DT, envolvendo ações de interesse estratégico, visando o desenvolvimento e a consolidação de linhas de investigação de interesse público e com impacto ao nível nacional ou regional;
 
-e) Projetos de provas de conceito (PdC), visando a valorização de conhecimento já produzido em projetos de investigação anteriores, nomeadamente através da produção de protótipos laboratoriais, ou quando relevante pré-séries semi-industriais, representativos de potenciais aplicações futuras para demonstração inicial do potencial da descoberta e sua disseminação junto do tecido económico a partir das entidades não empresariais do sistema de I&I;
+e) Projetos de provas de conceito (PdC), visando a valorização de conhecimento já produzido em projetos de investigação anteriores, nomeadamente através da produção de protótipos laboratoriais, ou quando relevante pré-séries semi-industriais, representativos de potenciais aplicações futuras para demonstração inicial do potencial da descoberta e sua disseminação junto do tecido económico a partir das entidades não empresariais do sistema de I&I
 
 f) Proteção de direitos de propriedade intelectual, visando promover o registo de direitos de propriedade industrial sob a forma de registo de patentes, modelos de utilidade, desenhos ou modelos, pelas vias nacional, europeia e internacional;
 
@@ -2611,11 +2725,11 @@ b) Projetos em copromoção, realizados em consórcio entre duas ou mais entidad
 
 a) Entidades não empresariais do sistema de I&I, nomeadamente:
 
-i) Instituições do ensino superior, seus institutos e unidades de I&D;
+i) Instituições do ensino superior, seus institutos e unidades de I&D
 
 ii) Laboratórios do Estado ou internacionais com a sede em Portugal, em região abrangida pelo presente Regulamento;
 
-iii) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D;
+iii) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D
 
 iv) Outras instituições públicas e privadas, sem fins lucrativos, que desenvolvam ou participem em atividades de investigação científica;
 
@@ -2771,7 +2885,7 @@ c) As despesas com recursos humanos, considerados indispensáveis para a impleme
 
 3 - No âmbito de projetos inseridos na tipologia internacionalização de I&DI, apenas são elegíveis as seguintes despesas:
 
-a) Despesas com recursos humanos dedicados à preparação de propostas de participação em programas internacionais de apoio à I&D;
+a) Despesas com recursos humanos dedicados à preparação de propostas de participação em programas internacionais de apoio à I&D
 
 b) Despesas com deslocações no País e no estrangeiro diretamente imputáveis ao projeto;
 
@@ -2945,7 +3059,7 @@ e) Quando aplicável, cumprir os normativos em matéria de contratação públic
 
 f) Permitir a divulgação, em plataforma de acesso livre, do âmbito e resultados expectáveis do projeto de I&D, assim como de sumários executivos publicáveis relativos aos relatórios de execução final, sem prejuízo dos requisitos relativos à proteção de propriedade intelectual;
 
-g) Comunicar às autoridades de gestão todas as ações públicas de disseminação de resultados do projeto de I&D;
+g) Comunicar às autoridades de gestão todas as ações públicas de disseminação de resultados do projeto de I&D
 
 h) Assegurar o acesso livre e gratuito a todas as publicações científicas (peer-reviewed) geradas no âmbito do projeto de I&D, em condições a definir;
 
@@ -3021,7 +3135,7 @@ a) O [Regulamento (UE) n.º 1407/2013](http://data.europa.eu/eli/reg/2013/1407/o
 
 b) O artigo 28.º do [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), de 16 de junho, no caso de PME.
 
-# PARTE V — Sistema de apoio a ações coletivas
+## PARTE V — Sistema de apoio a ações coletivas
 
 ###### Artigo 126.º — Objeto
 
@@ -3041,7 +3155,7 @@ a) No caso das tipologias de operações no âmbito da área de «Transferência
 
 i) Reforçar a transferência de conhecimento científico e tecnológico para o setor empresarial;
 
-ii) Potenciar a valorização económica dos resultados de I&D produzidos pelo sistema de I&I;
+ii) Potenciar a valorização económica dos resultados de I&D produzidos pelo sistema de I&I
 
 b) No caso das tipologias de operações no âmbito da área de «Redes e outras formas de parceria e cooperação», enquadrada no objetivo específico 4 da prioridade de investimento 1.2 do objetivo temático 1:
 
@@ -3775,7 +3889,7 @@ sendo que (somatório)(beta)(índice i) = 1,00 para i = 1 a 3.
 
 6 - A avaliação referida na alínea b) do n.º 2 é concretizada com o apuramento do grau de cumprimento (GC), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/04/07000/0000400104.pdf))](https://files.diariodarepublica.pt/1s/2022/04/07000/0000400104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/04/07000/0000400104.pdf)
 
 7 - Em função dos objetivos específicos e prioridades estabelecidas para cada concurso, os indicadores referidos no n.º 4 podem ser complementados com outros que aí sejam adicionalmente estabelecidos.
 
@@ -3980,3 +4094,5 @@ CP(índice p) - capital próprio do projeto, incluindo novas entradas de capital
 DE - montante da despesa elegível do projeto.
 
 6 - Para efeitos da aferição do cumprimento do financiamento adequado com capitais próprios em sede de encerramento financeiro, as novas entradas de capital social, prestações suplementares e empréstimos de sócios e acionistas podem ser substituídos pelo montante dos resultados líquidos gerados pela empresa e retidos durante o período de realização do projeto.
+
+115162166

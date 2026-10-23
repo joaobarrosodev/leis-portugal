@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/2012/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2012-176279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31b36b79ea58cc70a56a5904ba11a089ef28f9019b62f6c31d80b453a3dd13fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6009bfc865bf8d09ceb1d288a1febe4070ed93f3d093064da32bced4cbbe6e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- PSP
-- Família
 - Assistência a Familiares
 - Assistência Médica
 - Cônjuge
 - Convenção
-- Serviço Nacional de Saúde
-- Pagamento
-- GNR
-- Protecção na Doença
-- Regime Jurídico
 - Doença
+- Família
 - Funcionário Público
+- GNR
+- Pagamento
+- Protecção na Doença
+- PSP
+- Regime Jurídico
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2005/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/2005/09/20/p/dre
+- type: cites
+  target: pt:dre:150711:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:20Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +198,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 31 de agosto de 2012.
 
-**O Secretário de Estado do Orçamento, Luís Filipe Bruno da Costa de Morais Sarmento. - O Secretário de Estado Adjunto do Ministro da Administração Interna, Juvenal Silva Peneda.**
+O Secretário de Estado do Orçamento, Luís Filipe Bruno da Costa de Morais Sarmento. - O Secretário de Estado Adjunto do Ministro da Administração Interna, Juvenal Silva Peneda.
 
 ## ANEXO
 
@@ -374,8 +378,8 @@ Valências, preços e comparticipações
 
 ## ANEXO II — Guia de tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf)
 
 ## ANEXO III — Mapa resumo de despesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18100/0524405248.pdf)

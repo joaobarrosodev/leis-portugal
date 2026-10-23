@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05000/0138101382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/99/2011/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2011-278176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfde3be63f70adcb8006b8f9f03ba597e527cab0a90a1b36b1843438f7b9ed5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1adeb2e9767df7af14bad3e1b8b34481e4d3f8ac3e18ef0f7163689fbff93f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Imposto sobre Produtos Petrolíferos
-- Combustível de Substituição
-- Produto Petrolífero
 - Combustível
+- Combustível de Substituição
 - Gasóleo
+- Imposto sobre Produtos Petrolíferos
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
@@ -81,16 +81,21 @@ relationships:
   target: celex:32003L0096
   label: null
   source: http://data.europa.eu/eli/dir/2003/96/oj
+- type: repealed_by
+  target: pt:dre:243737:por
+  label: "Revogada, a partir de 31.12.2011, pela PORT.320-D/2011.30.12.2011.MF, DR.IS [250-3ºSupl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-d-2011-243737
+  date: '2011-12-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:17Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +132,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 21 de Fevereiro de 2011.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia, da Inovação e do Desenvolvimento, José Carlos das Dores Zorrinho, Secretário de Estado da Energia e da Inovação.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia, da Inovação e do Desenvolvimento, José Carlos das Dores Zorrinho, Secretário de Estado da Energia e da Inovação.

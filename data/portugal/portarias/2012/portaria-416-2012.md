@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/416/2012/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-2012-189945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93035bb02c6a3e8435203dc8a45b20e10565b7c72e48476c806e1f722503e0a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea5890e704557eb415281e99411281ca26e5affbe81760bb4b6e8f93109139ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Declaração de Rendimentos
+- Documento Eletrónico
 - Impresso
 - IRS
-- Documento Eletrónico
 - Subsídio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:05Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +131,6 @@ c) Efetuar o envio de acordo com os procedimentos indicados na mesma página.
 
 A presente portaria entra em vigor no dia 1 de Janeiro de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 9 de dezembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 9 de dezembro de 2012.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24300/0709207093.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24300/0709207093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24300/0709207093.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2012/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2012-544427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0af0945a6905bed4869468e2885b4154de19c6b9b723f1a574264e32067bca1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f526ba17d05f2010acc711e180a1d7ecd9bd1b48477ae1b4448fa5e54aec833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
+- type: cites
+  target: pt:dre:1583409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:05Z'
   warnings: []
   errors: []
 ---
@@ -138,6 +150,6 @@ c) Na face nacional da moeda designada «Capital Europeia da Cultura - Guimarãe
 
 O limite de emissão de cada uma das moedas correntes a que se refere o artigo 1.º é de (euro) 1 040 000 e a INCM, dentro deste limite, é autorizada a cunhar até 10 000 moedas com acabamento BNC e até 10 000 moedas com acabamento proof.
 
-**A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 6 de janeiro de 2012.**
+A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 6 de janeiro de 2012.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01900/0047600477.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01900/0047600477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01900/0047600477.pdf)

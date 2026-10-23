@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01300/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/2024/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be3f51700ea69d0c89984eff59096691b1c160706e79457e6356d4ab6bb2815f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2e5c16205c070473639f08ddcbf2662c5f6758d47e759355f67f2dd91cef24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atestado Médico
-- Regulamentação de Atos Legislativos
-- Impresso
 - Doença
+- Impresso
 - Incapacidade Temporária
+- Regulamentação de Atos Legislativos
 - Segurança Social
 relationships:
+- type: amends
+  target: pt:numero:portaria:337/2004
+  label: Altera, a partir de 1 de março de 2024, os n.ºs 2.º, 3.º e 4.º da Portaria n.º 337/2004 de 31 de março, Diário da
+    República n.º 77/2004, Série I-B
+  source: null
+  date: '2004-03-31'
+- type: amends
+  target: pt:numero:portaria:220/2013
+  label: Altera, a partir de 1 de março de 2024, o artigo 2.º da Portaria n.º 220/2013 de 4 de julho, Diário da República
+    n.º 127/2013, Série I
+  source: null
+  date: '2013-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2005/07/14/p/dre
   label: null
@@ -114,16 +126,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/337/2004/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/337/2004/03/31/p/dre
+- type: cites
+  target: pt:dre:115620691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215210816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117864:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:46Z'
   warnings: []
   errors: []
 ---
@@ -224,8 +292,11 @@ A presente portaria entra em vigor no primeiro dia do segundo mês seguinte ao d
 
 Em 12 de janeiro de 2024.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO — (a que se refere o artigo 2.º da [Portaria n.º 220/2013](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), de 4 de julho)
 
-![](https://files.diariodarepublica.pt/images/837054018/837034483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/837054018/837034483.png) |
+| --- |
+
+117250654

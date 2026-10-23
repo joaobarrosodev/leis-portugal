@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123/2012/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-2012-553058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4a6742ed28b0e5e5f0db5e4f556cad4b861cc71ce064a48313392ee02c6e6c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc962cf4c4a2a053d1f44fd5ed7358f560ddd8117d3d5d4f5a788e4f8400dba9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Contrato Coletivo de Trabalho
+- Guarda
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
-- Comércio
 - Trabalhador por Conta de Outrem
-- Guarda
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:24Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +142,4 @@ b) Sendo o comércio a retalho não alimentar, disponham de uma área de venda c
 
 2 - A tabela salarial e as cláusulas de conteúdo pecuniário produzem efeitos desde 1 de abril de 2012.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 20 de abril de 2012.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 20 de abril de 2012.

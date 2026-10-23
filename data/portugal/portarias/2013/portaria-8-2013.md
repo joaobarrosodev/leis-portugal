@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0013200137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/2013/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2013-588805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc5de60082b0541d75307b098d585c6caae98af083c2c20fca1b8411884b8a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48ed5c3dabaa75dccc62165aa6a5943c777efe87f0282b2ae49ae24039e52d11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Força Aérea
 - Curso de Formação de Sargentos
-- Qualificação Profissional
 - Estágio de Formação
-- Regulamento
+- Força Aérea
 - Militar
+- Qualificação Profissional
+- Regulamento
 - Sargento
 relationships:
 - type: cites
@@ -115,16 +115,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304/2004/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304/2004/03/23/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124392066:por
+  label: Revogada, com efeitos a partir do início do ano letivo 2020/2021, pelo(a) Portaria n.º 288/2019 - Diário da República
+    n.º 168/2019, Série I de 2019-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2019-124392066
+  date: '2019-09-03'
 article_structure:
   article_count: 38
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:23Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +257,7 @@ Ao abrigo do n.º 5 do artigo 260.º do Estatuto dos Militares das Força Armada
 
 2 - O Regulamento em anexo aplica-se a partir do ano letivo 2013-2014, inclusive.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 12 de dezembro de 2012.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 12 de dezembro de 2012.
 
 REGULAMENTO ESCOLAR DOS CURSOS DE FORMAÇÃO DE SARGENTOS E DOS ESTÁGIOS TÉCNICO-MILITARES DE SARGENTOS DA FORÇA AÉREA
 
@@ -219,7 +309,7 @@ O número de vagas para admissão aos CFS e aos ETM é fixado anualmente por des
 
 À frequência dos CFS e ETM são admitidos os candidatos aprovados, até ao preenchimento do número de vagas fixado para a respetiva especialidade, por ordem decrescente da classificação final obtida.
 
-### CAPITULO IV
+CAPITULO IV
 
 Estatuto dos alunos
 
@@ -349,7 +439,7 @@ Os alunos devem nortear o seu comportamento pelo Regulamento Disciplinar Escolar
 
 2- Os louvores e recompensas podem ser individuais ou coletivos, sendo o louvor publicado em ordem de serviço e averbado no registo biográfico do aluno.
 
-### CAPITULO VIII
+CAPITULO VIII
 
 Desistência e eliminação do curso
 
@@ -405,7 +495,7 @@ d) Tenham sofrido punições que, por si ou por suas equivalências, excedam 10 
 
 O aluno que desista ou seja eliminado fica definitivamente inibido de concorrer a qualquer curso ou estágio técnico-militar da Força Aérea.
 
-### CAPITULO IX
+CAPITULO IX
 
 Disposições diversas
 

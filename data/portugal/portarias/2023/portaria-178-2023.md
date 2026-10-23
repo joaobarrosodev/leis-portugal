@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/12300/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178/2023/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c62a94ae75cfbb0b7ea802df326548db28cbf66389f100222087d3e4bb520eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61e9b2ddae6455f90eae55ae38d5b6271a641de34b37a83122ab74e663e92f18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ reuse:
 subjects:
 - Acesso à Informação
 - Acreditação
+- Agente de Execução
 - Arquivo
-- Ficheiro Informático
+- Base de Dados
 - Cartório Notarial
 - Certificação Electrónica
 - Código do Notariado
 - Código do Registo Predial
-- Instituto dos Registos e do Notariado
-- Conservatória dos Registos Centrais
-- Regulamentação de Atos Legislativos
-- Registos e Notariado
-- Processamento de Dados
-- Base de Dados
-- Documento Eletrónico
-- Ordem dos Notários
-- Prazo de Conservação
 - Confidencialidade
-- Agente de Execução
-- Taxa
+- Conservatória dos Registos Centrais
+- Documento Eletrónico
+- Ficheiro Informático
+- Instituto dos Registos e do Notariado
+- Ordem dos Notários
 - Plataforma Eletrónica
+- Prazo de Conservação
+- Processamento de Dados
+- Registos e Notariado
+- Regulamentação de Atos Legislativos
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
@@ -109,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/2021/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/2021/12/13/p/dre
+- type: cites
+  target: pt:dre:164870237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175780036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180923377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70297420:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:42Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +195,17 @@ d) As públicas-formas eletrónicas de documentos físicos extraídas pelo notá
 
 e) Os demais documentos de qualquer tipo arquivados no cartório.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
 2 - Se, em virtude de dificuldades de caráter técnico respeitantes ao funcionamento da plataforma eletrónica a que se refere o artigo seguinte ou outro impedimento de força maior, não for possível realizar o arquivo, este facto deve ser expressamente declarado na plataforma eletrónica logo que cessar o impedimento, em campo criado para o efeito, indicando o motivo do impedimento, o tipo de documento a arquivar, a data e a hora da sua elaboração e a identificação da entidade que o elaborou, devendo o arquivo eletrónico ser efetuado nas 72 horas seguintes ou logo que cesse o impedimento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -185,7 +217,9 @@ e) Os demais documentos de qualquer tipo arquivados no cartório.
 
 5 - Devem ser registados no momento de arquivamento os dados relativos ao livro em que o documento foi lavrado ou ao maço em que se encontra fisicamente arquivado, devendo os restantes dados ser registados em prazo a definir pela entidade gestora, de acordo com os prazos legais aplicáveis.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -201,7 +235,9 @@ d) Agentes de execução, no âmbito da prossecução das suas atribuições, qu
 
 3 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Os documentos arquivados nos cartórios em data anterior à da entrada em vigor da presente portaria podem ingressar no arquivo eletrónico por iniciativa do notário titular do respetivo arquivo físico, podendo a Ordem dos Notários determinar, por regulamento, a isenção do pagamento, pelos notários, das taxas a que se refere o artigo 16.º»
 
@@ -209,4 +245,6 @@ Os documentos arquivados nos cartórios em data anterior à da entrada em vigor 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 23 de junho de 2023.**
+O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 23 de junho de 2023.
+
+116606048

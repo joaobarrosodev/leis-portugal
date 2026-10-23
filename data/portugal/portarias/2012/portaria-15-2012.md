@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15/2012/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-2012-544394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d1dfb154b835e594db9787e1d12194aba5216791fd02113f7e1b4dcf1a2f885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0961133bd4b2a5a098b6c30ea8cd7445904d24180b48c666417044dc816f68e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Associação de Beneficiários
 - Personalidade Jurídica
 - Pessoa Colectiva de Direito Público
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:32Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +101,4 @@ Manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rura
 
 A Associação de Beneficiários do Perímetro de Rega de Vale de Madeiro é reconhecida como pessoa coletiva de direito público.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 4 de janeiro de 2012.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 4 de janeiro de 2012.

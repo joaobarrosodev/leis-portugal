@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/280/2023/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-2023-221516383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02a4fdfe4ead48fff893854fd442cce5641044b7882da3c3d7e58894347ebe8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88bd7cd2930144159083c421b95ebd2073f7b61d1cd696690df6f6b302a1e0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Águas Públicas
-- Zona de Proteção
-- Castelo Branco
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Públicas
+- Águas Subterrâneas
+- Castelo Branco
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:21Z'
   warnings: []
   errors: []
 ---
@@ -228,15 +244,15 @@ As zonas de proteção intermédia e alargada, respeitantes ao perímetro de pro
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 7 de setembro de 2023.**
+O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 7 de setembro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas da captação
 
-|  |  |  |
-| --- | --- | --- |
 | Captação | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | Nascente de Rochas de Baixo ... | 40 021,084 | 33 861,561 |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
@@ -245,9 +261,9 @@ Zona de proteção imediata
 
 Nascente de Rochas de Baixo
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1 ... | 40 018,981 | 33 864,325 |
 | 2 ... | 40 022,413 | 33 863,886 |
 | 3 ... | 40 023,552 | 33 859,721 |
@@ -259,9 +275,9 @@ Zona de proteção intermédia
 
 Nascente de Rochas de Baixo
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1 ... | 40 024,008 | 33 861,927 |
 | 2 ... | 40 024,393 | 33 850,631 |
 | 3 ... | 40 010,329 | 33 835,239 |
@@ -285,9 +301,9 @@ Zona de proteção alargada
 
 Nascente de Rochas de Baixo
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1 ... | 39 969,035 | 33 768,450 |
 | 2 ... | 39 923,433 | 33 728,425 |
 | 3 ... | 39 861,716 | 33 700,215 |
@@ -331,4 +347,9 @@ Fotografia aérea 2018 (DGT)
 
 Nascente de Rochas de Baixo
 
-![](https://files.diariodarepublica.pt/images/221516383/221518579.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221516383/221518579.png) |
+| --- |
+
+116839248
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:left; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:left; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:left; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

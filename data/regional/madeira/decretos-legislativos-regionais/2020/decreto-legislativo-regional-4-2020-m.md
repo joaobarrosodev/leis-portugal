@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06000/0000800034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2020/03/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-130659002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3382f039302b7dfd7375183b4b1c6087c63ecdadd57acc2df5a2a0f70a240714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c7ff54f2aa1a4ad6557b5850bee65338d65df8599cd6b93ef7e89414775a000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,16 +110,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/76/2015/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/76/2015/07/28/p/dre
+- type: cites
+  target: pt:dre:178476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72791379:por
+  label: null
+  source: null
 article_structure:
-  article_count: 104
+  article_count: 96
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:27Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +246,9 @@ Os artigos 19.º, 24.º, 36.º, 39.º, 41.º, 42.º, 47.º, 48.º e 86.º do Est
 
 7 - Para efeitos do disposto no presente artigo, os poderes do órgão competente são exercidos pelos membros do Governo Regional responsáveis pelas áreas da segurança social, saúde ou educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, com a faculdade de delegação, em órgãos de organismos públicos especializados para o efeito, quando a natureza técnica das matérias o justifique.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -186,7 +264,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -198,7 +278,9 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...].
 
@@ -208,7 +290,9 @@ d) [...].
 
 4 - No caso de cisão, as garantias dos credores não devem ser reduzidas, sendo o processo de cisão antecedido de parecer do membro do Governo Regional responsável pela área da segurança social, saúde ou educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, ao qual compete verificar a existência de credores.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -218,7 +302,9 @@ d) [...].
 
 4 - (Revogado.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -240,17 +326,23 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Para garantir a continuidade das respostas sociais, pode o membro do Governo Regional responsável pela área da segurança social, da saúde ou da educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, requisitar, sem prejuízo dos direitos de terceiro sobre tais bens, os bens afetos às atividades das instituições para serem utilizados com o mesmo fim e na mesma área por outras instituições ou por serviços oficiais, quando as instituições se extingam ou suspendam o exercício de atividades e se verifique que os beneficiários são por esse motivo gravemente prejudicados.
 
 2 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 O membro do Governo Regional responsável pela área da segurança social, da saúde ou da educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, pode atribuir a organismos públicos especializados o desempenho de parte das suas funções, quando a natureza técnica das matérias o justifique.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - [...].
 
@@ -272,11 +364,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de fevereiro de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 11 de março de 2020.**
+Assinado em 11 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1133,3 +1225,5 @@ As federações são agrupamentos de instituições que prossigam atividades con
 ###### Artigo 91.º — Convenções coletivas de trabalho
 
 As uniões, federações e confederações podem, querendo, ser consideradas entidades com capacidade para negociação de convenções coletivas de trabalho aplicáveis às instituições nelas filiadas e aos trabalhadores representados pelas associações sindicais outorgantes.
+
+113135635

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/09100/08750878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1977-139770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b054a7ea6bffe3ba911062507be42b145b8083792e209f0952206e5c01546f81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89d28f60cb82f7e669466d3a756c786a875c020348ac0c7b8de2337163218112
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Regional
+- Definição de Competências
+- Gestão Financeira
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:564206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369865:por
+  label: "Alterados os arts. 5.º, 6.º, 7.º, 8.º, 9.º e a al. b) do n.º 2 do art. 16.º e aditados os arts. 6.º-A e 17.º-A ao\
+    \ pelo DRG.19/79/M.15.09.1979.ARM, DR.IS [214] de 15.09.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/19-1979-369865
+  date: '1979-09-15'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:564206:por
+  label: "Revogado pelo DRG.19/81/M.01.10.1981.ARM, DR.IS [226] de 01.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/19-1981-564206
+  date: '1981-10-01'
 article_structure:
   article_count: 23
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:13Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +202,7 @@ d) Serviço de Biblioteca e Arquivo.
 
 ###### Artigo 8.º — (Pessoal com habilitações superiores)
 
-**O chefe de secretaria e os auditores serão nomeados mediante concurso entre licenciados com curso superior adequado ao desempenho das respectivas funções.**
+O chefe de secretaria e os auditores serão nomeados mediante concurso entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
 ###### Artigo 9.º — (Requisitos de provimento do restante pessoal do quadro)
 
@@ -296,14 +318,14 @@ Este diploma entra em vigor na data da sua publicação.
 
 Quadro a que se refere o n.º 1 do artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09100/08750878.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09100/08750878.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09100/08750878.pdf)
 
 Aprovado em sessão plenária de 1 de Março de 1977.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 18 de Março de 1977.**
+Assinado em 18 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

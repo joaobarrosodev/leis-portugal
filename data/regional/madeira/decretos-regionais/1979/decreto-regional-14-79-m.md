@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: add6ee1764a458fbf085999bfd9b1419e4f0b4e6aca6b489a56a32dea0a8d78a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2e656c31be5f2d71181af2983733a0f9b3d57aa45c6285256c14e672c46492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abate de Árvores
+- Arborização
+- Indemnização
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Pinheiro
+relationships:
+- type: cites
+  target: pt:dre:250780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:24Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +104,24 @@ Por outro lado, o sentido de várias disposições do mesmo diploma suscita dúv
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º O § único do artigo 1.º do [Decreto Regional n.º 9/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1977-250780), de 14 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O § único do artigo 1.º do [Decreto Regional n.º 9/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1977-250780), de 14 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
 § único. Exceptuam-se do disposto neste artigo as plantações e sementeiras no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiveram radicadas e dos terrenos dos vizinhos é a arborização com aquela espécie.
 
-###### Art. 2.º O artigo 3.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do mesmo diploma passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.
+Art. 3.º - 1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.
 
 2 - O exercício do direito previsto no número anterior dá lugar a indemnização, nos termos da legislação em vigor.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 19 de Julho de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 2 de Agosto de 1979.**
+Assinado em 2 de Agosto de 1979.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

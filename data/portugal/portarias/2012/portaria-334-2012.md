@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/334/2012/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-2012-192453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46cf9a9bbbc5775e6f9a45a4cee692d8ce5be023127d2aa9f52ec524366a2afe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33dcc941703be1563bfbaaf3136afe1b5fbf26a4dbdd338beb38e61449be1a04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Interconexão de Dados
+- Certidão de Óbito
 - Criança
-- Sistema de Informação dos Certificados de Óbito
 - Exame Médico-forense
 - FETO Morto
 - Formulário Eletrónico
-- Certidão de Óbito
+- Interconexão de Dados
 - Óbito
+- Sistema de Informação dos Certificados de Óbito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15/2012/04/03/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/193/1999/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/193/1999/03/23/p/dre
+- type: cites
+  target: pt:dre:150327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554389:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:36Z'
   warnings: []
   errors: []
 ---
@@ -290,34 +302,34 @@ iv) Contactos, incluindo números de telefone, de telemóvel ou endereço de cor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de outubro de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 2 de outubro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 8 de outubro de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 2 de outubro de 2012.
 
 ## ANEXO I — Modelo de certificado de óbito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 ## ANEXO II — Modelo de cartificado de óbito fetal e neonatal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 ## ANEXO III — Modelo de boletim de informação clínica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 MODELO IV
 
 Modelo do formulário para introdução dos dados resultantes de autópsia clínica ou de autópsia médico-legal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 ## ANEXO V — Modelo do certificado de óbito emitido em suporte de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 ## ANEXO VI — Modelo do certificado de óbito fetal e neonatal emitido em suporte de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
 
 ## ANEXO VII — Modelo de Boletim de Informação Clínica emitido em suporte de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf))](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/20500/0597605979.pdf)

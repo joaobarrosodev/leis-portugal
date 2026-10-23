@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0017900206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/94/2024/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2024-854635724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 748e54e85645a5419087d096d2fd19813810a101b9767cc250f59d91a5ffb53e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d04466cf21406aea75474605564a6f1b51f2a2f5368a3d8674c773815f267e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hemodiálise
-- Regulamentação de Atos Legislativos
 - Enfermagem
 - Especificação Técnica
+- Hemodiálise
 - Licenciamento
 - Manual de Boas Práticas
 - Normas de Construção
@@ -78,6 +77,7 @@ subjects:
 - Nutricionista
 - Pessoal Técnico
 - Recursos Humanos
+- Regulamentação de Atos Legislativos
 - Regulamento Interno
 relationships:
 - type: cites
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:347/2013
+  label: Revoga, a partir de 12 de março de 2024, nos termos do artigo 40.º do presente diploma, a Portaria n.º 347/2013,
+    de 28 de novembro, Diário da República n.º 231/2013, Série I
+  source: null
+  date: '2013-11-28'
 article_structure:
   article_count: 43
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:44Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +146,7 @@ O protelamento da publicação das portarias que regulamentam o [Decreto-Lei n.�
 
 Assim:
 
-Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os</sup>1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.os1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -484,7 +502,7 @@ a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do
 
 b) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.
 
-4 - O disposto nos n.<sup>os</sup>2 e 3 deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+4 - O disposto nos n.os2 e 3 deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
 
 ### CAPÍTULO IV — Recursos humanos
 
@@ -716,7 +734,7 @@ d) Ensino e acompanhamento de doentes e cuidadores no âmbito da alimentação e
 
 15 - A zona de armazenagem de medicamentos, quando exista, deve ser apenas acessível a profissionais autorizados, estar identificada e dispor de monitorização das condições de temperatura e humidade.
 
-16 - As unidades para hemodiálise na modalidade de cuidados aligeirados estão dispensadas do cumprimento dos n.<sup>os</sup>10 a 12.
+16 - As unidades para hemodiálise na modalidade de cuidados aligeirados estão dispensadas do cumprimento dos n.os10 a 12.
 
 ###### Artigo 35.º — Qualidade da água
 
@@ -822,7 +840,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 1 de março de 2024.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — (a que se refere o artigo 39.º)
 
@@ -832,29 +850,29 @@ Compartimentos a considerar:
 
 Unidade para hemodiálise na modalidade de cuidados diferenciados
 
-| Designação | Função do compartimento | Área útilmínima (m<sup>2</sup>) | Larguramínima (m) | Observações |
+| Designação | Função do compartimento | Área útilmínima (m2) | Larguramínima (m) | Observações |
 | --- | --- | --- | --- | --- |
-| Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) |
+| Área de acolhimento (**) |  |  |  |  |
 | Receção/secretaria | Secretaria com zona de atendimento de público. | – | – | – |
 | Zona de arquivo | Manutenção e conservação de arquivo documental de processos clínicos. | – | – | – |
 | Zona de espera | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria) | – | – | Junto à receção/secretaria. |
 | Instalação sanitária de público a) | – | – | – | Acessível a pessoas de mobilidade condicionada. |
 | Macas/cadeiras de rodas | Arrumação de macas e cadeiras de rodas. | – | – | – |
-| Área assistencial | Área assistencial | Área assistencial | Área assistencial | Área assistencial |
+| Área assistencial |  |  |  |  |
 | Vestiário de utentes | – | – | – | Com zona de cacifos. Se existirem mais de cinco postos, devem ser separados por género. |
 | Instalação sanitária de utentes a) | – | – | – | Acessível a pessoas de mobilidade condicionada. |
 | Gabinete de consulta | Elaboração da história clínica dos utentes e observação. | 10 | – | – |
 | Sala de hemodiálise | Para hemodiálise, em sala aberta, com posto de enfermagem e com zona para crianças (se houver pediatria). | 1,80 m × 2,5 m/posto | – | Deve ser considerado espaço adicional para posto de enfermagem, zona de pesagem de utentes (se integrada na sala de hemodiálise) e circulação. |
 | Gabinete de ensino/treino | Tratamento e ensino | 12 | – | Se a unidade estiver licenciada para diálise peritoneal, hemodiálise na modalidade de cuidados aligeirados ou hemodiálise domiciliária.Com bancada de preparação de medicação e posto de enfermagem. |
 | Sala de pensos | Para pensos e outros tratamentos | 14 | – | Se existir. |
-| Zona de tratamentos dedicado (se existir) (*) | Zona de tratamentos dedicado (se existir) (*) | Zona de tratamentos dedicado (se existir) (*) | Zona de tratamentos dedicado (se existir) (*) | Zona de tratamentos dedicado (se existir) (*) |
+| Zona de tratamentos dedicado (se existir) (*) |  |  |  |  |
 | Vestiário de utentes | – | – | – | Com instalação sanitária. |
 | Sala de hemodiálise | Para hemodiálise de utentes com infeção pelo VHB ou outra patologia que requeira tratamento em unidade de isolamento. | 1,80 m × 2,5 m/posto | – | Deve ser considerado espaço adicional para posto de enfermagem, zona de pesagem de utentes (se integrada na sala de hemodiálise) e circulação. |
 | Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos e de material de limpeza. | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. Deve ser garantida a separação física entre o material de limpeza e os sujos. |
-| Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) |
+| Área de pessoal (**) |  |  |  |  |
 | Instalação sanitária de pessoal | – |  | – | – |
 | Vestiário de pessoal | – | – | – | Com zona de cacifos. |
-| Área logística (**) | Área logística (**) | Área logística (**) | Área logística (**) | Área logística (**) |
+| Área logística (**) |  |  |  |  |
 | Copa | Preparação de refeições ligeiras | – | – | A área prevista deve garantir a funcionalidade da sala e dos equipamentos. |
 | Depósito de medicamentos | – | – | – | Dispensável se existir farmácia centralizada na unidade. |
 | Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de material de limpeza e despejos. | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. Deve ser garantida a separação física entre o material de limpeza e os sujos. |
@@ -870,20 +888,20 @@ Unidade para hemodiálise na modalidade de cuidados diferenciados
 
 Unidade para hemodiálise na modalidade de cuidados aligeirados
 
-| Designação | Função do compartimento | Área útilmínima (m<sup>2</sup>) | Larguramínima (m) | Observações |
+| Designação | Função do compartimento | Área útilmínima (m2) | Larguramínima (m) | Observações |
 | --- | --- | --- | --- | --- |
-| Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) | Área de acolhimento (**) |
+| Área de acolhimento (**) |  |  |  |  |
 | Receção/secretaria | Secretaria com zona de atendimento de público. | – | – | – |
 | Zona de arquivo | Manutenção e conservação de arquivo documental de processos clínicos. | – | – | – |
 | Zona de espera | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria) | – | – | Junto à receção/secretaria. |
 | Instalação sanitária de público a) | – | – | – | Acessível a pessoas de mobilidade condicionada. |
-| Área assistencial | Área assistencial | Área assistencial | Área assistencial | Área assistencial |
+| Área assistencial |  |  |  |  |
 | Vestiário de utentes | – | – | – | Com zona de cacifos. Se existirem mais de cinco postos, devem ser separados por género. |
 | Instalação sanitária de utentes a) | – | – | – | Acessível a pessoas de mobilidade condicionada. |
 | Sala de hemodiálise | Para hemodiálise, em sala aberta, com posto de enfermagem e com zona para crianças (se houver pediatria). | 1,80 m × 2,5 m/posto | – | Deve ser considerado espaço adicional para posto de enfermagem, zona de pesagem de utentes (se integrada na sala de hemodiálise) e circulação. Lotação máxima: 10 postos. |
-| Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) | Área de pessoal (**) |
+| Área de pessoal (**) |  |  |  |  |
 | Instalação sanitária de pessoal | – | – | – | – |
-| Área logística | Área logística | Área logística | Área logística | Área logística |
+| Área logística |  |  |  |  |
 | A unidade para hemodiálise na modalidade de cuidados aligeirados deve dispor de condições que permitam o armazenamento de material de consumo e de separação de sujos de acordo com as boas práticas. |  |  |  |  |
 | Unidade de tratamento de água | – | – | – | Não deve ter luz natural. |
 | Sala de concentrado ácido | Para produção e distribuição da solução de concentrado ácido. | – | – | Facultativo. |
@@ -916,26 +934,26 @@ Unidade de hemodiálise
 
 |  | Sala de pensos (se existir) | Sala de hemodiálise (inclui sala paratratamento de utentescom infeção pelo VHB, se existir) | Depósito de medicamentos (se existir) |
 | --- | --- | --- | --- |
-| Tratamento | VC/UI (<sup>2</sup>) | VC/UI/UTA (<sup>2</sup>), (<sup>3</sup>), (<sup>6</sup>) | VC/UI (<sup>2</sup>), (<sup>4</sup>). |
-| Filtragem do ar novo | ISO Coarse ≥ 45 %+ ISO ePM10 ≥ 50 % + ePM1 ≥ 50 % (<sup>5</sup>) | ISO Coarse ≥ 45 %+ ISO ePM10 ≥ 50 % + ePM1 ≥ 50 % (<sup>5</sup>) | – |
-| Sobrepressão/subpressão | Subpressão | Equilíbrio (<sup>1</sup>) | Sobrepressão. |
-| Caudal de ar novo | 35 m<sup>3</sup>/h. p | 35 m<sup>3</sup>/h.p | 2 Ren/h. |
+| Tratamento | VC/UI (2) | VC/UI/UTA (2), (3), (6) | VC/UI (2), (4). |
+| Filtragem do ar novo | ISO Coarse ≥ 45 %+ ISO ePM10 ≥ 50 % + ePM1 ≥ 50 % (5) | ISO Coarse ≥ 45 %+ ISO ePM10 ≥ 50 % + ePM1 ≥ 50 % (5) | – |
+| Sobrepressão/subpressão | Subpressão | Equilíbrio (1) | Sobrepressão. |
+| Caudal de ar novo | 35 m3/h. p | 35 m3/h.p | 2 Ren/h. |
 | Diferencial de temperatura | – | máximo 8° C em frio | – |
 | Recirculação | Sim | Sim | – |
-| Extração | – | Sim, forçada (<sup>1</sup>) | Sim, forçada (<sup>1</sup>). |
+| Extração | – | Sim, forçada (1) | Sim, forçada (1). |
 | Condições ambiente | Verão: máximo 25° CInverno: mínimo 22° C | Verão: máximo 25° CInverno: mínimo 22° C | 18 a 25° C. |
 
-(<sup>1</sup>) Se existir sala de isolamento a mesma deve estar em subpressão.
+(1) Se existir sala de isolamento a mesma deve estar em subpressão.
 
-(<sup>2</sup>) UTA - Unidade de tratamento de ar; VC - Ventiloconvector; UI - Unidade de indução, todos eles equipamentos de permuta térmica ar-água;
+(2) UTA - Unidade de tratamento de ar; VC - Ventiloconvector; UI - Unidade de indução, todos eles equipamentos de permuta térmica ar-água;
 
-(<sup>3</sup>) No caso de existir uma sala aberta tratamento pode ser realizado por uma UTA.
+(3) No caso de existir uma sala aberta tratamento pode ser realizado por uma UTA.
 
-(<sup>4</sup>) Poderá em alternativa ser instalado uma unidade de expansão direta (split), contudo deve-se cumprir as exigências da norma NP EN 378-1.
+(4) Poderá em alternativa ser instalado uma unidade de expansão direta (split), contudo deve-se cumprir as exigências da norma NP EN 378-1.
 
-(<sup>5</sup>) Filtragem da unidade de tratamento de ar novo (UTAN) ou UTA.
+(5) Filtragem da unidade de tratamento de ar novo (UTAN) ou UTA.
 
-<sup>(</sup><sup>6</sup>) Deve ser assegurado que a velocidade de projeto nos difusores seja menor que 0,25 m/s nos cadeirões/cama onde são realizados os tratamentos, de forma a evitar que ocorra corrente de ar sobre os pacientes.
+(6) Deve ser assegurado que a velocidade de projeto nos difusores seja menor que 0,25 m/s nos cadeirões/cama onde são realizados os tratamentos, de forma a evitar que ocorra corrente de ar sobre os pacientes.
 
 Ventiloconvector; UI - Unidade de indução, todos eles equipamentos de permuta térmica ar-água; split), contudo deve-se cumprir as exigências da norma NP EN 378-1.
 
@@ -943,16 +961,16 @@ Nota
 
 Devem ser realizados ensaios de qualidade do ar interior com periodicidade anual e os respetivos relatórios devem estar disponíveis para consulta no estabelecimento. Em unidades novas, estes relatórios devem ser apresentados à Entidade Reguladora da Saúde três meses após a entrada em funcionamento do estabelecimento.
 
-| Ventilação - Compartimentos diversos | Ventilação - Compartimentos diversos |
+| Ventilação - Compartimentos diversos |  |
 | --- | --- |
-| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. | Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |
-| Sala de sujos e despejos | 10 ren/h (<sup>1</sup>) |
-| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE (*) (<sup>1</sup>) |
-| Copa | 10 ren/h (<sup>1</sup>) |
+| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |  |
+| Sala de sujos e despejos | 10 ren/h (1) |
+| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE (*) (1) |
+| Copa | 10 ren/h (1) |
 
 (*) SCE - Sistema de Certificação Energética dos Edifícios.
 
-(<sup>1</sup>) O sistema de "sujos" deve ser independente do de "limpos".
+(1) O sistema de "sujos" deve ser independente do de "limpos".
 
 Notas gerais
 
@@ -966,16 +984,16 @@ Requisitos mínimos a considerar:
 
 Número mínimo de tomadas a considerar:
 
-| Local | O<sub>2</sub> | Aspiração |
+| Local | O2 | Aspiração |
 | --- | --- | --- |
 | Sala de observação/tratamentos | l/sala | l/sala |
-| Sala de pensos (<sup>1</sup>) | 1/posto | 1/posto |
+| Sala de pensos (1) | 1/posto | 1/posto |
 
-(<sup>1</sup>) As tomadas são exigidas apenas no caso de a unidade estar integrada em unidade de saúde com outras valências que careçam de gases medicinais e de vácuo. Em caso contrário, apenas é necessária a existência de garrafa de oxigénio (1/20 postos de hemodiálise), e de aparelho de aspiração, portáteis (1/30 postos de hemodiálise), em cada sala.
+(1) As tomadas são exigidas apenas no caso de a unidade estar integrada em unidade de saúde com outras valências que careçam de gases medicinais e de vácuo. Em caso contrário, apenas é necessária a existência de garrafa de oxigénio (1/20 postos de hemodiálise), e de aparelho de aspiração, portáteis (1/30 postos de hemodiálise), em cada sala.
 
-(<sup>2</sup>) Inclui sala de tratamento de utentes com infeção pelo VHB.
+(2) Inclui sala de tratamento de utentes com infeção pelo VHB.
 
-(<sup>3</sup>) Deve cumprir, no mínimo, os requisitos estabelecidos na portaria de cirurgia de ambulatório (sala tipo A).
+(3) Deve cumprir, no mínimo, os requisitos estabelecidos na portaria de cirurgia de ambulatório (sala tipo A).
 
 Requisitos especiais:
 
@@ -1014,22 +1032,22 @@ As instalações e equipamentos elétricos devem satisfazer as regras e regulame
 
 | Serviço/compartimento | Sistema de sinalizaçãode chamada e alarme | Alimentação de socorro(iluminação geral) | Alimentação de socorro(tomadas de correntee alimentações especiais) |
 | --- | --- | --- | --- |
-| Área de acolhimento | Área de acolhimento | Área de acolhimento | Área de acolhimento |
+| Área de acolhimento |  |  |  |
 | Receção/secretaria | – | a) | – |
 | Zona de espera | – | a) | – |
 | I. S. | a) | a) | – |
 | Macas/cadeiras de rodas | – | a) | – |
 | Vestiário de utentes | a) | a) | – |
-| Área assistencial | Área assistencial | Área assistencial | Área assistencial |
+| Área assistencial |  |  |  |
 | Gabinete de consulta | – | a) | – |
 | Sala de hemodiálise | b) | a) | a), c) |
 | Sala de pensos | b) | a) | a), c) |
-| Área técnica/clínica de isolamento | Área técnica/clínica de isolamento | Área técnica/clínica de isolamento | Área técnica/clínica de isolamento |
+| Área técnica/clínica de isolamento |  |  |  |
 | Sala de hemodiálise | a) | a) | a), c) |
 | Sala de sujos e despejos | – | a) | – |
-| Área de pessoal | Área de pessoal | Área de pessoal | Área de pessoal |
+| Área de pessoal |  |  |  |
 | Vestiário de pessoal c/I. S. | – | a) | – |
-| Área logística | Área logística | Área logística | Área logística |
+| Área logística |  |  |  |
 | Roupa limpa | – | a) | – |
 | Depósito de material | – | a) | – |
 | Material de consumo | – | a) | d) |
@@ -1085,43 +1103,45 @@ Requisitos mínimos a considerar:
 
 | Serviço/compartimento | Equipamento sanitário |
 | --- | --- |
-| Instalação sanitária de público | Instalação sanitária de público |
+| Instalação sanitária de público |  |
 | Antecâmara (se existir) | Lavatório (recomendável). |
-| Cabine de retrete | Lavatório e bacia de retrete (<sup>2</sup>). |
-| Instalação sanitária de utentes (<sup>1</sup>) | Instalação sanitária de utentes (<sup>1</sup>) |
+| Cabine de retrete | Lavatório e bacia de retrete (2). |
+| Instalação sanitária de utentes (1) |  |
 | Antecâmara (se existir) | Lavatório (recomendável). |
-| Cabine de retrete | Lavatório e bacia de retrete (<sup>2</sup>). |
-| Instalação sanitária de pessoal | Instalação sanitária de pessoal |
+| Cabine de retrete | Lavatório e bacia de retrete (2). |
+| Instalação sanitária de pessoal |  |
 | Antecâmara (se existir) | Lavatório (recomendável). |
-| Cabine de retrete | Lavatório e bacia de retrete (<sup>2</sup>). |
-| Gabinete de consulta | Lavatório (<sup>3</sup>). |
+| Cabine de retrete | Lavatório e bacia de retrete (2). |
+| Gabinete de consulta | Lavatório (3). |
 | Sala de pensos (se existir) | Tina de bancada. |
-| Vestiário de utentes | Vestiário de utentes |
-| Cabine de retrete | Lavatório e bacia de retrete (<sup>2</sup>). |
-| Zona de desinfeção de pessoal | Tina de desinfeção (<sup>3</sup>). |
+| Vestiário de utentes |  |
+| Cabine de retrete | Lavatório e bacia de retrete (2). |
+| Zona de desinfeção de pessoal | Tina de desinfeção (3). |
 | Vestiário de pessoal | Lavatório. |
 | Cabine de retrete | Lavatório e bacia de retrete. |
 | Cabine de duche | Tina de duche. |
-| Sala de hemodiálise (<sup>6</sup>) | Lavatório (<sup>3</sup>). |
-| Gabinete de ensino/treino | Lavatório (<sup>3</sup>). |
+| Sala de hemodiálise (6) | Lavatório (3). |
+| Gabinete de ensino/treino | Lavatório (3). |
 | Copa | Tina de bancada. |
-| Sala de sujos e despejos | Lavatório (<sup>3</sup>) e pia hospitalar. |
-| Unidade de tratamento de água | (<sup>4</sup>), (<sup>5</sup>). |
+| Sala de sujos e despejos | Lavatório (3) e pia hospitalar. |
+| Unidade de tratamento de água | (4), (5). |
 
-(<sup>1</sup>) Se existirem mais de 10 postos, devem ser separados por sexos.
+(1) Se existirem mais de 10 postos, devem ser separados por sexos.
 
-(<sup>2</sup>) Com acessórios para pessoas com mobilidade condicionada.
+(2) Com acessórios para pessoas com mobilidade condicionada.
 
-(<sup>3</sup>) Com torneiras de comando não manual.
+(3) Com torneiras de comando não manual.
 
-(<sup>4</sup>) Com pontos de água e de esgoto.
+(4) Com pontos de água e de esgoto.
 
-(<sup>5</sup>) O tratamento de água deve satisfazer a legislação em vigor e as condições constantes no Manual de Boas Práticas de Diálise.
+(5) O tratamento de água deve satisfazer a legislação em vigor e as condições constantes no Manual de Boas Práticas de Diálise.
 
-(<sup>6</sup>) Na sala de hemodiálise para utentes com infeção pelo VHB, os monitores de hemodiálise não podem estar ligados à rede de retorno, devendo a sua água ser drenada diretamente para a rede de águas residuais.
+(6) Na sala de hemodiálise para utentes com infeção pelo VHB, os monitores de hemodiálise não podem estar ligados à rede de retorno, devendo a sua água ser drenada diretamente para a rede de águas residuais.
 
 ## ANEXO VII — (a que se refere o artigo 39.º)
 
 Equipamento médico e equipamento geral
 
 A unidade de hemodiálise deve dispor de todos os equipamentos necessários à realização dos exames e tratamentos, em número e condições adequadas à atividade que desenvolve, tendo por referência o previsto no Manual de Boas Práticas de Diálise. Deve existir uma listagem dos equipamentos com a indicação do estado de funcionamento (em serviço, fora de serviço, em reparação, etc.) a qual deve estar permanentemente atualizada e ser disponibilizada quando solicitada por entidades competentes.
+
+117429438

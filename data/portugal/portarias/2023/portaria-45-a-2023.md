@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 30/2023, 1º Suplemento, Série I de 2023-02-10
   number: '30'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 256-(4) a 256-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03001/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45-a/2023/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-a-2023-207352777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6be5462f60231613576df8c1eec1390de2372bbef3964f0eaa72a861884a0f66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3ab0ecd0370ab82b77438ba6ae2ada9400f36a06496268d8604bfd8fae88a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ subjects:
 - Ajuda Alimentar
 - Ajuda de Custo de VIDA
 - Ajudas Sociais Pecuniárias
-- Luta contra a Pobreza
-- Pobreza
-- Financiamento
-- Pagamento
-- Assistência Social
-- Insuficiência Económica
-- Orçamento Geral do Estado
 - Alimentação
+- Assistência Social
+- Financiamento
+- Insuficiência Económica
+- Luta contra a Pobreza
+- Orçamento Geral do Estado
+- Pagamento
+- Pobreza
+- Programa Operacional de Apoio às Pessoas Mais Carenciadas
 - Segurança Social
 - Subsídio
 - Subsídio Complementar
 - Subsídio não Reembolsável
-- Programa Operacional de Apoio às Pessoas Mais Carenciadas
 relationships:
 - type: amended_by
   target: pt:dre:213069632:por
@@ -95,16 +95,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629416:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:213069632:por
+  label: Revogada pelo(a) Portaria n.º 133/2023 - Diário da República n.º 93/2023, Série I de 2023-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-2023-213069632
+  date: '2023-05-15'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:21Z'
   warnings: []
   errors: []
 ---
@@ -173,4 +186,6 @@ A presente portaria entra em vigor à data da sua assinatura.
 
 Em 10 de fevereiro de 2023.
 
-**A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes.**
+A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes.
+
+116163448

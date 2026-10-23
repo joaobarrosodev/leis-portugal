@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/04400/0119301197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/97/2013/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2013-259265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8e247cf67774ace300e2920be80b4434e9755127ba44e38de0252f44a036cf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73775939f63a10f20824949eca4f6de8757ea8b1f26af57eebe26f381bf88ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Ajuda Comunitária
-- Financiamento
-- Instituto do Emprego e Formação Profissional
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
-- Rectificação de Entidade Emitente
-- Instituto de Informática
-- TAXA Social Unica
-- Criação de Emprego
-- Mercado de Emprego
 - Emprego
+- Financiamento
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
+- Pequenas e Médias Empresas
+- Política de Emprego
 - Programa de Emprego
 - Promoção de Emprego
-- Política de Emprego
+- Rectificação de Entidade Emitente
 - Reembolso
-- Pequenas e Médias Empresas
+- TAXA Social Unica
 relationships:
 - type: amended_by
   target: pt:dre:546030:por
@@ -124,16 +124,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3-a/2013/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3-a/2013/01/04/p/dre
+- type: cites
+  target: pt:dre:249068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:258754:por
+  label: "Retificada, relativamente ao emissor, que passa a ser o Ministério da Economia e do Emprego, pela DECL-RECT.14/2013.11.03.2013.PCM,\
+    \ DR.IS [49] de 11.03.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/14-2013-258754
+  date: '2013-03-11'
+- type: repealed_by
+  target: pt:dre:546030:por
+  label: "Revogada, a partir de 19.07.2013, a Port 3-A/2013 de 04-jan, com a redação e republicação constante do presente\
+    \ diploma, pela PORT.204-A/2013.18.06.2013.MEE, DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para\
+    \ aquele diploma, nos termos do disposto no nº 2 do seu art. 13º, as remissões legais ou regulamentares efetuadas para\
+    \ este diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-a-2013-546030
+  date: '2013-06-18'
 article_structure:
-  article_count: 22
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:29Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +218,9 @@ b) Outro desempregado inscrito no centro de emprego ou centro de emprego e forma
 
 4 - Considera-se que o tempo de inscrição no centro de emprego ou centro de emprego e formação profissional referido nos números anteriores não é prejudicado pela frequência de estágio profissional, formação profissional ou outra medida ativa de emprego, com exceção das medidas de apoio direto à contratação ou que visem a criação do próprio emprego.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -176,7 +228,9 @@ b) Outro desempregado inscrito no centro de emprego ou centro de emprego e forma
 
 3 - Podem ainda candidatar-se à presente Medida as empresas que tenham iniciado processo especial de revitalização, previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março e alterado pelos Decretos-Leis n.os [200/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2004-480702), de 18 de agosto, [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de março, [282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385), de 7 de agosto, [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, e [185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), de 12 de agosto e pela [Lei n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/lei/16-2012-552804), de 20 de abril, devendo entregar ao IEFP, I.P. cópia certificada da decisão a que se refere a alínea a) do n.º 3 do artigo 17.º-C do CIRE, mesmo que não preencham o requisito previsto na alínea c) do n.º 1.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -198,7 +252,9 @@ b) [...].
 
 8 - [Anterior n.º 7].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O empregador que celebre contrato de trabalho ao abrigo da Medida tem direito, durante o período máximo de 18 meses ou durante o período de duração inicial do contrato a termo resolutivo certo, no caso de contratos com duração inicial inferior a 18 meses, ao reembolso, total ou parcial, do valor da TSU paga mensalmente pelo mesmo relativamente a cada trabalhador, nos seguintes termos:
 
@@ -208,7 +264,9 @@ b) [...].
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos de obtenção do apoio, o empregador apresenta a candidatura à Medida no portal "NetEmprego" do IEFP, I. P., em www.netemprego.gov.pt, através do registo da oferta de emprego, podendo identificar o desempregado que pretende contratar.
 
@@ -224,7 +282,9 @@ b) [...].
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O pagamento do apoio é efetuado de forma fasea-da, consoante a duração do contrato de trabalho, nos termos seguintes:
 
@@ -244,7 +304,9 @@ iii. A terceira prestação, no montante remanescente, é paga após o fim do pe
 
 2 - Os pagamentos referidos no número anterior estão sujeitos à verificação da manutenção dos requisitos necessários à atribuição do apoio, definidos no n.º 1 do artigo 3.º e no n.º 1 do artigo 4.º.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O empregador perde o direito ao reembolso da TSU no caso de incumprimento da obrigação de manutenção do nível de emprego, prevista na alínea b) do n.º 4 do artigo 4.º.
 
@@ -254,7 +316,9 @@ iii. A terceira prestação, no montante remanescente, é paga após o fim do pe
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Os limites previstos no n.º 8 do artigo 4.º e no n.º 2 do artigo 5.º não são aplicáveis a empregador que apresente projeto considerado de interesse estratégico para a economia nacional ou de determinada região, e que como tal seja reconhecido, a título excecional, por despacho do membro do Governo responsável pela área da economia.»
 
@@ -266,7 +330,7 @@ Os limites previstos no n.º 8 do artigo 4.º e no n.º 2 do artigo 5.º não s�
 
 A presente portaria produz efeitos à data de entrada em vigor da [Portaria n.º 3-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2013-249068), de 4 de janeiro.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 26 de fevereiro de 2013.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 26 de fevereiro de 2013.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

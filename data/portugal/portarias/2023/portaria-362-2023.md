@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22100/0001200033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/362/2023/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-2023-224268556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721f1085641da0b8fd48cdd23dfeac12949095f8c02d3eccf302f0d76b3aeaf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6f97c8910a897c29faaa15125ce61e0a7d341be4df0fa1bf832134b4e34f978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ subjects:
 - Comando Territorial
 - Criação de Serviços
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - GNR
 - Orgânica
 - Posto Fiscal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/221/2020/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/221/2020/09/21/p/dre
+- type: cites
+  target: pt:dre:143189706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:50Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +179,9 @@ Os artigos 4.º a 6.º, 7.º-A e 10.º da [Portaria n.º 1450/2008](https://diar
 
 4 - (Revogado.)
 
-###### Artigo 5.º — Unidade de Controlo Costeiro e de Fronteiras
+Artigo 5.º
+
+Unidade de Controlo Costeiro e de Fronteiras
 
 1 - A Unidade de Controlo Costeiro e de Fronteiras (UCCF) é constituída por destacamentos, que se articulam em subdestacamentos ou postos, integrados nas seguintes subunidades:
 
@@ -165,7 +195,9 @@ c) Grupo de Vigilância e Apoio.
 
 3 - Integram, ainda, a UCCF o Centro de Comando e Controlo Operacional (CCCO), o Centro Nacional de Coordenação EUROSUR (European Border Surveillance System) e o Centro de Desenvolvimento Tecnológico.
 
-###### Artigo 6.º — Unidade de Ação Fiscal
+Artigo 6.º
+
+Unidade de Ação Fiscal
 
 1 - A Unidade de Ação Fiscal (UAF) compreende as seguintes subunidades:
 
@@ -175,7 +207,9 @@ b) Destacamentos de ação fiscal, que se articulam localmente em subdestacament
 
 2 - [...]
 
-###### Artigo 7.º-A — Unidade de Emergência de Proteção e Socorro
+Artigo 7.º-A
+
+Unidade de Emergência de Proteção e Socorro
 
 1 - [...]
 
@@ -193,7 +227,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 10.º — Serviços
+Artigo 10.º
+
+Serviços
 
 Compete ao comandante-geral definir a estrutura, as competências e o efetivo dos serviços a que se referem o n.º 3 do artigo 2.º e o n.º 3 do artigo 4.º, bem como:
 
@@ -209,7 +245,7 @@ Os anexos i, ii, iii e iv a que se referem, respetivamente, o n.º 4 do artigo 3
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos na data de entrada em vigor do [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, que cria a Agência para a Integração, Migrações e Asilo, I. P.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 9 de novembro de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 9 de novembro de 2023.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1728,3 +1764,5 @@ b) Subdestacamento de Apoio Técnico Operativo.»
 13) Companhia de Ataque Estendido 24.
 
 14) Companhia de Intervenção e Proteção em Emergência 31.»
+
+117048243

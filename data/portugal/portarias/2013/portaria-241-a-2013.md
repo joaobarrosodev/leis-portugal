@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 146/2013, 1º Suplemento, Série I de 2013-07-31
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4518-(2) a 4518-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241-a/2013/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-a-2013-220558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4775b0adb6d882a417ba969319ce1f1619ab5bb688ec25fea73d1d8ea41ac7e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e07df7722736ce4cb465a4aaff0075b48fa0354c96b9baba8d55cdc1525caca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Atividade Transitária
 - ÁREA Metropolitana
+- Atividade Transitária
 - Autoridade Metropolitana de Transportes
-- Inspeção Geral de Finanças
 - Compensação Financeira
 - Contrato de Concessão
-- Transporte Ferroviário
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
 - Empresa Transitária
 - Fiscalização
 - Fixação de Preços
-- Lisboa
-- Pagamento
+- Inspeção Geral de Finanças
 - Instituto da Mobilidade e dos Transportes
+- Lisboa
 - Otlis-operadores de Transportes da Região de Lisboa
+- Pagamento
 - Passe Social
 - Preço
-- Serviço Público
 - Regime Jurídico
+- Serviço Público
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: cites
   target: celex:32007R1370
   label: null
   source: http://data.europa.eu/eli/reg/2007/1370/oj
+- type: repealed_by
+  target: pt:dre:121403393:por
+  label: Revogada pelo(a) Portaria n.º 84/2019 - Diário da República n.º 58/2019, Série I de 2019-03-22 nos termos do seu
+    art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-2019-121403393
+  date: '2019-03-22'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:21Z'
   warnings: []
   errors: []
 ---
@@ -281,19 +287,19 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 31 de julho de 2013.
 
-**O Secretário de Estado do Tesouro, Joaquim Pais Jorge. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.**
+O Secretário de Estado do Tesouro, Joaquim Pais Jorge. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
 
 ## ANEXO — (n.º 6 do artigo 12.º)
 
 1- O zonamento do território para os efeitos previstos na presente Portaria é o representado no mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf)
 
 2- Os limites geográficos pormenorizados e as paragens incluídas em cada zona são os constantes em despacho do Presidente do Conselho Executivo da AMTL, publicitado no sítio da internet da AMTL.
 
 3- As tipologias, abrangências geográficas e preços de venda ao público dos passes intermodais são as fixadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14601/0000200006.pdf)
 
 4- Todos os passes intermodais são disponibilizados nas modalidades normal, criança, terceira idade e reformado/pensionista, bem como 4-18, Sub23 e Social +, nos termos da legislação aplicável.
 

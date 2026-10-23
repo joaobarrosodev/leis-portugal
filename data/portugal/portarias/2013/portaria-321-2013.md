@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/321/2013/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4a61462071226cbba4a96da793ec17848c50ad63e27f744e42d509ee6446b42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ee8c42635304e1ea81e761452241d6d12ea5fbec29220b19e005d12fead502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Tecnológico
-- Formação Profissional
 - Certificação Profissional
 - Conselho Científico
 - Conselho Pedagógico
-- Plano de Estudos
 - Curso de Formação
 - Direção Geral da Administração Escolar
-- Direcção Geral da Educação
-- TIC
 - Direção Geral de Estatísticas da Educação e Ciência
+- Direcção Geral da Educação
+- Educação Permanente
+- Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Formação Profissional
+- Pessoal Docente
+- Plano de Estudos
+- Plano Tecnológico
 - Política de Educação
 - Sistema de Informação
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Educação Permanente
-- Ensino Básico
-- Educação Pré-escolar
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/731/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/731/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:1148201:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:47Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +138,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 8.º, 9.º, 10.º, 11.º e 12.º da Portaria 
 
 2 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O sistema de formação e certificação em competências TIC tem os seguintes objetivos:
 
@@ -148,7 +154,9 @@ d) Facilitar a integração da formação no percurso formativo de cada docente;
 
 e) Aprofundar o referencial de competências TIC através do recurso à inovação e inspiração nas melhores práticas.
 
-###### Artigo 3.º — Formação em competências TIC
+Artigo 3.º
+
+Formação em competências TIC
 
 1 - A formação em competências TIC estrutura-se em ações de formação organizadas em três níveis:
 
@@ -160,7 +168,9 @@ c) [...]
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A formação em competências pedagógicas e profissionais em TIC é composta pela frequência, no mínimo, do conteúdo de uma das seguintes alíneas:
 
@@ -186,7 +196,9 @@ c) A emissão do parecer é da responsabilidade de uma equipa, constituída por 
 
 d) A lista de ações de formação com parecer positivo é divulgada no Portal das Escolas (https://www.portaldasescolas.pt/).
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -214,7 +226,9 @@ ii) [...]
 
 iii) [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -232,13 +246,17 @@ i) Formador certificado pelo Conselho Científico-Pedagógico da Formação Cont
 
 ii) Formador certificado no âmbito do PTE para, pelo menos, uma das ações de formação constantes nos anexos II e III e que, cumulativamente, tenha orientado um mínimo de três daqueles cursos ou oficinas de formação.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1- [...]
 
 2 - O certificado de competências avançadas em TIC na educação pode ser atribuído aos docentes portadores de diplomas de mestrado ou doutoramento na área de educação e formação das Ciências da Educação (142), de acordo com a Classificação Nacional das Áreas de Educação e Formação, nos termos a definir por despacho conjunto da Direção-Geral de Estatísticas da Educação e Ciência, Direção-Geral da Administração Escolar e da Direção-Geral da Educação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A atribuição de certificados previstos no presente diploma compete aos diretores dos centros de formação de associações de escolas, com exceção dos previstos no n.º 7 do presente artigo.
 
@@ -262,7 +280,9 @@ a) Os comprovativos da formação requerida são remetidos à Direção-Geral da
 
 b) O Diretor-Geral da Administração Escolar emite parecer fundamentado e decide pela atribuição ou não do certificado requerido.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O acompanhamento e a monitorização do sistema de formação e certificação de competências TIC são efetuados no âmbito da equipa constituída pelos elementos designados pela Direção-Geral de Estatísticas da Educação e Ciência, Direção-Geral da Administração Escolar e da Direção-Geral da Educação.
 
@@ -276,7 +296,7 @@ São revogados a Portaria n.º 224/2010 de 20 de abril e os Despachos n.º 1264/
 
 São republicados na íntegra a Portaria n.º 731/2009, de 7 de julho, e os seus anexos da qual fazem parte integrante.
 
-**O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 26 de agosto de 2013.**
+O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 26 de agosto de 2013.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -286,7 +306,7 @@ Modalidade: Cursos de formação
 
 Duração: 15 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -296,7 +316,7 @@ Modalidade: Cursos de formação
 
 Duração de cada curso: 15 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 Oficinas de formação contínua - Competências pedagógicas e profissionais com TIC (nível 2), cuja cedência deve ser solicitada à Direção-Geral da Administração Escolar (DGAE).
 
@@ -304,7 +324,7 @@ Modalidade: Oficina de Formação
 
 Duração: 15 horas de trabalho presencial e 15 horas trabalho autónomo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 ## ANEXO III — (a que se refere o artigo 8.º)
 
@@ -508,7 +528,7 @@ Modalidade: Cursos de formação
 
 Duração: 15 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -518,7 +538,7 @@ Modalidade: Cursos de formação
 
 Duração de cada curso: 15 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 Oficinas de formação contínua - Competências pedagógicas e profissionais com TIC (nível 2), cuja cedência deve ser solicitada à Direção-Geral da Administração Escolar (DGAE).
 
@@ -526,7 +546,7 @@ Modalidade: Oficina de Formação
 
 Duração: 15 horas de trabalho presencial e 15 horas trabalho autónomo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630806315.pdf)
 
 ## ANEXO III — (a que se refere o artigo 8.º)
 

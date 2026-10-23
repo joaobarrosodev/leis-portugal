@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/384/2012/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-2012-191284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 229348e906b6d9336bc2b9415a244f8c75c08e471ac91c3d50ab9ed5921cb77a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7efa9907c457072c0ab82476e32c9ec3554b347b6585437a6f695d75b5ae96be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Higiene do Trabalho
+- Autoridade para as Condições do Trabalho
 - Definição de Competências
-- Segurança no Trabalho
-- Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Diplomas
+- Habilitações Literárias
+- Higiene do Trabalho
 - Livre Circulação de Pessoas
 - Pessoal Técnico Superior de Segurança e Higiene do Trabalho
 - Prestação de Serviços
 - Profissão Independente
 - Qualificação Profissional
-- Equivalência de Diplomas
-- Autoridade para as Condições do Trabalho
+- Segurança no Trabalho
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:53Z'
   warnings: []
   errors: []
 ---
@@ -149,4 +149,4 @@ b) Técnico de Segurança no Trabalho.»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 9 de novembro de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 9 de novembro de 2012.

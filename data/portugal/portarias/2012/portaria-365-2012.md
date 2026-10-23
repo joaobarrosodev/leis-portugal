@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/365/2012/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-2012-191510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b35c93b441c0fbac053e99edc0bc4642fddfd173674f657572ac1fe4e56a87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c660ba86aa43947bc8c5a2ce8b4f0c17a2805f8f7d7f12c069ecbdbab42a33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:315502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:47Z'
   warnings: []
   errors: []
 ---
@@ -176,4 +192,4 @@ O apoio logístico necessário ao funcionamento da Comissão de Proteção é as
 
 O disposto na presente portaria produz efeitos a partir de 7 de dezembro de 2011, data do início de funções da Comissão de Proteção de Crianças e Jovens de Monchique.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.

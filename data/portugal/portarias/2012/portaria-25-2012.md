@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01900/0047700478.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/25/2012/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-2012-544429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d96f6faeee6ea03db6cfd990e1a75cb3f15a95d68fd2473a99a995ba8be1c446
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f47feb1991b9ae9aa7ab1333a26131ff77fe55e3726db621f9940be7798968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Navegação Aérea
-- Transporte Aéreo
 - Faro
-- Lisboa
 - Horta
 - ILHA das Flores
-- NAV Portugal
-- Ponta Delgada
-- Porto Santo
+- Lisboa
 - Madeira.região Autónoma
+- NAV Portugal
+- Navegação Aérea
+- Ponta Delgada
+- Porto
+- Porto Santo
 - Regulamento CE
 - Taxa Aeroportuária
 - Tráfego Aéreo
-- Porto
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:258724:por
@@ -94,16 +94,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/124/2010/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/124/2010/03/01/p/dre
+- type: repealed_by
+  target: pt:dre:258724:por
+  label: "Revogada pela PORT.62/2013.12.02.2013.MEE, DR.IS [30] de 12.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2013-258724
+  date: '2013-02-12'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:10Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +155,4 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2012.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 19 de janeiro de 2012.**
+O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 19 de janeiro de 2012.

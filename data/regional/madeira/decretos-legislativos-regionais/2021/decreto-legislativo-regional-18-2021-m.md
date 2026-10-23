@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14500/0007600083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2021/07/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2021-168475297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be96c95fb8eb44a64b04b8fd99367ab0d4373a3f948848ea6a7b4e4d2012a7ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81351a25c62894ad6b12ac5ddc1dc71409647c2f0e0390ea2e1d8fbfb96fdee3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects:
 - Acreditação
 - Aguardente
 - Bebida Alcoólica
-- Indicação Geográfica
-- Contra-ordenação
-- Região Demarcada
-- Etiquetagem
-- Instituto do Vinho Bordado e do Artesanato da Madeira
-- Produção
-- Madeira.região Autónoma
 - Comércio
+- Contra-ordenação
+- Etiquetagem
+- Indicação Geográfica
+- Instituto do Vinho Bordado e do Artesanato da Madeira
+- Madeira.região Autónoma
+- Produção
+- Região Demarcada
 - Vinha
 relationships:
 - type: cites
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:278188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:29Z'
   warnings: []
   errors: []
 ---
@@ -282,11 +302,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 15 de julho de 2021.**
+Assinado em 15 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -294,7 +314,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Representação cartográfica da área geográfica da IG «Rum da Madeira»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/14500/0007600083.pdf))](https://files.diariodarepublica.pt/1s/2021/07/14500/0007600083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/14500/0007600083.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 7.º)
 
@@ -317,3 +337,5 @@ Extrato seco total (g/l):
 (igual ou menor que) 20 (rum envelhecido) (1).
 
 (1) A título excecional para o «Rum da Madeira» envelhecido que apresente qualidade destacada, é aceite um teor de extrato seco total superior, de acordo com parecer positivo emitido pela Câmara de Provadores e após autorização expressa do Conselho Diretivo do IVBAM, IP-RAM.
+
+114424159

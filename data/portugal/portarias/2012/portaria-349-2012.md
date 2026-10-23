@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/349/2012/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-2012-191537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd263bf09f722c0b408f59f24ccf61c18beba9c9a7892066cc5730116eaf14f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf57d8b42907c7777027b71850f5218a1285e2ebe0c3c4ed7d3fe321db48c461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Formação Profissional
 - Carreira Profissional
+- Formação Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Pessoal de Inspecção
+- Recrutamento de Pessoal
 - Regulamento
-- Gestão de Recursos Humanos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:42Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +157,7 @@ Ao abrigo do n.º 2 do artigo 5.º do [Decreto-Lei n.º 170/2009](https://diario
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de outubro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 28 de agosto de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de outubro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 28 de agosto de 2012.
 
 ## ANEXO
 

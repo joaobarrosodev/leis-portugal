@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/24700/0685406858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/363/2013/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-2013-483958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d480b1e319b43ad307150717062b9fdb5c131cabc598dba733628c20cd09abea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2541ae48934e96065474d80f8a7523ca8277e778518f97284487593719b8cf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Código do IRC
 - Código do IRS
+- Contribuições e Impostos
 - Declaração de Rendimentos
 - Formulário Eletrónico
 - Impresso
-- Contribuições e Impostos
+- IRC
 - IRS
 - Pessoa Coletiva
 - Pessoa Singular
 - Sistema de Informação
-- IRC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
@@ -86,16 +86,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314/2011/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65983233:por
+  label: Revogadas as instruções de preenchimento do Modelo 10 pelo(a) Portaria n.º 274/2014 - Diário da República n.º 248/2014,
+    Série I de 2014-12-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2014-65983233
+  date: '2014-12-24'
+- type: repealed_by
+  target: pt:dre:70804091:por
+  label: Revogada, a partir de 01.01.2016, pelo(a) Portaria n.º 383/2015 - Diário da República n.º 209/2015, Série I de 2015-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-2015-70804091
+  date: '2015-10-26'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:02Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +169,6 @@ c) Efetuar o envio de acordo com os procedimentos indicados na referida página.
 
 Os impressos aprovados pela presente portaria devem ser utilizados a partir de 1 de janeiro de 2014.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24700/0685406858.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24700/0685406858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24700/0685406858.pdf)

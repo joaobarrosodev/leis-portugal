@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10000/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137/2023/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b1a9b45e2d89e620fb8fbf754a7534bc474495a40ebd1351edac136e275151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccd63d11614ed719e7f77626fd719147e94ef3a3f41b72ebccef80f239fe6b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
-- Recursos Hídricos
+- Águas Subterrâneas
 - Gestão dos Recursos
 - Proteção do Ambiente
-- Zona de Proteção
-- Águas Subterrâneas
+- Recursos Hídricos
 - Sines
-- Abastecimento de Água
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1084345990:por
@@ -87,16 +87,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/119/2015/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/119/2015/04/30/p/dre
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67120689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1084345990:por
+  label: Revogada, a partir de 14 de abril de 2026, pelo(a) Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2026-1084345990
+  date: '2026-04-13'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:27Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +141,15 @@ Assim, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 382/99](https://
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 29 de março de 2023.**
+O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 29 de março de 2023.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º da [Portaria n.º 119/2015](https://diariodarepublica.pt/dr/detalhe/portaria/119-2015-67120689), de 30 de abril)
 
 Coordenadas das captações
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Polo de captação | Captação | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Santo André/Monte Chãos... | AdSA02 (505/68)... | - 56531,34 | - 177044,74 |
 |  | AdSA03 (505/69)... | - 56928,02 | - 176811,85 |
 |  | AdSA04 (505/171)... | - 56771,83 | - 176904,80 |
@@ -142,15 +160,15 @@ Coordenadas das captações
 | Porto Peixe... | AdSA07 (505/173)... | - 55883,83 | - 174623,52 |
 |  | AdSA08 (505/174)... | - 56688,61 | - 174500,22 |
 |  | AdSA09 (505/175)... | - 56771,14 | - 174722,26 |
-| Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). | Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). | Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). | Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). |
+| Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). |  |  |  |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º da [Portaria n.º 119/2015](https://diariodarepublica.pt/dr/detalhe/portaria/119-2015-67120689), de 30 de abril)
 
 Zona de proteção imediata
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Captação | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | AdSA02 Judia (505/68)... | 1... | - 56536,07 | - 177045,03 |
 |  | 2... | - 56527,14 | - 177040,86 |
 |  | 3... | - 56524,76 | - 177045,63 |
@@ -203,9 +221,9 @@ Zona de proteção intermédia
 
 Polo de captação - Santo André/Monte Chãos
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Captações | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | AdSA02 Judia (505/68)... | 1... | - 57972,56 | - 176753,34 |
 | AdSA03 Moinho Novo (505/69)... | 2... | - 57642,57 | - 176506,36 |
 | AdSA04 Várzea (505/171)... | 3... | - 56638,59 | - 176238,38 |
@@ -229,9 +247,9 @@ Polo de captação - Santo André/Monte Chãos
 
 Polo de captação - Porto Peixe
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Captações | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | AdSA07 Carregueira (505/173)... | 1... | - 57024,61 | - 174974,42 |
 | AdSA08 Porto Peixe (505/174)... | 2... | - 57068,61 | - 174805,42 |
 | AdSA09 Porto Peixe (505/175)... | 3... | - 57033,61 | - 174709,42 |
@@ -259,9 +277,9 @@ Polo de captação - Santo André/Monte Chãos e Polo de captação - Porto Peix
 
 AdSA02 Judia (505/68), AdSA03 Moinho Novo (505/69), AdSA04 Várzea (505/171), AdSA05 Judia (505/46), AdSA06 Moinho Novo (505/172), AdSA10 Galiza (505/47), AdSA11 Monte Velho (505/37), AdSA07 Carregueira (505/173), AdSA08 Porto Peixe (505/174), AdSA09 Porto Peixe (505/175)
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | - 50649,70 | - 181600,21 |
 | 2... | - 50487,70 | - 181609,21 |
 | 3... | - 50374,70 | - 181606,21 |
@@ -451,9 +469,9 @@ Polo de captação - Santo André/Monte Chãos e Polo de captação - Porto Peix
 
 AdSA02 Judia (505/68), AdSA03 Moinho Novo (505/69), AdSA04 Várzea (505/171), AdSA05 Judia (505/46), AdSA06 Moinho Novo (505/172), AdSA10 Galiza (505/47), AdSA11 Monte Velho (505/37), AdSA07 Carregueira (505/173), AdSA08 Porto Peixe (505/174), AdSA09 Porto Peixe (505/175)
 
-|  |  |  |
-| --- | --- | --- |
 | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | - 57944,66 | - 171687,53 |
 | 2... | - 56931,65 | - 172329,51 |
 | 3... | - 54540,66 | - 173439,48 |
@@ -497,9 +515,9 @@ QUADRO I
 
 Coordenadas dos piezómetros de controlo da cunha salina
 
-|  |  |  |
-| --- | --- | --- |
 | Piezómetro | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
 | AdSApz01 (505/176) - Moinho Novo... | - 57323,58 | - 176325,37 |
 | AdSApz02 (505/177) - Porto Peixe... | - 57043,61 | - 174450,43 |
 | AdSApz03 (505/178) - Monte Velho... | - 58267,57 | - 175560,38 |
@@ -510,9 +528,9 @@ QUADRO II
 
 Qualidade da água
 
-|  |  |  |
-| --- | --- | --- |
 | Piezómetro | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
 | Temperatura... | ºC | - |
 | Condutividade... | (mi)S/cm | 2500 |
 | pH... | E. Sorensen | 5,5-9,0 |
@@ -531,20 +549,31 @@ Planta de Localização das Zonas de Proteção
 
 Zonas de Proteção Alargada e Especial
 
-![](https://files.diariodarepublica.pt/images/213435108/213461879.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461879.png) |
+| --- |
 
 Zonas de Proteção Imediata
 
-![](https://files.diariodarepublica.pt/images/213435108/213461880.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461880.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/213435108/213461881.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461881.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/213435108/213461882.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461882.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/213435108/213461883.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461883.png) |
+| --- |
 
 Zonas de Proteção Intermédia
 
-![](https://files.diariodarepublica.pt/images/213435108/213461884.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461884.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/213435108/213461885.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461885.png) |
+| --- |
+
+116467303
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; }

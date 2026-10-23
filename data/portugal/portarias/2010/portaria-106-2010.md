@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106/2010/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca454f156f00ee09589b0bf673081ee020bd021fb79baab15fd13855eb8e1e9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a99da74a4a91456280c74295567d1737a9b312894a0e3cc5523cf12048fd0d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,137 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio à Projectos Piloto e a Transformação de Embarcações de Pesca
-- Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca Locais de Desembarque e de Abrigo
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Publicidade
-- Investigação Científica e Tecnológica
-- Mudança Tecnológica
-- Direcção Regional de Agricultura e Pescas
-- Equipamento de Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
-- IFAP
-- Investimento
 - Aquicultura
 - Artes de Pesca
+- Comércio
+- Direcção Regional de Agricultura e Pescas
+- Embarcação de Pesca
+- Equipamento de Pesca
+- IFAP
+- Intervenção Operacional Pescas
+- Investigação Científica e Tecnológica
+- Investimento
+- Mudança Tecnológica
 - Produto de Aquicultura
 - Produtos de Pesca
 - Programa Comunitário
+- Projeto de Investimento
+- Publicidade
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
-- Embarcação de Pesca
+- Regulamento do Regime de Apoio à Projectos Piloto e a Transformação de Embarcações de Pesca
+- Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca Locais de Desembarque e de Abrigo
+- Regulamento do Regime de Apoio às Acções Colectivas
 - Subsídio não Reembolsável
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:502864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306892:por
+  label: "Altera o art. 15º do anexo iii da Port 828-A/2008, de 08-Ago, na redacção da presente portaria, pela PORT.1237/2010.13.12.2010.MADRP,\
+    \ DR.IS [239] de 13.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1237-2010-306892
+  date: '2010-12-13'
+- type: amended_by
+  target: pt:dre:671040:por
+  label: "Alterado o art. 13º do Regulamento do Regime de Apoio às Acções Colectivas, aprovado pela Port 719-C/2008, de 31-Jul,\
+    \ na redacção do presente diploma, pela PORT.271/2011.22.09.2011.MAMAOT, DR.IS [183] de 22.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2011-671040
+  date: '2011-09-22'
+- type: amended_by
+  target: pt:dre:146210:por
+  label: "Alterado o art. 15º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13 de Junho, na redacção do presente\
+    \ diploma, pela PORT.298/2011.18.11.2011.MAMAOT, DR.IS [222] de 18.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2011-146210
+  date: '2011-11-18'
+- type: amended_by
+  target: pt:dre:1272217:por
+  label: "Determinada a interrupção, na região não abrangida pelo objetivo de convergência no Continente, do período para\
+    \ apresentação de candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13-Jun, na redação\
+    \ da presente portaria, pelo DESP.641/2012.17.01.2012.AGP-MAMAOT, DR.IIS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/641-2012-1272217
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:177793:por
+  label: "Alterado o art. 15º do Regulamento do Regime de Apoio aos Investimentos Produtivos na Aquicultura, aprovado pela\
+    \ Port 424-B/2008, de 13-jun, na redação do presente diploma, pela PORT.178/2012.31.05.2012.MAMAOT, DR.IS [106] de 31.05.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2012-177793
+  date: '2012-05-31'
+- type: amended_by
+  target: pt:dre:179277:por
+  label: "Alterado o art. 12º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais, aprovado pela Port 719-B/2008, de 31-jul, na redação do presente diploma, pela PORT.226/2012.01.08.2012.MAMAOT,\
+    \ DR.IS [148] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2012-179277
+  date: '2012-08-01'
+- type: amended_by
+  target: pt:dre:257662:por
+  label: "Alterado o art. 13º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008, de 31-jul,\
+    \ pela PORT.60/2013.11.02.2013.MAMAOT, DR.IS [29] de 11.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-2013-257662
+  date: '2013-02-11'
+- type: amended_by
+  target: pt:dre:258363:por
+  label: "Alterado o art. 14º do Regulamento do Regime de Apoio a Projetos Piloto e à Transformação de Embarcações de Pesca,\
+    \ aprovado pela Port 723-A/2008, de 01-ago, na redação da presente portaria, pela PORT.81/2013.25.02.2013.MAMAOT, DR.IS\
+    \ [39] de 25.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-2013-258363
+  date: '2013-02-25'
+- type: amended_by
+  target: pt:dre:2433736:por
+  label: "Determinada a cessação da interrupção, na região abrangida pelo objetivo de convergência no Continente, do período\
+    \ para apresentação das candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Port 424-C/2008, de 13-Jun, com as alterações\
+    \ introduzidas pelo presente diploma, pelo DESP.9713/2013.24.07.2013.AGP-MAMAOT, DR.IIS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9713-2013-2433736
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:503051:por
+  label: "Alterado o art. 17º da Port 424-F/2008, de 13-jun, na redação do presente diploma, e republicado pela PORT.312/2013.21.10.2013.MAGM,\
+    \ DR.IS [203] de 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-2013-503051
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:503059:por
+  label: "Alterado o art. 15º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura, aprovado pela Port. 424-C/2008, de 13-jun, na redação do presente diploma, pela\
+    \ PORT.308/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2013-503059
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:503060:por
+  label: "Alterado o art. 15º do Regulamento do Regime de Apoio aos Investimentos Produtivos na Aquicultura, aprovado pela\
+    \ Port. 424-B/2008, de 13-jun, na redação do presente diploma, pela PORT.309/2013.21.10.2013.MAGM, DR.IS [203] de 21.10.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2013-503060
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:502863:por
+  label: "Alterado o art 12.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais, aprovado pela Port 719-B/2008, de 31-jul, na redação do presente diploma, pela PORT.313/2013.22.10.2013.MAGM,\
+    \ DR.IS [204] de 22.10.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2013-502863
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:502864:por
+  label: "Alterado o art. 13.º do Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca, Locais de Desembarque\
+    \ e de Abrigo, aprovado pela Port 719-A/2008 de 31-jul, na redação do presente diploma, pela PORT.316/2013.22.10.2013.MAGM,\
+    \ DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-2013-502864
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:502865:por
+  label: "Alterado o art. 13º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008, de 31-jul,\
+    \ na redação do presente diploma, pela PORT.315/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -136,16 +238,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/828
   label: null
   source: http://data.dre.pt/eli/port/828
+- type: cites
+  target: pt:dre:158471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551631:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:54Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12200/0327103278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2017/06/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74e628dc9d4d52ac60b6a0057fa19fb363e8210762f7b6ec01cb4e9a622f1eb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd16f3940fdf585bb4a2acaa86a9244439469d8ae0274beb69882cbed5d2cc58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo no Espaço Rural
+- Aldeamento Turístico
 - Apartamento Turístico
-- Livro de Reclamações
-- Garantia
-- Turismo
-- Governo Regional
+- CASA de Campo
 - Contra-ordenação
 - Definição de Competências
-- Turismo de Natureza
 - Direcção Regional de Turismo
 - Diretor Regional
 - Estabelecimento Hoteleiro
-- Segurança Pública
 - Fiscalização
-- Interesse para o Turismo
-- Licenciamento
-- Moradia Turística
-- Aldeamento Turístico
-- Parque de Campismo
-- Prestação de Serviços
-- Madeira.região Autónoma
-- Proteção do Consumidor
-- Regime Jurídico
-- CASA de Campo
+- Garantia
+- Governo Regional
 - Hotel Rural
-- Turismo de Habitação
 - Infraestrutura Turística
 - Instituto das Florestas e Conservação da Natureza
+- Interesse para o Turismo
+- Licenciamento
+- Livro de Reclamações
+- Madeira.região Autónoma
+- Moradia Turística
+- Parque de Campismo
+- Prestação de Serviços
+- Proteção do Consumidor
+- Regime Jurídico
+- Segurança Pública
+- Turismo
+- Turismo de Habitação
+- Turismo de Natureza
+- Turismo no Espaço Rural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2014/01/23/p/dre
@@ -132,16 +132,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179162:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 29
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:09Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +226,9 @@ Os artigos 1.º a 6.º, 8.º a 12.º, 14.º e 16.º a 20.º do [Decreto Legislat
 
 3 - A regulamentação do [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação é aplicável à Região Autónoma da Madeira, salvo se o Governo Regional da Madeira, de acordo com as competências previstas no presente diploma, proceder à respetiva adaptação ou à aprovação de regulamentação própria.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -202,7 +240,9 @@ Os artigos 1.º a 6.º, 8.º a 12.º, 14.º e 16.º a 20.º do [Decreto Legislat
 
 5 - [Revogado].
 
-###### Artigo 3.º — Noção, exploração e tipologias de empreendimentos turísticos
+Artigo 3.º
+
+Noção, exploração e tipologias de empreendimentos turísticos
 
 1 - Consideram-se empreendimentos turísticos os estabelecimentos que se destinam a prestar serviços de alojamento, mediante remuneração, dispondo, para o seu funcionamento, de um adequado conjunto de estruturas, equipamentos e serviços complementares.
 
@@ -234,7 +274,9 @@ h) Parques de campismo e caravanismo.
 
 5 - Podem ser definidos por portaria do membro do Governo Regional responsável pela área do turismo requisitos específicos da instalação, classificação e funcionamento de cada tipo de empreendimento turístico referido no número anterior.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os empreendimentos turísticos cujo edificado assente num ou mais prédios preexistentes, com características e valor, seja cultural, patrimonial, arquitetónico ou artístico, que espelhem uma identidade de época na história da Madeira, podem ser classificados como Quintas da Madeira.
 
@@ -252,7 +294,9 @@ b) Privilegiar o diálogo entre a arquitetura contemporânea e o património edi
 
 6 - As Quintas da Madeira classificam-se nas categorias de quatro ou cinco estrelas, atendendo à qualidade das suas características específicas e gerais e aos serviços que ofereçam, sendo-lhes aplicável os requisitos de instalação, classificação e funcionamento dos hotéis, com as mesmas categorias.
 
-###### Artigo 5.º — Agroturismo
+Artigo 5.º
+
+Agroturismo
 
 1 - Na Região Autónoma da Madeira, são empreendimentos de agroturismo os imóveis que através da reconstrução, reabilitação ou ampliação de construções existentes, assegurem a sua integração na envolvente e possuam explorações de agricultura biológica que permitam aos hóspedes o acompanhamento e conhecimento da atividade agrícola, ou a participação nos trabalhos aí desenvolvidos, de acordo com as regras estabelecidas pelo seu responsável.
 
@@ -260,13 +304,17 @@ b) Privilegiar o diálogo entre a arquitetura contemporânea e o património edi
 
 3 - Em termos de ocupação do solo as unidades de agroturismo devem cumprir com um rácio mínimo de 80 % de solo afeto à exploração agrícola, calculado com base na área total do empreendimento, excetuando a área de implantação da edificação principal preexistente.
 
-###### Artigo 6.º — Equipamentos e Serviços Complementares
+Artigo 6.º
+
+Equipamentos e Serviços Complementares
 
 1 - Quando empreendimentos turísticos localizados em contiguidade territorial e explorados pela mesma entidade ofereçam instalações, equipamentos e serviços, com capacidade de oferta suficiente e passíveis de utilização comum, podem ser dispensados dos correspondentes requisitos obrigatórios exigidos para a atribuição de classificação individual a cada um dos empreendimentos.
 
 2 - O disposto no número anterior poderá ser aplicável a empreendimentos turísticos com categorias diferentes, desde que os espaços de utilização comum reúnam as características de instalações e equipamentos e prestem os serviços em vigor para o empreendimento de categoria superior existente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 25.º do [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, qualquer pedido de informação prévia apresentado na câmara municipal referente a empreendimentos turísticos, exceto para parques de campismo e caravanismo, carece de parecer da Direção Regional do Turismo para verificação da conformidade da pretensão constante do pedido com o Programa de Ordenamento Turístico da Região Autónoma da Madeira.
 
@@ -278,7 +326,9 @@ b) Privilegiar o diálogo entre a arquitetura contemporânea e o património edi
 
 5 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -290,13 +340,17 @@ b) Privilegiar o diálogo entre a arquitetura contemporânea e o património edi
 
 5 - [...].
 
-###### Artigo 10.º — Comunicação da autorização de utilização para fins turísticos
+Artigo 10.º
+
+Comunicação da autorização de utilização para fins turísticos
 
 1 - Sem prejuízo do disposto no artigo 30.º do [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, a câmara municipal deve dar conhecimento à Direção Regional do Turismo da atribuição de autorização de utilização para fins turísticos e da emissão do respetivo alvará, no prazo de quinze dias a contar da emissão do mesmo.
 
 2 - Caducada a autorização de utilização para fins turísticos, o respetivo título válido de abertura é cassado e apreendido pela câmara municipal, a pedido da Direção Regional do Turismo, com exceção dos parques de campismo e de caravanismo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Na Região Autónoma da Madeira, a atribuição, confirmação, ou alteração de classificação dos empreendimentos turísticos previstos no artigo 3.º, exceto os parques de campismo e caravanismo, é da competência da Direção Regional do Turismo.
 
@@ -314,11 +368,15 @@ b) Privilegiar o diálogo entre a arquitetura contemporânea e o património edi
 
 8 - [Revogado].
 
-###### Artigo 12.º — Obras
+Artigo 12.º
+
+Obras
 
 Todas as obras e remodelações, incluindo as isentas de licenciamento municipal, que impliquem um aumento da capacidade de alojamento dos empreendimentos turísticos, nos termos previstos no artigo 29.º do diploma em adaptação, carecem de prévia declaração de conformidade, a emitir pela Direção Regional do Turismo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo de disposição legal ou contratual, nomeadamente no tocante à atribuição de utilidade turística ou de financiamentos públicos, os empreendimentos turísticos podem estabelecer livremente os seus períodos de funcionamento, devendo, com uma antecedência mínima de três dias à sua implementação, comunicar à Direção Regional do Turismo a sua fixação inicial ou posteriores alterações.
 
@@ -326,7 +384,9 @@ Todas as obras e remodelações, incluindo as isentas de licenciamento municipal
 
 3 - O período de funcionamento dos empreendimentos turísticos deve ser devidamente publicitado e afixado em local visível ao público no exterior do empreendimento, exceto quando o empreendimento esteja aberto todos os dias do ano.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os empreendimentos devem possuir um livro de reclamações destinado aos clientes nos termos e nas condições fixadas no regime jurídico que estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens e prestadores de serviços que tenham contacto com o público em geral.
 
@@ -340,7 +400,9 @@ c) [...]
 
 d) [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Compete à Direção Regional do Turismo fiscalizar o cumprimento do disposto no [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, e no presente diploma, sem prejuízo das competências das câmaras municipais.
 
@@ -348,7 +410,9 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo das contraordenações previstas no [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, para efeitos do disposto no presente diploma constituem contraordenações:
 
@@ -372,11 +436,15 @@ g) [revogada].
 
 4 - Nas contraordenações previstas no presente artigo a negligência é sempre punível.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A aplicação das coimas e das sanções acessórias, previstas no [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, e no presente diploma competem ao diretor regional do turismo.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O produto das coimas aplicadas pela Direção Regional do Turismo por infração ao disposto no presente diploma e no [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, na sua atual redação, bem como o produto de eventuais taxas em vigor neste setor constituem receita da Região Autónoma da Madeira.»
 
@@ -410,11 +478,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira de 11 de maio de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 6 de junho de 2017.**
+Assinado em 6 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -582,7 +650,9 @@ Todas as obras e remodelações, incluindo as isentas de licenciamento municipal
 
 2 - Por portaria do membro do Governo Regional responsável pela área do turismo são definidas as condições de atribuição das menções distintivas de qualidade.
 
-###### Artigo 16.º — Livro de reclamações
+###### Artigo 16.º
+
+## Livro de reclamações
 
 1 - Os empreendimentos devem possuir um livro de reclamações destinado aos clientes nos termos e nas condições fixadas no regime jurídico que estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens e prestadores de serviços que tenham contacto com o público em geral.
 

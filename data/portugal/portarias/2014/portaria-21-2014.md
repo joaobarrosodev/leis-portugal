@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/21/2014/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21-2014-570724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e71361ad8b609d20989005a49444536ae4baa8b001b1bb70f40efeb11d4ef92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2544956122b630921bbb11a9163630bc9a1ec33c7fe549a130e4e39fb6fb8d3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ subjects:
 - Aluno Militar
 - Chefe do Estado Maior da Armada
 - Conselho Científico
-- Ensino Superior Militar
 - Conselho Disciplinar
+- Conselho do Ensino Superior Militar
 - Conselho Pedagógico
+- Conselho Técnico-científico
 - Definição de Competências
 - Ensino Oficial
-- Conselho do Ensino Superior Militar
+- Ensino Superior
+- Ensino Superior Militar
 - Ensino Superior Politécnico
-- Marinha
 - Escola Naval
+- Estabelecimento de Ensino
 - Estatuto
 - Estudante
-- Conselho Técnico-científico
 - Licenciatura
+- Marinha
+- Militar
 - Orgânica
-- Estabelecimento de Ensino
 - Pessoal Docente
 - Regulamento
-- Ensino Superior
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:1073606542:por
@@ -133,16 +133,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/780/1993/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/780/1993/09/06/p/dre
+- type: cites
+  target: pt:dre:219141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692623:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1073606542:por
+  label: Revogada, a partir de 23 de março de 2026, pelo(a) Decreto Regulamentar n.º 4/2026 - Diário da República n.º 54/2026,
+    Série I de 2026-03-18 nos termos do artigo 88.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2026-1073606542
+  date: '2026-03-18'
 article_structure:
   article_count: 218
-  section_count: 79
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 80
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:34Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +245,7 @@ e) [Portaria n.º 655/94](https://diariodarepublica.pt/dr/detalhe/portaria/655-1
 
 f) [Portaria n.º 493/2003](https://diariodarepublica.pt/dr/detalhe/portaria/493-2003-692623), de 27 de maio.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -1497,7 +1559,9 @@ d) Providenciar os meios necessários à realização das provas e exercícios, 
 
 e) Auxiliar os Comandantes de Companhia no acompanhamento, disciplina, apresentação e atuação dos alunos das suas Companhias.
 
-###### Artigo 60.º — Secção náutica
+###### Artigo 60.º
+
+#### Secção náutica
 
 No âmbito do Gabinete de Aplicação Militar-naval funciona uma secção náutica, sob a chefia de um Oficial nomeado e exonerado pelo Comandante da EN, com o objetivo de desenvolver nos alunos o gosto pela prática de atividades desportivas e recreativas ligadas aos desportos náuticos.
 
@@ -3381,22 +3445,22 @@ QUADRO I
 
 ORGANOGRAMA GERAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
 
 QUADRO II
 
 DIREÇÃO DE ENSINO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
 
 QUADRO III
 
 CORPO DE ALUNOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
 
 QUADRO IV
 
 DEPARTAMENTOS E SERVIÇOS DE APOIO GERAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0076300803.pdf)

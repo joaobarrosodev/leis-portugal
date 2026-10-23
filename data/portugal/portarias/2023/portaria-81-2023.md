@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05800/0001700018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2023/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2023-210531720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f223eefa42bacd097b56004eda8759a011aa50dc9e4fbd0a33eed51c736494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04b594eba8eaa84478ef294b14d1226687b8d78fe5125fe5b3436e26de079f13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Comerciantes
+- Bragança
+- Comércio
 - Comércio a Retalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
 - Convenção Coletiva de Trabalho
-- Vila Real
-- Regulamento de Extensão
 - Indústria de Ourivesaria e Relojoaria
+- Porto
+- Regime Laboral
+- Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
-- Bragança
 - Sindicato
 - Tabela Salarial
-- Comércio
 - Trabalhador por Conta de Outrem
-- Porto
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:38Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +155,6 @@ c) Na área geográfica da convenção, às relações de trabalho entre emprega
 
 2 - A tabela salarial e cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de dezembro de 2022.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 16 de março de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 16 de março de 2023.
+
+116285783

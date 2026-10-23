@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/2010/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-2010-459918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c33eeab5696b17e9f478498bfec6ca0189ed4dd674378ad7ec70309a493738a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f7b129fa175b38bea884afde42e16c5c90af61cae777b648876229df73070b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,10 +71,10 @@ reuse:
 subjects:
 - Comando Territorial
 - Corpo de Intervenção
-- Recrutamento de Pessoal
 - GNR
-- Orgânica
 - Militar
+- Orgânica
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1450/2008/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1450/2008/12/16/p/dre
+- type: cites
+  target: pt:dre:443766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:58Z'
   warnings: []
   errors: []
 ---
@@ -136,4 +144,4 @@ d) ...
 
 A presente portaria produz efeitos desde o dia 1 de Janeiro de 2010.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 29 de Dezembro de 2009.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 29 de Dezembro de 2009.

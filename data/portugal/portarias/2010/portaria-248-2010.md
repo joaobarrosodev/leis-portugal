@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/248/2010/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-2010-614303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e89a5cfbc5868cf659c2c6a56699b9c609c1c675d6e8a6f8c33a6410783490a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa32528c606fbe7aae3ae28cf9ee6eb57e769c3f2e33eae2ab1930e9d302d50c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Bragança
+- CAÇA
 - ZONA de CAÇA
 relationships:
+- type: amends
+  target: pt:numero:portaria:1241/2001
+  label: "Exclui da zona de caça municipal do Sabor, vários terrenos sitos na freguesia do Outeiro, e concessiona, pelo período\
+    \ de 12 anos, à Associação Recreativa de Caça e Pesca da Paradinha de São Miguel, a referida zona de caça, criada pela\
+    \ Portaria n.º 1241/2001, de 26 de Outubro, DR.IS-B [249], renovada pela Portaria n.º 1134/2008, de 9 de Outubro\0\0"
+  source: null
+  date: '2001-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -88,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1134/2008/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1134/2008/10/09/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:15Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +153,6 @@ A zona de caça concessionada pela presente portaria produz efeitos, relativamen
 
 Em 23 de Abril de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/08500/0157901580.pdf))](https://files.diariodarepublica.pt/1s/2010/05/08500/0157901580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/08500/0157901580.pdf)

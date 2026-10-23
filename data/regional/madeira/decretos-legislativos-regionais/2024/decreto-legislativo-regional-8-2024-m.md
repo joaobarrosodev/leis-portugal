@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21800/0000700014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2024/11/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2024-895990770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 937a60d1e2e1011e3cf0af5d19afbc1ed131e7a81db06be563dd048dcdde5715
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bcd06bcaf4f0c0169f67a1f8d20c9841ef6b7cdc944378d27c897775c94deb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auditoria
-- Financiamento
 - Beneficiário
-- Proteção do Ambiente
-- Pessoa Singular
+- Financiamento
 - Madeira.região Autónoma
+- Pessoa Singular
+- Proteção do Ambiente
 - Sistema de Incentivos à Descarbonização dos Transportes Terrestres
 relationships:
 - type: cites
@@ -126,16 +126,48 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:55Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +196,7 @@ Este financiamento público respeita as obrigações decorrentes do regime de mi
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, e da alínea c) do n.º 1 do artigo 37.º, da alínea l) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, e da alínea c) do n.º 1 do artigo 37.º, da alínea l) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -234,7 +266,7 @@ b) Pessoas singulares.
 
 2 - As entidades beneficiárias mencionadas no número anterior devem ter residência ou domicílio fiscal na RAM, comprovado através da apresentação de certidão emitida para o efeito pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM).
 
-3 - São ainda considerados residentes na RAM as pessoas singulares que ali tenham o seu principal centro de interesses, considerando-se como tal o lugar determinável nos termos dos n.<sup>os</sup>3 e 4 do artigo 17.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
+3 - São ainda considerados residentes na RAM as pessoas singulares que ali tenham o seu principal centro de interesses, considerando-se como tal o lugar determinável nos termos dos n.os3 e 4 do artigo 17.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
 
 4 - Considera-se ainda que têm domicílio fiscal na RAM todas as pessoas coletivas que tenham sede ou direção efetiva naquele território e que neste, comprovadamente, obtenham a maior parte dos seus rendimentos.
 
@@ -390,10 +422,12 @@ O presente diploma entra em vigor no dia útil seguinte ao da sua publicação e
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de outubro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 7 de novembro de 2024.**
+Assinado em 7 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118323686

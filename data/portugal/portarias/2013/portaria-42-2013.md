@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2013/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2013-258294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcfceb7c7af02162531667b5343bd0102ca0bea99212943b90fc2c71062d379c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7dec25ce3a0a0a76803ce1ace3fb6b809ba57300ebb091997414c8afcd527f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Adjudicação
 - Aquisição de Bens e Serviços
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
 - Contrato
+- Dados Estatísticos
 - Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Especificação Técnica
-- Dados Estatísticos
+- Ministério da Administração Interna
+- Ministério da Defesa Nacional
 - Obras Públicas
 - Regulamento CE
 relationships:
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:12Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +158,7 @@ iii) O país de origem do adjudicatário.
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 17 de janeiro de 2013. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 28 de dezembro de 2012.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 17 de janeiro de 2013. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 28 de dezembro de 2012.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 2.º)
 
@@ -166,4 +166,4 @@ Contratos celebrados ao abrigo do Decreto-Lei n.º 104/2011, de 6 de outubro
 
 Organismo Público:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0063900640.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0063900640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0063900640.pdf)

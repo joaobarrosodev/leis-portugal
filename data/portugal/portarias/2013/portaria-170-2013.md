@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/170/2013/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2013-260660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbda653a556e93b44c6a4fd01c1002a918666bd2c160c450a098604999e1d835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcdfe419448108af1c59d47b93f087a8120f6ce37233847e032ebe29390e5151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Gestão dos Recursos
-- Pescado
+- Pesca
 - Pesca Fluvial
+- Pescado
 - Rio Guadiana
 relationships:
 - type: amended_by
   target: pt:dre:108107541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572430:por
+  label: "Alterado o art. 1.º pela PORT.63/2014.10.03.2014.MAGM, DR.IS [48] de 10.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-2014-572430
+  date: '2014-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/278/1991/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/278/1991/04/05/p/dre
+- type: cites
+  target: pt:dre:140162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622980:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70485723:por
+  label: Revogada a partir 06.01.2016 pelo(a) Decreto-Lei n.º 222/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08,
+    nos termos do art. 62.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2015-70485723
+  date: '2015-10-08'
+- type: repealed_by
+  target: pt:dre:108107541:por
+  label: Revogada pelo(a) Decreto-Lei n.º 112/2017 - Diário da República n.º 172/2017, Série I de 2017-09-06, nos termos do
+    art. 84.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2017-108107541
+  date: '2017-09-06'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:56Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +161,8 @@ Em todos os cursos de água da sub-bacia hidrográfica da ribeira do Vascão é 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Francisco Ramos Lopes Gomes da Silva, em 18 de abril de 2013.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Francisco Ramos Lopes Gomes da Silva, em 18 de abril de 2013.
 
 ## Anexo — (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08400/0269402694.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08400/0269402694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08400/0269402694.pdf)

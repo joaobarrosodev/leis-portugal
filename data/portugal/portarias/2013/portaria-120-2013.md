@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06000/0187001876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/120/2013/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-2013-260091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee16e18a2ad54784e0f3f9c100e0baadfa583e198ff46396027f3f8e18d57b24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecc6fc074a3b0b31dc1359ba3e543f6f6c826139b608b3fdc319801d20ed7ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
-- Jovem
-- Programa Inov-social
 - Criação de Emprego
-- Programa
 - Emprego
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Política de Emprego
+- Programa
+- Programa Inov-social
 relationships:
 - type: amended_by
   target: pt:dre:546031:por
@@ -122,16 +122,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:249069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3674859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670025:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261158:por
+  label: "Retificados os n.ºs 3 e 4 do art 15.º-A, do anexo da presente Portaria(que constitui uma republicação à Port 92/2011,de\
+    \ 28-fev), pela RECT.24/2013.10.05.2013.PCM, DR.IS [90] de 10.05.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-2013-261158
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:546031:por
+  label: "Revogada, a partir de 19.07.2013, a Port 92/2011 de 28-fev, com a redação e republicação constante do presente diploma,\
+    \ pela PORT.204-B/2013.18.06.2013.MEE, DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma,\
+    \ nos termos do disposto no nº 2 do seu art. 13º, as remissões legais ou regulamentares efetuadas para este diploma.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-b-2013-546031
+  date: '2013-06-18'
 article_structure:
-  article_count: 45
+  article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:38Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +256,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 9.º, 11.º, 13.º, 14.º, 15.º, 15.º
 
 4 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -192,7 +272,9 @@ d) [...];
 
 e) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -208,17 +290,23 @@ d) Os desempregados cujos cônjuges ou pessoas com quem vivam em união de facto
 
 3 - As condições de acesso dos destinatários são aferidas à data da apresentação da candidatura.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Podem candidatar-se ao Programa de Estágios Profissionais pessoas singulares ou coletivas, de direito privado, com ou sem fins lucrativos, e as autarquias locais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
 2 - Podem ainda candidatar-se ao presente programa as empresas que iniciaram processo especial de revitalização, previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, e alterado pelos Decretos-Leis n.os [200/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2004-480702), de 18 de agosto, [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de março, [282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385), de 7 de agosto, [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, e [185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), de 12 de agosto, e pela [Lei n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/lei/16-2012-552804), de 20 de abril, devendo entregar ao Instituto do Emprego e Formação Profissional, I.P. (IEFP), cópia certificada da decisão a que se refere a alínea a) do n.º 3 do artigo 17.º-C do CIRE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -242,11 +330,15 @@ e) Decorrido o prazo de 12, 15, 18 ou 24 meses após o início do estágio, resp
 
 6 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O estágio tem a duração de doze meses, não prorrogáveis, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 15.º-A.
 
-###### Artigo 13.º — Transporte, alimentação e seguro
+Artigo 13.º
+
+Transporte, alimentação e seguro
 
 1 - [...]:
 
@@ -268,7 +360,9 @@ b) Relativamente ao pagamento do prémio devido pelo seguro de acidentes de trab
 
 c) Relativamente às despesas ou ao subsídio de transporte, até aos valores máximos estabelecidos na alínea c) do n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O pagamento do valor correspondente às bolsas de estágio referidas no artigo 12.º é comparticipado pelo IEFP, nos seguintes termos:
 
@@ -286,13 +380,17 @@ iii. No caso de entidades com mais de 10 trabalhadores.
 
 3 - [...].
 
-###### Artigo 15.º — [Efeitos do contrato de estágio]
+Artigo 15.º
+
+[Efeitos do contrato de estágio]
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 8.º, a relação jurídica decorrente da celebração de um contrato de estágio ao abrigo da presente portaria é equiparada, para efeitos de segurança social, a trabalho por conta de outrem, observando-se ainda o disposto no Código do Imposto sobre o Rendimento das Pessoas Singulares.
 
 2 - O IEFP não comparticipa as contribuições devidas à segurança social.
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 1 - [...]:
 
@@ -320,11 +418,15 @@ f) [...].
 
 4 - [Anterior n.º 3].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Os desempregados que se encontrem em alguma das situações previstas no artigo 3.º que frequentem ou tenham frequentado um estágio profissional financiado por fundos públicos, só podem frequentar um novo estágio ao abrigo da presente portaria caso tenham entretanto obtido um novo nível de qualificação nos termos do QNQ ou obtido uma qualificação em área diferente e o novo estágio ser nessa área.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [Revogado].
 
@@ -358,7 +460,7 @@ A presente portaria aplica-se apenas às candidaturas apresentadas após a sua e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 22 de março de 2013.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 22 de março de 2013.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

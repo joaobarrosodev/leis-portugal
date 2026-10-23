@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/214/2012/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/214-2012-179538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b595a17fee344e4afd1ff707e52004e9d88b06ed83181622f201a88d5ad948f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab03d54aad6b754008e9006688a2fda431ad568ea24dfe35686e20dfcef5eb09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
+- Autarquia Local
 - Comissão Consultiva
-- Fundo Sanitário e de Segurança Alimentar mais
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
+- Fundo Sanitário e de Segurança Alimentar mais
 - Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Setor Empresarial do Estado
 - Regulamento de Gestão
-- Autarquia Local
+- Setor Empresarial do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2012/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/119/2012/06/15/p/dre
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:52Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +117,7 @@ Nos termos do n.º 5 do artigo 6.º do [Decreto-Lei n.º 119/2012](https://diari
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de julho de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 13 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de julho de 2012.
 
 ## ANEXO — REGULAMENTO DE GESTÃO DO FUNDO SANITÁRIO E DE SEGURANÇA ALIMENTAR MAIS
 

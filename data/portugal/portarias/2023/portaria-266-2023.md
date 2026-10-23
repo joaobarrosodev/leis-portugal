@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16000/0001500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/266/2023/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-2023-220076076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d9d4c78e7956e32cd6c981b9753c4e718cea72af991f99f74706921109071a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c25a8457b91641830a26b73d48be11e43ecd043a4e7641dad2b20762e435f31c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Regulamentação de Atos Legislativos
 - IPSS
 - Isenção de Taxas e Emolumentos
-- Proteção à Infância
 - Política Social
+- Proteção à Infância
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/39/2022/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/39/2022/01/17/p/dre
+- type: cites
+  target: pt:dre:176907514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215270116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671660:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:16Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +159,6 @@ O artigo 1.º da [Portaria n.º 39/2022](https://diariodarepublica.pt/dr/detalhe
 
 2 - A mera comunicação prévia da reconversão ou do aumento da capacidade estabelecida no artigo 23.º-A da [Portaria n.º 262/2011](https://diariodarepublica.pt/dr/detalhe/portaria/262-2011-671660), de 31 de agosto, na redação atual, está isenta do pagamento das taxas previstas no número anterior.»
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 16 de agosto de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 16 de agosto de 2023.
+
+116781219

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/289/2022/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2022-204234880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e29c67653f9b7b462595be2f1c0bd78484e861cd652224b4a426b4d6d881942f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dcad75c4e674be19606ae29f16a1e68defcaa93044a5d2001465983e17feffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ subjects:
 - Autoridade Tributária e Aduaneira
 - Cobrança de Impostos
 - Código do IRS
-- Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
-- IRS
-- Instruções de Utilização
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Formulário Eletrónico
+- Imposto sobre o Rendimento
+- Instruções de Utilização
+- IRS
 - Página na Internet
 - Pessoa Singular
 - Prazo
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:836079147:por
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/31/2021/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/31/2021/02/10/p/dre
+- type: cites
+  target: pt:dre:156974205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:836079147:por
+  label: Revogado, a partir de 1 de janeiro de 2024, o presente diploma pelo(a) Portaria n.º 3/2024 - Diário da República
+    n.º 2/2024, Série I de 2024-01-03, nos termos do artigo 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-2024-836079147
+  date: '2024-01-03'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:02Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +168,8 @@ c) Efetuar o envio de acordo com os procedimentos indicados na mesma página.
 
 A presente portaria entra em vigor a 1 de janeiro de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 25 de novembro de 2022.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 25 de novembro de 2022.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf)
+
+115923178

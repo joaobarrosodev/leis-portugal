@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11800/0362903630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/240/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-2011-670277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99a9dbedb2497cd30e9c27b4d1a613b5a6bdc613c8308c8b2bb0df819a186b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae48ec0f2bea1fc02bc21ff7ba1176277e702e7448f676c6b6e53c4849c29ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Ministério da Defesa Nacional
+- Avaliação do Pessoal
+- Carreira Profissional
 - Centro Naval de Ensino à Distância
 - Direcção Geral de Pessoal e Recrutamento Militar
-- Ministério da Educação
-- Ensino Oficial
-- Carreira Profissional
-- Ensino Secundário
-- JURI
-- Forças Armadas
-- Pessoal Civil
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
+- Educação Pré-escolar
 - Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Forças Armadas
+- Gestão de Recursos Humanos
+- JURI
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Pessoal Civil
+- Pessoal Docente
+- Pessoal não Docente
 - Progressão na Carreira
 - Promoção Profissional
+- Qualificação Profissional
+- Recurso
 - Regime de Pessoal
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:66727182:por
@@ -106,16 +106,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/2/2010/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/2/2010/06/23/p/dre
+- type: cites
+  target: pt:dre:335222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66727182:por
+  label: Revogada, a partir de 13.03.2015, pelo(a) Portaria n.º 75/2015 - Diário da República n.º 50/2015, Série I de 2015-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-2015-66727182
+  date: '2015-03-12'
 article_structure:
   article_count: 11
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:24Z'
   warnings: []
   errors: []
 ---
@@ -198,4 +215,4 @@ No final do ciclo de avaliação, cada estabelecimento ou instituição de ensin
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 8 de Junho de 2011. - Pelo Ministro da Defesa Nacional, Marcos da Cunha e Lorena Perestrello de Vasconcellos, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, em 31 de Maio de 2011. - Pela Ministra da Educação, José Alexandre da Rocha Ventura Silva, Secretário de Estado Adjunto e da Educação, em 31 de Maio de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 8 de Junho de 2011. - Pelo Ministro da Defesa Nacional, Marcos da Cunha e Lorena Perestrello de Vasconcellos, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, em 31 de Maio de 2011. - Pela Ministra da Educação, José Alexandre da Rocha Ventura Silva, Secretário de Estado Adjunto e da Educação, em 31 de Maio de 2011.

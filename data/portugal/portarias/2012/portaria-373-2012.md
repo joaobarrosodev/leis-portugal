@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/373/2012/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-2012-191095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49b3283deb83c9da2d6cb42f6ee775da6a6b165da509e02bc9f62c1ce9a4c86b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1699175dea6c46379494793967b0ee31f019703d44cb3c9900cc567d4cb5d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Combate ao Crime
-- Serviços de Segurança
+- Direito à Imagem
+- Direitos do Indivíduo
 - Equipamento Eletrónico
 - Segurança Pública
-- Direitos do Indivíduo
-- Direito à Imagem
+- Serviços de Segurança
 - Sistema de Videovigilância
 relationships:
 - type: cites
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2012/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2012/02/23/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542867:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:50Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +194,7 @@ d) Modelo n.º 3: painel adicional a colocar com o sinal de modelo 1, com as men
 
 2 - A adaptação dos sistemas já em funcionamento ao disposto na presente portaria deve ter lugar no prazo de 90 dias.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 26 de outubro de 2012.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 26 de outubro de 2012.
 
 ## ANEXO — (a que se refere o n.º 4 do artigo 2.º)
 
@@ -182,7 +202,7 @@ Dimensionamento e descrição
 
 A) Modelos n.os 1 e 1a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 Descrição
 
@@ -192,7 +212,7 @@ Modelo n.º 1a - Igual ao sinal do modelo n.º 1 e um traço orientado da direit
 
 B) Modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 Descrição
 
@@ -200,7 +220,7 @@ Modelo n.º 2 - Sinal de forma retangular, em fundo de cor azul com orla exterio
 
 C) Modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 Descrição
 
@@ -210,15 +230,15 @@ Símbolos gráficos
 
 A) Modelo n.º 1 com o modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 B) Modelo n.º 1a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 C) Modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664006642.pdf)
 
 Menções obrigatórias no modelo n.º 3
 

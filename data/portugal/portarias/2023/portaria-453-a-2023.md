@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 137-(2) a 137-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24701/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/453-a/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaf4d16655411ff71e77f6e260ae295f30b66b86aaa8cd9dacb5238dd577117c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 634562e01e2de61d3d0715c4481f7f203d7a0c056eefeda969d140078d705858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Empresa
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
+- Gás Natural
 - Gasóleo
-- Veículo
-- Transporte de Mercadorias
+- Imposto sobre Produtos Petrolíferos
 - Receita
 - Reembolso
+- Regulamentação de Atos Legislativos
+- Transporte de Mercadorias
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:portaria:246-A/2016
+  label: Altera, a partir de de 27 de dezembro de 2023, com efeitos no caso do transporte coletivo de passageiros, a partir
+    de 1 de janeiro de 2024, no caso da utilização de gás natural, a partir de 1 de julho de 2024, os artigos 1.º, 2.º, 3.º,
+    4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 13.º e 14.º-B e republica a Portaria n.º 246-A/2016, de 8 de setembro, Diário
+    da República n.º 173/2016, 1º Suplemento, Série I
+  source: null
+  date: '2016-09-08'
 - type: cites
   target: celex:32003L0096
   label: null
@@ -104,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/246-a/2016/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/246-a/2016/09/08/p/dre
+- type: cites
+  target: pt:dre:205557185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75300912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:22Z'
   warnings: []
   errors: []
 ---
@@ -146,11 +178,15 @@ Objeto
 
 A presente portaria estabelece as condições e os procedimentos do regime de reembolso parcial de impostos sobre combustíveis para as empresas de transportes de mercadorias e transporte coletivo de passageiros, previsto no artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de junho, doravante designado 'reembolso parcial'.
 
-###### Artigo 2.º — Combustível aplicável
+Artigo 2.º
+
+Combustível aplicável
 
 O presente regime é aplicável aos abastecimentos com gasóleo rodoviário, definido no [Decreto-Lei n.º 89/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2008-448966), de 30 de maio, na sua redação atual, que corresponde aos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19 e aos abastecimentos com gás natural classificado pelos códigos NC 2711 11 00 e 2711 21 00, aplicando-se as necessárias atualizações subsequentes ao sistema da nomenclatura combinada.
 
-###### Artigo 3.º — Montante do reembolso
+Artigo 3.º
+
+Montante do reembolso
 
 Ao abrigo do presente regime é reembolsado ao adquirente, aplicando-se os limites quantitativos previstos no artigo 6.º, os seguintes montantes:
 
@@ -158,7 +194,9 @@ a) Relativamente ao gasóleo, a diferença entre o nível mínimo de tributaçã
 
 b) Relativamente ao gás natural, a diferença entre o nível mínimo de tributação previsto no artigo 15.º da [Diretiva 2003/96/CE](http://data.europa.eu/eli/dir/2003/96/oj?locale=pt), de 27 de outubro, na sua redação atual, e o montante total dos impostos indiretos cobrados (excluindo o IVA), calculados direta ou indiretamente com base na quantidade de produtos petrolíferos, designadamente o imposto sobre os produtos petrolíferos e energéticos e o adicionamento sobre as emissões de CO(índice 2).
 
-###### Artigo 4.º — Admissibilidade do reembolso
+Artigo 4.º
+
+Admissibilidade do reembolso
 
 O reembolso parcial depende da verificação cumulativa dos seguintes requisitos:
 
@@ -172,7 +210,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 5.º — Veículos abrangidos
+Artigo 5.º
+
+Veículos abrangidos
 
 1 - Apenas são elegíveis para reembolso parcial ao abrigo do presente regime os abastecimentos destinados a serem utilizados como carburantes em veículos:
 
@@ -186,7 +226,9 @@ b) No caso das empresas de transporte coletivo de passageiros, destinados ao tra
 
 4 - [...]
 
-###### Artigo 6.º — Limites quantitativos
+Artigo 6.º
+
+Limites quantitativos
 
 1 - O presente regime apenas é aplicável, por viatura abrangida nos termos do artigo anterior e por ano civil, aos abastecimentos até ao limite máximo de:
 
@@ -196,7 +238,9 @@ b) 2000 gigajoules, no caso do gás natural.
 
 2 - [...]
 
-###### Artigo 7.º — Adquirentes
+Artigo 7.º
+
+Adquirentes
 
 1 - Apenas são elegíveis para reembolso parcial ao abrigo do presente regime os abastecimentos cujo adquirente, licenciado como empresa de transporte de mercadorias ou empresa de transporte coletivo de passageiros, com sede ou estabelecimento estável num Estado-Membro da União Europeia, seja proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura elegível abastecida.
 
@@ -212,7 +256,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 8.º — Sistemas de registo de abastecimentos
+Artigo 8.º
+
+Sistemas de registo de abastecimentos
 
 1 - A utilização dos sistemas de registo de abastecimentos, para efeitos de reembolso parcial, está sujeita à sua validação prévia pela AT, após demonstração do cumprimento dos seguintes requisitos:
 
@@ -226,7 +272,9 @@ c) [...]
 
 3 - A validação pode ser preventivamente suspensa em caso de irregularidades reiteradas nos abastecimentos comunicados ou de quaisquer outros indícios de incumprimento dos requisitos previstos no n.º 1.
 
-###### Artigo 9.º — Postos de combustível
+Artigo 9.º
+
+Postos de combustível
 
 1 - [...]
 
@@ -234,7 +282,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 10.º — Instalações de consumo próprio
+Artigo 10.º
+
+Instalações de consumo próprio
 
 1 - O presente regime é ainda aplicável aos abastecimentos a depósitos localizados em instalações de consumo próprio autorizados das empresas abrangidas, exclusivamente destinados ao subsequente abastecimento dos veículos elegíveis de que as mesmas ou sociedades com as quais se encontrem em relação de domínio ou de grupo sejam proprietárias, locatárias financeiras ou locatárias em regime de aluguer sem condutor.
 
@@ -252,7 +302,9 @@ c) [...]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 11.º — Comunicação dos abastecimentos
+Artigo 11.º
+
+Comunicação dos abastecimentos
 
 1 - Os abastecimentos devem ser comunicados eletronicamente pelos emitentes de cartões frota ou pelos seus representantes em Portugal, bem como pelos emitentes de outros mecanismos de controlo validados pela AT, incluindo no caso das instalações de consumo próprio pelos beneficiários autorizados, através da transmissão dos seguintes dados:
 
@@ -290,7 +342,9 @@ n) [...]
 
 4 - [...]
 
-###### Artigo 13.º — Processamento do reembolso
+Artigo 13.º
+
+Processamento do reembolso
 
 1 - [...]
 
@@ -298,7 +352,9 @@ n) [...]
 
 3 - [...]
 
-###### Artigo 14.º-B — Regime transitório
+Artigo 14.º-B
+
+Regime transitório
 
 1 - [...]
 
@@ -322,7 +378,7 @@ a) No caso do transporte coletivo de passageiros, a partir de 1 de janeiro de 20
 
 b) No caso da utilização de gás natural, a partir de 1 de julho de 2024.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 21 de dezembro de 2023. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 21 de dezembro de 2023. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 20 de dezembro de 2023.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 21 de dezembro de 2023. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 21 de dezembro de 2023. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 20 de dezembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -531,3 +587,5 @@ c) Zona de Vila Verde de Ficalho, integrando os concelhos de Serpa e de Beja;
 d) Zona de Quintanilha, integrando os concelhos de Bragança e de Macedo de Cavaleiros.
 
 3 - Exclui-se do âmbito do número anterior o reembolso parcial aos abastecimentos a depósitos localizados em instalações de consumo próprio.
+
+117195664

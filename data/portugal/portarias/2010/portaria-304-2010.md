@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/304/2010/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-2010-332445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2460410f5aae08b3c3c89f1d01bbf4d00d2366720e30a911fead0456e4a9772
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c88711eb85c58685a00e37637d98e9bf207dfc0dbe952beee1ff3423ec8099d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/334/2009/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/334/2009/04/02/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:34Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +140,9 @@ c) No concelho de Proença-a-Nova, na Praceta do Frei Rodrigo Egídio, 5.
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei tem o seguinte horário de funcionamento:
 

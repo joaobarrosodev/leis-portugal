@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/2022/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2022-203898221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dedc823cda50bd094c6718d7fc7ec941de3e85aa67d526c293e81f717f8c02be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20ca64708099c7c11f9ee573a8a820aeeb2465aca82dc1b1001f05a46e490e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Concurso
 - Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
-- Instituto de Ação Social das Forças Armadas
-- Habitação Social
 - Forças Armadas
+- Habitação Social
+- Instituto de Ação Social das Forças Armadas
+- Regulamentação de Atos Legislativos
 - Regulamento para a Atribuição das Casas de Renda Económica
 - Renda de CASA
 - Rendimento
 - Serviços Sociais
-- Arrendamento Urbano para Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1997/12/30/p/dre
@@ -106,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/7/1998/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/7/1998/01/07/p/dre
+- type: cites
+  target: pt:dre:122728685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124952003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202127498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:00Z'
   warnings: []
   errors: []
 ---
@@ -148,9 +176,11 @@ O anexo B da [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portar
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf)
 
-###### Artigo 3.º — Aditamento à [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portaria/7-1998-225184), de 7 de janeiro
+Artigo 3.º
+
+Aditamento à [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portaria/7-1998-225184), de 7 de janeiro
 
 É aditado à [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portaria/7-1998-225184), de 7 de janeiro, o artigo 3.º-A, com a seguinte redação:
 
@@ -176,25 +206,35 @@ i) Tem barreiras no acesso ao piso em que se situa; ou
 
 ii) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem.»
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicada em anexo à presente Portaria, da qual faz parte integrante, a [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portaria/7-1998-225184), de 7 de janeiro, com a redação introduzida pela presente portaria.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Defesa Nacional, Marco Alexandre da Silva Capitão Costa Ferreira, em 16 de novembro de 2022.**
+O Secretário de Estado da Defesa Nacional, Marco Alexandre da Silva Capitão Costa Ferreira, em 16 de novembro de 2022.
 
-## ANEXO — (a que se refere o artigo 4.º)
+ANEXO
+
+(a que se refere o artigo 4.º)
 
 Republicação da [Portaria n.º 7/98](https://diariodarepublica.pt/dr/detalhe/portaria/7-1998-225184), de 7 de janeiro
 
 REGULAMENTO PARA A ATRIBUIÇÃO DAS CASAS DE RENDA ECONÓMICA DO INSTITUTO DE AÇÃO SOCIAL DAS FORÇAS ARMADAS
 
-### CAPÍTULO I — Concursos
+CAPÍTULO I
 
-###### Artigo 1.º — Condições de admissão e de exclusão dos concursos
+Concursos
+
+Artigo 1.º
+
+Condições de admissão e de exclusão dos concursos
 
 1 - Nos concursos objeto do presente Regulamento só podem ser admitidos como concorrentes os beneficiários do Instituto de Ação Social das Forças Armadas (IASFA).
 
@@ -212,7 +252,9 @@ e) Terem obrigações financeiras por regularizar com o IASFA até à data da ab
 
 3 - Excecionalmente, podem ser admitidos ao concurso os beneficiários que tenham beneficiado de empréstimo para aquisição de habitação própria concedido pelo IASFA quando, por decisão judicial ou partilha subsequente ao divórcio, a casa de morada da família tenha sido atribuída ao seu ex-cônjuge.
 
-###### Artigo 2.º — Abertura e prazo de validade dos concursos
+Artigo 2.º
+
+Abertura e prazo de validade dos concursos
 
 1 - Os concursos por inscrição, normais ou extraordinários, são abertos por deliberação do Conselho Diretivo do IASFA, com indicação da respetiva modalidade.
 
@@ -220,7 +262,9 @@ e) Terem obrigações financeiras por regularizar com o IASFA até à data da ab
 
 3 - (Revogado.)
 
-###### Artigo 3.º — Conteúdo do programa dos concursos
+Artigo 3.º
+
+Conteúdo do programa dos concursos
 
 1 - No programa dos concursos deve constar:
 
@@ -242,7 +286,9 @@ a) Ao realojamento temporário dos arrendatários desalojados por motivo de inc�
 
 b) Aos arrendatários que, nos termos do n.º 1 do artigo 12.º do [Decreto-Lei n.º 380/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1997-319924), de 30 de dezembro, devam ser transferidos para outra casa.
 
-###### Artigo 3.º-A — Definições
+Artigo 3.º-A
+
+Definições
 
 Para efeitos da presente portaria considera-se:
 
@@ -262,11 +308,15 @@ i) Tem barreiras no acesso ao piso em que se situa; ou
 
 ii) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem.
 
-###### Artigo 4.º — Tipologia dos fogos
+Artigo 4.º
+
+Tipologia dos fogos
 
 A tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual indica o número de quartos de dormir de que o fogo dispõe.
 
-###### Artigo 5.º — Definição de agregado familiar e respetivo rendimento
+Artigo 5.º
+
+Definição de agregado familiar e respetivo rendimento
 
 1 - Para os efeitos consignados no presente Regulamento, o agregado familiar do concorrente é constituído por si próprio e pelos familiares que com ele vivam em economia comum, caracterizada pela comunhão de mesa e habitação.
 
@@ -276,7 +326,9 @@ A tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual i
 
 4 - Na determinação do rendimento mensal corrigido (RMC) do agregado familiar é considerada a totalidade dos rendimentos auferidos por todos os seus membros.
 
-###### Artigo 6.º — Relação agregado familiar/tipo de fogo
+Artigo 6.º
+
+Relação agregado familiar/tipo de fogo
 
 1 - A cada concorrente é atribuída habitação compatível com a composição do respetivo agregado familiar, devendo a relação entre a dimensão do agregado e o tipo de fogo situar-se entre o mínimo e o máximo estipulados na tabela que constitui o anexo ii da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
@@ -286,7 +338,9 @@ A tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual i
 
 4 - (Revogado.)
 
-###### Artigo 7.º — Inscrição dos concorrentes
+Artigo 7.º
+
+Inscrição dos concorrentes
 
 1 - A inscrição dos concorrentes é feita através de um boletim de modelo a aprovar pelo Conselho Diretivo, onde será indicado, por ordem de preferência, o fogo pretendido.
 
@@ -300,7 +354,9 @@ A tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual i
 
 6 - O prazo definido no número anterior pode ser reduzido, até ao limite legal definido para os atos a praticar pelos órgãos administrativos, quando o número de casas a concurso for igual ou inferior a 10 unidades.
 
-###### Artigo 8.º — Verificação das declarações dos concorrentes
+Artigo 8.º
+
+Verificação das declarações dos concorrentes
 
 1 - As declarações constantes do boletim de inscrição ou em posteriores correções às mesmas são da exclusiva responsabilidade dos concorrentes.
 
@@ -312,9 +368,13 @@ A tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual i
 
 5 - Os concorrentes excluídos do concurso ao abrigo do número anterior ficam impossibilitados de se inscreverem em concursos de atribuição de casas de renda económica por um período de cinco anos.
 
-### CAPÍTULO II — Classificação
+CAPÍTULO II
 
-###### Artigo 9.º — Lista dos concorrentes
+Classificação
+
+Artigo 9.º
+
+Lista dos concorrentes
 
 1 - Terminada a fase referida no artigo anterior, procede-se à organização das listas de concorrentes admitidos, por categorias de beneficiários, localidades e tipos de fogos a que hajam concorrido.
 
@@ -330,7 +390,9 @@ d) A de pessoal militarizado.
 
 3 - Nos concursos extraordinários são considerados os beneficiários titulares definidos nos n.os 2 e 3 e os beneficiários familiares definidos no n.º 5 do artigo 1.º do Regulamento dos Beneficiários do Instituto de Ação Social das Forças Armadas, I. P., aprovado pela [Portaria n.º 1238/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1238-2010-307182), de 14 de dezembro.
 
-###### Artigo 10.º — Fatores de apreciação
+Artigo 10.º
+
+Fatores de apreciação
 
 Os fatores de apreciação para efeitos de ordenação dos concorrentes constam do boletim de inscrição, a aprovar pelo Conselho Diretivo, e são os seguintes:
 
@@ -340,7 +402,9 @@ b) Caracterização do agregado familiar;
 
 c) Situações especiais de saúde.
 
-###### Artigo 11.º — Classificação dos concorrentes
+Artigo 11.º
+
+Classificação dos concorrentes
 
 1 - A classificação dos concorrentes resulta da aplicação, aos fatores mencionados no artigo anterior, da pontuação constante da tabela que constitui o anexo B a este Regulamento.
 
@@ -350,7 +414,9 @@ c) Situações especiais de saúde.
 
 4 - A aprovação da lista de classificação cabe ao Conselho Diretivo do IASFA, que determina a sua afixação, para consulta, e dá conhecimento deste facto aos interessados.
 
-###### Artigo 12.º — Reclamação da lista de classificação
+Artigo 12.º
+
+Reclamação da lista de classificação
 
 1 - Da lista de classificação cabe reclamação, que deve ser apresentada, por escrito, no prazo de 15 dias a contar da data da publicação da lista referida no artigo anterior.
 
@@ -360,15 +426,21 @@ c) Situações especiais de saúde.
 
 4 - Os concorrentes não podem trocar as posições que ocupam na lista de classificação.
 
-### CAPÍTULO III — Distribuição dos fogos
+CAPÍTULO III
 
-###### Artigo 13.º — Atribuição dos fogos
+Distribuição dos fogos
+
+Artigo 13.º
+
+Atribuição dos fogos
 
 1 - A atribuição dos fogos terá lugar em conformidade com a lista de classificação dos concorrentes.
 
 2 - A atribuição é notificada ao concorrente por carta registada com aviso de receção, devendo este declarar, por escrito, a aceitação ou a recusa do fogo que lhe foi atribuído no prazo de 15 dias.
 
-###### Artigo 14.º — Exclusão
+Artigo 14.º
+
+Exclusão
 
 É excluído e perde o direito à habitação atribuída o concorrente que:
 
@@ -376,13 +448,17 @@ a) Nos termos do n.º 2 do artigo anterior, não apresentar a declaração ou de
 
 b) Dentro do prazo de validade do concurso, seja abrangido por uma das condições de exclusão das alíneas a) e c) do n.º 2 do artigo 1.º deste Regulamento.
 
-###### Artigo 15.º — Celebração do contrato de arrendamento
+Artigo 15.º
+
+Celebração do contrato de arrendamento
 
 1 - O contrato de arrendamento é celebrado no prazo de oito dias a contar do recebimento da declaração de aceitação referida no n.º 2 do artigo 13.º deste Regulamento.
 
 2 - A não celebração do contrato de arrendamento dentro do prazo previsto no número anterior por motivo imputável ao concorrente implica a sua exclusão.
 
-###### Artigo 16.º — Fixação de renda
+Artigo 16.º
+
+Fixação de renda
 
 1 - O valor da renda é determinado, nos termos do disposto nos artigos 21.º, 21.º-A e 22.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual, pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:
 
@@ -402,10 +478,18 @@ IAS = indexante dos apoios sociais.
 
 4 - A renda máxima é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada, nos termos do disposto no n.º 2 do artigo 22.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
-## ANEXO A — (Revogado.)
+ANEXO A
 
-## ANEXO B — Tabela de pontuação
+(Revogado.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf)
+ANEXO B
 
-## ANEXO C — (Revogado.)
+Tabela de pontuação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/22800/0002400033.pdf)
+
+ANEXO C
+
+(Revogado.)
+
+115888276

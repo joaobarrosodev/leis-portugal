@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3/2013/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-2013-588852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4db8a6889311733b59ed2b1af5e312688dadedeb22f46dd9e269e7d219d2372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9475b414d49a05115d4e46eb3f0d0fb0a15b2cef425133e1bdab9bcf7ccd926a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde Pública
 - Proteção do Ambiente
-- Zona de Proteção
 - Salvaterra de Magos
+- Saúde Pública
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -83,16 +83,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75531187:por
+  label: Revogada, a partir de 15.10.2016, a Port 190/2011 de 10-mai, alterada pela presente, pelo(a) Portaria n.º 273/2016
+    - Diário da República n.º 198/2016, Série I de 2016-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2016-75531187
+  date: '2016-10-14'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:38Z'
   warnings: []
   errors: []
 ---
@@ -223,13 +241,13 @@ As zonas de proteção intermédia e alargada, respeitantes aos perímetros de p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 28 de novembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 28 de novembro de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -237,7 +255,7 @@ Zona de proteção imediata
 
 Captações CBR1, JK1 e RA1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -245,7 +263,7 @@ Zona de proteção intermédia
 
 Captações CBR1, JK1 e RA1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -253,7 +271,7 @@ Zona de proteção alargada
 
 Captações CBR1, JK1 e RA1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -265,4 +283,4 @@ Extrato da Carta Militar de Portugal. Série M888 - 1/25 000 (IGeoE)
 
 Polo de captação de Muge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00100/0000600009.pdf)

@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/14700/0002700050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2025/08/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2025-927416002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2cb694aab51bfcfd3804a091984dfc14b76dfdedf30e001ea409661812a25b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cb42976591fb4406c8d54ae8634e56cf64325f555383bb4c1f0118a31f7b88d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Marítimo
-- Transporte Terrestre
-- Transporte Rodoviário
 - Instituto da Mobilidade e dos Transportes
 - Instituto Público
-- Pessoal de Inspecção
 - Madeira.região Autónoma
+- Pessoal de Inspecção
 - Transporte de Passageiros
+- Transporte Marítimo
+- Transporte Rodoviário
+- Transporte Terrestre
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:19/2010/M
+  label: Altera, a partir de 02 de agosto de 2025, a alínea j) do artigo 2.º, do Decreto Legislativo Regional n.º 19/2010/M,
+    de 19 de agosto, Diário da República n.º 161/2010, Série I
+  source: null
+  date: '2010-08-19'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:13/2024/M
+  label: Altera, a partir de 2 de agosto de 2025, os artigos 2.º, 4.º, 5.º, 7.º, 10.º, 18.º, 20.º, 22.º, 25.º, 28.º, revoga
+    as alíneas gg), hh) e jj) a rr) do n.º 1 do artigo 5.º e as alíneas g), j), m), n) e a subalínea v) da alínea p) do n.º
+    1 do artigo 10.º e republica em anexo o, Decreto Legislativo Regional n.º 13/2024/M, de 4 de dezembro, Diário da República
+    n.º 235/2024, Série I
+  source: null
+  date: '2024-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
   label: null
@@ -118,16 +132,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107494013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134305983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:848804212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:57Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +252,7 @@ Neste desiderato, o largo período em que o XV Governo Regional da Madeira se en
 
 Foram cumpridos os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea i) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666) de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e no n.º 2 do artigo 29.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea i) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666) de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e no n.º 2 do artigo 29.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -170,13 +272,17 @@ Os artigos 2.º, 4.º, 5.º, 7.º, 10.º, 18.º, 20.º, 22.º, 25.º e 28.º do 
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O IMT, IP-RAM tem por missão regular e supervisionar e exercer funções de regulamentação técnica, licenciamento, coordenação, fiscalização e planeamento, a nível regional, no setor dos transportes terrestres, supervisionar e regular a atividade económica do setor dos transportes terrestres, bem como assegurar a prevenção e segurança rodoviária, processamento e aplicação do direito contraordenacional rodoviário e legislação conexa, e processamento e aplicação do direito contraordenacional por infração à legislação em matéria de viação e transportes terrestres.
 
 2 - O IMT, IP-RAM tem ainda por missão especial implementar sistemas de interoperabilidade que promovam a intermodalidade no âmbito do setor dos transportes terrestres, nomeadamente através de um sistema de bilhética comum no âmbito dos transportes públicos coletivos de passageiros, bem como a gestão de contratos de concessão em que a RAM seja concedente no referido setor.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +378,9 @@ ss) [...]
 
 2 - Incumbe especialmente ao IMT, IP-RAM exercer, na RAM, as atribuições e competências legais conferidas ao Instituto da Mobilidade e dos Transportes (IMT, IP), à Autoridade Nacional de Segurança Rodoviária (ANSR) e à Autoridade da Mobilidade e dos Transportes (AMT), cujo exercício esteja limitado ao território continental, assim como as demais atribuições e competências que lhe venham a ser atribuídas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -338,7 +446,9 @@ aa) [...]
 
 5 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O Conselho Regional da Mobilidade é o órgão de natureza consultiva que reúne os vários intervenientes a nível da mobilidade terrestre, com a seguinte composição:
 
@@ -394,7 +504,9 @@ b) Elaborar estudos e emitir pareceres em matéria de mobilidade terrestre quand
 
 c) Acompanhar a elaboração dos planos regionais e de outros documentos estruturantes relacionados com os transportes e mobilidade terrestre.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -404,7 +516,9 @@ c) Acompanhar a elaboração dos planos regionais e de outros documentos estrutu
 
 4 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -428,13 +542,17 @@ h) À regulação e supervisão do setor dos transportes terrestres na RAM.
 
 3 - Para efeitos de processamento das contraordenações rodoviárias, de viação e transportes terrestres, o pessoal do IMT, IP-RAM que não desempenhe funções inspetivas é equiparado a autoridade pública, competindo-lhe instaurar autos de contraordenação, quando tal lhe for ordenado pelo competente superior hierárquico.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os dirigentes e trabalhadores do IMT, IP-RAM, incluindo o pessoal da carreira inspetiva, estão obrigados a guardar sigilo sobre todos os processos e dados recolhidos e dos quais tenham conhecimento no âmbito das funções que desempenham, designadamente sobre os dados pessoais dos infratores no âmbito de processos de contraordenação rodoviária, de viação ou de transportes terrestres e respetivos documentos, não os podendo utilizar para proveito próprio ou alheio, diretamente ou por interposta pessoa.
 
 2 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -448,9 +566,11 @@ h) À regulação e supervisão do setor dos transportes terrestres na RAM.
 
 6 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
 
-O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
+[...]
+
+O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.os[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
 
 ‘Artigo 2.º
 
@@ -494,11 +614,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de julho de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 30 de julho de 2025.**
+Assinado em 30 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -944,7 +1064,7 @@ O IMT, IP-RAM e os organismos e entidades, públicas ou privadas, com funções 
 
 ###### Artigo 24.º — Sucessão
 
-1 - O IMT, IP-RAM sucede nas atribuições, direitos e obrigações e posições contratuais da Direção Regional dos Transportes e da Mobilidade Terrestre, incluindo os que transitaram da então Direção Regional de Economia e Transportes Terrestres para aquela Direção Regional por força do disposto no n.º 1 do artigo 20.º e nos n.<sup>os</sup>1, 3 e 4 do artigo 22.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro.
+1 - O IMT, IP-RAM sucede nas atribuições, direitos e obrigações e posições contratuais da Direção Regional dos Transportes e da Mobilidade Terrestre, incluindo os que transitaram da então Direção Regional de Economia e Transportes Terrestres para aquela Direção Regional por força do disposto no n.º 1 do artigo 20.º e nos n.os1, 3 e 4 do artigo 22.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro.
 
 2 - O IMT, IP-RAM sucede nas atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, SA, anteriormente com a denominação «Companhia dos Carros de São Gonçalo, SA», empresa pública do setor empresarial da Região Autónoma da Madeira integralmente detida pela Horários do Funchal - Transportes Públicos, SA, na área da gestão do sistema de bilhética integrado da RAM.
 
@@ -962,11 +1082,11 @@ O IMT, IP-RAM e os organismos e entidades, públicas ou privadas, com funções 
 
 5 - O processo de fusão é conduzido e decorre sob a responsabilidade do diretor regional dos Transportes e da Mobilidade Terrestre, e sob a responsabilidade dos membros do conselho diretivo do IMT, IP-RAM, após a sua designação, com a colaboração de todos os departamentos regionais e dirigentes cuja intervenção seja necessária para a realização dos respetivos atos e operações.
 
-6 - O disposto nos n.<sup>os</sup>2 e 3 é aplicável ao processo de transição de atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, SA, para o IMT, IP-RAM, previsto no n.º 2 do artigo 24.º, a concretizar no prazo indicado no n.º 3 deste artigo, mediante despacho conjunto dos membros do Governo Regional com a tutela das finanças e dos transportes terrestres, publicado no Jornal Oficial da Região Autónoma da Madeira.
+6 - O disposto nos n.os2 e 3 é aplicável ao processo de transição de atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, SA, para o IMT, IP-RAM, previsto no n.º 2 do artigo 24.º, a concretizar no prazo indicado no n.º 3 deste artigo, mediante despacho conjunto dos membros do Governo Regional com a tutela das finanças e dos transportes terrestres, publicado no Jornal Oficial da Região Autónoma da Madeira.
 
 ###### Artigo 26.º — Transição de pessoal e de outros processos
 
-1 - Os trabalhadores com vínculo de emprego público afetos à Direção Regional dos Transportes e da Mobilidade Terrestre, nomeadamente os da então Direção Regional de Economia e Transportes Terrestres que, nos termos e ao abrigo do disposto no n.º 1 do artigo 20.º e nos n.<sup>os</sup>4 e 6 do artigo 21.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro, passaram a exercer funções naquela Direção Regional, transitam para o IMT, IP-RAM, através de lista nominativa, a aprovar pelos membros do Governo Regional com a tutela dos transportes terrestres e da economia.
+1 - Os trabalhadores com vínculo de emprego público afetos à Direção Regional dos Transportes e da Mobilidade Terrestre, nomeadamente os da então Direção Regional de Economia e Transportes Terrestres que, nos termos e ao abrigo do disposto no n.º 1 do artigo 20.º e nos n.os4 e 6 do artigo 21.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro, passaram a exercer funções naquela Direção Regional, transitam para o IMT, IP-RAM, através de lista nominativa, a aprovar pelos membros do Governo Regional com a tutela dos transportes terrestres e da economia.
 
 2 - Os trabalhadores com vínculo de direito privado da TIIM - Transportes Integrados e Intermodais da Madeira, SA, e da Horários do Funchal, Transportes Públicos, SA, que, no âmbito e ao abrigo da Resoluções do Conselho do Governo Regional n.º 113/2023, de 23 de fevereiro, e n.º 402/2024, de 23 de maio, tenham sido integrados naquelas empresas públicas, contratados ou afetos para o desenvolvimento dos atos tendentes à gestão dos processos identificados no ponto 2 da Resolução n.º 402/2024, de 23 de maio, transitam para o IMT, IP-RAM sem alteração do respetivo vínculo, através de lista nominativa a aprovar por despacho dos membros do Governo Regional responsáveis pelas áreas da administração pública e finanças e dos transportes terrestres e pelos órgãos de administração daquelas empresas.
 
@@ -976,7 +1096,7 @@ O IMT, IP-RAM e os organismos e entidades, públicas ou privadas, com funções 
 
 5 - A opção pelo regime da função pública referida no número anterior é feita mediante declaração escrita do trabalhador e depende da aprovação do conselho diretivo do IMT, IP-RAM e parecer prévio dos membros do Governo responsáveis pela área das finanças e da administração pública.
 
-6 - Nas situações de constituição de vínculo de emprego público ao abrigo do disposto nos n.<sup>os</sup>4 e 5, o posicionamento remuneratório dos trabalhadores é feito de acordo com o disposto no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, aplicável por força da alínea b) do n.º 2 do artigo 41.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+6 - Nas situações de constituição de vínculo de emprego público ao abrigo do disposto nos n.os4 e 5, o posicionamento remuneratório dos trabalhadores é feito de acordo com o disposto no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, aplicável por força da alínea b) do n.º 2 do artigo 41.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
 7 - Sempre que por aplicação do disposto no n.º 2 do artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, a remuneração base a que atualmente têm direito seja inferior à 1.ª posição remuneratória da carreira para a qual transitam, os trabalhadores são reposicionados na 1.ª posição remuneratória.
 
@@ -1000,7 +1120,7 @@ O artigo 4.º do [Decreto Legislativo Regional n.º 36/2006/M](https://diariodar
 
 ###### Artigo 28.º — Alteração ao [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto
 
-O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
+O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.os[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
 
 «Artigo 2.º
 
@@ -1057,3 +1177,5 @@ b) A alínea f) do n.º 1 do artigo 5.º e o artigo 15.º do [Decreto Regulament
 ###### Artigo 33.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia 1 de janeiro de 2025.
+
+119375658

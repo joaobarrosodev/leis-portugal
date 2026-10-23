@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/152/2013/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c43566f595154636a3811fbba28888c1cab557c8a06a5cc10e94d152a66e67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3b09bac620638bfd91fbf91a760a1f068c1047500adbc1eb91db4ac16c74252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Água
 - ÁGUA de REGA
-- Distribuição de Energia Elétrica
-- Financiamento
-- Desenvolvimento Rural
-- Contrato
-- Electrificação Rural
 - Alqueva
-- Projeto de Investimento
 - Aproveitamento Hidroagrícola
+- Contrato
+- Desenvolvimento Rural
+- Distribuição de Energia Elétrica
+- Electrificação Rural
+- Financiamento
 - Investimento
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Preço
+- Proder
+- Projeto de Investimento
 - Regulamento
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Regulamento de Aplicação da Acção N.º 1.6.2-regadio de Alqueva
 - Regulamento de Aplicação da Acção N.º 1.6.3.-sustentabilidade dos Regadios Públicos
 relationships:
@@ -89,6 +89,13 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I do Regulamento de Aplicação da Ação n.º 1.6.5 «Projetos Estruturantes», aprovado pela\
+    \ Port 1037/2009 de 11-set, alterado pelo presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1037/2009/09/11/p/dre
   label: null
@@ -109,16 +116,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/964/2008/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/964/2008/08/28/p/dre
+- type: cites
+  target: pt:dre:220949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453250:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:50Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +166,9 @@ O n.º 15 do anexo I ao Regulamento de Aplicação da Ação n.º 1.6.1, «Desen
 
 [...]
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -187,7 +208,9 @@ A alínea n) do artigo 8.º do Regulamento de Aplicação da Ação n.º 1.6.2, 
 
 [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -225,7 +248,9 @@ A alínea q) do artigo 8.º do Regulamento de Aplicação da de Aplicação da A
 
 [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -269,7 +294,9 @@ O n.º 8 do anexo I ao Regulamento de Aplicação da Ação n.º 1.6.4, «Modern
 
 [...]
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -297,7 +324,9 @@ O anexo I ao Regulamento de Aplicação da Ação n.º 1.6.5 «Projetos Estrutur
 
 [...]
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -343,4 +372,4 @@ f) Revisões de preços decorrentes da legislação aplicável.»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos pedidos de apoio em execução.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 9 de abril de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 9 de abril de 2013.

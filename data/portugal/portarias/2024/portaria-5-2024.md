@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00200/0004800059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/5/2024/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-2024-836079149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33d4b0c81988779cfff00bf79f6beda9ae02cb4aa9aae1c50d3dd7dddd177888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d0cc2798e92b514d46610313d1b0a196a4ff238c6ced9762e68c83182a047d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
 - Imposto sobre o Rendimento
 - IRS
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:900840742:por
@@ -86,16 +86,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/286/2022/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/286/2022/12/02/p/dre
+- type: cites
+  target: pt:dre:204234877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:900840742:por
+  label: Revogadas, a partir de 1 de janeiro de 2025, as instruções de preenchimento da declaração modelo 37, aprovadas pelo
+    presente diploma pelo(a) Portaria n.º 347/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-2024-900840742
+  date: '2024-12-20'
+- type: repeals
+  target: pt:numero:portaria:286/2022
+  label: Revoga, a partir de 1 de janeiro de 2024, nos termos do artigo 4.º, a Portaria n.º 286/2022 de 2 de dezembro, Diário
+    da República n.º 232/2022, Série I
+  source: null
+  date: '2022-12-02'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:28Z'
   warnings: []
   errors: []
 ---
@@ -144,24 +172,36 @@ c) Efetuar o envio de acordo com os procedimentos indicados na mesma página.
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2024.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2023.
 
-![](https://files.diariodarepublica.pt/images/836079149/836079249.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079249.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079250.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079250.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079251.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079251.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079252.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079252.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079253.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079253.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079254.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079254.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079255.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079255.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079256.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079256.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079257.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079257.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/836079149/836079258.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836079149/836079258.png) |
+| --- |
+
+117210842

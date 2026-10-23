@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12300/0330003308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2019/07/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2019-122777646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76c1f2fc03927ac6baf8142aa59c53941099a4a05d4ace51cf6f08b48862b398
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35ca63238ef549cca553543ea0156716b2201c1206b5bba388ebcd54004f9cf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Crime
 - Certificado de Conformidade
-- Multa
-- Obras Particulares
 - Contra-ordenação
+- Crime
 - Definição de Competências
+- Direção Regional da Economia e Transportes
+- Distribuição de Energia Elétrica
 - Entidade Reguladora do Sector Eléctrico
 - Equipamento Eléctrico
-- Instalações Radioelétricas
-- Qualidade dos Serviços
 - Fiscalização
-- Licenciamento
-- Material Eléctrico e Electrónico
-- Normas de Segurança
-- Urbanismo
 - Informação do Consumidor
+- Instalações Radioelétricas
+- Licenciamento
+- Madeira.região Autónoma
+- Material Eléctrico e Electrónico
+- Multa
+- Normas de Segurança
+- Obras Particulares
+- Plataforma Eletrónica
 - Preço
 - Prestação de Serviços
-- Madeira.região Autónoma
 - Projeto
+- Qualidade dos Serviços
 - Receita Própria
 - Rede Elétrica de Serviço Público
 - Regime Jurídico
@@ -96,12 +97,11 @@ subjects:
 - Sanção
 - Segurança das Instalações
 - Segurança dos Edifícios
+- Sistema de Registo de Instalações Elétricas de Serviço Particular
 - Sistema Elétrico Nacional
 - TAXA de Instalações Eléctricas
+- Urbanismo
 - Vistoria
-- Plataforma Eletrónica
-- Direção Regional da Economia e Transportes
-- Sistema de Registo de Instalações Elétricas de Serviço Particular
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
@@ -143,16 +143,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
+- type: cites
+  target: pt:dre:107987277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116130015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66528823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055493:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:23Z'
   warnings: []
   errors: []
 ---
@@ -669,10 +725,12 @@ Até à publicação da portaria que fixará as metodologias de realização de 
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de maio de 2019.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 11 de junho de 2019.**
+Assinado em 11 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112386491

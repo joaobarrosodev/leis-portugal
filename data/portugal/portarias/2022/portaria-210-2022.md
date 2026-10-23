@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16200/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/2022/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2022-200139610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4943443beaeaad601cfe52b926604ccfb9e71fb728dbfa4bb34f9561cc10e5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15fcf05cdd4d36284e8f01aed0c1a293b15729a6fda426e2195dfeb485a7358b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Conformidade
-- Metrologia
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Fiscalização
-- Informação
 - Aparelho de Medição
 - ASAE
-- Instituto Português da Qualidade
-- Informação do Consumidor
-- Regulamento
+- Certificado de Conformidade
 - Controlo Metrológico
+- Definição de Competências
+- Fiscalização
+- Informação
+- Informação do Consumidor
+- Instituto Português da Qualidade
+- Metrologia
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228862:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:35Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +132,7 @@ Nestes termos, ao abrigo do disposto nos artigos 16.º e 25.º do [Decreto-Lei n
 
 O presente diploma entra em vigor no dia 1 de setembro de 2022.
 
-**O Secretário de Estado da Economia, João Jorge Arêde Correia Neves, em 19 de agosto de 2022.**
+O Secretário de Estado da Economia, João Jorge Arêde Correia Neves, em 19 de agosto de 2022.
 
 ## ANEXO — Regulamento de Qualificação de Entidades para Instalação ou Reparação dos Instrumentos de Medição
 
@@ -209,3 +221,5 @@ h) Requerer, até ao dia útil seguinte após a intervenção referida na alíne
 ###### Artigo 8.º — Contraordenações e sanções
 
 A violação das obrigações da entidade qualificada ou o desrespeito das condições em que deve ser exercida a sua atividade constitui fundamento para a imediata suspensão da qualificação ou a sua desqualificação, sem prejuízo de aplicação das sanções a que haja lugar, nos termos do artigo 22.º do Regime Geral do Controlo Metrológico Legal, aprovado pelo [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 abril.
+
+115627747

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30
   number: '251'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 74-(33) a 74-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25103/0003300033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312-d/2022/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-d-2022-205557186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e15ee41adc4df6c5254604c33ecb2da6fc3c86e7a28289cd3f3ee9af8964e7d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0b196f3f38da90ce73097e4a31d95acabfeb218aa3ccd1b528173e8d301417e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- Empresa
 - Código dos Impostos Especiais de Consumo
-- Consumo
-- Produto Petrolífero
 - Combustível
+- Consumo
+- Empresa
 - Gasóleo
 - Imposto Especial sobre o Consumo
+- Produto Petrolífero
 - Prorrogação de Prazo
 - Reembolso
 - Transporte
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/246-a/2016/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/246-a/2016/09/08/p/dre
+- type: cites
+  target: pt:dre:173909865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75300912:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:11Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +148,6 @@ Assim, manda o Governo, pelo Secretário de Estado da Digitalização e da Moder
 
 2 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 28 de dezembro de 2022. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2022. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba, em 29 de dezembro de 2022.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 28 de dezembro de 2022. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2022. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba, em 29 de dezembro de 2022.
+
+116023399

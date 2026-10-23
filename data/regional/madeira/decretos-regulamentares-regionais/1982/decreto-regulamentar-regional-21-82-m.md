@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1982-375420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591e245931a8b54d95a4e213b8ec64d5d576c5044a0739df463d54d67f00364b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 397a3999013c7c422677c3412947fc1568d1dcf8a7c91edd048b5ce3d7e8d77c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Regional dos Hospitais
+- Madeira.região Autónoma
+- Médico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:427575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578305:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377169:por
+  label: Rectificado pela DECL.DD5918.26.10.1982.PCM, DR.IS [261] de 11.11.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-377169
+  date: '1982-10-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:13Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +113,19 @@ Considerando ainda a conveniência de criar, a nível de alguns serviços, unida
 
 Nesta conformidade, o Governo Regional da Madeira, usando da faculdade conferida pela alínea b) do artigo 33.º do [Decreto-Lei n.º 318/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1976-427575), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º No âmbito do [Decreto Regional n.º 13/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1981-578305), de 23 de Junho, conjugado com o [Decreto-Lei n.º 391/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1980-461862), de 23 de Setembro, aprova a alteração do quadro de pessoal médico da Direcção Regional dos Hospitais, anexo ao presente diploma.
+Artigo 1.º No âmbito do [Decreto Regional n.º 13/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1981-578305), de 23 de Junho, conjugado com o [Decreto-Lei n.º 391/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1980-461862), de 23 de Setembro, aprova a alteração do quadro de pessoal médico da Direcção Regional dos Hospitais, anexo ao presente diploma.
 
-###### Art. 2.º Os encargos respectivos, no montante de 781200$00, têm cabimento e são suportados pelo orçamento da mesma Direcção Regional.
+Art. 2.º Os encargos respectivos, no montante de 781200$00, têm cabimento e são suportados pelo orçamento da mesma Direcção Regional.
 
 Aprovado em plenário do Governo em 16 de Setembro de 1982.
 
-**O Presidente do Governo em Exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo em Exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 21 de Setembro de 1982.**
+Assinado em 21 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Secretaria Regional dos Assuntos Sociais e Saúde
 
@@ -112,4 +133,4 @@ Centro Hospitalar do Funchal
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/22900/32383238.pdf))](https://files.diariodarepublica.pt/1s/1982/10/22900/32383238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/22900/32383238.pdf)

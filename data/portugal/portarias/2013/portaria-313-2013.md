@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/313/2013/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-2013-502863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d673895feb153a20571b00ca5c6ba8fa1e43048b0d7c448340b68c0c9ae2c02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 171eb349184bac7ea50185433f74790d3bd8c77ec1a36676f25a7a077faa3786
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Publicidade
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
 - Produto de Aquicultura
 - Programa Comunitário
-- Intervenção Operacional Pescas
+- Projeto de Investimento
+- Publicidade
 - Regulamento
 - Subsídio não Reembolsável
 relationships:
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 9.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais aprovado pela Port 719-B/2008 de 31-jul, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM,\
+    \ DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/719-b/2008/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/719-b/2008/07/31/p/dre
 article_structure:
-  article_count: 5
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:44Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +131,9 @@ Os artigos 9.º, 11.º e 12.º do Regulamento do Regime de Apoio aos Investiment
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 -...
 
@@ -132,7 +141,9 @@ Os artigos 9.º, 11.º e 12.º do Regulamento do Regime de Apoio aos Investiment
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -152,16 +163,20 @@ b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o p
 
 7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 11º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 2.º — Disposição transitória
+Artigo 2.º
+
+Disposição transitória
 
 1 - Os promotores a que se refere a alínea a) do artigo 2º que, à data da entrada em vigor da presente portaria, já tenham solicitado adiantamentos, nos termos e condições previstos no artigo 12º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos Mercados e Campanhas Promocionais, na redação conferida pela Portaria nº 226/2012, de 1 de agosto, podem solicitar nas DRAP a concessão de um complemento de adiantamento, de forma que o mesmo totalize até 50% do apoio concedido, ficando, nesse caso, obrigados a demonstrar a realização de 50% do investimento elegível no prazo de seis meses, mediante a apresentação dos correspondentes comprovativos de despesa.
 
 2 - O prazo fixado no número anterior conta-se a partir da data de entrada em vigor da presente portaria.
 
-###### Artigo 3.º — Entrada em vigor e produção de efeitos
+Artigo 3.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - As alterações introduzidas pela presente portaria nos artigos 11º e 12º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos Mercados e Campanhas Promocionais, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.

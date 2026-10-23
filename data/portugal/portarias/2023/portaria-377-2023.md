@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22200/0004400050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377/2023/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e70274dbd1df5916638c6b3d4ae639ae4e722a4960eb7b5c45ecf33d040ba279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 763f4ecd6e003545dbdaf5c21816ab34d98350bea612ea780b104804400daefa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Proteção do Ambiente
-- Arganil
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- Água
+- Águas Subterrâneas
+- Arganil
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/2022/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/2022/01/04/p/dre
+- type: cites
+  target: pt:dre:177088818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75607855:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:54Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +170,15 @@ Os anexos i, ii, iii, iv e v da [Portaria n.º 283/2016](https://diariodarepubli
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 6 de novembro de 2026.**
+O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 6 de novembro de 2026.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º da [Portaria 283/2016](https://diariodarepublica.pt/dr/detalhe/portaria/283-2016-75607855), de 27 de outubro)
 
 Coordenadas das captações
 
-|  |  |  |
-| --- | --- | --- |
 | Captação | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | Poço Principal de Alagoa... | 6495,6 | 62631,9 |
 | Poço Secundário de Alagoa (Alagoa II)... | 6352,2 | 62574,4 |
 | Poço do Feijoal... | 3318,1 | 64688,7 |
@@ -180,9 +196,9 @@ Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço 
 
 (Alagoa IV)
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | 6311,8 | 62595,6 |
 | 2... | 6535,4 | 62647,1 |
 | 3... | 6536,5 | 62615,0 |
@@ -196,9 +212,9 @@ Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço 
 
 Poço de Feijoal
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | 3318,9 | 64690,7 |
 | 2... | 3333,9 | 64704,6 |
 | 3... | 3335,3 | 64703,6 |
@@ -211,9 +227,9 @@ Poço de Feijoal
 
 Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 1... | 16695,19 | 69026,19 |
 | 2... | 16773,18 | 69045,63 |
 | 3... | 16776,35 | 69028,93 |
@@ -233,9 +249,9 @@ Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço 
 
 (Alagoa IV)
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 11... | 6215,4 | 62600,0 |
 | 12... | 6535,1 | 62654,9 |
 | 13... | 6700,2 | 62624,1 |
@@ -245,9 +261,9 @@ Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço 
 
 Poço de Feijoal
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 10... | 3138,4 | 64688,7 |
 | 11... | 3162,7 | 64663,3 |
 | 12... | 3199,8 | 64647,5 |
@@ -289,9 +305,9 @@ Poço de Feijoal
 
 Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 9... | 16640,53 | 69052,99 |
 | 10... | 16853,91 | 69075,67 |
 | 11... | 16981,38 | 69109,27 |
@@ -306,9 +322,9 @@ Zonas de proteção alargada
 
 Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa (Alagoa IV)
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 17... | 6339,8 | 62837,3 |
 | 18... | 6660,6 | 62821,8 |
 | 19... | 6866,553 | 63079,2 |
@@ -322,9 +338,9 @@ Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço 
 
 Poço de Feijoal
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 48 ... | 3138,4 | 64688,7 |
 | 49 ... | 3162,7 | 64663,3 |
 | 50 ... | 3199,8 | 64647,5 |
@@ -366,9 +382,9 @@ Poço de Feijoal
 
 Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
 | 14 ... | 16615,85 | 69064,04 |
 | 15 ... | 16845,21 | 69164,48 |
 | 16 ... | 17423,24 | 69243,53 |
@@ -388,14 +404,21 @@ Plantas com a representação das zonas de proteção
 
 Base: Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
-![](https://files.diariodarepublica.pt/images/224366840/224368735.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368735.png) |
+| --- |
 
 Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa (Alagoa IV)
 
 Poço do Feijoal
 
-![](https://files.diariodarepublica.pt/images/224366840/224368736.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368736.png) |
+| --- |
 
 Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
 
-![](https://files.diariodarepublica.pt/images/224366840/224368737.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368737.png) |
+| --- |
+
+117052682
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

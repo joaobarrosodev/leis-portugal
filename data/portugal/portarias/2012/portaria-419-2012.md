@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419/2012/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-2012-190198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04d961a6772fd5901876ff303239c3beec1f956dc37f30f014d30f91aadd2152
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 871f3dd6953c0f9b437ca0d3e53978f46c611a09392f73e2e5b2d2080c46563d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Recursos Hídricos
+- Agência Portuguesa do Ambiente
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
 - Licenciamento
+- Ordenamento do Território
 - Parecer
 - Proteção do Ambiente
-- Agência Portuguesa do Ambiente
+- Recursos Hídricos
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1450/2007/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1450/2007/11/12/p/dre
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:06Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +175,7 @@ Parecer da Agência Portuguesa do Ambiente, I.P.
 
 A presente portaria produz efeitos desde o dia 1 de dezembro de 2012.
 
-**O Secretário de Estado Adjunto da Economia e Desenvolvimento Regional, António Joaquim Almeida Henriques, em 6 de dezembro de 2012. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira, em 11 de dezembro de 2012. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 10 de dezembro de 2012. - O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 12 de dezembro de 2012. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 5 de dezembro de 2012. - O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 4 de dezembro de 2012. - O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 4 de dezembro de 2012. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 3 de dezembro de 2012.**
+O Secretário de Estado Adjunto da Economia e Desenvolvimento Regional, António Joaquim Almeida Henriques, em 6 de dezembro de 2012. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira, em 11 de dezembro de 2012. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 10 de dezembro de 2012. - O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 12 de dezembro de 2012. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 5 de dezembro de 2012. - O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 4 de dezembro de 2012. - O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 4 de dezembro de 2012. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 3 de dezembro de 2012.
 
 ## ANEXO I
 

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 229/2023, 1º Suplemento, Série I de 2023-11-27
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 115-(2) a 115-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22901/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/396-a/2023/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-a-2023-224892455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beb24bab16442ae6841a5311f3d90ad2de3a3bb1fb0cf85e115c199444728b64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e17a79556d2503ca90fd843d9238a2a480b243802d2b0e1ea44520ad38acc90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Vida Selvagem
 - CE Países
-- Regulamentação de Atos Legislativos
 - Controlo Sanitário
-- Importação
 - Exportação
+- Importação
 - Proteção Fitossanitária
+- Regulamentação de Atos Legislativos
 - Regulamento CE
+- Vida Selvagem
 relationships:
 - type: cites
   target: celex:31992R2913
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/48/2018/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/48/2018/02/14/p/dre
+- type: cites
+  target: pt:dre:108185253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114685733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208087601:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:02Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +173,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 24 de novembro de 2023.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - O Secretário de Estado da Conservação da Natureza e Florestas, João Paulo Marçal Lopes Catarino.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - O Secretário de Estado da Conservação da Natureza e Florestas, João Paulo Marçal Lopes Catarino.
 
 ## ANEXO — QUADRO
 
@@ -165,14 +181,14 @@ Em 24 de novembro de 2023.
 
 Estâncias aduaneiras e pontos de entrada ou de saída sob jurisdição nacional em que são executadas as verificações e formalidades relativas à importação e exportação na União Europeia de espécimes de espécies incluídas nos anexos A, B, C ou D do [Regulamento (CE) n.º 338/97](http://data.europa.eu/eli/reg/1997/338/oj?locale=pt), do Conselho, de 9 de dezembro de 1996.
 
-|  |  |  |  |  |  |  |  |
+| Estâncias aduaneiras | Pontos de entrada ou de saída (designação e código UN/LOCODE tal como definido na Recomendação n.º 16 da UNECE). | Animais | Plantas | Madeiras |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Estâncias aduaneiras | Pontos de entrada ou de saída (designação e código UN/LOCODE tal como definido na Recomendação n.º 16 da UNECE). | Animais | Animais | Animais | Plantas | Plantas | Madeiras |
-| Estâncias aduaneiras | Pontos de entrada ou de saída (designação e código UN/LOCODE tal como definido na Recomendação n.º 16 da UNECE). | Vivos | Troféus de caça | Partes e derivados | Vivas | Partes e derivados | Madeiras |
+| Vivos | Troféus de caça | Partes e derivados | Vivas | Partes e derivados |  |  |  |
+|  |  |  |  |  |  |  |  |
 | Alfândega do Aeroporto de Lisboa... | Lisboa - Aeroporto... | X | X | X | X | X |  |
 | Alfândega do Aeroporto do Porto... | Porto - Aeroporto... | X | X | X | X | X |  |
-| Alfândega de Ponta Delgada... | Ponta Delgada - Porto... Ponta Delgada - Aeroporto... | X | X | X | X | X | X |
-| Alfândega do Funchal... | Funchal - Porto... Funchal - Aeroporto ... | X | X | X | X | X | X |
+| Alfândega de Ponta Delgada... | Ponta Delgada - Porto...<br>Ponta Delgada - Aeroporto... | X | X | X | X | X | X |
+| Alfândega do Funchal... | Funchal - Porto...<br>Funchal - Aeroporto ... | X | X | X | X | X | X |
 | Alfândega de Faro - Delegação Aduaneira do Aeroporto de Faro. | Faro - Aeroporto ... |  |  | X |  | X |  |
 | Alfândega Marítima de Lisboa... | Lisboa - Porto... |  |  | X | X | X | X |
 | Alfândega de Leixões... | Leixões - Porto... |  |  | X | X | X | X |
@@ -180,10 +196,14 @@ Estâncias aduaneiras e pontos de entrada ou de saída sob jurisdição nacional
 |  | Sesimbra - Porto... |  |  | (*) |  |  |  |
 | Alfândega de Aveiro... | Aveiro - Porto... |  |  | (*) |  |  | X |
 | Alfândega de Viana do Castelo... | Viana do Castelo - Porto... |  |  | (*) |  |  | X |
-| Alfândega de Alverca... | Alverca - terminal ferroviário e rodoviário. Alverca - terminal rodoviário | X | X | X | X | X | X |
+| Alfândega de Alverca... | Alverca - terminal ferroviário e rodoviário.<br>Alverca - terminal rodoviário | X | X | X | X | X | X |
 | Alfândega de Setúbal - Delegação Aduaneira de Sines. | Sines - Porto... |  |  | (*) |  |  | X |
 | Alfândega de Peniche... | Peniche - Porto... |  |  | (*) |  |  |  |
-| Delegação Aduaneira da Horta... | Horta - Porto... Horta - Aeroporto... |  |  | X |  |  |  |
+| Delegação Aduaneira da Horta... | Horta - Porto...<br>Horta - Aeroporto... |  |  | X |  |  |  |
 | Alfândega do Funchal - Caniçal... | Caniçal - Porto... |  |  | (*) |  |  |  |
 
 (*) Exclusivo para produtos da pesca.
+
+117103444
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl6 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl7 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl17 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl18 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

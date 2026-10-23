@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02800/0080200803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2015/02/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2015-66463208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 606148e08fe2b7ebc22b51f300abb0976d7f2d087c4c2fddca07c451a45e6152
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c013d4d7ebd79ab94d4f16f2af136d357161d550ceb8a4bcc19b7538af42a889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Região Autónoma
-- Livro de Reclamações
-- Cédula Profissional
-- Medicina Privada
-- Serviço de Saúde
-- Saúde
-- Definição de Competências
+- Administração Central do Sistema de Saúde
 - Administração Regional de Saúde
+- Cédula Profissional
+- Definição de Competências
+- Direito de Estabelecimento
 - Especificação Técnica
 - Fiscalização
+- Informação do Consumidor
 - Inspecção Geral das Actividades em Saúde
 - Inspecção Regional da Saúde e Assuntos Sociais
-- Direito de Estabelecimento
 - Licenciamento
-- Produto Homeopático
-- Administração Central do Sistema de Saúde
-- Informação do Consumidor
-- Queixa
-- Qualificação Profissional
+- Livro de Reclamações
 - Madeira.região Autónoma
-- Proteção do Consumidor
+- Medicina Privada
 - Medicinas Alternativas
+- Produto Homeopático
+- Proteção do Consumidor
+- Qualificação Profissional
+- Queixa
+- Região Autónoma
 - Regime Jurídico
+- Saúde
+- Serviço de Saúde
 - Utente
 relationships:
 - type: cites
@@ -115,16 +115,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/182/2014/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/182/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656122:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:54Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +209,9 @@ Para efeitos do âmbito de aplicação do presente diploma em tudo quanto se rep
 
 3 - O regulamento interno e a tabela de preços devem ser afixados em local bem visível e acessível aos utentes.
 
-###### Artigo 5.º — Livro de Reclamações
+###### Artigo 5.º
+
+## Livro de Reclamações
 
 As instalações onde sejam prestados cuidados de saúde na área das terapêuticas não convencionais estão sujeitas à obrigatoriedade de existência e disponibilidade de um livro de reclamações para os utentes, nos termos da legislação em vigor.
 
@@ -211,10 +237,10 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 8 de janeiro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Publique-se.**
+Publique-se.
 
-**Assinado em 23 de janeiro de 2015.**
+Assinado em 23 de janeiro de 2015.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

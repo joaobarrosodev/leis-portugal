@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2023/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2023-205855982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0826fddd702adfd61cdcfeb9adacd5a2ad4a357c30580ae180263de4ee85be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f2cb0f4e8f169e4d93da1e98317330d60ec9a6911156aa49b7a0ae0b661db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central de Saúde
+- Administração Central do Sistema de Saúde
 - Assistência Médica
 - Diagnóstico Pré-natal
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Fixação de Preços
 - Meios Complementares de Diagnóstico
-- Administração Central do Sistema de Saúde
-- Preço
 - Ministério da Saúde
+- Preço
+- Regulamentação de Atos Legislativos
 - Regulamento
+- Serviço Nacional de Saúde
 - Sistema Integrado de Gestão do Acesso
 relationships:
 - type: amended_by
@@ -124,16 +124,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/330/2017/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/330/2017/10/31/p/dre
+- type: cites
+  target: pt:dre:107669157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116307676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116353279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122239314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185156406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203573301:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:04Z'
   warnings: []
   errors: []
 ---
@@ -192,13 +236,13 @@ Nas situações em que o tratamento não esteja integrado no programa nacional d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 4 de janeiro de 2023.**
+O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 4 de janeiro de 2023.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 TABELA DE MEDICINA DA REPRODUÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf)
 
 TABELA DE RADIOLOGIA
 
@@ -208,4 +252,6 @@ Abdómen e pélvis
 
 Exames ecográficos de diagnóstico pré-natal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0000800011.pdf)
+
+116036829

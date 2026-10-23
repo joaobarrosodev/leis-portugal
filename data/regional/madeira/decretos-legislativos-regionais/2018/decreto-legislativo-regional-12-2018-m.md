@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2018/08/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62e7a1bf2f718dd48298f1ac6616a3e78cad2f3453dbc8de74479f24af405267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea72cbd105282e19eb60c105aa3142257d661f554a0d1d87d830b4c54e9db0e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,50 +68,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
-- BENS Imóveis
-- Rede
+- Ação Social
+- Administração Regional
 - Aquisição de Bens e Serviços
-- Valores Mobiliários
 - Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Médico
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Avaliação do Pessoal
+- BENS Imóveis
+- Centro de Saúde
 - Conselho de Administração
-- Governo Regional
 - Conselho Fiscal
-- Serviço de Saúde
+- Contratação de Pessoal
+- Contribuições e Impostos
 - Declaração de Rendimentos
 - Definição de Competências
+- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
+- Estabelecimento Hospitalar
 - Estatuto
-- Ação Social
-- Contribuições e Impostos
+- Fundo de Viagens e Alojamento
+- Governo Regional
 - Incentivo Profissional
 - Inspecção Regional de Finanças
 - Instituto de Desenvolvimento Empresarial
+- Instituto de Segurança Social da Madeira
 - Integração de Trabalhadores
-- Centro de Saúde
+- Jogos de Fortuna e Azar
 - Lei Geral do Trabalho em Funções Públicas
 - Madeira Parques Empresariais
-- Contratação de Pessoal
-- Orçamento
 - Madeira.região Autónoma
+- Médico
+- Orçamento
 - Reabilitação
 - Receita Pública
-- Estabelecimento Hospitalar
+- Rede
 - Revisor Oficial de Contas
-- Sesaram
-- Serviço Regional de Saúde
-- Avaliação do Pessoal
-- Administração Regional
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
 - SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
-- Instituto de Segurança Social da Madeira
-- Fundo de Viagens e Alojamento
+- Serviço de Saúde
+- Serviço Regional de Saúde
+- Sesaram
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterado, com efeitos desde 01.01.2020, o art. 7.º, na redação do presente diploma, do DLR 34/2008/M de 14-ago, na
+    versão republicada pelo DLR 6/2018/M de 15-mar, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República
+    n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/56/200
   label: null
@@ -152,16 +159,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114866946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115017488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72927557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:17Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +335,9 @@ l) Da alteração de responsabilidade da execução da despesa, entre as áreas 
 
 4 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -238,7 +359,9 @@ b) Aos eventos de animação turística referentes a Natal, Fim de Ano, Carnaval
 
 8 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -280,7 +403,9 @@ f) Projetos de recuperação/reabilitação de imóveis destinados à prossecuç
 
 14 - [...].
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -292,7 +417,9 @@ f) Projetos de recuperação/reabilitação de imóveis destinados à prossecuç
 
 5 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -342,7 +469,9 @@ j) [Revogada].
 
 14 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - As entidades públicas empresariais e as empresas públicas de capital exclusiva ou maioritariamente público, podem contratar trabalhadores na modalidade de contrato por tempo indeterminado, contrato a termo ou comissão de serviço, quando se destine, respetivamente a substituir a saída definitiva, a ausência de trabalhadores ou cessação de comissão de serviço ocorrida em 2018.
 
@@ -388,7 +517,9 @@ c) A aprovação de regulamentos internos relativos a organização interna, das
 
 14 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -404,7 +535,9 @@ c) A aprovação de regulamentos internos relativos a organização interna, das
 
 7 - O disposto no n.º 6 é aplicável às situações de integração constituídas ao abrigo do artigo 52.º do [Decreto Legislativo Regional n.º 42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, transitando os respetivos trabalhadores para o vínculo de emprego público, com efeitos reportados à data daquela integração.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - O artigo 5.º do [Decreto Legislativo Regional n.º 7/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2013-258708), de 14 de fevereiro, passa a ter a seguinte redação:
 
@@ -572,7 +705,9 @@ c) Para a carreira de assistente operacional, os trabalhadores que se encontram 
 
 3 - O direito a abono para falhas pode ser reconhecido a mais de um trabalhador por cada órgão ou serviço, quando a atividade de manuseamento ou guarda de valores, numerário, títulos ou documentos, referida no presente artigo, abranja diferentes postos de trabalho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O montante pecuniário do abono para falhas é o fixado na [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de dezembro.
 
@@ -590,11 +725,15 @@ c) Para a carreira de assistente operacional, os trabalhadores que se encontram 
 
 Quaisquer dos bens afetos à concessão, e que estão referidos nas três alíneas da Base XXIII, não podem ser alienados ou onerados ou por qualquer meio limitada a sua utilidade, ainda que mediata, para a concessão, durante todo o seu prazo de duração, sem a devida autorização por parte da concedente.
 
-###### Base XXV — [...]
+Base XXV
+
+[...]
 
 A concessionária manterá um inventário, devidamente atualizado, dos bens afetos à concessão.
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 Consideram-se afetos à concessão o conjunto das relações jurídicas, nomeadamente as laborais, de mútuo, de empreitada, de locação, de locação financeira e de prestação de serviços que se hajam constituído para dotar a concessionária dos instrumentos necessários ao cumprimento do contrato.
 
@@ -634,7 +773,9 @@ g) [...];
 
 h) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]:
 
@@ -646,7 +787,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do Conselho Fiscal.
 
@@ -658,7 +801,9 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 21.º — Conselho fiscal e revisor oficial de contas
+Artigo 21.º
+
+Conselho fiscal e revisor oficial de contas
 
 1 - A fiscalização e controlo da gestão financeira e patrimonial é exercida por um conselho fiscal e por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas, que não seja membro daquele órgão, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
 
@@ -672,7 +817,9 @@ d) [...].
 
 6 - Cessando o mandato do conselho fiscal e do revisor oficial de contas ou da sociedade de revisores oficiais de contas, mantêm-se os titulares em exercício de funções, até à designação de novos ou à declaração governamental de cessação de funções.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.
 
@@ -710,7 +857,9 @@ d) Verificar se os critérios valorimétricos adotados pelo SESARAM, E. P. E., c
 
 5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal e o revisor oficial de contas ou a sociedade de revisores oficiais de contas, devem emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 [...]:
 
@@ -746,7 +895,9 @@ Objeto e âmbito
 
 4 - O presente diploma é ainda aplicável, com as devidas adaptações, à cooperação com as instituições referidas nos números anteriores e que envolva a intervenção do Instituto de Segurança Social da Madeira, IP-RAM, mas cujos encargos financeiros sejam diretamente assumidos pelo orçamento da Região Autónoma da Madeira, através de dotações atribuídas à Secretaria Regional da Inclusão e Assuntos Sociais, em virtude de insuficiência de dotações disponibilizadas em sede do orçamento anual daquele instituto público.
 
-###### Artigo 4.º — Procedimentos e sujeitos
+Artigo 4.º
+
+Procedimentos e sujeitos
 
 1 - [...].
 
@@ -848,11 +999,11 @@ O contraente público deve comunicar mensalmente à Autoridade Tributária os co
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de julho de 2018.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 24 de julho de 2018.**
+Assinado em 24 de julho de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -862,7 +1013,7 @@ Receitas da Região
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA II
 
@@ -870,7 +1021,7 @@ Despesas por Departamentos Regionais e Capítulos
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA III
 
@@ -878,7 +1029,7 @@ Despesas por Classificação Funcional
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA IV
 
@@ -886,7 +1037,7 @@ Despesas por Grandes Agrupamentos Económicos
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA V
 
@@ -896,7 +1047,7 @@ Receita Global dos Serviços, Institutos e Fundos Autónomos
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA VI
 
@@ -906,7 +1057,7 @@ Despesa Global dos Serviços, Institutos e Fundos Autónomos
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA VII
 
@@ -914,7 +1065,7 @@ Despesas dos Serviços, Institutos e Fundos Autónomos por Classificação Funci
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA VIII
 
@@ -922,7 +1073,7 @@ Despesas dos Serviços, Institutos e Fundos Autónomos por Grandes Agrupamentos 
 
 [art.º3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA IX
 
@@ -930,10 +1081,12 @@ Programação Plurianual do Investimento por Programas e Medidas
 
 Unidade: Euros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
 
 MAPA X
 
 Despesas Correspondentes a Programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15000/0381203898.pdf)
+
+111550651

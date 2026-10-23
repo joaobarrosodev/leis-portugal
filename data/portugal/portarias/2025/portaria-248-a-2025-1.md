@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/10401/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/248-a/2025/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2025-920132390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9134bb9b4bf5f49f44488f3a964d480a017fb1cdf23aa0e18dc871dfc49dcbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31cf2fd0e1292447bf575a5f796df0047e5961b5254f028b1ee9d92e47f6165a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Agência para o Clima
+- Estatuto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2024/12/31/p/dre
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661921:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:38Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +134,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 29 de maio de 2025. - O Ministro da Economia, Pedro Reis, em 29 de maio de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 28 de maio de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 29 de maio de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 29 de maio de 2025. - O Ministro da Economia, Pedro Reis, em 29 de maio de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 28 de maio de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 29 de maio de 2025.
 
 ## ANEXO — Estatutos da Agência para o Clima, I. P.
 
@@ -479,3 +495,5 @@ j) Promover, em articulação com o Departamento Financeiro, a recuperação, po
 k) Produzir orientações gerais e orientações técnicas no âmbito da contratação pública;
 
 l) Apoiar o Departamento de Gestão Operacional na verificação da conformidade legal de procedimentos de formação e execução de contratos públicos, no âmbito da apresentação de candidaturas e de análise de pedidos de pagamento aos fundos nacionais, europeus, internacionais e programas.
+
+119120888

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2011/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2011-279422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e53d4037596dec1dc68b0bd70c2677046d1063c52c0655a95ed0dc16f50da0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9ae158a43bca1a8564d8326a45eb566138a94775806c87ac38f1ac219ff3ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aprendizagem
 - Apoio Pedagógico
-- Língua Portuguesa
+- Aprendizagem
+- Ensino Básico
 - Estudante
 - Insucesso Escolar
+- Língua Portuguesa
 - Matemática
-- Ensino Básico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2011/02/02/p/dre
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/50/2005/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/50/2005/11/09/p/dre
+- type: cites
+  target: pt:dre:280496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:16Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +203,4 @@ c) Cujos encarregados de educação assumam compromisso escrito de que o acompan
 
 A presente portaria produz efeitos a 1 de Setembro de 2011, sem prejuízo da aplicação do disposto no n.º 2 do artigo 4.º relativamente à avaliação final realizada no final do ano lectivo de 2010-2011.
 
-**A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 22 de Fevereiro de 2011.**
+A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 22 de Fevereiro de 2011.

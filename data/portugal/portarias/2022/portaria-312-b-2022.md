@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 74-(38) a 74-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25101/0003800052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312-b/2022/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3972f9acac550c0e6c7ad6db545f7e77e651c2124e4051d3952638d3489905eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e67050c24429921a6c659b8d3cef10c1050e5b9d6ceae04c735d5bae30deee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartão de Cidadão
-- Certificação Electrónica
-- Instituto dos Registos e do Notariado
-- Regulamentação de Atos Legislativos
-- Pagamento
-- Segurança da Informação
-- Documento Eletrónico
-- Página na Internet
-- Portal do Cidadão
-- Internet
-- Prazo
-- Prazo de Validade
 - Agência para a Modernização Administrativa
 - Assinatura Digital
-- Regulamento CE
-- Dados Pessoais
-- Taxa
+- Cartão de Cidadão
+- Certificação Electrónica
 - Chave Móvel Digital
-- Plataforma Eletrónica
+- Dados Pessoais
+- Documento Eletrónico
+- Instituto dos Registos e do Notariado
+- Internet
+- Pagamento
+- Página na Internet
 - Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
+- Portal do Cidadão
+- Prazo
+- Prazo de Validade
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Segurança da Informação
+- Taxa
 relationships:
 - type: cites
   target: celex:32014R0910
@@ -123,16 +123,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/287/2017/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/287/2017/09/28/p/dre
+- type: cites
+  target: pt:dre:108228008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108228009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122657688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169832468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 30
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:11Z'
   warnings: []
   errors: []
 ---
@@ -191,13 +215,17 @@ f) [...];
 
 g) Os termos de ativação dos certificados do cartão de cidadão através do recurso a sistema biométrico de comparação das imagens do rosto, recolhidas eletronicamente e em tempo real, com a imagem facial constante do sistema de informação responsável pelo ciclo de vida do cartão de cidadão.
 
-###### Artigo 6.º — Entrega do cartão de cidadão solicitado por via eletrónica
+Artigo 6.º
+
+Entrega do cartão de cidadão solicitado por via eletrónica
 
 1 - (Revogado.)
 
 2 - O cartão de cidadão solicitado por via eletrónica é entregue presencialmente, mediante conferência da identidade do seu titular ou de quem o represente, quando este seja menor ou maior acompanhado que careça de representação para o ato.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -241,7 +269,9 @@ e) Sendo o titular do cartão de cidadão maior acompanhado, não careça de rep
 
 5 - Na renovação prevista no n.º 3 do presente artigo não pode ocorrer qualquer alteração de dados do titular do cartão de cidadão.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os pedidos de cancelamento do cartão de cidadão podem ser apresentados no portal único de serviços.
 
@@ -271,7 +301,9 @@ f) [...].
 
 8 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O pedido de cancelamento do cartão de cidadão, quanto efetuado por via telefónica, é realizado através de centro de contacto gerido pelo IRN ou de centro de contacto gerido pela AMA.
 
@@ -289,7 +321,9 @@ Pedido de emissão de cartão de cidadão por via eletrónica
 
 O pedido de emissão de cartão de cidadão, na sequência da declaração de nascimento online, pode ser apresentado por um dos progenitores, por via eletrónica, no portal único de serviços ou na plataforma digital da justiça, disponível em https://justica.gov.pt, após a confirmação do registo de nascimento.
 
-###### Artigo 7.º-B — Ativação dos certificados do cartão de cidadão por via eletrónica
+Artigo 7.º-B
+
+Ativação dos certificados do cartão de cidadão por via eletrónica
 
 1 - A ativação do certificado de autenticação segura do cartão de cidadão, quando este tenha sido enviado para a morada do titular, ou a ativação do certificado para assinatura eletrónica qualificada pode ser realizada por via eletrónica, mediante consentimento prévio do cidadão para o tratamento de dados referido no presente artigo, através de aplicação disponibilizada para o efeito pela AMA.
 
@@ -311,7 +345,9 @@ O pedido de emissão de cartão de cidadão, na sequência da declaração de na
 
 10 - O procedimento de ativação dos certificados do cartão de cidadão é realizado em conformidade com as orientações do Gabinete Nacional de Segurança em matéria de identificação de pessoas físicas através de procedimentos de identificação à distância com recurso a sistemas biométricos automáticos de reconhecimento facial.
 
-###### Artigo 7.º-C — Pedido de alteração de morada do cartão de cidadão por via eletrónica
+Artigo 7.º-C
+
+Pedido de alteração de morada do cartão de cidadão por via eletrónica
 
 1 - O pedido de alteração de morada pode ser apresentado por via eletrónica, nomeadamente no portal único de serviços ou através de videochamada, cujo agendamento se encontra disponível nesse portal, quando estejam preenchidos os seguintes requisitos:
 
@@ -335,7 +371,9 @@ b) O titular do cartão de cidadão ou quem o represente, se o titular ainda nã
 
 9 - No caso da nova morada não ser confirmada no prazo de 90 dias seguidos após o envio do código o processo é extinto sem que seja alterada a morada.
 
-###### Artigo 7.º-D — Pedido de emissão de novos códigos pessoais por via eletrónica e por via telefónica
+Artigo 7.º-D
+
+Pedido de emissão de novos códigos pessoais por via eletrónica e por via telefónica
 
 1 - O pedido de emissão de novo código pessoal (PIN) e de novo código pessoal para desbloqueio (PUK) pode ser apresentado no portal único de serviços e por telefone, quando estejam preenchidos os seguintes requisitos:
 
@@ -347,7 +385,9 @@ c) O titular do cartão de cidadão, ou quem represente o titular menor de 16 an
 
 2 - Os novos códigos PIN e PUK são enviados para a morada do titular do cartão de cidadão.
 
-###### Artigo 7.º-E — Portal único de serviços
+Artigo 7.º-E
+
+Portal único de serviços
 
 Para efeitos da presente secção, o portal único de serviços garante:
 
@@ -361,7 +401,9 @@ d) A comunicação eletrónica da conclusão com sucesso do pedido, que é efetu
 
 e) A recolha de informação complementar, para efeitos de identificação do interessado.
 
-###### Artigo 9.º-A — Tratamento de dados pela AMA
+Artigo 9.º-A
+
+Tratamento de dados pela AMA
 
 1 - O tratamento de dados no âmbito dos serviços prestados através do portal único de serviços, da aplicação disponibilizada pela AMA e do serviço de videochamada referidos na presente portaria, são realizados pela AMA, que atua por conta do IRN nos termos do n.º 3 do artigo 36.º e do n.º 3 do artigo 38.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual, e demais legislação aplicável.
 
@@ -405,7 +447,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 21 de dezembro de 2022.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -754,3 +796,5 @@ a) ISO 7810;
 b) ISO 10373;
 
 c) ICAO 9303.
+
+116013321

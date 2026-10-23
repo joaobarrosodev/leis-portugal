@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2025/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24c63fbda6782b90bf329a5d912a8f131643aa14bd71b04967e94d795146b56c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74f087d70f30a96d6effd0b069234daf244567bd9884a2c83e0aa71131765205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,187 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Remuneração Complementar Regional
-- Região Autónoma
-- Violência
-- Governo Regional
-- Saúde
-- Despesas Públicas
 - Administração Pública
-- Estatuto Político-Administrativo da Região Autónoma da Madeira
-- Gestão Orçamental
-- Orçamento
-- Orçamento Regional
-- Saúde Mental
-- Remuneração
 - Administração Regional
 - Contabilidade Pública
-- Subsídio de Insularidade
-- Orçamento Participativo da Região Autónoma da Madeira
-- Região Autónoma da Madeira
+- Despesas Públicas
+- Estatuto Político-Administrativo da Região Autónoma da Madeira
+- Gestão Orçamental
+- Governo Regional
 - Habitação Colaborativa e Comunitária
+- Orçamento
+- Orçamento Participativo da Região Autónoma da Madeira
+- Orçamento Regional
+- Região Autónoma
+- Região Autónoma da Madeira
+- Remuneração
+- Remuneração Complementar Regional
+- Saúde
+- Saúde Mental
+- Subsídio de Insularidade
+- Violência
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:4/2000/M
+  label: Suspende, durante o ano de 2026, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos artigos 31.º a 34.º do Decreto Legislativo Regional n.º 4/2000/M,
+    de 31 de janeiro, Diário da República n.º 25/2000, Série I-A
+  source: null
+  date: '2000-01-31'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:2/2001/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 2.º do Decreto
+    Legislativo Regional n.º 2/2001/M, de 20 de fevereiro, Diário da República n.º 43/2001, Série I-A
+  source: null
+  date: '2001-02-20'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:3/2001/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 2.º do Decreto
+    Legislativo Regional n.º 3/2001/M, de 22 de fevereiro, Diário da República n.º 45/2001, Série I-A
+  source: null
+  date: '2001-02-22'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:29-A/2005/M
+  label: Mantém em vigor o suplemento de integração na Região Autónoma da Madeira, atribuído aos trabalhadores da Autoridade
+    Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do artigo 44.º do Decreto Regulamentar Regional
+    n.º 29-A/2005/M, de 31 de agosto, Diário da República n.º 167/2005, 1º Suplemento, Série I-B
+  source: null
+  date: '2005-08-31'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2005/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 2.º da Estrutura
+    Orgânica da Inspeção Regional de Finanças, aprovada em anexo ao Decreto Legislativo Regional n.º 18/2005/M, de 24 de novembro,
+    Diário da República n.º 226/2005, Série I-A
+  source: null
+  date: '2005-11-24'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:28/2006/M
+  label: Mantém em vigor o suplemento de produtividade atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais
+    da Região Autónoma da Madeira, ao abrigo dos artigos 34.º e 35.º do Decreto Legislativo Regional n.º 28/2006/M, de 19
+    de julho, Diário da República n.º 138/2006, Série I
+  source: null
+  date: '2006-07-19'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:34/2008/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 7.º do Decreto
+    Legislativo Regional n.º 34/2008/M, de 14 de agosto, Diário da República n.º 157/2008, Série I
+  source: null
+  date: '2008-08-14'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:5/2013/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 3.º do anexo ao
+    Decreto Legislativo Regional n.º 5/2013/M, de 5 de fevereiro, Diário da República n.º 25/2013, Série I
+  source: null
+  date: '2013-02-05'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:29/2013/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, os artigos 8.º e 27.º-A
+    e o anexo i e adita os artigos 12.º-A e 25.º-A e o anexo ii ao Decreto Legislativo Regional n.º 29/2013/M, de 22 de agosto,
+    Diário da República n.º 161/2013, Série I
+  source: null
+  date: '2013-08-22'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:30/2013/M
+  label: Prorroga, até 31 de dezembro de 2026, o regime excecional a que se refere o n.º 4 do artigo 2.º do Decreto Legislativo
+    Regional n.º 30/2013/M, de 10 de dezembro, Diário da República n.º 239/2013, Série I
+  source: null
+  date: '2013-12-10'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:21/2016/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, os artigos 5.º e 16.º do
+    Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio, Diário da República n.º 93/2016, Série I
+  source: null
+  date: '2016-05-13'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:17/2017/M
+  label: Adita, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 12.º-A ao Decreto
+    Legislativo Regional n.º 17/2017/M, de 8 de junho, Diário da República n.º 111/2017, Série I
+  source: null
+  date: '2017-06-08'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2017/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 168.º do Decreto
+    Legislativo Regional n.º 18/2017/M, de 27 de junho, Diário da República n.º 122/2017, Série I
+  source: null
+  date: '2017-06-27'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:2/2018/M
+  label: Mantém em vigor, durante o ano de 2026, o suplemento de isenção de horário de trabalho, criado pelo n.º 3 do artigo
+    44.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, Diário da República n.º 6/2018, Série I
+  source: null
+  date: '2018-01-09'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:11/2018/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, os artigos 15.º e 19.º
+    e revoga a alínea b) do n.º 2 do artigo 13.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, Diário da
+    República n.º 149/2018, Série I
+  source: null
+  date: '2018-08-03'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:15/2018/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o anexo i e adita o artigo
+    21.º-A ao Decreto Legislativo Regional n.º 15/2018/M, de 20 de agosto, Diário da República n.º 159/2018, Série I
+  source: null
+  date: '2018-08-20'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:17/2018/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o anexo e adita os artigos
+    18.º-A e 20.º-A ao Decreto Legislativo Regional n.º 17/2018/M, de 20 de agosto, Diário da República n.º 159/2018, Série
+    I
+  source: null
+  date: '2018-08-20'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:12/2020/M
+  label: Mantém em vigor os suplementos remuneratórios criados pelos artigos 11.º e 12.º do Decreto Legislativo Regional n.º
+    12/2020/M, de 10 de agosto, Diário da República n.º 154/2020, Série I
+  source: null
+  date: '2020-08-10'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2020/M
+  label: Mantém em vigor o suplemento remuneratório criado pelo artigo 57.º, o complemento regional para idosos, previsto
+    no artigo 75.º, o acréscimo remuneratório previsto no artigo 76.º e mantém em execução o programa GÁS-SOLIDÁRIO.RAM, criado
+    pelo artigo 78.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, Diário da República n.º 253/2020, Série
+    I
+  source: null
+  date: '2020-12-31'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:5/2021/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 13.º e os anexos
+    i e ii e adita os artigos 28.º-A e 29.º-A ao Decreto Legislativo Regional n.º 5/2021/M, de 11 de março, Diário da República
+    n.º 49/2021, Série I
+  source: null
+  date: '2021-03-11'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:28-A/2021/M
+  label: Mantém em vigor o regime previsto no artigo 19.º-A do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro,
+    Diário da República n.º 252/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-12-30'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:4/2024/M
+  label: Altera, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, os artigos 15.º, 18.º,
+    20.º e 23.º e revoga a alínea b) do n.º 1 do artigo 9.º do Decreto Legislativo Regional n.º 4/2024/M, de 3 de abril, Diário
+    da República n.º 66/2024, Série I
+  source: null
+  date: '2024-04-03'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:6/2024/M
+  label: Mantém em vigor o disposto nos artigos 84.º, 93.º, 94.º e 103.º do Decreto Legislativo Regional n.º 6/2024/M, de
+    29 de julho, Diário da República n.º 145/2024, Série I
+  source: null
+  date: '2024-07-29'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:13/2024/M
+  label: Mantém em vigor o suplemento remuneratório previsto no artigo 19.º do Decreto Legislativo Regional n.º 13/2024/M,
+    de 4 de dezembro, Diário da República n.º 235/2024, Série I
+  source: null
+  date: '2024-12-04'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:2/2025/M
+  label: Mantém em vigor a medida de valorização especial dos trabalhadores da administração pública regional prevista no
+    artigo 50.º do Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho, Diário da República n.º 125/2025, Série I
+  source: null
+  date: '2025-07-02'
 - type: cites
   target: celex:32013R0228
   label: null
@@ -129,16 +290,450 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107494013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124917021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139918084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159219302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177528435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186721644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187154280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214315736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214870723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216598404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221029890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223575032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55028878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72927557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858631721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876300988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913224267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:923290710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926481290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416002:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:30/2003/M
+  label: Revoga, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o Decreto Legislativo Regional
+    n.º 30/2003/M, de 9 de dezembro, Diário da República n.º 283/2003, Série I-A
+  source: null
+  date: '2003-12-09'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:1/2012/M
+  label: Revoga, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o n.º 3 do artigo 1.º do
+    Decreto Legislativo Regional n.º 1/2012/M, de 15 de março, Diário da República n.º 54/2012, Série I
+  source: null
+  date: '2012-03-15'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:25/2018/M
+  label: Revoga, a partir de 31 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, o artigo 14.º do Decreto
+    Legislativo Regional n.º 25/2018/M, de 28 de dezembro, Diário da República n.º 250/2018, Série I
+  source: null
+  date: '2018-12-28'
 article_structure:
-  article_count: 142
+  article_count: 131
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:58Z'
   warnings: []
   errors: []
 ---
@@ -345,9 +940,9 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-| Rendimento coletável (euro) | Taxas (percentagem) | Taxas (percentagem) |
+| Rendimento coletável (euro) | Taxas (percentagem) |  |
 | --- | --- | --- |
-| Rendimento coletável (euro) | Normal (A) | Média (B) |
+| Normal (A) | Média (B) |  |
 | Até 8 342 | 8,75 | 8,750 |
 | De mais de 8 342 até 12 587 | 10,99 | 9,505 |
 | De mais de 12 587 até 17 838 | 14,84 | 11,076 |
@@ -1418,7 +2013,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -1426,7 +2023,9 @@ e) [...]
 
 3 - A não entrega da documentação no prazo estipulado ou a ausência da manutenção das situações de carência ou dos pressupostos que determinaram a atribuição, originam a não renovação do contrato ou a sua resolução.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -1438,7 +2037,9 @@ e) [...]
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 [...]
 
@@ -1506,7 +2107,7 @@ Os artigos 1.º e 2.º do [Decreto Regional n.º 10/82/M](https://diariodarepubl
 
 2 - O disposto no número anterior não se aplica aos veículos isentos de distintivos e cor padrão Tipologia A.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O incumprimento do disposto no n.º 1 do artigo anterior constitui contraordenação punível nos termos da alínea e) do n.º 1 do artigo 35.º do [Decreto-Lei n.º 101/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), de 31 de outubro, que aprova o regime jurídico do serviço público de transporte de passageiros em táxi.»
 
@@ -1680,7 +2281,9 @@ O artigo 3.º do anexo ao [Decreto Legislativo Regional n.º 5/2013/M](https://d
 
 11 - [...]
 
-###### Artigo 27.º-A — [...]
+Artigo 27.º-A
+
+[...]
 
 1 - Os trabalhadores integrados na carreira especial de guarda florestal da Região Autónoma da Madeira, bem como os mestres florestais coordenadores, têm direito a um suplemento de risco, pago em 12 vezes por ano, no montante de € 350,00 (trezentos e cinquenta euros) mensais.
 
@@ -1688,27 +2291,29 @@ O artigo 3.º do anexo ao [Decreto Legislativo Regional n.º 5/2013/M](https://d
 
 3 - [...]
 
-## ANEXO I — Estrutura remuneratória da carreira especial de guarda florestal
+ANEXO I
+
+Estrutura remuneratória da carreira especial de guarda florestal
 
 (a que se referem os artigos 11.º e 12.º)
 
-| Carreira | Categoria | Grau de complexidade funcional | Número de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única | Níveis remuneratórios da tabela remuneratória única |
+| Carreira | Categoria | Grau de complexidade funcional | Número de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |  |
 | --- | --- | --- | --- | --- | --- |
-| Guarda-florestal | Mestre florestal principal | 2 | 1.ª | 19 | 19 |
-|  |  |  | 2.ª | 20 | 20 |
-|  |  |  | 3.ª | 21 | 21 |
-|  | Mestre florestal | 2 | 1.ª | 15 | 15 |
-|  |  |  | 2.ª | 16 | 16 |
-|  |  |  | 3.ª | 17 | 17 |
-|  |  |  | 4.ª | 18 | 18 |
-|  |  |  | 5.ª | 19 | 19 |
-|  | Guarda-florestal | 2 | 1.ª | 8 | 8 |
-|  |  |  | 2.ª | 9 | 9 |
-|  |  |  | 3.ª | 10 | 10 |
-|  |  |  | 4.ª | 11 | 11 |
-|  |  |  | 5.ª | 12 | 12 |
-|  |  |  | 6.ª | 13 | 13 |
-|  |  |  | 7.ª | 14 | 14 |
+| Guarda-florestal | Mestre florestal principal | 2 | 1.ª | 19 |  |
+|  |  |  | 2.ª | 20 |  |
+|  |  |  | 3.ª | 21 |  |
+|  | Mestre florestal | 2 | 1.ª | 15 |  |
+|  |  |  | 2.ª | 16 |  |
+|  |  |  | 3.ª | 17 |  |
+|  |  |  | 4.ª | 18 |  |
+|  |  |  | 5.ª | 19 |  |
+|  | Guarda-florestal | 2 | 1.ª | 8 |  |
+|  |  |  | 2.ª | 9 |  |
+|  |  |  | 3.ª | 10 |  |
+|  |  |  | 4.ª | 11 |  |
+|  |  |  | 5.ª | 12 |  |
+|  |  |  | 6.ª | 13 |  |
+|  |  |  | 7.ª | 14 |  |
 |  |  |  | 8.ª | 15 | » |
 
 2 - São aditados os artigos 12.º-A, 25.º-A e o Anexo II ao [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na sua atual redação, com a seguinte redação:
@@ -1721,13 +2326,17 @@ Posições remuneratórias complementares
 
 2 - As posições remuneratórias complementares referidas no número anterior visam garantir as expectativas de evolução remuneratória dos atuais trabalhadores.
 
-###### Artigo 25.º-A — Reposicionamento remuneratório
+Artigo 25.º-A
+
+Reposicionamento remuneratório
 
 1 - Os trabalhadores que, a 1 de janeiro de 2026, se encontrem integrados na carreira especial de guarda florestal, mantêm a posição remuneratória da respetiva categoria fixada no Anexo I ao presente diploma.
 
 2 - Para efeitos de alteração do nível remuneratório e da consequente progressão na carreira, são mantidos os pontos obtidos, bem como as correspondentes menções qualitativas e quantitativas atribuídas no âmbito do sistema de avaliação de desempenho.
 
-## ANEXO II — Posições remuneratórias complementares
+ANEXO II
+
+Posições remuneratórias complementares
 
 (a que se refere o artigo 12.º-A)
 
@@ -1735,10 +2344,10 @@ Carreira de guarda-florestal
 
 Categoria de guarda-florestal
 
-| Carreira | Categoria | Grau de complexidade funcional | Número de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única | Níveis remuneratórios da tabela remuneratória única |
+| Carreira | Categoria | Grau de complexidade funcional | Número de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |  |
 | --- | --- | --- | --- | --- | --- |
-| Guarda-florestal | Guarda-florestal | 2 | 9.ª | 16 | 16 |
-|  |  |  | 10.ª | 17 | 17 |
+| Guarda-florestal | Guarda-florestal | 2 | 9.ª | 16 |  |
+|  |  |  | 10.ª | 17 |  |
 |  |  |  | 11.ª | 18 | » |
 
 ###### Artigo 103.º — Alteração ao [Decreto Legislativo Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), de 13 de maio
@@ -1787,7 +2396,9 @@ q) Requerer ao Governo Regional a declaração de utilidade pública para exprop
 
 r) [Anterior alínea p).]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -1867,7 +2478,9 @@ O artigo 168.º do [Decreto Legislativo Regional n.º 18/2017/M](https://diariod
 
 6 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -1889,20 +2502,20 @@ Estrutura remuneratória da carreira especial de técnico de espaços verdes
 
 (a que se referem os artigos 17.º e 18.º)
 
-| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única | Níveis remuneratórios da tabela remuneratória única |
-| --- | --- | --- | --- | --- | --- |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes Encarregado | 1 | 1.ª | 14 | 14 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes Encarregado | 1 | 2.ª | 15 | 15 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes Encarregado | 1 | 3.ª | 16 | 16 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes Encarregado | 1 | 4.ª | 17 | 17 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 1.ª | 7 | 7 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 2.ª | 8 | 8 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 3.ª | 9 | 9 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 4.ª | 10 | 10 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 5.ª | 11 | 11 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 6.ª | 12 | 12 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 7.ª | 13 | 13 |
-| Técnico de Espaços Verdes | Técnico de Espaços Verdes | 1 | 8.ª | 14 | » |
+| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |
+| --- | --- | --- | --- | --- |
+| Técnico de Espaços Verdes | Técnico de Espaços Verdes Encarregado | 1 | 1.ª | 14 |
+| 2.ª | 15 |  |  |  |
+| 3.ª | 16 |  |  |  |
+| 4.ª | 17 |  |  |  |
+| Técnico de Espaços Verdes | 1 | 1.ª | 7 |  |
+| 2.ª | 8 |  |  |  |
+| 3.ª | 9 |  |  |  |
+| 4.ª | 10 |  |  |  |
+| 5.ª | 11 |  |  |  |
+| 6.ª | 12 |  |  |  |
+| 7.ª | 13 |  |  |  |
+| 8.ª | 14 | » |  |  |
 
 2 - É aditado o artigo 21.º-A ao [Decreto Legislativo Regional n.º 15/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-116108109), de 20 de agosto, na sua atual redação, com a seguinte redação:
 
@@ -1924,16 +2537,16 @@ Posições e níveis remuneratórios da carreira de sapador florestal
 
 (a que se referem os artigos 17.º e 18.º)
 
-| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única | Níveis remuneratórios da tabela remuneratória única |
-| --- | --- | --- | --- | --- | --- |
-| Sapador florestal | Sapador florestal | 1 | 1.ª | 8 | 8 |
-| Sapador florestal | Sapador florestal | 1 | 2.ª | 9 | 9 |
-| Sapador florestal | Sapador florestal | 1 | 3.ª | 10 | 10 |
-| Sapador florestal | Sapador florestal | 1 | 4.ª | 11 | 11 |
-| Sapador florestal | Sapador florestal | 1 | 5.ª | 12 | 12 |
-| Sapador florestal | Sapador florestal | 1 | 6.ª | 13 | 13 |
-| Sapador florestal | Sapador florestal | 1 | 7.ª | 14 | 14 |
-| Sapador florestal | Sapador florestal | 1 | 8.ª | 15 | » |
+| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |
+| --- | --- | --- | --- | --- |
+| Sapador florestal | Sapador florestal | 1 | 1.ª | 8 |
+| 2.ª | 9 |  |  |  |
+| 3.ª | 10 |  |  |  |
+| 4.ª | 11 |  |  |  |
+| 5.ª | 12 |  |  |  |
+| 6.ª | 13 |  |  |  |
+| 7.ª | 14 |  |  |  |
+| 8.ª | 15 | » |  |  |
 
 2 - São aditados os artigos 18.º-A e 20.º-A ao [Decreto Legislativo Regional n.º 17/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2018-116108111), de 20 de agosto, na sua atual redação, com a seguinte redação:
 
@@ -1945,7 +2558,9 @@ Reposicionamento remuneratório
 
 2 - Para efeitos de alteração do nível remuneratório e da consequente progressão na carreira, são mantidos os pontos obtidos, bem como as correspondentes menções qualitativas e quantitativas atribuídas no âmbito do sistema de avaliação de desempenho.
 
-###### Artigo 20.º-A — Suplemento de penosidade
+Artigo 20.º-A
+
+Suplemento de penosidade
 
 1 - Os trabalhadores integrados na carreira especial de sapador florestal têm direito a um suplemento de penosidade, pago em 12 vezes por ano, no montante de € 115,00 mensais.
 
@@ -2013,18 +2628,20 @@ c) [...]
 
 9 - [...]
 
-## ANEXO I — Estrutura remuneratória da carreira especial de vigilante da natureza
+ANEXO I
+
+Estrutura remuneratória da carreira especial de vigilante da natureza
 
 (a que se referem os artigos 23.º e 24.º)
 
 | Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |
 | --- | --- | --- | --- | --- |
 | Vigilante da Natureza | Vigilante da Natureza Especialista | 1 | 1.ª | 15 |
-|  | Vigilante da Natureza Especialista | 1 | 2.ª | 16 |
-|  | Vigilante da Natureza Especialista | 1 | 3.ª | 17 |
-|  | Vigilante da Natureza Especialista | 1 | 4.ª | 18 |
-|  | Vigilante da Natureza Especialista | 1 | 5.ª | 19 |
-|  | Vigilante da Natureza Especialista | 1 | 6.ª | 20 |
+|  | 2.ª | 16 |  |  |
+|  | 3.ª | 17 |  |  |
+|  | 4.ª | 18 |  |  |
+|  | 5.ª | 19 |  |  |
+|  | 6.ª | 20 |  |  |
 |  | Vigilante da Natureza | 2 | 1.ª | 8 |
 |  |  |  | 2.ª | 9 |
 |  |  |  | 3.ª | 10 |
@@ -2034,7 +2651,9 @@ c) [...]
 |  |  |  | 7.ª | 14 |
 |  |  |  | 8.ª | 15 |
 
-## ANEXO II — Posições remuneratórias complementares
+ANEXO II
+
+Posições remuneratórias complementares
 
 (a que se refere o artigo 30.º)
 
@@ -2046,11 +2665,11 @@ Categoria de vigilante da natureza especialista
 
 Categoria de vigilante da natureza
 
-| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única | Níveis remuneratórios da tabela remuneratória única |
-| --- | --- | --- | --- | --- | --- |
-| Vigilante da Natureza | Vigilante da Natureza | 2 | 9.ª | 16 | 16 |
-| Vigilante da Natureza | Vigilante da Natureza | 2 | 10.ª | 17 | 17 |
-| Vigilante da Natureza | Vigilante da Natureza | 2 | 11.ª | 18 | » |
+| Carreira | Categoria | Grau de complexidade funcional | N.º de posições remuneratórias | Níveis remuneratórios da tabela remuneratória única |
+| --- | --- | --- | --- | --- |
+| Vigilante da Natureza | Vigilante da Natureza | 2 | 9.ª | 16 |
+| 10.ª | 17 |  |  |  |
+| 11.ª | 18 | » |  |  |
 
 2 - São aditados os artigos 28.º-A e 29.º-A ao [Decreto Legislativo Regional n.º 5/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), de 11 de março, na sua atual redação, com a seguinte redação:
 
@@ -2060,7 +2679,9 @@ Transição para a carreira especial de vigilante da natureza especialista
 
 Os trabalhadores integrados na carreira e categoria de vigilante da natureza da Região Autónoma da Madeira que, a 1 de janeiro de 2026, contem com vinte ou mais anos de serviço na carreira, transitam para a categoria de vigilante da natureza especialista.
 
-###### Artigo 29.º-A — Reposicionamento remuneratório
+Artigo 29.º-A
+
+Reposicionamento remuneratório
 
 1 - Os trabalhadores que, a 1 de janeiro de 2026, se encontrem integrados na carreira especial de vigilante da natureza da Região Autónoma da Madeira e, no âmbito do disposto no artigo 28.º-A não transitem para a categoria de vigilante da natureza especialista, mantêm a posição remuneratória da respetiva categoria fixada no Anexo I ao presente diploma.
 
@@ -2094,7 +2715,9 @@ Os trabalhadores integrados na carreira e categoria de vigilante da natureza da 
 
 9 - [Anterior n.º 7.]
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]
 
@@ -2256,200 +2879,299 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de dezembro de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 23 de dezembro de 2025.**
+Assinado em 23 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-![](https://files.diariodarepublica.pt/images/993031451/993052396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052396.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052397.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052398.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052399.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052400.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052401.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052402.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052403.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052404.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052405.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052406.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052407.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052408.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052409.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052410.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052411.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052412.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052413.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052414.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052414.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052415.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052415.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052416.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052416.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052417.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052417.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052418.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052418.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052419.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052419.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052420.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052420.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052421.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052421.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052422.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052422.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052423.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052423.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052424.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052424.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052425.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052425.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052426.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052426.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052427.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052427.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052428.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052428.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052429.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052429.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052430.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052430.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052431.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052431.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052432.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052432.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052433.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052433.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052434.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052434.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052435.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052435.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052436.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052436.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052437.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052437.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052438.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052438.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052439.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052439.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052440.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052440.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052441.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052441.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052442.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052442.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052443.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052443.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052444.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052444.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052445.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052445.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052446.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052446.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052447.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052447.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052448.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052448.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052449.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052449.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052450.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052450.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052451.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052451.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052452.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052452.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052453.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052453.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052454.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052454.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052455.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052455.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052456.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052456.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052457.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052457.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052458.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052458.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052459.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052459.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052460.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052460.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052461.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052461.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052462.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052462.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052463.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052463.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052464.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052464.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052465.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052465.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052466.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052466.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052467.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052467.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052468.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052468.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052469.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052469.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052470.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052470.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052471.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052471.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052472.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052472.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052473.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052473.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052474.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052474.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052475.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052475.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052476.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052476.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052477.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052477.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052478.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052478.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052479.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052479.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052480.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052480.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052481.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052481.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052482.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052482.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052483.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052484.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052484.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052485.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052485.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052486.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052486.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052487.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052487.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052488.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052488.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052489.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052489.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/993031451/993052490.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031451/993052490.png) |
+| --- |
+
+119927154
+
+.Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl20 { text-align:right; } .Tbl21 { border-left-width:0px; border-left-style:none; vertical-align:middle; } .Tbl22 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-width:0px; border-left-style:none; vertical-align:top; } .Tbl24 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl25 { min-height:16px; } .Tbl26 { border-left-width:0px; border-left-style:none; vertical-align:top; }

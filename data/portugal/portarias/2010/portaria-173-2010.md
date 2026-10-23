@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05700/0091000910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/173/2010/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/173-2010-611353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 572302a2ac6789fa6dea9727caedfa09fef482db00c280a485861d1afa901207
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a865f31c161077e3db5dba6f43b2cd0b94048076b55622e0a1cbd30a425acbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Florestal Nacional
 - Definição de Competências
 - Orgânica
-- Autoridade Florestal Nacional
 relationships:
 - type: amended_by
   target: pt:dre:191567:por
@@ -86,16 +86,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/958/2008/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/958/2008/08/26/p/dre
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191567:por
+  label: "Revogada a Port. 958/2008, de 26-ago, na redação do presente diploma, pela PORT.353/2012.31.10.2012.MF, DR.IS [211]\
+    \ de 31.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-2012-191567
+  date: '2012-10-31'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +158,9 @@ d)...
 
 e) Direcção de Unidade de Organização, Planeamento e Recursos Humanos.
 
-###### Artigo 7.º — Direcção de Unidade de Organização, Planeamento e Recursos Humanos
+Artigo 7.º
+
+Direcção de Unidade de Organização, Planeamento e Recursos Humanos
 
 À Direcção de Unidade de Organização, Planeamento e Recursos Humanos, abreviadamente designada por DUOPRH, compete:
 
@@ -178,4 +194,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 19 de Março de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro.

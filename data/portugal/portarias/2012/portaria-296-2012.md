@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18900/0545905470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296/2012/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd8482fcb9b72acef20c1daf9fc7b436c0f4fd9ac0e902d6caae979b8f8ba495
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87fa7f29762b3fa4fec5cd5a144895de3ed10b0b5b314dd76e316074c3f4a0cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
+- Embaixada
 - Emolumento Consular
 - Ministério dos Negócios Estrangeiros
 - Taxa
@@ -84,16 +84,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2005/761/oj
   label: null
   source: http://data.europa.eu/eli/reco/2005/761/oj
+- type: corrected_by
+  target: pt:dre:191536:por
+  label: "Retificado o art. 2º do presente diploma, na parte que altera o art. 11º da Port 320-C/2011, de 30-dez, pela DECL-RECT.61/2012.30.10.2012.PCM,\
+    \ DR.IS [210] de 30.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/61-2012-191536
+  date: '2012-10-30'
 article_structure:
-  article_count: 104
+  article_count: 95
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:24Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +138,7 @@ Os artigos 11.º, 12.º, 13.º, 14.º, 15.º, 22.º, 24.º e 87.º do anexo à P
 
 4 - Pelo registo da convenção ou alteração do regime de bens efetuada perante entidade diversa do posto consular - (euro) 30.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - ...
 
@@ -160,7 +166,7 @@ g) ...
 
 6 - Pelo processo de suprimento de autorização para casamento de menores - (euro) 60.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - ...
 
@@ -170,13 +176,13 @@ g) ...
 
 3 - Pela desistência ou não conclusão dos atos, processos e procedimentos por motivos imputáveis às partes é devido metade do emolumento previsto.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Pelos processos de justificação judicial e administrativa, quando requeridos pelos interessados - (euro) 100.
 
 2 - Pelas retificações por simples despacho de irregularidades ou deficiências não imputáveis aos serviços - (euro) 40.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Por cada certidão de registo - (euro) 20.
 
@@ -192,7 +198,7 @@ g) ...
 
 6 - Pela emissão de certificado relativo a processo ou procedimento não concluído por motivo imputável às partes - (euro) 50.
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - ...
 
@@ -214,13 +220,13 @@ a) Por cada procedimento de perda da nacionalidade, bem como pela redução a es
 
 7 - ...
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - Por cada certificado de nacionalidade - (euro) 50.
 
 2 - O emolumento referido no número anterior constitui receita do IRN, I. P.
 
-###### Artigo 87.º
+Artigo 87.º
 
 1 - ...
 
@@ -248,13 +254,13 @@ São aditados ao anexo da Portaria n.º 320-C/2011, de 30 de dezembro, os artigo
 
 Pelo assento de transcrição de qualquer ato lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 180.
 
-###### Artigo 12.º-A
+Artigo 12.º-A
 
 1 - Pelo processo de suprimento de certidão de registo quando requerido ao abrigo do artigo 270.º do Código do Registo Civil - (euro) 100.
 
 2 - Pela desistência ou não conclusão dos atos, processos e procedimentos por motivos imputáveis às partes é devido metade do emolumento previsto.
 
-###### Artigo 38.º-A
+Artigo 38.º-A
 
 1 - Por cada termo de autenticação de procuração com um só mandante e mandatário - (euro) 20.
 
@@ -268,7 +274,7 @@ A Portaria n.º 320-C/2011, de 30 de dezembro, na sua redação atual, é republ
 
 A presente portaria entra em vigor no dia 1 de outubro de 2012.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas, em 26 de setembro de 2012.**
+O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas, em 26 de setembro de 2012.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

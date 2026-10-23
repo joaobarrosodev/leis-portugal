@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/2011/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2011-673412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be3ced00632688d5853b3c7c159c1809641e9395047023ee562a00d88d540217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 185a40e4d90e9635037b67e7b5afedcc2742a4204bbf863845347ca5d62f8d25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
 - Concurso Público
 - Contrato de Financiamento
 - Cooperação Interempresas
 - Definição de Competências
+- Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
+- Financiamento
 - Fusão de Empresas
-- Projeto de Investimento
-- Pagamento
-- Indústria Agro-alimentar
 - IFAP
+- Indústria Agro-alimentar
 - JURO Bonificado
-- Produto Hortícola
-- Regime de Apoio
+- Pagamento
 - Pequenas e Médias Empresas
-- Regulamento
 - PME
+- Proder
+- Produto Animal
+- Produto Hortícola
+- Projeto de Investimento
+- Regime de Apoio
+- Regulamento
 - Subsídio
 - Subsídio não Reembolsável
-- Produto Animal
 relationships:
 - type: cites
   target: celex:32000R0104
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:14Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +184,7 @@ i) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou a
 
 2 - As alterações introduzidas pelo presente diploma produzem efeitos a partir da data de entrada em vigor da Portaria n.º 814/2010, de 27 de Agosto.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 25 de Fevereiro de 2011.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 25 de Fevereiro de 2011.
 
 ## ANEXO
 
@@ -528,7 +528,7 @@ Sectores industriais enquadrados no PRODER
 
 (CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10000/0290802916.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10000/0290802916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10000/0290802916.pdf)
 
 ## ANEXO II — Despesas elegíveis e não elegíveis
 

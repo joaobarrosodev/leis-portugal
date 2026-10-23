@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02900/0077300774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/60/2013/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-2013-257662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ffdfa65eb982111bf5178059e33605af15352fa060f8150104424ea975aace0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae14cb42b1b84420d22da752cbcea4dfab9e8278c7b595c2b7e37a80bdb42c40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
 - Aquicultura
-- Organização de Produtores
-- Programa Comunitário
+- Financiamento
 - Intervenção Operacional Pescas
+- Organização de Produtores
+- Pesca
+- Programa Comunitário
+- Projeto de Investimento
 - Regulamento
+- Regulamento do Regime de Apoio às Acções Colectivas
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:502865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502865:por
+  label: "Alterados os arts. 5º, 12º, 13º e 15º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008,\
+    \ de 31-jul, na redação do presente diploma, pela PORT.315/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013\02013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -99,16 +105,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/719-c/2008/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/719-c/2008/07/31/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502865:por
+  label: "Revogada pela PORT.315/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:17Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +202,9 @@ xii...
 
 xiii...
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1. ...
 
@@ -189,7 +218,9 @@ xiii...
 
 6 ...
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 1...
 
@@ -211,7 +242,9 @@ b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o p
 
 8. O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 12.º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a concepção económica e estrutural do projeto aprovado, seguindo -se o disposto nos números 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, delas não podendo resultar o aumento do apoio público.»
 
@@ -227,4 +260,4 @@ Podem ser admitidas alterações técnicas, desde que se mantenha a concepção 
 
 2. As alterações introduzidas pela presente Portaria ao Regulamento do Regime de Apoio às Ações Coletivas aplicam-se a todas as candidaturas que já tenham sido apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 29 de janeiro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 29 de janeiro de 2013.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07500/08040808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf1dd966d8620b93e12ee10b918b0f2d6a3eec750ccb67e6f968568c812ba39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bbf026b9e3fd5cd69136bd91b93ae67dea782076f1caca9d04cfc75c1d51419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fiscalização Económica
+- Madeira.região Autónoma
+- Secretaria Regional do Comércio e Transportes
 relationships:
 - type: amended_by
   target: pt:dre:626204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557796:por
+  label: "Revogado o quadro de pessoal anexo ao presente diploma, pelo DRR.20/90/M.13.09.1990.GR-RAM, DR.IS [212] de 13.09.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1990-557796
+  date: '1990-09-13'
+- type: repealed_by
+  target: pt:dre:626204:por
+  label: "Revogado, a partir de 01.03.1996, pelo DRR.2/96/M.24.02.1996.PG-RAM, DR.IS-B [47] de 24.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1996-626204
+  date: '1996-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:08Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +138,11 @@ Nos termos daquele decreto-lei, o Governo Regional, usando da faculdade que lhe 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criada, na Secretaria Regional do Comércio e Transportes, a Direcção de Serviços de Fiscalização Económica.
+Artigo 1.º É criada, na Secretaria Regional do Comércio e Transportes, a Direcção de Serviços de Fiscalização Económica.
 
-###### Art. 2.º Transitam para a Direcção de Serviços de Fiscalização Económica as atribuições e competência integradas na extinta Secretaria Regional da Coordenação Económica pelo [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto, cometidas à Direcção-Geral de Fiscalização Económica pelos Decretos-Leis n.os [329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, e [452/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1971-633724), de 27 de Outubro, e demais legislação nacional e regional em vigor que não contrarie as normas do presente diploma.
+Art. 2.º Transitam para a Direcção de Serviços de Fiscalização Económica as atribuições e competência integradas na extinta Secretaria Regional da Coordenação Económica pelo [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto, cometidas à Direcção-Geral de Fiscalização Económica pelos Decretos-Leis n.os [329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, e [452/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1971-633724), de 27 de Outubro, e demais legislação nacional e regional em vigor que não contrarie as normas do presente diploma.
 
-###### Art. 3.º - 1 - São atribuições da Direcção de Serviços de Fiscalização Económica, sem prejuízo das especialmente cometidas a outros serviços:
+Art. 3.º - 1 - São atribuições da Direcção de Serviços de Fiscalização Económica, sem prejuízo das especialmente cometidas a outros serviços:
 
 a) Velar pelo cumprimento das leis, regulamentos, instruções, despachos e demais normas que disciplinam a actividade económica na Região Autónoma da Madeira, organizando a prevenção e promovendo a repressão das respectivas infracções;
 
@@ -114,11 +160,11 @@ g) Prosseguir outros fins que por lei, regulamento ou determinação superior lh
 
 2 - A actividade da Direcção de Serviços de Fiscalização Económica exercer-se-á em todo o território da Região Autónoma da Madeira.
 
-###### Art. 4.º - 1 - Incumbe à Direcção de Serviços de Fiscalização Económica, no exercício das suas atribuições, organizar a prevenção e promover a repressão das infracções antieconómicas e contra a saúde pública.
+Art. 4.º - 1 - Incumbe à Direcção de Serviços de Fiscalização Económica, no exercício das suas atribuições, organizar a prevenção e promover a repressão das infracções antieconómicas e contra a saúde pública.
 
 2 - Em tudo o que respeitar às infracções contra a saúde pública competirá às Secretarias Regionais da Agricultura e Pescas e dos Assuntos Sociais, através dos seus serviços, colaborar na coordenação a estabelecer em conjunto com a Direcção de Serviços de Fiscalização Económica.
 
-###### Art. 5.º - 1 - No desempenho das suas funções de prevenção das infracções, incumbe, designadamente, à Direcção de Serviços de Fiscalização Económica:
+Art. 5.º - 1 - No desempenho das suas funções de prevenção das infracções, incumbe, designadamente, à Direcção de Serviços de Fiscalização Económica:
 
 a) A vigilância geral e especial das actividades, pessoas, estabelecimentos e outras entidades, de acordo com as necessidades económicas, a natureza e gravidade das infracções a prevenir e a perigosidade dos respectivos agentes, incidindo na produção e distribuição de matérias-primas e géneros de primeira necessidade;
 
@@ -136,7 +182,7 @@ f) Desempenhar as restantes funções que por lei, regulamento ou determinação
 
 3 - Poderá a Direcção de Serviços de Fiscalização Económica, por iniciativa própria homologada pelo Secretário Regional do Comércio e Transportes ou no cumprimento de determinação desta entidade, proceder a inquéritos sobre a forma como se exercem as actividades económicas destinados a colher informações, bem como quaisquer elementos junto de entidades particulares e organismos oficiais.
 
-###### Art. 6.º - 1 - Em matéria de repressão das infracções, compete, designadamente, à Direcção de Serviços de Fiscalização Económica:
+Art. 6.º - 1 - Em matéria de repressão das infracções, compete, designadamente, à Direcção de Serviços de Fiscalização Económica:
 
 a) Proceder à organização dos inquéritos preliminares relativos a infracções contra a saúde pública e contra a economia regional;
 
@@ -148,19 +194,19 @@ d) Colaborar com os organismos competentes na investigação dos factos que se t
 
 e) Exercer todas as funções que por lei, regulamento ou determinação superior lhe sejam cometidas.
 
-###### Art. 7.º No exercício das suas atribuições, são aplicáveis à Direcção de Serviços de Fiscalização Económica as normas de competência e de processo comuns e especiais aplicáveis à Direcção-Geral de Fiscalização Económica.
+Art. 7.º No exercício das suas atribuições, são aplicáveis à Direcção de Serviços de Fiscalização Económica as normas de competência e de processo comuns e especiais aplicáveis à Direcção-Geral de Fiscalização Económica.
 
-###### Art. 8.º Considera-se delegada na Direcção de Serviços de Fiscalização Económica a competência para proceder, na Região Autónoma da Madeira, à organização dos inquéritos preliminares relativos aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos da legislação processual penal em vigor.
+Art. 8.º Considera-se delegada na Direcção de Serviços de Fiscalização Económica a competência para proceder, na Região Autónoma da Madeira, à organização dos inquéritos preliminares relativos aos delitos de natureza antieconómica e contra a saúde pública, sem prejuízo da respectiva direcção por parte do Ministério Público, nos termos da legislação processual penal em vigor.
 
-###### Art. 9.º - 1 - As autoridades que recebam denúncia ou levantem autos de notícia, nos termos do artigo 166.º do Código de Processo Penal, relativamente a infracção de natureza antieconómica ou contra a saúde pública praticada na Região enviá-los-ão imediatamente à Direcção de Serviços de Fiscalização Económica quando para a investigação seja esta competente.
+Art. 9.º - 1 - As autoridades que recebam denúncia ou levantem autos de notícia, nos termos do artigo 166.º do Código de Processo Penal, relativamente a infracção de natureza antieconómica ou contra a saúde pública praticada na Região enviá-los-ão imediatamente à Direcção de Serviços de Fiscalização Económica quando para a investigação seja esta competente.
 
 2 - Tratando-se de infracções contra a saúde pública, a Direcção de Serviços de Fiscalização Económica deverá de imediato comunicá-las à Secretaria Regional dos Assuntos Sociais para os efeitos que esta tiver por convenientes.
 
-###### Art. 10.º As entidades oficiais regionais deverão prestar à Direcção de Serviços de Fiscalização Económica as informações que por esta lhes forem solicitadas e quaisquer outras que julguem convenientes e possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
+Art. 10.º As entidades oficiais regionais deverão prestar à Direcção de Serviços de Fiscalização Económica as informações que por esta lhes forem solicitadas e quaisquer outras que julguem convenientes e possam contribuir para a descoberta das infracções ou de organização ilegal dos sectores ou actividades económicas.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 11.º A Direcção de Serviços de Fiscalização Económica compreende, além do director:
+Art. 11.º A Direcção de Serviços de Fiscalização Económica compreende, além do director:
 
 a) Os serviços de contencioso;
 
@@ -168,17 +214,17 @@ b) Os serviços de fiscalização de bens e serviços;
 
 c) Os serviços administrativos.
 
-###### Art. 12.º É criada na Direcção de Serviços de Fiscalização Económica uma comissão consultiva.
+Art. 12.º É criada na Direcção de Serviços de Fiscalização Económica uma comissão consultiva.
 
-###### Art. 13.º Compete ao director orientar, coordenar e fiscalizar a Direcção de Serviços de Fiscalização Económica de acordo com as directrizes superiormente determinadas.
+Art. 13.º Compete ao director orientar, coordenar e fiscalizar a Direcção de Serviços de Fiscalização Económica de acordo com as directrizes superiormente determinadas.
 
-###### Art. 14.º Aos serviços de contencioso incumbe o exercício das atribuições que competem à Direcção de Serviços de Contencioso da Direcção-Geral de Fiscalização Económica.
+Art. 14.º Aos serviços de contencioso incumbe o exercício das atribuições que competem à Direcção de Serviços de Contencioso da Direcção-Geral de Fiscalização Económica.
 
-###### Art. 15.º Aos serviços de fiscalização de bens e serviços incumbe o desempenho na Região das atribuições que competem às Subdirecções-Gerais de Fiscalização de Bens de Consumo e de Bens Intermédios de Investimento e Serviços e às respectivas zonas da Direcção-Geral de Fiscalização Económica.
+Art. 15.º Aos serviços de fiscalização de bens e serviços incumbe o desempenho na Região das atribuições que competem às Subdirecções-Gerais de Fiscalização de Bens de Consumo e de Bens Intermédios de Investimento e Serviços e às respectivas zonas da Direcção-Geral de Fiscalização Económica.
 
-###### Art. 16.º Aos serviços administrativos são cometidos todos os assuntos relativos a pessoal, expediente geral, património, biblioteca, arquivo e contabilidade da Direcção de Serviços de Fiscalização Económica.
+Art. 16.º Aos serviços administrativos são cometidos todos os assuntos relativos a pessoal, expediente geral, património, biblioteca, arquivo e contabilidade da Direcção de Serviços de Fiscalização Económica.
 
-###### Art. 17.º - 1 - A comissão consultiva a que se refere o artigo 12.º será presidida pelo Secretário Regional do Comércio e Transportes ou pela entidade que este designar e composta por:
+Art. 17.º - 1 - A comissão consultiva a que se refere o artigo 12.º será presidida pelo Secretário Regional do Comércio e Transportes ou pela entidade que este designar e composta por:
 
 a) Um representante das Secretarias Regionais dos Assuntos Sociais, da Agricultura e Pescas, da Educação e Cultura, do Equipamento Social e do Planeamento e Finanças e da Direcção Regional de Turismo;
 
@@ -194,11 +240,11 @@ d) Dois representantes dos consumidores.
 
 4 - No caso de as associações referidas no número anterior não designarem os seus representantes, serão estes nomeados de entre pessoas idóneas por despacho do Secretário Regional do Comércio e Transportes.
 
-###### Art. 18.º - 1 - A comissão consultiva reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que os assuntos sobre que se deva pronunciar o justifiquem.
+Art. 18.º - 1 - A comissão consultiva reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que os assuntos sobre que se deva pronunciar o justifiquem.
 
 2 - As reuniões serão marcadas e convocadas pelo presidente da comissão com, pelo menos, oito dias de antecedência.
 
-###### Art. 19.º À comissão consultiva compete:
+Art. 19.º À comissão consultiva compete:
 
 a) Emitir parecer sobre o tipo de fiscalização a exercer de acordo com a especialidade dos bens ou serviços;
 
@@ -212,7 +258,7 @@ e) Pronunciar-se, a solicitação do seu presidente, sobre qualquer matéria rel
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 20.º O quadro de pessoal da Direcção de Serviços de Fiscalização Económica é o constante do mapa anexo a este diploma, do qual faz parte integrante, agrupando-se de acordo com a classificação seguinte:
+Art. 20.º O quadro de pessoal da Direcção de Serviços de Fiscalização Económica é o constante do mapa anexo a este diploma, do qual faz parte integrante, agrupando-se de acordo com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -224,11 +270,11 @@ d) Pessoal administrativo;
 
 e) Pessoal auxiliar.
 
-###### Art. 21.º O pessoal referido nas alíneas b), d) e e) do artigo anterior será integrado em carreiras de harmonia com as disposições constantes do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 21.º O pessoal referido nas alíneas b), d) e e) do artigo anterior será integrado em carreiras de harmonia com as disposições constantes do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 22.º A carreira de pessoal técnico de fiscalização englobará as categorias de inspector, subinspector, chefe de brigada e agente fiscal de 1.ª classe, de 2.ª classe e de 3.ª classe.
+Art. 22.º A carreira de pessoal técnico de fiscalização englobará as categorias de inspector, subinspector, chefe de brigada e agente fiscal de 1.ª classe, de 2.ª classe e de 3.ª classe.
 
-###### Art. 23.º As condições de ingresso, acesso e provimento na carreira profissional do pessoal técnico de fiscalização são as seguintes:
+Art. 23.º As condições de ingresso, acesso e provimento na carreira profissional do pessoal técnico de fiscalização são as seguintes:
 
 1 - O lugar de inspector será provido por promoção dos subinspectores com, pelo menos, três anos de bom e efectivo serviço no cargo e com melhor classificação de serviço e maior antiguidade, quando aquela for idêntica, ou de entre indivíduos licenciados em Direito.
 
@@ -244,7 +290,7 @@ e) Pessoal auxiliar.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 24.º O director, os técnicos dos serviços de contencioso e demais pessoal com funções de fiscalização e de investigação são considerados autoridades para os efeitos dos artigos 286.º, 287.º, 289.º e 291.º do Código de Processo Penal e gozam, além dos que competem aos restantes funcionários públicos, dos direitos seguintes:
+Art. 24.º O director, os técnicos dos serviços de contencioso e demais pessoal com funções de fiscalização e de investigação são considerados autoridades para os efeitos dos artigos 286.º, 287.º, 289.º e 291.º do Código de Processo Penal e gozam, além dos que competem aos restantes funcionários públicos, dos direitos seguintes:
 
 a) De uso de cartão de identidade de livre trânsito para pronto reconhecimento de sua qualidade, de modelo aprovado pelo Secretário Regional do Comércio e Transportes;
 
@@ -256,29 +302,29 @@ d) De receber auxílio de qualquer autoridades ou agentes de autoridade para o d
 
 e) De utilizar gratuitamente nas suas deslocações quaisquer carreiras de transportes públicos da Região.
 
-###### Art. 25.º Os cartões de identidade dos funcionários da Direcção de Serviços de Fiscalização Económica serão assinados pelo Secretário Regional do Comércio e Transportes.
+Art. 25.º Os cartões de identidade dos funcionários da Direcção de Serviços de Fiscalização Económica serão assinados pelo Secretário Regional do Comércio e Transportes.
 
-###### Art. 26.º É das funções dos agentes fiscais de 1.ª classe, de 2.ª classe e de 3.ª classe, desde que possuam a respectiva carta, a condução das viaturas automóveis da Direcção de Serviços de Fiscalização Económica.
+Art. 26.º É das funções dos agentes fiscais de 1.ª classe, de 2.ª classe e de 3.ª classe, desde que possuam a respectiva carta, a condução das viaturas automóveis da Direcção de Serviços de Fiscalização Económica.
 
-###### Art. 27.º Os funcionários do Governo Regional que tenham frequentado com aproveitamento cursos de habilitação técnica ministrados pela Direcção-Geral de Fiscalização Económica, bem como aqueles que, há mais de seis meses, se encontrem a estagiar junto do pessoal de fiscalização da extinta Zona da Região Autónoma da Madeira, serão providos nos cargos de agentes fiscais de 3.ª classe do quadro de pessoal da Direcção de Serviços de Fiscalização Económica, considerando-se para efeitos de antiguidade nesta categoria o tempo de serviço no actual lugar do quadro a que pertencem.
+Art. 27.º Os funcionários do Governo Regional que tenham frequentado com aproveitamento cursos de habilitação técnica ministrados pela Direcção-Geral de Fiscalização Económica, bem como aqueles que, há mais de seis meses, se encontrem a estagiar junto do pessoal de fiscalização da extinta Zona da Região Autónoma da Madeira, serão providos nos cargos de agentes fiscais de 3.ª classe do quadro de pessoal da Direcção de Serviços de Fiscalização Económica, considerando-se para efeitos de antiguidade nesta categoria o tempo de serviço no actual lugar do quadro a que pertencem.
 
-###### Art. 28.º os funcionários da Direcção-Geral de Fiscalização Económica transitam para o quadro de pessoal da Direcção de Serviços de Fiscalização Económica, em conformidade com o disposto no [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto.
+Art. 28.º os funcionários da Direcção-Geral de Fiscalização Económica transitam para o quadro de pessoal da Direcção de Serviços de Fiscalização Económica, em conformidade com o disposto no [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto.
 
-###### Art. 29.º Os funcionários a que se referem os artigos 27.º e 28.º serão integrados no quadro da Direcção de Serviços de Fiscalização Económica através de lista nominativa aprovada pelo Secretário Regional do Comércio e Transportes visada pela Comissão de Contas na Região, a publicar no Jornal Oficial da Região Autónoma da Madeira.
+Art. 29.º Os funcionários a que se referem os artigos 27.º e 28.º serão integrados no quadro da Direcção de Serviços de Fiscalização Económica através de lista nominativa aprovada pelo Secretário Regional do Comércio e Transportes visada pela Comissão de Contas na Região, a publicar no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 30.º O pessoal dirigente e técnico de fiscalização da Direcção de Serviços de Fiscalização Económica terá direito, considerando a natureza e o risco da função, a uma gratificação mensal, cujo montante será fixado por despacho do Secretário Regional do Comércio e Transportes com o acordo do Secretário Regional do Planeamento e Finanças.
+Art. 30.º O pessoal dirigente e técnico de fiscalização da Direcção de Serviços de Fiscalização Económica terá direito, considerando a natureza e o risco da função, a uma gratificação mensal, cujo montante será fixado por despacho do Secretário Regional do Comércio e Transportes com o acordo do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 31.º A observação, vigilância, fiscalização e quaisquer outras diligências junto das actividades económicas deverão revestir-se da maior correcção, serenidade, prudência e discrição.
+Art. 31.º A observação, vigilância, fiscalização e quaisquer outras diligências junto das actividades económicas deverão revestir-se da maior correcção, serenidade, prudência e discrição.
 
-###### Art. 32.º Os funcionários da Direcção de Serviços de Fiscalização Económica são obrigados, no exercício das suas funções, a guardar rigoroso sigilo profissional.
+Art. 32.º Os funcionários da Direcção de Serviços de Fiscalização Económica são obrigados, no exercício das suas funções, a guardar rigoroso sigilo profissional.
 
-###### Art. 33.º Após a integração no quadro da Direcção de Serviços de Fiscalização Económica do pessoal a que se referem os artigos 27.º e 28.º, os lugares vagos das categorias indicadas no artigo 22.º poderão ser preenchidos, pela primeira vez, segundo critérios de oportunidade e conveniência a definir, desde que o movimento dos serviços o justifique, com dispensa dos requisitos para o efeito exigidos, à excepção do das habilitações literárias e do dos cursos de habilitação a que alude o artigo 35.º deste diploma.
+Art. 33.º Após a integração no quadro da Direcção de Serviços de Fiscalização Económica do pessoal a que se referem os artigos 27.º e 28.º, os lugares vagos das categorias indicadas no artigo 22.º poderão ser preenchidos, pela primeira vez, segundo critérios de oportunidade e conveniência a definir, desde que o movimento dos serviços o justifique, com dispensa dos requisitos para o efeito exigidos, à excepção do das habilitações literárias e do dos cursos de habilitação a que alude o artigo 35.º deste diploma.
 
-###### Art. 34.º - 1 - Para efeitos do estipulado neste decreto regulamentar, relativamente ao provimento dos lugares do quadro da Direcção de Serviços de Fiscalização Económica, realizar-se-ão concursos de admissão e promoção, aos quais se aplicarão as normas em vigor para o pessoal da fiscalização económica do Estado, de acordo com o disposto no [Decreto n.º 412-G/75](https://diariodarepublica.pt/dr/detalhe/decreto/412-g-1975-305803), de 7 de Agosto.
+Art. 34.º - 1 - Para efeitos do estipulado neste decreto regulamentar, relativamente ao provimento dos lugares do quadro da Direcção de Serviços de Fiscalização Económica, realizar-se-ão concursos de admissão e promoção, aos quais se aplicarão as normas em vigor para o pessoal da fiscalização económica do Estado, de acordo com o disposto no [Decreto n.º 412-G/75](https://diariodarepublica.pt/dr/detalhe/decreto/412-g-1975-305803), de 7 de Agosto.
 
 2 - As normas sobre concursos a que se refere o [Decreto n.º 412-G/75](https://diariodarepublica.pt/dr/detalhe/decreto/412-g-1975-305803), de 7 de Agosto, serão aplicadas na Região Autónoma da Madeira com as alterações consideradas convenientes, alterações essas que serão homologadas por despacho do Secretário Regional do Comércio e Transportes.
 
-###### Art. 35.º - 1 - A Direcção de Serviços de Fiscalização Económica organizará cursos de habilitação técnica destinados à preparação, especialização e reciclagem dos funcionários de fiscalização de colaboração, quando necessário, com outros serviços públicos regionais.
+Art. 35.º - 1 - A Direcção de Serviços de Fiscalização Económica organizará cursos de habilitação técnica destinados à preparação, especialização e reciclagem dos funcionários de fiscalização de colaboração, quando necessário, com outros serviços públicos regionais.
 
 2 - Os cursos de habilitação técnica compreendem:
 
@@ -286,26 +332,26 @@ a) Um curso elementar destinado a ministrar noções base para o exercício das 
 
 b) Um curso de aperfeiçoamento e especialização destinado a desenvolver os conhecimentos gerais, a técnica de fiscalização e os especiais, relativos designadamente à investigação das várias formas de actividade criminal no que concerne a infracções antieconómicas e contra a saúde pública, bem como noções gerais sobre a organização e funcionamento dos serviços de administração pública, noções de contabilidade pública e comercial e prática de dactilografia.
 
-###### Art. 36.º Os programas e regime de funcionamento e de frequência dos cursos a que se refere o artigo 35.º serão objecto de regulamento a aprovar pelo Secretário Regional do Comércio e Transportes.
+Art. 36.º Os programas e regime de funcionamento e de frequência dos cursos a que se refere o artigo 35.º serão objecto de regulamento a aprovar pelo Secretário Regional do Comércio e Transportes.
 
-###### Art. 37.º Para a organização e realização dos concursos e dos cursos de habilitação a que se refere este diploma, a Secretaria Regional do Comércio e Transportes solicitará, quando necessário, a colaboração da Direcção-Geral de Fiscalização Económica, conforme prevê o [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto.
+Art. 37.º Para a organização e realização dos concursos e dos cursos de habilitação a que se refere este diploma, a Secretaria Regional do Comércio e Transportes solicitará, quando necessário, a colaboração da Direcção-Geral de Fiscalização Económica, conforme prevê o [Decreto-Lei n.º 291/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1980-470790), de 16 de Agosto.
 
-###### Art. 38.º As receitas resultantes da actividade da Direcção de Serviços de Fiscalização Económica darão entrada nos cofres da Região e serão escrituradas como receitas gerais.
+Art. 38.º As receitas resultantes da actividade da Direcção de Serviços de Fiscalização Económica darão entrada nos cofres da Região e serão escrituradas como receitas gerais.
 
-###### Art. 39.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional do Comércio e Transportes.
+Art. 39.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional do Comércio e Transportes.
 
-###### Art. 40.º Este diploma entra imediatamente em vigor.
+Art. 40.º Este diploma entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo Regional em 18 de Dezembro de 1980.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 13 de Março de 1981.**
+Assinado em 13 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro do pessoal a que se refere o artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07500/08040808.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07500/08040808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07500/08040808.pdf)

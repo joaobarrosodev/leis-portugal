@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 212/2011, 1º Suplemento, Série I de 2011-11-04
   number: '212'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4782-(2) a 4782-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/291-a/2011/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-a-2011-472104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4501eef89dcb7da2be5300ebf2186cb5c375ce1c53f9b6fdaa9ff1e6d0254d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04e3d80ab1ce9de76d1d10fa9b506ea1ea561aa8953909fba12031514563e66f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Serviço Postal
-- Radiocomunicações
 - Comunicações Eletrónicas
 - Instituto das Comunicações de Portugal
 - Licença de Utilização
 - Radioamador
+- Radiocomunicações
 - Serviço de Telecomunicações Complementares-serviço Móvel Terrestre
+- Serviço Postal
 - Serviços de Radiocomunicações
 - Taxa
 - TAXA de Utilização
@@ -84,6 +84,24 @@ relationships:
   target: pt:dre:164422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244541:por
+  label: "Alterados os arts. 1.º, 2.º,11.º, 16.º, 17.º e 22.º e os anexos III, IV e VII da Port 296-A/2013 de 02-10, na redação\
+    \ do presente diploma, pela PORT.296-A/2013.02.10.2013.MECO, DR.IS [190-Supl] de 02.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-a-2013-244541
+  date: '2013-10-02'
+- type: amended_by
+  target: pt:dre:164422:por
+  label: "Alterado o n.º 1.1 do anexo IV da Port 1473-B/2008, de 17-dez, substituído pelo anexo II da presente Portaria, pela\
+    \ PORT.378-D/2013.31.12.2013.MECO, DR.IS [253-3ºSupl] de 31.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-d-2013-164422
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:106982549:por
+  label: Alterados o n.º 1.1, os n,ºs 1.2.1, 1.2.2 e 1.2.3 e os n.ºs 1.4.1 e 1.4.2 do anexo IV da Port 1473-B/2008, de 17-dez,
+    na redação do presente diploma, pelo(a) Portaria n.º 157/2017 - Diário da República n.º 90/2017, Série I de 2017-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2017-106982549
+  date: '2017-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/2009/05/21/p/dre
   label: null
@@ -124,16 +142,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
+- type: cites
+  target: pt:dre:1428566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684060:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:42Z'
   warnings: []
   errors: []
 ---
@@ -260,9 +374,11 @@ São revogados os n.os 5.º a 9.º da [Portaria n.º 1473-B/2008](https://diario
 
 2 - O anexo ii da presente portaria apenas produz efeitos após a conclusão do processo de atribuição dos direitos de utilização, decorrentes do leilão para atribuição de direitos de utilização de frequências nas faixas dos 450 MHz, 800 MHz, 900 MHz, 1800 MHz, 2,1 GHz e 2,6 GHz, nos termos previstos no [Regulamento n.º 560-A/2011](https://diariodarepublica.pt/dr/detalhe/regulamento/560-a-2011-1428566), de 19 de Outubro, do ICP-ANACOM, rectificado pela Declaração n.º 1606/2011, de 26 de Outubro.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 3 de Novembro de 2011.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 3 de Novembro de 2011.
 
-## ANEXO I — ANEXO III
+## ANEXO I
+
+## ANEXO III
 
 Taxas de utilização de números
 
@@ -278,11 +394,11 @@ b) Factor multiplicativo que correlaciona cada uma das taxas B, C e D com a taxa
 
 3 - Sem prejuízo de eventuais alterações do Plano Nacional de Numeração, a distribuição dos diversos tipos de taxas aplicáveis à utilização de diferentes tipos de números/serviços, o respectivo valor e código ficam definidos pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 4 - O montante da taxa anual devida pela utilização de números é calculado com base na seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 5 - Em aplicação do princípio «ocupador-pagador», a taxa de utilização correspondente a um código/número do Plano Nacional de Numeração de Telecomunicações (E.164) com um comprimento superior ou inferior a nove dígitos decresce ou cresce em múltiplos de 10 na razão inversa desse comprimento.
 
@@ -292,7 +408,9 @@ a) Cada indicativo do serviço de acesso a redes de dados, cujo número tem o fo
 
 b) Cada indicativo do serviço de audiotexto, cujo número tem o formato «6XXTPPabc», em que «6XX» é o indicativo do serviço, «T» a tarifa a definir pelo prestador, «PP» o código do prestador de audiotexto e «abc» o campo de três dígitos geridos pelo prestador, corresponde à utilização efectiva de 1000 números para cada tarifa T utilizada pelo prestador.
 
-## ANEXO II — ANEXO IV
+## ANEXO II
+
+## ANEXO IV
 
 Taxas de radiocomunicações
 
@@ -304,23 +422,23 @@ As taxas devidas pela utilização de frequências, nos termos do n.º 3 do arti
 
 1.1 - Taxas referentes à utilização de frequências designadas para serviços de comunicações electrónicas terrestres:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2 - Taxas referentes à utilização de frequências para os serviços móveis:
 
 1.2.1 - Serviço móvel de recursos partilhados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.2 - Serviço móvel terrestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R):
 
 Taxa aplicável por «área de serviço» e por mega-hertz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioeléctrica.
 
@@ -328,19 +446,19 @@ Na atribuição de espectro para o estabelecimento de novas redes de radiocomuni
 
 Taxa aplicável por cada canal consignado por célula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.5 - Serviço móvel aeronáutico:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.6 - Serviço móvel marítimo:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3 - Taxas referentes à utilização de frequências para o serviço de radiodifusão:
 
@@ -348,37 +466,37 @@ Taxa aplicável por estação:
 
 Taxa aplicável por emissor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.2 - Serviço de radiodifusão sonora em ondas hectométricas (onda média):
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.3 - Serviço de radiodifusão sonora em modulação de frequência:
 
 Taxa aplicável em função do tipo de cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.4 - Serviço de radiodifusão sonora digital por via terrestre (T-DAB):
 
 Taxa aplicável pela cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.5 - Serviço de radiodifusão televisiva analógica por via terrestre:
 
 Taxa aplicável pela cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.6 - Serviço de radiodifusão televisiva digital:
 
 Taxa aplicável por multiplexer:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4 - Taxas referentes à utilização de frequências para o serviço fixo:
 
@@ -386,7 +504,7 @@ Taxa aplicável por multiplexer:
 
 Taxa aplicável por ligação hertziana bidireccional e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Sendo que L é o valor da distância da ligação em quilómetros (valor arredondado a três casas decimais).
 
@@ -402,13 +520,13 @@ As ligações hertzianas unidireccionais serão objecto de uma redução de 25 %
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.3 - Serviço fixo - ligações ponto-ponto a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por ligação hertziana e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a polarização cruzada, será objecto de uma redução de 50 % sobre o valor da taxa aplicável.
 
@@ -416,35 +534,35 @@ Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a pol
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.5 - Serviço fixo - ligações ponto-multiponto a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por ligação e canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.6 - Serviço fixo - ligações ponto-multiponto de utilização ocasional a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.7 - Serviço fixo - ligações ponto-multiponto - Sistema MMDS (Multipoint Microwave Distribution System):
 
 Taxa aplicável por estação central:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.9 - Fixo - ligações em ondas decamétricas e hectométricas:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.5 - Taxas referentes à utilização de frequências para o serviço de radiodeterminação:
 
@@ -452,7 +570,7 @@ Taxa aplicável por estação:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6 - Taxas referentes à utilização de frequências para serviços de radiocomunicações por satélite:
 
@@ -460,7 +578,7 @@ Taxa aplicável por estação:
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.2 - Serviços científicos espaciais:
 
@@ -472,29 +590,29 @@ Serviço de investigação espacial.
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.3 - Serviço fixo por satélite e serviço móvel por satélite:
 
 1.6.3.1 - Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.3.2 - Taxa aplicável por estação terrestre complementar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.4 - Serviço fixo por satélite - estações terrenas VSAT (Very Small Aperture Terminal):
 
 Taxa aplicável por rede de estações VSAT:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.5 - Serviço fixo por satélite - estações terrenas SNG (Satellite News Gathering):
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7 - Taxas referentes à utilização de frequências para outros serviços de radiocomunicações:
 
@@ -502,31 +620,33 @@ Taxa aplicável por estação terrena:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.2 - Serviços auxiliares de programas/serviços auxiliares de radiodifusão (aplicações SAP/SAB):
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.3 - Estações para fins utilitários e recreativos:
 
 Taxa aplicável, por estação destinada a fins utilitários e recreativos, funcionando em faixas compreendendo as frequências a utilizar pelas aplicações industriais, científicas e médicas, segundo o Regulamento das Radiocomunicações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.4 - Estações para telecomandos:
 
 Taxa aplicável, por estação, para telecomando, telemedida, telealarme, transmissão de dados em faixas de frequências não harmonizadas e com potências compreendidas entre 200 mW e 5 W:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.8 - Taxas aplicáveis ao sistema de transmissão de dados em radiodifusão (RDS) - para a instalação e operação do RDS, nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 272/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1998-566855), de 2 de Setembro, aplicam-se as seguintes taxas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
-## ANEXO III — ANEXO VII
+## ANEXO III
+
+## ANEXO VII
 
 Taxas aplicáveis à construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios e edifícios
 
@@ -534,7 +654,7 @@ Taxas aplicáveis à construção de infra-estruturas de telecomunicações em l
 
 As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de Maio, com a redacção dada pelo [Decreto-Lei n.º 258/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), de 25 de Setembro, que estabelece o regime jurídico aplicável à construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios (ITUR) e edifícios (ITED), são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 6.º)
 
@@ -602,7 +722,7 @@ O montante das taxas devidas pela utilização de frequências consignadas para 
 
 Factores a aplicar durante o período de transição (cinco anos) para as taxas de utilização de frequências - serviços de radiodifusão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 11.º
 
@@ -714,15 +834,15 @@ A presente portaria entra em vigor em 1 de Janeiro de 2009.
 
 1 - As taxas devidas pela emissão das declarações comprovativas dos direitos emitidas, nos termos do n.º 5 do artigo 21.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, às entidades que oferecem redes e serviços de comunicações electrónicas, acessíveis e não acessíveis ao público, bem como pela emissão dos respectivos averbamentos, são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 2 - O montante das taxas devidas pela atribuição de direitos de utilização de frequências, a que alude a alínea c) do n.º 1 do artigo 105.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, é fixado consoante o respectivo procedimento de atribuição, o qual pode ser de selecção por concorrência ou comparação, nomeadamente leilão ou concurso, em regime de acessibilidade plena ou na sequência de procedimentos de selecção desencadeados por uma entidade terceira, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 3 - A taxa devida pela atribuição de direitos de utilização de números ou sua reserva, a que alude a alínea d) do n.º 1 do artigo 105.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, é fixada no seguinte montante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 ## ANEXO II — Taxa anual devida pelo exercício da actividade de fornecedor de redes e serviços de comunicações electrónicas
 
@@ -730,7 +850,7 @@ A presente portaria entra em vigor em 1 de Janeiro de 2009.
 
 1 - O montante da taxa anual devida pelo exercício da actividade de fornecedor de redes e serviços de comunicações electrónicas acessíveis ao público, a que alude a alínea b) do n.º 1 do artigo 105.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, é calculado com base no valor dos proveitos relevantes directamente conexos com a actividade de comunicações electrónicas relativa ao ano anterior àquele em que é efectuada a liquidação da taxa, de acordo com os escalões indicados na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Fórmula de cálculo da taxa T(índice 2)
 
@@ -782,11 +902,11 @@ b) Factor multiplicativo que correlaciona cada uma das taxas B, C e D com a taxa
 
 3 - Sem prejuízo de eventuais alterações do Plano Nacional de Numeração, a distribuição dos diversos tipos de taxas aplicáveis à utilização de diferentes tipos de números/serviços, o respectivo valor e código ficam definidos pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 4 - O montante da taxa anual devida pela utilização de números é calculado com base na seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 5 - Em aplicação do princípio «ocupador-pagador», a taxa de utilização correspondente a um código/número do Plano Nacional de Numeração de Telecomunicações (E.164) com um comprimento superior ou inferior a nove dígitos decresce ou cresce em múltiplos de 10 na razão inversa desse comprimento.
 
@@ -806,23 +926,23 @@ As taxas devidas pela utilização de frequências, nos termos do n.º 3 do arti
 
 1.1 - Taxas referentes à utilização de frequências designadas para serviços de comunicações electrónicas terrestres:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2 - Taxas referentes à utilização de frequências para os serviços móveis:
 
 1.2.1 - Serviço móvel de recursos partilhados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.2 - Serviço móvel terrestre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R):
 
 Taxa aplicável por «área de serviço» e por mega-hertz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioeléctrica.
 
@@ -830,19 +950,19 @@ Na atribuição de espectro para o estabelecimento de novas redes de radiocomuni
 
 Taxa aplicável por cada canal consignado por célula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.5 - Serviço móvel aeronáutico:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.2.6 - Serviço móvel marítimo:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3 - Taxas referentes à utilização de frequências para o serviço de radiodifusão:
 
@@ -850,37 +970,37 @@ Taxa aplicável por estação:
 
 Taxa aplicável por emissor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.2 - Serviço de radiodifusão sonora em ondas hectométricas (onda média):
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.3 - Serviço de radiodifusão sonora em modulação de frequência:
 
 Taxa aplicável em função do tipo de cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.4 - Serviço de radiodifusão sonora digital por via terrestre (T-DAB):
 
 Taxa aplicável pela cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.5 - Serviço de radiodifusão televisiva analógica por via terrestre:
 
 Taxa aplicável pela cobertura da rede:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.3.6 - Serviço de radiodifusão televisiva digital:
 
 Taxa aplicável por multiplexer:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4 - Taxas referentes à utilização de frequências para o serviço fixo:
 
@@ -888,7 +1008,7 @@ Taxa aplicável por multiplexer:
 
 Taxa aplicável por ligação hertziana bidireccional e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Sendo que L é o valor da distância da ligação em quilómetros (valor arredondado a três casas decimais).
 
@@ -904,13 +1024,13 @@ As ligações hertzianas unidireccionais serão objecto de uma redução de 25 %
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.3 - Serviço fixo - ligações ponto-ponto a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por ligação hertziana e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a polarização cruzada, será objecto de uma redução de 50 % sobre o valor da taxa aplicável.
 
@@ -918,35 +1038,35 @@ Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a pol
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.5 - Serviço fixo - ligações ponto-multiponto a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por ligação e canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.6 - Serviço fixo - ligações ponto-multiponto de utilização ocasional a operarem em faixas de frequências inferiores a 1 GHz:
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.7 - Serviço fixo - ligações ponto-multiponto - Sistema MMDS (Multipoint Microwave Distribution System):
 
 Taxa aplicável por estação central:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.4.9 - Fixo - ligações em ondas decamétricas e hectométricas:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.5 - Taxas referentes à utilização de frequências para o serviço de radiodeterminação:
 
@@ -954,7 +1074,7 @@ Taxa aplicável por estação:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6 - Taxas referentes à utilização de frequências para serviços de radiocomunicações por satélite:
 
@@ -962,7 +1082,7 @@ Taxa aplicável por estação:
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.2 - Serviços científicos espaciais:
 
@@ -974,29 +1094,29 @@ Serviço de investigação espacial.
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.3 - Serviço fixo por satélite e serviço móvel por satélite:
 
 1.6.3.1 - Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.3.2 - Taxa aplicável por estação terrestre complementar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.4 - Serviço fixo por satélite - estações terrenas VSAT (Very Small Aperture Terminal):
 
 Taxa aplicável por rede de estações VSAT:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.6.5 - Serviço fixo por satélite - estações terrenas SNG (Satellite News Gathering):
 
 Taxa aplicável por estação terrena:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7 - Taxas referentes à utilização de frequências para outros serviços de radiocomunicações:
 
@@ -1004,29 +1124,29 @@ Taxa aplicável por estação terrena:
 
 Taxa aplicável por estação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.2 - Serviços auxiliares de programas/serviços auxiliares de radiodifusão (aplicações SAP/SAB):
 
 Taxa aplicável por rede e por canal consignado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.3 - Estações para fins utilitários e recreativos:
 
 Taxa aplicável, por estação destinada a fins utilitários e recreativos, funcionando em faixas compreendendo as frequências a utilizar pelas aplicações industriais, científicas e médicas, segundo o Regulamento das Radiocomunicações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.7.4 - Estações para telecomandos:
 
 Taxa aplicável, por estação, para telecomando, telemedida, telealarme, transmissão de dados em faixas de frequências não harmonizadas e com potências compreendidas entre 200 mW e 5 W:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 1.8 - Taxas aplicáveis ao sistema de transmissão de dados em radiodifusão (RDS) - para a instalação e operação do RDS, nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 272/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1998-566855), de 2 de Setembro, aplicam-se as seguintes taxas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 ## ANEXO V — Taxas dos serviços de amador e de amador por satélite
 
@@ -1034,7 +1154,7 @@ Taxa aplicável, por estação, para telecomando, telemedida, telealarme, transm
 
 1 - As taxas a cobrar são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 2 - A taxa anual de utilização do espectro para os titulares de CAN é objecto das seguintes reduções:
 
@@ -1050,7 +1170,7 @@ c) De 70 % para os portadores de uma incapacidade de carácter permanente de gra
 
 A taxa a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do [Decreto-Lei n.º 47/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2000-508468), de 24 de Março, que estabelece o regime jurídico aplicável à utilização do serviço Rádio Pessoal - Banda do Cidadão (CB), para o registo de utilizadores é fixada no seguinte montante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 ## ANEXO VII — Taxas aplicáveis à construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios e edifícios
 
@@ -1058,7 +1178,7 @@ A taxa a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), n
 
 As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de Maio, com a redacção dada pelo [Decreto-Lei n.º 258/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), de 25 de Setembro, que estabelece o regime jurídico aplicável à construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios (ITUR) e edifícios (ITED), são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 ## ANEXO VIII — Taxas de acesso e de exercício da actividade de prestador de serviços de áudio-texto e de valor acrescentado baseados no envio de mensagem
 
@@ -1066,7 +1186,7 @@ As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM),
 
 1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do n.os 1 e 2 do artigo 11.º do [Decreto-Lei n.º 177/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1999-321675), de 21 de Maio, alterado pela [Lei n.º 95/2001](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), de 20 de Agosto, e pelo [Decreto-Lei n.º 63/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), de 10 de Março, que regula o regime de acesso e de exercício da actividade de prestador de serviços de audiotexto e de valor acrescentado baseados no envio de mensagem, são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 2 - A taxa anual devida pelo exercício da actividade de prestador de serviços de audiotexto e de valor acrescentado baseados no envio de mensagem é liquidada no mês de Julho de cada ano civil.
 
@@ -1078,7 +1198,7 @@ As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM),
 
 1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do [Decreto-Lei n.º 150/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2001-316079), de 7 de Maio, alterado pelo [Decreto-Lei n.º 116/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), de 12 de Junho, que estabelece o regime de acesso e exercício da actividade de prestador de serviços postais explorados em concorrência, são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 2 - As taxas anuais previstas no n.º 2 do artigo 19.º do [Decreto-Lei n.º 150/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2001-316079), de 7 de Maio, alterado pelo [Decreto-Lei n.º 116/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), de 12 de Junho, são fixadas nos seguintes montantes:
 
@@ -1086,7 +1206,7 @@ a) (euro) 6000, pelo exercício de actividades sujeitas a licença;
 
 b) O montante da taxa anual a pagar pelas entidades titulares de autorização é calculado com base no valor da receita anual conexa com a actividade postal relativa ao ano anterior àquele em que é efectuada a liquidação da taxa, de acordo com os escalões indicados na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21201/0000200021.pdf)
 
 3 - A taxa anual fixada nos termos do número anterior é liquidada no mês de Setembro de cada ano civil.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03600/03450346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-448509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b0bb57e3f34e1c483e27deb39f5546546328aaaa251d072af250117450aa362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343b6498ed787983d828543e0e3d256139d3029f42bf49ae3da8a5f81c3531bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Saúde Pública
+- Criação de Serviços
+- Dispensário
+- Hospital Concelhio
+- Integração de Serviços
+- Madeira.região Autónoma
+- Regime de Instalação
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:578305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382468:por
+  label: "Revogado pelo DRG.9/79.12.04.1979.ARM, DR.IS [86] de 12.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/9-1979-382468
+  date: '1979-04-12'
+- type: repealed_by
+  target: pt:dre:578305:por
+  label: "Revogado [novamente] pelo DRG.13/81/M.07.04.1981.ARM, DR.IS [141] de 23.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/13-1981-578305
+  date: '1981-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:20Z'
   warnings: []
   errors: []
 ---
@@ -120,32 +162,32 @@ Nestes termos:
 
 Usando da faculdade conferida pela alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criado o Centro Regional de Saúde Pública da Região Autónoma da Madeira, dotado de personalidade jurídica e autonomia administrativa.
+Artigo 1.º É criado o Centro Regional de Saúde Pública da Região Autónoma da Madeira, dotado de personalidade jurídica e autonomia administrativa.
 
-###### Art. 2.º - 1 - O Centro Regional de Saúde Pública visa a gestão racional e integrada dos centros e serviços de saúde da Região e dos serviços médico-sociais integrados por força da [Portaria n.º 431/76](https://diariodarepublica.pt/dr/detalhe/portaria/431-1976-430460), de 20 de Julho.
+Art. 2.º - 1 - O Centro Regional de Saúde Pública visa a gestão racional e integrada dos centros e serviços de saúde da Região e dos serviços médico-sociais integrados por força da [Portaria n.º 431/76](https://diariodarepublica.pt/dr/detalhe/portaria/431-1976-430460), de 20 de Julho.
 
 2 - Será dotado dos órgãos e serviços necessários ao prosseguimento dos seus fins.
 
 3 - Deverá articular a sua actuação com o Centro Hospitalar do Funchal, com vista à promoção de uma política de saúde unificada, ao melhor aproveitamento dos meios disponíveis e à comodidade dos utentes.
 
-###### Art. 3.º - 1 - Ficam integrados no Centro Regional de Saúde Pública os estabelecimentos e serviços oficiais da área da Região, nomeadamente os serviços médico-sociais referenciados no n.º 1 do artigo precedente, os hospitais concelhios, os centros e serviços de saúde especializados, a Inspecção e as delegações de saúde e os dispensários materno-infantis.
+Art. 3.º - 1 - Ficam integrados no Centro Regional de Saúde Pública os estabelecimentos e serviços oficiais da área da Região, nomeadamente os serviços médico-sociais referenciados no n.º 1 do artigo precedente, os hospitais concelhios, os centros e serviços de saúde especializados, a Inspecção e as delegações de saúde e os dispensários materno-infantis.
 
 2 - Os centros e os serviços particulares poderão ser integrados nos termos do n.º 3 do artigo 5.º do [Decreto Regional n.º 11/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-279418), de 13 de Outubro.
 
-###### Art. 4.º - 1 - O pessoal do Centro Regional de Saúde Pública fica sujeito ao Estatuto da Função Pública, ficando porém o pessoal que transite dos serviços médico-sociais condicionado aos pressupostos previstos no [Decreto Regulamentar n.º 65/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1977-285760), de 21 de Setembro, com as necessárias adaptações.
+Art. 4.º - 1 - O pessoal do Centro Regional de Saúde Pública fica sujeito ao Estatuto da Função Pública, ficando porém o pessoal que transite dos serviços médico-sociais condicionado aos pressupostos previstos no [Decreto Regulamentar n.º 65/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1977-285760), de 21 de Setembro, com as necessárias adaptações.
 
 2 - Quando transitar de outros serviços, manterá os direitos e regalias que vinha auferindo, designadamente o de continuar a descontar para a instituição de previdência em que estava inscrito, contando-se, para efeitos de aposentação, o tempo de serviço prestado nos termos da legislação em vigor.
 
 3 - Para preenchimento dos quadros poderão ser recrutados funcionários de outros serviços por requisição ou em regime de comissão de serviço.
 
-###### Art. 5.º O presente decreto regional será objecto de diploma regulamentar.
+Art. 5.º O presente decreto regional será objecto de diploma regulamentar.
 
-###### Art. 6.º O Centro Regional de Saúde Pública ficará em regime de instalação pelo prazo de um ano, renovável, nos termos do artigo 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 6.º O Centro Regional de Saúde Pública ficará em regime de instalação pelo prazo de um ano, renovável, nos termos do artigo 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 Aprovado em 3 de Janeiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 23 de Janeiro de 1978.**
+Assinado em 23 de Janeiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/139/2013/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/139-2013-259950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04e03cfb28ce1430396e2e9d808a75c6e79da7c64a0a7435ce9e4ea2d2c6da7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70f98ecd2961d73eb55262a575846f92cc02993ec30ddb43c5b6c4f248852fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acolhimento Familiar
-- Instituto da Segurança Social
 - Criança
+- Direito de Família
+- Instituto da Segurança Social
 - Jovem
 - Menoridade
-- Tutela de Menores
-- Promoção Social
-- Protecção à Juventude
 - Parentalidade
 - Programa de Emergência Social
+- Promoção Social
+- Protecção à Juventude
 - Regulamento
-- Direito de Família
 - Sistema de Protecção Social de Cidadania
+- Tutela de Menores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2007/03/14/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671204:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:46Z'
   warnings: []
   errors: []
 ---
@@ -503,4 +519,4 @@ Os CAFAP que se encontrem em funcionamento devem adequar-se ao estabelecido na p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de março de 2013.**
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de março de 2013.

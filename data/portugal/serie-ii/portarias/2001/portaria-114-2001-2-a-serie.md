@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2001-2666052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:15:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d630183d1a0dd2c57ca41635e797d24da521772d413d7de1c5572157941de72a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9118f344d826273665b4bfb50ba5e00811fe085a53e651ebead859c3e86297bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:15:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Estrangeiros
+- Cidadão Estrangeiro
+- Residência de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:635814:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635814:por
+  label: "Mantida em vigor até revogação expressa, pela LEI.23/2007.04.07.2007.AR, DR.IS [127] de 04.07.2007, nos termos do\
+    \ nº 2 do art. 218º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:15:36Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +113,4 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 12 de Janeiro de 2001. - O Ministro da Administração Interna, Nuno Severiano Teixeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2001/01/026000000/0199902000.pdf))](https://files.diariodarepublica.pt/2s/2001/01/026000000/0199902000.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/01/026000000/0199902000.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/2013/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 929df134ddded3aec665753933a69c08dfb61002bb47938e887d136f4536cc00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34d7f16b3f90e62e77824d67e8a64f5c3c8d1a62be1e17d30ddbfa516d141bf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/258/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/258/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:46Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +148,9 @@ f) [...];
 
 g) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O número máximo de unidades orgânicas flexíveis da DGE é fixado em sete.»
 
@@ -148,4 +162,4 @@ São revogados a alínea f) do n.º 1 do artigo 1.º e o artigo 7.º da Portaria
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de janeiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 15 de janeiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de janeiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 15 de janeiro de 2013.

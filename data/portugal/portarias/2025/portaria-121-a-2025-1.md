@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05601/0000200082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121-a/2025/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-a-2025-911850392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa3265a80d8f05bd05f5c7d304f7c495262ba5d77d99aee574f6d5919c48a98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f700844dc7a5a666d130397af874cdcb10d091d5935c7ae572ca398f1a8a8fa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Concurso
-- Regulamentação de Atos Legislativos
-- Educador de Infância
-- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Ensino Secundário
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089430:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:56Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +165,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de março de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -1378,3 +1394,7 @@ Vagas dos quadros de zona pedagógica
 | 62 | 2 | 3 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 4 | 3 | 0 | 0 | 20 |
 | 63 | 1 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 8 |
 | Total | 691 | 1401 | 89 | 102 | 33 | 107 | 191 | 103 | 55 | 87 | 17 | 352 | 0 | 83 | 157 | 0 | 30 | 0 | 135 | 90 | 123 | 42 | 284 | 162 | 170 | 4 | 2 | 80 | 0 | 132 | 3 | 256 | 637 | 3 | 2 | 5623 |
+
+118842053
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:99px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:16px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { text-align:center; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:24px; } .Tbl14 { min-height:25px; } .Tbl15 { min-height:17px; } .Tbl16 { min-height:33px; } .Tbl17 { min-height:26px; } .Tbl18 { min-height:27px; } .Tbl19 { min-height:18px; } .Tbl20 { min-height:34px; } .Tbl21 { min-height:36px; } .Tbl22 { min-height:23px; } .Tbl23 { min-height:32px; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

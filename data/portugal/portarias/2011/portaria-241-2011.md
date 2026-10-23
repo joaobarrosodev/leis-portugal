@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11800/0363003631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-2011-670280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 021e8a3799847cec74f18aba8c30f6a22cc47e03523f4a17442576691ac74ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c36645a13d19a342748623758e30694a4d378b64ab7ad2c3a10a57a33d576222
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Formação Profissional
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Carreira Profissional
+- Formação Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
 - Inspecção Geral da Agricultura e Pescas
 - Integração de Trabalhadores
 - JURI
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Pessoal de Inspecção
+- Recrutamento de Pessoal
 - Regulamento
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:669310:por
@@ -95,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:669310:por
+  label: "Declarada sem efeito (por corresponder à publicação em duplicado do texto da Portaria n.º 230/2011, de 14 de Junho),\
+    \ pela DECL-RECT.22/2011.15.07.2011.PCM, DR.IS [135] de 15.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-2011-669310
+  date: '2011-07-15'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:24Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +149,7 @@ Ao abrigo do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 170/2009](ht
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Maio de 2011. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 25 de Maio de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Maio de 2011. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 25 de Maio de 2011.
 
 ## ANEXO — REGULAMENTO DO CURSO DE FORMAÇÃO ESPECÍFICO PARA INTEGRAÇÃO NA CARREIRA ESPECIAL DE INSPECÇÃO DA INSPECÇÃO-GERAL DA AGRICULTURA E PESCAS (IGAP)
 

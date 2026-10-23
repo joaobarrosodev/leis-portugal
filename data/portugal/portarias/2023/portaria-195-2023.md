@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13200/0000400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/195/2023/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45f827745b702d778967e46110ec5e37b613c6560609cd4d28f6472f69ddccd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dd826b97dd157cb66ebb258f7bc64c33a2d397b91d3c2cfa6a3074613f96404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acidente de Trabalho
 - Associação dos Deficientes das Forças Armadas
-- Instituto do Emprego e Formação Profissional
 - Centro de Reabilitação Profissional
+- Deficiente
+- Doença Profissional
 - Formação Profissional
 - GAIA
-- Sistema de Normalização Contabilística
+- Incapacidade Temporária
+- Instituto do Emprego e Formação Profissional
 - Orgânica
-- Doença Profissional
 - Proteção ao Deficiente
 - Reconversão Profissional
-- Incapacidade Temporária
+- Sistema de Normalização Contabilística
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290/2009/10/12/p/dre
@@ -112,16 +112,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
+- type: cites
+  target: pt:dre:151559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161091059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170514954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:49Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +228,7 @@ O texto do protocolo com os aditamentos e alterações, devidamente enquadrado n
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 5 de julho de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 5 de julho de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -625,3 +665,5 @@ O presente protocolo entra em vigor depois de assinado pelas entidades outorgant
 Lisboa, 13 de fevereiro de 2023.
 
 Pelo Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), Domingos Jorge Ferreira Lopes. - Pela Associação dos Deficientes das Forças Armadas (ADFA), José Nuno da Câmara Santa Clara Gomes e Cândido Manuel Patuleia Mendes. - Pela Associação Portuguesa de Gestão das Pessoas (APG), Luís Pedro Serra Ramos e Paula Elisabete Rodrigues Vieira Carmo Rocha.
+
+116644175

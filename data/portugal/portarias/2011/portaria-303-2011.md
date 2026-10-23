@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303/2011/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/303-2011-145270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 663a3fea53f506f54ef29e654d3f3453452fdf508f6e8792dffbd45ce1a04198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69a6457c97b33ab1314ca5f3dc6d8f3d5de0512aaa75d041e70025f8f240d197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Auto-estrada da Beira Interior
-- SCUT
-- Cobrança
-- Rede de Estradas
 - Auto-estrada
-- Portagem
-- Preço
+- Auto-estrada da Beira Interior
 - Auto-estrada da Beira Litoral- Beira ALTA
 - Auto-estrada do Algarve
 - Auto-estrada do Interior Norte
+- Cobrança
+- Portagem
+- Preço
+- Rede de Estradas
+- SCUT
 - Taxa
 relationships:
 - type: amended_by
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/111/2011/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/2011/11/28/p/dre
+- type: cites
+  target: pt:dre:146186:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:192438:por
+  label: "Revogada, a partir de 27.10.2012, pela PORT.342/2012.26.10.2012.MF, DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-2012-192438
+  date: '2012-10-26'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:46Z'
   warnings: []
   errors: []
 ---
@@ -126,25 +135,25 @@ A tarifa de referência para a classe 1 e para a data de entrada em vigor da pre
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da auto-estrada A 22 abrangidos pelo [Decreto-Lei n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2011-146186), de 28 de Novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf))](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
 
 ###### Artigo 4.º — Auto-estrada A 23
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da auto-estrada A 23 abrangidos pelo [Decreto-Lei n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2011-146186), de 28 de Novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf))](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
 
 ###### Artigo 5.º — Auto-estrada A 24
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da auto-estrada A 24 abrangidos pelo [Decreto-Lei n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2011-146186), de 28 de Novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf))](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
 
 ###### Artigo 6.º — Auto-estrada A 25
 
 O valor das taxas de portagem a cobrar nos lanços e sublanços da auto-estrada A 25 abrangidos pelo [Decreto-Lei n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2011-146186), de 28 de Novembro, é, incluindo o IVA aplicável à taxa em vigor, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf))](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/23200/0520805209.pdf)
 
 ###### Artigo 7.º — Entrada em vigor
 
@@ -152,4 +161,4 @@ A presente portaria entra em vigor no dia em que entra em vigor o [Decreto-Lei n
 
 Em 30 de Novembro de 2011.
 
-**A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.**
+A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.

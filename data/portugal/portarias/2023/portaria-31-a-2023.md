@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 14/2023, 1º Suplemento, Série I de 2023-01-19
   number: '14'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 53-(2) a 53-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01401/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31-a/2023/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2023-206347148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d28702d8f753f5d90977da728a50e3efce6a20d4eb8b6c08d79818dce5298c0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b1dce191af2553a04efa8fa3e576cc7a6bec6b8e9127fb13130e75847efdfe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Terceira Idade
-- Regulamentação de Atos Legislativos
+- Complemento Solidário para Idosos
 - Insuficiência Económica
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Proteção na Velhice
 - Prestações Pecuniárias
+- Proteção na Velhice
 - Proteção Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
-- Complemento Solidário para Idosos
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:229857695:por
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/21/2019/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/21/2019/01/17/p/dre
+- type: cites
+  target: pt:dre:117942334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857695:por
+  label: Revogada, com efeitos a partir de 01.01.2024, pelo(a) Portaria n.º 419/2023 - Diário da República n.º 237/2023, Série
+    I de 2023-12-11, nos termos do seu art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-2023-229857695
+  date: '2023-12-11'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:33Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +153,6 @@ O valor de referência do complemento solidário para idosos é atualizado em (e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de janeiro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 12 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 13 de janeiro de 2023.
+
+116080917

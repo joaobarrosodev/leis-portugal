@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21400/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/336/2023/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-2023-223765534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdca3420e1e4c9bd5f14d8870766653e2e360c83838abd6fd71a25b5be99675c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01b146af3c976317e6c7429fb66d1f27db4c2dd09b0697b3bcd944228019ae7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Quadro de Pessoal
+- Regulamentação de Atos Legislativos
 - Representação Permanente de Portugal Junto das Comunidades Europeias
 relationships:
 - type: cites
@@ -105,16 +105,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331/2018/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331/2018/12/21/p/dre
+- type: cites
+  target: pt:dre:117471262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205199886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206618939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215034449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353966:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:43Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +189,7 @@ Até 31 de março de 2025 acresce um lugar adicional ao número de lugares de pe
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Ministro dos Negócios Estrangeiros, João Titterington Gomes Cravinho, em 31 de outubro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 27 de outubro de 2023. - O Secretário de Estado dos Assuntos Europeus, Tiago Barreto Caldeira Antunes, em 30 de outubro de 2023.**
+O Ministro dos Negócios Estrangeiros, João Titterington Gomes Cravinho, em 31 de outubro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 27 de outubro de 2023. - O Secretário de Estado dos Assuntos Europeus, Tiago Barreto Caldeira Antunes, em 30 de outubro de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -168,3 +212,5 @@ Mapa de pessoal da Representação Permanente de Portugal junto da União Europe
 8 - Pessoal não diplomático - dois trabalhadores.
 
 9 - Pessoal dos serviços periféricos externos - 44 trabalhadores a afetar por despacho do Ministro dos Negócios Estrangeiros, nos termos da legislação aplicável.
+
+117017836

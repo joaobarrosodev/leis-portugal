@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/280/2011/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-2011-668536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5c7ad2692c501a32cf88dbabd3aeaf719bb613b6be2b85de75ff77a7ae157c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af54584bcc4653255aa46c9c98df72df6b7c14d964e54fca81a447109f0ab44f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beira Interior
-- Indicação Geográfica
+- Comércio
+- Comissão Vitivinícola Regional
 - Denominação de Origem
 - Entidade Certificadora
-- Comissão Vitivinícola Regional
-- Comércio
+- Indicação Geográfica
 - Produto Vitivinícola
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:38Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +125,4 @@ A presente designação da Comissão Vitivinícola Regional da Beira Interior co
 
 A verificação de que o processo de acreditação no âmbito da norma NP EN 45011 junto do IPAC não pode ser concluído determina a caducidade da presente designação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de Outubro de 2011.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de Outubro de 2011.

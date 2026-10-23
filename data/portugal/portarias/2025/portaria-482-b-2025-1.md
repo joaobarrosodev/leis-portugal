@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/482-b/2025/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0c6fcd93256b64bc7e17561a671fdb9263a759ea99bfb0968d79962a0421eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3028325f64e9f5ac380c87d0f4bb960e3d370dfd06a2ddb9d8b74eb1865880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura Biológica
 - Beneficiário
 - Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
-- Agricultura Biológica
-- Pagamento
 - Exploração Agrícola
-- Proteção do Ambiente
+- Financiamento
+- Pagamento
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:1065236040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:54-A/2023
+  label: Altera, a partir de 1 de janeiro de 2026, o artigo 48.º e, com efeitos a partir de 1 de janeiro de 2025, os artigos
+    63.º e 65.º, da Portaria n.º 54-A/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-C/2023
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 34.º e 57.º e o anexo viii e, com efeitos a partir de 1 de janeiro
+    de 2025, os artigos 66.º e 68.º, da Portaria n.º 54-C/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento,
+    Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:360/2024
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 3.º, 13.º, 14.º, 15.º, 18.º, 19.º, 20.º e 24.º e os anexos iii,
+    iv, v, vi e vii e, nos termos da alínea c) do n.º 2 do artigo 10.º, os artigos 28.º e 30.º e adita os artigos 14.º-A e
+    19.º-A à Portaria n.º 360/2024/1, de 30 de dezembro, Diário da República n.º 252/2024, Série I
+  source: null
+  date: '2024-12-30'
+- type: amends
+  target: pt:numero:portaria:362/2024
+  label: Altera, com efeitos a partir de 1 de janeiro de 2025, o artigo 26.º e revoga, a partir de 1 de janeiro de 2026, o
+    artigo 6.º e o anexo ii da Portaria n.º 362/2024/1, de 30 de dezembro, Diário da República n.º 252/2024, Série I
+  source: null
+  date: '2024-12-30'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -127,16 +151,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-c/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-c/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905458729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907097148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915234326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941845860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:942971721:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1065236040:por
+  label: Retificada a presente portaria, pelo(a) Declaração de Retificação n.º 9-A/2026/1 - Diário da República n.º 42/2026,
+    Suplemento, Série I de 2026-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/9-a-2026-1065236040
+  date: '2026-03-02'
 article_structure:
-  article_count: 25
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:04Z'
   warnings: []
   errors: []
 ---
@@ -173,9 +247,9 @@ a) Décima alteração da [Portaria n.º 54-A/2023](https://diariodarepublica.pt
 
 b) Décima alteração da [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, na sua redação atual, que estabelece o regime de aplicação dos apoios previstos nas intervenções a conceder ao abrigo do artigo 70.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «C.1 - Gestão ambiental e climática» do eixo «C - Desenvolvimento rural - Continente» do PEPAC Portugal;
 
-c) Terceira alteração da [Portaria n.º 360/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/360-2024-901536092), de 30 de dezembro, que estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 70.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, nas tipologias C.1.1.7, «Produção Integrada (PRODI) - culturas agrícolas», e C1.1.8, «Agricultura biológica (conversão e manutenção)», integradas na intervenção C.1.1, «Compromissos agroambientais e clima», do domínio C.1 «Gestão ambiental e climática» do eixo C «Desenvolvimento rural» do PEPAC Portugal, retificada pela [Declaração de Retificação n.º 10/2025/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2025-905458729), de 30 de janeiro, e alterada pelas Portarias n.<sup>os</sup>[189-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/189-a-2025-915234326), de 15 de abril, e [369/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), de 29 de outubro;
+c) Terceira alteração da [Portaria n.º 360/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/360-2024-901536092), de 30 de dezembro, que estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 70.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, nas tipologias C.1.1.7, «Produção Integrada (PRODI) - culturas agrícolas», e C1.1.8, «Agricultura biológica (conversão e manutenção)», integradas na intervenção C.1.1, «Compromissos agroambientais e clima», do domínio C.1 «Gestão ambiental e climática» do eixo C «Desenvolvimento rural» do PEPAC Portugal, retificada pela [Declaração de Retificação n.º 10/2025/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2025-905458729), de 30 de janeiro, e alterada pelas Portarias n.os[189-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/189-a-2025-915234326), de 15 de abril, e [369/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), de 29 de outubro;
 
-d) Terceira alteração da [Portaria n.º 362/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/362-2024-901536094), de 30 de dezembro, que estabelece o regime dos apoios a conceder ao abrigo dos artigos 71.º e 72.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), nas tipologias C.1.2.1, «Apoio às zonas com condicionantes naturais», e C.1.2.2, «Pagamento Rede Natura», integradas na intervenção C.1.2, «Manutenção da atividade agrícola em zonas com condicionantes naturais», do domínio C.1, «Gestão ambiental e climática», do eixo C «Desenvolvimento rural» do PEPAC Portugal, retificada pela [Declaração de Retificação n.º 13/2025/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2025-907097148), de 12 de fevereiro, e alterada pelas Portarias n.<sup>os</sup>[366/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), de 24 de outubro, e [369/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), de 29 de outubro.
+d) Terceira alteração da [Portaria n.º 362/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/362-2024-901536094), de 30 de dezembro, que estabelece o regime dos apoios a conceder ao abrigo dos artigos 71.º e 72.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), nas tipologias C.1.2.1, «Apoio às zonas com condicionantes naturais», e C.1.2.2, «Pagamento Rede Natura», integradas na intervenção C.1.2, «Manutenção da atividade agrícola em zonas com condicionantes naturais», do domínio C.1, «Gestão ambiental e climática», do eixo C «Desenvolvimento rural» do PEPAC Portugal, retificada pela [Declaração de Retificação n.º 13/2025/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2025-907097148), de 12 de fevereiro, e alterada pelas Portarias n.os[366/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), de 24 de outubro, e [369/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), de 29 de outubro.
 
 ###### Artigo 2.º — Alteração à [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro
 
@@ -193,7 +267,9 @@ b) No ano de início do compromisso, deter um plano específico de manutenção 
 
 c) [...]
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -227,7 +303,9 @@ c) Se a diferença entre a superfície candidata e a superfície determinada for
 
 10 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Para efeitos dos anos de 2023 a 2025, o compromisso de partilha de dados previsto na alínea c) do n.º 3 do artigo 14.º, na alínea e) do n.º 3 do artigo 16.º, na alínea d) do n.º 1 do artigo 18.º, na alínea c) do n.º 1 do artigo 20.º e na alínea c) do n.º 1 do artigo 22.º é cumprido através da detenção dos dados em formato eletrónico.
 
@@ -253,7 +331,9 @@ Os artigos 34.º, 57.º, 66.º e 68.º da [Portaria n.º 54-C/2023](https://diar
 
 6 - No caso de pastoreio de porcos em regime de montanheira, o montante total do apoio é majorado em 50 %, devendo o beneficiário atualizar anualmente o registo deste efetivo pecuário em formulário disponibilizado pelo IFAP, I. P.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -275,7 +355,9 @@ Os artigos 34.º, 57.º, 66.º e 68.º da [Portaria n.º 54-C/2023](https://diar
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 66.º — […]
+Artigo 66.º
+
+[…]
 
 1 - [...]
 
@@ -309,7 +391,9 @@ c) Se a diferença entre a superfície candidata e a superfície determinada for
 
 10 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Para efeitos dos anos de 2023 a 2025, o compromisso de partilha de dados previsto na alínea g) do n.º 1 do artigo 13.º, alínea g) do artigo 18.º, alínea c) do n.º 1 do artigo 22.º e alínea f) do n.º 1 do artigo 27.º é cumprido através da detenção dos dados em formato eletrónico.
 
@@ -361,7 +445,9 @@ n) [...]
 
 o) ‘Falsa sementeira’, a preparação do canteiro tal como seria efetuada para proceder à sementeira normal, incluindo as operações usuais de mobilização e rega, mas sem a realizar, induzindo a germinação de infestantes, com posterior eliminação dos mesmos exclusivamente através de ação mecânica.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -375,7 +461,9 @@ d) (Revogada.)
 
 2 - (Revogado.)
 
-###### Artigo 14. — […]
+Artigo 14.
+
+[…]
 
 1 - […]
 
@@ -395,7 +483,9 @@ g) Deter formação específica homologada em produção integrada.
 
 2 - Para efeitos da alínea g) do número anterior, a formação pode, durante o período de compromisso, ser substituída pelo contrato de assistência técnica previsto no n.º 3 do artigo 15.º
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -407,7 +497,9 @@ g) Deter formação específica homologada em produção integrada.
 
 5 - O montante do pagamento pela prática da regeneração produtiva do arroz é pago anualmente com base no número de hectares elegíveis, até um limite de 33 % do total da superfície candidata ao grupo de pagamento do arroz, solicitado no pedido único para o ano em questão, de acordo com o previsto no anexo iv da presente portaria, da qual faz parte integrante.
 
-###### Artigo 18.º — […]
+Artigo 18.º
+
+[…]
 
 1 - [...]
 
@@ -423,7 +515,9 @@ e) (Revogada.)
 
 2 - (Revogado.)
 
-###### Artigo 19.º — […]
+Artigo 19.º
+
+[…]
 
 1 - [...]
 
@@ -445,7 +539,9 @@ g) Deter formação específica homologada em agricultura biológica.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -465,13 +561,17 @@ g) Deter formação específica homologada em agricultura biológica.
 
 9 - O montante do pagamento pela prática da regeneração produtiva do arroz é pago anualmente com base no número de hectares elegíveis, até um limite de 33 % do total da superfície candidata ao grupo de pagamento do arroz solicitado no pedido único para o ano em questão, de acordo com o previsto nos anexos vi e vii da presente portaria, da qual fazem parte integrante.
 
-###### Artigo 24. — [...]
+Artigo 24.
+
+[...]
 
 1 - […]
 
 2 - Os beneficiários com compromissos na tipologia C.1.1.7, «Produção Integrada (PRODI) - culturas agrícolas», podem, aquando da apresentação do pedido de pagamento anual, transitar a totalidade desse compromisso para a tipologia C1.1.8, «Agricultura biológica (conversão e manutenção)», desde que se verifique o cumprimento dos critérios de elegibilidade referidos no artigo 18.º, sendo aplicáveis os montantes e limites de apoio previstos no anexo iv da presente portaria, da qual faz parte integrante.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -493,7 +593,9 @@ c) Se a diferença entre a superfície candidata e a superfície determinada for
 
 7 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -557,7 +659,9 @@ Regeneração produtiva dos arrozais
 
 2 - Para efeitos do número anterior, a área de subparcelas de pousio candidata no PU do ano em causa não pode ser superior a 33 % do total da superfície candidata no grupo de pagamento ao arroz.
 
-###### Artigo 19.º-A — Regeneração produtiva dos arrozais
+Artigo 19.º-A
+
+Regeneração produtiva dos arrozais
 
 1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, podem ainda candidatar subparcelas em pousio, sujeitas à prática da sementeira falsa de arroz, desde que nos dois anos anteriores ao ano de candidatura tenham sido totalmente semeadas ou plantadas com arroz.
 
@@ -589,7 +693,7 @@ c) Artigos 28.º e 30.º, n.º 5, da [Portaria n.º 360/2024/1](https://diarioda
 
 d) Artigo 26.º da [Portaria n.º 362/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/362-2024-901536094), de 30 de dezembro.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 28 de dezembro de 2025.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 28 de dezembro de 2025.
 
 ## ANEXO I — (a que se refere o artigo 8.º)
 
@@ -634,19 +738,19 @@ Compromisso opcional de utilização de corta-mato no montado (aplica-se apenas 
 
 [...]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | 575 | 460 | 287 | 115 | ≤ 30 | ≤ 60 | ≤ 120 | >120 |
+| Grupos de pagamentoMontantes de apoio por escalão de área (€/ha)Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| Regeneração produtiva dos arrozais | 575 | 460 | 287 | 115 | ≤ 30 | ≤ 60 | ≤ 120 | >120 |  |
 
 […]
 
@@ -658,20 +762,20 @@ Compromisso opcional de utilização de corta-mato no montado (aplica-se apenas 
 
 […]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | 684 | 547 | 342 | 137 | ≤ 20 | ≤ 40 | ≤ 100 | > 100 |
+| Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| Regeneração produtiva dos arrozais | 684 | 547 | 342 | 137 | ≤ 20 | ≤ 40 | ≤ 100 | > 100 |  |
 
 […]
 
@@ -679,19 +783,23 @@ Compromisso opcional de utilização de corta-mato no montado (aplica-se apenas 
 
 […]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
-| Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | Regeneração produtiva dos arrozais | 649 | 519 | 325 | 130 | ≤ 20 | ≤ 40 | ≤ 100 | > 100 |
+| Grupos de pagamentoMontantes de apoio por escalão de área (€/ha)Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] | […] |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| […] | […] | […] | […] | […] | […] | […] | […] | […] |  |
+| Regeneração produtiva dos arrozais | 649 | 519 | 325 | 130 | ≤ 20 | ≤ 40 | ≤ 100 | > 100 |  |
 
 [...]
+
+119936275
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl9 { min-height:20px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl12 { height:17px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; }

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 79/2010, 1º Suplemento, Série I de 2010-04-23
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1366-(2) a 1366-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229-a/2010/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2010-222607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e9509d499bee1b8eeb652ecef9950de6b5c9fe36a2ea11ba9101826f49cf5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89acf73e17f83ac97ab8c2e69b76906be54df465a91c4a98b19d95ceacbde936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Combate à Violência
-- Violência
+- Comissão para a Cidadania e a Igualdade de Género
 - Definição de Competências
 - Impresso
-- Comissão para a Cidadania e a Igualdade de Género
 - Polícia Criminal
+- Violência
 - Vítima
 relationships:
 - type: cites
@@ -89,16 +89,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
+- type: cites
+  target: pt:dre:345129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166270179:por
+  label: Revogada, a partir de 30.08.2021, pelo(a) Portaria n.º 138-E/2021 - Diário da República n.º 126/2021, 1º Suplemento,
+    Série I de 2021-07-01, nos termos do seu art. 6.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-e-2021-166270179
+  date: '2021-07-01'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:08Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +165,11 @@ São aprovados os modelos de documentos comprovativos da atribuição do estatut
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 22 de Abril de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Abril de 2010. - A Secretária de Estado da Igualdade, Elza Maria Henriques Deus Pais, em 23 de Abril de 2010.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 22 de Abril de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Abril de 2010. - A Secretária de Estado da Igualdade, Elza Maria Henriques Deus Pais, em 23 de Abril de 2010.
 
 ## ANEXO I — Modelo de documento comprovativo da atribuição do estatuto de vítima a que se referem os n.os 1 e 2 do artigo 14.º da [Lei n.º 112/2009](https://diariodarepublica.pt/dr/detalhe/lei/112-2009-490247), de 16 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
 
 I - Direitos
 
@@ -243,11 +265,11 @@ A vítima tem os seguintes deveres:
 
 4) Em geral, cooperar com as várias entidades que prestam apoio, agindo sob os ditames da boa fé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
 
 ## ANEXO II — Modelo de documento comprovativo da atribuição do estatuto de vítima a que se refere o n.º 3 do artigo 14.º da [Lei n.º 112/2009](https://diariodarepublica.pt/dr/detalhe/lei/112-2009-490247), de 16 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
 
 I - A vítima tem direito a:
 
@@ -281,4 +303,4 @@ II - A vítima tem os seguintes deveres:
 
 4) Em geral, cooperar com as várias entidades que prestam apoio, agindo sob os ditames da boa fé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07901/0000200004.pdf)

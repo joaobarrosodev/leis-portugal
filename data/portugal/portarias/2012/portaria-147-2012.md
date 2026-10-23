@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0254202545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/2012/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2012-552045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab82593ae031b44bfee2f09b0f266d66392d71cd7658d75802df1eb30244225a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 273745b57f736a3d55ff912b6a859842cdb64ae40802772ce64386729521cc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:454796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258164:por
+  label: "Revogada pela PORT.30/2013.29.01.2013.MF, DR.IS [20] de 29.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/30-2013-258164
+  date: '2013-01-29'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:32Z'
   warnings: []
   errors: []
 ---
@@ -355,4 +372,4 @@ São revogadas as Portarias n.os 359/2007 e 381/2007, ambas de 29 de março.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 10 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de abril de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 10 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de abril de 2012.

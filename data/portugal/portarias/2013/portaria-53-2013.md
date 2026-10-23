@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02500/0070300707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/2013/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-2013-257857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6126ba5743176dc1cc0eff84930fa08080f4f99c4292db65e9c65edf583ed7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c17010a532773601e968ee0418628cfecc9175510397419851c3837a8e1c3441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Carreira Médica
-- Formação Profissional
-- Ensino Médico
-- Saúde Pública
-- Férias
-- Internato Médico
-- Programa de Formação
-- Horário de Trabalho
 - Avaliação do Pessoal
+- Carreira Médica
+- Ensino Médico
+- Férias
+- Formação Profissional
+- Horário de Trabalho
+- Internato Médico
+- Médico
+- Programa de Formação
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:116460405:por
@@ -108,16 +108,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1499/2004/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1499/2004/12/28/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:259963:por
+  label: "Retificados o art. 4º e o n.º 6 do art. 15º do anexo pela DECL-RECT.20/2013.05.04.2013.PCM, DR.IS [67] de 05.04.2013\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/20-2013-259963
+  date: '2013-04-05'
+- type: repealed_by
+  target: pt:dre:116460405:por
+  label: Revogada, a partir de 24.09.2018, a presente portaria, pelo(a) Portaria n.º 268/2018 - Diário da República n.º 183/2018,
+    Série I de 2018-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2018-116460405
+  date: '2018-09-21'
 article_structure:
-  article_count: 24
+  article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:15Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +194,9 @@ d) Dois meses de formação em cirurgia geral e/ou área cirúrgica, incluindo d
 
 e) ...
 
-###### Artigo 5.º — Locais de formação
+Artigo 5.º
+
+Locais de formação
 
 1. Formação em medicina interna
 
@@ -182,7 +224,9 @@ b) Serviço de urgência, integrando equipa de cirurgia geral.
 
 5. Agrupamentos de Centros de Saúde com idoneidade reconhecida para ministrar a formação nos estágios em cuidados de saúde primários do internato da especialidade de medicina geral e familiar e dispondo de unidade de saúde pública.
 
-###### Artigo 10.º — Formação em cuidados de saúde primários
+Artigo 10.º
+
+Formação em cuidados de saúde primários
 
 1. ...
 
@@ -196,11 +240,15 @@ a) ...
 
 b) ...
 
-###### Artigo 12.º — Responsabilidade pela avaliação
+Artigo 12.º
+
+Responsabilidade pela avaliação
 
 A avaliação é feita pelo diretor do serviço, diretor do serviço de urgência, o presidente do Conselho Clínico ou um médico que integre este Conselho, por proposta do responsável de estágio, ouvidos, quando for caso disso, outros médicos formalmente envolvidos no treino do interno.
 
-###### Artigo 15.º — Responsável de estágio
+Artigo 15.º
+
+Responsável de estágio
 
 1. ...
 
@@ -234,7 +282,7 @@ O disposto na presente portaria aplica-se aos médicos que ingressaram no intern
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de janeiro de 2013.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de janeiro de 2013.
 
 ## ANEXO — Republicação da [Portaria n.º 1499/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1499-2004-348921), de 28 de dezembro
 

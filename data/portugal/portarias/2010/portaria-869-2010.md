@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/869/2010/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/869-2010-344209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18451018f4b2ace97bc121904a17ae8672cbf04095de82f2f79fad5443dad646
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d65d5468603dfade46a630b4a87503d9a9fbc99fa9bb9d66d1dafea5ad55d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/947/2000/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/947/2000/10/04/p/dre
+- type: cites
+  target: pt:dre:140793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673594:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:54Z'
   warnings: []
   errors: []
 ---
@@ -136,6 +168,6 @@ A concessão de alguns terrenos incluídos em áreas classificadas poderá termi
 
 Esta portaria produz efeitos a partir do dia 4 de Fevereiro de 2011.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 24 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 17 de Agosto de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 24 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 17 de Agosto de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17500/0397303973.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17500/0397303973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17500/0397303973.pdf)

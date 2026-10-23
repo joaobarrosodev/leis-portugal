@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2163121:por
-title: Portaria n.º 1930/2000(2.ªsérie)
+title: Portaria n.º 1930/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1930-2000-2163121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bafe7a5c7a19810d76ab518ffe60b64b0c3eaf8fe78c26b744c1e41cc08bfa01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43a59b15048be5eb7085b768a4320d59b4d8b5dbc3d47e4c62c3cbf83ad9f37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Contrato
+- Direcção Geral do Património
+- Equipamento de Escritório
 relationships:
 - type: amended_by
   target: pt:dre:1494510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1389156:por
+  label: "PRORROGADO O PRAZO DE VIGÊNCIA PELA PORT.157/2002(2ªSÉRIE).2002.01.24.SETF-MF, DR.IIS [31] DE 6/FEV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2002-1389156
+  date: '2002-01-24'
+- type: amended_by
+  target: pt:dre:1494510:por
+  label: "Prorrogado o prazo pela PORT.822/2003(2ªSÉRIE).2003.06.20.SETF-MF, DR.IIS [152] de 20/Jun/2003.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/822-2003-1494510
+  date: '2003-06-20'
+- type: amended_by
+  target: pt:dre:3586632:por
+  label: "Prorrogado o prazo de vigência pela Port.359/2004(2ªSérie).16.03.2004.SETF-MF, DR.IIS [79] de 02.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-2004-3586632
+  date: '2004-03-16'
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2911109:por
+  label: "RECTIFICADO o nº 9 e o art. 7º, nº 6 al. d) do anexo VI POR RECT.242/2001.2001.01.19.SETF-MF, DR.IIS [28] de 2/Fev/2001.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/242-2001-2911109
+  date: '2001-02-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:10:42Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1930/2000(2.ªsérie)
+# Portaria n.º 1930/2000 (2.ª série)
 
 Portaria n.º 1930/2000 (2.ª série). - A Direcção-Geral do Património, no âmbito das atribuições conferidas pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 129/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1983-310413), de 14 de Março, e nos termos da [Portaria n.º 717/81](https://diariodarepublica.pt/dr/detalhe/portaria/717-1981-575923), de 22 de Agosto, com as alterações introduzidas pela [Portaria n.º 308/88](https://diariodarepublica.pt/dr/detalhe/portaria/308-1988-374806), de 17 de Maio, levou a efeito o concurso público internacional para a aquisição de equipamentos de cópia, telecópia e de impressão, com vista à celebração de contratos públicos de aprovisionamento.
 
@@ -132,23 +178,23 @@ c) Identificação do fornecedor subcontratado.
 
 ## ANEXO I — Copiadoras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf))](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
 
 ## ANEXO II — Duplicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf))](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
 
 ## ANEXO III — Impressoras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf))](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
 
 ## ANEXO IV — Multifuncionais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf))](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
 
 ## ANEXO V — Telecopiadores
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf))](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/285000000/1984119844.pdf)
 
 ## ANEXO VI — Contrato tipo de assistência técnica pós-venda
 

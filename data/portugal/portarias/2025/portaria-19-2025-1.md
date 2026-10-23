@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01500/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2025/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2025-904232913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce5af216967bfe43e2e57839db47bb6f228511c20e473f6c987cb2152f897f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa5f2f19fa1c29887c7cc839f4458047ff7233b2bb203f17d3951989b5c9de2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto Municipal sobre Imóveis
-- Construção Civil
 - Código do Imposto Municipal sobre Imóveis
+- Construção Civil
 - Contribuições e Impostos
+- Imposto Municipal sobre Imóveis
 - Industrial da Construção Civil
 - Preço
 relationships:
+- type: amends
+  target: pt:numero:portaria:7-A/2023
+  label: Mantém em vigor durante o ano de 2025, a partir de 23 de janeiro de 2025, a Portaria n.º 7-A/2023, de 3 de janeiro,
+    Diário da República n.º 2/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -80,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/7-a/2023/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/7-a/2023/01/03/p/dre
+- type: cites
+  target: pt:dre:205690985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:17Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +128,6 @@ A [Portaria n.º 7-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 20 de janeiro de 2025.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 20 de janeiro de 2025.
+
+118590192

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65/2011/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b92eaf946ff7dbfc87a59d9c92c42c0417c65c5f2ec0627a19338febf7b23ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc017fe3ceae0905a937ac5ffca3eea88e03d4a6cf0753f107eabb272be3d9f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apostas Mútuas Desportivas
+- Concurso
+- Departamento de Jogos
+- Euromilhões
+- Informatização
+- Jogos de Fortuna e Azar
+- Joker
+- Lisboa
+- Santa Casa da Misericórdia
 - Totobola
 - Totoloto
-- Jogos de Fortuna e Azar
-- Concurso
-- Euromilhões
-- Lisboa
-- Informatização
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
-- Departamento de Jogos
-- Joker
 relationships:
 - type: amended_by
   target: pt:dre:571049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278178:por
+  label: "Alterado o art. 8.º do Regulamento do JOKER, aprovado pela Port. n.º 550/2001, de 31-Mai, na redacção da presente\
+    \ portaria, pela PORT.102/2011.11.03.2011.MTSSO, DR.IS [50] de 11.03.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
+- type: amended_by
+  target: pt:dre:277587:por
+  label: "Dada nova redacção, a partir de 07.05.2011, aos arts. 18º e 19º do Regulamento do EUROMILHÕES, aprovado pela Port\
+    \ 1267/2004 de 01-Out, alterado pelo presente diploma, pela PORT.127/2011.31.03.2011.MTSSO, DR.IS [64] de 31.03.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-2011-277587
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:259419:por
+  label: "Alterados os art.s 17.º, 18.º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004, de 01-out, na redação\
+    \ da presente Portaria, e republicado, pela PORT.113/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2013-259419
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259420:por
+  label: "Alterados os art.s 8.º, 9.º, 11.º, 12.º, 13.º, 14.º, 15.º, e 16.º do Regulamento do do Jóquer, aprovado pela Port\
+    \ 550/2001, de 31-maio, na redação da presente Portaria, e republicado, pela PORT.114/2013.21.03.2013.MSSSOC, DR.IS [57]\
+    \ de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2013-259420
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259403:por
+  label: "Dada nova redação aos arts. 19º e 20º do Regulamento do TOTOBOLA, aprovado pela Port 39/2004 de 12-jan, alterado\
+    \ pelo presente diploma, pela PORT.116/2013.22.03.2013.MSSSOC, DR.IS [58] de 22.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-2013-259403
+  date: '2013-03-22'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: "Dada nova redação, a partir de 26.01.2014, ao art. 19.º do Regulamento do Totobola, aprovado pela Port 39/2004 de\
+    \ 12-jan, alterado pelo presente diploma, pela PORT.15/2014.23.01.2014.MSESS, DR.IS [16] de 23.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2014-571049
+  date: '2014-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -121,16 +159,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:236921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676813:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogadada, em 13.03.2011, a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2011-03-11'
+- type: repealed_by
+  target: pt:dre:278178:por
+  label: "Revogada em 13.03.2011 a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
 article_structure:
-  article_count: 14
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:05Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +287,9 @@ Os artigos 3.º, 8.º, 15.º e 16.º do Regulamento do JOKER, aprovado pela [Por
 
 8 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +333,9 @@ Os artigos 3.º, 8.º, 15.º e 16.º do Regulamento do JOKER, aprovado pela [Por
 
 21 - (Anterior n.º 19.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +373,9 @@ Os artigos 3.º, 8.º, 15.º e 16.º do Regulamento do JOKER, aprovado pela [Por
 
 18 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +435,9 @@ Os artigos 19.º e 20.º do Regulamento do Totoloto, aprovado pela [Portaria n.�
 
 18 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +463,9 @@ Os artigos 4.º, 19.º e 20.º do Regulamento do Totobola, aprovado pela [Portar
 
 O preço de cada aposta é fixado em (euro) 0,40.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +487,9 @@ O preço de cada aposta é fixado em (euro) 0,40.
 
 10 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -411,7 +533,9 @@ Os artigos 18.º e 19.º do Regulamento do EUROMILHÕES, aprovado pela [Portaria
 
 13 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 

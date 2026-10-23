@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02100/0004100051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/30/2024/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-2024-839655451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5002c5f298f1a15e052e1e0f0d6305971763ae4495073bf51066901b354d9d9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cde2393583da78f002ff89facf9c15928e255b2490280bb64d3cf72ec3f87628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Marítimo
-- Regulamentação de Atos Legislativos
 - Auxílio de Minimis
+- Estrutura de Missão Recuperar Portugal
 - Fundos CE
-- Proteção do Ambiente
-- Regulamento CE
 - IAPMEI
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32014R0651
@@ -107,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:00Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +163,7 @@ Assim, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 6/2015](https://
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 25 de janeiro de 2024.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 25 de janeiro de 2024.
 
 ## ANEXO
 
@@ -309,17 +321,23 @@ i) Custos com a construção, instalação ou modernização de infraestruturas 
 
 4 - Em sede de encerramento das operações com custos elegíveis nas tipologias de operação previstas nas alíneas b) e c) do artigo 5.º, o montante de auxílio será limitado à diferença entre os custos elegíveis e o lucro operacional do investimento.
 
-###### Artigo 12.º — Apresentação de candidaturas
+Artigo 12.º
+
+Apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de AAC e são submetidas através de formulário eletrónico, disponível no sítio do IAPMEI, I. P.
 
-###### Artigo 13.º — Avisos de abertura de concurso
+Artigo 13.º
+
+Avisos de abertura de concurso
 
 1 - Os AAC devem observar o respeito pelas regras definidas no [Regulamento (UE) 2021/241](http://data.europa.eu/eli/reg/2021/241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência e nas Orientações Técnicas aprovadas pela EMRP.
 
 2 - Os AAC podem definir condições específicas em função dos objetivos a alcançar.
 
-###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas
+Artigo 14.º
+
+Procedimentos de análise, seleção e decisão das candidaturas
 
 1 - A admissão, análise e seleção das candidaturas é assegurada pelo IAPMEI - Agência para a Competitividade e Inovação, I. P., com o apoio do Comité Coordenador para o investimento Navegação Ecológica, que integra, para além do IAPMEI, I. P., as seguintes entidades:
 
@@ -337,7 +355,9 @@ b) A DGRM.
 
 6 - A decisão de aprovação caduca, caso não seja assinado o termo de aceitação no prazo indicado no número anterior, salvo motivo justificado, não imputável ao candidato.
 
-###### Artigo 15.º — Critérios de seleção das candidaturas
+Artigo 15.º
+
+Critérios de seleção das candidaturas
 
 1 - As candidaturas são selecionadas com base numa avaliação apurada através dos através dos seguintes critérios de seleção, cujo referencial de cálculo é densificado nos AAC:
 
@@ -355,17 +375,23 @@ f) C6 - Racionalidade económica.
 
 2 - As candidaturas são hierarquizadas por ordem decrescente de classificação final, sendo selecionadas para cofinanciamento as candidaturas que tenham enquadramento no montante máximo fixado no AAC, sendo para o efeito elaborada lista hierarquizada de candidaturas em função da pontuação de mérito obtida.
 
-###### Artigo 16.º — Contratação
+Artigo 16.º
+
+Contratação
 
 A formalização da concessão do apoio reveste a forma de Termo de Aceitação, o qual fixará os investimentos, as subvenções, os calendários de execução e os marcos e metas a atingir, bem como as obrigações do beneficiário e penalizações em caso de incumprimento.
 
-###### Artigo 17.º — Indicadores de avaliação
+Artigo 17.º
+
+Indicadores de avaliação
 
 1 - Os indicadores de avaliação constam dos AAC ao nível das operações com as necessárias adaptações.
 
 2 - O incumprimento dos indicadores de avaliação pode determinar a redução ou a revogação do apoio.
 
-###### Artigo 18.º — Obrigações dos beneficiários
+Artigo 18.º
+
+Obrigações dos beneficiários
 
 1 - Sem prejuízo de outras obrigações previstas na legislação europeia e nacional, os beneficiários ficam obrigados a:
 
@@ -405,17 +431,23 @@ c) Alteração substancial da operação que afete a sua natureza, os seus objet
 
 4 - Os montantes pagos indevidamente no âmbito de uma operação em que ocorram as alterações previstas no número anterior são recuperados de forma proporcional ao período relativamente ao qual as obrigações não foram cumpridas.
 
-###### Artigo 19.º — Pagamentos aos beneficiários
+Artigo 19.º
+
+Pagamentos aos beneficiários
 
 As modalidades de pagamento dos apoios são definidas nos AAC.
 
-###### Artigo 20.º — Acompanhamento e controlo
+Artigo 20.º
+
+Acompanhamento e controlo
 
 1 - As operações aprovadas são sujeitas a verificações de gestão, nos termos a definir pelo IAPMEI, I. P., e respeitando o Sistema de Gestão e Controlo da EMRP.
 
 2 - Os beneficiários devem apresentar relatórios intercalares, utilizando para o efeito os formulários a disponibilizar, pelo IAPMEI, I. P., sendo objeto de uma auditoria no final da operação que inclui uma verificação no local.
 
-###### Artigo 21.º — Enquadramento europeu de auxílios de Estado
+Artigo 21.º
+
+Enquadramento europeu de auxílios de Estado
 
 1 - O presente Regulamento respeita o regime de auxílios de Estado, ao abrigo do RGIC, na sua redação atual, sendo apresentadas no anexo i do presente Regulamento as categorias de auxílios potencialmente aplicáveis.
 
@@ -423,20 +455,28 @@ As modalidades de pagamento dos apoios são definidas nos AAC.
 
 3 - Para outros custos não financiados no âmbito das categorias de auxílios do RGIC anteriormente referidas, aplicar-se-á o regime de auxílios de minimis, previsto no [Regulamento (UE) n.º 2023/2831](http://data.europa.eu/eli/reg/2023/2831/oj?locale=pt), da Comissão, de 13 de dezembro, com um limite máximo de 300 000 euros durante três anos por empresa única.
 
-###### Artigo 22.º — Redução, revogação e resolução
+Artigo 22.º
+
+Redução, revogação e resolução
 
 O incumprimento das obrigações do beneficiário bem como a inexistência ou a perda de quaisquer dos requisitos de concessão do incentivo podem determinar a redução do incentivo ou a revogação da decisão.
 
-## ANEXO I — Enquadramento europeu de auxílios de Estado
+ANEXO I
+
+Enquadramento europeu de auxílios de Estado
 
 Categorias de auxílio potencialmente aplicáveis
 
-|  |  |  |
-| --- | --- | --- |
 | Categoria de Auxílio | Despesas Elegíveis (em determinadas condições) | Intensidades Máxima de Auxílio |
-| Auxílios ao investimento para a aquisição de veículos não poluentes ou de veículos com nível nulo de emissões e para a adaptação de veículos (RGIC artigo 36.º-B). | Os custos do investimento na adaptação, no caso de investimentos que consistam na adaptação de veículos que lhes permita serem considerados veículos não poluentes ou veículos com nível nulo de emissões. | (i) 100 % dos custos elegíveis para a adaptação de veículos que lhes permita serem considerados veículos com nível nulo de emissões; (ii) 80 % dos custos elegíveis para a adaptação de veículos que lhes permita serem considerados veículos não poluentes. |
+| --- | --- | --- |
+|  |  |  |
+| Auxílios ao investimento para a aquisição de veículos não poluentes ou de veículos com nível nulo de emissões e para a adaptação de veículos (RGIC artigo 36.º-B). | Os custos do investimento na adaptação, no caso de investimentos que consistam na adaptação de veículos que lhes permita serem considerados veículos não poluentes ou veículos com nível nulo de emissões. | (i) 100 % dos custos elegíveis para a adaptação de veículos que lhes permita serem considerados veículos com nível nulo de emissões;<br>(ii) 80 % dos custos elegíveis para a adaptação de veículos que lhes permita serem considerados veículos não poluentes. |
 | Auxílios a favor de portos marítimos (RGIC artigo 56.º-B). | Os custos do investimento nas infraestruturas portuárias marítimas de carregamento e reabastecimento que forneçam eletricidade, hidrogénio, amoníaco e metanol a «navios não poluentes» ou a «navios com nível nulo de emissões». O montante de financiamento não pode exceder a diferença entre os custos elegíveis e o lucro operacional do investimento na infraestrutura portuária. O lucro operacional deve ser deduzido dos custos elegíveis ex ante. | 100 % dos custos elegíveis. |
 | Auxílios a favor de portos interiores (RGIC artigo 56.º-C). | Os custos do investimento nas infraestruturas portuárias interiores de carregamento e reabastecimento que forneçam eletricidade, hidrogénio, amoníaco e metanol a «navios não poluentes» ou a «navios com nível nulo de emissões». O montante de | 100 % dos custos elegíveis. |
 |  | financiamento não pode exceder a diferença entre os custos elegíveis e o lucro operacional do investimento na infraestrutura portuária. O lucro operacional deve ser deduzido dos custos elegíveis ex ante. |  |
-| Auxílios a estudos e serviços de consultoria em matéria de proteção do ambiente e energia (RGIC artigo 49.º). | Os auxílios a estudos ou serviços de consultoria, nomeadamente auditorias energéticas, diretamente ligados a investimentos elegíveis. | 60 % dos custos elegíveis. Majorações: i) 20 % para estudos ou serviços de consultoria efetuados por conta de pequenas empresas; ii) 10 % para estudos ou serviços de consultoria efetuados por conta de médias empresas. |
+| Auxílios a estudos e serviços de consultoria em matéria de proteção do ambiente e energia (RGIC artigo 49.º). | Os auxílios a estudos ou serviços de consultoria, nomeadamente auditorias energéticas, diretamente ligados a investimentos elegíveis. | 60 % dos custos elegíveis.<br>Majorações:<br>i) 20 % para estudos ou serviços de consultoria efetuados por conta de pequenas empresas;<br>ii) 10 % para estudos ou serviços de consultoria efetuados por conta de médias empresas. |
 | Auxílios de minimis ([Regulamento (UE) 2023/2831](http://data.europa.eu/eli/reg/2023/2831/oj?locale=pt), de 13 de dezembro de 2023. | Outros custos não financiados no âmbito das categorias de auxílios do RGIC anteriormente referidas | Limite máximo de 300 mil euros durante três anos por empresa única. |
+
+117291235
+
+.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

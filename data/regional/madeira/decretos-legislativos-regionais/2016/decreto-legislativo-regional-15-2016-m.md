@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2016/03/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2016-73865514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc8819ae0c9e9112f682a2197e95f3088d515595687f50d603033ca40c923db3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f91f02674567231507d8eea4fb770bdfa6633ee55283c4468795c7b9ae75eae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
-- Rede de Estradas
-- Estrada Regional
 - Classificação de Estradas
-- Secretaria Regional do Equipamento Social e Transportes
+- Estrada
+- Estrada Regional
 - Madeira.região Autónoma
-- Secretário Regional do Equipamento Social e Transportes
+- Rede de Estradas
+- Secretaria Regional do Equipamento Social e Transportes
 - Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Secretário Regional do Equipamento Social e Transportes
 - Secretário Regional dos Assuntos Parlamentares e Europeus
 relationships:
 - type: amended_by
@@ -108,16 +108,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:242032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108155300:por
+  label: Revogado o DLR 15/2005/M de 09-ago, na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 32/2017/M
+    - Diário da República n.º 179/2017, Série I de 2017-09-15 sem prejuízo do disposto no seu art. 34.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/32-2017-108155300
+  date: '2017-09-15'
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:58Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +190,9 @@ Nível de serviço
 
 3 - O disposto no número anterior não impede que determinados trechos das estradas regionais principais situados em zonas particularmente difíceis, por motivos de ordem topográfica ou urbanística, tenham sido ou possam ser projetados de modo que ao volume horário respetivo corresponda um nível de serviço inferior ao referido no n.º 1.
 
-###### Artigo 11.º — Nível de serviço
+Artigo 11.º
+
+Nível de serviço
 
 1 - As estradas regionais complementares devem assegurar condições de circulação relativamente estáveis, embora com restrita liberdade quanto a velocidade e a ultrapassagem (nível de serviço D).
 
@@ -194,11 +230,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de março de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 9 de março de 2016.**
+Assinado em 9 de março de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -208,11 +244,11 @@ Estradas Regionais Principais
 
 Ilha da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha do Porto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 ## ANEXO II — Rede Regional Complementar
 
@@ -220,11 +256,11 @@ Estradas Regionais Complementares
 
 Ilha da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha do Porto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha da Madeira
 
@@ -232,7 +268,7 @@ Rede Regional Principal
 
 Rede Regional Complementar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 1 - Ilha da Madeira.
 
@@ -242,7 +278,7 @@ Rede Regional Principal
 
 Rede Regional Complementar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 3 - Ilha do Porto Santo.
 
@@ -250,19 +286,19 @@ Desenho 3 - Ilha do Porto Santo.
 
 Rede Regional de Vias Rápidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 ## ANEXO IV — Classificação Funcional
 
 Rede Regional de Vias Expresso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha da Madeira
 
 Classificação Funcional das estradas da rede regional principal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 2 - Ilha da Madeira.
 
@@ -428,11 +464,11 @@ Estradas Regionais Principais
 
 Ilha da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha do Porto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 ## ANEXO II — Rede Regional Complementar
 
@@ -440,11 +476,11 @@ Estradas Regionais Complementares
 
 Ilha da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha do Porto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha da Madeira
 
@@ -452,7 +488,7 @@ Rede Regional Principal
 
 Rede Regional Complementar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 1 - Ilha da Madeira.
 
@@ -462,7 +498,7 @@ Rede Regional Principal
 
 Rede Regional Complementar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 3 - Ilha do Porto Santo.
 
@@ -470,18 +506,18 @@ Desenho 3 - Ilha do Porto Santo.
 
 Rede Regional de Vias Rápidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 ## ANEXO IV — Classificação Funcional
 
 Rede Regional de Vias Expresso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Ilha da Madeira
 
 Classificação Funcional das estradas da rede regional principal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05100/0081800829.pdf)
 
 Desenho 2 - Ilha da Madeira.

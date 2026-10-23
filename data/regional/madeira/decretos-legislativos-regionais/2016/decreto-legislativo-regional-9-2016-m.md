@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04400/0066800676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2016/03/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-73766217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4a913519a13925731cecc534f75b1d209368fca50149f7fed78a0236a1af11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ae47c8c655db716471e12eb7083d49c8f667267ac03cc36f9ec56a09ac42f22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Concessão
 - Conservação de Estradas
+- Contrato de Concessão
+- Madeira.região Autónoma
+- Parceria Público-Privada
 - Rede de Estradas
 - Viaexpresso
-- Parceria Público-Privada
-- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:07Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +208,9 @@ As bases i, iii, vii, xii, xiii, xxiv e xxvii do Anexo II - Bases da concessão,
 
 É objeto da concessão a exploração, a par da conservação e manutenção, dos troços de estradas regionais definidos no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
-###### Base III — [...]
+Base III
+
+[...]
 
 1 - As vias concessionadas são as que estão referidas no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e aquelas a que venha a ser estendida a concessão, nos termos do n.º 4 do artigo 1.º daquele diploma.
 
@@ -188,19 +222,25 @@ As bases i, iii, vii, xii, xiii, xxiv e xxvii do Anexo II - Bases da concessão,
 
 5 - [...].
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - [...].
 
 2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras para esse efeito estabelecidas no contrato de concessão.
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 2 - [...].
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e a firma do contrato.
 
@@ -210,7 +250,9 @@ As bases i, iii, vii, xii, xiii, xxiv e xxvii do Anexo II - Bases da concessão,
 
 4 - [...].
 
-###### Base XXIV — [...]
+Base XXIV
+
+[...]
 
 1 - Cabe à concessionária manter as estradas concessionadas, durante todo o período da concessão, num estado de operacionalidade e segurança que obedeça aos padrões de qualidade fixados no contrato de concessão.
 
@@ -218,7 +260,9 @@ As bases i, iii, vii, xii, xiii, xxiv e xxvii do Anexo II - Bases da concessão,
 
 3 - [...].
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 da presente base, não poderá ser aceite ou admitida a realização de obra nova, mas unicamente de reparações relevantes indispensáveis ao cumprimento das obrigações de conservação ou manutenção, de modo a garantir a segurança dos utentes.
 
@@ -228,7 +272,7 @@ As bases i, iii, vii, xii, xiii, xxiv e xxvii do Anexo II - Bases da concessão,
 
 ###### Artigo 3.º — Outorga do contrato
 
-**O Secretário Regional com a tutela das finanças fica autorizado, com a faculdade de delegação, a subscrever, em nome e em representação da Região Autónoma da Madeira, os documentos relacionados com as alterações ao contrato de concessão outorgado entre Região Autónoma da Madeira e a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A., cuja minuta é aprovada mediante Resolução do Conselho do Governo Regional da Madeira.**
+O Secretário Regional com a tutela das finanças fica autorizado, com a faculdade de delegação, a subscrever, em nome e em representação da Região Autónoma da Madeira, os documentos relacionados com as alterações ao contrato de concessão outorgado entre Região Autónoma da Madeira e a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A., cuja minuta é aprovada mediante Resolução do Conselho do Governo Regional da Madeira.
 
 ###### Artigo 4.º — Republicação
 
@@ -242,11 +286,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de fevereiro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 24 de fevereiro de 2016.**
+Assinado em 24 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -256,17 +300,23 @@ Republicação das bases da concessão, anexas ao [Decreto Legislativo Regional 
 
 ## ANEXO II — Bases da concessão
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 É objeto da concessão a exploração, a par da conservação e manutenção, dos troços de estradas regionais definidos no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
-###### Base II — Natureza da concessão
+Base II
+
+Natureza da concessão
 
 1 - A presente concessão é de serviço público.
 
 2 - A realização de obras ou trabalhos e a prestação de serviços, nomeadamente quanto à manutenção das vias concessionadas, não prejudica a natureza da concessão como de serviço público.
 
-###### Base III — Vias concessionadas
+Base III
+
+Vias concessionadas
 
 1 - As vias concessionadas são as que estão referidas no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e aquelas a que venha a ser estendida a concessão, nos termos do n.º 4 do artigo 1.º daquele diploma.
 
@@ -278,13 +328,17 @@ Republicação das bases da concessão, anexas ao [Decreto Legislativo Regional 
 
 5 - A transferência de lanços para a concessionária será efetuada nos termos definidos no contrato de concessão, sem prejuízo do respeito pelo disposto na base xxiv.
 
-###### Base IV — Extensão da concessão
+Base IV
+
+Extensão da concessão
 
 1 - A concessão pode ser estendida, até ao limite de metade da quilometragem definida na base i, por simples decisão do Governo Regional, aceite pela concessionária, e formalizada por alteração do contrato de concessão.
 
 2 - A extensão pode ter como objeto outras estradas regionais além das referidas na base i.
 
-###### Base V — Regime de retribuição à concessionária e estatuto dos utentes das vias concessionadas
+Base V
+
+Regime de retribuição à concessionária e estatuto dos utentes das vias concessionadas
 
 1 - Os utentes não terão de pagar qualquer valor, a título de taxa ou outro, por efeito de circulação nas vias concessionadas.
 
@@ -292,19 +346,25 @@ Republicação das bases da concessão, anexas ao [Decreto Legislativo Regional 
 
 3 - O contrato de concessão concretizará os termos definidores da retribuição da concessionária, durante todo o período de vigência da concessão.
 
-###### Base VI — Concedente e concessionária
+Base VI
+
+Concedente e concessionária
 
 1 - A concedente é a Região Autónoma da Madeira.
 
 2 - A concessionária é a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A.
 
-###### Base VII — Bancos financiadores
+Base VII
+
+Bancos financiadores
 
 1 - As instituições de crédito, nacionais ou estrangeiras, financiadoras das atividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
 
 2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras para esse efeito estabelecidas no contrato de concessão.
 
-###### Base VIII — Cessão da posição contratual
+Base VIII
+
+Cessão da posição contratual
 
 1 - É vedado à concessionária a cessão da posição contratual a outrem durante todo o período de vigência da concessão.
 
@@ -312,7 +372,9 @@ Republicação das bases da concessão, anexas ao [Decreto Legislativo Regional 
 
 3 - Porém, a prática desses atos ou contratos é relevante para efeitos de imposição de sanções à concessionária, para execução de garantias ou para o desencadear do processo com vista à rescisão do contrato, não podendo a concessionária invocar ou opor a nulidade.
 
-###### Base IX — Oneração, alienação e trespasse da concessão
+Base IX
+
+Oneração, alienação e trespasse da concessão
 
 1 - A concessionária não poderá alienar ou por qualquer modo onerar, no todo ou em parte, a concessão ou realizar negócio jurídico que vise atingir resultados idênticos.
 
@@ -320,23 +382,31 @@ Republicação das bases da concessão, anexas ao [Decreto Legislativo Regional 
 
 3 - Serão nulos todos e quaisquer atos ou contratos praticados em violação do disposto nesta base. Aplica-se, contudo, e em benefício da concedente, o disposto no último parágrafo da base viii.
 
-###### Base X — Autorização para a prática dos atos ou contratos referidos nas bases viii e ix
+Base X
+
+Autorização para a prática dos atos ou contratos referidos nas bases viii e ix
 
 1 - Se estiver em risco a continuidade do serviço público, poderá a concedente autorizar previamente a prática de atos, ou a celebração de contratos, que caiam na previsão das bases viii e ix, a título excecional, suportando a concessionária os prejuízos e encargos que daí decorram.
 
 2 - A recusa da concedente em praticar os atos referidos no parágrafo anterior, simplesmente fundamentada no dever da concessionária em cumprir as suas obrigações no âmbito do contrato, não dá direito à perceção de quaisquer verbas pela concessionária, a título de indemnização por prejuízos sofridos, ou qualquer outro.
 
-###### Base XI — Área da concessão
+Base XI
+
+Área da concessão
 
 A área da concessão é a definida no anexo i a estas bases ou esta adicionada da que resulte da extensão ou extensões do objeto da concessão.
 
-###### Base XII — Extensão da área da concessão e aumento especial de capital social
+Base XII
+
+Extensão da área da concessão e aumento especial de capital social
 
 1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 2 - Esta prerrogativa conferida ao Governo Regional pode ser utilizada por uma ou mais vezes.
 
-###### Base XIII — Duração da concessão
+Base XIII
+
+Duração da concessão
 
 1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e a firma do contrato.
 
@@ -346,23 +416,31 @@ A área da concessão é a definida no anexo i a estas bases ou esta adicionada 
 
 4 - No caso de se operar a extensão da área da concessão, poderão concedente e concessionária acordar sobre se se mantém o termo da concessão, nos termos definidos nos parágrafos anteriores, ou se, para a parte do objeto que corresponda à extensão, se contarão os 25 anos desde a data da assinatura da alteração ao contrato de concessão.
 
-###### Base XIV — Pagamento à concedente
+Base XIV
+
+Pagamento à concedente
 
 1 - A concessionária pagará à concedente o valor de (euro) 250 000 000, nos termos e momentos definidos no contrato de concessão.
 
 2 - No caso de extensão do objeto da concessão, deve o Governo Regional exigir o pagamento de uma nova verba à concessionária.
 
-###### Base XV — Pagamento à concessionária
+Base XV
+
+Pagamento à concessionária
 
 1 - A concedente pagará à concessionária, nos termos e momentos definidos no contrato de concessão, as verbas que a esta última sejam atribuídas.
 
 2 - O pagamento à concessionária, que deverá assumir uma expressão unitária, e não ser cindido por cada seu fundamento, embora seja satisfeito em prestações periódicas distribuídas pelo período de duração da concessão, deverá permitir a remuneração adequada pelas obrigações de manutenção das vias concessionadas em todo o período de vigência da concessão, bem como da retribuição do capital e juros da verba prevista na base anterior, acrescida da vantagem económica que represente a melhor oferta dos participantes no primeiro aumento especial de capital social.
 
-###### Base XVI — Financiamento
+Base XVI
+
+Financiamento
 
 Cabe à concessionária dotar-se dos meios financeiros necessários ao cumprimento das suas obrigações, no âmbito do contrato.
 
-###### Base XVII — Equilíbrio financeiro e sua reposição
+Base XVII
+
+Equilíbrio financeiro e sua reposição
 
 1 - Quer a concedente quer a concessionária estão obrigadas a manter, preservar e promover o equilíbrio financeiro em que o contrato de concessão se funda. Tal é uma obrigação recíproca que vincula as partes durante toda a vigência do contrato. Caso a concedente pretenda modificar as prestações, mesmo que com respeito pelo objeto do contrato, terá de indemnizar a concessionária em termos justos e adequados.
 
@@ -370,7 +448,9 @@ Cabe à concessionária dotar-se dos meios financeiros necessários ao cumprimen
 
 3 - Caso se entenda útil à gestão do contrato e à prevenção e ou resolução de litígios, podem as partes recorrer a fórmulas que concretizem o equilíbrio financeiro da concessão. Existindo estas, não podem ser invocados quaisquer outros fundamentos a título de indemnização, composição ou reposição do equilíbrio financeiro.
 
-###### Base XVIII — Direção e fiscalização da concessão
+Base XVIII
+
+Direção e fiscalização da concessão
 
 1 - A concedente tem o direito de, nos termos gerais, dirigir e fiscalizar a execução do presente contrato administrativo.
 
@@ -378,35 +458,47 @@ Cabe à concessionária dotar-se dos meios financeiros necessários ao cumprimen
 
 3 - A fiscalização será exercida por quem represente a concedente e visa garantir que o contrato se cumpre e o serviço público é garantido ao longo de todo o período da concessão. O contrato de concessão especificará os meios pelos quais os poderes de fiscalização se exercem e como pode a concessionária a eles reagir, no caso de exercício ilegal, ou fora dos parâmetros do contrato.
 
-###### Base XIX — Projeto empresarial VIAEXPRESSO e acordos parassociais
+Base XIX
+
+Projeto empresarial VIAEXPRESSO e acordos parassociais
 
 1 - Além de ser uma concessionária e instrumento de serviço público, a VIAEXPRESSO tem o direito de se autodeterminar a afirmar como empresa de participação societária maioritariamente privada para que deverá evoluir, gerando e gerindo as receitas que permitam a sua autossustentação, assegurando taxas de rendibilidade atrativas para o investimento.
 
 2 - De modo a garantir a estabilidade acionista e a continuidade da concessionária de serviço público, serão estabelecidos entre os participantes da VIAEXPRESSO pelo menos os acordos parassociais que o contrato de concessão especifique.
 
-###### Base XX — Bens e direitos afetos à concessão
+Base XX
+
+Bens e direitos afetos à concessão
 
 1 - Os bens e direitos afetos à concessão representam o acervo constante necessário ao cumprimento permanente das obrigações de serviço público envolvidas na execução do contrato.
 
 2 - São bens e direitos afetos à concessão aqueles que o contrato especifique. A sua qualidade, quantidade e atualização são expressas no inventário elaborado especificamente a esse efeito.
 
-###### Base XXI — Transmissões de propriedade e bens afetos à concessão
+Base XXI
+
+Transmissões de propriedade e bens afetos à concessão
 
 O contrato de concessão especificará o regime das transmissões de propriedade de bens afetos à concessão, bem como da extinção de direitos nela integrados, sobretudo para permitir a sua substituição, de modo a não deixar perigar a continuidade do serviço público ou a paralisia da ação da concessionária.
 
-###### Base XXII — Oneração de bens afetos à concessão e de ações representativas do capital social da concessionária
+Base XXII
+
+Oneração de bens afetos à concessão e de ações representativas do capital social da concessionária
 
 1 - Qualquer oneração de bens afetos à concessão é proibida, salvo acordo expresso dado pela concedente, após solicitação escrita a esse propósito, apresentada pela concessionária.
 
 2 - Fica desde já autorizada a oneração de ações representativas do capital social da concessionária, para efeitos de prestação das garantias destinadas à recolha de meios financeiros necessários à execução do contrato.
 
-###### Base XXIII — Exploração das estradas concessionadas
+Base XXIII
+
+Exploração das estradas concessionadas
 
 1 - A concessionária tem o direito de explorar economicamente as vias concessionadas, daí retirando o proveito que o contrato de concessão lhe torne legítimo e acessível.
 
 2 - Porém, a exploração de atividades económicas relacionadas com a rodovia, como é o caso das áreas de serviço, de publicidade ou de outro tipo de serviços, só é admitida se o contrato de concessão o estabelecer, e nos termos em que o faça.
 
-###### Base XXIV — Conservação, manutenção e reparação das estradas concessionadas
+Base XXIV
+
+Conservação, manutenção e reparação das estradas concessionadas
 
 1 - Cabe à concessionária manter as estradas concessionadas, durante todo o período da concessão, num estado de operacionalidade e segurança que obedeça aos padrões de qualidade fixados no contrato de concessão.
 
@@ -414,13 +506,17 @@ O contrato de concessão especificará o regime das transmissões de propriedade
 
 3 - O contrato de concessão especificará os termos e os momentos das transferências dos lanços de estradas, para a concessionária, nomeadamente para efeitos de esta assumir as obrigações de manutenção, conservação e reparação.
 
-###### Base XXV — Disciplina de tráfego
+Base XXV
+
+Disciplina de tráfego
 
 1 - A concessionária obedecerá, naquilo que lhe compete, às normas do Código da Estrada que afetem a sua atividade, em especial no que diz respeito à manutenção da sinalização obrigatória em perfeitas condições.
 
 2 - O contrato de concessão especificará em que se concretiza o cumprimento desta obrigação.
 
-###### Base XXVI — Assistência a utentes
+Base XXVI
+
+Assistência a utentes
 
 1 - A concessionária tem a obrigação de garantir a assistência aos utentes das vias concessionadas, nela se incluindo a vigilância das condições de circulação, sobretudo no que diz respeito à segurança e à prevenção de acidentes.
 
@@ -428,7 +524,9 @@ O contrato de concessão especificará o regime das transmissões de propriedade
 
 3 - O contrato de concessão concretizará o modo como será cumprido o disposto nesta base, estabelecendo padrões de qualidade mínimos obrigatórios.
 
-###### Base XXVII — Novas construções e alterações ou modificações relevantes nas já existentes assumidas pela concessionária
+Base XXVII
+
+Novas construções e alterações ou modificações relevantes nas já existentes assumidas pela concessionária
 
 1 - Sem prejuízo do disposto no n.º 3 da presente base, não poderá ser aceite ou admitida a realização de obra nova, mas unicamente de reparações relevantes indispensáveis ao cumprimento das obrigações de conservação ou manutenção, de modo a garantir a segurança dos utentes.
 
@@ -436,17 +534,23 @@ O contrato de concessão especificará o regime das transmissões de propriedade
 
 3 - No caso de extensão do objeto da concessão, nos termos previstos nas presentes bases, a concessionária poderá receber, por meio de cessão da posição contratual da respetiva entidade pública contratante, o encargo de executar obra nova, desde que tenha sido respeitado pela entidade cedente o procedimento pré-contratual legalmente estabelecido, e com a consequência de ser o valor dos pagamentos assumidos pela concessionária deduzido à verba prevista na base xiv.
 
-###### Base XXVIII — Expropriações
+Base XXVIII
+
+Expropriações
 
 1 - A VIAEXPRESSO pode requerer às autoridades competentes, enquanto concessionária de serviço público, a expropriação por utilidade pública dos imóveis necessários à execução dos objetivos do contrato de concessão, aí incluídos os que resultem da extensão do seu objeto.
 
 2 - Os encargos com as expropriações são da responsabilidade da VIAEXPRESSO, a qual, no desencadear do processo, identificará suficientemente, nos termos legais, os meios financeiros com os quais assegurará o cumprimento dessa obrigação.
 
-###### Base XXIX — Servidões administrativas
+Base XXIX
+
+Servidões administrativas
 
 O disposto na base anterior é aplicável, com as necessárias adaptações, às servidões administrativas, nos termos definidos no Código das Expropriações.
 
-###### Base XXX — Caução
+Base XXX
+
+Caução
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária prestará caução, no montante e com os requisitos de execução incondicional que o contrato de concessão especifique.
 
@@ -454,23 +558,31 @@ O disposto na base anterior é aplicável, com as necessárias adaptações, às
 
 3 - O montante da caução poderá ir sendo reduzido sempre que haja diminuição do risco associado envolvido, nomeadamente pelo decurso do prazo da concessão, e nos termos em que o contrato de concessão o estabeleça.
 
-###### Base XXXI — Seguros
+Base XXXI
+
+Seguros
 
 O contrato de concessão especificará os seguros que a concessionária terá de manter em vigor, os meios pelos quais a concessionária tem de provar o pagamento dos prémios respetivos e as condições em que a concedente se pode fazer substituir à concessionária nessa liquidação, de modo que as coberturas estejam sempre asseguradas.
 
-###### Base XXXII — Incumprimento grave
+Base XXXII
+
+Incumprimento grave
 
 1 - O incumprimento grave é qualquer comportamento da concessionária ou da concedente que ponha em causa a manutenção do serviço público concessionado.
 
 2 - O contrato de concessão pode especificar o conceito de incumprimento grave, quer através de critérios adequados ao disposto no parágrafo anterior, quer pela indicação de situações concretas de incumprimento grave, quer pelo recurso aos dois métodos atrás apontados.
 
-###### Base XXXIII — Responsabilidade extracontratual perante terceiros
+Base XXXIII
+
+Responsabilidade extracontratual perante terceiros
 
 1 - A concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das atividades que constituem o objeto da concessão, pela culpa e pelo risco, não sendo assumido pela concedente qualquer tipo de responsabilidade neste âmbito.
 
 2 - A concessionária responderá ainda nos termos gerais da relação comitente-comissário pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das atividades compreendidas na concessão.
 
-###### Base XXXIV — Incumprimento não grave
+Base XXXIV
+
+Incumprimento não grave
 
 1 - Incumprimento não grave é qualquer comportamento da concessionária ou da concedente que, representando uma infração ao disposto nestas bases ou no contrato de concessão, não ponha substancialmente em causa a manutenção do serviço público concessionado.
 
@@ -478,7 +590,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 3 - O incumprimento não grave dá lugar à aplicação de penalidades pecuniárias, que oscilarão entre os valores que o contrato de concessão especifique.
 
-###### Base XXXV — Força maior
+Base XXXV
+
+Força maior
 
 1 - Consideram-se casos de força maior os acontecimentos imprevisíveis e irresistíveis, independentes da vontade das partes, e que impeçam, no todo ou em parte, momentânea ou por um período de tempo continuado, o cumprimento deste contrato.
 
@@ -486,7 +600,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 3 - A verificação de um caso de força maior inibe qualquer das partes de invocar perante a outra a aplicação de sanções, previstas nas suas bases anteriores.
 
-###### Base XXXVI — Processo prévio à rescisão
+Base XXXVI
+
+Processo prévio à rescisão
 
 1 - Quando alguma das partes dirija à outra notificação no sentido de que pretende rescindir o contrato, terá de seguir o processo previsto nesta base. A notificação da intenção de rescindir o contrato tem de ser fundamentada, concretizando o que impede a continuidade de prestação do serviço público, ou outra ocorrência de incumprimento grave, que o contrato de concessão admita ou especifique.
 
@@ -494,7 +610,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 3 - Só no caso de a parte que notificou da intenção de rescindir o contrato não se satisfazer com a proposta da parte contrária, poderá repetir a notificação, a qual terá pleno efeito após ser recebida pela destinatária.
 
-###### Base XXXVII — Rescisão do contrato
+Base XXXVII
+
+Rescisão do contrato
 
 1 - O contrato de concessão pode ser rescindido por qualquer das partes, com base no incumprimento grave por parte da outra.
 
@@ -504,13 +622,17 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 4 - A rescisão está sujeita ao processo prévio identificado na base anterior.
 
-###### Base XXXVIII — Responsabilidade financeira em caso de rescisão
+Base XXXVIII
+
+Responsabilidade financeira em caso de rescisão
 
 1 - Qualquer das partes a quem sejam imputáveis as razões da rescisão fica imediatamente responsável pela totalidade do passivo resultante dos contratos de financiamento. O mesmo sucede com a concedente, se rescindir o contrato por motivos de interesse público.
 
 2 - Este facto não desvincula a outra parte das suas obrigações já constituídas com os bancos financiadores, no âmbito dos contratos de financiamento. Os bancos financiadores têm o direito de reavaliar o risco e as condições dos contratos de financiamento caso ocorra uma rescisão do contrato, independentemente de continuar a ser assegurado o serviço público objeto da concessão.
 
-###### Base XXXIX — Resgate da concessão
+Base XXXIX
+
+Resgate da concessão
 
 1 - A concessão poderá ser resgatada e a sua atividade assumida pela concedente, no caso de razões de interesse público o justificarem, mas exclusivamente nos cinco anos finais do período de duração da concessão.
 
@@ -522,7 +644,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 5 - O contrato de concessão explicitará, de modo claro, os termos em que se determina a indemnização a pagar pela concedente.
 
-###### Base XL — Suspensão da concessão
+Base XL
+
+Suspensão da concessão
 
 1 - A concessão pode ser suspensa, exclusivamente pela concedente, por motivos de interesse público, ou pela verificação de facto de força maior, impeditivo da concretização dos objetivos de serviço público, ainda que parcial, sendo a concessionária indemnizada dos prejuízos que por esse ato sofra.
 
@@ -534,7 +658,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 5 - A suspensão não pode durar mais de dois anos seguidos ou quatro interpolados. Atingido esse prazo, considera-se extinta a concessão, como se se tivesse chegado ao seu termo.
 
-###### Base XLI — Sequestro da concessão
+Base XLI
+
+Sequestro da concessão
 
 1 - Em caso de a concessionária se encontrar em situação de incumprimento grave, e não queira a concedente usar do direito de rescisão do contrato, pode esta sequestrar a concessão.
 
@@ -542,7 +668,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 3 - O sequestro não pode prolongar-se por mais de um período seguido de um ano ou interpolado de dois. Caso se mantenham os motivos que justificaram originariamente o sequestro, ou ocorram outros semelhantes ou equivalentes, a concedente tem de desencadear o processo de rescisão do contrato.
 
-###### Base XLII — Responsabilidade financeira em caso de resgate, suspensão ou sequestro da concessão
+Base XLII
+
+Responsabilidade financeira em caso de resgate, suspensão ou sequestro da concessão
 
 1 - Sempre que ocorra o resgate, a suspensão ou o sequestro da concessão, e durante os períodos respetivos, a concedente assume a responsabilidade perante os bancos financiadores de suportar todos os encargos que a concessionária perante eles tinha, mas estes efeitos não são oponíveis pela concessionária, face às mesmas instituições de crédito, para se desobrigar daquilo que seja seu dever, nos termos dos contratos que com elas haja celebrado.
 
@@ -550,7 +678,9 @@ O contrato de concessão especificará os seguros que a concessionária terá de
 
 3 - A ocorrência do resgate, suspensão ou sequestro não constituem, por si só, situações que constituam alteração relevante às condições de celebração dos contratos de financiamento.
 
-###### Base XLIII — Cálculo de prejuízos
+Base XLIII
+
+Cálculo de prejuízos
 
 1 - Como prejuízos indemnizáveis, no âmbito das disposições incluídas nas bases anteriores, contam-se:
 
@@ -566,7 +696,9 @@ e) O valor atribuído à continuidade do serviço público, que fique frustrado,
 
 2 - O contrato de concessão pode determinar o recurso às fórmulas de equilíbrio financeiro para determinar, total ou parcialmente, qualquer valor de prejuízos a compensar. Caso se recorra a fórmulas, não é admissível qualquer pedido suplementar para prover à indemnização pelos mesmos factos.
 
-###### Base XLIV — Comissão de Acompanhamento da Concessão
+Base XLIV
+
+Comissão de Acompanhamento da Concessão
 
 1 - É instituída a Comissão de Acompanhamento da Concessão (CAC), que será composta por três elementos, sendo um deles o presidente, nomeado pelo membro do Governo Regional responsável pelas obras públicas, outro nomeado pela concessionária e um terceiro pelos bancos financiadores.
 
@@ -594,11 +726,15 @@ e) O valor atribuído à continuidade do serviço público, que fique frustrado,
 
 13 - A CAC, contudo, deverá ser consultada na eventualidade da ocorrência da suspensão, resgate ou sequestro da concessão. Essa consulta pode ser desencadeada por qualquer das partes do contrato de concessão.
 
-###### Base XLV — Reversão
+Base XLV
+
+Reversão
 
 No termo do prazo da concessão, revertem gratuita e automaticamente para a concedente, por esse simples facto, as ações representativas do capital social da concessionária.
 
-###### Base XLVI — Arbitragem
+Base XLVI
+
+Arbitragem
 
 1 - Os litígios emergentes do contrato de concessão, da interpretação das suas disposições, ou dos termos da sua execução, poderão ser sujeitos a decisão arbitral, ou a outro meio extrajudicial de resolução de litígios, nos limites legais e nos termos em que o contrato de concessão o concretize.
 
@@ -606,11 +742,15 @@ No termo do prazo da concessão, revertem gratuita e automaticamente para a conc
 
 3 - O recurso a qualquer meio extrajudicial de resolução de litígios, bem como a interposição, ou o decurso, de qualquer ação judicial, seja qual for a sua natureza, não suspende ou faz extinguir qualquer das obrigações que as partes tenham, ao abrigo deste contrato.
 
-###### Base XLVII — Dissolução e liquidação da sociedade concessionária
+Base XLVII
+
+Dissolução e liquidação da sociedade concessionária
 
 No caso de ser deliberada a dissolução da sociedade concessionária, e a respetiva liquidação, poderá a concedente assumir a continuidade do serviço público, desencadeando a execução das regras constantes, atualmente, do artigo 21.º dos estatutos da VIAEXPRESSO.
 
-###### Base XLVIII — Contrato de concessão
+Base XLVIII
+
+Contrato de concessão
 
 1 - O contrato de concessão, que respeitará o conteúdo destas bases, as desenvolverá e executará, e com elas se conformará, é o instrumento jurídico nuclear da concessão, e reunirá tanto o que aqui se dispõe como o que, em benefício do interesse público, conste da declaração de intenções do(s) agrupamento(s) que venha(m) a integrar o corpo acionista da VIAEXPRESSO, aí incluídas as possibilidades, os limites e as modalidades de alteração futura do título contratual.
 

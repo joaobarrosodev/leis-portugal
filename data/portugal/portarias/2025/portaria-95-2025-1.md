@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05000/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2025/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2025-910517156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ebf66dd65913e933d0bb8093d1ce8367546a99414f5221e959b3d5f9fce4131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f7be21c246440c2d995bdeb92ceef2d3951bcb857a62475b1d7b2e6f8d8431f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Ficheiro Informático
 - Cartório Notarial
 - Certidão
 - Certificação Electrónica
 - Conservatória dos Registos Centrais
 - Documentação
-- Segurança da Informação
 - Documento Eletrónico
+- Ficheiro Informático
 - Plataforma Eletrónica
+- Segurança da Informação
 relationships:
+- type: amends
+  target: pt:numero:portaria:121/2021
+  label: Altera, a partir de 13 de março de 2025, os artigos 6.º e 12.º da Portaria n.º 121/2021, de 9 de junho, Diário da
+    República n.º 111/2021, Série I
+  source: null
+  date: '2021-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/155/2015/09/15/p/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/2021/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/2021/12/13/p/dre
+- type: cites
+  target: pt:dre:164870237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175780036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180923377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214847018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70297420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867844552:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:21Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +160,7 @@ Manda o Governo, pela Secretária de Estado da Justiça, ao abrigo do disposto n
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à quarta alteração à [Portaria n.º 121/2021](https://diariodarepublica.pt/dr/detalhe/portaria/121-2021-164870237), de 9 de junho, alterada pelas Portarias n.<sup>os</sup>[295/2021](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), de 13 de dezembro, [119/2022](https://diariodarepublica.pt/dr/detalhe/portaria/119-2022-180923377), de 23 de março, e [178/2023](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), de 27 de junho, que regulamenta o arquivo eletrónico de documentos lavrados por notário e de outros documentos arquivados nos cartórios, a certidão notarial permanente e a participação de atos por via eletrónica à Conservatória dos Registos Centrais.
+A presente portaria procede à quarta alteração à [Portaria n.º 121/2021](https://diariodarepublica.pt/dr/detalhe/portaria/121-2021-164870237), de 9 de junho, alterada pelas Portarias n.os[295/2021](https://diariodarepublica.pt/dr/detalhe/portaria/295-2021-175780036), de 13 de dezembro, [119/2022](https://diariodarepublica.pt/dr/detalhe/portaria/119-2022-180923377), de 23 de março, e [178/2023](https://diariodarepublica.pt/dr/detalhe/portaria/178-2023-214847018), de 27 de junho, que regulamenta o arquivo eletrónico de documentos lavrados por notário e de outros documentos arquivados nos cartórios, a certidão notarial permanente e a participação de atos por via eletrónica à Conservatória dos Registos Centrais.
 
 ###### Artigo 2.º — Alteração à [Portaria n.º 121/2021](https://diariodarepublica.pt/dr/detalhe/portaria/121-2021-164870237), de 9 de junho
 
@@ -146,7 +176,9 @@ Os artigos 6.º e 12.º da [Portaria n.º 121/2021](https://diariodarepublica.pt
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -168,4 +200,6 @@ e) [...]»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Justiça, Maria José Dias da Mota Magalhães de Barros, em 10 de março de 2025.**
+A Secretária de Estado da Justiça, Maria José Dias da Mota Magalhães de Barros, em 10 de março de 2025.
+
+118790765

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17700/0538505390.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2017/09/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e0522b3d9c216831999e8d814f4f73759bf6f1ef656a9ac70f3c1a1ef5c0365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 721e3cf8819bc7ff703e74eb2a79bfd0eda65da5537664511edc68bcc531d989
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Sistema Retributivo
+- Autoridade Regional das Atividades Económicas
 - Carreira Profissional
-- Recrutamento de Pessoal
-- Habilitações Literárias
+- Definição de Competências
 - Descrição de Funções
-- Pessoal de Inspecção
 - Estágio de Formação
+- Habilitações Literárias
 - Madeira.região Autónoma
+- Pessoal de Inspecção
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Remuneração
-- Autoridade Regional das Atividades Económicas
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
@@ -120,16 +120,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75132645:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:13Z'
   warnings: []
   errors: []
 ---
@@ -174,11 +238,15 @@ Regime jurídico aplicável à carreira inspetiva
 
 Até a revisão das carreiras de inspeção, enquanto carreiras de regime especial, previstas no artigo 101.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, aplica-se às carreiras de inspeção dos inspetores da Autoridade Regional das Atividades Económicas, o regime instituído no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril, que estabelece o enquadramento e define a estrutura das carreiras de inspeção da Administração Pública, com as especificidades constantes neste diploma.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 As carreiras de inspeção da Autoridade Regional das Atividades Económicas são, para todos os efeitos legais, reconhecidas como carreiras de regime especial.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -188,7 +256,9 @@ As carreiras de inspeção da Autoridade Regional das Atividades Económicas sã
 
 4 - Excecionalmente, podem ingressar na carreira de inspetor técnico, os inspetores adjuntos, com curso superior que não confira grau de licenciatura e com 10 anos de carreira inspetiva, ainda que a referida habilitação académica não seja em áreas de entre as indicadas no artigo 4.º-A.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -204,13 +274,17 @@ As carreiras de inspeção da Autoridade Regional das Atividades Económicas sã
 
 7 - Os regulamentos de estágio são aprovados por despacho conjunto dos membros do Governo Regional responsáveis pelos departamentos governamentais com atribuições em matéria de, respetivamente, Inspeção das Atividades Económicas e Administração Pública.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os cursos que integram os estágios das carreiras de inspetor, inspetor técnico e inspetor-adjunto são objeto de regulamento a aprovar por despacho conjunto dos membros do Governo Regional responsáveis pelos departamentos governamentais com atribuições em matéria de, respetivamente, Inspeção das Atividades Económicas e Administração Pública.
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Compete ao pessoal das carreiras de inspetor superior, inspetor técnico e inspetor-adjunto:
 
@@ -264,11 +338,15 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 As estruturas indiciárias das carreiras do pessoal de inspeção da Autoridade Regional das Atividades Económicas constam do mapa I em anexo ao [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O pessoal dirigente e o pessoal das carreiras de inspeção da Autoridade Regional das Atividades Económicas têm direito ao suplemento de função inspetiva estabelecido nos artigos 12.º e 13.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril, no montante de 22,5 % da respetiva remuneração de base.
 
@@ -316,11 +394,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 26 de julho de 2017.**
+Assinado em 26 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

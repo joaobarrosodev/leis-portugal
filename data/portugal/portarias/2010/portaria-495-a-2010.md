@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 134/2010, 1º Suplemento, Série I de 2010-07-13
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2592-(2) a 2592-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/495-a/2010/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/495-a-2010-522987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bbfff843e504f8cbb83c1bc862bbaa782d03794d5ecaa46fb94852bb623cf97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c2e6767849611f0767381cea4d6623e2b028de8d77d2337f60b52b4ff4dda9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Campanha Vinícola
-- Vinho
 - Apoio ao Investimento
+- Campanha Vinícola
+- Financiamento
 - Pagamento
 - Regime de Apoio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342165:por
+  label: "Alterado o art. 11º da Port 1144/2008, de 10-Out, na redacção e republicada pelo presente diploma, pela PORT.987/2010.28.09.2010.MADRP,\
+    \ DR.IS [189] de 28.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-2010-342165
+  date: '2010-09-28'
+- type: amended_by
+  target: pt:dre:668537:por
+  label: "Alterados os art.s 6º, 11º e 14º da Port 1144/2008, de 10-Out, pela PORT.281/2011.17.10.2011.MAMAOT, DR.IS [199]\
+    \ de 17.10.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2011-668537
+  date: '2011-10-17'
+- type: amended_by
+  target: pt:dre:175775:por
+  label: "Alterado o art. 19º e os anexo II e II da Port 1144/2008, de 10-Out, republicada pelo presente diploma, pela PORT.313/2012.10.10.2012.MAMAOT,\
+    \ DR.IS [196] de 10.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2012-175775
+  date: '2012-10-10'
 - type: cites
   target: celex:31985R2220
   label: null
@@ -116,16 +134,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 1144/2008 de 10-out, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013, sem prejuízo do disposto no n.º 1 do art. 21.º desta\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
-  article_count: 39
+  article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:42Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +178,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 8.º, 11.º, 12.º e 14.º da Portaria 
 
 A presente portaria estabelece, para o continente, as normas complementares de execução do regime de apoio à reestruturação e reconversão das vinhas, adiante designado por regime de apoio, nos termos do artigo 103.º-Q do Regulamento (CE) n.º [1234/2007](http://data.europa.eu/eli/reg/2007/1234/oj?locale=pt), do Conselho, de 22 de Outubro, com as alterações introduzidas pelo Regulamento (CE) n.º [491/2009](http://data.europa.eu/eli/reg/2009/491/oj?locale=pt), do Conselho, de 25 de Maio, e da secção 2 do capítulo ii do título ii do Regulamento (CE) n.º [555/2008](http://data.europa.eu/eli/reg/2008/555/oj?locale=pt), da Comissão, de 27 de Junho, bem como fixa os procedimentos administrativos aplicáveis à concessão das ajudas previstas, para as campanhas vitivinícolas de 2010-2011 a 2012-2013.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do disposto na presente portaria, entende-se por:
 
@@ -168,7 +194,9 @@ d) ...
 
 e) 'Instalação da vinha', que compreende a preparação do terreno, podendo incluir a alteração do perfil do terreno e melhoria das infra-estruturas fundiárias, a colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respectiva enxertia e instalação do sistema de suporte, designadamente esteios e arame.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +236,9 @@ b) As parcelas reestruturadas no âmbito do regime de apoio previsto no Regulame
 
 c) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O regime de apoio é concretizado através das seguintes medidas específicas:
 
@@ -220,7 +250,9 @@ ii) ...
 
 b) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +276,9 @@ iii) ...
 
 4 - Caso um ou mais proponentes de uma candidatura agrupada seja excluído ou apresente um pedido de desistência ou pedido de alteração da área, antes da apresentação do pedido de pagamento, poderá a referida candidatura ser reformulada, desde que os restantes proponentes que não tenham ainda apresentado o pedido de pagamento, reponham a área em falta até ao limite da área aprovada para a candidatura agrupada.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -268,23 +302,31 @@ i) Compensação financeira, no valor de (euro) 500/ha, paga após a apresentaç
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São elegíveis os investimentos executados a partir da data de apresentação da candidatura
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A recepção de candidaturas, para a campanha vitivinícola de 2010-2011 decorre entre 1 de Julho e 15 de Setembro de 2010.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As candidaturas apresentadas para a campanha de 2010-2011 são decididas até 30 de Novembro de 2010 e para as campanhas seguintes, o prazo de decisão será definido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +380,7 @@ ii) ...
 
 3 - Sobreenxertia ou reenxertia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 4 - ...
 
@@ -350,7 +392,9 @@ ii) ...
 
 6 - ...
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -382,7 +426,7 @@ ii) ...
 
 3 - Sobreenxertia ou reenxertia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 4 - ...
 
@@ -402,7 +446,9 @@ A presente portaria entra em vigor no dia seguinte à sua publicação e as alte
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 13 de Julho de 2010.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Objecto
 
@@ -764,7 +810,7 @@ ii) Construção de muros em gabião - (euro) 42,50/m3;
 
 2 - Plantação da vinha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 2.1 - Os valores unitários da ajuda correspondentes à acção 'Plantação da vinha' são reduzidos em 5 % relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência ou por direitos de plantação atribuídos a partir da reserva do território do continente.
 
@@ -772,7 +818,7 @@ ii) Construção de muros em gabião - (euro) 42,50/m3;
 
 3 - Sobreenxertia ou reenxertia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.
 
@@ -812,7 +858,7 @@ ii) Construção de muros em gabião - (euro) 28,33/m3;
 
 2 - Plantação da vinha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 2.1 - Os valores unitários da ajuda correspondentes à acção «Plantação da vinha» são reduzidos em 5 % relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência ou por direitos de plantação atribuídos a partir da reserva do território do continente.
 
@@ -820,7 +866,7 @@ ii) Construção de muros em gabião - (euro) 28,33/m3;
 
 3 - Sobreenxertia ou reenxertia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13401/0000200010.pdf)
 
 4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.
 

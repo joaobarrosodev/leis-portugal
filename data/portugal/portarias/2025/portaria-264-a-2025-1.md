@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264-a/2025/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-a-2025-924306420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae3c741f68b4da54f7b2b7ff91f2b114cda33da85aa806748c03a3c4a337ea64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56736e4c88a1df57beb8369a2aae5f6a68274a51f896e462ccf78f884ff853d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Bailado
 - Colocação de Professores
 - Concurso
-- Regulamentação de Atos Legislativos
+- Ensino Artístico
 - Ensino Oficial
-- Recrutamento de Pessoal
 - Música
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2018/03/07/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:43Z'
   warnings: []
   errors: []
 ---
@@ -114,19 +134,19 @@ Nos termos do disposto no artigo 28.º do Estatuto da Carreira dos Educadores de
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup> [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 2.º — Fixação das vagas para o concurso interno
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso interno no ano escolar de 2025-2026, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo I à presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup> [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 3.º — Fixação das vagas para o concurso externo
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso externo no ano escolar de 2025-2026, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo II à presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup> [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os [693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 4.º — Ingresso na carreira
 
@@ -144,15 +164,15 @@ Todas as vagas referidas no artigo 3.º consideram-se extintas quando vagarem.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 7 de julho de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 9 de julho de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 7 de julho de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 9 de julho de 2025.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Concurso interno - Vagas para o ensino artístico especializado da música e da dança
 
-| Nome do estabelecimento de ensino | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas |
+| Nome do estabelecimento de ensino | Grupo de recrutamento/Número de vagas |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nome do estabelecimento de ensino | M16 - Percussão | M17 - Piano | M19 - Trombone | M24 - Violino | M25 - Violoncelo | Total |
+| M16 - Percussão | M17 - Piano | M19 - Trombone | M24 - Violino | M25 - Violoncelo | Total |  |
 | 145531 - Agrupamento de Escolas de Bemposta, Portimão | 0 | 0 | 1 | 0 | 0 | 1 |
 | 404202 - Escola Artística do Conservatório de Música de Coimbra | 0 | 0 | 0 | 0 | 1 | 1 |
 | 806370 - Conservatório de Música de Loulé - Francisco Rosado | 0 | 1 | 0 | 0 | 0 | 1 |
@@ -163,9 +183,9 @@ Concurso interno - Vagas para o ensino artístico especializado da música e da 
 
 Concurso externo - Vagas para o ensino artístico especializado da música e da dança
 
-| Nome do estabelecimento de ensino | D01 - Dança clássica | M03 - Bandolim | M04 - Clarinete | M09 - Flauta transversal | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M32 - Música de conjunto | Total |
+| Nome do estabelecimento de ensino | Grupo de recrutamento/Número de vagas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nome do estabelecimento de ensino | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas | Grupo de recrutamento/Número de vagas |
+| D01 - Dança clássica | M03 - Bandolim | M04 - Clarinete | M09 - Flauta transversal | M11 - Guitarra | M14 - Oboé | M15 - Órgão | M16 - Percussão | M17 - Piano | M18 - Saxofone | M19 - Trombone | M20 - Trompa | M21 - Trompete | M22 - Tuba | M23 - Violeta | M24 - Violino | M25 - Violoncelo | M26 - Canto | M28 - Formação musical | M29 - Análise e Técnicas de Composição | M32 - Música de conjunto | Total |  |
 | 121502 - Agrupamento de Escolas N.º 2 de Abrantes | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 | 145531 - Agrupamento de Escolas de Bemposta, Portimão | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
 | 170800 - Agrupamento de Escolas de Vialonga, Vila Franca de Xira | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
@@ -178,3 +198,7 @@ Concurso externo - Vagas para o ensino artístico especializado da música e da 
 | 806370 - Conservatório de Música de Loulé - Francisco Rosado | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
 | 807413 - Conservatório de Vila Real - Comendador Manuel Correia Botelho | 0 | 1 | 1 | 3 | 2 | 1 | 1 | 0 | 2 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 3 | 1 | 1 | 25 |
 | Total | 1 | 1 | 4 | 3 | 2 | 1 | 1 | 1 | 7 | 2 | 2 | 2 | 1 | 1 | 1 | 8 | 1 | 2 | 3 | 1 | 2 | 47 |
+
+119283033
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl13 { min-height:77px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { text-align:right; }

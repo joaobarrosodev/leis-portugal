@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14800/0444804451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2017/08/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cac684226eb06aa9f5a9e8919eacb273dc85c73696f402688c97636b7dead02f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfe31b792850ad24e9d99780e507b76034c337251fb4161a18dac38ab7ee0272
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:12Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +141,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 13.º e 
 
 5 - O objeto do inquérito parlamentar não é suscetível de alteração.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A iniciativa dos inquéritos parlamentares compete:
 
@@ -145,7 +163,9 @@ b) A requerimento de, pelo menos um quinto dos deputados em efetividade de funç
 
 4 - (Revogado.)
 
-###### Artigo 3.º — Constituição da Comissão
+Artigo 3.º
+
+Constituição da Comissão
 
 1 - Para cada inquérito parlamentar definido nos termos do artigo 1.º, será constituída uma comissão eventual, nos termos da presente lei e do Regimento.
 
@@ -161,13 +181,17 @@ b) A requerimento de, pelo menos um quinto dos deputados em efetividade de funç
 
 7 - A declaração formal de registo de interesses deverá ser depositada na Comissão de Regimentos e Mandatos da Assembleia Legislativa da Região Autónoma da Madeira.
 
-###### Artigo 4.º — Duração do inquérito
+Artigo 4.º
+
+Duração do inquérito
 
 1 - A duração máxima para a realização de um inquérito é de 180 dias contados da data da primeira reunião da Comissão, findo o qual a comissão se extingue, sem prejuízo do disposto no número seguinte.
 
 2 - A requerimento fundamentado da comissão, o Presidente da Assembleia, ouvida a Conferência dos Representantes dos Partidos, poderá conceder ainda um prazo adicional máximo de 90 dias para a conclusão do inquérito.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -181,11 +205,15 @@ b) A requerimento de, pelo menos um quinto dos deputados em efetividade de funç
 
 6 - A prestação das informações e dos documentos referidos no n.º 3 deve ser satisfeita no prazo de 15 dias, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 As comissões parlamentares de inquérito funcionam na sede da Assembleia Legislativa, podendo, todavia, funcionar ou efetivar diligências, sempre que necessário, em qualquer ponto do território nacional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As reuniões e diligências das comissões parlamentares de inquérito são públicas, salvo se a comissão deliberar em sentido contrário, ou a pedido do depoente.
 
@@ -195,7 +223,9 @@ As comissões parlamentares de inquérito funcionam na sede da Assembleia Legisl
 
 4 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +237,9 @@ As comissões parlamentares de inquérito funcionam na sede da Assembleia Legisl
 
 5 - As comissões podem solicitar, requisitar apoio técnico ou contratar especialistas para coadjuvar nos seus trabalhos mediante autorização do Presidente da Assembleia.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -215,11 +247,15 @@ As comissões parlamentares de inquérito funcionam na sede da Assembleia Legisl
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As despesas de deslocação, que forem solicitadas pelo convocado, são pagas por conta do orçamento da Assembleia, devidamente comprovadas e fixadas pelo presidente da comissão.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +273,9 @@ e) O sentido de voto de cada um membros da comissão, assim como as declaraçõe
 
 3 - O relatório e as declarações de voto são publicadas no Diário da Assembleia Legislativa.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Até 30 dias após a distribuição do relatório aos deputados, o Presidente da Assembleia incluirá a sua apreciação na ordem do dia.
 
@@ -273,7 +311,9 @@ b) Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, ouvida a Conferê
 
 5 - Da não admissão da iniciativa de inquérito apresentado nos termos da presente lei cabe sempre recurso para o Plenário, nos termos do Regimento da Assembleia.
 
-###### Artigo 3.º-A — Informação à Procuradoria-Geral da República
+Artigo 3.º-A
+
+Informação à Procuradoria-Geral da República
 
 1 - O Presidente da Assembleia comunica à Procuradoria-Geral da República o conteúdo da resolução ou do requerimento que determine a realização de um inquérito.
 
@@ -281,7 +321,9 @@ b) Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, ouvida a Conferê
 
 3 - Caso exista processo criminal em curso, cabe à Assembleia deliberar sobre eventual suspensão do processo de inquérito parlamentar até ao trânsito em julgado da correspondente sentença judicial.
 
-###### Artigo 5.º-A — Funcionamento da comissão
+Artigo 5.º-A
+
+Funcionamento da comissão
 
 1 - A primeira reunião da comissão de inquérito deve ser realizada até ao 8.º dia seguinte ao da sua posse.
 
@@ -293,7 +335,9 @@ b) Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, ouvida a Conferê
 
 5 - Quando se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidas constam da ata especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências e ser-lhe-ão anexos os depoimentos e declarações referidos, depois de assinados pelos seus autores.
 
-###### Artigo 6.º-A — Dos deputados
+Artigo 6.º-A
+
+Dos deputados
 
 1 - Os deputados membros da comissão de inquérito só podem ser substituídos em virtude de perda ou suspensão do mandato ou em caso de escusa justificada, sem prejuízo do disposto no n.º 4 do artigo 3.º
 
@@ -313,10 +357,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de junho de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 18 de julho de 2017.**
+Assinado em 18 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/2012/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6709e7a955c4c4dc155952a2e6eba9a0604d09e14e37c28bdfbd0baf40995cbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e73f62beb8d6d1f1dcf91d56266cfb7a1e79fda78242ec02e06adf221aa3dca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Assinatura Digital
+- Base de Dados
 - Certidão
 - Certificação Electrónica
-- Serviços de Registo e Notariado
-- Instituto dos Registos e do Notariado
 - Correio Electrónico
+- Documento Eletrónico
 - Emolumento
 - Emolumento do Notariado
-- Pagamento
-- Base de Dados
-- Documento Eletrónico
-- Notário
+- Instituto dos Registos e do Notariado
 - Internet
+- Notário
+- Pagamento
 - Procuração
-- Assinatura Digital
 - Registo Civil
-- Registo Predial
 - Registo Comercial
+- Registo Predial
+- Serviços de Registo e Notariado
 - Taxa
 relationships:
+- type: amended_by
+  target: pt:dre:70686128:por
+  label: Alterados, a partir de 01.11.2015, os arts. 13.º-E e 13.º-J da Port 1416-A/2006 de 19-dez, com a redação dada pelo
+    presente diploma, pelo(a) Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2015-70686128
+  date: '2015-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/263-a/2007/0
   label: null
@@ -127,16 +133,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/696/2009/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/696/2009/06/30/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:22Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +239,9 @@ Os artigos 13.º-E, 13.º-I e 13.º-J da [Portaria n.º 1416-A/2006](https://dia
 
 2 - (Revogado.)
 
-###### Artigo 13.º-I — [...]
+Artigo 13.º-I
+
+[...]
 
 1 - Pela assinatura, através dos sítios na Internet referidos no n.º 1 do artigo 13.º-G do serviço de certidão eletrónica de contas anuais, é devido o pagamento das seguintes taxas únicas:
 
@@ -191,7 +259,9 @@ d) (euro) 10 pela assinatura por quatro anos.
 
 4 - ...
 
-###### Artigo 13.º-J — [...]
+Artigo 13.º-J
+
+[...]
 
 1 - O acesso à informação constante da BDCA noutros formatos distintos dos previstos no artigo 13.º-G é efetuado nos termos e condições a definir em protocolo a celebrar entre o Instituto dos Registos e do Notariado, I. P., e as entidades que o solicitem, com os custos definidos nos números seguintes.
 
@@ -301,13 +371,17 @@ Prazo de validade e encargos
 
 2 - Pelo depósito eletrónico de documentos é devido o emolumento previsto no Regulamento Emolumentar dos Registos e do Notariado.
 
-###### Artigo 12.º-B — Pagamento
+Artigo 12.º-B
+
+Pagamento
 
 1 - Após o depósito eletrónico do documento, é gerada automaticamente uma referência para pagamento do encargo previsto no artigo anterior caso este não seja efetuado de imediato através de cartão de crédito.
 
 2 - O pagamento deve ser efetuado no prazo de cinco dias após a geração da referência para pagamento, sob pena de o depósito não se ter por efetuado.
 
-###### Artigo 12.º-C — Renovação do código de acesso
+Artigo 12.º-C
+
+Renovação do código de acesso
 
 1 - Qualquer pessoa pode solicitar a renovação do código de acesso a documento particular autenticado depositado eletronicamente, mediante indicação do código de identificação atribuído ao documento.
 
@@ -349,7 +423,9 @@ Os artigos 3.º e 4.º da Portaria n.º 696/2009, de 30 de junho, passam a ter a
 
 2 - O pedido de acesso à certidão permanente é efetuado no sítio da Internet com o endereço www.procuracoesonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
 
-###### Artigo 4.º — Código de acesso
+Artigo 4.º
+
+Código de acesso
 
 Após o pedido de certidão permanente, é disponibilizado ao requerente um código que permite a sua visualização no sítio da Internet referido no artigo anterior, a partir do momento em que seja confirmado o pagamento dos montantes devidos.»
 
@@ -365,7 +441,9 @@ Prazo de validade
 
 2 - A renovação da certidão permanente deve ocorrer até ao limite do prazo de duração.
 
-###### Artigo 4.º-B — Encargos
+Artigo 4.º-B
+
+Encargos
 
 1 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente é devido o pagamento das seguintes taxas:
 
@@ -411,4 +489,4 @@ O disposto no n.º 1 do artigo 13.º-E da [Portaria n.º 1416-A/2006](https://di
 
 2 - O artigo 2.º, na parte que altera o n.º 1 do artigo 13.º-E da [Portaria n.º 1416-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), de 19 de dezembro, entra em vigor no dia 1 de janeiro de 2013.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de setembro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de setembro de 2012.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2011/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2011-146563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db8543528682d61f94ce2f62555622e9e4f5803eb9bfcab0f1b0c8f2460a7277
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c25fe1f76fc57e5875c9182e666adfffdc0efada9d3c33123e9432921aa640b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Oliveira de Azeméis
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:115966920:por
+  label: Tornada pública a Correção material da Reserva Ecológica Nacional (REN) do município de Oliveira de Azeméis e republicado
+    o quadro anexo pelo(a) Aviso n.º 10829/2018 - Diário da República n.º 153/2018, Série II de 2018-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10829-2018-115966920
+  date: '2018-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -83,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/159/1996/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/159/1996/09/18/p/dre
+- type: cites
+  target: pt:dre:219485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456479:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:40Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +149,9 @@ A referida planta, o quadro anexo e a memória descritiva do presente processo p
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano Director Municipal de Oliveira de Azeméis ou de outros planos municipais de ordenamento do território, na área por eles abrangida.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 3 de Outubro de 2011.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 3 de Outubro de 2011.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf)
 
 QUADRO ANEXO
 
@@ -137,4 +159,4 @@ Delimitação da Reserva Ecológica Nacional do concelho de Oliveira de Azeméis
 
 Proposta de exclusão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf))](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/21100/0475004752.pdf)

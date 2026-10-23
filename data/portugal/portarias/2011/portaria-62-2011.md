@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/02300/0065800659.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2011/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2011-280498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a5b0f95c6780d70d0c795bf4693514b130f13067ff7b06834336dd7ddb1472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05280f8b301b1d6bf9f5bb4f96fd6a1163e051053d34e44832b6cff45da2d48e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Lisboa
+- Ordenamento do Território
 - Ordenamento Florestal
-- PROF do Algarve
-- PROF do Baixo Alentejo
-- PROF do Pinhal Interior Norte
-- PROF Oeste
+- Plano Regional de Ordenamento Florestal
 - Política de Solos
-- PROF do Alentejo Central
-- PROF do ALTO Minho
-- PROF da Beira Interior SUL
-- PROF do Centro Litoral
 - PROF da ÁREA Metropolitana do Porto e entre Douro e Vouga
 - PROF da Beira Interior Norte
+- PROF da Beira Interior SUL
+- PROF do Alentejo Central
 - PROF do Alentejo Litoral
+- PROF do Algarve
 - PROF do ALTO Alentejo
+- PROF do ALTO Minho
+- PROF do Baixo Alentejo
 - PROF do Barroso e Padrela
+- PROF do Centro Litoral
 - PROF do DÃO e Lafões
 - PROF do Nordeste
-- Plano Regional de Ordenamento Florestal
+- PROF do Pinhal Interior Norte
 - PROF do Pinhal Interior SUL
 - PROF do Tâmega
+- PROF Oeste
 - Regulamento
 - Ribatejo
 relationships:
@@ -135,16 +135,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
+- type: cites
+  target: pt:dre:286680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545831:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:277583:por
+  label: "Rectificada a al. f) do art. 2º [ no que se refere ao nº do diploma - suspendendo, pelo prazo de dois anos, a aplicação\
+    \ do art. 37º e art. 39.º a 43º do regulamento anexo ao DR 2/2007, de 17-Jan, que aprova o PROF do Nordeste, e não do\
+    \ regulamento anexo ao DR 16/2007, de 28-Mar], pela DECL-RECT.10/2011.01.04.2011.PCM, DR.IS [65] de 01.04.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-2011-277583
+  date: '2011-04-01'
+- type: repealed_by
+  target: pt:dre:258539:por
+  label: "Revogada, com produção de efeitos a 07.02.2013, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:04Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/2009/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-2009-488494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30534e1e556c1d1dd9c38aedf9ca502f3ee6ee009d07fa82168e7dd25e626c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db6ebf2065a7b15378b352797a0885fb2c5f932bb096f76026a3df9f595292a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Modernização Administrativa
-- Política Fiscal
+- Contribuições e Impostos
 - Contribuinte
 - Direcção Geral dos Impostos
-- Formulário Eletrónico
-- Garantia do Contribuinte
-- Contribuições e Impostos
-- Informação
 - Direitos do Indivíduo
 - Documento Eletrónico
+- Formulário Eletrónico
+- Garantia do Contribuinte
+- Informação
 - Informação do Consumidor
+- Modernização Administrativa
+- Política Fiscal
 - Procedimento Tributário
 - Regime Jurídico
 relationships:
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:22Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +152,4 @@ Para efeitos de contagem dos prazos previstos no artigo 68.º da lei geral tribu
 
 A presente portaria entra em vigor no dia 1 de Setembro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 27 de Agosto de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 27 de Agosto de 2009.

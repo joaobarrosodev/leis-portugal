@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24900/0004400079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/454/2023/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-2023-835809053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5e2ad949af497836f2972f84a625b26f37e7ddd850d956bfd988cc512b8cd34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76bc37c28811b507fd0735e395b00895880c47227d44aebe05632644ce27a0a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desporto
 - Equipamento Desportivo
-- Regulamentação de Atos Legislativos
 - Fiscalização
 - Instalação de Serviços
 - Normas de Construção
+- Regulamentação de Atos Legislativos
 - Segurança das Instalações
-- Desporto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -113,16 +113,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184956014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67540636:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:23Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +185,7 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado da Juventude e do Desporto, ao abrigo das competências delegadas pelo [Despacho n.º 7663/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7663-2022-184956014), de 8 de junho, da Ministra Adjunta e dos Assuntos Parlamentares, publicado no Diário da República, 2.ª série, n.º 118, de 21 de junho de 2022, e, nos termos do disposto no n.º 3 do artigo 10.º e no n.º 1 do artigo 14.º do [Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de junho, alterado pelo [Decreto-Lei n.º 110/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010), de 21 de maio, e pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, o seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -449,7 +493,7 @@ e) A ausência de encandeamento ou de condições de perturbação luminosa, no 
 
 f) A segurança dos praticantes desportivos e espectadores à luz da regulamentação aplicável, designadamente sobre a segurança das instalações elétricas.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições específicas por tipologia
 
@@ -1089,7 +1133,7 @@ a) Nível médio de iluminação de 10 lux, no mínimo, medidos nos pavimentos d
 
 b) Condições de uniformidade e distribuição das fontes de modo a permitirem, em caso de emergência, a identificação dos percursos e de eventuais obstáculos e a facilitarem a evacuação dos espectadores em direção às saídas e ao espaço periférico exterior.
 
-## TÍTULO III
+TÍTULO III
 
 Requisitos de funcionamento
 
@@ -1207,7 +1251,7 @@ f) Sumário das interações mais relevantes com os elementos das forças de seg
 
 4 - A redução da capacidade máxima de utilização pode ainda ser efetuada pelas entidades competentes nos termos do regime jurídico das instalações desportivas de uso público.
 
-## TÍTULO IV
+TÍTULO IV
 
 Integração de normas e interpretação de requisitos
 
@@ -1221,7 +1265,7 @@ Integração de normas e interpretação de requisitos
 
 4 - Por despacho do presidente do IPDJ, I. P., pode o anexo ii ser atualizado de forma a integrar a revisão de normas existentes ou a inclusão de novas normas relevantes para as instalações desportivas.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais e transitórias
 
@@ -1239,7 +1283,7 @@ Disposições finais e transitórias
 
 A presente portaria entra em vigor 90 dias após a sua publicação.
 
-**O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia, em 30 de novembro de 2023.**
+O Secretário de Estado da Juventude e do Desporto, João Paulo Moreira Correia, em 30 de novembro de 2023.
 
 ## ANEXO I — Ventilação e conforto térmico
 
@@ -1255,10 +1299,10 @@ QUADRO I
 
 Conforto termo-higrométrico em pavilhões e salas de desporto
 
-|  |  |  |  |  |
+| Área funcional | Temperatura do ar<br>-<br>ºC | Humidade<br>relativa<br>-<br>% | Renovação do ar por ocupante<br>-<br>l/s | Velocidade<br>de insuflação do ar<br>-<br>m/s |
 | --- | --- | --- | --- | --- |
-| Área funcional | Temperatura do ar - ºC | Humidade relativa - % | Renovação do ar por ocupante - l/s | Velocidade de insuflação do ar - m/s |
-| Área de atividades/zonas de prática ... | Inverno: de 16 a 22 ... Verão: de 18 a 26 ... | 65 (mais ou menos) 10 | 10 | (igual ou menor que) 2 |
+|  |  |  |  |  |
+| Área de atividades/zonas de prática ... | Inverno: de 16 a 22 ...<br>Verão: de 18 a 26 ... | 65 (mais ou menos) 10 | 10 | (igual ou menor que) 2 |
 | Vestiários-balneários ... | De 18 a 26 ... | 70 (mais ou menos) 10 | 10 | (menor que) 2 |
 | Salas de primeiros-socorros e apoio médico... | De 18 a 24 ... | 55 (mais ou menos) 10 | 10 | (menor que) 2 |
 | Áreas de administração e serviços ... | De 18 a 24 ... | 60 (mais ou menos) 10 | 8 | (menor que) 2 |
@@ -1268,11 +1312,11 @@ QUADRO II
 
 Conforto termo higrométrico - Piscinas cobertas
 
-|  |  |  |  |  |
+| Área funcional | Temperatura do ar<br>-<br>ºC | Humidade<br>relativa<br>-<br>% | Renovação do ar por ocupante<br>-<br>l/s | Velocidade<br>de insuflação do ar<br>-<br>m/s |
 | --- | --- | --- | --- | --- |
-| Área funcional | Temperatura do ar - ºC | Humidade relativa - % | Renovação do ar por ocupante - l/s | Velocidade de insuflação do ar - m/s |
+|  |  |  |  |  |
 | Área de atividades aquáticas/zona de banho... | (igual ou maior que) + 2ºC temperatura da água. | 70 (mais ou menos) 10 | 10 | (igual ou menor que) 0,2 |
-| Vestiários-balneários... | Inverno - mín.: 22 ... Verão - máx.: 26 ... | 70 (mais ou menos) 10 | 8 a 10 | (menor que) 2 |
+| Vestiários-balneários... | Inverno - mín.: 22 ...<br>Verão - máx.: 26 ... | 70 (mais ou menos) 10 | 8 a 10 | (menor que) 2 |
 | Salas de primeiros-socorros e apoio médico... | De 18 a 24 ... | 55 (mais ou menos) 10 | 10 | (menor que) 2 |
 | Administração e serviços ... | De 18 a 24 ... | 60 (mais ou menos) 10 | 8 | (menor que) 2 |
 | Área das instalações técnicas... | De 16 a 28 ... | 65 (mais ou menos) 10 | 8 | (igual ou maior que) 2 |
@@ -1281,9 +1325,9 @@ QUADRO III
 
 Temperatura da água - Piscinas
 
-|  |  |
-| --- | --- |
 | Tipologia de piscinas/tanques de atividades | Temperatura da água |
+| --- | --- |
+|  |  |
 | Piscinas desportivas em geral (natação pura, polo aquático, natação sincronizada) ... | De 24ºC a 26ºC. |
 | Piscinas desportivas para saltos e atividades subaquáticas ... | De 26ºC a 28ºC. |
 | Piscinas de aprendizagem e recreio, de diversão ou polivalentes ... | De 26ºC a 28ºC. |
@@ -1294,11 +1338,11 @@ Temperatura da água - Piscinas
 
 Normas portuguesas (NP EN) e europeias (EN)
 
-#### Secção 1 - Pavimentos desportivos
+Secção 1 - Pavimentos desportivos
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | EN 1516 | Surfaces for sport areas - determination of resistance to indentation. |
 | EN 1517 | Surfaces for sport areas - determination of resistance to impact. |
 | EN 1569 | Surfaces for sport areas - determination of the behaviour under a rolling load. |
@@ -1338,11 +1382,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 15330-1 | Surfaces for sports areas - synthetic turf and needle-punched surfaces primarily designed for outdoor use - part 1: Specification for synthetic turf. |
 | EN 15330-2 | Surfaces for sports areas - synthetic turf and needle-punched surfaces primarily designed for outdoor use - part 2: Specification for needle-punched surfaces. |
 
-#### Secção 2 - Piscinas - equipamentos e acessórios
+Secção 2 - Piscinas - equipamentos e acessórios
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | NP 4542 | Piscinas - requisitos de qualidade e tratamento da água para uso nos tanques. |
 | NP EN 15288-1 | Piscinas - parte 1: requisitos de segurança para a conceção. |
 | NP EN 15288-2 | Piscinas - parte 2: requisitos de segurança para o funcionamento. |
@@ -1359,11 +1403,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 13451-10 | Swimming pool equipment - part 10: additional specific safety requirements and test methods for diving platforms, diving springboards and associated equipment. |
 | EN 13451-11 | Swimming pool equipment - part 11: additional specific safety requirements and test methods for moveable pool floors and moveable bulkheads. |
 
-#### Secção 3 - Produtos químicos para tratamento de água de piscinas
+Secção 3 - Produtos químicos para tratamento de água de piscinas
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | EN 15031 | Chemical used for treatment of swimming pool water - aluminium based coagulants. |
 | EN 15032 | Chemical used for treatment of swimming pool water - trichloroisocyanuric acid. |
 | EN 15072 | Chemical used for treatment of swimming pool water - sodium dichloroisocyanurate anhydrous. |
@@ -1382,11 +1426,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 15798 | Products used for treatment of swimming pool water - filter media. |
 | EN 15799 | Products used for treatment of swimming pool water - powdered activated carbon. |
 
-#### Secção 4 - Instalações de iluminação
+Secção 4 - Instalações de iluminação
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | EN 60598-2 | Luminaries for swimming pools and similar applications. |
 | EN 1838 | Lighting applications - emergency lighting. |
 | EN 12193 | Light and lighting - sports lighting. |
@@ -1394,11 +1438,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 12464-2 | Light and lighting - lighting of workplaces - part 2: outdoor workplaces. |
 | EN 12665 | Lighting applications - basic terms and criteria for specifying lighting requirements. |
 
-#### Secção 5 - Instalações para espectadores
+Secção 5 - Instalações para espectadores
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | EN 13200-1 | Spectator facilities - part 1: general characteristics for spectator viewing area. |
 | CEN/TR 13200-2 | Spectator facilities - layout criteria of service area - part 2: characteristics and national situations. |
 | EN 13200-3 | Spectator facilities - part 3: separating elements - requirements. |
@@ -1409,11 +1453,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 13200-8 | Spectator facilities - part 8: safety management. |
 | CEN/TR 15913 | Spectator facilities - layout criteria for viewing area for spectators with special needs. |
 
-#### Secção 6 - Equipamentos desportivos
+Secção 6 - Equipamentos desportivos
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | NP EN 748 | Equipamento para campos de jogos - equipamento de futebol. requisitos funcionais e de segurança, métodos de ensaio. |
 | NP EN 749 | Equipamento para campos de jogos - equipamento de andebol. requisitos funcionais e de segurança, métodos de ensaio. |
 | NP EN 750 | Equipamento para campos de jogos - equipamento de hóquei em campo. requisitos funcionais e de segurança, métodos de ensaio. |
@@ -1426,11 +1470,11 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 14974 | Facilities for users of roller sport equipment - safety requirements and test methods. |
 | EN 15312 | Free access multisport equipment - requirements including safety and test methods. |
 
-#### Secção 7 - Equipamentos para treino e fitness (equipamento estacionado)
+Secção 7 - Equipamentos para treino e fitness (equipamento estacionado)
 
-|  |  |
-| --- | --- |
 | Norma | Título/descrição |
+| --- | --- |
+|  |  |
 | EN 957-1 | Stationary training equipment - part 1: general safety requirements and test methods. |
 | EN 957-2 | Stationary training equipment - part 2: strength training equipment - additional specific safety requirements. |
 | EN 957-4 | Stationary training equipment - part 4: strength training benches - additional specific safety requirements. |
@@ -1440,3 +1484,5 @@ Normas portuguesas (NP EN) e europeias (EN)
 | EN 957-8 | Stationary training equipment - part 8: steppers, stair climbers and climbers - additional specific safety requirements and test methods. |
 | EN 957-9 | Stationary training equipment - part 9: elliptical trainers - additional specific safety requirements. |
 | EN 957-10 | Stationary training equipment - part 10: exercise bicycles with fixed wheel or without freewheel - additional specific safety requirements and test methods. |
+
+117194538

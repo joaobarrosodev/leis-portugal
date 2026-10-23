@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/2014/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-2014-570726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d867fb0cc1b2a4aa6d9851e4a1186d890a6b160fda0de5e19c43ca4a7d6ab97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a31c278ca5b8b7b001b45803a928b0095b5b7005caf93857334e14bb9dda465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acesso à Educação
 - Academia da Força Aérea
+- Acesso à Educação
 - Aluno Militar
-- Ensino Superior Militar
-- Força Aérea
+- Conselho do Ensino Superior Militar
 - Definição de Competências
 - Ensino Oficial
-- Conselho do Ensino Superior Militar
+- Ensino Superior
+- Ensino Superior Militar
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Estatuto
 - Estudante
-- Países de Língua Portuguesa
+- Força Aérea
+- Forças Armadas
 - Licenciatura
 - Mestrado
-- Forças Armadas
+- Militar
 - Orgânica
-- Estabelecimento de Ensino
+- Países de Língua Portuguesa
 - Pessoal Docente
 - Regulamento
-- Ensino Superior
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:1080481236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1080481236:por
+  label: Mantida em vigor, até à aprovação dos regulamentos internos previstos no presente decreto regulamentar, os regulamentos
+    aprovados ao abrigo da presente Portaria, pelo(a) Decreto Regulamentar n.º 6/2026 - Diário da República n.º 64/2026, Série
+    I de 2026-04-01, nos termos do seu n.º 3 do artigo 92.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2026-1080481236
+  date: '2026-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2008/06/25/p/dre
   label: null
@@ -123,16 +130,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/11/1991/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/11/1991/01/04/p/dre
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 288
   section_count: 99
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:34Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +204,7 @@ Nos termos do disposto no artigo 34.º do [Decreto-Lei n.º 37/2008](https://dia
 
 É revogada a portaria n.º 11/91, de 4 de janeiro.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -4691,46 +4730,46 @@ QUADRO I
 
 ESTRUTURA ORGÂNICA DA AFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO II
 
 ORGANOGRAMA DA DEU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO III
 
 ORGANOGRAMA DO DEP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO IV
 
 ORGANOGRAMA DO CAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO V
 
 ORGANOGRAMA DO CIAFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO VI
 
 ORGANOGRAMA DO CEA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO VII
 
 ORGANOGRAMA DO DAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
 
 QUADRO VIII
 
 ORGANOGRAMA DO GAP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0083900896.pdf)

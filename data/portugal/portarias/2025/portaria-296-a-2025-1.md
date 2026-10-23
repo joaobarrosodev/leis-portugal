@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296-a/2025/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82dbf3c33e8e098ba42ac503c0b7491cb5f2bc42df0269ded27225460e8cae3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94d9d5b332f7e0e3ce32745748db312143b07de0b91737320bae1b0dc941c79c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão do Sistema Educativo
 - Estatuto
 - Fundação para a Computação Científica Nacional
 - Orgânica
 - Transferência de Competências
 - Transferência de Pessoal
-- Agência para a Gestão do Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:1155718918:por
@@ -100,16 +100,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/310/2022/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/310/2022/12/28/p/dre
+- type: cites
+  target: pt:dre:205378568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70054438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933527232:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:29/2013
+  label: Revoga, a partir de 6 de setembro de 2025, a Portaria n.º 29/2013, de 29 de janeiro, Diário da República n.º 20/2013,
+    Série I
+  source: null
+  date: '2013-01-29'
+- type: repeals
+  target: pt:numero:portaria:30/2013
+  label: Revoga, a partir de 6 de setembro de 2025, a Portaria n.º 30/2013, de 29 de janeiro, Diário da República n.º 20/2013,
+    Série I
+  source: null
+  date: '2013-01-29'
+- type: repeals
+  target: pt:numero:portaria:255/2015
+  label: Revoga, a partir de 6 de setembro de 2025, a Portaria n.º 255/2015, de 20 de agosto, Diário da República n.º 162/2015,
+    Série I
+  source: null
+  date: '2015-08-20'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:55Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +186,7 @@ c) A [Portaria n.º 29/2013](https://diariodarepublica.pt/dr/detalhe/portaria/29
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de setembro de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de setembro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de setembro de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de setembro de 2025.
 
 ## ANEXO — Estatutos da Agência para a Gestão do Sistema Educativo, I. P.
 
@@ -533,3 +575,5 @@ n) Assegurar serviços eletrónicos de gestão e de apoio técnico, orientados p
 o) Promover o recurso a instrumentos de inteligência artificial, com vista a reforçar a eficiência e qualidade dos serviços prestados, fomentando a inovação tecnológica e garantindo a sua utilização ética, segura e responsável;
 
 p) Conceber, desenvolver e implementar um plano de infraestruturas tecnológicas e de telecomunicações, de acordo com o definido no PESI.
+
+119506083

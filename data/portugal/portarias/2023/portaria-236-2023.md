@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/236/2023/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2023-216253494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20a55b70d88c0c14f75d023f2f677fa2f5f3ef46c876f1ab8269420661e0bb59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d350ec2fc98694eba72136415de2dd08b3c73ae8b91a288e18e2ad91fcd95344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Bebida Alcoólica
-- Indústria Farmacêutica
-- Vinho
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Direcção Regional de Agricultura e Pescas
 - Álcool
+- Bebida Alcoólica
+- Definição de Competências
+- Direcção Regional de Agricultura e Pescas
+- Financiamento
 - Gestão Orçamental
-- Pagamento
-- Indústria
-- Instituto da Vinha e do Vinho
 - IFAP
-- Política Agrícola Comum
-- Vinha
-- Sistema de Informação da Vinha e do Vinho
+- Indústria
+- Indústria Farmacêutica
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Política Agrícola Comum
+- Regulamentação de Atos Legislativos
+- Sistema de Informação da Vinha e do Vinho
+- Vinha
+- Vinho
 relationships:
+- type: amended_by
+  target: pt:dre:1161801441:por
+  label: Alterado, a partir de 26 de agosto de 2026, o artigo 13.º e revogada a alínea b) do artigo 5.º pelo(a) Portaria n.º
+    384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-2026-1161801441
+  date: '2026-08-24'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -118,16 +124,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/377/1991/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/377/1991/05/02/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693427:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:03Z'
   warnings: []
   errors: []
 ---
@@ -320,4 +342,6 @@ O IFAP, I. P., remete ao GPP a informação necessária ao cumprimento das comun
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de agosto de 2023.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 25 de julho de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 25 de julho de 2023.
+
+116715585

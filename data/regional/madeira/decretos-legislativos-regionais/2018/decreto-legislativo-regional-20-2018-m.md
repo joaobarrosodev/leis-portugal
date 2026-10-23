@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21100/0514305148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2018/11/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2018-116852292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ba4ff13f135adc2182c4576425bb7cadc430e62385d63f9c85361b50674e887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9979c2fbd97dfa29e8c67d881127e4b2193493a17e9866f4d4344331fc2865e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Governo
 - Comissão Permanente de Concertação Social
-- Governo Regional
-- Definição de Competências
-- Orgânica
 - Conselho Coordenador
+- Conselho de Governo
+- Conselho Económico e da Concertação Social
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 - Plenario
 - Presidente
-- Madeira.região Autónoma
 - Vice-presidente
-- Conselho Económico e da Concertação Social
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterados, com efeitos desde 01.01.2020, os arts. 13.º, 14.º e 16.º, aditados os arts. 12.º-A, 14.º-A e 14.º-B e
+    revogado o art. 15.º do DLR 2/2016/M de 15-jan, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:h
   label: null
@@ -126,16 +133,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56348175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73168880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:18Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +289,9 @@ m) [Anterior alínea l).]
 
 4 - O Conselho será responsável pela elaboração de um relatório anual sobre o desenvolvimento da economia social regional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -262,13 +347,17 @@ x) Um representante do Conselho Permanente das Comunidades Madeirenses.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - Após indicação dos diferentes elementos, que deverá ocorrer até 90 dias após a eleição do presidente, este promoverá uma reunião plenária, em cuja ordem de trabalhos constará a eleição dos vice-presidentes previstos na alínea b) do n.º 1 do artigo anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -296,19 +385,23 @@ g) ...
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Conselho é dotado de autonomia administrativa e financeira.
 
 2 - Os meios financeiros necessários ao seu funcionamento são inscritos no Orçamento da Região, por proposta do Conselho.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Os serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.»
 
 ###### Artigo 3.º — Indicação de novos membros
 
-**O presidente dá início ao processo de designação dos membros das categorias referidas nas alíneas c), e), f), i), r), s), t), u), v), w) e x) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2016-73168880), de 15 de janeiro, na redação que lhes é dada pelo presente diploma, no prazo de 30 dias contados da entrada em vigor do mesmo.**
+O presidente dá início ao processo de designação dos membros das categorias referidas nas alíneas c), e), f), i), r), s), t), u), v), w) e x) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2016-73168880), de 15 de janeiro, na redação que lhes é dada pelo presente diploma, no prazo de 30 dias contados da entrada em vigor do mesmo.
 
 ###### Artigo 4.º — Republicação
 
@@ -322,11 +415,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado, em segunda deliberação, na sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira de 18 de outubro de 2018.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 19 de outubro de 2018.**
+Assinado em 19 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -601,3 +694,5 @@ Com a aprovação do presente diploma, são revogados os Decretos Legislativos R
 ###### Artigo 18.º — Entrada em vigor
 
 O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+111761754

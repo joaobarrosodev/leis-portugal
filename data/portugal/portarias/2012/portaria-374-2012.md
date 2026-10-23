@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/2012/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2012-191099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 042805ba01d5837abf4157684f984b9bc6fc1f695d085a6b5ee2cdf65a7a3a8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf10cf943fa22d3972f8a59e5652a58b85a28d4a38e865a26c26cf8808d5d94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
+- Câmara Municipal
 - Combate ao Crime
-- Serviços de Segurança
+- Confidencialidade
+- Direito à Imagem
+- Direitos do Indivíduo
 - Equipamento Eletrónico
+- Licenciamento
+- Prevenção de Incêndios
 - Proteção da Floresta
 - Segurança Pública
-- Direitos do Indivíduo
-- Licenciamento
-- Direito à Imagem
-- Confidencialidade
-- Câmara Municipal
+- Serviços de Segurança
 - Sistema de Videovigilância
 relationships:
 - type: cites
@@ -100,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2012/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2012/02/23/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542867:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:50Z'
   warnings: []
   errors: []
 ---
@@ -174,8 +194,8 @@ c) Não anulem o seu valor económico.
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 26 de outubro de 2012.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 26 de outubro de 2012.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22200/0664306644.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22200/0664306644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22200/0664306644.pdf)

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 50/2000, 1º Suplemento, Série II de 2000-02-29
   number: '50'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2 - 2
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/050000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-a-2000-776217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:11:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f541509eaddaaeb20c41c76720e88061c35493581cad317aa916399a94ab33d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67e8cce6cf833739b604285ffab04c774701a950713a07ffbe1cb28acf3948f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:11:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CMVM
+- Mercado de Valores
+- Sociedade Gestora de Mercados não Regulamentados
+- Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas Centralizados
+- Sociedade Gestora de Sistemas de Liquidação
+- TAXA de Realização de Operações
 relationships:
 - type: amended_by
   target: pt:dre:567024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2320459:por
+  label: "ALTERADOS OS ARTS. 3º E 4º, E ADITADO O ART. 5º-A, PELA PORT.1338/2000(2ªSÉRIE).2000.08.21.MF, DR.IIS [205] DE 5/SET/2000\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1338-2000-2320459
+  date: '2000-09-05'
+- type: cites
+  target: pt:dre:682985:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567024:por
+  label: "Revogada pela PORT.1303/2001.2001.11.22.MF DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1303-2001-567024
+  date: '2001-11-22'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:11:41Z'
   warnings: []
   errors: []
 ---

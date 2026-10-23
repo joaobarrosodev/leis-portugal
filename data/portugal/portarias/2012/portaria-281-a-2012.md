@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 179/2012, 1º Suplemento, Série I de 2012-09-14
   number: '179'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5232-(2) a 5232-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-a/2012/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2012-220953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 908962012a09490eede1a7ae583b505bac108585afa41afb2ddd3b3049c8a9ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e57a4a982aaac9598b2bb2a62472d77c66a244ee8c14d15c4ff6ffbdcf5c1d32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Inspeção Geral de Finanças
+- Autarquia Local
 - Comissão de Análise
+- Contabilidade Pública
 - Contrato
 - Definição de Competências
 - Direção Geral das Autarquias Locais
 - Direção Geral do Tesouro e Finanças
-- Pagamento
+- Financiamento
+- Inspeção Geral de Finanças
 - Internet
-- Contabilidade Pública
-- Autarquia Local
+- Pagamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:174573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:21Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +217,7 @@ b) Rejeição do Plano no caso de inobservância da proposta de decisão final.
 
 ###### Artigo 8.º — Interlocutor do município
 
-**O presidente da câmara municipal nomeia o interlocutor do município responsável pela prestação dos esclarecimentos que se mostrem necessários efetuar no âmbito do processo de adesão e de execução do contrato de empréstimo.**
+O presidente da câmara municipal nomeia o interlocutor do município responsável pela prestação dos esclarecimentos que se mostrem necessários efetuar no âmbito do processo de adesão e de execução do contrato de empréstimo.
 
 ###### Artigo 9.º — Reanálise do Plano
 
@@ -253,7 +265,7 @@ Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais S
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 2 do artigo 1.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 ## ANEXO II — Programa de Apoio à Economia Local (PAEL)
 
@@ -263,19 +275,19 @@ QUADRO I
 
 Síntese da situação financeira atual e previsões de evolução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO II
 
 Medidas propostas no Plano de Ajustamento Financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO III
 
 Evolução previsional da receita e da despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO IV
 
@@ -283,7 +295,7 @@ Mapa previsional da evolução dívida por curto e médio e longo prazo e do ser
 
 (dívida em 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO V
 
@@ -291,7 +303,7 @@ Calendarização da redução anual do endividamento líquido da LFL
 
 (apenas para municípios que ultrapassaram o limite legal de endividamento líquido)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO VI
 
@@ -299,7 +311,7 @@ Lista de pagamentos em atraso (PA) a financiar com o empréstimo a contratar
 
 (lista ordenada por maturidade da dívida e devidamente certificada por ROC ou SROC)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO VII
 
@@ -307,7 +319,7 @@ Contas a pagar não abrangidas pelo PAEL
 
 (lista ordenada por maturidade da dívida e devidamente certificada por ROC ou SROC)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO VIII
 
@@ -315,7 +327,7 @@ Lista de compromissos assumidos ainda sem fatura ou documento equivalente
 
 (a lista deve ser devidamente certificada por ROC ou SROC)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO IX
 
@@ -323,13 +335,13 @@ Lista identificativa de outras situações de que possam resultar futuras dívid
 
 [inclui as situações de qualquer natureza (exceto se respeitantes a parcerias público-privadas para as quais existe um mapa autónomo), designadamente as resultantes de processos judiciais, independentemente de estarem reunidas as condições para a constituição de provisões para riscos e encargos]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO X
 
 Lista de bens de património a alienar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO XI
 
@@ -337,7 +349,7 @@ Lista de parcerias público-privadas
 
 (incluindo das empresas municipais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO XII
 
@@ -345,7 +357,7 @@ Lista de investimentos em curso e previstos
 
 (incluir todos os investimentos em curso cofinanciados ou não, bem como os previstos para o período entre 2012 e o fim da vigência do empréstimo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 ## ANEXO III — Programa de Apoio à Economia Local (PAEL)
 
@@ -355,19 +367,19 @@ QUADRO I
 
 Síntese da situação financeira atual e previsões de evolução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO II
 
 Medidas propostas no Plano de Ajustamento Financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO III
 
 Evolução previsional da receita e da despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO IV
 
@@ -375,7 +387,7 @@ Mapa previsional da evolução dívida por curto e médio e longo prazo e do ser
 
 (dívida em 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO V
 
@@ -383,7 +395,7 @@ Calendarização da redução anual do endividamento líquido da LFL
 
 (apenas para municípios que ultrapassaram o limite legal de endividamento líquido)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO VI
 
@@ -391,10 +403,10 @@ Lista de pagamentos em atraso (PA) a financiar com o empréstimo a contratar
 
 (lista ordenada por maturidade da dívida e devidamente certificada por ROC ou SROC)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
 
 QUADRO VII
 
 Lista de parcerias público-privadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17901/0000200016.pdf)

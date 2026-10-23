@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-2013-261144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94b6d95cf4cf3e4d1c0b64e2fc3931ecee4c0e8b1ffeb60b9e248ca205edd38a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7740405837d8e47916e114a130ffb8bb2f2681b2c4724d8334edcb3bb35e2780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Águas Balneares
 - Classificação de Praias
-- Segurança Pública
 - Madeira.região Autónoma
-- Açores
+- Segurança Pública
 - ZONA Balnear
 relationships:
 - type: cites
   target: celex:32006L0007
   label: null
   source: http://data.europa.eu/eli/dir/2006/7/oj
+- type: corrected_by
+  target: pt:dre:498080:por
+  label: "Retificado o anexo pela DECL-RECT.29/2013.12.07.2013.PCM, DR.IS [133] de 12.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/29-2013-498080
+  date: '2013-07-12'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:58Z'
   warnings: []
   errors: []
 ---
@@ -145,28 +148,28 @@ A identificação das águas balneares costeiras e a qualificação das praias m
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 3 de maio de 2013. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 29 de abril de 2013.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 3 de maio de 2013. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 29 de abril de 2013.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 Identificação de águas balneares costeiras e de transição, qualificação das praias de banhos marítimas e identificação das praias de uso limitado para o ano de 2013, no território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
 Identificação de águas balneares interiores e qualificação de praias de banhos de águas fluviais e lacustres para o ano de 2013, no território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
 
 ## ANEXO III — (a que se refere o artigo 4.º)
 
 Identificação de águas balneares costeiras e qualificação das praias de banhos marítimas, para o ano de 2013, nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 5.º)
 
 Identificação de águas balneares costeiras e qualificação das praias de banhos marítimas, para o ano de 2013, na Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0282102843.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14200/0395603958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2014/07/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2014-55021037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aca060ad2e2f120a2b0ea2a611b76bcf9da608d9773752d252560016066b27c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bbfa14861db8e999015ce206c90890fd73d27b4c3ad7aa76cca3862274a3d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Educação Especial
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
-- Estatuto da Carreira Docente
-- Sistema Retributivo
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Qualificação Profissional
+- Educação Especial
 - Ensino Básico
+- Ensino Secundário
+- Estatuto da Carreira Docente
 - Madeira.região Autónoma
+- Pessoal Docente
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:74953321:por
@@ -89,16 +89,22 @@ relationships:
   target: celex:31999L0070
   label: null
   source: http://data.europa.eu/eli/dir/1999/70/oj
+- type: repealed_by
+  target: pt:dre:74953321:por
+  label: Revogado, a partir de 16.07.2016, pelo(a) Decreto Legislativo Regional n.º 28/2016/M - Diário da República n.º 135/2016,
+    Série I de 2016-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2016-74953321
+  date: '2016-07-15'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:52Z'
   warnings: []
   errors: []
 ---
@@ -201,10 +207,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 17 de julho de 2014.**
+Assinado em 17 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

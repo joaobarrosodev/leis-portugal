@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/963/2010/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-2010-342120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b74e58ca2a29c89ae6d8f111f04b3a8c4131912c6f64571b14878d08c5ee7cc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dabffbc72fdbcd06c045e66ff327420911d9c14ad56bf28ef6d709f21f9b4598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Águas Residuais
+- Águas Subterrâneas
 - Barreiro
 - Recursos Hídricos
-- Águas Residuais
 - Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:55076557:por
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:55076557:por
+  label: Revogada pelo(a) Portaria n.º 154/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-2014-55076557
+  date: '2014-08-05'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:26Z'
   warnings: []
   errors: []
 ---
@@ -243,11 +260,11 @@ As zonas de protecção intermédia e alargada, respeitantes aos perímetros de 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 10 de Setembro de 2010.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 10 de Setembro de 2010.
 
 ## ANEXO I — Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 ## ANEXO II — Zona de protecção imediata
 
@@ -255,61 +272,61 @@ Pólo de captação do Alto do Paiva
 
 Captação AC6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação do Parque da Cidade
 
 Captação FR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Captação FR6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação dos Loios
 
 Captação FR4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Captação FR8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Sete Portais
 
 Captação AC3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Vale Romão
 
 Captação AC5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Captação FR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação do Mercado Abastecedor
 
 Captação FR3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Coina
 
 Captação FR7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Penalva
 
 Captação FR5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 ## ANEXO III — Zona de protecção intermédia
 
@@ -317,39 +334,39 @@ Pólo de captação do Alto do Paiva
 
 Captação AC6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação do Parque da Cidade
 
 Captação FR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Captação FR6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação dos Loios
 
 Captação FR4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Captação FR8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Sete Portais
 
 Captação AC3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Vale Romão
 
 Captação FR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 A zona de protecção intermédia da captação AC5 corresponde à área da superfície do terreno definida por um círculo de 49 m de raio com centro na captação.
 
@@ -357,19 +374,19 @@ Pólo de captação do Mercado Abastecedor
 
 Captação FR3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Coina
 
 Captação FR7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Penalva
 
 Captação FR5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 ## ANEXO IV — Zona de protecção alargada
 
@@ -377,25 +394,25 @@ Pólos de captação de Alto do Paiva, Parque da Cidade e Loios
 
 Captações AC6, FR2, FR4, FR6 e FR8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólos de captação de Sete Portais, Vale Romão e Mercado Abastecedor
 
 Captações AC3, AC5, FR1 e FR3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Coina
 
 Captação FR7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Penalva
 
 Captação FR5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas rectangulares planas, Hayford-Gauss Militar, Datum de Lisboa.
 
@@ -407,16 +424,16 @@ Série M888 - 1/25 000 (IGeoE)
 
 Pólos de captação de Alto do Paiva, Parque da Cidade e Loios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólos de captação de Sete Portais, Vale Romão e Mercado Abastecedor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Coina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
 
 Pólo de captação de Penalva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18600/0420604211.pdf)

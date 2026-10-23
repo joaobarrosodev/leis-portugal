@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 342-(66) a 342-(75)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0006600075.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455-e/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-e-2023-835994082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06d0368049eba1e893803b36bf3e8bbf31dc73e48dcc0cdc4cefb94ffb93df1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd1b85c23b261552bb9ff372ad9da198ea337cbfa7d3b37266fefd629d1e8cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autoridade Tributária e Aduaneira
-- Regulamentação de Atos Legislativos
-- Instituto do Turismo de Portugal
-- Instituto da Habitação e da Reabilitação Urbana
-- Pagamento de Contribuições
-- IRC
-- Habitação
-- Contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem
 - Alojamento local
+- Autoridade Tributária e Aduaneira
+- Contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto do Turismo de Portugal
+- IRC
+- Pagamento de Contribuições
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:25Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +128,7 @@ A presente portaria regulamenta a contribuição extraordinária sobre os aparta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2023.
 
 ## ANEXO — (a que se refere ao artigo 3.º)
 
@@ -132,9 +136,9 @@ Tabela de determinação do coeficiente de pressão urbanística
 
 Portugal continental
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Distrito | Concelho | Freguesia | Coeficiente de Pressão Urbanística |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Aveiro... | Águeda... | União das Freguesias de Águeda e Borralha... | 0,2105 |
 |  |  | Restantes freguesias... | 0,0529 |
 |  | Albergaria-a-Velha... | Albergaria-a-Velha e Valmaior... | 0,2173 |
@@ -565,9 +569,9 @@ Portugal continental
 
 Região Autónoma dos Açores
 
-|  |  |  |
-| --- | --- | --- |
 | Concelho | Freguesia | Coeficiente de Pressão Urbanística |
+| --- | --- | --- |
+|  |  |  |
 | Angra do Heroísmo... | Angra (Nossa Senhora da Conceição)... | 0,0668 |
 |  | Angra (São Pedro)... | 0,1966 |
 |  | São Mateus da Calheta... | 0,2044 |
@@ -586,9 +590,9 @@ Região Autónoma dos Açores
 
 Região Autónoma da Madeira
 
-|  |  |  |
-| --- | --- | --- |
 | Concelho | Freguesia | Coeficiente de Pressão Urbanística |
+| --- | --- | --- |
+|  |  |  |
 | Câmara de Lobos... | Câmara de Lobos... | 0,2676 |
 |  | Restantes freguesias... | 0,0450 |
 | Funchal... | Imaculado Coração de Maria... | 0,3904 |
@@ -604,3 +608,5 @@ Região Autónoma da Madeira
 | Santa Cruz... | Caniço... | 0,3500 |
 |  | Restantes freguesias... | 0,2299 |
 | Restantes concelhos ... | Todas as freguesias... | 0,1291 |
+
+117211758

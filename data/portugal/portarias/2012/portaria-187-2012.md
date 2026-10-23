@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11400/0299402995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/187/2012/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/187-2012-178790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5eac73e3fefc5f8d3d38da7a9cc646a88307029e6bef2f244167f863d8c6131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a90b9168cfe9625cbc48710daf14ad573580add58626b6bbca359462bd825f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,23 @@ relationships:
   target: pt:dre:58661942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164425:por
+  label: "Determinada a reestruturação do Gabinete de Estratégia e Planeamento, cuja orgânica e atribuições constam do presente\
+    \ diploma, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais,\
+    \ negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral, pelo DEC LEI.167-C/2013.31.12.2013.MSESS,\
+    \ DR.IS [253-3ºSupl] de 31.12.2013, nos termos da al. b) do art. 30.º e dos arts. 31.º e 33.º deste\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-c-2013-164425
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:58661942:por
+  label: Determinada a sucessão da Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social nas atribuições
+    do Gabinete de Estratégia e Planeamento, cuja orgânica e atribuições constam do presente diploma, na redação do Dec Lei
+    167-C/2013, de 31-dez, nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação
+    e aquisição de bens e serviços, financeiro e patrimonial, pelo(a) Decreto Regulamentar n.º 5/2014 - Diário da República
+    n.º 210/2014, Série I de 2014-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2014-58661942
+  date: '2014-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/24/2012/02/13/p/dre
   label: null
@@ -81,16 +98,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:543046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67212151:por
+  label: Revogado, a partir de 18.05.2015, o presente diploma, pelo(a) Portaria n.º 132/2015 - Diário da República n.º 94/2015,
+    Série I de 2015-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2015-67212151
+  date: '2015-05-15'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:43Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +214,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 31 de maio de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.

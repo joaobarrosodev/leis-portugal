@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/925/2009/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-2009-493760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b94a4221a0ac0c310747782b174b74aa1d036e1cf89d0552de86a3ff3d0a38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584c35da3b88ca727df68d56cc6fc3eee6dba2e2e305f3939b4320a72b0480fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
+- Comércio
 - Concurso Público
 - Contrato
-- Serviço Nacional de Saúde
-- Medicamento
 - Homologação
+- Medicamento
 - Oncologia
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1176-a/2000/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1176-a/2000/12/14/p/dre
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:06Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +118,7 @@ Manda o Governo, pelo Ministro da Saúde, ao abrigo do disposto no artigo 14.º 
 
 4.º A presente portaria produz efeitos a partir da data da sua assinatura.
 
-**O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 30 de Julho de 2009.**
+O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 30 de Julho de 2009.
 
 ## ANEXO — Catálogo de Aprovisionamento Público da Saúde
 
@@ -122,8 +126,8 @@ Manda o Governo, pelo Ministro da Saúde, ao abrigo do disposto no artigo 14.º 
 
 Concurso n.º 2008/14 - Medicamentos diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf)
 
 Concurso n.º 2008/6 - Medicamentos do foro oncológico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0538705388.pdf)

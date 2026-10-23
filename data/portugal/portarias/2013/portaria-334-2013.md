@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/334/2013/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-2013-504112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b60216d3b1c6ad35f986de25a1a2d331e8f6189b56895a79f0f47812c5ec8576
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a90af932bf52d7dfc25df44d67d35f4e1d5a31177ede1ed1b5786e4784a0e850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bandeira
+- Direcção Geral da Autoridade Marítima
 - Doação
 - Impresso
 - Louvor
 - Prémio
-- Direcção Geral da Autoridade Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/310/1995/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/310/1995/04/13/p/dre
+- type: cites
+  target: pt:dre:181190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229355:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:52Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +131,9 @@ Os artigos 1º, 6º e 8.º da [Portaria n.º 310/95](https://diariodarepublica.p
 
 5 - ...
 
-###### Artigo 6º — (...)
+Artigo 6º
+
+(...)
 
 1 - A medalha de filantropia e dedicação destina-se a galardoar o indivíduo ou coletividade pelos serviços relevantes prestados ao ISN que não sejam abrangidos pelo artigo 1º.
 
@@ -143,7 +153,9 @@ Os artigos 1º, 6º e 8.º da [Portaria n.º 310/95](https://diariodarepublica.p
 
 9 - ...
 
-###### Artigo 8º — (...)
+Artigo 8º
+
+(...)
 
 1 - ...
 
@@ -163,4 +175,4 @@ c) Subscritor, quando além da joia de 120,00(euro) (cento e vinte euros), pagar
 
 6 - ...»
 
-**A Secretária de Estado Adjunta e da Defesa Nacional, Berta Maria Correia de Almeida de Melo Cabral, em 24 de outubro de 2013.**
+A Secretária de Estado Adjunta e da Defesa Nacional, Berta Maria Correia de Almeida de Melo Cabral, em 24 de outubro de 2013.

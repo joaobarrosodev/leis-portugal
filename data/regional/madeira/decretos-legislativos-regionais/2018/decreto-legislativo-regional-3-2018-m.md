@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00900/0038400386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2018/01/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 964671f5e325dcef9180b937558b83de433324fb0f385f858415fe9de3e1e729
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f6751a3d8b5c61bd52cebb52d590e9166bed8585e2f1890526465e2d677ff90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Serviço
-- Definição de Competências
-- Conselho Diretivo
 - Conselho Consultivo
-- Orgânica
-- Madeira.região Autónoma
+- Conselho Diretivo
+- Definição de Competências
 - Instituto das Florestas e Conservação da Natureza
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/2015/05/29/p/dre
@@ -116,16 +116,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:105643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:19Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +210,9 @@ Os artigos 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto Legislativo Regional n.º
 
 2 - O presidente e os vogais são equiparados, respetivamente, a cargo de direção superior de 1.º grau e de direção superior de 2.º grau, aplicando-se o regime constante na [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 96/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), de 29 de maio, aplicável à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e subsidiariamente o Estatuto do Pessoal Dirigente da Administração Pública.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -170,17 +220,23 @@ Os artigos 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto Legislativo Regional n.º
 
 3 - O IFCN, IP-RAM é representado, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo, por dois dos seus membros, ou por mandatários especialmente designados.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
 2 - O presidente pode delegar competências, com ou sem poderes de subdelegação, nos vogais ou no pessoal com funções de direção no IFCN, IP-RAM.
 
-###### Artigo 10.º — Competências dos vogais
+Artigo 10.º
+
+Competências dos vogais
 
 Compete aos vogais a responsabilidade pela gestão das áreas funcionais da atividade do IFCN, IP-RAM que lhe forem cometidas pelo Conselho Diretivo, competindo-lhes fazer executar os respetivos programas de atividades.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -224,10 +280,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado na sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de dezembro de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 5 de janeiro de 2018.**
+Assinado em 5 de janeiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+111055806

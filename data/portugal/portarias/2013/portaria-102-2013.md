@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/102/2013/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-2013-258756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aa9e34d9d537cf03aae4921ece494fdb9aa500bcea809eca6fcf64ba9af7b7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee10e6fe820daf2fff91e5a95b123b9507d199791de74f95882ff8aa1fce93e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Língua Portuguesa
-- Cultura Portuguesa
-- Ensino Português no Estrangeiro
 - Camões - Instituto da Cooperação e da Língua
-- Pessoal Docente
+- Cultura Portuguesa
 - Ensino Básico
+- Ensino Português no Estrangeiro
+- Língua Portuguesa
+- Pessoal Docente
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:901667918:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Mantidas em vigor as normas relativas às taxas devidas pela certificação pelo(a) Lei n.º 45-A/2024 - Diário da República
+    n.º 253/2024, Suplemento, Série I de 2024-12-31, até à aprovação da portaria referida no n.º 6 do artigo 5.º do Decreto-Lei
+    n.º 165/2006, de 11 de agosto, na redação dada pela referida lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-a-2024-901667918
+  date: '2024-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165-c/2009/07/28/p/dre
   label: null
@@ -91,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/234/2012/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/2012/10/30/p/dre
+- type: cites
+  target: pt:dre:191541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:33Z'
   warnings: []
   errors: []
 ---
@@ -163,28 +182,28 @@ b) O valor das taxas devidas pela realização de provas de certificação de ap
 
 A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de fevereiro de 2013. - O Secretário de Estado das Comunidades Portuguesas, José de Almeida Cesário, em 18 de fevereiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de fevereiro de 2013. - O Secretário de Estado das Comunidades Portuguesas, José de Almeida Cesário, em 18 de fevereiro de 2013.
 
 ## Anexo — Tabela I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
 
 Tabela II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
 
 Tabela III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
 
 Tabela IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
 
 Tabela V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
 
 Tabela VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0131801320.pdf)

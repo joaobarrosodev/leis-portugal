@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/2011/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-2011-668537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e62bdd65243b92715c39e5ed618e1efb28c726c00ab1214447f201f4e09237cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9934fa9d1c1db77065f31062a820292a515e9f29ee9247e7e901fb59722c4c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Apoio ao Investimento
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
-- Pagamento
-- Instituto da Vinha e do Vinho
+- Financiamento
 - IFAP
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Regime de Apoio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
@@ -100,16 +100,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 1144/2008 de 10-out, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013, sem prejuízo do disposto no n.º 1 do art. 21.º desta\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:38Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +158,9 @@ iii) Candidaturas agrupadas, de três ou mais viticultores, podendo as parcelas 
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -160,7 +168,9 @@ iii) Candidaturas agrupadas, de três ou mais viticultores, podendo as parcelas 
 
 3 - A apresentação das candidaturas é efectuada na DRAP territorialmente competente.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +188,9 @@ a) Depois de verificada a execução das medidas específicas; ou
 
 b) Após o início da execução da medida específica, mediante a prestação de uma garantia, nos termos da alínea b) do n.º 1, a qual é liberada no prazo máximo de 90 dias após a comunicação da conclusão da medida específica desde que se verifique estar totalmente executada.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -216,4 +228,4 @@ e)...
 
 2 - O disposto nos n.os 2 e 3 do artigo 14.º é aplicável apenas às candidaturas apresentadas até à campanha de 2010-2011, inclusive.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de Outubro de 2011.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 13 de Outubro de 2011.

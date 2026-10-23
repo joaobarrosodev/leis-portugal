@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17500/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/278/2023/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7913f9a29dc7ff1486ab27d3c5b956a7f941ad7e8d779318d881efe2570137bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5263c8e10dfc627d7164970dfc916b31f999b2cfe290ac99f40a3168d42233f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
+- Avaliação de Conhecimentos
+- Currículo Nacional
+- Ensino Secundário
 - Escolaridade Obrigatória
 - Habilitações Literárias
-- Ensino Secundário
-- Currículo Nacional
-- Avaliação de Conhecimentos
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/226-a/2018/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/226-a/2018/08/07/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115941646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:20Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +151,9 @@ d) [...]
 
 e) Possibilidade de o aluno iniciar, no 10.º ano de escolaridade, uma nova língua estrangeira (LE II), desde que esta não coincida com a sua língua materna e ou língua de escolarização.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -149,7 +163,9 @@ e) Possibilidade de o aluno iniciar, no 10.º ano de escolaridade, uma nova lín
 
 4 - Não é possível adotar um percurso formativo próprio através da mudança de curso ou através da realização de exames finais nacionais ou de provas de equivalência à frequência.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -187,7 +203,9 @@ e) Possibilidade de o aluno iniciar, no 10.º ano de escolaridade, uma nova lín
 
 18 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -235,7 +253,9 @@ iv) Numa das disciplinas, bienal ou trienal, da componente de formação especí
 
 17 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +273,9 @@ CE = classificação de exame final.
 
 3 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A classificação final do curso é o resultado da média aritmética ponderada, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas do seu plano curricular, de acordo com a seguinte fórmula:
 
@@ -289,4 +311,6 @@ c) 2025-2026, no que respeita ao 12.º ano de escolaridade.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Educação, João Miguel Marques da Costa, em 7 de setembro de 2023.**
+O Ministro da Educação, João Miguel Marques da Costa, em 7 de setembro de 2023.
+
+116835619

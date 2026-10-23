@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/82/2011/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8d17c88dd776ba3bfa1bcc7ad4b54eb5a298a5911eceace0743d12e839cacbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71cc7374062a1def8d98bdcf9ef2b54d2e87c9c319ddae1ef4514a8b3fcdf221
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crustáceo
-- Fiscalização
-- Recursos do Mar
-- Molusco
-- Proteção do Ambiente
-- Peixe
 - Artes de Pesca
-- Espécie Protegida
 - Comércio
+- Crustáceo
+- Espécie Protegida
+- Fiscalização
+- Molusco
+- Peixe
+- Proteção do Ambiente
+- Recursos do Mar
 relationships:
+- type: amended_by
+  target: pt:dre:56304799:por
+  label: Alterado o anexo e o quadro anexo à Portaria 27/2001 de 15-jan, na redação do presente diploma, pelo(a) Portaria
+    n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-2014-56304799
+  date: '2014-08-22'
+- type: amended_by
+  target: pt:dre:129793722:por
+  label: Alterado o anexo da Port 27/2001 de 15-jan, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 56/2020
+    - Diário da República n.º 44/2020, Série I de 2020-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2020-129793722
+  date: '2020-03-03'
 - type: cites
   target: celex:31998R0850
   label: null
@@ -92,13 +104,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:11Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +133,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 O anexo à Portaria n.º 27/2001, de 15 de Janeiro, com a redacção dada pelas Portarias n.os 402/2002, de 18 de Abril, e 1266/2004, de 1 de Outubro, é alterado quanto às espécies de carapaus (Trachurus spp.), salmonete (Mullus surmuletus), amêijoa-macha (Venerupis pullastra) e passa a incluir as espécies percebe (Pollicipes pollicipes), burriés (Gibulla spp., Littorina litorea e Monodonta lineata), lapas (Patella spp.) e ouriço-do-mar (Paracentrotus lividus), ficando, quanto a estas espécies, com a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf)
 
 ###### Artigo 2.º — Aditamento à Portaria n.º 27/2001
 
@@ -131,7 +143,7 @@ QUADRO
 
 Modo de medição de alguns invertebrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03700/0088600887.pdf)
 
 Burriés - comprimento total ou altura.
 

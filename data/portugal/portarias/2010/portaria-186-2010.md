@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/186/2010/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-2010-612665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be051e74f0dd790c0f7dba61bc2fba6a9411b6e54be72c2e12dbefa8b72f84ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b44d63c7069b084bf193e14915065c92124667bfaf0515f4e4eaff4ee83ee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Homologação
 - Infarmed
 - Medicamento
-- Homologação
 - Oncologia
-- Comércio
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:53Z'
   warnings: []
   errors: []
 ---
@@ -107,16 +107,16 @@ Manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo das competênci
 
 4.º A presente portaria produz efeitos a partir da data da sua publicação.
 
-**O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 11 de Março de 2010.**
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 11 de Março de 2010.
 
 ## ANEXO I — Catálogo de Aprovisionamento Público da Saúde
 
 (situação dos artigos: passou a acordo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf)
 
 ## ANEXO II — Catálogo de Aprovisionamento Público da Saúde
 
 (situação dos artigos: passou a acordo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06300/0108701088.pdf)

@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1979-392598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea2e5381127b8eef9e4ec7473dd9e7bdfd40e0fcb1c2a3d527c5fadffcd5067
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1036262e21ce3af59e4b2013b5d1fbf29b979b4ea6d70b4f3af898b52c9fc3a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Produto Agrícola
+- Produto Industrial
+relationships:
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605572:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:23Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +113,13 @@ Pelas razões expostas, e porque a actual indefinição implica, no plano práti
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República Portuguesa, e do artigo 22.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e tendo em conta o disposto no artigo 46.º deste diploma, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º - 1 - A destilação na Região Autónoma da Madeira de quaisquer substâncias que não sejam de origem sacarina, bem como a preparação, armazenagem e comercialização de bebidas espirituosas com base em tais substâncias ou dos produtos da sua destilação regem-se pelo presente diploma.
+Artigo 1.º - 1 - A destilação na Região Autónoma da Madeira de quaisquer substâncias que não sejam de origem sacarina, bem como a preparação, armazenagem e comercialização de bebidas espirituosas com base em tais substâncias ou dos produtos da sua destilação regem-se pelo presente diploma.
 
 2 - É também abrangida pelo presente diploma a fermentação de quaisquer substâncias que não sejam objecto de regulamentação especial, bem como a armazenagem e comercialização dos produtos obtidos.
 
-###### Art. 2.º As actividades a que se referem o artigo 1.º poderão ser exercidas por pessoas singulares ou colectivas, em instalações apropriadas, com observância das exigências constantes dos artigos seguintes, e que deverão ser registadas para o efeito.
+Art. 2.º As actividades a que se referem o artigo 1.º poderão ser exercidas por pessoas singulares ou colectivas, em instalações apropriadas, com observância das exigências constantes dos artigos seguintes, e que deverão ser registadas para o efeito.
 
-###### Art. 3.º - 1 - Os interessados deverão formular o pedido em requerimento dirigido ao Secretário Regional de Agricultura e Pescas, do qual conste:
+Art. 3.º - 1 - Os interessados deverão formular o pedido em requerimento dirigido ao Secretário Regional de Agricultura e Pescas, do qual conste:
 
 a) Identificação do interessado;
 
@@ -110,34 +129,34 @@ c) Indicação do local em que se pretende instalar a unidade industrial.
 
 2 - O requerimento será acompanhado do projecto da unidade industrial a instalar e das características do respectivo equipamento.
 
-###### Art. 4.º - 1 - As unidades industriais a instalar deverão obedecer à regulamentação vigente sobre higiene, segurança e salubridade, ordenamento do território, protecção do ambiente e ser independentes de unidades industriais destinadas a outros fins.
+Art. 4.º - 1 - As unidades industriais a instalar deverão obedecer à regulamentação vigente sobre higiene, segurança e salubridade, ordenamento do território, protecção do ambiente e ser independentes de unidades industriais destinadas a outros fins.
 
 2 - O cumprimento das exigências a que se refere o número anterior será verificado por meio de vistorias.
 
-###### Art. 5.º Os produtos provenientes das unidades industriais a que se refere o artigo 1.º deverão ser destinados ao consumo público e deverão obedecer aos requisitos estabelecidos no artigo 8.º, n.º 1.
+Art. 5.º Os produtos provenientes das unidades industriais a que se refere o artigo 1.º deverão ser destinados ao consumo público e deverão obedecer aos requisitos estabelecidos no artigo 8.º, n.º 1.
 
-###### Art. 6.º - 1 - O Governo Regional poderá fixar, em despacho conjunto dos Secretários Regionais de Agricultura e Pescas e de Economia, outros requisitos de carácter técnico, económico e financeiro a que deverão obedecer as actividades abrangidas pelo presente diploma, as quais serão revistas periodicamente a fim de serem adequadas à evolução económica, aos progressos na especialização produtiva e às modificações na situação dos mercados.
+Art. 6.º - 1 - O Governo Regional poderá fixar, em despacho conjunto dos Secretários Regionais de Agricultura e Pescas e de Economia, outros requisitos de carácter técnico, económico e financeiro a que deverão obedecer as actividades abrangidas pelo presente diploma, as quais serão revistas periodicamente a fim de serem adequadas à evolução económica, aos progressos na especialização produtiva e às modificações na situação dos mercados.
 
 2 - Enquanto não for publicado o despacho a que se refere o número anterior, os requisitos a observar em relação a cada pedido de instalação serão fixados no despacho que a ele respeite, e que poderão ser diferentes, conforme se trate de pedido de produtores ou cooperativas agrícolas para actividade complementar das respectivas explorações ou de pedido de sociedades comerciais.
 
-###### Art. 7.º - 1 - Para o perfeito contrôle da sua laboração, poderão as entidades referidas no artigo 9.º fixar períodos de funcionamento dos aparelhos ou instalações de destilação.
+Art. 7.º - 1 - Para o perfeito contrôle da sua laboração, poderão as entidades referidas no artigo 9.º fixar períodos de funcionamento dos aparelhos ou instalações de destilação.
 
 2 - Com vista ao mesmo fim, as instalações em que se proceda a operações de destilação, fabrico, preparação ou engarrafamento de bebidas espirituosas ficarão subordinadas a um registo de entradas, de saídas e das existências das matérias-primas utilizadas e dos produtos obtidos.
 
-###### Art. 8.º - 1 - Em relação às características dos produtos resultantes das actividades abrangidas por este diploma, bem como aos termos da sua comercialização, é aplicável a legislação geral em vigor.
+Art. 8.º - 1 - Em relação às características dos produtos resultantes das actividades abrangidas por este diploma, bem como aos termos da sua comercialização, é aplicável a legislação geral em vigor.
 
 2 - No referente a outros assuntos que não sejam directamente contemplados será igualmente aplicável, com as necessárias adaptações, a mesma legislação.
 
-###### Art. 9.º A acção de contrôle das actividades e dos produtos a que se refere este diploma compete aos organismos e serviços com superintendência técnica nos respectivos sectores, a qual deverá ser exercida em estreita colaboração com os serviços com competência para a fiscalização de infracções anti económicas e contra a saúde pública.
+Art. 9.º A acção de contrôle das actividades e dos produtos a que se refere este diploma compete aos organismos e serviços com superintendência técnica nos respectivos sectores, a qual deverá ser exercida em estreita colaboração com os serviços com competência para a fiscalização de infracções anti económicas e contra a saúde pública.
 
-###### Art. 10.º As dúvidas que se suscitarem na interpretação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e de Economia.
+Art. 10.º As dúvidas que se suscitarem na interpretação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e de Economia.
 
-###### Art. 11.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 12 de Dezembro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 30 de Dezembro de 1978.**
+Assinado em 30 de Dezembro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

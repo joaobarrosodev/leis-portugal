@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:200525833:por
 title: Portaria n.º 217-A/2022
 short_title: null
-summary: Suspende a atualização da taxa do adicionamento sobre as emissões de CO<sub>2</sub>
+summary: Suspende a atualização da taxa do adicionamento sobre as emissões de CO2
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 168/2022, 1º Suplemento, Série I de 2022-08-31
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5-(2) a 5-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217-a/2022/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-a-2022-200525833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f4c0504e9d2545046fd54d84e871185645b4cfff4d33d9dba3eb106d7492611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f84ffa6197e7e76468295fd9ef65bd555731732409bcac5a65e1b2e9f9be34b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
 - Cobrança de Impostos
 - Código dos Impostos Especiais de Consumo
-- Regulamentação de Atos Legislativos
+- Combustível
+- Efeito de Estufa
+- Gás
 - Poluição Atmosférica
 - Produto Petrolífero
-- Combustível
-- Gás
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: amended_by
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/315/2021/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/315/2021/12/23/p/dre
+- type: cites
+  target: pt:dre:150368750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180923376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185452472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:38Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +155,6 @@ Mantém-se aplicável, entre o dia 1 de setembro e o dia 2 de outubro de 2022, a
 
 A presente portaria entra em vigor no dia 1 de setembro de 2022.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 30 de agosto de 2022.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 30 de agosto de 2022.
+
+115654282

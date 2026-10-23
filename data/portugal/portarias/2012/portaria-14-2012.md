@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2012/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2012-544474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2391c61f692d8b0c46a2263f32dbb024ad56bb22935a73bd7bc1a42b280d667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe629adb30fc813112978d2997c21dc9e87fa123b9bb33899eb96d710234d186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Valença
 relationships:
+- type: amended_by
+  target: pt:dre:3405246:por
+  label: "Tornada pública a alteração das folhas 9.1.3, 9.1.4 e 9.1.5 da Carta da Reserva Ecológica Nacional do município\
+    \ de Valença, aprovada pela Res 73/99 de 16-jul, e posteriormente alterada pelo presente diploma, pelo AV.520/2014.13.01.2014.PCM,\
+    \ DR.IIS [8] de 13.01.2014, que republicou a versão corrigida \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/520-2014-3405246
+  date: '2014-01-13'
+- type: amended_by
+  target: pt:dre:66341548:por
+  label: Tornada pública a alteração da fl. 9.1.4 da Carta da Reserva Ecológica Nacional do município de Valença aprovada
+    pela Res 73/99, de 16-jul, da PCM, na redação do presente diploma, pelo(a) Aviso n.º 887/2015 - Diário da República n.º
+    18/2015, Série II de 2015-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/887-2015-66341548
+  date: '2015-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -79,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73/1999/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/1999/07/16/p/dre
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:30Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +153,7 @@ As referidas plantas, o quadro anexo e a memória descritiva do presente process
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano Director Municipal de Valença.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 15 de Dezembro de 2011.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 15 de Dezembro de 2011.
 
 QUADRO ANEXO
 
@@ -131,4 +161,4 @@ Delimitação da Reserva Ecológica Nacional do município de Valença
 
 Proposta de exclusão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01100/0018200191.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01100/0018200191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01100/0018200191.pdf)

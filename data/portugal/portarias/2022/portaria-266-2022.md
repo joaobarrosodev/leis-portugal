@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21100/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/266/2022/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-2022-202899921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b016642997368f9e45db245f7b518ee347c06559339890c08dc67dd40f9927ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84a113624824d4ab5764f89ef80954f3c0878662afec6d3bd8effeac7c32d2ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
 subjects:
 - Acesso à Educação
 - Ajuda Comunitária
-- Financiamento
+- Bolsa de Estudos
+- CIC Portugal 2020
+- Educação dos Adultos
+- Ensino
 - Ensino não Superior
-- Formação Profissional
+- Ensino Superior
+- Epidemia
+- Estabelecimento de Ensino
 - Estudante
 - FEDER
+- Financiamento
 - Formação Complementar
-- Fundos CE
-- Educação dos Adultos
+- Formação Profissional
 - FSE
-- Epidemia
+- Fundos CE
 - Política de Educação
+- PORTUGAL 2020
 - Prazo
 - Preço
-- Ensino
-- Estabelecimento de Ensino
 - Programa Operacional
-- Regulamento
-- Ensino Superior
-- Bolsa de Estudos
-- Ucrânia
-- PORTUGAL 2020
-- CIC Portugal 2020
 - Programa Operacional Temático Capital Humano
+- Regulamento
 - Regulamento Específico do Domínio do Capital Humano
+- Ucrânia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/130/2021/06/25/p/dre
@@ -133,16 +133,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/60-c/2015/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/60-c/2015/03/02/p/dre
+- type: cites
+  target: pt:dre:105347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114426059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122376531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135711318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165797128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175264443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66646042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67618688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74498467:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:55Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +227,9 @@ São alterados os artigos 10.º-A e 41.º do Regulamento Específico do Domínio
 
 2 - O incumprimento dos prazos previstos no número anterior determina a caducidade da decisão de aprovação da candidatura, salvo motivo justificado, não imputável ao beneficiário e aceite pela autoridade de gestão.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -211,4 +261,6 @@ As alterações agora introduzidas produzem efeitos relativamente às operaçõe
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 17 de outubro de 2022.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 17 de outubro de 2022.
+
+115833681

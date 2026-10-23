@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22500/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/2022/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-2022-203729606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5acd6f4ecac65c0b278bbcf6e9d941056462ceeb1ef66c99a6cc13141d49e458
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 581480f12ee0b589af8243fd7a54ee43c13e47d46ae9e2b40364d08b59175c55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança das Embarcações
+- Artes de Pesca
+- Comunicação por Satélite
+- Embarcação de Pesca
 - Equipamento Eletrónico
 - Frota de Pesca
-- Pesca
-- Comunicação por Satélite
 - Licença de Pesca
-- Artes de Pesca
+- Pesca
 - Regulamento
 - Regulamento CE
-- Embarcação de Pesca
 - Satélite
+- Segurança das Embarcações
 - Segurança Marítima
 relationships:
 - type: cites
@@ -119,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378-f/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378-f/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:115172418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120696372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142142:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:59Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +205,9 @@ c) (Revogada.)
 
 d) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As infrações ao disposto na presente portaria são puníveis nos termos do regime previsto no [Decreto-Lei n.º 35/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), de 11 de março.»
 
@@ -203,4 +237,6 @@ Monitorização e seguimento de navios aplicável à frota licenciada para ganch
 
 2 - O artigo 3.º da presente portaria produz efeitos a partir de 1 de janeiro de 2023.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 17 de novembro de 2022.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 17 de novembro de 2022.
+
+115895696

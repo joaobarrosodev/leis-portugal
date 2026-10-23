@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03000/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/48/2024/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2be43ecb91843cd7fedadc0ebd96a4ce30258357eb3ec6e278abb604c53c1c09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1204c59a359c093c758f1610307bae907c681de192814bd770cd5f54c5bf10cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Administração Pública
-- Publicitação
-- Plataforma Eletrónica
 - Plano Estratégico da Política Agrícola Comum de Portugal
+- Plataforma Eletrónica
+- Publicitação
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:54-B/2023
+  label: Altera, a partir de 13 de fevereiro de 2024, e com efeitos a 28 de fevereiro de 2023, os artigos 11.º, 12.º e 16.º
+    da Portaria n.º 54-B/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -94,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942896:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:28Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +164,9 @@ Os artigos 11.º, 12.º e 16.º da [Portaria n.º 54-B/2023](https://diariodarep
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As candidaturas são, em sede de controlo administrativo, analisadas e validadas pelo IFAP, I. P., e, após esta validação, decididas, no prazo máximo de 45 dias úteis, pela autoridade de gestão do PEPAC no continente, de acordo com os critérios de elegibilidade previstos na presente portaria e com a dotação orçamental desta intervenção.
 
@@ -152,7 +176,9 @@ Os artigos 11.º, 12.º e 16.º da [Portaria n.º 54-B/2023](https://diariodarep
 
 4 - A verificação do cumprimento das condições de elegibilidade do beneficiário ou das suas obrigações, bem como a transmissão de informação necessária à formalização e gestão do contrato de seguro e à concessão do apoio, será realizada, sempre que tecnicamente possível, com recurso à interoperabilidade de dados entre organismos da Administração Pública e entre as entidades intervenientes na presente intervenção, via webservice ou plataformas de interoperabilidade.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O apoio é calculado com base nos montantes considerados elegíveis no decurso dos controlos realizados.
 
@@ -166,4 +192,6 @@ Os artigos 11.º, 12.º e 16.º da [Portaria n.º 54-B/2023](https://diariodarep
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos à data da entrada em vigor da [Portaria n.º 54-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-b-2023-207942896), de 27 de fevereiro.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de fevereiro de 2024.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de fevereiro de 2024.
+
+117341211

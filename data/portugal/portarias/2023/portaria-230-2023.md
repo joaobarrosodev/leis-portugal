@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230/2023/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1397f044b20de927fab60981f8797942501e1519f63491f5c223248bb1709f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b754f9d0900780b0efc37a69a0a623187999b4671230c24cf171f2117c96b0b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Investigador
 - Aposentado
 - Cartão de Identificação
-- Regulamentação de Atos Legislativos
+- Deficiente
+- Investigador
 - Livre Trânsito
-- Polícia Judiciária
 - Polícia Criminal
+- Polícia Judiciária
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2019/09/13/p/dre
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/96/2002/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/96/2002/01/31/p/dre
+- type: cites
+  target: pt:dre:124680594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602285:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:00Z'
   warnings: []
   errors: []
 ---
@@ -428,13 +456,13 @@ ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticaçã
 
 A presente portaria entra em vigor 30 dias após a data da sua publicação.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 25 de julho de 2023.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 25 de julho de 2023.
 
 ## ANEXO I — Crachá de identificação pessoal das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal da PJ
 
 (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO II — Cartão de livre-trânsito das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal da PJ
 
@@ -442,11 +470,11 @@ A presente portaria entra em vigor 30 dias após a data da sua publicação.
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO III — Cartão de cartão de identificação dos trabalhadores da carreira especial de apoio à investigação criminal da PJ - Especialista de polícia científica
 
@@ -454,11 +482,11 @@ Verso:
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO IV — Cartão de identificação dos trabalhadores da carreira especial de apoio à investigação criminal da PJ - Segurança
 
@@ -466,11 +494,11 @@ Verso:
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO V
 
@@ -480,17 +508,17 @@ Cartão de identificação dos trabalhadores das carreiras subsistentes da PJ - 
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
 Carreiras subsistentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Carreiras gerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO VI — Cartão de identificação dos trabalhadores da PJ em situação de aposentação ou reforma
 
@@ -498,21 +526,21 @@ Carreiras gerais:
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
 Carreira especial de investigação criminal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Carreiras especiais de apoio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Carreiras subsistentes e gerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 ## ANEXO VII — Cartão de equiparado a deficiente das Forças Armadas
 
@@ -520,8 +548,10 @@ Carreiras subsistentes e gerais:
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
 
 Verso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+116716298

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/2013/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-2013-484173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 328c676e492573f862f228a2488359201a2e2b9eb8695b2ba7481285c906dfc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e313b85b6d6255e98c47a838e6eb7605611faf4253c32ee633cc5bce68795eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Processo Civil
-- Instituto da Segurança Social
-- Ficheiro Informático
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Agente de Execução
+- Base de Dados
 - Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Definição de Competências
 - Dívidas ao Estado
-- Fazenda Pública
-- Oficial de Justiça
-- Base de Dados
-- Instituto de Gestão Financeira da Segurança Social
 - Documento Eletrónico
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Notificação
-- Sistema de Informação
 - Execução por Dívidas
+- Fazenda Pública
+- Ficheiro Informático
+- Instituto da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Notificação
+- Oficial de Justiça
+- Processo Civil
 - Processo de Execução
 - Segurança Social
-- Conservatória do Registo Civil
-- Agente de Execução
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:125085419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70300347:por
+  label: Alterado, a partir de 18.09.2015, o art 5.º da Port 331-A/2009 de 30-mar, na redação do presente diploma, pelo(a)
+    Portaria n.º 288/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2015-70300347
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:125085419:por
+  label: Alterados os arts. 1.º, 2.º e 4.º da Port 331-A/2009 de 30-mar, na redação do presente diploma, pelo(a) Portaria
+    n.º 358/2019 - Diário da República n.º 193/2019, Série I de 2019-10-08 nos termos dos arts. 5.º e 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2019-125085419
+  date: '2019-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/2012/03/30/p/dre
   label: null
@@ -110,16 +122,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-a/2009/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-a/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622371:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:58Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +196,9 @@ b) A citação eletrónica da Fazenda Pública, do Instituto da Segurança Socia
 
 2 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O agente de execução procede, nos termos dos n.os 1 a 4 do artigo 749.º do Código de Processo Civil e dos artigos 3.º a 5.º da presente portaria, à consulta direta, nas bases de dados da administração tributária, da segurança social, das conservatórias do registo predial, registo comercial, registo automóvel e registo civil e de outros registos ou arquivos semelhantes, de todas as informações sobre a identificação do executado junto desses serviços e sobre a identificação e a localização dos seus bens penhoráveis, através do sistema informático de suporte à atividade dos agentes de execução e do sistema informático de suporte à atividade dos tribunais.
 
@@ -178,7 +208,9 @@ b) A citação eletrónica da Fazenda Pública, do Instituto da Segurança Socia
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A consulta direta, pelo agente de execução, através da utilização do sistema informático de suporte à atividade dos agentes de execução e do sistema informático de suporte à atividade dos tribunais, às bases de dados da administração tributária, é efetuada pelo número de identificação fiscal do executado.
 
@@ -198,7 +230,9 @@ f) O número fiscal da sociedade em que o executado conste como sócio ou membro
 
 g) O número fiscal da herança indivisa em que o executado conste como herdeiro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A consulta direta, pelo agente de execução, através do sistema informático de suporte à atividade dos agentes de execução e do sistema informático de suporte à atividade dos tribunais, às bases de dados da segurança social, é efetuada pelo nome e número de identificação da segurança social, número de identificação civil ou número de identificação fiscal do executado.
 
@@ -222,7 +256,9 @@ g) Se o executado aufere pensão de velhice, de invalidez ou outra prestação s
 
 4 - A segurança social disponibiliza ainda ao agente de execução informação sobre a existência de penhoras que recaiam sobre as prestações sociais do executado, referidas no número anterior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A consulta direta às bases de dados do registo civil, do registo predial, do registo comercial, do registo automóvel, do registo nacional de pessoas coletivas e da Agência de Gestão da Tesouraria e da Dívida Pública, para obtenção das informações previstas no n.º 1 do artigo 2.º é feita pelo nome, número de identificação civil ou número de identificação fiscal e, quanto esteja em causa informação sobre veículos, por matrícula do veículo.
 
@@ -248,7 +284,9 @@ d) [...].
 
 8 - A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. disponibiliza informação sobre as Obrigações do Tesouro, Bilhetes do Tesouro, Certificados de Aforro, Certificados do Tesouro e outros instrumentos de que o executado seja titular.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Cada consulta efetuada pelo agente de execução, nos termos dos n.os 1 e 2 do artigo 2.º, é registada automática e eletronicamente no sistema informático da entidade consultada, no sistema informático de suporte à atividade dos agentes de execução e no sistema informático de suporte à atividade dos tribunais.
 
@@ -258,7 +296,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O agente de execução cita a Fazenda Pública e, através de uma única comunicação, o Instituto da Segurança Social, I. P. e o Instituto de Gestão Financeira da Segurança Social, I. P., exclusivamente por transmissão eletrónica de dados, através do sistema informático de suporte à atividade dos agentes de execução e do sistema informático de suporte à atividade dos tribunais.
 
@@ -268,7 +308,9 @@ d) [...].
 
 4 - [Revogado].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A citação realizada nos termos do artigo anterior considera-se efetuada na data em que a entidade citanda procede, pela primeira vez, à consulta da citação e tem-se por efetuada na própria pessoa do citando.
 
@@ -282,7 +324,9 @@ d) [...].
 
 6 - À citação efetuada nos termos do presente artigo não é aplicável o disposto no artigo 245.º do Código de Processo Civil.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O sistema informático de suporte à atividade dos tribunais assegura o registo eletrónico das citações efetuadas nos termos dos artigos anteriores.
 
@@ -292,13 +336,17 @@ d) [...].
 
 4 - O registo eletrónico da citação pode ser consultado através do sistema informático de suporte à atividade dos tribunais e do sistema informático de suporte à atividade dos agentes de execução.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
 2 - Para efeitos do disposto no número anterior, as referências feitas ao sistema informático de suporte à atividade dos agentes de execução consideram-se feitas apenas ao sistema informático de suporte à atividade dos tribunais.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A presente portaria aplica-se às ações executivas cíveis pendentes.
 
@@ -320,4 +368,4 @@ São revogados o n.º 4 do artigo 9.º, o artigo 13.º e o n.º 2 do artigo 14.�
 
 2 - O disposto nas alíneas f) e g) do n.º 2 do artigo 3.º, na alínea g) do n.º 3 do artigo 4.º e no n.º 4 do artigo 4.º da [Portaria n.º 331-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/331-a-2009-622371), de 30 de março, na redação resultante da presente portaria, entra em vigor em 31 de dezembro de 2013.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 20 de novembro de 2013. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de outubro de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 19 de novembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 20 de novembro de 2013. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 28 de outubro de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 19 de novembro de 2013.

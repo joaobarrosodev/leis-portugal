@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 90/2023, 1º Suplemento, Série I de 2023-05-10
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 60-(2) a 60-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118-a/2023/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-a-2023-212905835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec25787a842cf258d0d3568201343193c07ac34e1c2356acf96e340038af86b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccb41826a4ece1863e29db60efe804f2e09d6cd93d0f5739653024a87ceac5c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Ensino
+- Carreira Profissional
 - Concurso
 - Criação de Lugares
-- Ensino Oficial
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
-- Gestão de Recursos Humanos
 - Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Gestão de Recursos Humanos
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:20Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +137,10 @@ A presente portaria produz efeitos a 10 de maio de 2023.
 
 Em 10 de maio de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira. - O Secretário de Estado da Educação, António de Oliveira Leite.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira. - O Secretário de Estado da Educação, António de Oliveira Leite.
 
 ## ANEXO — Concurso externo de vinculação dinâmica - Vagas de quadro de zona pedagógica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09001/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09001/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09001/0000200003.pdf)
+
+116458978

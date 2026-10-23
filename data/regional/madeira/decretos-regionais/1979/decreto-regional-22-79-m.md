@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/22-1979-365287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57597af0bd52684dfc5900e91b3a44fdbd8f1a35d73b23e6bcdef44d1e47e68f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d812dee835d54b260b3c68ebc04f9b9d1efd4b528e5e61909eaab9d32c09a6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Madeira.região Autónoma
+- Multa
+- Poluição Sonora
+- Regulamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:28Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +101,9 @@ Por outro lado, não é apenas multando os infractores que se corrige a actual s
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República, a Assembleia Regional decreta, para vigorar como lei na Região Autónoma da Madeira:
 
-###### Artigo 1.º A contravenção ao disposto nos n.os 1 e 2 do artigo 29.º do Código da Estrada será punida com a multa de 2000$00 a 10000$00.
+Artigo 1.º A contravenção ao disposto nos n.os 1 e 2 do artigo 29.º do Código da Estrada será punida com a multa de 2000$00 a 10000$00.
 
-###### Art. 2.º Os valores referidos no artigo 16.º do Regulamento do Código da Estrada passam a ser os seguintes:
+Art. 2.º Os valores referidos no artigo 16.º do Regulamento do Código da Estrada passam a ser os seguintes:
 
 Veículos de duas rodas:
 
@@ -136,20 +141,20 @@ Cilindrada > 50 cm3 ... 78
 
 Motor a gasóleo ... 80
 
-###### Art. 3.º São alterados para 65 dB (A) ou 70 dB (A) os valores referidos no n.º 2 do artigo 32.º do Regulamento do Código da Estrada, consoante se trate, respectivamente, de veículos de duas rodas ou de mais de duas rodas.
+Art. 3.º São alterados para 65 dB (A) ou 70 dB (A) os valores referidos no n.º 2 do artigo 32.º do Regulamento do Código da Estrada, consoante se trate, respectivamente, de veículos de duas rodas ou de mais de duas rodas.
 
-###### Art. 4.º Nos casos em que se excedem até 10% os valores estabelecidos neste diploma para a intensidade dos ruídos do escape dos motores, será adoptado o procedimento indicado na primeira parte do n.º 5 do artigo 36.º do Código da Estrada. Se o valor medido exceder os fixados em mais de 10%, será adoptado procedimento idêntico àquele aplicável quando em inspecção se notam deficiências ou irregularidades referentes às condições de segurança do veículo.
+Art. 4.º Nos casos em que se excedem até 10% os valores estabelecidos neste diploma para a intensidade dos ruídos do escape dos motores, será adoptado o procedimento indicado na primeira parte do n.º 5 do artigo 36.º do Código da Estrada. Se o valor medido exceder os fixados em mais de 10%, será adoptado procedimento idêntico àquele aplicável quando em inspecção se notam deficiências ou irregularidades referentes às condições de segurança do veículo.
 
-###### Art. 5.º Os motociclos e ciclomotores serão inspeccionados anualmente, a fim de se verificar a sua conformidade com os requisitos exigidos pelo presente diploma.
+Art. 5.º Os motociclos e ciclomotores serão inspeccionados anualmente, a fim de se verificar a sua conformidade com os requisitos exigidos pelo presente diploma.
 
 § único. As inspecções referidas no corpo deste artigo serão gratuitas e executadas pelo serviço do Governo Regional.
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor.
+Art. 6.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em 31 de Julho de 1979.
 
 O 1.º Vice-Presidente da Assembleia Regional, António Gil Inácio da Silva.
 
-**Assinado em 14 de Agosto de 1979.**
+Assinado em 14 de Agosto de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

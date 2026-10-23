@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/211/2012/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-2012-179522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28fc6e12d1d8f25733d23c0a52fba01c49bf92cccf3b7c144575774d190de5da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eea635455931698171d504be7c0ebc2a001c89e109052065135aef7ca25af3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Auto-estrada da Beira Interior
-- Auto-estrada da Costa de Prata
-- Auto-estrada do Grande Porto
-- SCUT
-- Empresa
-- Pagamento
-- Isenção de Portagem
 - Auto-estrada
-- Portagem
+- Auto-estrada da Beira Interior
 - Auto-estrada da Beira Litoral- Beira ALTA
+- Auto-estrada da Costa de Prata
 - Auto-estrada do Algarve
+- Auto-estrada do Grande Porto
 - Auto-estrada do Interior Norte
 - Auto-estrada Norte-litoral
+- Empresa
+- Isenção de Portagem
+- Pagamento
+- Portagem
+- SCUT
 relationships:
 - type: cites
   target: celex:31999L0062
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1033-a/2010/10/06/p/dre
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:51Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +147,9 @@ Os artigos 3.º e 5.º da Portaria n.º 1033-A/2010, de 6 de outubro, passam a t
 
 6 - A área de influência das autoestradas a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 111/2011, de 28 de novembro, encontra-se descrita no anexo à presente portaria e que dela faz parte integrante, e corresponde à área dos concelhos inseridos numa nomenclatura das unidades territoriais estatísticas de nível 3 (NUTS III), nos termos definidos pelo Decreto-Lei n.º 68/2008, de 14 de abril, alterado pelo Decreto-Lei n.º 85/2009, de 3 de abril, e pela Lei n.º 21/2010, de 23 de agosto, em qualquer parte do território dessa NUTS que fique a menos de 20 km dos lanços e sublanços da autoestrada.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O regime de discriminação positiva previsto na presente portaria é aplicável até 30 de setembro de 2012.
 
@@ -163,7 +165,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 10 de julho de 2012.
 
-**A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.**
+A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
 
 ## ANEXO — (a que se refere o n.º 6 do artigo 3.º)
 

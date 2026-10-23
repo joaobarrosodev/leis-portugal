@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285-a/2025/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8e76396b63780bd048677a9112c4feff0e6fab1a2e50991674f14f3f1c2b7f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e2a810afd60082b567cae60cf79d8fbff7759fd47edabdef7a4ed1666cfaaa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Ensino não Superior
-- Regulamentação de Atos Legislativos
 - Direção Geral da Administração Escolar
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino Básico
 - Ensino Cooperativo
+- Ensino não Superior
 - Ensino Particular
 - Ensino Secundário
-- Direção Geral dos Estabelecimentos Escolares
 - Estabelecimento de Ensino
-- Ensino Básico
+- Financiamento
+- Regulamentação de Atos Legislativos
 - Subsídio
 relationships:
+- type: amends
+  target: pt:numero:portaria:172-A/2015
+  label: Altera, a partir de 14 de agosto de 2025, nos termos do artigo 3.º do presente diploma, o artigo 16.º da Portaria
+    n.º 172-A/2015, de 5 de junho, Diário da República n.º 109/2015, 1º Suplemento, Série I
+  source: null
+  date: '2015-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
   label: null
@@ -94,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/176-a/2024/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/176-a/2024/07/30/p/dre
+- type: cites
+  target: pt:dre:107038204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67429780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873920265:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:50Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +136,13 @@ de 13 de agosto
 
 A [Portaria n.º 172-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780), de 5 de junho, na sua redação atual, fixa as regras e os procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, nos termos dos artigos 16.º e seguintes do Estatuto do Ensino Particular e Cooperativo (EPPC), aprovado pelo [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual.
 
-Considerando que a regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, de acordo com o disposto nos artigos 9.º, n.º 4, e 17.º, n.<sup>os</sup>1 e 3, do EPPC;
+Considerando que a regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, de acordo com o disposto nos artigos 9.º, n.º 4, e 17.º, n.os1 e 3, do EPPC;
 
 Considerando que, em 2024, o Índice de Preços no Consumidor (IPC) registou uma variação média anual de 2,4 %, importa proceder à atualização do valor do apoio financeiro a conceder, no âmbito de contratos de associação, por turma e por ano escolar:
 
 Assim:
 
-Nos termos do disposto na alínea c) do n.º 1 e no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.<sup>os</sup>1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado pelo [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
+Nos termos do disposto na alínea c) do n.º 1 e no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.os1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado pelo [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -146,4 +168,6 @@ O valor do apoio financeiro a conceder, por turma e por ano escolar, nos termos 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de agosto de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de agosto de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de agosto de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de agosto de 2025.
+
+119433012

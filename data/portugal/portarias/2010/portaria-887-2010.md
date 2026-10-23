@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/887/2010/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-2010-341448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b8ba54f4b6cc788f8f0b6c3668566d88cedf703606e384b1906b800a8c1546
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 988909da96ec396b7dfe779935fb72edc3b07bff33bd546d3a9d820f0ed7bac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Extinção de Serviços
 - Integração de Trabalhadores
+- Oeiras
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
+- Reestruturação de Serviços
 - Repartição de Finanças
-- Oeiras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/225/1995/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/225/1995/03/27/p/dre
+- type: cites
+  target: pt:dre:172965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655311:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:00Z'
   warnings: []
   errors: []
 ---
@@ -143,16 +155,16 @@ O quadro de contingentação do Serviço de Finanças de Oeiras 1, no que respei
 
 A entrada em funcionamento dos novos serviços de finanças do concelho de Oeiras terá lugar em data a fixar por despacho do director-geral dos Impostos a publicar na 2.ª série do Diário da República.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Setembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Setembro de 2010.
 
 ## ANEXO — Mapa I
 
 (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf)
 
 Mapa II
 
 (a que se refere o artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17800/0405104051.pdf)

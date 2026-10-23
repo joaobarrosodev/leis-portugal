@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 332-(401) a 332-(411)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0040100411.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54-n/2023/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-n-2023-207942908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ffaaf71167929e34e0dc58ed7ea64bb3f01c9078b611b1b3a0bad9877e3c0fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58cfa948bc5f8eb3178b772fa145c7e9ce62aa57fd847410983649325a3a0c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Aproveitamento Hidroagrícola
 - Associação de Agricultores
 - Associação de Regantes
-- Direção Geral de Agricultura e Desenvolvimento Rural
+- Autoridade Nacional de Regadio
 - Cooperativa Agrícola
 - Definição de Competências
-- Autoridade Nacional de Regadio
-- Aproveitamento Hidroagrícola
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Entidade Reconhecedora de Regante
 - Sistema de Reconhecimento de Regantes
 - Título de Regante
-- Entidade Reconhecedora de Regante
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2019/08/21/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/136/2015/05/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/136/2015/05/19/p/dre
+- type: cites
+  target: pt:dre:124097549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67239768:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:28Z'
   warnings: []
   errors: []
 ---
@@ -358,7 +374,9 @@ e) Prática dos atos previstos no n.º 2 do artigo 9.º
 
 5 - A revogação da autenticação das entidades reconhecedoras, nos termos dispostos nos n.os 2 e 3, não prejudica os títulos de regante já atribuídos, devendo os regantes recorrer, a partir da data da revogação da autenticação, a outra entidade reconhecedora para assegurarem a manutenção do seu título.
 
-### CAPÍTULO III — Título de Regante
+### CAPÍTULO III
+
+## Título de Regante
 
 ###### Artigo 12.º — Condições de acesso ao Título de Regante
 
@@ -514,10 +532,12 @@ i) Conservar os comprovativos da aquisição de fertilizantes, bem como os bolet
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
 
 ## ANEXO — [a que se refere o n.º 2 do artigo 12.º e alíneas o) e p) do n.º 3 do artigo 14.º]
 
 Tabela de compromissos específicos por Tipologia de Regante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04101/0040100411.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04101/0040100411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04101/0040100411.pdf)
+
+116207414

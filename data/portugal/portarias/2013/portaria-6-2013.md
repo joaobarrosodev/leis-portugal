@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0013000132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6/2013/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-2013-588801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b32904472940d6bb93494dbc31d4a507c8229c13b95ab0e13c9e32687f25423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43e768f227a677ed1deddd4a27ff2f4686ef09cb4ad7bc61b328989d6317e7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Contribuições e Impostos
 - Declaração de Rendimentos
+- Documento Eletrónico
 - Formulário Eletrónico
 - Impresso
-- Contribuições e Impostos
 - IRS
-- Documento Eletrónico
 - Remuneração
 - Retenção na Fonte
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:114610497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105770334:por
+  label: Alterado o art. 2.º, pelo(a) Portaria n.º 31/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18 nos termos
+    do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-2017-105770334
+  date: '2017-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
@@ -88,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/426-c/2012/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/426-c/2012/12/28/p/dre
+- type: cites
+  target: pt:dre:401018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:595118:por
+  label: "Revogadas, a partir de 25.01.2014, as instruções de preenchimento aprovadas pelo presente diploma, pela PORT.15-A/2014.24.01.2014.MF,\
+    \ DR.IS [17-Supl] de 24.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-a-2014-595118
+  date: '2014-01-24'
+- type: repealed_by
+  target: pt:dre:114610497:por
+  label: Revogado o presente diploma, na redação da Port 31/2017 de 18-jan, pelo(a) Portaria n.º 40/2018 - Diário da República
+    n.º 22/2018, Série I de 2018-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-2018-114610497
+  date: '2018-01-31'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:16Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +172,6 @@ b) Efetuar o envio de acordo com os procedimentos indicados nas referidas págin
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 8 de janeiro de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 8 de janeiro de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00700/0013000132.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00700/0013000132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00700/0013000132.pdf)

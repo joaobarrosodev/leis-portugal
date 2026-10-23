@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14600/0007900090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-2023-216323576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26d60b357380fc2645c34a4c93de79bf7a06d5e7909992c4eb3b1e9d60048491
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a20fcdeef7b0766d5fa872d7033898980ad5f77d27a4491d29383a0ecce1260
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
+- Açores
+- Apoio ao Investimento
+- Auxílio de Minimis
+- Conteúdo Digital
+- Cultura
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
 - Divulgação Cultural
-- Auxílio de Minimis
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
 - Formulário Eletrónico
-- Apoio ao Investimento
 - Gabinete de Estratégia Planeamento e Avaliação Culturais
+- Indústria do Livro
 - Literatura
 - Livraria
-- Indústria do Livro
-- Cultura
 - Madeira.região Autónoma
+- Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Regulamento CE
-- Açores
-- Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Conteúdo Digital
 relationships:
 - type: cites
   target: celex:32011L0065
@@ -146,16 +146,52 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:03Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +226,7 @@ Assim, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 6/2015](https://
 
 A presente portaria produz os seus efeitos a partir da data da sua assinatura.
 
-**A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro, em 10 de julho de 2023.**
+A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro, em 10 de julho de 2023.
 
 ## ANEXO
 
@@ -496,7 +532,7 @@ O incumprimento das obrigações do beneficiário bem como a inexistência ou a 
 
 ## ANEXO I — Despesas elegíveis e intensidade de auxílios por medida de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14600/0007900090.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14600/0007900090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14600/0007900090.pdf)
 
 ## ANEXO II
 
@@ -515,3 +551,5 @@ Excecionam-se das atividades excluídas as que:
 a) Cumpram os requisitos definidos no [Decreto-Lei n.º 12/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2011-280914), de 24 de janeiro, na sua redação atual, quanto à sua conceção ecológica, sempre que aplicável, e seja assegurado que não contêm as substâncias perigosas listadas no anexo ii da [Diretiva 2011/65/EU](http://data.europa.eu/eli/dir/2011/65/oj?locale=pt) do Parlamento Europeu, na sua redação atual, transposta pelo [Decreto-Lei n.º 79/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2013-496704), de 11 de junho, na sua redação atual, exceto quando as concentrações por peso não ultrapassam os valores estabelecidos no mesmo;
 
 b) Os equipamentos de tecnologias de informação e comunicação e outros estejam abrangidos por um plano de gestão de resíduos que deve incluir ainda especificações técnicas relativas à durabilidade, reparabilidade e reciclabilidade dos equipamentos elétricos e eletrónicos a adquirir e instalar (equipamento informático, de som e de projeção, equipamentos de cobertura de redes sem fios, etc.), de acordo com as especificações do [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, na sua redação atual, e do [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, na sua redação atual.
+
+116714378

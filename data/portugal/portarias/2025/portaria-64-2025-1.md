@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04100/0002500027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64/2025/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2025-909113636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a0236270bcb05c6ee5290502245efc0c304bab40429d78b9ea9a8b9b567f7fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ae0ee0f9d7f5de35c73dcca806692a1136ef4f0474224f281f1b821d2774df7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato Coletivo de Trabalho
-- Regime Laboral
 - Convenção Coletiva de Trabalho
 - Entidade Patronal
 - IPSS
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
@@ -89,16 +89,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194121:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:10Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +141,7 @@ Neste contexto, ponderadas as circunstâncias sociais e económicas justificativ
 
 Considerando que a convenção tem por âmbito geográfico de aplicação o território nacional, com exceção da Região Autónoma dos Açores, e que a extensão de convenção coletiva nas Regiões Autónomas compete aos respetivos Governos Regionais, a presente portaria apenas é aplicável no território do Portugal continental.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup>2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do pedido de emissão de portaria de extensão, que é posterior à data do depósito da convenção, e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do pedido de emissão de portaria de extensão, que é posterior à data do depósito da convenção, e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 27, de 18 de dezembro de 2024, ao qual deduziu oposição a APM-RedeMut - Associação Portuguesa de Mutualidades.
 
@@ -151,4 +171,6 @@ b) Às relações de trabalho entre instituições particulares de solidariedade
 
 2 - As tabelas salariais e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de agosto de 2024.
 
-**O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 24 de fevereiro de 2025.**
+O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 24 de fevereiro de 2025.
+
+118734591

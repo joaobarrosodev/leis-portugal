@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2024/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2024-838972841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6658a95145ed5e206ce9b2191eabc222d13996dad7f03b05cdc20c0935b8e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09ebcdc4d74413f6a636a988185a0d64e0828c318dc3b657dbf4ff9e8afb1654
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Escolas
-- REDE Escolar
+- Direção Geral dos Estabelecimentos Escolares
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
 - Ensino Secundário
-- Direção Geral dos Estabelecimentos Escolares
 - Estabelecimento de Ensino
-- Ensino Básico
-- Educação Pré-escolar
+- REDE Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:12Z'
   warnings: []
   errors: []
 ---
@@ -135,22 +151,24 @@ e) Estabelecimentos de ensino não agrupados.
 
 As escolas básicas às quais foi concedida autorização excecional de funcionamento para o 1.º ciclo do ensino básico até ao final do presente ano letivo, num total de 41, são as constantes do anexo ii à presente portaria, que dela faz parte integrante.
 
-**O Secretário de Estado da Educação, António de Oliveira Leite, em 11 de janeiro de 2024.**
+O Secretário de Estado da Educação, António de Oliveira Leite, em 11 de janeiro de 2024.
 
 ## ANEXO I — Estabelecimentos de ensino agrupados
 
 (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf))](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
 
 Estabelecimentos de ensino não agrupados
 
 (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf))](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
 
 ## ANEXO II — Escolas básicas com autorização excecional de funcionamento para o 1.º Ciclo do ensino básico até ao final do ano letivo 2023-2024
 
 (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf))](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/01800/0001300208.pdf)
+
+117241614

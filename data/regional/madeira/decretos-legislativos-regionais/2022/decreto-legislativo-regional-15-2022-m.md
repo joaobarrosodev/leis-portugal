@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14500/0000900017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2022/07/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b33972909d42320bc016e866eec414dab48f191a70d811a6f84d55ea26369f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e158ccf834cac440750524d65d2d23683353d7f35ccda7e1f0c800201615213d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Património
-- Modernização Administrativa
-- Fiscal Único
-- Pessoal Dirigente
-- Gestão Financeira
-- Governo Regional
+- Administração Pública
+- Agência de Inovação e Modernização da Região Autónoma da Madeira
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
+- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
 - Estatuto
-- Administração Pública
 - Estudante
 - Extinção de Serviços
-- Conselho Diretivo
+- Fiscal Único
+- Funchal
+- Gabinete de Gestão da LOJA do Cidadão
+- Gestão Financeira
+- Governo Regional
 - Instituto Público
 - Integração de Trabalhadores
 - Jornal Oficial
-- Publicitação
-- Gabinete de Gestão da LOJA do Cidadão
-- Orgânica
-- Funchal
+- Loja do Cidadão
 - Madeira.região Autónoma
+- Modernização Administrativa
+- Orgânica
+- Património
+- Pessoal Dirigente
+- Plano de Ação para a Transição Digital
+- Publicitação
+- Reestruturação de Serviços
 - Regime de Pessoal
 - Serviço de Atendimento ao Cidadão
-- Loja do Cidadão
 - Subsídio de Deslocação
 - Subsídio de Insularidade
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
-- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
-- Plano de Ação para a Transição Digital
-- Agência de Inovação e Modernização da Região Autónoma da Madeira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
@@ -139,16 +139,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136053638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174357145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:34Z'
   warnings: []
   errors: []
 ---
@@ -455,10 +523,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 25 de julho de 2022.**
+Assinado em 25 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+115553412

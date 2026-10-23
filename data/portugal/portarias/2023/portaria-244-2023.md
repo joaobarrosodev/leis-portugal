@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-2023-216323582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 046beec6de24dbde35c792f268da011eba2ec7f9e074ec145b7dc2f6524ae873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 409bd5627c2710202ca98f6fc9f31e7181230ad5f51374d3ce8a5378729a2326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
 - Cortiça
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Exploração Agrícola
+- Exploração Florestal
 - Feader
 - Feaga
+- Financiamento
 - Fundos CE
-- Pagamento
 - IFAP
-- Exploração Agrícola
+- Medida N.º 4 Valorização dos Recursos Florestais
+- Pagamento
 - Página na Internet
-- Exploração Florestal
+- PDR 2020
 - Pequenas e Médias Empresas
+- PORTUGAL 2020
+- Proder
+- Produto Agrícola
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Agricultura
 - Sector Florestal
 - Subsídio
-- Produto Agrícola
-- PDR 2020
-- PORTUGAL 2020
-- Medida N.º 4 Valorização dos Recursos Florestais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -133,16 +133,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61-a/2018/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61-a/2018/02/28/p/dre
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114787303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117343947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122279884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74539106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:06Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +231,9 @@ a) Abate, rechega, concentração, triagem e transporte de material lenhoso, inc
 
 b) Primeira transformação da madeira, da biomassa florestal residual e da resina.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -195,7 +249,9 @@ d) (Revogada.)
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os apoios previstos na presente portaria revestem a forma de subvenção não reembolsável para os investimentos elegíveis até 2 milhões de euros por beneficiário, e de subvenção reembolsável para a parte do investimento elegível que ultrapasse aquele valor.
 
@@ -209,22 +265,30 @@ d) (Revogada.)
 
 6 - [...]
 
-## ANEXO III — Despesas Elegíveis e não elegíveis
+ANEXO III
+
+Despesas Elegíveis e não elegíveis
 
 (a que se refere o artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf)
 
 Despesas não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14600/0010800113.pdf)
 
-###### Artigo 3.º — Norma Revogatória
+Artigo 3.º
+
+Norma Revogatória
 
 É revogada a alínea d) do n.º 1 do artigo 15.º da [Portaria n.º 150/2016](https://diariodarepublica.pt/dr/detalhe/portaria/150-2016-74539106), de 25 de maio.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 25 de julho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 25 de julho de 2023.
+
+116720639

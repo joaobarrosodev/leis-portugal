@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/96/2011/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-2011-279425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99589c1a8dfe91193092c48843589cedcba3329d2296a6bcc0419b52a8c80b2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea38dc6d9fd72f931ff84890e8b5495423fd013c26b75dc642c8118cafe34e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Financiamento
-- Doença Animal
-- Gado Caprino
-- Direção Geral de Veterinária
-- Definição de Competências
 - Controlo Sanitário
-- PNSA
+- Definição de Competências
+- Direção Geral de Veterinária
+- Doença Animal
 - Exploração Pecuária
+- Financiamento
 - Gado Bovino
-- Organização de Produtores
+- Gado Caprino
 - Gado Ovino
+- Organização de Produtores
 - Pecuária
-- Veterinário
+- PNSA
+- Produção Animal
 - Saúde Animal
+- Veterinário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/178/2007/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/178/2007/02/09/p/dre
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:16Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +158,9 @@ c) Acerto final, após a conclusão do programa sanitário anual até 31 de Deze
 
 9 - A apresentação do último pedido de pagamento referente ao acerto final referido na alínea c) do n.º 6 deverá ocorrer no prazo de 30 dias após a conclusão do programa sanitário, não podendo ultrapassar o dia 31 de Janeiro do ano civil seguinte.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -168,4 +174,4 @@ b) ...
 
 c) 100 %, se o envio do último pedido de pagamento ocorrer após o final de Fevereiro do ano civil seguinte à execução do programa sanitário.»
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 23 de Fevereiro de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 23 de Fevereiro de 2011.

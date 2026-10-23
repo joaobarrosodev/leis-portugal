@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05100/0144301446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/2011/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-2011-278191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6640ee58fccad1286ce3bd9feb5218acc8a7eafcffc4c6f9a12ff95effa54b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f06f12d06dfe2bd72f2a0d88e7b03d95c7008401dd2bff296ff6d173a0a672
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armamar
-- Vinho
-- Indicação Geográfica
+- Certificado de Qualidade
+- Comércio
+- Controlo de Qualidade
 - Denominação de Origem
 - Entidade Certificadora
-- Controlo de Qualidade
-- Região Demarcada
 - Etiquetagem
+- Indicação Geográfica
 - Lamego
-- Certificado de Qualidade
 - Marca Registada
 - Moimenta da Beira
 - Penedono
+- Produto Vitivinícola
+- Região Demarcada
 - são JOÃO da Pesqueira
 - Sernancelhe
 - Tabuaço
 - Tarouca
-- Comércio
-- Produto Vitivinícola
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -108,16 +108,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/2007/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/2007/02/27/p/dre
+- type: cites
+  target: pt:dre:280482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551981:por
+  label: "Revogada pela PORT.151/2012.18.05.2012.MAMAOT, DR.IS [97] de 18.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/151-2012-551981
+  date: '2012-05-18'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:41Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +213,9 @@ As castas a utilizar na elaboração dos vinhos abrangidos pelo presente diploma
 
 3 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação de origem ou indicação geográfica disciplinadas pela presente portaria, o IVDP, I. P., estabelecerá as condições em que decorrerá a vinificação, devendo os referidos vinhos ser conservados em recipientes com a devida identificação, de que constem, nomeadamente, as indicações relativas ao volume do recipiente, à espécie de vinho contido e ao ano de colheita.
 
-###### Artigo 9.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 9.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Os mostos destinados aos vinhos abrangidos pela presente portaria devem possuir um título alcoométrico volúmico natural mínimo de:
 

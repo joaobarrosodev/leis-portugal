@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/23900/0966809670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2015/12/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2015-72821660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c834fe6c55bce91466bb2fa9fc68b6c2050839c76120cdc553a6db70b886081f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b85afc51f7b3b122e06434ca9bf97e200dcd9cccc17a4389bff8ff56806e7ac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Secretaria Regional da Saúde
-- Política de Saúde
-- Medicina de Urgência
-- Lista de Espera
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
-- Programa
-- Madeira.região Autónoma
 - Cirurgia
+- Definição de Competências
 - Doença
+- Financiamento
+- Lista de Espera
+- Madeira.região Autónoma
+- Medicina de Urgência
+- Política de Saúde
+- Programa
+- Secretaria Regional da Saúde
 - Serviço Regional de Saúde
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 relationships:
 - type: amended_by
   target: pt:dre:106630891:por
@@ -107,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/271/2012/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/271/2012/09/04/p/dre
+- type: cites
+  target: pt:dre:174853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:53Z'
   warnings: []
   errors: []
 ---
@@ -271,10 +295,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 30 de novembro de 2015.**
+Assinado em 30 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

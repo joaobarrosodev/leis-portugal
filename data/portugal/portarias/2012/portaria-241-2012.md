@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/2012/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-2012-175172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ecfbbcb5cbfcabb0dace7ca5c91755fd571d60db5eba3d50f0094f6715fdb3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47744798b9d969090c5358c870c4abe2580894d4844366fae2ad22eb7b81b6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,16 +125,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/246/2011/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/246/2011/06/22/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499498:por
+  label: "Revogada pela PORT.281/2013.28.08.2013.MF, DR.IS [165] de 28.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2013-499498
+  date: '2013-08-28'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:03Z'
   warnings: []
   errors: []
 ---
@@ -195,10 +248,10 @@ Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais S
 
 (n.º 1 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf)
 
 ## ANEXO II — Tabela aplicável em 2012
 
 (n.os 2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15500/0431604317.pdf)

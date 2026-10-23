@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19300/0002700028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/300/2023/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-2023-222421862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 150dc3e70f17f894e0689339786540868b1127c98b66b1b22a132f079d51e334
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1acb0878afc11128f22901f122db3726889a73d2373d81ce0d73ac837a136ce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Energia Elétrica
-- Política Energética
 - Entidade Reguladora dos Serviços Energéticos
+- Política Energética
 - Produção de Energia Elétrica
 - Remuneração
 - Sistema Elétrico Nacional
@@ -87,16 +87,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2021/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2021/06/30/p/dre
+- type: cites
+  target: pt:dre:166099799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211911921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:29Z'
   warnings: []
   errors: []
 ---
@@ -167,4 +187,6 @@ Mantêm-se em vigor os diferimentos já considerados nas tarifas de energia elé
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 29 de setembro de 2023.**
+A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 29 de setembro de 2023.
+
+116910932

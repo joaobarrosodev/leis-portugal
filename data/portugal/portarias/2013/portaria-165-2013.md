@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/08100/0262402627.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/165/2013/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/165-2013-260899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b32698608da5dba9fba9ec8577ceb6f08386f49e9dd8b52225d9dac755e2e64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 546aaee2a4f4896d08da9492061f253d7a2a8f3757fa6cf4a43dbacd24d91a1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Vegetal
 - Contra-ordenação
 - Direção Geral de Alimentação e Veterinária
-- Saúde Pública
+- Doença Vegetal
 - Página na Internet
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produto Agrícola
 - Produto Vitivinícola
-- Vitivinicultor
+- Proteção Fitossanitária
+- Saúde Pública
 - Vinha
+- Vitivinicultor
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:220113540:por
@@ -92,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/976/2008/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/976/2008/09/01/p/dre
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453477:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220113540:por
+  label: Revogado, a partir de 22.08.2023, o presente diploma pelo(a) Portaria n.º 267/2023 - Diário da República n.º 161/2023,
+    Série I de 2023-08-21 nos termos do art. 15.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2023-220113540
+  date: '2023-08-21'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:54Z'
   warnings: []
   errors: []
 ---
@@ -240,4 +254,4 @@ O acompanhamento e a avaliação das medidas de proteção fitossanitária previ
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Alimentação e da Investigação Agroalimentar, Alexandre Nuno Vaz Baptista de Vieira e Brito, em 12 de abril de 2013.**
+O Secretário de Estado da Alimentação e da Investigação Agroalimentar, Alexandre Nuno Vaz Baptista de Vieira e Brito, em 12 de abril de 2013.

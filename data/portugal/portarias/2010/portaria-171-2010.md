@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/171/2010/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-2010-611340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b10dd473abc90f9a68672bab4646af0b39592a29dd612ac87b7973d5bb93f2ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e5b2753b85a3d870312aef208afff9ad59f2916b9c6df2a147f8ae6c64b1f83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,22 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Campanha Vinícola
-- Vinho
-- Reconversão da Produção
 - Projeto de Investimento
+- Reconversão da Produção
 - Regime de Apoio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:668537:por
+  label: "Alterados os art.s 6º e 14º da Port 1144/2008, de 10-Out, pela PORT.281/2011.17.10.2011.MAMAOT, DR.IS [199] de 17.10.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2011-668537
+  date: '2011-10-17'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -87,16 +93,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 1144/2008 de 10-out, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013, sem prejuízo do disposto no n.º 1 do art. 21.º desta \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:47Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +149,9 @@ b) ...
 
 3 - As candidaturas apresentadas pelas entidades a que se refere a subalínea ii) e as candidaturas agrupadas referidas na subalínea iii), ambas da alínea b) do n.º 1 do artigo 6.º, não ficam sujeitas aos limites de área das parcelas definidos no anexo i.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +175,9 @@ iii) Candidaturas agrupadas, de três ou mais viticultores, podendo as parcelas 
 
 4 - Caso um proponente de uma candidatura agrupada seja excluído ou apresente um pedido de desistência e se, por esse motivo, a área a reestruturar for inferior à área mínima exigida na subalínea iii) da alínea b) do n.º 1, poderá a referida candidatura ser reformulada, desde que os restantes proponentes sejam detentores dessa área mínima.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -181,7 +197,9 @@ b) ...
 
 4 - Nas candidaturas conjuntas, a majoração das ajudas prevista no n.º 2.2 do n.º 2 do anexo ii e no n.º 2.2 do n.º 2 do anexo iii da presente portaria passa para 15 %, no caso de ser apresentado o pedido de pagamento antecipado, nos termos da alínea b) do n.º 1.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 No caso de candidaturas conjuntas, aplicam-se as regras referidas no artigo anterior, por viticultor, mas a majoração de 10 %, referida nos n.os 2.2 do n.º 2 dos anexos ii e iii, ou de 15 %, nas candidaturas conjuntas que solicitaram pedido de pagamento antecipado, é retirada a todos os viticultores abrangidos na candidatura conjunta, independentemente do facto de a inexecução se verificar apenas em relação a um deles, mas apenas se a superfície efectivamente reestruturada for inferior a 80 % da totalidade da área aprovada na candidatura conjunta.»
 

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1531955:por
-title: Portaria n.º 1391/2001(2.ªsérie)
+title: Portaria n.º 1391/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1391-2001-1531955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b454fffb13a6a3c29fe15ea4a037a9c21ca2d06a97d3f1ba1659aed0e1c7b57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327a81c62306a66a3539d6809330bdea07e627d9d87083b2122b7db966af9384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Figueira da Foz
 relationships:
 - type: amended_by
   target: pt:dre:2070957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2070957:por
+  label: "Prorrogado o prazo estabelecido no nº 4 pela PORT.580/2005(2ªSérie).06.05.2005.SETF-MFAP, DR.IIS [98] de 20.05.2005.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-2005-2070957
+  date: '2005-05-06'
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:17:03Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1391/2001(2.ªsérie)
+# Portaria n.º 1391/2001 (2.ª série)
 
 Portaria n.º 1391/2001 (2.ª série). - O Clube Desportivo da Costa de Lavos, Figueira da Foz, solicitou a cedência, a título definitivo da Casa do Guarda Florestal da Costa de Lavos, moradia D-167, e do terreno envolvente, com a área de 2900 m2, sita na Mata Nacional da Leirosa, freguesia de Lavos, concelho da Figueira da Foz, para construir um polidesportivo, para a prática de futebol de 5, bem como outras modalidades. A moradia encontra-se inscrita na matriz predial urbana da freguesia de Lavos sob o artigo 1462 e registada na 2.ª Conservatória do Registo Predial da Figueira da Foz, com a descrição n.º 06648/131299 e inscrição a favor do Estado Português G-1. O terreno, com a área de 2900 m2, encontra-se inscrito na matriz predial da freguesia de Lavos sob o artigo 1 e descrito na Conservatória do Registo Predial da Figueira da Foz sob o n.º 57 008, a fl. 69 do livro B-147.
 
@@ -104,6 +118,6 @@ Manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
 
 26 de Julho de 2001. - O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2001/08/192000000/1398013981.pdf))](https://files.diariodarepublica.pt/2s/2001/08/192000000/1398013981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/08/192000000/1398013981.pdf)
 
 Nota. - Bálnearios - edifícios existentes, bastante degradados, a recuperar para os fins a que se destinam.

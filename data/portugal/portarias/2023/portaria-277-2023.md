@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17300/0001800024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/277/2023/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-2023-221327587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1126086c5bea6dea4cadbfa7904e12775507d778dc64023ea0b7ed16fd4b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 904a10304b5dd2b19c4fed8bdcb06c67fc295436f8493b201ac62c9f2d9f998d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Ajuda Comunitária
-- Silvicultura
-- Doença Vegetal
-- Regulamentação de Atos Legislativos
-- Nemátodo
+- Apoio ao Investimento
 - Arborização
+- Documento Eletrónico
+- Doença Vegetal
+- Exploração Florestal
+- Formulário Eletrónico
+- Fundos CE
+- Instituto da Conservação da Natureza e das Florestas
+- Investimento
+- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Nemátodo
+- Ordenamento Florestal
+- Página na Internet
+- PDR 2020
+- Plano de Gestão Florestal
+- Projeto de Investimento
 - Proteção da Floresta
 - Reconversão da Produção
-- Formulário Eletrónico
-- Apoio ao Investimento
-- Projeto de Investimento
-- Fundos CE
-- Investimento
-- Documento Eletrónico
-- Instituto da Conservação da Natureza e das Florestas
-- Ordenamento Florestal
-- Plano de Gestão Florestal
-- Página na Internet
-- Exploração Florestal
-- Agricultor
 - Regime de Apoio
-- PDR 2020
-- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Regulamentação de Atos Legislativos
+- Silvicultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2019/08/
@@ -130,16 +130,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/58/2019/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/58/2019/02/11/p/dre
+- type: cites
+  target: pt:dre:114515398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114944613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115132064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115678437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116236989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117343947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118894326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118894327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119386285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119386291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120847469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130366458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177160279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211443517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214100365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:20Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +346,9 @@ b) O PGF integra todos os elementos técnicos resultantes da análise realizada,
 
 6 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +392,9 @@ b) O PGF integra todos os elementos técnicos resultantes da análise realizada,
 
 5 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -350,7 +478,9 @@ b) O PGF integra todos os elementos técnicos resultantes da análise realizada,
 
 6 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -378,7 +508,9 @@ b) O PGF integra todos os elementos técnicos resultantes da análise realizada,
 
 6 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -418,4 +550,6 @@ b) O PGF integra todos os elementos técnicos resultantes da análise realizada,
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de 31 de maio de 2023.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de setembro de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de setembro de 2023.
+
+116819987

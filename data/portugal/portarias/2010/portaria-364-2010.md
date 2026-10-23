@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12000/0222302225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/2010/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-2010-335227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73ce324a41ab47950a4d3e384ea7fb936b5b94b311b623b49f656e42a308f65d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: facd85ab1e5dcde63bf7d706c14b65939d364a75a45ef396c7a0ec7e8a085626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão
 - Comparticipação do Estado
 - Diabetes
-- Serviço Nacional de Saúde
-- Comissão
 - Embalagem
 - Meios Complementares de Diagnóstico
-- Programa de Controlo da Diabetes Mellitus
 - Ministério da Saúde
+- Programa de Controlo da Diabetes Mellitus
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/253-a/2008/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/253-a/2008/04/04/p/dre
+- type: cites
+  target: pt:dre:307842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58728917:por
+  label: Revogada, a partir de 09.11.2014, pelo(a) Portaria n.º 222/2014 - Diário da República n.º 213/2014, Série I de 2014-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-2014-58728917
+  date: '2014-11-04'
+- type: repeals
+  target: pt:numero:despacho:12566-B/2003
+  label: "Revoga o Despacho n.º 12566-B/2003, de 30 de Junho, DR.IIS [148]Supl \0\0"
+  source: null
+  date: '2003-06-30'
+- type: repeals
+  target: pt:numero:portaria:253-A/2008
+  label: "Revoga a Portaria n.º 253-A/2008, de 4 de Abril, DR.IS [67]Supl\0\0"
+  source: null
+  date: '2008-04-04'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:55Z'
   warnings: []
   errors: []
 ---

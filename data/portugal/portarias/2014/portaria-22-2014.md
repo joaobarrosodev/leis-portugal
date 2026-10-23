@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/2014/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-2014-570725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ee00f1981f52e6444cc382c7619d99c4440df731c4b1232ba05b47093297cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 150d6ed6ae4f2cf966b8690d369014c6d082ee6d2774247711caa77074343e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Militar
 - Acesso à Educação
 - Aluno Militar
-- Exército
-- Ensino Superior Militar
+- Conselho do Ensino Superior Militar
 - Definição de Competências
 - Ensino Oficial
-- Conselho do Ensino Superior Militar
+- Ensino Superior
+- Ensino Superior Militar
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Estatuto
-- Academia Militar
 - Estudante
-- Países de Língua Portuguesa
+- Exército
+- Forças Armadas
+- GNR
 - Licenciatura
 - Mestrado
-- GNR
-- Forças Armadas
+- Militar
 - Orgânica
-- Estabelecimento de Ensino
+- Países de Língua Portuguesa
 - Pessoal Docente
 - Regulamento
-- Ensino Superior
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:1073606543:por
@@ -120,16 +120,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/425/1991/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/425/1991/05/24/p/dre
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1073606543:por
+  label: Revogada pelo(a) Decreto Regulamentar n.º 5/2026 - Diário da República n.º 54/2026, Série I de 2026-03-18 nos termos
+    dos artigos 85.º e 86.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2026-1073606543
+  date: '2026-03-18'
 article_structure:
   article_count: 185
   section_count: 60
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:34Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +196,7 @@ Nos termos do disposto no artigo 34.º do [Decreto-Lei n.º 37/2008](https://dia
 
 É revogada a [Portaria n.º 425/91](https://diariodarepublica.pt/dr/detalhe/portaria/425-1991-644367), de 24 de maio.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 15 de janeiro de 2014.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -2914,16 +2948,16 @@ b) As sanções de detenção escolar são convertidas em proibição de saída,
 
 1. Organograma I - Comando da AM e Órgãos de Conselho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
 
 2. Organograma II - Direção de Ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
 
 3. Organograma III - Corpo de Alunos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
 
 4. Organograma IV - Direção dos Serviços Gerais e de Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0080400839.pdf)

@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1980-471145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6151738ec94e90168ecb00d9b4620b2182d03cab5119af3f137d5cf7804d5a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e90b2a16a661f5b31d814b87c032f02a9e73ab28a44867212fb621d9159af3cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Madeira.região Autónoma
+- Regime de Colónia
 relationships:
 - type: amended_by
   target: pt:dre:309737:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:38Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +120,13 @@ Assim:
 
 Nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do artigo 55.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º O conjunto dos artigos 6.º, n.º 1, 7.º e 9.º, é substituído pelo seguinte conjunto de artigos:
+Artigo 1.º O conjunto dos artigos 6.º, n.º 1, 7.º e 9.º, é substituído pelo seguinte conjunto de artigos:
 
-###### Art. 6.º - 1 - Para efeito de registo, tem-se como justificada a propriedade de benfeitorias não descritas se no respectivo título de aquisição do terreno o adquirente se afirmar, com exclusão de outrem, dono delas e o transmitente e dois outros outorgantes confirmarem aquela afirmação.
+Art. 6.º - 1 - Para efeito de registo, tem-se como justificada a propriedade de benfeitorias não descritas se no respectivo título de aquisição do terreno o adquirente se afirmar, com exclusão de outrem, dono delas e o transmitente e dois outros outorgantes confirmarem aquela afirmação.
 
-###### Art. 7.º O registo das benfeitorias considera-se efectuado, face ao título referido no artigo anterior, por declaração feita na própria descrição ou em averbamento à mesma de que o prédio consta de terra com suas benfeitorias, averbando-se também a respectiva inscrição matricial e inscrevendo-se a aquisição do terreno como prédio livre.
+Art. 7.º O registo das benfeitorias considera-se efectuado, face ao título referido no artigo anterior, por declaração feita na própria descrição ou em averbamento à mesma de que o prédio consta de terra com suas benfeitorias, averbando-se também a respectiva inscrição matricial e inscrevendo-se a aquisição do terreno como prédio livre.
 
-###### Art. 9.º As remissões, quando não resultem de negócios titulados por escritura pública, devem ser feitas em acção judicial, que seguirá a forma do processo urgente regulada no Código das Expropriações por Utilidade Pública, com as necessárias adaptações e as modificações seguintes:
+Art. 9.º As remissões, quando não resultem de negócios titulados por escritura pública, devem ser feitas em acção judicial, que seguirá a forma do processo urgente regulada no Código das Expropriações por Utilidade Pública, com as necessárias adaptações e as modificações seguintes:
 
 a) A fase administrativa correrá perante a Secretaria da Coordenação Económica do Governo da Região Autónoma da Madeira, que, para efeitos processuais, é considerada entidade expropriante;
 
@@ -129,12 +148,12 @@ i) O levantamento das quantias devidas aos interessados está isento de custas e
 
 j) O pagamento da indemnização não poderá ser feito em prestações.
 
-###### Art. 2.º São revogados o artigo 13.º do Decreto Regional n.º 16/79/M, de 14 de Setembro, e o n.º 3 do artigo 22.º do [Decreto Regional n.º 13/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085), de 18 de Outubro.
+Art. 2.º São revogados o artigo 13.º do Decreto Regional n.º 16/79/M, de 14 de Setembro, e o n.º 3 do artigo 22.º do [Decreto Regional n.º 13/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085), de 18 de Outubro.
 
 Aprovado em sessão plenária de 24 de Junho de 1980.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 11 de Julho de 1980.**
+Assinado em 11 de Julho de 1980.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

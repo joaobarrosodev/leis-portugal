@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/24500/0715007152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/417/2012/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-2012-190213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa4b4d41f95cb23bd2f6b05d7c0effcc4d1f4bff2bd6ecc439b51a95b1075b05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78b0f21227f42c6245c0ed8afcb54d9bb2205a5005b8473db5e3d0874f3dad4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1329-c/2010/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1329-c/2010/12/30/p/dre
+- type: cites
+  target: pt:dre:553884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617133:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1119818251:por
+  label: Revogada, a partir de 13 de maio de 2026, a presente portaria, pelo(a) Portaria n.º 217/2026/1 - Diário da República
+    n.º 91/2026, Série I de 2026-05-12, nos termos do seu artigo 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-2026-1119818251
+  date: '2026-05-12'
 article_structure:
   article_count: 12
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:05Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +140,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 9 de novembro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
 
 ## ANEXO
 
@@ -306,50 +324,50 @@ b) Instruindo os processos executivos, praticando os atos previstos na legislaç
 
 Secções de Processo Executivo da Segurança Social
 
-#### Secção de Processo Executivo de Aveiro
+Secção de Processo Executivo de Aveiro
 
-#### Secção de Processo Executivo de Braga
+Secção de Processo Executivo de Braga
 
-#### Secção de Processo Executivo de Bragança
+Secção de Processo Executivo de Bragança
 
-#### Secção de Processo Executivo de Beja
+Secção de Processo Executivo de Beja
 
-#### Secção de Processo Executivo de Castelo Branco
+Secção de Processo Executivo de Castelo Branco
 
-#### Secção de Processo Executivo de Coimbra
+Secção de Processo Executivo de Coimbra
 
-#### Secção de Processo Executivo de Évora
+Secção de Processo Executivo de Évora
 
-#### Secção de Processo Executivo de Faro
+Secção de Processo Executivo de Faro
 
-#### Secção de Processo Executivo de Guarda
+Secção de Processo Executivo de Guarda
 
-#### Secção de Processo Executivo de Leiria
+Secção de Processo Executivo de Leiria
 
-#### Secção de Processo Executivo de Lisboa I
+Secção de Processo Executivo de Lisboa I
 
-#### Secção de Processo Executivo de Lisboa II
+Secção de Processo Executivo de Lisboa II
 
-#### Secção de Processo Executivo de Lisboa III
+Secção de Processo Executivo de Lisboa III
 
-#### Secção de Processo Executivo de Portalegre
+Secção de Processo Executivo de Portalegre
 
-#### Secção de Processo Executivo de Porto I
+Secção de Processo Executivo de Porto I
 
-#### Secção de Processo Executivo de Porto II
+Secção de Processo Executivo de Porto II
 
-#### Secção de Processo Executivo de Santarém
+Secção de Processo Executivo de Santarém
 
-#### Secção de Processo Executivo de Setúbal
+Secção de Processo Executivo de Setúbal
 
-#### Secção de Processo Executivo de Viana do Castelo
+Secção de Processo Executivo de Viana do Castelo
 
-#### Secção de Processo Executivo de Vila Real
+Secção de Processo Executivo de Vila Real
 
-#### Secção de Processo Executivo de Viseu
+Secção de Processo Executivo de Viseu
 
 #### Secção de Processo Executivo 100 — ANEXOII
 
 Mapa de pessoal dirigente do IGFSS, I.P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24500/0715007152.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24500/0715007152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24500/0715007152.pdf)

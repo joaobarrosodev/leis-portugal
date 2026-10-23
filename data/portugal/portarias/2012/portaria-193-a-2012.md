@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 117/2012, 1º Suplemento, Série I de 2012-06-19
   number: '117'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3050-(3) a 3050-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193-a/2012/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-a-2012-423415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e71771ebca7f2c3d0a03e584b9ced35ed4259fd619a013c86261646f7880c376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c2ce646ad04f0ff543659d47bee5de3bc7e8c7774d8b33a254cd5e8934fd0ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,16 +101,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/554/2004/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/554/2004/05/22/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430060:por
+  label: "Revogada a Port 554/2004, de 22-maio, na redacção do presente diploma, pela PORT.243-A/2012.13.08.2012.MECI, DR.IS\
+    \ [156-Supl] de 13.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-a-2012-430060
+  date: '2012-08-13'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:46Z'
   warnings: []
   errors: []
 ---
@@ -169,28 +203,28 @@ d) 2009/2010, no que se refere ao n.º 4 do artigo 1.º
 
 Os planos de estudo anexos à [Portaria n.º 554/2004](https://diariodarepublica.pt/dr/detalhe/portaria/554-2004-253261), de 22 de maio, são republicados em anexo à presente portaria.
 
-**A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 18 de junho de 2012.**
+A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 18 de junho de 2012.
 
 ## ANEXO N.º 1 — Curso de Design de Comunicação
 
 Plano de estudo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
 
 ## ANEXO N.º 2 — Curso de Design de Produto
 
 Plano de estudo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
 
 ## ANEXO N.º 3 — Curso de Produção Artística
 
 Plano de estudo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
 
 ## ANEXO N.º 4 — Curso de Comunicação Audiovisual
 
 Plano de estudo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11701/0000300006.pdf)

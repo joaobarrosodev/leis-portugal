@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 163/2023, 1º Suplemento, Série I de 2023-08-23
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(2) a 72-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16301/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268-a/2023/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2023-220280198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 376ad91861628dac55cfbeb2a0e1a8ba62aa2112d880abcd442999a1f0cc68da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 771ad2d6ddca27b65e43f34c965f6de22f54de328050ed6b28fb8afd4dfd5bc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aeroporto
+- ANA
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
+- GNR
+- Instituto Nacional de Aviação Civil
 - PSP
 - Regulamentação de Atos Legislativos
-- Instituto Nacional de Aviação Civil
-- GNR
 - Serviço de Estrangeiros e Fronteiras
-- ANA
-- Aviação Civil
-- Açores
 - Taxa
 - Taxa Aeroportuária
-- Autoridade Nacional da Aviação Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2013/07/31/p/dre
@@ -119,16 +119,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/2022/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92/2022/02/09/p/dre
+- type: cites
+  target: pt:dre:108207728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178859291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200905858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:16Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +229,9 @@ c) Voos internacionais - (euro) 6,01.
 
 3 - (Revogado.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A taxa de segurança na componente a que se refere a alínea a) do artigo 49.º e o n.º 1 do artigo 52.º do [Decreto-Lei n.º 254/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2012-190615), de 28 de novembro, respeitante à ANAC e às forças e serviços de segurança, é fixado, por passageiro embarcado, nos restantes aeródromos e aeroportos, nos seguintes montantes:
 
@@ -207,7 +249,9 @@ b) Voos intracomunitários fora do espaço Schengen - (euro) 3,32;
 
 c) Voos internacionais - (euro) 6,30.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O montante da taxa de segurança, na componente a que se refere a alínea b) do artigo 49.º e o n.º 2 do artigo 52.º do [Decreto-Lei n.º 254/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2012-190615), de 28 de novembro, respeitante aos aeroportos integrados na rede ANA, é fixado em (euro) 1,80 por passageiro embarcado, independentemente do respetivo destino.»
 
@@ -245,7 +289,9 @@ ii) Serviço de Estrangeiros e Fronteiras - (euro) 3,03;
 
 iii) Guarda Nacional Republicana - (euro) 0,45.
 
-###### Artigo 2.º-A — Distribuição da comparticipação da taxa de segurança pelas forças e serviços de segurança - Outras entidades gestoras aeroportuárias
+Artigo 2.º-A
+
+Distribuição da comparticipação da taxa de segurança pelas forças e serviços de segurança - Outras entidades gestoras aeroportuárias
 
 A ANAC procede à distribuição da taxa de segurança, a título de comparticipação, às forças e serviços de segurança, nos aeródromos e aeroportos nacionais fora da Rede ANA, por passageiro embarcado, nos seguintes termos:
 
@@ -273,11 +319,15 @@ ii) Serviço de Estrangeiros e Fronteiras - (euro) 3,47;
 
 iii) Guarda Nacional Republicana - (euro) 0,51.
 
-###### Artigo 2.º-B — Comparticipações da taxa de segurança atribuída ao SEF
+Artigo 2.º-B
+
+Comparticipações da taxa de segurança atribuída ao SEF
 
 A partir de 29 de outubro de 2023, por força disposto no artigo 49.º do [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, as comparticipações da taxa de segurança atribuída ao Serviços de Estrangeiros e Fronteiras são devidas, na sua totalidade, à Polícia de Segurança Pública.
 
-###### Artigo 3.º-A — Prazo de distribuição da taxa de segurança
+Artigo 3.º-A
+
+Prazo de distribuição da taxa de segurança
 
 1 - A ANAC procede, trimestralmente, ao apuramento da receita cobrada às transportadoras aéreas e operadores de aeronave para efeitos de verificação dos valores a distribuir às forças e serviços de segurança.
 
@@ -295,4 +345,6 @@ b) A [Portaria n.º 235/2022](https://diariodarepublica.pt/dr/detalhe/portaria/2
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 22 de agosto de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 23 de agosto de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 22 de agosto de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 22 de agosto de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 23 de agosto de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 22 de agosto de 2023.
+
+116798505

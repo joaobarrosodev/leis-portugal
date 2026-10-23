@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04501/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/80-a/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2024-854130985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3abf1e01cb89963f601c0cc2d7ba9d5cc272f6747e6ca88d2375f583fd0fe38a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5251ee30a6e81cab7f094834de685ff569dda29799c486483e3a9971127267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - Beneficiário
-- Gestão Financeira
-- Regulamentação de Atos Legislativos
 - Feader
 - Formulário Eletrónico
-- Pagamento
+- Gestão Financeira
 - IFAP
-- Regulamento CE
-- Agricultura
-- Subsídio a Agricultores
+- Pagamento
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Subsídio a Agricultores
 relationships:
 - type: cites
   target: celex:31989L0391
@@ -112,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:40Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +158,7 @@ Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da a
 
 ###### Artigo 1.º — Objeto
 
-1 - A presente portaria estabelece os requisitos da condicionalidade social, nos termos e para os efeitos do disposto nos n.<sup>os</sup>1 e 4 do artigo 14.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no âmbito do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+1 - A presente portaria estabelece os requisitos da condicionalidade social, nos termos e para os efeitos do disposto nos n.os1 e 4 do artigo 14.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no âmbito do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
 
 2 - Para efeitos do número anterior, os serviços competentes das Regiões Autónomas procedem à adaptação e aprovação da lista de requisitos, tendo em conta as especificidades regionais, e publicam nos respetivos Jornais Oficiais a lista de requisitos a vigorar.
 
@@ -160,7 +176,7 @@ Os requisitos da condicionalidade social previstos na presente portaria aplicam-
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2024.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -177,11 +193,11 @@ Requisitos da condicionalidade social na área do trabalho, segurança e saúde 
 |  | 1.7 - Formação obrigatória. | Artigo 131.º do CT |
 | [Diretiva n.º 89/391/CEE](http://data.europa.eu/eli/dir/1989/391/oj?locale=pt), de 12 de junho | 2 - Segurança e saúde2.1 - Medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores. |  |
 |  | 2.1.1 - Disposição geral que impõe ao empregador a obrigação de garantir a segurança e a saúde dos trabalhadores. | N.º 1 do artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
-|  | 2.1.2 - Obrigação geral do empregador tomar as medidas necessárias à defesa da segurança e da saúde, incluindo a prevenção de riscos e a informação e formação. | N.<sup>os</sup> 2 a 5, 10 e 12 do artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
-|  | 2.1.3 - Serviços de proteção e de prevenção: devem ser designados um ou mais trabalhadores para a atividade de segurança e saúde, ou ser contratado um serviço externo competente. | Artigos n.<sup>os</sup>73.º, 74.º e 81.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
-|  | 2.1.4 - O empregador deve tomar medidas em matéria de primeiros socorros, de combate a incêndios e de evacuação dos trabalhadores. | N.<sup>os</sup> 6 e 9 do artigo 15.º e artigo 75.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.2 - Obrigação geral do empregador tomar as medidas necessárias à defesa da segurança e da saúde, incluindo a prevenção de riscos e a informação e formação. | N.os 2 a 5, 10 e 12 do artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.3 - Serviços de proteção e de prevenção: devem ser designados um ou mais trabalhadores para a atividade de segurança e saúde, ou ser contratado um serviço externo competente. | Artigos n.os73.º, 74.º e 81.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.4 - O empregador deve tomar medidas em matéria de primeiros socorros, de combate a incêndios e de evacuação dos trabalhadores. | N.os 6 e 9 do artigo 15.º e artigo 75.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
 |  | 2.1.5 - Obrigações do empregador em matéria de avaliação dos riscos, medidas e material de proteção, registo e comunicação de acidentes de trabalho. | Alíneas b), f), q) e s) do n.º 1 do artigo 73.º-B e artigo 111.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
-|  | 2.1.6 - Prestação de informações aos trabalhadores sobre os riscos para a segurança e a saúde e sobre as medidas de proteção e de prevenção. | N.<sup>os</sup> 1 e 3 a 5 do artigo 19.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.6 - Prestação de informações aos trabalhadores sobre os riscos para a segurança e a saúde e sobre as medidas de proteção e de prevenção. | N.os 1 e 3 a 5 do artigo 19.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
 |  | 2.1.7 - Consulta e participação dos trabalhadores em todas as questões relativas à segurança e à saúde no local de trabalho. | N.º 1 do artigo 18.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
 |  | 2.1.8 - O empregador deve garantir que os trabalhadores recebam formação adequada em matéria de segurança e saúde. | Artigo 20.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
 | [Diretiva n.º 2009/104/CE](http://data.europa.eu/eli/dir/2009/104/oj?locale=pt), de 16 de setembro | 2.2 - Prescrições mínimas de segurança e de saúde para a utilização de equipamentos de trabalho pelos trabalhadores. |  |
@@ -192,3 +208,5 @@ Requisitos da condicionalidade social na área do trabalho, segurança e saúde 
 |  | 2.2.5 - Ergonomia e saúde no trabalho. | Alínea c) do artigo 3.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
 |  | 2.2.6 - Os trabalhadores devem receber informações adequadas e, quando necessário, folhetos de informação sobre a utilização dos equipamentos de trabalho. | Artigo 8.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
 |  | 2.2.7 - Os trabalhadores devem receber formação adequada. | N.º 1 do artigo 32.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+
+117427948

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 210/2023, 1º Suplemento, Série I de 2023-10-30
   number: '210'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 97-(2) a 97-(107)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/21001/0000200107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/328-a/2023/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-a-2023-223573620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b121bcfb136dd80de1846ed678ab9c3672f93319ef8ee61ede96cc059bf568c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287b1890a66c101ada4bff04e83cf795f43cbbc7cb0b9f1457070d3b5f0c035c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Agência para o Desenvolvimento e Coesão
 - Autoridade Nacional
 - Beneficiário
+- CIC Portugal 2030
 - Comissão Interministerial
-- Software
 - Concurso
-- Portugal
-- Recursos Hídricos
-- Regulamentação de Atos Legislativos
-- União Europeia
+- Desenvolvimento Económico
+- Direção Geral de Política do Mar
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direção Regional de Políticas Marítimas
 - Fiscalização Marítima
-- Pesca
+- Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura
 - Fundos CE
+- Gestão do Ambiente
 - IFAP
 - Instituto Português do Mar e da Atmosfera
 - Licenciamento
-- Recursos do Mar
-- Direção Geral de Política do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Desenvolvimento Económico
-- Polícia Marítima
 - Madeira.região Autónoma
+- Pesca
+- Polícia Marítima
+- Portal dos Fundos Europeus
+- Portugal
+- Portugal 2030
+- Programa Mar 2030
+- Proteção do Ambiente
+- Recursos do Mar
+- Recursos Hídricos
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Regulamento CE
-- Açores
+- Software
 - Taxa
-- Portugal 2030
-- Direção Regional de Políticas Marítimas
-- Fundo Europeu dos Assuntos Marítimos
-- das Pescas e da Aquicultura
-- CIC Portugal 2030
-- Programa Mar 2030
-- Portal dos Fundos Europeus
+- União Europeia
 relationships:
 - type: cites
   target: celex:31992L0043
@@ -190,16 +189,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215086001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 276
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 158
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:39Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +257,7 @@ Manda o Governo, pela Ministra da Presidência, o seguinte:
 
 4 - Determinar que a presente alteração ao Regulamento Específico das Medidas de Apoio do Programa Mar 2030 entra em vigor no dia seguinte ao da publicação da presente portaria.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 27 de outubro de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 27 de outubro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 2)
 
@@ -276,7 +303,9 @@ o) Apoio à melhoria do conhecimento do estado do meio marinho, à vigilância m
 
 2 - O disposto no presente Regulamento tem aplicação no território de Portugal continental, à exceção das tipologias de ação previstas nas alíneas e), j), l), m), n) e o) do número anterior, que têm um âmbito nacional.
 
-###### Artigo 8.º — Elegibilidade das despesas
+Artigo 8.º
+
+Elegibilidade das despesas
 
 1 - [...]
 
@@ -300,7 +329,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 13.º — Taxas de apoio e cobertura orçamental
+Artigo 13.º
+
+Taxas de apoio e cobertura orçamental
 
 1 - [...]
 
@@ -342,7 +373,9 @@ j) Secção XV «Apoio à execução da Política Marítima Integrada», que inc
 
 [...]
 
-###### Artigo 13.º-A — Indicadores de realização e resultado
+Artigo 13.º-A
+
+Indicadores de realização e resultado
 
 1 - Nos termos do n.º 2 do artigo 22.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, os mecanismos de bonificação e/ou de penalização são aplicados em função do grau de cumprimento dos resultados contratualizados, estabelecidos através dos indicadores de realização e/ou de resultado associados à aprovação do financiamento, para este efeito definidos nos avisos para apresentação de candidaturas.
 
@@ -368,21 +401,31 @@ j) Secção XV «Apoio à execução da Política Marítima Integrada», que inc
 
 [...]
 
-#### SECÇÃO VI — Apoio ao arranque da atividade de jovens pescadores
+SECÇÃO VI
 
-###### Artigo 68.º — Âmbito
+Apoio ao arranque da atividade de jovens pescadores
+
+Artigo 68.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 1 'Fomento de pescas sustentáveis e da restauração e conservação dos recursos biológicos aquáticos' do FEAMPA, a que se refere o n.º 1 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 1.1. 'Reforçar as atividades de pesca sustentáveis do ponto de vista económico, social e ambiental'.
 
-###### Artigo 69.º — Objetivos
+Artigo 69.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivo promover a competitividade e atratividade do setor, designadamente para os jovens, através do apoio ao arranque da atividade de jovens pescadores a fim de facilitar o seu estabelecimento.
 
-###### Artigo 70.º — Tipologias de operações
+Artigo 70.º
+
+Tipologias de operações
 
 São abrangidas as operações promovidas por jovens pescadores que visem a primeira aquisição de uma embarcação de pesca ou a aquisição do direito de controlo dessa embarcação através da sua propriedade parcial, em pelo menos 33 % do mesmo, ou através da aquisição de equivalentes participações sociais na empresa proprietária dessa embarcação, podendo a operação igualmente incluir a criação da própria empresa.
 
-###### Artigo 71.º — Elegibilidade das operações
+Artigo 71.º
+
+Elegibilidade das operações
 
 1 - Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, constituem critérios específicos de elegibilidade das operações para efeitos da presente secção, envolver embarcação de pesca:
 
@@ -398,11 +441,15 @@ e) Que pertença a um segmento da frota em relação ao qual o mais recente rela
 
 2 - Não são elegíveis as operações que envolvam embarcações que tenham sido objeto de transação comercial nos 12 meses anteriores à data de apresentação da candidatura.
 
-###### Artigo 72.º — Beneficiários
+Artigo 72.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção, jovens pescadores, enquanto pessoas com idade igual ou inferior a 40 anos com competências reconhecidas para exercer a atividade da pesca profissional a bordo de uma embarcação de pesca registada num porto nacional.
 
-###### Artigo 73.º — Elegibilidade dos beneficiários
+Artigo 73.º
+
+Elegibilidade dos beneficiários
 
 Sem prejuízo dos requisitos de elegibilidade previstos no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e dos critérios gerais de elegibilidade definidos no artigo 5.º do presente Regulamento, apenas são elegíveis como beneficiários:
 
@@ -418,7 +465,9 @@ iv) Nunca tenham sido proprietários ou comproprietários de uma embarcação de
 
 b) Sociedades comerciais totalmente detidas por uma ou mais pessoas singulares que preencham as condições estabelecidas na alínea anterior.
 
-###### Artigo 74.º — Despesas elegíveis
+Artigo 74.º
+
+Despesas elegíveis
 
 1 - Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, apenas são elegíveis as seguintes despesas:
 
@@ -440,19 +489,27 @@ iv) Consultoria especializada para a realização da avaliação independente re
 
 4 - Nos casos em que há apenas a aquisição do direito de controlo da embarcação através da sua propriedade parcial, em pelo menos 33 % da mesma, ou através da aquisição de equivalentes participações sociais na empresa proprietária dessa embarcação, o investimento elegível máximo resulta da aplicação ao montante previsto no número anterior da percentagem dessa aquisição.
 
-###### Artigo 75.º — Natureza e montante dos apoios
+Artigo 75.º
+
+Natureza e montante dos apoios
 
 Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação.
 
-###### Artigo 76.º — Taxas de apoio
+Artigo 76.º
+
+Taxas de apoio
 
 A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 40 % das despesas elegíveis.
 
-###### Artigo 77.º — Avisos para apresentação de candidaturas
+Artigo 77.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, em contínuo, nos termos previstos na subalínea ii) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-###### Artigo 78.º — Obrigações dos beneficiários
+Artigo 78.º
+
+Obrigações dos beneficiários
 
 Para além das obrigações previstas no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e no artigo 9.º do presente Regulamento, constituem obrigações específicas dos beneficiários de apoios previstos na presente secção:
 
@@ -462,17 +519,25 @@ b) Concluir a execução da operação até 18 meses a contar da mesma data esta
 
 c) Comprovar, até à data de apresentação do pedido de pagamento de saldo final, a existência de seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público, à exceção das embarcações de pesca local.
 
-#### SECÇÃO VII — Apoio a investimentos em portos de pesca, locais de desembarque, lotas e abrigos
+SECÇÃO VII
 
-###### Artigo 79.º — Âmbito
+Apoio a investimentos em portos de pesca, locais de desembarque, lotas e abrigos
+
+Artigo 79.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 1 'Fomento de pescas sustentáveis e da restauração e conservação dos recursos biológicos aquáticos' do FEAMPA, a que se refere o n.º 1 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 1.1. 'Reforçar as atividades de pesca sustentáveis do ponto de vista económico, social e ambiental'.
 
-###### Artigo 80.º — Objetivos
+Artigo 80.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivos aumentar a qualidade, o controlo e a rastreabilidade dos produtos desembarcados, aumentar a eficiência energética, contribuir para a proteção do ambiente, melhorar as condições de segurança e de trabalho, facilitar o cumprimento da obrigação de desembarque das capturas de acordo com as regras da Política Comum das Pescas, acrescentar valor a componentes subutilizadas das capturas e aumentar a digitalização da gestão dos portos de pesca.
 
-###### Artigo 81.º — Tipologias de operações
+Artigo 81.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos específicos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -498,7 +563,9 @@ j) Investimentos tendentes à adaptação dos portos de pesca, para instalação
 
 k) Investimentos na digitalização das operações e gestão dos portos de pesca.
 
-###### Artigo 82.º — Elegibilidade das operações
+Artigo 82.º
+
+Elegibilidade das operações
 
 1 - Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, constituem critérios específicos de elegibilidade das operações elegíveis para efeitos da presente secção:
 
@@ -508,7 +575,9 @@ b) Prever um investimento elegível de valor igual ou superior a 10 000 euros.
 
 2 - Não são elegíveis operações relativas à construção de novos portos ou de novas lotas, sem prejuízo dos investimentos relativos a deslocalização de infraestruturas quando a necessidade de alteração resulte de condições objetivas, devidamente fundamentadas.
 
-###### Artigo 83.º — Beneficiários
+Artigo 83.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -520,11 +589,15 @@ c) Entidades públicas, da administração central, direta ou indireta, ou entid
 
 d) Autarquias locais.
 
-###### Artigo 84.º — Elegibilidade dos beneficiários
+Artigo 84.º
+
+Elegibilidade dos beneficiários
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e dos critérios gerais de elegibilidade definidos no artigo 5.º do presente Regulamento, apenas são elegíveis os beneficiários que disponham dos meios financeiros necessários ao desenvolvimento da operação.
 
-###### Artigo 85.º — Despesas elegíveis
+Artigo 85.º
+
+Despesas elegíveis
 
 1 - Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a atividade apoiada, entre outras:
 
@@ -574,7 +647,9 @@ u) Fiscalização de obras, desde que realizada por uma entidade externa ao empr
 
 3 - O montante global das despesas elegíveis previstas na alínea t) do n.º 1 não pode ultrapassar 10 % das restantes despesas elegíveis.
 
-###### Artigo 86.º — Despesas não elegíveis
+Artigo 86.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são consideradas não elegíveis as seguintes despesas:
 
@@ -592,13 +667,17 @@ f) Encargos financeiros, bancários e administrativos, transferência de proprie
 
 g) Despesas relacionadas com o comércio retalhista.
 
-###### Artigo 87.º — Natureza e montante dos apoios
+Artigo 87.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 88.º — Taxas de apoio
+Artigo 88.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 50 % das despesas elegíveis, sem prejuízo do disposto nos números seguintes.
 
@@ -622,21 +701,31 @@ iii) Que sejam de interesse coletivo, tenham um beneficiário coletivo e tenham 
 
 3 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 89.º — Avisos para apresentação de candidaturas
+Artigo 89.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO VIII — Apoio à transferência de conhecimentos entre cientistas e pescadores
+SECÇÃO VIII
 
-###### Artigo 90.º — Âmbito
+Apoio à transferência de conhecimentos entre cientistas e pescadores
+
+Artigo 90.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 1 'Fomento de pescas sustentáveis e da restauração e conservação dos recursos biológicos aquáticos' do FEAMPA, a que se refere o n.º 1 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 1.1. 'Reforçar as atividades de pesca sustentáveis do ponto de vista económico, social e ambiental'.
 
-###### Artigo 91.º — Objetivos
+Artigo 91.º
+
+Objetivos
 
 Os apoios previstos no presente regime têm como finalidade promover a transferência de conhecimentos através de parcerias entre cientistas e pescadores, estimulando a inovação produtiva e organizacional nas empresas do setor, contribuindo para a sua maior resiliência, aprofundando o conhecimento científico no domínio da pesca e reforçando o envolvimento dos operadores na gestão participativa e responsável do espaço marítimo.
 
-###### Artigo 92.º — Tipologias de operações
+Artigo 92.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos específicos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -648,11 +737,15 @@ c) Processos de cogestão, com vista à utilização sustentável e valorizaçã
 
 d) Ações de cooperação, entre profissionais da pesca de Portugal, podendo incluir profissionais da pesca de outros países ou outras partes interessadas, para a transferência de experiências e de novas práticas, nomeadamente que envolvam equipamentos de pesca ou artes de pesca mais seletivos.
 
-###### Artigo 93.º — Elegibilidade das operações
+Artigo 93.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, a elegibilidade das operações que prevejam uma parceria depende ainda da sua formalização por acordo escrito, no qual é fixado o âmbito dessa colaboração mútua e são previstas as obrigações reciprocamente assumidas com vista à execução da operação, em especial no que respeita à assunção de custos, à partilha de riscos e à divulgação de resultados.
 
-###### Artigo 94.º — Beneficiários
+Artigo 94.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -670,7 +763,9 @@ f) Outras organizações coletivas, públicas ou privadas, sem fins lucrativos, 
 
 g) Entidades públicas, da administração central, direta ou indireta, ou entidades de capitais públicos, com atribuições e responsabilidades na administração marítimo-portuária ou no setor da pesca.
 
-###### Artigo 95.º — Despesas elegíveis
+Artigo 95.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:
 
@@ -694,17 +789,23 @@ i) Custos relativos a estudos e projetos-piloto;
 
 j) Custos de divulgação dos resultados da operação, incluindo a organização de seminários e a disseminação de boas práticas.
 
-###### Artigo 96.º — Despesas não elegíveis
+Artigo 96.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são consideradas não elegíveis as despesas de aquisição de terrenos, de infraestruturas ou de veículos automóveis.
 
-###### Artigo 97.º — Natureza e montante dos apoios
+Artigo 97.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação, apuradas com base em custos reais e/ou obtidas por aplicação de opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 98.º — Taxas de apoio
+Artigo 98.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 50 % das despesas elegíveis, sem prejuízo do disposto nos números seguintes.
 
@@ -726,21 +827,31 @@ iv) Que sejam de interesse coletivo, tenham um beneficiário coletivo e tenham c
 
 3 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 99.º — Avisos para apresentação de candidaturas
+Artigo 99.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO IX — Apoio à Proteção e Restauração da Biodiversidade e dos Ecossistemas Marinhos
+SECÇÃO IX
 
-###### Artigo 100.º — Âmbito
+Apoio à Proteção e Restauração da Biodiversidade e dos Ecossistemas Marinhos
+
+Artigo 100.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 1 'Fomento de pescas sustentáveis e da restauração e conservação dos recursos biológicos aquáticos' do FEAMPA, a que se refere o n.º 1 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 1.6. 'Contribuir para a proteção e restauração da biodiversidade e dos ecossistemas aquáticos'.
 
-###### Artigo 101.º — Objetivos
+Artigo 101.º
+
+Objetivos
 
 Os apoios previstos na presente secção visam concretizar os objetivos de proteção ambiental nomeadamente, assegurar o bom estado ambiental do meio marinho, de acordo com a Diretiva Quadro da Estratégia Marinha (DQEM), e promover a proteção, restauro e monitorização dos ecossistemas com vista à adoção de medidas para a conservação e gestão sustentável da biodiversidade marinha e manutenção dos serviços ecossistémicos.
 
-###### Artigo 102.º — Tipologias de operações
+Artigo 102.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos específicos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -782,7 +893,9 @@ iv) Gestão e monitorização de áreas marinhas protegidas em sítios Natura 20
 
 v) Estudos de avaliação, conceção e implementação de medidas de adaptação às alterações climáticas e mitigação dos seus efeitos.
 
-###### Artigo 103.º — Elegibilidade das operações
+Artigo 103.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, as operações elegíveis para efeitos da presente secção, devem ainda cumprir os seguintes requisitos:
 
@@ -790,7 +903,9 @@ a) Quando não tenham como beneficiário o Instituto Português do Mar e da Atmo
 
 b) Quando visem a recolha de informação, a mesma deve contribuir para o reporte de dados nos termos estabelecidos na [Diretiva (UE) 2019/914](https://data.europa.eu/eli/dir/2019/914/oj?locale=pt) ou na [Diretiva (UE) 2019/883](https://data.europa.eu/eli/dir/2019/883/oj?locale=pt).
 
-###### Artigo 104.º — Beneficiários
+Artigo 104.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -804,7 +919,9 @@ d) Organizações de pescadores, incluindo organizações de produtores;
 
 e) Organizações não-governamentais, em parceria com organizações de pescadores.
 
-###### Artigo 105.º — Despesas elegíveis
+Artigo 105.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a atividade apoiada, designadamente:
 
@@ -886,7 +1003,9 @@ ee) Ações que reduzam outras pressões físicas, incluindo o ruído submarino 
 
 ff) Medidas positivas de conservação para proteger e conservar a fauna e a flora, incluindo a reintrodução ou o povoamento com espécies nativas.
 
-###### Artigo 106.º — Despesas não elegíveis
+Artigo 106.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são consideradas não elegíveis as seguintes despesas:
 
@@ -894,13 +1013,17 @@ a) Aquisição de navio para submersão e utilização como recife artificial;
 
 b) Construção e manutenção de dispositivos de concentração de peixes.
 
-###### Artigo 107.º — Natureza e montante dos apoios
+Artigo 107.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação, apuradas com base em custos reais e/ou obtidas por aplicação de opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 108.º — Taxas de apoio
+Artigo 108.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 50 % das despesas elegíveis, sem prejuízo do disposto nos números seguintes.
 
@@ -918,21 +1041,31 @@ ii) Que sejam de interesse coletivo, tenham um beneficiário coletivo e tenham c
 
 3 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 109.º — Avisos para apresentação de candidaturas
+Artigo 109.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO X — Apoio à recolha de dados e ao controlo e inspeção no quadro da Política Comum das Pescas
+SECÇÃO X
 
-###### Artigo 110.º — Âmbito
+Apoio à recolha de dados e ao controlo e inspeção no quadro da Política Comum das Pescas
+
+Artigo 110.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 1 'Fomento de pescas sustentáveis e da restauração e conservação dos recursos biológicos aquáticos' do FEAMPA, a que se refere o n.º 1 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 1.4. 'Fomentar o controlo e execução eficientes da pesca, nomeadamente o combate à pesca ilegal, não declarada e não regulamentada, bem como a existência de dados fiáveis para a tomada de decisões com base em conhecimento'.
 
-###### Artigo 111.º — Objetivos
+Artigo 111.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm como finalidade promover a execução do regime de controlo, inspeção e execução da União Europeia, através do reforço da capacidade institucional e da eficiência da administração pública, bem como assegurar a recolha, tratamento e divulgação de dados biológicos, ambientais, técnicos e socioeconómicos, tendo em vista fomentar a execução da Política Comum das Pescas.
 
-###### Artigo 112.º — Tipologias de operações
+Artigo 112.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -992,7 +1125,9 @@ xiv) Desenvolvimento de ações e investimentos nos portos de pesca para melhora
 
 xv) Ações para reforçar o controlo da pequena pesca costeira e o controlo dos canais de venda e a rastreabilidade do pescado, incluindo ao nível do transporte.
 
-###### Artigo 113.º — Elegibilidade das operações
+Artigo 113.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, as operações elegíveis para efeitos da presente secção devem ainda cumprir os seguintes requisitos:
 
@@ -1002,7 +1137,9 @@ b) Enquadrando-se na subalínea i) da alínea b) do artigo anterior, cumprir os 
 
 c) Enquadrando-se nas subalíneas ii) a xv) da alínea b) do artigo anterior, respeitar a ações previstas no plano de controlo aprovado pela Comissão Europeia, ou outras que visem dar-lhes continuidade ou tenham natureza conexa, desde que devidamente justificada essa conexão e necessidade da sua implementação.
 
-###### Artigo 114.º — Beneficiários
+Artigo 114.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção:
 
@@ -1034,7 +1171,9 @@ vi) A Guarda Nacional Republicana - Unidade de Controlo Costeiro (GNR);
 
 vii) A Secretaria Regional do Mar e das Pescas - Inspeção Regional das Pescas e de Usos Marítimas da Região Autónoma dos Açores.
 
-###### Artigo 115.º — Elegibilidade dos beneficiários
+Artigo 115.º
+
+Elegibilidade dos beneficiários
 
 Sem prejuízo dos requisitos de elegibilidade previstos no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e dos critérios gerais de elegibilidade definidos no artigo 5.º do presente Regulamento, apenas são elegíveis:
 
@@ -1042,7 +1181,9 @@ a) No âmbito de operações enquadráveis na alínea a) do artigo 112.º, os be
 
 b) No âmbito de ações enquadráveis nas subalíneas ii) a xv) da alínea b) do artigo 112.º, os beneficiários que integrem o SIFICAP.
 
-###### Artigo 116.º — Despesas elegíveis
+Artigo 116.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a atividade apoiada, designadamente:
 
@@ -1114,13 +1255,17 @@ xviii) Custos com outras ações que visem a implementação do plano de control
 
 xix) Aquisição de equipamentos de segurança e proteção individual para inspetores e pessoal encarregado das tarefas de controlo e vigilância.
 
-###### Artigo 117.º — Natureza e montante dos apoios
+Artigo 117.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação, apuradas com base em custos reais e/ou obtidas por aplicação de opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 118.º — Taxas de apoio
+Artigo 118.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até:
 
@@ -1134,21 +1279,31 @@ ii) Em que o beneficiário seja um organismo público.
 
 2 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 119.º — Avisos para apresentação de candidaturas
+Artigo 119.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas em contínuo, nos termos previstos na subalínea ii) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO XI — Apoio a serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas e aumento do potencial dos sítios aquícolas
+SECÇÃO XI
 
-###### Artigo 120.º — Âmbito
+Apoio a serviços de gestão, de substituição e de aconselhamento para as explorações aquícolas e aumento do potencial dos sítios aquícolas
+
+Artigo 120.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 2 'Fomentar atividades de aquicultura sustentáveis e a transformação e comercialização de produtos da pesca e da aquicultura, contribuindo assim para a segurança alimentar da União' do FEAMPA, a que se refere o n.º 2 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 2.1. 'Promover atividades aquícolas sustentáveis, em especial reforçando a competitividade da produção aquícola, assegurando simultaneamente que essas atividades sejam ambientalmente sustentáveis a longo prazo'.
 
-###### Artigo 121.º — Objetivos
+Artigo 121.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivo potenciar o desenvolvimento dos sítios e das infraestruturas aquícolas e melhorar o desempenho económico e ambiental das empresas do setor, enquanto contributo decisivo para o alcance da meta de incremento da produção aquícola nacional e para o reforço da sustentabilidade e da segurança alimentar.
 
-###### Artigo 122.º — Tipologias de operações
+Artigo 122.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução do objetivo específico previsto no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -1160,7 +1315,9 @@ c) Suporte científico e tecnológico à atividade aquícola nacional de molusco
 
 d) Ações de avaliação dos recursos e apoio à aquicultura, tendo por base o Plano Estratégico para a Aquicultura Portuguesa e a Estratégia de Desenvolvimento Sustentável da Aquicultura Europeia, e assentes na investigação, inovação e experimentação, quer na vertente biológica, quer na vertente tecnológica, e na formação e divulgação dos resultados para o tecido produtivo, reforçando a capacidade científica e tecnológica no âmbito da aquicultura, tanto a nível dos projetos de maternidades, como da engorda em on-shore e off-shore.
 
-###### Artigo 123.º — Beneficiários
+Artigo 123.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -1176,7 +1333,9 @@ i) O IPMA, I. P., enquanto laboratório nacional de referência;
 
 ii) Outros organismos de direito público ou entidades que venham a ser selecionados para criar os serviços de aconselhamento às explorações.
 
-###### Artigo 124.º — Despesas elegíveis
+Artigo 124.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a atividade apoiada, designadamente:
 
@@ -1198,13 +1357,17 @@ ii) Trabalhos preparatórios como prospeção, estudos científicos ou avaliaç�
 
 c) No âmbito das operações enquadráveis nas alíneas c) e d) do artigo 122.º, encargos incorridos na criação de serviços de gestão, substituição e aconselhamento, designadamente os inerentes à implementação do sistema nacional de monitorização de moluscos bivalves, incluindo despesas com pessoal e respetivos encargos sociais obrigatórios, aquisições de serviços, deslocações, materiais e consumíveis indispensáveis à sua execução.
 
-###### Artigo 125.º — Natureza e montante dos apoios
+Artigo 125.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação, apuradas com base em custos reais e/ou obtidas por aplicação de opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 126.º — Taxas de apoio
+Artigo 126.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 50 % das despesas elegíveis, sem prejuízo do disposto nos números seguintes.
 
@@ -1222,33 +1385,49 @@ ii) Que sejam de interesse coletivo, tenham um beneficiário coletivo e tenham c
 
 3 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 127.º — Avisos para apresentação de candidaturas
+Artigo 127.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO XII — Apoio a custos de preparação e execução dos planos anuais de produção e de comercialização das organizações de produtores
+SECÇÃO XII
 
-###### Artigo 128.º — Âmbito
+Apoio a custos de preparação e execução dos planos anuais de produção e de comercialização das organizações de produtores
+
+Artigo 128.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 2 'Fomentar atividades de aquicultura sustentáveis e a transformação e comercialização de produtos da pesca e da aquicultura, contribuindo assim para a segurança alimentar da União' do FEAMPA, a que se refere o n.º 2 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 2.2. 'Promover a comercialização, a qualidade e o valor acrescentado dos produtos da pesca e da aquicultura, assim como a transformação destes produtos'.
 
-###### Artigo 129.º — Objetivos
+Artigo 129.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivo reforçar a intervenção das organizações de produtores na prossecução dos objetivos da Política Comum das Pescas e na gestão adequada da Organização Comum de Mercados e proporcionar-lhes o apoio financeiro necessário para que possam desempenhar um papel mais significativo na gestão corrente das pescas ou da aquicultura, consoante o caso, garantindo que os seus membros exerçam as atividades de pesca e aquícolas de um modo sustentável, que melhorem a colocação dos produtos no mercado e que procurem melhorar os seus rendimentos.
 
-###### Artigo 130.º — Definições
+Artigo 130.º
+
+Definições
 
 Para efeitos de aplicação da presente secção, para além das definições constantes do artigo 3.º, relevam as definições a que se refere o artigo 5.º do [Regulamento (UE) n.º 1379/2013](https://data.europa.eu/eli/reg/2013/1379/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013.
 
-###### Artigo 131.º — Tipologias de operações
+Artigo 131.º
+
+Tipologias de operações
 
 São abrangidas as operações relativas aos custos de preparação e execução dos planos de produção e de comercialização das organizações de produtores da pesca e da aquicultura aprovados pela DGRM.
 
-###### Artigo 132.º — Beneficiários
+Artigo 132.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção as organizações de produtores e as associações de organizações de produtores, reconhecidas em conformidade com os artigos 14.º e 17.º do [Regulamento (UE) n.º 1379/2013](https://data.europa.eu/eli/reg/2013/1379/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013.
 
-###### Artigo 133.º — Despesas elegíveis
+Artigo 133.º
+
+Despesas elegíveis
 
 1 - Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas que tenham sido incorridas e pagas no período de execução do plano de produção e comercialização, inerentes à sua elaboração, bem como as respeitantes à implementação das medidas e ações neles previstas, desde que documentalmente comprovadas no relatório anual das atividades realizadas aprovado pela DGRM.
 
@@ -1256,7 +1435,9 @@ Podem beneficiar dos apoios previstos na presente secção as organizações de 
 
 3 - As despesas referidas no número anterior podem corresponder ao ano civil do plano, no todo ou em parte, podendo haver, neste último caso, lugar a imputação parcial das mesmas ao período do plano, no caso de a faturação abranger um período que extravasa o referido ano civil.
 
-###### Artigo 134.º — Despesas não elegíveis
+Artigo 134.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são consideradas não elegíveis as seguintes despesas:
 
@@ -1268,7 +1449,9 @@ c) Encargos financeiros, bancários e administrativos, constituição de fundo d
 
 d) Despesas com artigos de luxo e publicidade.
 
-###### Artigo 135.º — Natureza e montante dos apoios
+Artigo 135.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação.
 
@@ -1284,27 +1467,37 @@ d) 8 %, para os restantes apoios anuais.
 
 3 - No caso das organizações de produtores recentemente reconhecidas, o apoio anual a conceder a cada organização de produtores não pode exceder os limites definidos no número anterior, aferidos com base no valor anual médio da produção colocada no mercado pelos seus membros durante os três anos civis anteriores.
 
-###### Artigo 136.º — Taxas de apoio
+Artigo 136.º
+
+Taxas de apoio
 
 A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 75 % das despesas elegíveis.
 
-###### Artigo 137.º — Avisos para apresentação de candidaturas
+Artigo 137.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO XIII
+SECÇÃO XIII
 
 Apoio a estratégias de comercialização e internacionalização das empresas do setor da pesca, da transformação e das empresas aquícolas, incluindo as ações promocionais, a participação em feiras, salões e exposições
 
-###### Artigo 138.º — Âmbito
+Artigo 138.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 2 'Fomentar atividades de aquicultura sustentáveis e a transformação e comercialização de produtos da pesca e da aquicultura, contribuindo assim para a segurança alimentar da União' do FEAMPA, a que se refere o n.º 2 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 2.2. 'Promover a comercialização, a qualidade e o valor acrescentado dos produtos da pesca e da aquicultura, assim como a transformação destes produtos'.
 
-###### Artigo 139.º — Objetivos
+Artigo 139.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivo estimular a internacionalização das empresas nacionais da pesca, da aquicultura e da transformação e comercialização de pescado, promovendo, desta forma, a resiliência e competitividade do setor e reduzindo a dependência das importações de produtos da pesca.
 
-###### Artigo 140.º — Tipologias de operações
+Artigo 140.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos específicos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -1332,11 +1525,15 @@ iii) Organização de conferências, seminários ou colóquios, destinadas a mel
 
 f) Participação em feiras, salões e exposições com vista à promoção dos produtos da pesca e da aquicultura, desde que não digam respeito a ações coletivas para a internacionalização, desenvolvidas por associações empresariais.
 
-###### Artigo 141.º — Elegibilidade das operações
+Artigo 141.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, as operações elegíveis para efeitos da presente secção, devem ainda apresentar um investimento elegível de valor igual ou superior a 5 000 euros.
 
-###### Artigo 142.º — Beneficiários
+Artigo 142.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -1346,7 +1543,9 @@ b) Pessoas coletivas de direito privado sem fins lucrativos, desde que se trate 
 
 c) Organismos públicos, designadamente entidades do setor público empresarial com atribuições ou responsabilidades na administração do setor da pesca, da aquicultura ou da transformação e comercialização de pescado bem como o departamento do Governo Regional com competências na área das pescas e do mar.
 
-###### Artigo 143.º — Despesas elegíveis
+Artigo 143.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a operação necessárias para alcance dos objetivos da mesma, designadamente:
 
@@ -1370,17 +1569,23 @@ i) Estudos técnicos ou económicos necessários ao arranque da operação ou es
 
 j) Aquisição de meios de acondicionamento e embalagem reutilizáveis e de materiais de rotulagem e etiquetagem.
 
-###### Artigo 144.º — Despesas não elegíveis
+Artigo 144.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no n.º 5 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são consideradas não elegíveis as despesas com ações coletivas de participação em feiras, salões e exposições com vista à promoção dos produtos da pesca e da aquicultura promovidas ou organizadas pelas associações do setor da pesca e respetivas empresas envolvidas.
 
-###### Artigo 145.º — Natureza e montante dos apoios
+Artigo 145.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 146.º — Taxas de apoio
+Artigo 146.º
+
+Taxas de apoio
 
 A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até:
 
@@ -1390,21 +1595,31 @@ b) 60 % das despesas elegíveis em operações em que o beneficiário seja enqua
 
 c) 100 % das despesas elegíveis em operações em que o beneficiário seja enquadrável na alínea c) do artigo 142.º
 
-###### Artigo 147.º — Avisos para apresentação de candidaturas
+Artigo 147.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-#### SECÇÃO XIV — Apoio ao desenvolvimento local de base comunitária
+SECÇÃO XIV
 
-###### Artigo 148.º — Âmbito
+Apoio ao desenvolvimento local de base comunitária
+
+Artigo 148.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 3 'Permitir o desenvolvimento de uma economia azul sustentável nas regiões costeiras, insulares e interiores e fomentar o desenvolvimento das comunidades da pesca e de aquicultura' do FEAMPA, a que se refere o n.º 3 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam dar concretização ao objetivo específico 3.1. 'Permitir o desenvolvimento de uma economia azul sustentável nas regiões costeiras, insulares e interiores e fomentar o desenvolvimento sustentável das comunidades da pesca e de aquicultura'.
 
-###### Artigo 149.º — Objetivos
+Artigo 149.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm por objetivo promover o desenvolvimento sustentável das comunidades da pesca e de aquicultura, através da execução das Estratégias de Desenvolvimento Local (EDL), na aceção do artigo 32.º do Regulamento (EU) n.º [2021/1060](https://data.europa.eu/eli/reg/2021/1060/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de junho de 2021, aprovadas pela autoridade de gestão com vista ao desenvolvimento de uma economia azul sustentável.
 
-###### Artigo 150.º — Tipologias de operações
+Artigo 150.º
+
+Tipologias de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -1418,11 +1633,15 @@ ii) Desempenho das funções dos GAL na implementação, gestão, acompanhamento
 
 iii) Realização de ações de cooperação e intercâmbio de experiências nomeadamente entre GAL.
 
-###### Artigo 151.º — Elegibilidade das operações
+Artigo 151.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, as operações enquadráveis no âmbito da execução das EDL devem ainda incidir na área geográfica correspondente ao território de intervenção do GAL e enquadrar-se nos objetivos da respetiva EDL aprovada.
 
-###### Artigo 152.º — Beneficiários
+Artigo 152.º
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção os seguintes beneficiários:
 
@@ -1430,7 +1649,9 @@ a) No âmbito de ações enquadráveis na alínea a) do artigo 150.º, qualquer 
 
 b) No âmbito de operações enquadráveis na alínea b) do artigo 150.º, os GAL.
 
-###### Artigo 153.º — Despesas elegíveis
+Artigo 153.º
+
+Despesas elegíveis
 
 Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:
 
@@ -1462,7 +1683,9 @@ xi) Consultadoria técnica, estudos e trabalhos indispensáveis à execução da
 
 xii) Aquisição de bens e serviços, incluindo o desenvolvimento aplicacional, nos domínios das comunicações, Internet, multimédia, publicidade, divulgação e sensibilização.
 
-###### Artigo 154.º — Natureza e montante dos apoios
+Artigo 154.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação.
 
@@ -1478,7 +1701,9 @@ ii) Por aplicação de uma taxa fixa de 40 % dos custos elegíveis diretos com p
 
 3 - O aviso para a apresentação de candidaturas determina a modalidade de cálculo das subvenções e pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 155.º — Taxas de apoio
+Artigo 155.º
+
+Taxas de apoio
 
 1 - A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de até 50 % das despesas elegíveis, sem prejuízo de esta taxa ser de até 100 % para a tipologia de operações previstas na alínea b) do artigo 150.º e do disposto nos números seguintes para a tipologia de operações previstas na alínea a) do artigo 150.º
 
@@ -1502,7 +1727,9 @@ iii) Que sejam de interesse coletivo, tenham um beneficiário coletivo ou tenham
 
 3 - Sempre que uma operação possa ser enquadrada em mais do que uma das alíneas do número anterior, aplica-se a taxa máxima de apoio mais elevada.
 
-###### Artigo 156.º — Análise e decisão das candidaturas
+Artigo 156.º
+
+Análise e decisão das candidaturas
 
 1 - Nos termos da alínea d) do n.º 3 do artigo 33.º do Regulamento (UE) [2021/1060](https://data.europa.eu/eli/reg/2021/1060/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de junho de 2021, as estruturas técnicas locais analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos critérios de seleção fixados no aviso para apresentação de candidaturas, o apuramento do custo total elegível e o nível de apoio público apurado.
 
@@ -1516,17 +1743,25 @@ iii) Que sejam de interesse coletivo, tenham um beneficiário coletivo ou tenham
 
 6 - A produção de efeitos das decisões proferidas Órgão de Gestão do GAL depende da sua homologação pelo gestor.
 
-###### Artigo 157.º — Avisos para apresentação de candidaturas
+Artigo 157.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março que são preparados e abertos pelos GAL, após validação da autoridade de gestão.
 
-#### SECÇÃO XV — Apoio à Execução da Política Marítima Integrada
+SECÇÃO XV
 
-###### Artigo 158.º — Âmbito
+Apoio à Execução da Política Marítima Integrada
+
+Artigo 158.º
+
+Âmbito
 
 Os apoios a conceder no âmbito da presente secção enquadram-se na prioridade 4 'Reforço da governação internacional dos oceanos e promoção de mares e oceanos seguros, protegidos, limpos e geridos de forma sustentável' do FEAMPA, a que se refere o n.º 4 do artigo 3.º do [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, e visam concretizar o objetivo específico 4.1 'Reforçar a gestão sustentável dos mares e dos oceanos através da promoção do conhecimento do meio marinho, da vigilância marítima ou da cooperação ente os serviços de guarda costeira'.
 
-###### Artigo 159.º — Objetivos
+Artigo 159.º
+
+Objetivos
 
 Os apoios previstos na presente secção têm como objetivo promover, no quadro da Política Marítima Integrada (PMI):
 
@@ -1536,7 +1771,9 @@ b) A Vigilância Marítima Integrada (VMI), nomeadamente no tocante ao controlo 
 
 c) A cooperação com outros Estados no domínio das funções de guarda costeira, a fim de contribuir para o controlo de fronteiras, a liberdade de navegação e a proteção de atividades económicas no mar, enquanto dimensões essenciais para a salvaguarda dos interesses estratégicos da União.
 
-###### Artigo 160.º — Tipologia de operações
+Artigo 160.º
+
+Tipologia de operações
 
 São abrangidas as operações que se revelem adequadas à prossecução dos objetivos específicos previstos no artigo anterior, podendo assumir as seguintes tipologias:
 
@@ -1564,11 +1801,15 @@ iii) Capacitação através da transferência de experiências no domínio de si
 
 c) No âmbito da cooperação entre entidades com responsabilidades de controlo de tráfego marítimo, monitorização e apoio às frotas, fiscalização e guarda costeira, iniciativas que visem a partilha de informações marítimas, realização de serviços conjuntos de vigilância e comunicação, adaptação e reforço do sistema de ajuda à navegação, mobilização da rede de sensores e partilha desses dados, aquisição e substituição de unidades marinhas e ações que visem garantir condições de navegação segura.
 
-###### Artigo 161.º — Elegibilidade das operações
+Artigo 161.º
+
+Elegibilidade das operações
 
 Sem prejuízo dos critérios de elegibilidade previstos no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março e dos critérios gerais de elegibilidade definidos no artigo 6.º do presente Regulamento, constituem critérios específicos de elegibilidade, para efeitos da presente secção, as operações que visem os objetivos previstos no artigo 159.º e se enquadrem numa das tipologias elencadas no artigo anterior.
 
-###### Artigo 162.º — Tipologia de beneficiários
+Artigo 162.º
+
+Tipologia de beneficiários
 
 Podem beneficiar dos apoios previstos na presente secção as seguintes entidades:
 
@@ -1588,13 +1829,17 @@ vi) Outras entidades singulares ou coletivas, públicas ou privadas, com ou sem 
 
 b) No âmbito de operações enquadráveis nas alíneas b) e c) do artigo 159.º, entidades com competências na VMI ao nível do controlo de fronteiras, segurança, controlo da pesca, alfândegas, ambiente marinho, defesa e imposição da lei e da ordem.
 
-###### Artigo 163.º — Elegibilidade dos beneficiários
+Artigo 163.º
+
+Elegibilidade dos beneficiários
 
 1 - Constituem critérios de elegibilidade dos beneficiários os previstos no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e os critérios gerais de elegibilidade definidos no artigo 5.º do presente Regulamento, quando aplicáveis.
 
 2 - Adicionalmente ao disposto no número anterior, os beneficiários previstos na subalínea vi) da alínea a) do artigo anterior apenas são elegíveis quando se apresentem em parceria com um dos beneficiários previstos nas demais subalíneas da alínea a) do mesmo artigo, formalizada por acordo em que seja fixado o âmbito dessa colaboração mútua e sejam previstas as obrigações reciprocamente assumidas com vista à execução da operação, em especial no que respeita à assunção de custos, à partilha de riscos e à divulgação de resultados.
 
-###### Artigo 164.º — Despesas Elegíveis
+Artigo 164.º
+
+Despesas Elegíveis
 
 1 - Sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no artigo 8.º do presente Regulamento, são elegíveis as despesas diretamente relacionadas com a atividade apoiada, designadamente:
 
@@ -1634,13 +1879,17 @@ h) Valor das contribuições em espécie.
 
 3 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes à operação e aprovadas pela autoridade de gestão.
 
-###### Artigo 165.º — Natureza e montante dos apoios
+Artigo 165.º
+
+Natureza e montante dos apoios
 
 1 - Os apoios públicos previstos no presente Regulamento revestem a forma de subvenção não reembolsável, calculada por aplicação da taxa de apoio às despesas elegíveis da operação e/ou obtida por aplicação de opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
 
 2 - O aviso para a apresentação de candidaturas pode fixar um limite máximo dos apoios públicos por operação.
 
-###### Artigo 166.º — Taxas de apoio
+Artigo 166.º
+
+Taxas de apoio
 
 A taxa de apoio público para as operações apresentadas ao abrigo da presente secção é de:
 
@@ -1648,7 +1897,9 @@ a) 50 % das despesas elegíveis, no caso de operações cujo beneficiário seja 
 
 b) 100 % das despesas elegíveis, no caso de operações cujo beneficiário seja um organismo público.
 
-###### Artigo 167.º — Análise e decisão das candidaturas
+Artigo 167.º
+
+Análise e decisão das candidaturas
 
 1 - A DGPM, no âmbito das suas atribuições de acompanhamento da execução da Política Marítima Integrada da União Europeia, previstas na alínea g) do n.º 2 do artigo 11.º do [Decreto-Lei n.º 18/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2014-570704), de 4 de fevereiro, emite parecer sobre as candidaturas, nos termos do previsto no n.º 8 do artigo 24.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
@@ -1656,25 +1907,37 @@ b) 100 % das despesas elegíveis, no caso de operações cujo beneficiário seja
 
 3 - No caso de candidatura apresentada pela DGPM ou sempre que se verifique situação de conflito de interesses, a emissão de parecer sobre as candidaturas é efetuada pela autoridade de gestão, sem prejuízo de tal competência poder ser delegada em organismo intermédio.
 
-###### Artigo 168.º — Avisos para apresentação de candidaturas
+Artigo 168.º
+
+Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas mediante prévia publicação de aviso, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.»
 
-###### Artigo 3.º — Norma revogatória
+Artigo 3.º
+
+Norma revogatória
 
 São revogados os artigos 24.º, 33.º, 46.º e 57.º do Regulamento Específico das Medidas de Apoio do Programa Mar 2030, publicado em anexo à [Portaria n.º 186/2023](https://diariodarepublica.pt/dr/detalhe/portaria/186-2023-215086001), de 3 de julho.
 
-## ANEXO II — (a que se refere o n.º 3 da portaria)
+ANEXO II
+
+(a que se refere o n.º 3 da portaria)
 
 Republicação do Regulamento Específico das Medidas de Apoio do Programa Mar 2030
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente Regulamento estabelece as disposições comuns e as disposições específicas aplicáveis às tipologias de ação ao abrigo das prioridades e objetivos específicos, objeto de financiamento pelo Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura (FEAMPA), para o período de programação 2021-2027.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - No âmbito do Programa Mar 2030 são criadas as seguintes tipologias de ação:
 
@@ -1710,7 +1973,9 @@ o) Apoio à melhoria do conhecimento do estado do meio marinho, à vigilância m
 
 2 - O disposto no presente Regulamento tem aplicação no território de Portugal continental, à exceção das tipologias de ação previstas nas alíneas e), j), l), m), n) e o) do número anterior, que têm um âmbito nacional.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do disposto no presente Regulamento e sem prejuízo das definições constantes no artigo 3.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e no [Regulamento (UE) 2021/1139](https://data.europa.eu/eli/reg/2021/1139/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de julho de 2021, entende-se por:
 
@@ -1750,15 +2015,21 @@ i) «Inovação de produto/serviço», a introdução de um novo ou significativ
 
 ii) «Inovação de processo empresarial», implementação de um novo ou melhorado processo de negócio para uma ou mais funções da empresa, dizendo respeito às diferentes funções da empresa, incluindo a função principal da empresa de produção de bens e serviços e as funções de apoio, como sejam administração e gestão, distribuição e logística, o marketing, as vendas e o pós-venda.
 
-### CAPÍTULO II — Disposições comuns
+CAPÍTULO II
 
-###### Artigo 4.º — Aviso para apresentação de candidaturas
+Disposições comuns
+
+Artigo 4.º
+
+Aviso para apresentação de candidaturas
 
 1 - As candidaturas aos apoios são apresentadas no âmbito de avisos para apresentação de candidaturas, conforme previsto no artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
 2 - Os avisos para apresentação de candidaturas podem, nos termos previstos no artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, conjugar diferentes tipologias de intervenção e/ou de operação, bem como estabelecer regras específicas e clarificar as condições fixadas no presente Regulamento.
 
-###### Artigo 5.º — Elegibilidade dos beneficiários
+Artigo 5.º
+
+Elegibilidade dos beneficiários
 
 Sem prejuízo do disposto no artigo 14.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e de outros especificamente referidos para cada tipologia de ação, são ainda exigíveis aos beneficiários, à data da candidatura e até à conclusão da operação, os seguintes requisitos:
 
@@ -1770,7 +2041,9 @@ c) Apresentar, quando aplicável, certificação eletrónica que comprove o esta
 
 d) Declarar que não tem salários em atraso.
 
-###### Artigo 6.º — Elegibilidade das operações
+Artigo 6.º
+
+Elegibilidade das operações
 
 Sem prejuízo do disposto no artigo 19.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, e de outros especificamente referidos para cada tipologia de ação, as operações devem ainda satisfazer os seguintes requisitos:
 
@@ -1790,13 +2063,17 @@ g) Não constituir uma relocalização da mesma atividade produtiva, de atividad
 
 h) Quando envolvam investimentos em infraestruturas com prazo de vida útil previsto de, pelo menos, cinco anos, demonstrar, ao nível do projeto técnico ou mediante parecer técnico, que as mesmas oferecem resistência às alterações climáticas.
 
-###### Artigo 7.º — Princípio «Não Prejudicar Significativamente» e metas climáticas e ambientais
+Artigo 7.º
+
+Princípio «Não Prejudicar Significativamente» e metas climáticas e ambientais
 
 1 - O princípio «Não Prejudicar Significativamente» (DNSH), previsto na alínea d) do artigo 4.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, visa garantir que o impacto ambiental gerado pela atividade económica e pelos produtos e serviços ao longo de todo o seu ciclo de vida respeita as normas e prioridades da União Europeia (UE) em matéria de clima e ambiente e não prejudica significativamente, nos termos do artigo 17.º do [Regulamento (UE) 2020/852](https://data.europa.eu/eli/reg/2020/852/oj?locale=pt), de 18 de junho, do Parlamento e do Conselho, nenhum dos objetivos ambientais estabelecidos no artigo 9.º do mesmo Regulamento.
 
 2 - Os critérios de elegibilidade previstos no presente Regulamento traduzem os objetivos ambientais e climáticos, não sendo aplicáveis ao Programa Mar 2030 condições de elegibilidade específicas para este efeito, atendendo à prévia avaliação efetuada a este Programa quanto ao cumprimento do princípio «Não Prejudicar Significativamente».
 
-###### Artigo 8.º — Elegibilidade das despesas
+Artigo 8.º
+
+Elegibilidade das despesas
 
 1 - São consideradas elegíveis, para além das despesas previstas no artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, as especificamente estabelecidas para cada uma das tipologias de ação previstas no presente Regulamento ou nos correspondentes avisos de abertura de candidaturas, desde que imprescindíveis aos objetivos das operações candidatas.
 
@@ -1820,7 +2097,9 @@ h) Trabalhos da empresa para si própria.
 
 3 - Sem prejuízo do disposto no número anterior, apenas é elegível a despesa declarada pelo beneficiário que seja considerada adequada, tendo em conta a sua razoabilidade, incluindo face às condições de mercado, e que resulte de aquisições a terceiros não relacionados com o adquirente.
 
-###### Artigo 9.º — Obrigações dos beneficiários
+Artigo 9.º
+
+Obrigações dos beneficiários
 
 1 - Para além das obrigações previstas no artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, bem como de outras especificamente definidas para cada uma das tipologias de ação previstas no presente Regulamento, constituem ainda obrigações dos beneficiários:
 
@@ -1852,7 +2131,9 @@ k) Cumprir os normativos em matéria de contratação pública relativamente à 
 
 2 - No caso de investimentos produtivos, em que os resultados da operação, pela sua natureza, não sejam atingíveis logo aquando da conclusão daqueles investimentos, o relatório final a que se refere a subalínea ii) da alínea h) do número anterior pode ser apresentado no prazo de dois anos, contados a partir da data de conclusão da operação, podendo o mesmo ser prorrogado em casos devidamente justificados.
 
-###### Artigo 10.º — Pagamentos
+Artigo 10.º
+
+Pagamentos
 
 1 - Os pagamentos a efetuar aos beneficiários observam o regime previsto no artigo 28.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, as regras especiais previstas no capítulo iii e o disposto em aviso para apresentação de candidaturas.
 
@@ -1870,15 +2151,21 @@ k) Cumprir os normativos em matéria de contratação pública relativamente à 
 
 8 - A autoridade de gestão pode, na decisão de aprovação da candidatura, fixar metas intercalares de execução física e financeira e os inerentes prazos para a apresentação dos pedidos de pagamento.
 
-###### Artigo 11.º — Alterações às operações aprovadas
+Artigo 11.º
+
+Alterações às operações aprovadas
 
 Podem ser admitidas alterações à operação, desde que se mantenha o objetivo do projeto aprovado, nos termos do disposto nos n.os 8 e 9 do artigo 25.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-###### Artigo 12.º — Critérios de seleção
+Artigo 12.º
+
+Critérios de seleção
 
 A seleção das operações respeita a metodologia e os critérios aprovados pelo comité de acompanhamento do Programa Mar 2030 e pondera fatores como a adequação à estratégia e o impacto da operação.
 
-###### Artigo 13.º — Taxas de apoio e cobertura orçamental
+Artigo 13.º
+
+Taxas de apoio e cobertura orçamental
 
 1 - O apoio público das operações corresponde à soma da contribuição europeia com a contribuição pública nacional, podendo a contribuição europeia ser de até 70 % da taxa de apoio público.
 
@@ -2308,9 +2595,9 @@ O coeficiente C será obtido a partir de um coeficiente base (CB) e de uma major
 
 b) O valor de referência ajustado (VRA) é calculado com base na arqueação bruta (GT) e idade do navio, nos termos da seguinte tabela:
 
-|  |  |
-| --- | --- |
 | GT | Valor de referência (VR) |
+| --- | --- |
+|  |  |
 | 0 (menor que) 10... | 13 920 x GT + 3 300 |
 | 10 (menor que) 25... | 6 330 x GT + 79 200 |
 | 25 (menor que) 100... | 5 320 x GT + 104 450 |
@@ -2332,9 +2619,9 @@ As receitas são a média anual das vendas do navio nos últimos dois anos civis
 
 O valor de vendas do navio é comprovado pelos valores registados na primeira venda em lota ou através de notas de venda.
 
-|  |  |
-| --- | --- |
 | RV | CR |
+| --- | --- |
+|  |  |
 | (menor que) 0,25... | 0,00 |
 | (igual ou maior que) 0,25 e (menor que) 0,5... | 0,05 |
 | (igual ou maior que) 0,5 e (menor que) 0,75... | 0,10 |
@@ -2471,11 +2758,11 @@ b) As empresas que exercem a sua atividade através de centros de depuração em
 
 2 - No caso de operações em copromoção, lideradas por uma empresa, podem ainda beneficiar dos apoios previstos na presente secção:
 
-a) Instituições do ensino superior, respetivos institutos e unidades de I&D;
+a) Instituições do ensino superior, respetivos institutos e unidades de I&D
 
 b) Laboratórios do Estado ou internacionais com sede ou representação permanente em Portugal;
 
-c) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D;
+c) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D
 
 d) Outras instituições públicas e privadas, sem fins lucrativos, que desenvolvam ou participem em atividades de investigação científica.
 
@@ -2697,11 +2984,11 @@ f) 10850 «Fabricação de refeições e pratos pré-cozinhados, se relativa a p
 
 2 - No caso de operações em copromoção, lideradas por uma empresa, podem ainda beneficiar dos apoios previstos na presente secção:
 
-a) Instituições do ensino superior, seus institutos e unidades de I&D;
+a) Instituições do ensino superior, seus institutos e unidades de I&D
 
 b) Laboratórios do Estado ou internacionais com sede ou representação permanente em Portugal;
 
-c) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D;
+c) Instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D
 
 d) Outras instituições públicas e privadas, sem fins lucrativos, que desenvolvam ou participem em atividades de investigação científica.
 
@@ -4236,3 +4523,7 @@ b) 100 % das despesas elegíveis, no caso de operações cujo beneficiário seja
 ###### Artigo 168.º — Avisos para apresentação de candidaturas
 
 As candidaturas são apresentadas mediante prévia publicação de aviso, por períodos predefinidos, nos termos previstos na subalínea i) da alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
+
+117004819
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl4 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

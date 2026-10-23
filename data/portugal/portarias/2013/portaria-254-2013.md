@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254/2013/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18860f6072bf810f3fc775c3e7db0554624a019289dce25b536d7bab56e8b032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a40cf583b19071ddc169f162505cce58adec5c8076059203ac945644cb1d0b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Apoio à Criação do Próprio Emprego
-- Empreendedorismo
 - Associação Juvenil
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Definição de Competências
-- Impulso Jovem
-- Jovem
-- Instituto Português do Desporto e Juventude
-- Registo Nacional do Associativismo Jovem
 - Associativismo Juvenil
+- Definição de Competências
+- Empreendedorismo
 - Emprego
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Impulso Jovem
+- Instituto do Emprego e Formação Profissional
+- Instituto Português do Desporto e Juventude
+- Jovem
+- Registo Nacional do Associativismo Jovem
 relationships:
+- type: amended_by
+  target: pt:dre:59077886:por
+  label: Alterados os arts. 1.º, 3.º, 4.º e 5.º e o anexo I da Port 155/2013 de 18-abr, na redação do presente diploma, pelo(a)
+    Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-2014-59077886
+  date: '2014-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/155/2013/04/18/p/dre
   label: null
@@ -99,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546031:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:24Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +161,17 @@ Os artigos 1.º, 3.º, 4.º, 5.º e 6.º da Portaria n.º 155/2013, de 18 de abr
 
 A presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações juvenis, inserida no plano estratégico de iniciativas de promoção da empregabilidade juvenil - Impulso Jovem, no âmbito da medida Estágios Emprego, através do programa Incentivo ao Desenvolvimento Associativo (IDA).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Podem candidatar-se ao IDA todas as associações de jovens com inscrição no Registo Nacional do Associativismo Jovem (RNAJ), à exceção dos grupos informais de jovens, que integrem na sua atividade estágios aprovados pelo Instituto do Emprego e Formação profissional, I. P., (IEFP, I. P.) no âmbito da medida Estágios Emprego, e cujos destinatários dos estágios sejam jovens entre os 18 e os 30 anos.
 
 2 - São, ainda, elegíveis as candidaturas que integrem jovens estagiários até aos 35 anos, desde que se enquadrem nas situações previstas no artigo 3.º da [Portaria n.º 204-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/204-b-2013-546031), de 18 de junho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A candidatura ao IDA é apresentada junto dos serviços do IPDJ, I. P., em requerimento constante do anexo I à presente portaria, que dela faz parte integrante, no prazo de 30 dias úteis após a aprovação do estágio pelo IEFP, I. P.
 
@@ -157,7 +179,9 @@ A presente portaria regulamenta a concessão de apoios financeiros destinados ao
 
 3 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O apoio a atribuir pelo IPDJ, I. P., por cada estágio aprovado, tem o valor máximo de (euro) 1000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:
 
@@ -175,7 +199,9 @@ b) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.
 
 6 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária deve devolver todas as quantias não justificadas ao IPDJ, I. P.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -183,45 +209,63 @@ b) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.
 
 3 - [...].
 
-## ANEXO I — [...]
+ANEXO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)
+[...]
 
-###### Artigo 3.º — Disposição transitória
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)
+
+Artigo 3.º
+
+Disposição transitória
 
 As entidades que tenham estágios aprovados em data anterior à data da entrada em vigor da presente portaria que ainda não estejam terminados e preencham os requisitos mencionados no artigo 3.º, podem apresentar a candidatura ao IDA, relativamente a esses estágios, no prazo de 30 dias úteis após a data constante no documento oficial da comunicação da aprovação do estágio pelo IEFP, I. P.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicada em anexo à presente portaria, da qual faz parte integrante, a Portaria n.º 155/2013, de 18 de abril, com a redação atual.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 31 de julho de 2013.**
+O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 31 de julho de 2013.
 
-## ANEXO — (a que se refere o artigo 4.º)
+ANEXO
+
+(a que se refere o artigo 4.º)
 
 Republicação da Portaria n.º 155/2013, de 18 de abril
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 A presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações juvenis, inserida no plano estratégico de iniciativas de promoção da empregabilidade juvenil - Impulso Jovem, no âmbito da medida Estágios Emprego, através do programa Incentivo ao Desenvolvimento Associativo (IDA).
 
-###### Artigo 2.º — Dotação
+Artigo 2.º
+
+Dotação
 
 O Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), define no seu orçamento anual a dotação orçamental específica destinada ao IDA.
 
-###### Artigo 3.º — Condições de elegibilidade
+Artigo 3.º
+
+Condições de elegibilidade
 
 1 - Podem candidatar-se ao IDA todas as associações de jovens com inscrição no Registo Nacional do Associativismo Jovem (RNAJ), à exceção dos grupos informais de jovens, que integrem na sua atividade estágios aprovados pelo Instituto do Emprego e Formação profissional, I. P., (IEFP, I. P.) no âmbito da medida Estágios Emprego, e cujos destinatários dos estágios sejam jovens entre os 18 e os 30 anos.
 
 2 - São, ainda, elegíveis as candidaturas que integrem jovens estagiários até aos 35 anos, desde que se enquadrem nas situações previstas no artigo 3.º da [Portaria n.º 204-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/204-b-2013-546031), de 18 de junho.
 
-###### Artigo 4.º — Apresentação de candidatura
+Artigo 4.º
+
+Apresentação de candidatura
 
 1 - A candidatura ao IDA é apresentada junto dos serviços do IPDJ, I. P., em requerimento constante do anexo I à presente portaria, que dela faz parte integrante, no prazo de 30 dias úteis após a aprovação do estágio pelo IEFP, I. P.
 
@@ -229,7 +273,9 @@ O Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), define no s
 
 3 - As entidades que tenham estágios aprovados em data anterior à data da entrada em vigor da presente portaria e que ainda não estejam terminados e preencham os requisitos mencionados no artigo anterior, podem apresentar a candidatura referida no n.º 1 relativamente a esses estágios no prazo de 30 dias após a referida entrada em vigor.
 
-###### Artigo 5.º — Apoio financeiro
+Artigo 5.º
+
+Apoio financeiro
 
 1 - O apoio a atribuir pelo IPDJ, I. P., por cada estágio aprovado, tem o valor máximo de (euro) 1000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:
 
@@ -247,7 +293,9 @@ b) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.
 
 6 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária deve devolver todas as quantias não justificadas ao IPDJ, I. P.
 
-###### Artigo 6.º — Relatório final
+Artigo 6.º
+
+Relatório final
 
 1 - As entidades que beneficiam do apoio devem apresentar junto dos serviços do IPDJ, I. P. um relatório final de cada estágio, no prazo de 30 dias após o termo do mesmo, de acordo com o modelo constante do anexo II à presente portaria que dela faz parte integrante.
 
@@ -255,22 +303,30 @@ b) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.
 
 3 - O IPDJ, I. P. pode fiscalizar o modo como os apoios são aplicados, mediante a realização, em qualquer momento do estágio, de inspeções e inquéritos, ou determinar a realização de uma auditoria por entidade externa.
 
-###### Artigo 7.º — Casos omissos
+Artigo 7.º
+
+Casos omissos
 
 Quaisquer situações não previstas na presente portaria ou irregularidades detetadas são apreciadas pelo Conselho Diretivo do IPDJ, I. P. ou pelas instâncias competentes.
 
-###### Artigo 8.º — Entrada em vigor
+Artigo 8.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
-## ANEXO I — Requerimento de candidatura
+ANEXO I
+
+Requerimento de candidatura
 
 IDA - Incentivo ao Desenvolvimento Associativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)
 
-## ANEXO II — Relatório final
+ANEXO II
+
+Relatório final
 
 IDA - Incentivo ao Desenvolvimento Associativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0478204786.pdf)

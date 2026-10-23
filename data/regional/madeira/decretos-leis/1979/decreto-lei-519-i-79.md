@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1979, 3º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3414-(23) a 3414-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00230023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-i-1979-510010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2296343f73e8ba08923e36803cc577f567ec48bac0fa44c58dedcb27e0f51f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aa79a9b4fec553455bc83be68244affc17af61456a6bb682e299de4a30210c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Política de Transportes
+- Transferência de Competências
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:03Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +112,13 @@ O presente diploma, destinando-se a transferir a competência dos órgãos centr
 
 Nestes termos, ouvido o Governo Regional, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ao Governo Regional da Madeira compete definir e executar a política de transportes marítimos da Região, que se deverá enquadrar na política nacional do sector.
+Artigo 1.º - 1 - Ao Governo Regional da Madeira compete definir e executar a política de transportes marítimos da Região, que se deverá enquadrar na política nacional do sector.
 
 2 - Da política que o Governo Regional da Madeira definir para o sector será dado prévio conhecimento ao Governo da República.
 
 3 - Para efeitos do disposto no presente diploma consideram-se «transportes marítimos da Região» os transportes de passageiros ou de mercadorias efectuados apenas entre os portos da Região Autónoma da Madeira.
 
-###### Art. 2.º Nos termos do artigo 1.º, ao Governo Regional da Madeira compete, designadamente:
+Art. 2.º Nos termos do artigo 1.º, ao Governo Regional da Madeira compete, designadamente:
 
 a) Autorizar e promover, em conformidade com a lei, a inscrição das entidades que pretendam exercer a indústria dos transportes marítimos, quando limitado ao tráfego entre portos da Região;
 
@@ -118,16 +136,16 @@ g) Participar na elaboração e alteração da legislação referente à inscri�
 
 h) Fixar a lotação das unidades que operam nos transportes marítimos da Região, atentas as necessidades e particularidades próprias e tendo em conta as disposições legais de aplicação para todo o território nacional e as convenções internacionais.
 
-###### Art. 3.º O Governo Regional da Madeira, através dos seus organismos competentes, dará regular conhecimento ao Governo da República das decisões ou medidas que vierem a ser tomadas, ao abrigo das alíneas a), d) e e) do artigo 2.º
+Art. 3.º O Governo Regional da Madeira, através dos seus organismos competentes, dará regular conhecimento ao Governo da República das decisões ou medidas que vierem a ser tomadas, ao abrigo das alíneas a), d) e e) do artigo 2.º
 
-###### Art. 4.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Madeira e do Ministro dos Transportes e Comunicações, ouvido o Governo Regional.
+Art. 4.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Madeira e do Ministro dos Transportes e Comunicações, ouvido o Governo Regional.
 
-###### Art. 5.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1980.
+Art. 5.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1980.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Henrique Afonso da Silva Horta - Frederico Alberto Monteiro da Silva.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

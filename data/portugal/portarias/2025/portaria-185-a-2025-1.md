@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/185-a/2025/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-a-2025-915057637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 084b10615039e81fc91c3a7d2555c5d4378f0eec2ed67548078741ba27e422ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 275535bb6de39098e34fcb8865f60d4bb496916db6248d51bd9c811286e85140
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Ação Social Escolar
 - Beneficiário
-- Criança
 - Contrato
-- Educação
-- Regulamentação de Atos Legislativos
+- Criança
 - Direção Geral da Administração Escolar
+- Educação
+- Educação Pré-escolar
 - Ensino Cooperativo
 - Ensino Particular
-- Sistema de Ensino
-- Educação Pré-escolar
 - Ministério da Educação Ciência e Inovação
+- Regulamentação de Atos Legislativos
+- Sistema de Ensino
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
@@ -111,16 +111,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2025/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2025/03/19/p/dre
+- type: cites
+  target: pt:dre:115093805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909595543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911488703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912066255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915065:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:15Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +197,7 @@ Em concretização da aposta do XXIV Governo Constitucional na educação pré-e
 
 No que se refere ao ensino particular e cooperativo, resulta do disposto na alínea a) do n.º 2 e no n.º 4 do artigo 8.º da [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de março, que estabelece as respetivas bases, na sua redação atual, que o Estado pode celebrar contratos com estabelecimentos particulares e cooperativos que se localizem em áreas carenciadas da rede pública escolar, sendo garantida a igualdade entre os alunos relativamente a despesas com propinas e matrículas, o que é concretizado por via do disposto no EEPC.
 
-De acordo com o disposto no n.º 4 do artigo 9.º do EEPC, o Governo estabelece a regulamentação adequada para a celebração dos contratos e a concessão dos apoios financeiros legalmente previstos, com especificação dos compromissos a assumir por ambas as partes, bem como a fiscalização do respetivo cumprimento, ouvidas as estruturas representativas das entidades titulares do setor. Em decorrência, resulta do disposto nos artigos 10.º, n.º 6, e 17.º, n.<sup>os</sup>1 e 3, do EEPC, que a regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+De acordo com o disposto no n.º 4 do artigo 9.º do EEPC, o Governo estabelece a regulamentação adequada para a celebração dos contratos e a concessão dos apoios financeiros legalmente previstos, com especificação dos compromissos a assumir por ambas as partes, bem como a fiscalização do respetivo cumprimento, ouvidas as estruturas representativas das entidades titulares do setor. Em decorrência, resulta do disposto nos artigos 10.º, n.º 6, e 17.º, n.os1 e 3, do EEPC, que a regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
 Neste contexto, revela-se necessário desenvolver e concretizar todos os procedimentos e mecanismos que permitam assegurar que, no início do ano letivo de 2025/2026, de acordo com o calendário escolar estabelecido, as crianças frequentem a educação pré-escolar em estabelecimentos do ensino particular e cooperativo em condições idênticas às do ensino ministrado nas escolas públicas, como impõe o n.º 1 do artigo 16.º do EEPC.
 
@@ -153,7 +205,7 @@ Cumpre, assim, proceder à regulamentação dos procedimentos destinados à form
 
 Assim:
 
-Nos termos do disposto no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.<sup>os</sup>1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
+Nos termos do disposto no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.os1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
 
 #### SECÇÃO I — DISPOSIÇÕES GERAIS
 
@@ -405,7 +457,7 @@ A minuta do contrato de associação para a educação pré-escolar a celebrar c
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 14 de abril de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de abril de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 14 de abril de 2025. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 11 de abril de 2025.
 
 ## ANEXO I — (a que se refere o artigo 20.º)
 
@@ -618,3 +670,5 @@ Pelo Segundo Outorgante,
 (*indicar a qualidade em que assina)
 
 (*indicar o nome do representante da entidade titular).
+
+118949769

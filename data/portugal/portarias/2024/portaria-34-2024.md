@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02200/0002500027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2024/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2024-839799722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ac8bd476f97a8cc41a2849ff5e13a8743d1fd9b088e877aae0d8d9500ce83e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d319978ab394a820fd54aa49fe15b76b7bf9e4069b0c02ae97d1d5c6d76fafd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato Coletivo de Trabalho
-- Regime Laboral
 - Convenção Coletiva de Trabalho
 - Prestação de Serviços
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Tabela Salarial
@@ -95,16 +95,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114100327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117663342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125633671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205689379:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:318/2017
+  label: Revoga, a partir de 05 de fevereiro de 2024, nos termos da alínea a) do artigo 2.º do presente diploma, a Portaria
+    n.º 318/2017, de 25 de outubro, Diário da República n.º 206/2017, Série I
+  source: null
+  date: '2017-10-25'
+- type: repeals
+  target: pt:numero:portaria:9/2019
+  label: Revoga, a partir de 05 de fevereiro de 2024, nos termos da alínea b) do artigo 2.º do presente diploma, a Portaria
+    n.º 9/2019, de 10 de janeiro, Diário da República n.º 7/2019, Série I
+  source: null
+  date: '2019-01-10'
+- type: repeals
+  target: pt:numero:portaria:386/2019
+  label: Revoga, a partir de 05 de fevereiro de 2024, nos termos da alínea c) do artigo 2.º do presente diploma, a Portaria
+    n.º 386/2019, de 24 de outubro, Diário da República n.º 205/2019, Série I
+  source: null
+  date: '2019-10-24'
+- type: repeals
+  target: pt:numero:portaria:11/2023
+  label: Revoga, a partir de 05 de fevereiro de 2024, nos termos da alínea d) do artigo 2.º do presente diploma, a Portaria
+    n.º 11/2023, de 4 de janeiro, Diário da República n.º 3/2023, Série I
+  source: null
+  date: '2023-01-04'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:13Z'
   warnings: []
   errors: []
 ---
@@ -175,4 +223,6 @@ d) A [Portaria n.º 11/2023](https://diariodarepublica.pt/dr/detalhe/portaria/11
 
 2 - A tabela salarial e as cláusulas de natureza pecuniária em vigor previstas na convenção produzem efeitos a partir de 1 de outubro de 2023.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 26 de janeiro de 2024.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 26 de janeiro de 2024.
+
+117296111

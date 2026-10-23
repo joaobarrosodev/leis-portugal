@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14800/0005000060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2019/08/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2019-123666151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0e3f793e3e19d9678019fd1db6c3f1c99c178d72a4db84ef06e6a4ff6130d12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abda83e31df5b89631400523e666a7d98b411b74c43fb679ef8621888a0338a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
+- Alimentação
+- Autoridade Regional das Atividades Económicas
 - Campo de Férias
 - Contra-ordenação
 - Coordenador
 - Definição de Competências
 - Direcção Regional da Madeira
-- Saúde Pública
-- Férias
-- Fiscalização
-- Tempos Livres
-- Jovem
-- Seguro
 - Direcção Regional de Juventude e Desporto
 - Documento Eletrónico
+- Férias
+- Fiscalização
+- Governo Electrónico
+- Jovem
+- Livro de Reclamações
+- Madeira.região Autónoma
 - Monitor
 - Pessoal Técnico
-- Governo Electrónico
-- Alimentação
 - Programa Formativo de Inserção de Jovens
-- Madeira.região Autónoma
 - Registo Prévio
+- Saúde Pública
 - Segurança das Instalações
+- Seguro
 - Taxa
+- Tempos Livres
 - Vistoria
-- Autoridade Regional das Atividades Económicas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
@@ -119,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:279423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:23Z'
   warnings: []
   errors: []
 ---
@@ -353,7 +389,9 @@ c) As ações previstas em relação à seleção, recrutamento e formação com
 
 É da exclusiva responsabilidade das entidades organizadoras celebrarem um contrato de seguro que cubra acidentes pessoais dos participantes com valor mínimo e âmbito de cobertura fixados por portaria conjunta emitida pelos membros do Governo Regional competentes em matéria de juventude e finanças.
 
-###### Artigo 17.º — Livro de reclamações
+###### Artigo 17.º
+
+## Livro de reclamações
 
 1 - As entidades organizadoras de campos de férias devem possuir um livro de reclamações, nos termos da legislação em vigor.
 
@@ -567,10 +605,12 @@ Em tudo o que não se encontrar previsto no presente diploma em matéria de cont
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de junho de 2019.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 10 de julho de 2019.**
+Assinado em 10 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112471743

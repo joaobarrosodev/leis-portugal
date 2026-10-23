@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(355) a 7056-(356)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0035500356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-f/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-f-2013-164424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 867d87735e9435814674c2ba12f73b7d6988f4a5670a1ed391cc963ce50b6288
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed0c2796f1ea117c49c7709d85620830e38b9bddb060166bcd294c48ba2efc5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Eletrónico
-- União Europeia
-- Frota de Pesca
-- Pesca
 - Comunicação por Satélite
-- Licença de Pesca
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Regulamento CE
 - Embarcação de Pesca
+- Equipamento Eletrónico
+- Frota de Pesca
+- Licença de Pesca
+- Pesca
+- Regulamento CE
 - Satélite
 - Segurança Marítima
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:203729606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66022096:por
+  label: Determinado que as isenções em vigor a 31.12.2014, reconhecidas nos termos do presente diploma, mantêm-se válidas
+    a partir de 01.01.2015, pelo(a) Portaria n.º 286-D/2014 - Diário da República n.º 252/2014, 3º Suplemento, Série I de
+    2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-d-2014-66022096
+  date: '2014-12-31'
 - type: cites
   target: celex:32009R1224
   label: null
   source: http://data.europa.eu/eli/reg/2009/1224/oj
+- type: repealed_by
+  target: pt:dre:203729606:por
+  label: Revogada pelo(a) Portaria n.º 281/2022 - Diário da República n.º 225/2022, Série I de 2022-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2022-203729606
+  date: '2022-11-22'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:09Z'
   warnings: []
   errors: []
 ---
@@ -155,8 +167,8 @@ Qualquer infração ao disposto nos artigos 2.º e 3.º da presente portaria est
 
 A presente portaria entra em vigor a 1 de janeiro de 2014.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 30 de dezembro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 30 de dezembro de 2013.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25303/0035500356.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25303/0035500356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25303/0035500356.pdf)

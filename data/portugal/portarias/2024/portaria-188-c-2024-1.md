@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15701/0002400031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/188-c/2024/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-c-2024-877330487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07190f3ca029acfb0a5997d27a4efb2fcde42360e4419576f8971cab66f96b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8522e2f78b99193e28c844c7e065c751e52485eed9402c103347fe74f255975c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Formação Profissional
-- Regulamentação de Atos Legislativos
 - Ensino Médico
+- Formação Profissional
 - Internato Médico
+- Médico
 - Programa de Formação
 - Radiologia
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2018/02/26/p/dre
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79/2018/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79/2018/03/16/p/dre
+- type: cites
+  target: pt:dre:114766032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114880294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115730616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:15Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +164,7 @@ A aplicação e desenvolvimento do programa de formação compete aos órgãos e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Saúde, Ana Paula Mecheiro de Almeida Martins Silvestre Correia, em 9 de agosto de 2024.**
+A Ministra da Saúde, Ana Paula Mecheiro de Almeida Martins Silvestre Correia, em 9 de agosto de 2024.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -469,3 +493,5 @@ Esta prova consta de um teste escrito com perguntas de escolha múltipla, a real
 7.1 - O presente programa aplica-se aos médicos internos que iniciem a formação especializada a partir da data da sua publicação.
 
 7.2 - Sem prejuízo do disposto no n.º 7.1, os médicos internos que se encontrem a frequentar os dois primeiros anos da formação especializada podem optar pelo presente programa de formação, desde que a duração total da formação especializada seja mantida, devendo os interessados apresentar para o efeito na direção do internato médico da instituição de colocação, no prazo de dois meses a partir da data de publicação da presente portaria, uma declaração onde conste essa pretensão, a qual deve merecer a concordância do diretor do serviço e do orientador de formação.
+
+118015894

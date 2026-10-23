@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/153/2022/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ba108f84ef39df4e6aa9047795de8f2ea1ce86b388e8a85b3d11d4548a625c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1767931d9fb16a091e4314f1105bf8ca0da0e67356d7c38879300d9e343e69c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Escola Superior de Música
 - Escola Superior de Música e das Artes do Espectáculo
 - Instituto Politécnico
-- Regulamento
 - Porto
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -114,16 +114,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/150/2013/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/150/2013/04/15/p/dre
+- type: cites
+  target: pt:dre:115017487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122349222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130070742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:12Z'
   warnings: []
   errors: []
 ---
@@ -152,9 +224,11 @@ A tabela i do Regulamento do Concurso Local para a Candidatura à Matrícula e I
 
 Provas específicas a realizar para cada variante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
-###### Artigo 3.º — Alterações à tabela de classificações mínimas a obter nas provas específicas a realizar para o acesso ao curso de licenciatura em Música
+Artigo 3.º
+
+Alterações à tabela de classificações mínimas a obter nas provas específicas a realizar para o acesso ao curso de licenciatura em Música
 
 A tabela ii do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Música da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo i da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -162,9 +236,11 @@ A tabela ii do Regulamento do Concurso Local para a Candidatura à Matrícula e 
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
-###### Artigo 4.º — Alterações à tabela da fórmula de cálculo da classificação final das provas específicas de acesso ao curso de licenciatura em Música
+Artigo 4.º
+
+Alterações à tabela da fórmula de cálculo da classificação final das provas específicas de acesso ao curso de licenciatura em Música
 
 A tabela iii do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Música da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo i da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -172,7 +248,7 @@ A tabela iii do Regulamento do Concurso Local para a Candidatura à Matrícula e
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 em que:
 
@@ -190,7 +266,9 @@ PEPTM = classificação da prova escrita - PTM;
 
 POPTM = classificação da prova oral - PTM.»
 
-###### Artigo 5.º — Alteração ao Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro
+Artigo 5.º
+
+Alteração ao Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro
 
 O artigo 4.º do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo ii da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -210,7 +288,9 @@ d) Prova Vídeo.
 
 2 - [...]»
 
-###### Artigo 6.º — Alterações à tabela de provas específicas a realizar para cada variante para acesso ao curso de licenciatura em Teatro
+Artigo 6.º
+
+Alterações à tabela de provas específicas a realizar para cada variante para acesso ao curso de licenciatura em Teatro
 
 A tabela i do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo ii da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -218,9 +298,11 @@ A tabela i do Regulamento do Concurso Local para a Candidatura à Matrícula e I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
-###### Artigo 7.º — Alterações à tabela de classificação mínima a obter nas provas específicas de licenciatura em Teatro
+Artigo 7.º
+
+Alterações à tabela de classificação mínima a obter nas provas específicas de licenciatura em Teatro
 
 A tabela ii do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo ii da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -228,9 +310,11 @@ A tabela ii do Regulamento do Concurso Local para a Candidatura à Matrícula e 
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
-###### Artigo 8.º — Alterações à tabela da fórmula de cálculo da classificação final das provas específicas de acesso à licenciatura em Teatro
+Artigo 8.º
+
+Alterações à tabela da fórmula de cálculo da classificação final das provas específicas de acesso à licenciatura em Teatro
 
 A tabela iii do Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, constante do anexo ii da [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, na sua redação atual, passa a ter a seguinte redação:
 
@@ -238,7 +322,7 @@ A tabela iii do Regulamento do Concurso Local para a Candidatura à Matrícula e
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 em que:
 
@@ -260,29 +344,39 @@ PCGT = classificação da prova de conhecimentos gerais de Teatro.
 
 ET = classificação da entrevista.»
 
-###### Artigo 9.º — Republicação
+Artigo 9.º
+
+Republicação
 
 Os Regulamentos dos Concursos Locais para as Candidaturas à Matrícula e Inscrição nos Cursos de Licenciatura em Música e em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, aprovados pela [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril, com a redação agora introduzida, são republicados em anexo, que é parte integrante do presente ato.
 
-###### Artigo 10.º — Entrada em vigor e produção de efeitos
+Artigo 10.º
+
+Entrada em vigor e produção de efeitos
 
 1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 2 - As alterações aprovadas pela presente portaria produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 28 de abril de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 28 de abril de 2022.
 
-## ANEXO
+ANEXO
 
 Republicação dos Regulamentos dos Concursos Locais para as Candidaturas à Matrícula e Inscrição nos Cursos de Licenciatura em Música e em Teatro da Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, aprovados em anexo à [Portaria n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/portaria/150-2013-260438), de 15 de abril.
 
-## ANEXO I — REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM MÚSICA DA ESCOLA SUPERIOR DE MÚSICA E ARTES DO ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO
+ANEXO I
 
-###### Artigo 1.º — Objeto e âmbito
+REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM MÚSICA DA ESCOLA SUPERIOR DE MÚSICA E ARTES DO ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO
+
+Artigo 1.º
+
+Objeto e âmbito
 
 O presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Música, ministrado pela Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto.
 
-###### Artigo 2.º — Condições gerais para apresentação ao concurso
+Artigo 2.º
+
+Condições gerais para apresentação ao concurso
 
 1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:
 
@@ -296,7 +390,9 @@ d) Não estar abrangido pelo estatuto do estudante internacional regulado pelo [
 
 2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela [Declaração de Retificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de junho.
 
-###### Artigo 3.º — Avaliação da capacidade para a frequência
+Artigo 3.º
+
+Avaliação da capacidade para a frequência
 
 A avaliação da capacidade para a frequência do curso é efetuada através da realização de provas específicas de acesso que se destinam a avaliar:
 
@@ -308,7 +404,9 @@ c) A vocação artística;
 
 d) A criatividade.
 
-###### Artigo 4.º — Provas específicas de acesso
+Artigo 4.º
+
+Provas específicas de acesso
 
 1 - São componentes de avaliação da capacidade para a frequência do curso as seguintes provas específicas de acesso:
 
@@ -324,13 +422,17 @@ e) Portfólio.
 
 2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação são os constantes das tabelas i a iii anexas ao presente Regulamento.
 
-###### Artigo 5.º — Chamadas das provas específicas de acesso
+Artigo 5.º
+
+Chamadas das provas específicas de acesso
 
 1 - As provas específicas de acesso realizam-se numa única chamada.
 
 2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, pode ser realizada uma 2.ª chamada das provas específicas de acesso.
 
-###### Artigo 6.º — Regulamento das provas específicas de acesso
+Artigo 6.º
+
+Regulamento das provas específicas de acesso
 
 O regulamento das provas específicas de acesso é aprovado por despacho do presidente do Instituto, publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do Instituto antes do início das mesmas e abrange:
 
@@ -348,11 +450,15 @@ f) Os motivos de exclusão;
 
 g) O procedimento relacionado com as reclamações.
 
-###### Artigo 7.º — Validade das provas específicas de acesso
+Artigo 7.º
+
+Validade das provas específicas de acesso
 
 As provas específicas de acesso são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam.
 
-###### Artigo 8.º — Condições para a candidatura
+Artigo 8.º
+
+Condições para a candidatura
 
 Para a candidatura a cada variante do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:
 
@@ -362,11 +468,15 @@ b) Ter obtido nessas provas específicas de acesso a classificação mínima fix
 
 c) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores.
 
-###### Artigo 9.º — Vagas
+Artigo 9.º
+
+Vagas
 
 A matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela [Declaração de Retificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de junho.
 
-###### Artigo 10.º — Edital
+Artigo 10.º
+
+Edital
 
 Em cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:
 
@@ -380,7 +490,9 @@ d) A informação sobre a instrução de processos de reclamação;
 
 e) Os emolumentos devidos.
 
-###### Artigo 11.º — Fases do concurso
+Artigo 11.º
+
+Fases do concurso
 
 1 - O concurso organiza-se numa fase ou, se existirem vagas sobrantes, em duas fases.
 
@@ -390,7 +502,9 @@ a) Vagas sobrantes da 1.ª fase do concurso;
 
 b) Vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição, e que não tenham sido utilizadas para convocar à matrícula e inscrição candidatos não colocados na 1.ª fase do concurso.
 
-###### Artigo 12.º — Candidatos à 2.ª fase do concurso
+Artigo 12.º
+
+Candidatos à 2.ª fase do concurso
 
 À 2.ª fase do concurso podem apresentar-se:
 
@@ -400,11 +514,15 @@ b) Os estudantes que, embora reunindo condições de candidatura no prazo de apr
 
 c) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 1.ª fase.
 
-###### Artigo 13.º — Modo de realização da candidatura
+Artigo 13.º
+
+Modo de realização da candidatura
 
 A candidatura é apresentada, exclusivamente, através de sistema online, no sítio da Internet do Instituto.
 
-###### Artigo 14.º — Apresentação da candidatur3a
+Artigo 14.º
+
+Apresentação da candidatur3a
 
 Têm legitimidade para efetuar a apresentação da candidatura:
 
@@ -414,7 +532,9 @@ b) Um seu procurador bastante;
 
 c) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.
 
-###### Artigo 15.º — Instrução do processo de candidatura
+Artigo 15.º
+
+Instrução do processo de candidatura
 
 1 - O processo de candidatura é instruído com:
 
@@ -438,7 +558,9 @@ ii) Documento emitido pela Direção-Geral do Ensino Superior, a requerimento do
 
 d) Outros documentos referidos no edital a que se refere o artigo 10.º
 
-###### Artigo 16.º — Indeferimento liminar
+Artigo 16.º
+
+Indeferimento liminar
 
 1 - São liminarmente indeferidas as candidaturas que se encontrem numa das seguintes condições:
 
@@ -456,7 +578,9 @@ e) Sejam efetuadas por candidatos oriundos do Instituto em situação irregular 
 
 3 - Em caso de indeferimento liminar, os candidatos são notificados por via eletrónica e através do sistema online.
 
-###### Artigo 17.º — Cálculo da nota de candidatura
+Artigo 17.º
+
+Cálculo da nota de candidatura
 
 1 - A nota de candidatura é uma classificação na escala de 0 a 20 valores, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:
 
@@ -472,7 +596,9 @@ CFPEA = classificação final nas provas específicas de acesso.
 
 2 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados por deliberação da Comissão Nacional de Acesso ao Ensino Superior.
 
-###### Artigo 18.º — Seriação
+Artigo 18.º
+
+Seriação
 
 1 - A seriação dos candidatos a cada variante é realizada por opção/instrumento e pela ordem decrescente das respetivas notas de candidatura.
 
@@ -486,15 +612,21 @@ c) Classificação obtida na prova oral.
 
 3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola.
 
-###### Artigo 19.º — Colocação
+Artigo 19.º
+
+Colocação
 
 Em cada fase do concurso, a colocação dos candidatos é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior.
 
-###### Artigo 20.º — Desempate
+Artigo 20.º
+
+Desempate
 
 Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º, disputem a última vaga ou o último conjunto de vagas de cada variante, opção/instrumento, são abertas tantas vagas adicionais quanto as necessárias para os admitir.
 
-###### Artigo 21.º — Decisão
+Artigo 21.º
+
+Decisão
 
 1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante, opção/instrumento, publicado no sítio da Internet do Instituto.
 
@@ -518,7 +650,9 @@ c) Nota de candidatura;
 
 d) Resultado final.
 
-###### Artigo 22.º — Reclamação
+Artigo 22.º
+
+Reclamação
 
 1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º
 
@@ -532,7 +666,9 @@ d) Resultado final.
 
 6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida.
 
-###### Artigo 23.º — Matrícula e inscrição
+Artigo 23.º
+
+Matrícula e inscrição
 
 1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º
 
@@ -542,7 +678,9 @@ d) Resultado final.
 
 4 - Os candidatos a que se refere o número anterior terão um prazo de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição.
 
-###### Artigo 24.º — Exclusão de candidatos
+Artigo 24.º
+
+Exclusão de candidatos
 
 1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
 
@@ -554,7 +692,9 @@ b) Não reúnam as condições para se apresentarem a concurso.
 
 3 - Caso a matrícula tenha sido realizada e se confirme uma das situações previstas no n.º 1 do presente artigo, aquela é anulada, bem como todos os atos praticados ao abrigo da mesma.
 
-###### Artigo 25.º — Retificações
+Artigo 25.º
+
+Retificações
 
 1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.
 
@@ -580,19 +720,27 @@ d) Passagem à situação de Excluído.
 
 8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos.
 
-###### Artigo 26.º — Validade do concurso local
+Artigo 26.º
+
+Validade do concurso local
 
 O concurso é válido apenas para o ano letivo a que respeita.
 
-###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo
+Artigo 27.º
+
+Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo
 
 O Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo.
 
-###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior
+Artigo 28.º
+
+Comunicação à Direção-Geral do Ensino Superior
 
 Findo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante e nome e número de identificação civil dos mesmos.
 
-###### Artigo 29.º — Prazos
+Artigo 29.º
+
+Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados anualmente pelo presidente do Instituto e divulgados através do edital a que se refere o artigo 10.º
 
@@ -606,7 +754,7 @@ Curso de licenciatura em Música
 
 Provas específicas a realizar para cada variante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 TABELA II
 
@@ -620,7 +768,7 @@ Classificação mínima a obter nas provas específicas
 
 (na escala numérica de 0 a 20 arredondada às décimas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 TABELA III
 
@@ -632,7 +780,7 @@ Curso de licenciatura em Música
 
 Fórmula de cálculo da classificação final das provas específicas de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 em que:
 
@@ -650,13 +798,19 @@ PEPTM = classificação da prova escrita - PTM;
 
 POPTM = classificação da prova oral - PTM.
 
-## ANEXO II — REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM TEATRO DA ESCOLA SUPERIOR DE MÚSICA E ARTES DO ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO
+ANEXO II
 
-###### Artigo 1.º — Objeto e âmbito
+REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM TEATRO DA ESCOLA SUPERIOR DE MÚSICA E ARTES DO ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO
+
+Artigo 1.º
+
+Objeto e âmbito
 
 O presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Teatro, ministrado pela Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto.
 
-###### Artigo 2.º — Condições gerais para apresentação ao concurso
+Artigo 2.º
+
+Condições gerais para apresentação ao concurso
 
 1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:
 
@@ -670,7 +824,9 @@ d) Não estar abrangido pelo estatuto do estudante internacional regulado pelo [
 
 2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela [Declaração de Retificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de junho.
 
-###### Artigo 3.º — Avaliação da capacidade para a frequência
+Artigo 3.º
+
+Avaliação da capacidade para a frequência
 
 A avaliação da capacidade para a frequência do curso é efetuada através da realização de provas específicas de acesso que se destinam a avaliar:
 
@@ -682,7 +838,9 @@ c) A vocação artística;
 
 d) A criatividade.
 
-###### Artigo 4.º — Provas específicas de acesso
+Artigo 4.º
+
+Provas específicas de acesso
 
 1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:
 
@@ -696,13 +854,17 @@ d) Prova Vídeo.
 
 2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação são os constantes das tabelas i a iii anexas ao presente Regulamento.
 
-###### Artigo 5.º — Chamadas das provas específicas de acesso
+Artigo 5.º
+
+Chamadas das provas específicas de acesso
 
 1 - As provas específicas de acesso realizam-se numa única chamada.
 
 2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, poderá ser realizada uma 2.ª chamada das provas específicas de acesso.
 
-###### Artigo 6.º — Regulamento das provas específicas de acesso
+Artigo 6.º
+
+Regulamento das provas específicas de acesso
 
 O regulamento das provas específicas de acesso é aprovado por despacho do presidente do Instituto, publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do Instituto antes do início das mesmas e abrange:
 
@@ -720,11 +882,15 @@ f) Os motivos de exclusão;
 
 g) O procedimento relacionado com as reclamações.
 
-###### Artigo 7.º — Validade das provas específicas de acesso
+Artigo 7.º
+
+Validade das provas específicas de acesso
 
 As provas específicas de acesso são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam.
 
-###### Artigo 8.º — Condições para a candidatura
+Artigo 8.º
+
+Condições para a candidatura
 
 Para a candidatura a cada variante do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:
 
@@ -734,11 +900,15 @@ b) Ter obtido nessas provas específicas de acesso a classificação mínima fix
 
 c) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores.
 
-###### Artigo 9.º — Vagas
+Artigo 9.º
+
+Vagas
 
 A matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela [Declaração de Retificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de junho.
 
-###### Artigo 10.º — Edital
+Artigo 10.º
+
+Edital
 
 Em cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:
 
@@ -752,7 +922,9 @@ d) A informação sobre a instrução de processos de reclamação;
 
 e) Os emolumentos devidos.
 
-###### Artigo 11.º — Fases do concurso
+Artigo 11.º
+
+Fases do concurso
 
 1 - O concurso organiza-se numa fase ou, se existirem vagas sobrantes, em duas fases.
 
@@ -762,7 +934,9 @@ a) Vagas sobrantes da 1.ª fase do concurso;
 
 b) Vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição, e que não tenham sido utilizadas para convocar à matrícula e inscrição candidatos não colocados na 1.ª fase do concurso.
 
-###### Artigo 12.º — Candidatos à 2.ª fase do concurso
+Artigo 12.º
+
+Candidatos à 2.ª fase do concurso
 
 À 2.ª fase do concurso podem apresentar-se:
 
@@ -772,11 +946,15 @@ b) Os estudantes que, embora reunindo condições de candidatura no prazo de apr
 
 c) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 1.ª fase.
 
-###### Artigo 13.º — Modo de realização da candidatura
+Artigo 13.º
+
+Modo de realização da candidatura
 
 A candidatura é apresentada, exclusivamente, através de sistema online, no sítio da Internet do Instituto.
 
-###### Artigo 14.º — Apresentação da candidatura
+Artigo 14.º
+
+Apresentação da candidatura
 
 Têm legitimidade para efetuar a apresentação da candidatura:
 
@@ -786,7 +964,9 @@ b) Um seu procurador bastante;
 
 c) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.
 
-###### Artigo 15.º — Instrução do processo de candidatura
+Artigo 15.º
+
+Instrução do processo de candidatura
 
 1 - O processo de candidatura é instruído com:
 
@@ -810,7 +990,9 @@ ii) Documento emitido pela Direção-Geral do Ensino Superior, a requerimento do
 
 d) Outros documentos referidos no edital a que se refere o artigo 10.º
 
-###### Artigo 16.º — Indeferimento liminar
+Artigo 16.º
+
+Indeferimento liminar
 
 1 - São liminarmente indeferidas as candidaturas que se encontrem numa das seguintes condições:
 
@@ -828,7 +1010,9 @@ e) Sejam efetuadas por candidatos oriundos do Instituto em situação irregular 
 
 3 - Em caso de indeferimento liminar, os candidatos são notificados por via eletrónica e através do sistema online.
 
-###### Artigo 17.º — Cálculo da nota de candidatura
+Artigo 17.º
+
+Cálculo da nota de candidatura
 
 1 - A nota de candidatura é uma classificação na escala de 0 a 20 valores, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:
 
@@ -844,7 +1028,9 @@ CFPEA = classificação final nas provas específicas de acesso.
 
 2 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados por deliberação da Comissão Nacional de Acesso ao Ensino Superior.
 
-###### Artigo 18.º — Seriação
+Artigo 18.º
+
+Seriação
 
 1 - A seriação dos candidatos a cada variante é realizada pela ordem decrescente das respetivas notas de candidatura.
 
@@ -856,15 +1042,21 @@ b) Classificação obtida nas provas específicas por ordem decrescente de fator
 
 3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola.
 
-###### Artigo 19.º — Colocação
+Artigo 19.º
+
+Colocação
 
 Em cada fase do concurso, a colocação dos candidatos é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior.
 
-###### Artigo 20.º — Desempate
+Artigo 20.º
+
+Desempate
 
 Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º, disputem a última vaga ou o último conjunto de vagas de cada variante são abertas tantas vagas adicionais quanto as necessárias para os admitir.
 
-###### Artigo 21.º — Decisão
+Artigo 21.º
+
+Decisão
 
 1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante publicado no sítio da Internet do Instituto.
 
@@ -888,7 +1080,9 @@ c) Nota de candidatura;
 
 d) Resultado final.
 
-###### Artigo 22.º — Reclamação
+Artigo 22.º
+
+Reclamação
 
 1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º
 
@@ -902,7 +1096,9 @@ d) Resultado final.
 
 6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida.
 
-###### Artigo 23.º — Matrícula e inscrição
+Artigo 23.º
+
+Matrícula e inscrição
 
 1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º
 
@@ -912,7 +1108,9 @@ d) Resultado final.
 
 4 - Os candidatos a que se refere o número anterior terão um prazo de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição.
 
-###### Artigo 24.º — Exclusão de candidatos
+Artigo 24.º
+
+Exclusão de candidatos
 
 1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
 
@@ -924,7 +1122,9 @@ b) Não reúnam as condições para se apresentarem a concurso.
 
 3 - Caso a matrícula tenha sido realizada e se confirme uma das situações previstas no n.º 1 do presente artigo, aquela é anulada, bem como todos os atos praticados ao abrigo da mesma.
 
-###### Artigo 25.º — Retificações
+Artigo 25.º
+
+Retificações
 
 1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.
 
@@ -950,19 +1150,27 @@ d) Passagem à situação de Excluído.
 
 8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos.
 
-###### Artigo 26.º — Validade do concurso local
+Artigo 26.º
+
+Validade do concurso local
 
 O concurso é válido apenas para o ano letivo a que respeita.
 
-###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo
+Artigo 27.º
+
+Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo
 
 O Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo.
 
-###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior
+Artigo 28.º
+
+Comunicação à Direção-Geral do Ensino Superior
 
 Findo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante e nome e número de identificação civil dos mesmos.
 
-###### Artigo 29.º — Prazos
+Artigo 29.º
+
+Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados anualmente pelo presidente do Instituto e divulgados através do edital a que se refere o artigo 10.º
 
@@ -976,7 +1184,7 @@ Curso de licenciatura em Teatro
 
 Provas específicas a realizar para cada variante e ramo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 TABELA II
 
@@ -990,7 +1198,7 @@ Classificação mínima a obter nas provas específicas
 
 (na escala numérica de 0 a 20 arredondada às décimas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 TABELA III
 
@@ -1002,7 +1210,7 @@ Curso de licenciatura em Teatro
 
 Fórmula de cálculo da classificação final das provas específicas de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10600/0000600028.pdf)
 
 em que:
 
@@ -1023,3 +1231,5 @@ PPimt = classificação da prova prática - Improvisação/Texto;
 PCGT = classificação da prova de conhecimentos gerais de Teatro;
 
 ET = classificação da entrevista.
+
+115374362

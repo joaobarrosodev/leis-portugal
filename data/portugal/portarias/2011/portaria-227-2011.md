@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11100/0306603067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/227/2011/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-2011-670041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9883ec145e9b464d69be55c425ff90e8fda220a0a1da6858561b16f26ed4db10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cf981c6a741bd89d465195498133f959402013865de78dd12c989caa9e3740b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Álcool
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Destilador
-- Álcool
-- Pagamento
-- Instituto da Vinha e do Vinho
+- Financiamento
 - IFAP
-- Regulamento CE
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Produto Vitivinícola
+- Regulamento CE
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:107677706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670069:por
+  label: "Tornado extensivo à campanha vinícola de 2009-2010 o disposto no art. 6º da Port 983/2008 de 02-Set, com a redacção\
+    \ constante do presente diploma, pela PORT.247/2011.22.06.2011.MADRP, DR.IS [119] de 22.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2011-670069
+  date: '2011-06-22'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -96,16 +102,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/983/2008/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/983/2008/09/02/p/dre
+- type: repealed_by
+  target: pt:dre:107677706:por
+  label: Revogada a Port 983/2008 de 02-set, na redação do presente diploma, pelo(a) Portaria n.º 207-A/2017 - Diário da República
+    n.º 132/2017, 2º Suplemento, Série I de 2017-07-11 nos termos do disposto no seu art. 21.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-a-2017-107677706
+  date: '2017-07-11'
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:20Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +154,9 @@ b) De vinho, caso a entrega dos subprodutos não perfaça a referida obrigação
 
 3 - Para comprovação do cumprimento da prestação vínica, os destiladores terão de apresentar um documento comprovativo das quantidades dos subprodutos recebidos e da quantidade de álcool neles contido, nos moldes a definir pelo IFAP, I. P.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -154,7 +168,9 @@ b) De vinho, caso a entrega dos subprodutos não perfaça a referida obrigação
 
 5 - Os produtores cuja produção anual declarada exceda 100 hl e não seja obtida nos concelhos do anexo i da presente portaria, mas cujos custos inerentes ao transporte de subprodutos até à destilaria sejam desproporcionados relativamente ao objectivo que se pretende atingir, podem recorrer à retirada sob controlo mediante autorização prévia do IVV, I. P., atribuída para a campanha em curso, e desde que solicitada, com pelo menos 10 dias de antecedência, relativamente à data prevista para a realização da primeira operação desta natureza.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +186,9 @@ b) De vinho, caso a entrega dos subprodutos não perfaça a referida obrigação
 
 7 - O produto obtido pela destilação, nos termos dos n.os 5 e 6, não é objecto de ajuda no âmbito da presente portaria.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +200,9 @@ b) De vinho, caso a entrega dos subprodutos não perfaça a referida obrigação
 
 5 - A utilização do álcool bruto obtido exclusivamente para fins industriais ou energéticos terá de estar concluída, o mais tardar, até 31 de Agosto da campanha vitivinícola seguinte, devendo, em todo o caso, haver, obrigatoriamente, comunicação prévia ao IFAP, I. P., com, pelo menos, cinco dias úteis de antecedência.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O pedido de ajuda é formalizado pelo beneficiário em formulário próprio definido pelo IFAP e deve conter nomeadamente os elementos referentes a:
 
@@ -198,7 +218,9 @@ d) Data e destino do álcool para fins industriais ou energéticos.
 
 3 - O pedido de ajuda apresentado após o prazo estabelecido, nos termos do artigo anterior, é sujeito a uma redução de 1 % por cada dia útil de atraso do montante da ajuda a que o beneficiário da ajuda teria direito se o pedido tivesse sido apresentado atempadamente. Se o prazo na apresentação do pedido for superior a 15 dias úteis, o pedido não é admitido.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A ajuda devida é paga no prazo de três meses após a confirmação da efectiva utilização exclusiva do álcool obtido para fins industriais ou energéticos e o mais tardar até 15 de Outubro da campanha vitivinícola seguinte.
 
@@ -206,7 +228,9 @@ d) Data e destino do álcool para fins industriais ou energéticos.
 
 3 - Os montantes indevidamente recebidos são reembolsados pelo beneficiário nos termos do artigo 80.º do Regulamento (CE) n.º [1122/2009](http://data.europa.eu/eli/reg/2009/1122/oj?locale=pt), da Comissão, de 30 de Novembro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O beneficiário pode apresentar, em formulário próprio definido pelo IFAP, dentro dos prazos definidos pelo respectivo conselho directivo e divulgados no seu sítio em www.ifap.pt, um pedido de adiantamento de valor igual ao da ajuda, calculado para a quantidade de álcool obtido destinado a fins industriais ou energéticos.
 

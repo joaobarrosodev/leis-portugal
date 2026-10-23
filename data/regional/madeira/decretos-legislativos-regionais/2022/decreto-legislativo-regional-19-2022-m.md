@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2022/08/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2022-187154280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf43226739558e08c0414d03edeacff623e9901070351d34016a260c46d6fab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f1f8d183536f296725380848e97ad1a1078ed28dc9c8cb6a0609a828dda9f24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Avaliação do Pessoal
+- Carreira Profissional
 - Corpo de Polícia Florestal
 - Definição de Competências
-- Carreira Profissional
-- Fiscalização
-- Recrutamento de Pessoal
-- Mestre Florestal
-- Polícia Florestal
 - Descrição de Funções
-- Período Experimental
+- Fardamento
+- Fiscalização
 - Guarda Florestal
+- Horário de Trabalho
 - Madeira.região Autónoma
+- Mestre Florestal
+- Período Experimental
+- Polícia Florestal
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
-- Horário de Trabalho
 - Remuneração
-- Avaliação do Pessoal
 - Subsídio de Penosidade e Risco
-- Fardamento
+- Tempo de Serviço
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -124,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654974:por
+  label: null
+  source: null
 article_structure:
-  article_count: 91
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:37Z'
   warnings: []
   errors: []
 ---
@@ -176,19 +212,25 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 8.º-A, 9.º, 10.º, 
 
 O presente diploma aprova o regime legal da carreira especial de guarda florestal da Região Autónoma da Madeira, cujos trabalhadores são afetos ao Corpo de Polícia Florestal da Região Autónoma da Madeira, abreviadamente designado pela sigla CPF.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O CPF é um serviço de polícia auxiliar integrado no organismo da secretaria regional que tutela o setor florestal, exercendo as suas atribuições na direta dependência do seu dirigente máximo.
 
 2 - Para efeitos do disposto no número anterior, caso a direção do organismo esteja atribuída a órgão colegial, considera-se dirigente máximo o presidente desse órgão.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O vínculo de emprego público inerente à carreira especial de guarda florestal constitui-se por nomeação.
 
 2 - Nos termos da alínea b) do n.º 1 do artigo 86.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, a carreira especial de guarda florestal é classificada como de grau 2 de complexidade funcional.
 
-###### Artigo 4.º — Estrutura da carreira
+Artigo 4.º
+
+Estrutura da carreira
 
 [...]
 
@@ -198,7 +240,9 @@ b) [Anterior alínea a).]
 
 c) Mestre florestal principal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -222,7 +266,9 @@ i) [Anterior alínea h).]
 
 j) [Anterior alínea i).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -256,7 +302,9 @@ n) [Anterior alínea l).]
 
 o) Prestar auxílio a qualquer diligência em matéria legal que lhe seja solicitada.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Para além do conteúdo funcional da categoria de guarda florestal, compete ainda ao mestre florestal exercer as seguintes funções:
 
@@ -268,7 +316,9 @@ c) Orientar os trabalhos de campo inerentes à produção de plantas em viveiro 
 
 d) Efetuar vistorias, quando necessárias ou requeridas, nos termos da lei.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Em cada área geográfica, definida nos termos do artigo 16.º, poderá ser provido um lugar de mestre florestal coordenador, ao qual compete as funções de supervisão, de controlo, de coordenação, de orientação e de superintendência da atuação dos guardas florestais, mestres florestais e mestres florestais principais afetos à respetiva área, sem prejuízo de em caso de necessidade praticarem todas as funções inerentes às categorias enunciadas nos artigos 6.º, 7.º e 7.º-A, com remuneração correspondente ao nível remuneratório 22 da tabela remuneratória única.
 
@@ -310,13 +360,17 @@ i) Assegurar o cumprimento de toda a logística associada a atividade diária do
 
 11 - O trabalhador provido no cargo de coordenador geral tem o direito de optar, a todo o tempo, pela remuneração base devida na categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento-base do Presidente do Governo Regional, sem prejuízo de outro limite legalmente aplicável.
 
-###### Artigo 8.º-A — [...]
+Artigo 8.º-A
+
+[...]
 
 1 - O tempo de serviço prestado e a avaliação do desempenho obtida no cargo de mestre florestal coordenador ou de coordenador geral conta, para todos os efeitos legais, como prestado no lugar de origem, designadamente para nomeação em categoria superior à detida na respetiva carreira de origem e mudança de posição remuneratória na categoria em que o trabalhador estiver integrado.
 
 2 - [...]
 
-###### Artigo 9.º — Recrutamento para a categoria de guarda florestal
+Artigo 9.º
+
+Recrutamento para a categoria de guarda florestal
 
 1 - A constituição do vínculo de emprego público dos trabalhadores da carreira especial de guarda florestal faz-se na categoria de guarda florestal, mediante procedimento concursal, nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre indivíduos habilitados com o 12.º ano de escolaridade ou curso que lhe esteja equiparado, que reúnam os requisitos previstos no artigo 17.º da Lei Geral do Trabalho em Funções Públicas e idade igual ou inferior a 28 anos, completados no ano de publicação no Jornal Oficial da Região Autónoma da Madeira do aviso de abertura do procedimento concursal, constituindo ainda requisito de admissão ao procedimento concursal a posse de carta de condução.
 
@@ -344,7 +398,9 @@ c) Outros elementos a recolher pelo júri.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 10.º — Recrutamento para a categoria de mestre florestal
+Artigo 10.º
+
+Recrutamento para a categoria de mestre florestal
 
 1 - O recrutamento para a categoria de mestre florestal é feito mediante procedimento concursal nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre guardas florestais que detenham, no mínimo, quatro anos de serviço efetivo na respetiva categoria com avaliação do desempenho não inferior a Adequado durante esse período.
 
@@ -352,7 +408,9 @@ c) Outros elementos a recolher pelo júri.
 
 3 - O trabalhador recrutado para a categoria de mestre florestal não está sujeito a período experimental.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -360,7 +418,9 @@ c) Outros elementos a recolher pelo júri.
 
 3 - A categoria de mestre florestal principal tem três posições remuneratórias, constantes do anexo i ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -370,19 +430,25 @@ c) Outros elementos a recolher pelo júri.
 
 4 - A programação a que se refere o número anterior pode ser alterada em casos excecionais, devendo ser comunicada aos interessados com a antecedência mínima de uma semana, salvo situações de manifesta impossibilidade de cumprimento desse prazo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
 2 - As situações de trabalho suplementar e a prestação de trabalho em dias de descanso semanal e descanso complementar, programados nos termos do n.º 3 do artigo 13.º do presente diploma, bem como nos dias feriados, são igualmente remuneradas nos termos da legislação em vigor, aplicável aos trabalhadores que exercem funções públicas em regime de nomeação.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - Os trabalhadores que tenham concluído com aproveitamento o respetivo período experimental são colocados, de acordo com as necessidades de serviço, nas áreas referidas no número anterior, independentemente dos locais de realização do período experimental.
 
-###### Artigo 18.º — Proteção jurídica
+Artigo 18.º
+
+Proteção jurídica
 
 1 - Os elementos do CPF, bem como quem os superintende, têm direito a proteção jurídica a expensas do organismo da secretaria regional que tutela o setor florestal, nas modalidades de consulta jurídica e apoio judiciário, que abrange a contratação de advogado, o pagamento de taxas de justiça e demais encargos do processo judicial, sempre que nele intervenha na qualidade de assistente, arguido, autor ou réu, e o processo decorra do exercício das suas funções ou por causa delas.
 
@@ -392,13 +458,17 @@ c) Outros elementos a recolher pelo júri.
 
 4 - Nos casos em que tenha sido concedida proteção jurídica nos termos do presente artigo e resulte provado, no âmbito do processo judicial, que o trabalhador agiu dolosamente, fora dos limites legalmente impostos, o organismo indicado no n.º 1 exerce direito de regresso.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os trabalhadores integrados na carreira especial de guarda florestal em exercício de funções que não se encontrem em período experimental têm direito ao uso e porte de arma, para exercício exclusivo das suas funções, nos termos legais.
 
 2 - As armas são disponibilizadas pelo organismo da secretaria regional que tutela o setor florestal para a prossecução das suas funções, ficando cada trabalhador responsável pela conservação e manutenção da arma que lhe foi cedida.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -410,7 +480,9 @@ c) Outros elementos a recolher pelo júri.
 
 5 - A competência para a concessão do louvor é do secretário regional da tutela, sob proposta do dirigente máximo do organismo da secretaria regional que tutela o setor florestal.
 
-###### Artigo 27.º — Suplementos de penosidade e risco
+Artigo 27.º
+
+Suplementos de penosidade e risco
 
 1 - Por cada dia de permanência sucessiva nos locais a seguir indicados, os trabalhadores da carreira especial de guarda florestal têm direito a um suplemento de penosidade, com os seguintes valores:
 
@@ -434,9 +506,11 @@ Estrutura da carreira especial de guarda florestal
 
 (a que se referem os artigos 11.º e 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf))](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf)
 
-###### Artigo 4.º — Aditamento ao [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto
+Artigo 4.º
+
+Aditamento ao [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto
 
 São aditados ao [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, os artigos 4.º-A, 4.º-B, 4.º-C, 4.º-D, 5.º-A, 7.º-A, 8.º-B, 8.º-C, 9.º-A, 9.º-B, 10.º-A, 13.º-A, 15.º-A, 17.º-A e 17.º-B, com a seguinte redação:
 
@@ -448,7 +522,9 @@ Competência genérica dos trabalhadores integrados na carreira especial de guar
 
 2 - As funções cometidas no número anterior e nos artigos 6.º, 7.º, 7.º-A e 8.º aos trabalhadores integrados na carreira especial de guarda florestal são exercidas nos termos das competências atribuídas na lei orgânica do organismo da secretaria regional que tutela o setor florestal.
 
-###### Artigo 4.º-B — Órgão de polícia criminal
+Artigo 4.º-B
+
+Órgão de polícia criminal
 
 1 - O CPF detém poderes de autoridade e é órgão de polícia criminal.
 
@@ -464,13 +540,17 @@ c) Os trabalhadores integrados na carreira especial de guarda florestal.
 
 4 - O pessoal da carreira especial de guarda florestal é competente para a investigação dos crimes cuja competência lhe esteja atribuída.
 
-###### Artigo 4.º-C — Agente de proteção civil
+Artigo 4.º-C
+
+Agente de proteção civil
 
 1 - No âmbito das suas funções, o CPF é agente de proteção civil da Região Autónoma da Madeira, nos termos do diploma que aprova o regime jurídico do Sistema de Proteção Civil da Região Autónoma da Madeira.
 
 2 - Sem prejuízo da sua estrutura hierárquica, o CPF articula-se operacionalmente com o Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 4.º-D — Prestação de serviços especiais
+Artigo 4.º-D
+
+Prestação de serviços especiais
 
 1 - O CPF pode, mediante solicitação e desde que autorizado pela entidade competente, prestar serviços especiais que serão remunerados nos termos em que forem regulamentados por portaria do secretário regional que tutela o setor florestal.
 
@@ -478,13 +558,17 @@ c) Os trabalhadores integrados na carreira especial de guarda florestal.
 
 3 - A prestação de serviços especiais prevista no presente artigo depende do acordo dos trabalhadores que vierem a ser afetos aos mesmos.
 
-###### Artigo 5.º-A — Poder de autoridade
+Artigo 5.º-A
+
+Poder de autoridade
 
 1 - O pessoal da carreira especial de guarda florestal está investido do poder de autoridade nos termos definidos no Código de Processo Penal e noutros diplomas legais.
 
 2 - O exercício do poder de autoridade implica a responsabilidade dos atos que por si ou por sua ordem forem praticados.
 
-###### Artigo 7.º-A — Conteúdo funcional da categoria de mestre florestal principal
+Artigo 7.º-A
+
+Conteúdo funcional da categoria de mestre florestal principal
 
 Para além do conteúdo funcional das categorias de guarda florestal e mestre florestal, compete ainda ao mestre florestal principal exercer as seguintes funções:
 
@@ -504,7 +588,9 @@ g) Orientar as equipas da Polícia Florestal que participam em buscas e resgates
 
 h) Representar o CPF em áreas de atuação deste serviço para as quais forem designados.
 
-###### Artigo 8.º-B — Designação em regime de substituição
+Artigo 8.º-B
+
+Designação em regime de substituição
 
 1 - Os cargos de mestre florestal coordenador ou de coordenador geral podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respetivo titular, quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura dos mesmos.
 
@@ -520,7 +606,9 @@ h) Representar o CPF em áreas de atuação deste serviço para as quais forem d
 
 7 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído.
 
-###### Artigo 8.º-C — Cessação da comissão de serviço
+Artigo 8.º-C
+
+Cessação da comissão de serviço
 
 1 - A comissão de serviço dos titulares dos cargos de mestre florestal coordenador ou de coordenador geral cessa:
 
@@ -540,13 +628,17 @@ d) A requerimento do interessado, apresentado nos serviços com a antecedência 
 
 2 - A cessação da comissão de serviço com fundamento na alínea b) do número anterior pressupõe a prévia audição do titular do cargo de mestre florestal coordenador ou de coordenador geral sobre as razões invocadas, independentemente da organização de qualquer processo.
 
-###### Artigo 9.º-A — Formação profissional
+Artigo 9.º-A
+
+Formação profissional
 
 1 - Durante o período experimental é obrigatória a frequência e aproveitamento em curso de formação com duração não inferior a seis meses, que terá uma vertente teórica e uma vertente prática, nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional.
 
 2 - É obrigatoriamente assegurada a adequada formação profissional contínua com vista à eficácia do desempenho das suas funções e ao seu aperfeiçoamento profissional.
 
-###### Artigo 9.º-B — Permanência obrigatória
+Artigo 9.º-B
+
+Permanência obrigatória
 
 1 - Como compensação de despesas extraordinárias comprovadamente feitas pelo empregador público no curso de formação específico dos trabalhadores a que se refere o n.º 1 do artigo anterior, os trabalhadores recrutados mediante procedimento concursal para a categoria de guarda florestal ficam obrigados ao cumprimento de um período mínimo de três anos de permanência no organismo da secretaria regional que tutela o setor florestal, a contar do termo, com aprovação, do curso de formação específico.
 
@@ -554,7 +646,9 @@ d) A requerimento do interessado, apresentado nos serviços com a antecedência 
 
 3 - Em caso de extinção do vínculo pelo trabalhador com justa causa ou quando, tendo sido declarado ilícito o despedimento, o trabalhador não opte pela reintegração, não existe a obrigação de restituir a soma referida no número anterior.
 
-###### Artigo 10.º-A — Recrutamento para a categoria de mestre florestal principal
+Artigo 10.º-A
+
+Recrutamento para a categoria de mestre florestal principal
 
 1 - O recrutamento para a categoria de mestre florestal principal é feito mediante procedimento concursal nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre mestres florestais que detenham, no mínimo, quatro anos de serviço efetivo na respetiva categoria com avaliação do desempenho não inferior a Adequado durante esse período.
 
@@ -562,7 +656,9 @@ d) A requerimento do interessado, apresentado nos serviços com a antecedência 
 
 3 - O trabalhador recrutado para a categoria de mestre florestal principal não está sujeito a período experimental.
 
-###### Artigo 13.º-A — Modalidades de horários de trabalho
+Artigo 13.º-A
+
+Modalidades de horários de trabalho
 
 1 - Aos trabalhadores integrados na carreira especial de guarda florestal aplicam-se as modalidades de horário de trabalho previstas na Lei Geral do Trabalho em Funções Públicas.
 
@@ -574,11 +670,15 @@ d) A requerimento do interessado, apresentado nos serviços com a antecedência 
 
 5 - Os trabalhadores que gozem de isenção de horário nos termos dos números anteriores continuam sujeitos a cumprir as tarefas programadas, bem como a executar trabalhos em equipa.
 
-###### Artigo 15.º-A — Local de trabalho
+Artigo 15.º-A
+
+Local de trabalho
 
 Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos trabalhadores da carreira especial de guarda florestal toda a área da Região Autónoma da Madeira.
 
-###### Artigo 17.º-A — Aptidão física e psíquica
+Artigo 17.º-A
+
+Aptidão física e psíquica
 
 1 - Os trabalhadores integrados na carreira especial de guarda florestal devem manter as necessárias condições físicas e psíquicas ao cumprimento das respetivas funções.
 
@@ -586,7 +686,9 @@ Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos
 
 3 - A forma e periodicidade de realização dos exames e testes referidos no número anterior, bem como os meios a utilizar, são definidos por portaria do membro do Governo Regional que tutela o setor florestal.
 
-###### Artigo 17.º-B — Incapacidade
+Artigo 17.º-B
+
+Incapacidade
 
 1 - Quando um trabalhador integrado na carreira especial de guarda florestal for considerado, por junta médica, permanentemente incapaz para o exercício das suas funções, mas apto para o desempenho de outras, pode ser aplicado o regime da mobilidade intercarreiras, previsto na Lei Geral do Trabalho em Funções Públicas.
 
@@ -596,7 +698,9 @@ Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos
 
 4 - A situação prevista nos n.os 2 e 3 não impede que o trabalhador possa beneficiar do regime de pré-reforma previsto nos artigos 284.º e seguintes da Lei Geral do Trabalho em Funções Públicas, desde que reúna as condições previstas para beneficiar do mesmo.»
 
-###### Artigo 5.º — Transições
+Artigo 5.º
+
+Transições
 
 1 - Os trabalhadores que, à data da entrada em vigor do presente diploma, se encontrem integrados há menos de cinco anos na categoria de guarda florestal, da carreira especial dos trabalhadores afetos ao CPF da Região Autónoma da Madeira, transitam para a categoria de guarda florestal.
 
@@ -620,7 +724,9 @@ Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos
 
 11 - A avaliação do desempenho referente ao ciclo avaliativo em curso no momento da entrada em vigor do presente diploma dos trabalhadores integrados na carreira especial dos trabalhadores afetos ao CPF da Região Autónoma da Madeira releva para efeitos de alteração do posicionamento remuneratório imediatamente subsequente à transição e ao reposicionamento remuneratório previstos neste artigo e no artigo seguinte.
 
-###### Artigo 6.º — Reposicionamento remuneratório
+Artigo 6.º
+
+Reposicionamento remuneratório
 
 1 - Na transição para a categoria de guarda florestal prevista no n.º 1 do artigo anterior, os trabalhadores são reposicionados na posição remuneratória correspondente à posição remuneratória inicial da categoria de guarda florestal.
 
@@ -632,7 +738,9 @@ Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos
 
 5 - Na transição para a categoria de mestre florestal principal prevista no n.º 3 do artigo anterior, os trabalhadores são reposicionados na posição remuneratória correspondente à posição remuneratória inicial da categoria de mestre florestal principal ou para posição a que corresponda um nível remuneratório imediatamente superior àquele em que o trabalhador se encontrava aquando da mudança de categoria, no caso de já ser auferida remuneração base igual.
 
-###### Artigo 7.º — Manutenção das comissões de serviço
+Artigo 7.º
+
+Manutenção das comissões de serviço
 
 1 - Os atuais mestres florestais coordenadores e coordenador geral mantêm as respetivas comissões de serviço.
 
@@ -642,11 +750,15 @@ Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos
 
 4 - O disposto na parte final do número anterior não obsta a que após a entrada em vigor do presente diploma o atual coordenador geral possa optar, a todo o tempo, pela remuneração base devida na categoria de origem, nos termos previstos no n.º 11 do artigo 8.º do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na redação que lhe foi atribuída pelo presente diploma.
 
-###### Artigo 8.º — Mapa de pessoal
+Artigo 8.º
+
+Mapa de pessoal
 
 O mapa de pessoal do organismo da secretaria regional que tutela o setor florestal a que estão afetos os trabalhadores integrados na carreira de guarda florestal da Região Autónoma da Madeira considera-se automaticamente alterado, passando as categorias a ser as constantes do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na redação que lhe foi atribuída pelo presente diploma.
 
-###### Artigo 9.º — Mobilidade intercarreiras e respetiva consolidação
+Artigo 9.º
+
+Mobilidade intercarreiras e respetiva consolidação
 
 1 - Os trabalhadores que à data da entrada em vigor do presente diploma exerçam funções inerentes à carreira de guarda florestal da Região Autónoma da Madeira em regime de mobilidade intercarreiras mantêm aquela mobilidade para o exercício de funções correspondentes à categoria de guarda florestal, sendo reposicionados na posição remuneratória correspondente à posição remuneratória inicial da categoria de guarda florestal.
 
@@ -658,7 +770,9 @@ O mapa de pessoal do organismo da secretaria regional que tutela o setor florest
 
 5 - Para efeitos de consolidação da mobilidade intercarreiras prevista nos números anteriores, considera-se que possui frequência e aproveitamento no curso de formação específica previsto nos artigos 9.º e 9.º-A do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na redação que lhes foi atribuída pelo presente diploma, o trabalhador que possua frequência e aproveitamento no curso a que se referem esses artigos 9.º e 9.º-A ou que possua frequência e aproveitamento no curso de formação específico a que se refere a versão anterior do artigo 9.º do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, designadamente o previsto na Portaria n.º 568/2016, de 15 de dezembro, alterada pela Portaria n.º 15/2021, de 26 de janeiro.
 
-###### Artigo 10.º — Norma transitória
+Artigo 10.º
+
+Norma transitória
 
 1 - As portarias previstas nos artigos 4.º-D, 8.º, 9.º, 9.º-A, 10.º, 10.º-A e 17.º-A do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na redação que lhes foi atribuída pelo presente diploma, são aprovadas no prazo de um ano a contar da entrada em vigor do presente decreto legislativo regional.
 
@@ -666,15 +780,21 @@ O mapa de pessoal do organismo da secretaria regional que tutela o setor florest
 
 3 - Mantêm-se as portarias que atualmente regulam as matérias previstas nas alíneas f) e g) do artigo 5.º e nos artigos 16.º, 20.º e 23.º do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, na redação que lhes foi atribuída pelo presente diploma.
 
-###### Artigo 11.º — Norma revogatória
+Artigo 11.º
+
+Norma revogatória
 
 São revogados o n.º 2 do artigo 1.º, a alínea e) do artigo 5.º, as alíneas d), i) e j) do artigo 6.º e os artigos 21.º, 24.º, 25.º, 26.º e 28.º, bem como o anexo ii do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro.
 
-###### Artigo 12.º — Republicação
+Artigo 12.º
+
+Republicação
 
 É republicado, no anexo ao presente decreto legislativo regional, do qual faz parte integrante, o [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, na redação introduzida pelo presente decreto legislativo regional.
 
-###### Artigo 13.º — Entrada em vigor
+Artigo 13.º
+
+Entrada em vigor
 
 1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação.
 
@@ -682,35 +802,45 @@ São revogados o n.º 2 do artigo 1.º, a alínea e) do artigo 5.º, as alíneas
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 2 de agosto de 2022.**
+Assinado em 2 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — (a que se refere o artigo 12.º)
+ANEXO
+
+(a que se refere o artigo 12.º)
 
 Republicação do [Decreto Legislativo Regional n.º 29/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2013-499068), de 22 de agosto
 
-###### Artigo 1.º — Objeto e âmbito de aplicação
+Artigo 1.º
+
+Objeto e âmbito de aplicação
 
 O presente diploma aprova o regime legal da carreira especial de guarda florestal da Região Autónoma da Madeira, cujos trabalhadores são afetos ao Corpo de Polícia Florestal da Região Autónoma da Madeira, abreviadamente designado pela sigla CPF.
 
-###### Artigo 2.º — Natureza
+Artigo 2.º
+
+Natureza
 
 1 - O CPF é um serviço de polícia auxiliar integrado no organismo da secretaria regional que tutela o setor florestal, exercendo as suas atribuições na direta dependência do seu dirigente máximo.
 
 2 - Para efeitos do disposto no número anterior, caso a direção do organismo esteja atribuída a órgão colegial, considera-se dirigente máximo o presidente desse órgão.
 
-###### Artigo 3.º — Modalidade de vínculo e grau de complexidade funcional
+Artigo 3.º
+
+Modalidade de vínculo e grau de complexidade funcional
 
 1 - O vínculo de emprego público inerente à carreira especial de guarda florestal constitui-se por nomeação.
 
 2 - Nos termos da alínea b) do n.º 1 do artigo 86.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, a carreira especial de guarda florestal é classificada como de grau 2 de complexidade funcional.
 
-###### Artigo 4.º — Estrutura da carreira
+Artigo 4.º
+
+Estrutura da carreira
 
 A carreira especial de guarda florestal é pluricategorial e estrutura-se nas seguintes categorias:
 
@@ -720,13 +850,17 @@ b) Mestre florestal;
 
 c) Mestre florestal principal.
 
-###### Artigo 4.º-A — Competência genérica dos trabalhadores integrados na carreira especial de guarda florestal
+Artigo 4.º-A
+
+Competência genérica dos trabalhadores integrados na carreira especial de guarda florestal
 
 1 - No exercício das suas funções, os trabalhadores integrados na carreira especial de guarda florestal asseguram todas as ações de polícia auxiliar no âmbito florestal, da caça e da pesca em águas interiores.
 
 2 - As funções cometidas no número anterior e nos artigos 6.º, 7.º, 7.º-A e 8.º aos trabalhadores integrados na carreira especial de guarda florestal são exercidas nos termos das competências atribuídas na lei orgânica do organismo da secretaria regional que tutela o setor florestal.
 
-###### Artigo 4.º-B — Órgão de polícia criminal
+Artigo 4.º-B
+
+Órgão de polícia criminal
 
 1 - O CPF detém poderes de autoridade e é órgão de polícia criminal.
 
@@ -742,13 +876,17 @@ c) Os trabalhadores integrados na carreira especial de guarda florestal.
 
 4 - O pessoal da carreira especial de guarda florestal é competente para a investigação dos crimes cuja competência lhe esteja atribuída.
 
-###### Artigo 4.º-C — Agente de proteção civil
+Artigo 4.º-C
+
+Agente de proteção civil
 
 1 - No âmbito das suas funções, o CPF é agente de proteção civil da Região Autónoma da Madeira, nos termos do diploma que aprova o regime jurídico do Sistema de Proteção Civil da Região Autónoma da Madeira.
 
 2 - Sem prejuízo da sua estrutura hierárquica, o CPF articula-se operacionalmente com o Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 4.º-D — Prestação de serviços especiais
+Artigo 4.º-D
+
+Prestação de serviços especiais
 
 1 - O CPF pode, mediante solicitação e desde que autorizado pela entidade competente, prestar serviços especiais que serão remunerados nos termos em que forem regulamentados por portaria do secretário regional que tutela o setor florestal.
 
@@ -756,7 +894,9 @@ c) Os trabalhadores integrados na carreira especial de guarda florestal.
 
 3 - A prestação de serviços especiais prevista no presente artigo depende do acordo dos trabalhadores que vierem a ser afetos aos mesmos.
 
-###### Artigo 5.º — Direitos e deveres profissionais gerais do Corpo de Polícia Florestal
+Artigo 5.º
+
+Direitos e deveres profissionais gerais do Corpo de Polícia Florestal
 
 Sem prejuízo dos direitos e deveres próprios dos trabalhadores que exercem funções públicas e dos específicos decorrentes da respetiva categoria, os elementos do CPF têm os seguintes direitos e deveres gerais:
 
@@ -780,13 +920,17 @@ i) Dever de prestação de serviço permanente nos termos do presente diploma;
 
 j) Dever de colaborar no trabalho em equipa e assegurar, na medida em que lhe seja exigido, a necessária atuação interdisciplinar, em consonância com as instruções superiores em matéria de organização dos serviços.
 
-###### Artigo 5.º-A — Poder de autoridade
+Artigo 5.º-A
+
+Poder de autoridade
 
 1 - O pessoal da carreira especial de guarda florestal está investido do poder de autoridade nos termos definidos no Código de Processo Penal e noutros diplomas legais.
 
 2 - O exercício do poder de autoridade implica a responsabilidade dos atos que por si ou por sua ordem forem praticados.
 
-###### Artigo 6.º — Conteúdo funcional da categoria de guarda florestal
+Artigo 6.º
+
+Conteúdo funcional da categoria de guarda florestal
 
 O conteúdo funcional da categoria de guarda florestal compreende as seguintes funções:
 
@@ -820,7 +964,9 @@ n) Exercer as funções de vigilância e fiscalização e demais atribuições p
 
 o) Prestar auxílio a qualquer diligência em matéria legal que lhe seja solicitada.
 
-###### Artigo 7.º — Conteúdo funcional da categoria de mestre florestal
+Artigo 7.º
+
+Conteúdo funcional da categoria de mestre florestal
 
 Para além do conteúdo funcional da categoria de guarda florestal, compete ainda ao mestre florestal exercer as seguintes funções:
 
@@ -832,7 +978,9 @@ c) Orientar os trabalhos de campo inerentes à produção de plantas em viveiro 
 
 d) Efetuar vistorias, quando necessárias ou requeridas, nos termos da lei.
 
-###### Artigo 7.º-A — Conteúdo funcional da categoria de mestre florestal principal
+Artigo 7.º-A
+
+Conteúdo funcional da categoria de mestre florestal principal
 
 Para além do conteúdo funcional das categorias de guarda florestal e mestre florestal, compete ainda ao mestre florestal principal exercer as seguintes funções:
 
@@ -852,7 +1000,9 @@ g) Orientar as equipas da Polícia Florestal que participam em buscas e resgates
 
 h) Representar o CPF em áreas de atuação deste serviço para os quais forem designados.
 
-###### Artigo 8.º — Cargos específicos de coordenação
+Artigo 8.º
+
+Cargos específicos de coordenação
 
 1 - Em cada área geográfica, definida nos termos do artigo 16.º, poderá ser provido um lugar de mestre florestal coordenador, ao qual compete as funções de supervisão, de controlo, de coordenação, de orientação e de superintendência da atuação dos guardas florestais, mestres florestais e mestres florestais principais afetos à respetiva área, sem prejuízo de em caso de necessidade praticarem todas as funções inerentes às categorias enunciadas nos artigos 6.º, 7.º e 7.º-A, com remuneração correspondente ao nível remuneratório 22 da tabela remuneratória única.
 
@@ -894,13 +1044,17 @@ i) Assegurar o cumprimento de toda a logística associada a atividade diária do
 
 11 - O trabalhador provido no cargo de coordenador geral tem o direito de optar, a todo o tempo, pela remuneração base devida na categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento-base do Presidente do Governo Regional, sem prejuízo de outro limite legalmente aplicável.
 
-###### Artigo 8.º-A — Norma interpretativa
+Artigo 8.º-A
+
+Norma interpretativa
 
 1 - O tempo de serviço prestado e a avaliação do desempenho obtida no cargo de mestre florestal coordenador ou de coordenador geral conta, para todos os efeitos legais, como prestado no lugar de origem, designadamente para nomeação em categoria superior à detida na respetiva carreira de origem e mudança de posição remuneratória na categoria em que o trabalhador estiver integrado.
 
 2 - O provimento no cargo de mestre florestal coordenador ou de coordenador geral não prejudica o direito de os trabalhadores que exercem tais cargos, na pendência do exercício dos mesmos, se candidatarem a procedimentos concursais e/ou serem nomeados em categoria superior à detida na respetiva carreira de origem.
 
-###### Artigo 8.º-B — Designação em regime de substituição
+Artigo 8.º-B
+
+Designação em regime de substituição
 
 1 - Os cargos de mestre florestal coordenador ou de coordenador geral podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respetivo titular, quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura dos mesmos.
 
@@ -916,7 +1070,9 @@ i) Assegurar o cumprimento de toda a logística associada a atividade diária do
 
 7 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído.
 
-###### Artigo 8.º-C — Cessação da comissão de serviço
+Artigo 8.º-C
+
+Cessação da comissão de serviço
 
 1 - A comissão de serviço dos titulares dos cargos de mestre florestal coordenador ou de coordenador geral cessa:
 
@@ -936,7 +1092,9 @@ d) A requerimento do interessado, apresentado nos serviços com a antecedência 
 
 2 - A cessação da comissão de serviço com fundamento na alínea b) do número anterior pressupõe a prévia audição do titular do cargo de mestre florestal coordenador ou de coordenador geral sobre as razões invocadas, independentemente da organização de qualquer processo.
 
-###### Artigo 9.º — Recrutamento para a categoria de guarda florestal
+Artigo 9.º
+
+Recrutamento para a categoria de guarda florestal
 
 1 - A constituição do vínculo de emprego público dos trabalhadores da carreira especial de guarda florestal faz-se na categoria de guarda florestal, mediante procedimento concursal, nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre indivíduos habilitados com o 12.º ano de escolaridade ou curso que lhe esteja equiparado, que reúnam os requisitos previstos no artigo 17.º da Lei Geral do Trabalho em Funções Públicas e idade igual ou inferior a 28 anos, completados no ano de publicação no Jornal Oficial da Região Autónoma da Madeira do aviso de abertura do procedimento concursal, constituindo ainda requisito de admissão ao procedimento concursal a posse de carta de condução.
 
@@ -964,13 +1122,17 @@ c) Outros elementos a recolher pelo júri.
 
 7 - A avaliação final traduz-se numa escala de 0 a 20 valores, considerando-se concluído com sucesso o período experimental quando o trabalhador tenha obtido uma avaliação não inferior a 12 valores.
 
-###### Artigo 9.º-A — Formação profissional
+Artigo 9.º-A
+
+Formação profissional
 
 1 - Durante o período experimental é obrigatória a frequência e aproveitamento em curso de formação com duração não inferior a seis meses, que terá uma vertente teórica e uma vertente prática, nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional.
 
 2 - É obrigatoriamente assegurada a adequada formação profissional contínua com vista à eficácia do desempenho das suas funções e ao seu aperfeiçoamento profissional.
 
-###### Artigo 9.º-B — Permanência obrigatória
+Artigo 9.º-B
+
+Permanência obrigatória
 
 1 - Como compensação de despesas extraordinárias comprovadamente feitas pelo empregador público no curso de formação específico dos trabalhadores a que se refere o n.º 1 do artigo anterior, os trabalhadores recrutados mediante procedimento concursal para a categoria de guarda florestal ficam obrigados ao cumprimento de um período mínimo de três anos de permanência no organismo da secretaria regional que tutela o setor florestal, a contar do termo, com aprovação, do curso de formação específico.
 
@@ -978,7 +1140,9 @@ c) Outros elementos a recolher pelo júri.
 
 3 - Em caso de extinção do vínculo pelo trabalhador com justa causa ou quando, tendo sido declarado ilícito o despedimento, o trabalhador não opte pela reintegração, não existe a obrigação de restituir a soma referida no número anterior.
 
-###### Artigo 10.º — Recrutamento para a categoria de mestre florestal
+Artigo 10.º
+
+Recrutamento para a categoria de mestre florestal
 
 1 - O recrutamento para a categoria de mestre florestal é feito mediante procedimento concursal nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre guardas florestais que detenham, no mínimo, quatro anos de serviço efetivo na respetiva categoria com avaliação do desempenho não inferior a Adequado durante esse período.
 
@@ -986,7 +1150,9 @@ c) Outros elementos a recolher pelo júri.
 
 3 - O trabalhador recrutado para a categoria de mestre florestal não está sujeito a período experimental.
 
-###### Artigo 10.º-A — Recrutamento para a categoria de mestre florestal principal
+Artigo 10.º-A
+
+Recrutamento para a categoria de mestre florestal principal
 
 1 - O recrutamento para a categoria de mestre florestal principal é feito mediante procedimento concursal nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre mestres florestais que detenham, no mínimo, quatro anos de serviço efetivo na respetiva categoria com avaliação do desempenho não inferior a Adequado durante esse período.
 
@@ -994,11 +1160,15 @@ c) Outros elementos a recolher pelo júri.
 
 3 - O trabalhador recrutado para a categoria de mestre florestal principal não está sujeito a período experimental.
 
-###### Artigo 11.º — Remuneração base
+Artigo 11.º
+
+Remuneração base
 
 A remuneração dos elementos do CPF da carreira especial de guarda florestal corresponde ao valor atribuído às posições remuneratórias que constam do anexo i ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 12.º — Posições remuneratórias
+Artigo 12.º
+
+Posições remuneratórias
 
 1 - A categoria de guarda florestal tem oito posições remuneratórias, constantes do anexo i ao presente diploma, do qual faz parte integrante.
 
@@ -1006,7 +1176,9 @@ A remuneração dos elementos do CPF da carreira especial de guarda florestal co
 
 3 - A categoria de mestre florestal principal tem três posições remuneratórias, constantes do anexo i ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 13.º — Duração de trabalho
+Artigo 13.º
+
+Duração de trabalho
 
 1 - A duração semanal de trabalho é a mesma que a fixada para os restantes trabalhadores do regime geral que exercem funções públicas.
 
@@ -1016,7 +1188,9 @@ A remuneração dos elementos do CPF da carreira especial de guarda florestal co
 
 4 - A programação a que se refere o número anterior pode ser alterada em casos excecionais, devendo ser comunicada aos interessados com a antecedência mínima de uma semana, salvo situações de manifesta impossibilidade de cumprimento desse prazo.
 
-###### Artigo 13.º-A — Modalidades de horários de trabalho
+Artigo 13.º-A
+
+Modalidades de horários de trabalho
 
 1 - Aos trabalhadores integrados na carreira especial de guarda florestal aplicam-se as modalidades de horário de trabalho previstas na Lei Geral do Trabalho em Funções Públicas.
 
@@ -1028,33 +1202,45 @@ A remuneração dos elementos do CPF da carreira especial de guarda florestal co
 
 5 - Os trabalhadores que gozem de isenção de horário nos termos dos números anteriores continuam sujeitos a cumprir as tarefas programadas, bem como a executar trabalhos em equipa.
 
-###### Artigo 14.º — Serviço permanente
+Artigo 14.º
+
+Serviço permanente
 
 1 - O serviço prestado pelos trabalhadores da carreira de guarda florestal considera-se de caráter permanente e obrigatório.
 
 2 - Os trabalhadores, ainda que se encontrem em período de descanso, devem tomar todas as providências necessárias para prevenir ou resolver sinistros, ocorrências e infrações relativas às normas legais aplicáveis ao setor florestal.
 
-###### Artigo 15.º — Regime especial de trabalho
+Artigo 15.º
+
+Regime especial de trabalho
 
 1 - Sempre que o horário diário de trabalho coincida, no todo ou em parte, com o período de trabalho noturno, a remuneração respetiva é acrescida nos termos da legislação em vigor, aplicável aos trabalhadores que exercem funções públicas em regime de nomeação.
 
 2 - As situações de trabalho suplementar e a prestação de trabalho em dias de descanso semanal e descanso complementar, programados nos termos do n.º 3 do artigo 13.º do presente diploma, bem como nos dias feriados, são igualmente remuneradas nos termos da legislação em vigor, aplicável aos trabalhadores que exercem funções públicas em regime de nomeação.
 
-###### Artigo 15.º-A — Local de trabalho
+Artigo 15.º-A
+
+Local de trabalho
 
 Sem prejuízo do disposto no artigo seguinte, considera-se local de trabalho dos trabalhadores da carreira especial de guarda florestal toda a área da Região Autónoma da Madeira.
 
-###### Artigo 16.º — Domicílio necessário
+Artigo 16.º
+
+Domicílio necessário
 
 1 - Para efeitos de atribuição de ajudas de custo, considera-se domicílio necessário a área geográfica onde o trabalhador exerce funções, cujos limites serão definidos por portaria do secretário regional da tutela do setor florestal.
 
 2 - Os trabalhadores que tenham concluído com aproveitamento o respetivo período experimental são colocados, de acordo com as necessidades de serviço, nas áreas referidas no número anterior, independentemente dos locais de realização do período experimental.
 
-###### Artigo 17.º — Incompatibilidades e acumulação de funções
+Artigo 17.º
+
+Incompatibilidades e acumulação de funções
 
 Os trabalhadores da carreira especial de guarda florestal estão sujeitos ao regime geral de incompatibilidades e acumulações de funções públicas e privadas aplicável à Administração Pública.
 
-###### Artigo 17.º-A — Aptidão física e psíquica
+Artigo 17.º-A
+
+Aptidão física e psíquica
 
 1 - Os trabalhadores integrados na carreira especial de guarda florestal devem manter as necessárias condições físicas e psíquicas ao cumprimento das respetivas funções.
 
@@ -1062,7 +1248,9 @@ Os trabalhadores da carreira especial de guarda florestal estão sujeitos ao reg
 
 3 - A forma e periodicidade de realização dos exames e testes referidos no número anterior, bem como os meios a utilizar, são definidos por portaria do membro do Governo Regional que tutela o setor florestal.
 
-###### Artigo 17.º-B — Incapacidade
+Artigo 17.º-B
+
+Incapacidade
 
 1 - Quando um trabalhador integrado na carreira especial de guarda florestal for considerado, por junta médica, permanentemente incapaz para o exercício das suas funções, mas apto para o desempenho de outras, pode ser aplicado o regime da mobilidade intercarreiras, previsto na Lei Geral do Trabalho em Funções Públicas.
 
@@ -1072,7 +1260,9 @@ Os trabalhadores da carreira especial de guarda florestal estão sujeitos ao reg
 
 4 - A situação prevista nos n.os 2 e 3 não impede que o trabalhador possa beneficiar do regime de pré-reforma previsto nos artigos 284.º e seguintes da Lei Geral do Trabalho em Funções Públicas, desde que reúna as condições previstas para beneficiar do mesmo.
 
-###### Artigo 18.º — Proteção jurídica
+Artigo 18.º
+
+Proteção jurídica
 
 1 - Os elementos do CPF, bem como quem os superintende, têm direito a proteção jurídica a expensas do organismo da secretaria regional que tutela o setor florestal, nas modalidades de consulta jurídica e apoio judiciário, que abrange a contratação de advogado, o pagamento de taxas de justiça e demais encargos do processo judicial, sempre que nele intervenha na qualidade de assistente, arguido, autor ou réu, e o processo decorra do exercício das suas funções ou por causa delas.
 
@@ -1082,19 +1272,27 @@ Os trabalhadores da carreira especial de guarda florestal estão sujeitos ao reg
 
 4 - Nos casos em que tenha sido concedida proteção jurídica nos termos do presente artigo e resulte provado, no âmbito do processo judicial, que o trabalhador agiu dolosamente, fora dos limites legalmente impostos, o organismo indicado no n.º 1 exerce direito de regresso.
 
-###### Artigo 19.º — Uso e porte de arma
+Artigo 19.º
+
+Uso e porte de arma
 
 1 - Os trabalhadores integrados na carreira especial de guarda florestal em exercício de funções que não se encontrem em período experimental têm direito ao uso e porte de arma, para exercício exclusivo das suas funções, nos termos legais.
 
 2 - As armas são disponibilizadas pelo organismo da secretaria regional que tutela o setor florestal para a prossecução das suas funções, ficando cada trabalhador responsável pela conservação e manutenção da arma que lhe foi cedida.
 
-###### Artigo 20.º — Identificação e fardamento
+Artigo 20.º
+
+Identificação e fardamento
 
 Os trabalhadores da carreira especial de guarda florestal no exercício das suas funções são obrigados a apresentarem-se devidamente identificados e fardados, em conformidade com o regulamento a aprovar através de portaria do secretário regional da tutela, onde estão definidos o modelo e tipos de fardamento.
 
-###### Artigo 21.º — (Revogado.)
+Artigo 21.º
 
-###### Artigo 22.º — Recompensas
+(Revogado.)
+
+Artigo 22.º
+
+Recompensas
 
 1 - Para distinguir o comportamento exemplar, o zelo excecional e para destacar atos de relevo social e profissional dos elementos do CPF, podem ser atribuídas as seguintes recompensas:
 
@@ -1110,19 +1308,29 @@ b) Louvor.
 
 5 - A competência para a concessão do louvor é do secretário regional da tutela, sob proposta do dirigente máximo do organismo da secretaria regional que tutela o setor florestal.
 
-###### Artigo 23.º — Efeitos das recompensas
+Artigo 23.º
+
+Efeitos das recompensas
 
 1 - A concessão das recompensas previstas no presente diploma é publicada em ordem de serviço e registada no processo individual do trabalhador recompensado.
 
 2 - Aos trabalhadores distinguidos pelas recompensas previstas no presente diploma poderão ser atribuídas condecorações e medalhas, nos termos a aprovar por portaria do secretário regional da tutela.
 
-###### Artigo 24.º — (Revogado.)
+Artigo 24.º
 
-###### Artigo 25.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 26.º — (Revogado.)
+Artigo 25.º
 
-###### Artigo 27.º — Suplementos de penosidade e risco
+(Revogado.)
+
+Artigo 26.º
+
+(Revogado.)
+
+Artigo 27.º
+
+Suplementos de penosidade e risco
 
 1 - Por cada dia de permanência sucessiva nos locais a seguir indicados, os trabalhadores da carreira especial de guarda florestal têm direito a um suplemento de penosidade, com os seguintes valores:
 
@@ -1136,26 +1344,38 @@ c) Zona iii - considerada de baixa penosidade e que abrange os Postos Florestais
 
 3 - Os montantes dos suplementos de penosidade e risco referidos nos números anteriores serão atualizados nos termos do diploma que proceder à atualização dos montantes dos suplementos remuneratórios auferidos pelos trabalhadores da administração pública regional.
 
-###### Artigo 28.º — (Revogado.)
+Artigo 28.º
 
-###### Artigo 29.º — Norma revogatória
+(Revogado.)
+
+Artigo 29.º
+
+Norma revogatória
 
 É revogado o Estatuto do Corpo de Polícia Florestal, aprovado pelo [Decreto Regulamentar Regional n.º 1/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1999-197368), de 22 de janeiro, com as alterações introduzidas pelo [Decreto Regulamentar n.º 12/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2003-240781), de 24 de abril, e pelo [Decreto Legislativo Regional n.º 24/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2003-654974), de 19 de agosto.
 
-###### Artigo 30.º — Entrada em vigor
+Artigo 30.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO I — Estrutura da carreira especial de guarda florestal
+ANEXO I
+
+Estrutura da carreira especial de guarda florestal
 
 (a que se referem os artigos 11.º e 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf))](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/15200/0001100040.pdf)
 
-## ANEXO II — Posições remuneratórias complementares
+ANEXO II
+
+Posições remuneratórias complementares
 
 Carreira de guarda florestal
 
 Categoria de guarda florestal
 
 (Revogado.)
+
+115578207

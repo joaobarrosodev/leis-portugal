@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 113-(6) a 113-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23601/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/417-a/2023/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-a-2023-229857717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36b0118b0e524137ff8312f9cc4ba9bdaedd909c3911a1c3a7aa8c973eadb298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b34d364bb3d5f01f6ea367dab0e280a8db773c76ab2b42b87f39e4b2d85563ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Realojamento
+- Autarquia Local
+- Desalojado
+- Habitação
 - Instituto da Habitação e da Reabilitação Urbana
 - Política de Habitação
-- Habitação
-- Desalojado
-- Subsídio não Reembolsável
-- Autarquia Local
 - Porta de Entrada-Programa de Apoio ao Alojamento Urgente
+- Realojamento
+- Subsídio não Reembolsável
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/2018/05/04/p/dre
@@ -106,16 +106,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/44/2021/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/44/2021/02/23/p/dre
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115502170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158146140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202552707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213650805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:10Z'
   warnings: []
   errors: []
 ---
@@ -166,4 +202,6 @@ A [Portaria n.º 167/2018](https://diariodarepublica.pt/dr/detalhe/portaria/167-
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 6 de dezembro de 2023.**
+A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 6 de dezembro de 2023.
+
+117140883

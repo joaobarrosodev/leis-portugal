@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/43/2014/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-2014-572469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03706391237e2e44812878983133a225e5a41ffe375d0cadf4ae4fd051c1b3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dee2b22527802711c44c3539bae7904d1d11770254eccbf2be80a7c1f9edee9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Controlo Sanitário
-- Proteção do Ambiente
-- Zona de Proteção
-- Poluição da água
-- Figueira da Foz
 - Abastecimento de Água
 - Agência Portuguesa do Ambiente
+- Água
+- Controlo Sanitário
+- Figueira da Foz
+- Poluição da água
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:964137289:por
@@ -92,16 +92,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:2473325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:964137289:por
+  label: Revogada, a partir de 10 de dezembro de 2025, pelo(a) Portaria n.º 433/2025/1 - Diário da República n.º 235/2025,
+    Série I de 2025-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/433-2025-964137289
+  date: '2025-12-05'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:42Z'
   warnings: []
   errors: []
 ---
@@ -232,13 +254,13 @@ As zonas de proteção respeitantes aos perímetros mencionados no artigo 1.º e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 30 de janeiro de 2014.**
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 30 de janeiro de 2014.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
 
 Nota. - As coordenadas das captações encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
 
@@ -246,7 +268,7 @@ Nota. - As coordenadas das captações encontram-se no sistema de coordenadas EP
 
 Zonas de proteção imediata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -254,7 +276,7 @@ Zona de proteção intermédia
 
 Captações AC5 e AC6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
 
 Nota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
 
@@ -264,7 +286,7 @@ Zona de proteção alargada
 
 Captações AC5 e AC6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
 
 Nota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
 
@@ -276,4 +298,4 @@ Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
 Captações AC5 e AC6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146101464.pdf)

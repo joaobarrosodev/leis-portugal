@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01
   number: '192'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4372-(92) a 4372-(106)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1009-a/2010/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cc4829b184a85554e3a779f1d14068ea7aced48bac6b3b5c09833e6c3c7d6c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0b88414a327b234d20617b62f22be7bb13c6f0bcd14d77c9d9fecd6223e0d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Curso Profissional
 - Direcção Regional de Educação de Lisboa e VALE do TEJO
 - Ensino Particular
 - Ensino Profissional
-- Curso Profissional
 - Escola Profissional
+- Financiamento
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:656132:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656132:por
+  label: "Alterados os art.s 12º e 13º, da Port 49/2007,de 08-jan, na redação do presente diploma, pela PORT.216-A/2012.18.07.2012.MEE,\
+    \ DR.IS [138-Supl] de 18.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-a-2012-656132
+  date: '2012-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
@@ -118,16 +124,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/55
   label: null
   source: http://data.dre.pt/eli/port/55
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:35Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +212,9 @@ Manda o Governo, pelos Secretários de Estado do Emprego e da Formação Profiss
 
 O presente diploma define as regras a que deve obedecer o financiamento público dos cursos profissionais de nível secundário regulados pelo [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, rectificado pela [Declaração de Rectificação n.º 44/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2004-252206), de 25 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro, rectificado pela [Declaração de Rectificação n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2006-652894), de 7 de Abril, e pela [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, com as alterações entretanto introduzidas pela [Portaria n.º 797/2006](https://diariodarepublica.pt/dr/detalhe/portaria/797-2006-538593), de 10 de Agosto, rectificada pela [Declaração de Rectificação n.º 66/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/66-2006-541801), de 3 de Outubro, e dos cursos de educação e formação de jovens (CEF) regulados pelo despacho conjunto n.º 453/2004, publicado no Diário da República, 2.ª série, n.º 175, de 27 de Julho de 2004, rectificado pela declaração de rectificação n.º 1673/2004, de 7 de Setembro, com as alterações introduzidas pelo despacho n.º 12 568/2010, publicado no Diário da República, 2.ª série, n.º 150, de 4 de Agosto de 2010, quando ministrados em escolas profissionais privadas criadas ao abrigo do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, que funcionem nas áreas geográficas das Direcções Regionais de Educação de Lisboa e Vale do Tejo e do Algarve.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O apoio financeiro incide sobre a seguinte oferta formativa ministrada nas escolas profissionais privadas:
 
@@ -170,7 +222,9 @@ a) Cursos profissionais de nível secundário que constam das autorizações pr�
 
 b) Cursos de educação e formação de jovens, cuja candidatura é formalizada nos termos do artigo 6.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, são destinatários da oferta formativa a financiar referida no artigo 1.º:
 
@@ -184,11 +238,15 @@ a) A frequência dos cursos profissionais a jovens com idade superior a 25 anos,
 
 b) A frequência dos cursos de educação e formação a jovens com idade superior a 23 anos, desde que, feita a distribuição, no período normal de matrículas, dos alunos candidatos que reúnam os requisitos previstos no número anterior, subsistam vagas em turmas constituídas ou a constituir.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Podem ter acesso ao apoio financeiro regulado no âmbito do presente diploma as entidades proprietárias de escolas profissionais privadas criadas ao abrigo do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, e cujas sedes ou delegações estejam localizadas nas áreas geográficas das Direcções Regionais de Educação de Lisboa e Vale do Tejo e do Algarve, relativamente às ofertas formativas previstas no artigo 2.º
 
-###### Artigo 5.º — Proposta de oferta formativa a financiar
+Artigo 5.º
+
+Proposta de oferta formativa a financiar
 
 1 - O pedido de financiamento é efectuado junto da respectiva direcção regional de educação, mediante a apresentação, por parte das entidades candidatas, da respectiva proposta de oferta formativa para o ciclo de formação a iniciar no ano civil em que decorre a candidatura, proposta essa a ser efectuada através da Plataforma do Sistema Integrado de Gestão das Ofertas - SIGO.
 
@@ -208,7 +266,9 @@ d) A identificação e caracterização dos recursos humanos e materiais afectos
 
 e) Informação relativa às taxas de conclusão, tempo despendido até à conclusão e taxas de empregabilidade, por curso.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A formalização do pedido de financiamento é efectuada cumulativamente através da Plataforma do Sistema Integrado de Gestão de Ofertas - SIGO e de um formulário de candidatura integrando os seguintes elementos:
 
@@ -222,7 +282,9 @@ c) Cópia do cartão de pessoa colectiva relativo à entidade proprietária da e
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +306,9 @@ g) O grau de sucesso escolar e profissional dos cursos ministrados na escola pro
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As direcções regionais de educação competentes procedem à análise dos pedidos de financiamento com base nos critérios estabelecidos na presente portaria, tendo em vista a elaboração de proposta final a submeter à homologação do Ministro da Educação.
 
@@ -254,17 +318,23 @@ g) O grau de sucesso escolar e profissional dos cursos ministrados na escola pro
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A notificação às entidades candidatas da decisão de aprovação ou de indeferimento da candidatura será efectuada pela respectiva direcção regional de educação no prazo de 10 dias contados desde a decisão final do procedimento a que se alude no n.º 3 do artigo anterior.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O conteúdo da decisão final do procedimento previsto no n.º 4 do artigo 8.º, com as eventuais alterações decorrentes das reclamações apresentadas nos termos do n.º 2 do artigo anterior, é tornado público pela respectiva direcção regional de educação na sua página electrónica, assim como por cada uma das escolas profissionais privadas, no que respeita às suas ofertas formativas objecto de financiamento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O financiamento objecto do presente diploma é assegurado pelo Ministério da Educação.
 
@@ -310,7 +380,9 @@ c) Componente de formação técnica/tecnológica: 45 %.
 
 9 - As tabelas referentes aos apoios financeiros a conceder por curso e por turma para as ofertas formativas em causa serão objecto de aprovação pelo Ministro da Educação, sendo devidamente divulgadas através das páginas electrónicas do ME e das direcções regionais de educação territorialmente competentes.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O valor do subsídio anual por turma por curso definido nos termos do artigo anterior será objecto de redução para efeitos do contrato a celebrar com as escolas profissionais privadas quando as ofertas autorizadas nos termos do artigo 2.º não cumpram no início do ciclo formativo os limites definidos no que se refere ao número mínimo de alunos conforme previsto nas alíneas a) e b) do n.º 6 do artigo 12.º
 
@@ -332,23 +404,31 @@ c) No caso dos cursos de educação e formação de jovens, sempre que o número
 
 7 - O disposto no número anterior não é aplicado sempre que a renovação de matrícula se dever a facto comprovadamente não imputável ao aluno, designadamente por motivo de doença prolongada, impeditiva da conclusão do respectivo curso no período fixado para o termo do ciclo de formação, caso em que o aluno deverá ser integrado, com todos os efeitos daí decorrentes, em turma subsidiada de outro ciclo de formação, passando a constar da lista nominal correspondente a que se refere o n.º 5.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Estado celebrará contratos-programa, de carácter plurianual e respeitando os ciclos de formação, com as entidades proprietárias das escolas profissionais privadas relativamente às ofertas formativas aprovadas para financiamento, nos quais serão definidos os montantes, as condições e as modalidades dos pagamentos a efectuar, com base nas listas nominais de alunos matriculados nas turmas objectos de financiamento previstas no n.º 5 do artigo anterior.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O processamento do pagamento das prestações relativas à comparticipação financeira fixada em contrato-programa compete à direcção regional de educação respectiva.
 
 2 - No termo do ciclo de formação, as direcções regionais de educação deverão proceder, aquando do pagamento da última prestação prevista no contrato-programa celebrado ao abrigo do artigo anterior, à verificação do número de alunos efectivamente matriculados e da respectiva taxa de desistência e abandono relativamente ao período correspondente ao último ano lectivo de execução do contrato, de modo a apurar da existência de qualquer débito suplementar ou crédito remanescente, os quais serão calculados proporcionalmente com base nos critérios fixados no artigo 13.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As entidades beneficiárias do financiamento ao abrigo do presente diploma são objecto de acções de controlo, acompanhamento e avaliação que incidem sobre as componentes técnico-pedagógica, contabilística e financeira dos cursos ministrados nas respectivas escolas profissionais, efectuadas pela respectiva direcção regional de educação, pela Agência Nacional para a Qualificação, I. P., e pela Inspecção-Geral de Educação ou por outras entidades credenciadas para o efeito, no âmbito das respectivas competências legais, ficando obrigadas a colocar à disposição todos os elementos relacionados com o desenvolvimento dos cursos.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 As entidades beneficiárias do financiamento ficam obrigadas a organizar um processo, no todo ou em parte, em suporte electrónico, sobre cada um dos cursos com turmas subsidiadas ao abrigo do presente diploma, o qual deverá conter os seguintes elementos:
 
@@ -372,7 +452,9 @@ i) ...
 
 j) ...
 
-###### Artigo 20.º — Propinas e outras taxas
+Artigo 20.º
+
+Propinas e outras taxas
 
 As entidades beneficiárias do financiamento não podem cobrar aos alunos que frequentam as turmas subsidiadas, constantes das listas nominais a que se refere o n.º 5 do artigo 13.º, qualquer montante, a título de propina de frequência, que exceda os valores previstos para o mesmo nível de educação e aplicados nos estabelecimentos de ensino público, bem como outras taxas sem que as mesmas sejam objecto de concordância por parte dos eventuais contribuintes e se destinem a objectivos educativos e pedagógicos, devidamente publicitados, fixados e registados no orçamento de receitas próprias da escola.»
 
@@ -384,13 +466,13 @@ Proposta de oferta formativa - Cursos profissionais
 
 Grelha de requisitos e critérios de análise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
 
 Proposta de oferta formativa - Cursos de educação e formação de jovens
 
 Grelha de requisitos e critérios de análise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
 
 ###### Artigo 2.º — Revogação
 
@@ -410,7 +492,7 @@ Grelha de requisitos e critérios de análise
 
 Em 23 de Setembro de 2010.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos. - O Secretário de Estado da Educação, João José Trocado da Mata.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos. - O Secretário de Estado da Educação, João José Trocado da Mata.
 
 ## ANEXO — Republicação da Portaria n.º 49/2007, de 8 de Janeiro
 
@@ -682,10 +764,10 @@ Proposta de oferta formativa - Cursos profissionais
 
 Grelha de requisitos e critérios de análise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
 
 Proposta de oferta formativa - Cursos de educação e formação de jovens
 
 Grelha de requisitos e critérios de análise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0009200106.pdf)

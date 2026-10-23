@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/29-1978-329858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff20ed01f2c819d01b6a0074615f2ae4e8c9a73b8f8bfab72f755c34476eb9d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5f59b31486bc3efc570872164cd13c64724fe6f983ed4772fb2b7c58aa72892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Diploma Legal
+- Direito do Trabalho
+- Governo Regional
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:20Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +105,9 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, usando da faculdade conferida pelo artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e de harmonia com a alínea a) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º A competência para emissão de portarias de regulamentação de trabalho e de extensão, no âmbito territorial da Região Autónoma da Madeira, cabe conjuntamente aos Secretários Regionais do Trabalho, do Planeamento e Finanças e da Tutela.
+Artigo 1.º A competência para emissão de portarias de regulamentação de trabalho e de extensão, no âmbito territorial da Região Autónoma da Madeira, cabe conjuntamente aos Secretários Regionais do Trabalho, do Planeamento e Finanças e da Tutela.
 
-###### Art. 2.º - 1 - Aos Secretários Regionais do Trabalho e da Tutela compete, através de despachos conjuntos, ordenar a realização da arbitragem ou conciliação obrigatórias quando a lei o permita.
+Art. 2.º - 1 - Aos Secretários Regionais do Trabalho e da Tutela compete, através de despachos conjuntos, ordenar a realização da arbitragem ou conciliação obrigatórias quando a lei o permita.
 
 2 - Nos casos previstos no número anterior, o eventual desacordo entre as partes quanto à nomeação do terceiro árbitro poderá ser suprido por despacho do Secretário Regional do Trabalho.
 
@@ -104,16 +117,16 @@ A Assembleia Regional da Madeira, usando da faculdade conferida pelo artigo 22.�
 
 5 - Para o efeito do disposto no número anterior o Secretário Regional do Trabalho mandará publicar o citado aviso no jornal oficial da Região Autónoma da Madeira, definindo o âmbito e a área da portaria a emitir.
 
-###### Art. 3.º A regulamentação do trabalho que se reporte a pessoas colectivas de direito privado e utilidade pública cuja sede se circunscreve à Região será estabelecida mediante portaria conjunta dos Secretários Regionais do Trabalho e da Tutela.
+Art. 3.º A regulamentação do trabalho que se reporte a pessoas colectivas de direito privado e utilidade pública cuja sede se circunscreve à Região será estabelecida mediante portaria conjunta dos Secretários Regionais do Trabalho e da Tutela.
 
-###### Art. 4.º Sempre que diplomas normativos, provindos dos órgãos de soberania da República e de âmbito nacional, contemplando matéria que se deva entender já transferida, nos domínios do trabalho, não sejam explícitos na atribuição de competências no aspecto jurídico-formal ou orgânico a entidades ou organismos da Região, recorrer-se-á à analogia, ressalvadas as necessárias adaptações, a fim de enquadrar aquelas atribuições a nível regional.
+Art. 4.º Sempre que diplomas normativos, provindos dos órgãos de soberania da República e de âmbito nacional, contemplando matéria que se deva entender já transferida, nos domínios do trabalho, não sejam explícitos na atribuição de competências no aspecto jurídico-formal ou orgânico a entidades ou organismos da Região, recorrer-se-á à analogia, ressalvadas as necessárias adaptações, a fim de enquadrar aquelas atribuições a nível regional.
 
-###### Art. 5.º As dúvidas suscitadas com a aplicação deste decreto regional serão resolvidas por resolução do Governo Regional.
+Art. 5.º As dúvidas suscitadas com a aplicação deste decreto regional serão resolvidas por resolução do Governo Regional.
 
-###### Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 6 de Junho de 1978. - O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 23 de Junho de 1978.**
+Assinado em 23 de Junho de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

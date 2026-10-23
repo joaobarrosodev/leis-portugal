@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/759/2009/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/759-2009-492252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad674c88737a43f5e99aacfc87ca0960ac18a27cac26e42dc65798c41e7950af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf2497f145ecbf422a6de6fc0277c9fb621c7ee9e0a2b8e20d67d9ca585a642f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Autarquia Local
+- Avaliação do Pessoal
 - Conselho de Coordenação da Avaliação
+- Educação Pré-escolar
+- Ensino Básico
 - Homologação
 - Impugnação
 - Pessoal não Docente
-- Ensino Básico
 - Reclamação
-- Avaliação do Pessoal
-- Educação Pré-escolar
-- Autarquia Local
+- Recurso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/4/2006/03/07/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693452:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:07Z'
   warnings: []
   errors: []
 ---
@@ -167,4 +183,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 26 de Maio de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Educação, Valter Victorino Lemos.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Educação, Valter Victorino Lemos.

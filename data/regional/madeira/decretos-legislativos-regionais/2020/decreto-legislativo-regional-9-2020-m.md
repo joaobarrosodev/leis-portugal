@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14500/0001300020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2020/07/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-138963713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c93f1d8391408f96b784e29fd3f83d86192d4bb3d3e51d85321665d0fe7eb25e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c2fbb046cd9984381215656d3dc38f17739c52ffd889337370b7b0bdce369f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,61 +69,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação de Saúde para Crianças e Jovens em Risco
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Proteção Civil
 - Autorização de Despesas
-- Pessoal de Saúde
 - Bolsa de Formação
+- Bombeiro
 - Calendário Escolar
-- Governo Regional
+- Código dos Contratos Públicos
+- Contratação Pública
 - Contrato
-- Saúde
 - Definição de Competências
 - Despesas Públicas
 - Doação
 - Documentação
+- Doença Infecciosa
+- Emprego
+- Epidemia
 - Estado de Emergência
+- Faltas
 - Formulário Eletrónico
-- Subsídio de Risco
+- Governo Regional
 - Horário de Funcionamento
-- Instituto de Emprego da Madeira
 - Indemnização
 - Indemnização Compensatória
+- Instituto de Administração da Saúde e Assuntos Sociais
+- Instituto de Emprego da Madeira
 - Isolamento Profiláctico
-- Faltas
-- Bombeiro
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
 - Parceria Público-Privada
-- Doença Infecciosa
-- Epidemia
-- Código dos Contratos Públicos
+- Pessoal de Saúde
+- Pessoal Docente
 - Prazo
 - Prazo Processual
-- Pessoal Docente
 - Processo Administrativo
-- Emprego
-- Madeira.região Autónoma
 - Prorrogação de Prazo
-- Teletrabalho
+- Proteção Civil
 - Remuneração
-- Sesaram
+- Saúde
+- Secretaria Regional da Saúde e Proteção Civil
+- Secretário Regional da Saúde e Proteção Civil
+- Sector Empresarial Regional
 - Serviço Regional de Protecção Civil
 - Serviço Regional de Saúde
-- Administração Regional
+- Sesaram
 - Subsídio de Refeição
+- Subsídio de Risco
+- Subsídio Social de Mobilidade
+- Suspensão de Prazo
+- Teletrabalho
 - Trabalhador
 - Transferência de Verbas
-- Suspensão de Prazo
-- Sector Empresarial Regional
-- Instituto de Administração da Saúde e Assuntos Sociais
-- Subsídio Social de Mobilidade
-- Ação de Saúde para Crianças e Jovens em Risco
 - Vice-Presidente do Governo Regional e dos Assuntos Parlamentares
-- Secretário Regional da Saúde e Proteção Civil
-- Secretaria Regional da Saúde e Proteção Civil
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -165,16 +165,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:106542306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121854641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130277357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130277366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133879987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134889277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:28Z'
   warnings: []
   errors: []
 ---
@@ -391,10 +487,12 @@ b) Do seu artigo 5.º, que produz efeitos reportados à data de produção de ef
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de junho de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 15 de julho de 2020.**
+Assinado em 15 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+113410079

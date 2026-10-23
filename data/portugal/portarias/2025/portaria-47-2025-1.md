@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2025/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8483da61ec0f1e89d9870e48527d51ff461f4ff828b96b8f4b8102af95ca8f06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 092d3e9cd6817dd7619c920fc440d825a38b754992b0b597ec539f1e394522f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comparticipação do Estado
+- Cuidados Médicos
+- Doença
 - Farmácia
 - Infarmed
-- Comparticipação do Estado
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Preço de Venda
-- Cuidados Médicos
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Doença
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:92-E/2017
+  label: Altera, a partir de 1 de março de 2025, os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º e os anexos i e ii
+    e revoga os n.ºs 2 e 5 do artigo 4.º e o n.º 6 do artigo 5.º da Portaria n.º 92-E/2017, de 3 de março, Diário da República
+    n.º 45/2017, 1º Suplemento, Série I, que republica
+  source: null
+  date: '2017-03-03'
 - type: cites
   target: celex:32017R0745
   label: null
@@ -99,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92-e/2017/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92-e/2017/03/03/p/dre
+- type: cites
+  target: pt:dre:106555617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115182509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840584999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865954590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:58Z'
   warnings: []
   errors: []
 ---
@@ -139,11 +170,15 @@ São alterados os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º 
 
 A presente portaria estabelece o regime excecional de comparticipação do Estado no preço de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Os dispositivos médicos para o apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, que podem ser objeto de comparticipação são os constantes do anexo i da presente portaria, da qual faz parte integrante.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -153,7 +188,9 @@ Os dispositivos médicos para o apoio a doentes com incontinência ou retenção
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -165,7 +202,9 @@ Os dispositivos médicos para o apoio a doentes com incontinência ou retenção
 
 5 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, no regime de comparticipação previsto na presente portaria é requerido ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), instruído com os elementos identificados no anexo ii da presente portaria, da qual faz parte integrante.
 
@@ -181,7 +220,9 @@ Os dispositivos médicos para o apoio a doentes com incontinência ou retenção
 
 7 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete aos serviços do INFARMED, I. P., a responsabilidade pela emissão dos pareceres de avaliação dos dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, para efeitos de comparticipação, podendo a mesma ser submetida à Comissão de Avaliação de Tecnologias de Saúde (CATS), sempre que se revele necessário e mediante solicitação.
 
@@ -193,13 +234,17 @@ Os dispositivos médicos para o apoio a doentes com incontinência ou retenção
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
 2 - Os dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, incluídos no regime de comparticipação, devem estar obrigatoriamente disponíveis para dispensa nas farmácias, em conformidade com a notificação do início de comercialização.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -217,7 +262,9 @@ Os dispositivos médicos para o apoio a doentes com incontinência ou retenção
 
 8 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 As embalagens dos dispositivos médicos comparticipados para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, devem apresentar preço de venda ao público (PVP), bem como o código de identificação atribuído ao dispositivo médico aquando da sua inclusão no regime de comparticipação.»
 
@@ -241,7 +288,7 @@ São revogados os n.os 2 e 5 do artigo 4.º e o n.º 6 do artigo 5.º, todos da 
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 16 de fevereiro de 2025.**
+A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 16 de fevereiro de 2025.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -403,7 +450,7 @@ As embalagens dos dispositivos médicos comparticipados para apoio a doentes com
 
 1 - A presente portaria entra em vigor a partir de 1 de abril de 2017, com exceção do disposto no número seguinte.
 
-2 - O disposto nos artigos 3.º, n.<sup>os</sup>2 a 4, 5.º, 6.º, 7.º, 9.º e 10.º produz efeitos após a entrada em vigor do despacho referido no n.º 4 do artigo 3.º
+2 - O disposto nos artigos 3.º, n.os2 a 4, 5.º, 6.º, 7.º, 9.º e 10.º produz efeitos após a entrada em vigor do despacho referido no n.º 4 do artigo 3.º
 
 ## ANEXO I
 
@@ -450,3 +497,5 @@ d) Identificação de qual o grupo, dos indicados no anexo i da presente portari
 e) Apresentação dos elementos que demonstram o cumprimento dos requisitos técnicos gerais e específicos, estabelecidos por despacho do membro do Governo responsável pela área da saúde;
 
 f) PVP proposto.
+
+118703332

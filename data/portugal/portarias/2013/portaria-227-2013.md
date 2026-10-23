@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/227/2013/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6647383b97dafc856d2b333ed23e9534588765902804f7eb4523398fb85c00a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdf144187fc316628b04f6c17c1c11184c9fdd6c0425deb8e848ab19b6e6032f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo do Algarve
-- Financiamento
-- Turismo
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Definição de Competências
 - Algarve
+- Definição de Competências
+- Emprego
+- Financiamento
+- Formação Profissional
 - FSE
+- Instituto do Emprego e Formação Profissional
 - Instituto do Turismo de Portugal
 - Programa
-- Emprego
 - Remuneração
+- Turismo
+- Turismo do Algarve
 relationships:
+- type: amended_by
+  target: pt:dre:25345133:por
+  label: Alterados, a partir de 04.07.2014, os arts. 1.º, 3.º, 5.º, 6.º, 7.º, 8.º, 8.º-A, 11.º, 13.º, 17.º e o anexo II da
+    Port 297/2012 de 28-set, na redação do presente diploma, pelo(a) Portaria n.º 136-A/2014 - Diário da República n.º 126/2014,
+    1º Suplemento, Série I de 2014-07-03, que procede à republicação daquela
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-a-2014-25345133
+  date: '2014-07-03'
+- type: amended_by
+  target: pt:dre:69782193:por
+  label: Alterados os arts. 3.º, 5.º, 7.º, 8.º, 11.º, 13.º e o Anexo II da Port 297/2012 de 28-set, na redação do presente
+    diploma, pelo(a) Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-2015-69782193
+  date: '2015-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -118,16 +131,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/114/2012/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/114/2012/08/10/p/dre
+- type: cites
+  target: pt:dre:175166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105643545:por
+  label: Revogada pelo(a) Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-2016-105643545
+  date: '2016-12-29'
 article_structure:
-  article_count: 39
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 28
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:16Z'
   warnings: []
   errors: []
 ---
@@ -170,13 +236,17 @@ A presente Portaria procede à alteração da Portaria n.º 297/2012, de 28 de s
 
 A presente portaria cria o Programa Formação-Algarve, de ora em diante designado Programa, que visa combater a sazonalidade do desemprego na região do Algarve e reforçar a competitividade e a produtividade dos setores de atividade identificados no Anexo I, através da concessão aos empregadores de um apoio financeiro à renovação ou conversão de contratos de trabalho a termo certo, bem como à qualificação profissional dos trabalhadores.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - São destinatários do Programa os trabalhadores dos empregadores candidatos, que se encontrem vinculados através de contrato de trabalho a termo certo, cujo prazo de duração termine entre 1 de setembro e 30 de novembro de 2013.
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a atribuição do apoio financeiro ao empregador depende da verificação, até 1 de dezembro de 2013, de um dos seguintes requisitos, relativamente a cada trabalhador objeto do apoio:
 
@@ -188,7 +258,9 @@ c) [Revogada].
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -208,7 +280,9 @@ b) Apresentar um plano de formação que contemple formação não disponível n
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A formação deve decorrer no período compreendido entre 1 de novembro de 2013 e 31 de maio de 2014.
 
@@ -216,7 +290,9 @@ b) Apresentar um plano de formação que contemple formação não disponível n
 
 3 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -226,7 +302,9 @@ b) Apresentar um plano de formação que contemple formação não disponível n
 
 4 - As habilitações escolares mínimas de acesso às ações de formação são determinadas em função das UFCD que compõem os percursos formativos, conforme previsto no regulamento específico previsto no n.º 2 do artigo 19.º.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -240,9 +318,13 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 12.º — [Revogado]
+Artigo 12.º
 
-###### Artigo 13.º — [...]
+[Revogado]
+
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -268,7 +350,9 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 15.º — Pagamento do apoio às entidades formadoras
+Artigo 15.º
+
+Pagamento do apoio às entidades formadoras
 
 Nos casos previstos no artigo 8.º-A, o pagamento à entidade formadora certificada ou à escola de hotelaria e turismo do Instituto do Turismo de Portugal, I.P. é efetuado nos seguintes termos:
 
@@ -278,7 +362,9 @@ b) A título excecional e a pedido da entidade formadora certificada ou da escol
 
 c) O montante remanescente é pago após a conclusão da formação e encerramento de contas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -304,7 +390,7 @@ c) [...].
 
 6 - [Anterior n.º 5].
 
-###### Artigo 20.º
+Artigo 20.º
 
 [Revogado]»
 
@@ -316,51 +402,51 @@ c) [...].
 
 Turismo - Percurso 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Andares - Percurso 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Restaurante - Percurso 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Bar - Percurso 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Pastelaria - Percurso 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Receção Hoteleira - Percurso 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Cozinha - Percurso 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Construção Civil - Percurso 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades de Comércio - Percurso 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades Administrativas - Percurso 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades Desportivas - Percurso 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades de Animação - Percurso 12
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 ###### Artigo 3.º — Aditamento à Portaria n.º 297/2012, de 28 de setembro
 
@@ -394,7 +480,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 10 de julho de 2013.
 
-**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira. - O Secretário de Estado do Turismo, Adolfo Miguel Baptista Mesquita Nunes.**
+O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira. - O Secretário de Estado do Turismo, Adolfo Miguel Baptista Mesquita Nunes.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -444,7 +530,7 @@ c) [Revogada].
 
 2 - O empregador deve garantir a frequência de formação profissional aos trabalhadores abrangidos pelo Programa.
 
-### CAPITULO II
+CAPITULO II
 
 Organização e desenvolvimento da formação profissional
 
@@ -508,7 +594,7 @@ a) À emissão de um certificado de qualificações ou de um certificado de form
 
 b) Ao registo na caderneta individual de competências, de acordo com o modelo aprovado pela Portaria n.º 475/2010, de 8 de julho.
 
-### CAPITULO III
+CAPITULO III
 
 Candidatura aos apoios
 
@@ -626,7 +712,7 @@ c) Incumprimento da obrigação de prestação de formação.
 
 2 - Sem prejuízo do disposto no número anterior, o apoio financeiro previsto na presente portaria não é cumulável com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho.
 
-### CAPITULO IV
+CAPITULO IV
 
 Disposições finais
 
@@ -644,7 +730,7 @@ Disposições finais
 
 (a que se refere o n.º 1 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 ## ANEXO II — Percursos-tipo
 
@@ -652,48 +738,48 @@ Disposições finais
 
 Turismo - Percurso 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Andares - Percurso 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Restaurante - Percurso 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Serviço de Bar - Percurso 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Pastelaria - Percurso 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Receção Hoteleira - Percurso 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Cozinha - Percurso 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Construção Civil - Percurso 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades de Comércio - Percurso 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades Administrativas - Percurso 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades Desportivas - Percurso 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
 
 Atividades de Animação - Percurso 12
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13300/0409404107.pdf)

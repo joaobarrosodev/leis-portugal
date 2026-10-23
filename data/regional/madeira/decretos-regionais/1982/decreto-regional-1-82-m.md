@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56cebeb7180f3d6f51f123e81fab6b114d8b0bed7328072f6306994f5d3e604e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c611611763c97e2f5fb3e5cac5677f100a424392dfd85329e11149572121010
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Proteção Civil
+- Serviço Regional de Protecção Civil da Madeira
+relationships:
+- type: cites
+  target: pt:dre:160138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462408:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600083:por
+  label: Rectificado pela DECL.DD2470.1982.03.01.PCM, DR.IS [59] de 12.03.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600083
+  date: '1982-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:48Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +117,11 @@ Nas Regiões Autónomas dos Açores e da Madeira existirão Serviços Regionais 
 
 A Assembleia Regional da Madeira decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º É criado e estruturado na dependência directa da Presidência do Governo Regional o Serviço Regional de Protecção Civil da Madeira (SRPCM), que, apoiado na espontânea vontade de os cidadãos se entreajudarem, tem por objectivo preparar as medidas de protecção, limitar os riscos e minimizar os prejuízos que impendem sobre a população civil, causados por catástrofes naturais ou emergências imputáveis à guerra, ou por tudo o que represente ameaça ou destruição dos bens públicos e privados e dos recursos naturais repartidos pela Região.
+Artigo 1.º É criado e estruturado na dependência directa da Presidência do Governo Regional o Serviço Regional de Protecção Civil da Madeira (SRPCM), que, apoiado na espontânea vontade de os cidadãos se entreajudarem, tem por objectivo preparar as medidas de protecção, limitar os riscos e minimizar os prejuízos que impendem sobre a população civil, causados por catástrofes naturais ou emergências imputáveis à guerra, ou por tudo o que represente ameaça ou destruição dos bens públicos e privados e dos recursos naturais repartidos pela Região.
 
-###### Art. 2.º Com vista ao cumprimento da sua missão, o Serviço Regional de Protecção Civil da Madeira (SRPCM) deve tender a integrar todas as organizações de prevenção e socorro existentes na Região e articulará a sua acção com associações de voluntários julgadas convenientes.
+Art. 2.º Com vista ao cumprimento da sua missão, o Serviço Regional de Protecção Civil da Madeira (SRPCM) deve tender a integrar todas as organizações de prevenção e socorro existentes na Região e articulará a sua acção com associações de voluntários julgadas convenientes.
 
-###### Art. 3.º São missões próprias da protecção civil preparar e pôr em execução medidas:
+Art. 3.º São missões próprias da protecção civil preparar e pôr em execução medidas:
 
 a) De prevenção, como esforço prioritário e acção prévia, comum a todos os campos em que se desenvolve a protecção civil;
 
@@ -117,7 +133,7 @@ d) Destinadas a salvaguardar os recursos naturais e outros;
 
 e) De defesa passiva, em cooperação com as forças armadas.
 
-###### Art. 4.º O SRPCM tem as seguintes funções:
+Art. 4.º O SRPCM tem as seguintes funções:
 
 1) Estudo e organização prévia dos meios adequados para a protecção da população e bens na ocorrência de uma catástrofe;
 
@@ -133,7 +149,7 @@ e) De defesa passiva, em cooperação com as forças armadas.
 
 7) Promoção dos treinos gerais ou sectoriais que julgar necessários.
 
-###### Art. 5.º É missão do SRPCM superintender e coordenar, a nível regional, todas as actividades de protecção civil e dar execução às directivas e determinações superiores em ordem a alcançar os objectivos fixados, competindo-lhe, nomeadamente:
+Art. 5.º É missão do SRPCM superintender e coordenar, a nível regional, todas as actividades de protecção civil e dar execução às directivas e determinações superiores em ordem a alcançar os objectivos fixados, competindo-lhe, nomeadamente:
 
 1) Proceder ao estudo sistemático e meticuloso das catástrofes possíveis a nível regional e local, definindo probabilidades de ocorrência e prevendo os cenários possíveis;
 
@@ -179,7 +195,7 @@ d) Contactando com entidades e organizações de protecção civil nacionais, es
 
 11) Suscitar, coordenar e dinamizar a elaboração ou actualização, pelos competentes organismos e departamentos oficiais, dos regulamentos de segurança e outros em que estes se apoiem.
 
-###### Art. 6.º São órgãos do Serviço Regional de Protecção Civil da Madeira (SRPCM):
+Art. 6.º São órgãos do Serviço Regional de Protecção Civil da Madeira (SRPCM):
 
 a) Presidente;
 
@@ -189,7 +205,7 @@ c) Comissão Coordenadora;
 
 d) Centro Operacional.
 
-###### Art. 7.º - 1 - O presidente, nomeado por despacho conjunto do Ministro da República e do Presidente do Governo Regional, dirige o SRPCM de harmonia com as normas estabelecidas e com a orientação definida superiormente.
+Art. 7.º - 1 - O presidente, nomeado por despacho conjunto do Ministro da República e do Presidente do Governo Regional, dirige o SRPCM de harmonia com as normas estabelecidas e com a orientação definida superiormente.
 
 2 - Será ainda nomeado, por despacho emitido pelas entidades referidas no número anterior, um vice-presidente, que coadjuvará o presidente, que nele poderá delegar, com ou sem poderes de subdelegação, o exercício de parte da sua competência e por quem será substituído nas suas faltas ou impedimentos.
 
@@ -203,13 +219,13 @@ c) Presidir ao Conselho Regional;
 
 d) Desempenhar as demais funções que por lei lhe sejam cometidas.
 
-###### Art. 8.º - 1 - O Conselho Regional é o órgão deliberativo do SRPCM, sendo constituído pelo presidente do SRPCM, que preside, por um representante do Ministro da República, por um representante do Governo Regional, por um representante da Assembleia Regional e por um representante das autarquias locais.
+Art. 8.º - 1 - O Conselho Regional é o órgão deliberativo do SRPCM, sendo constituído pelo presidente do SRPCM, que preside, por um representante do Ministro da República, por um representante do Governo Regional, por um representante da Assembleia Regional e por um representante das autarquias locais.
 
 2 - Adstrito ao Conselho Regional funcionará um secretário permanente com funções de apoio à mesma, cabendo ao secretário ser o responsável pelo serviço de apoio administrativo.
 
 3 - O Conselho Regional de Protecção Civil da Madeira (CRPCM) estabelecerá as normas do seu funcionamento.
 
-###### Art. 9.º O Conselho Regional, assistido pela Comissão Coordenadora do SRPCM, providencia pela execução das medidas previstas no artigo 4.º do presente diploma e pela realização das acções conducentes à sua concretização, nomeadamente:
+Art. 9.º O Conselho Regional, assistido pela Comissão Coordenadora do SRPCM, providencia pela execução das medidas previstas no artigo 4.º do presente diploma e pela realização das acções conducentes à sua concretização, nomeadamente:
 
 a) Elaborar e manter actualizados os programas e medidas legislativas necessárias ao cumprimento da missão do SRPCM;
 
@@ -225,7 +241,7 @@ f) Manter actualizado o Plano Regional de Protecção Civil;
 
 g) Promover os treinos gerais ou sectoriais que julgar necessários.
 
-###### Art. 10.º Ao Conselho Regional de Protecção Civil da Madeira compete, para além das funções decorrentes da sua natureza e composição, nomeadamente:
+Art. 10.º Ao Conselho Regional de Protecção Civil da Madeira compete, para além das funções decorrentes da sua natureza e composição, nomeadamente:
 
 a) Emitir parecer sobre o plano anual de actividades de protecção civil elaborado pelo SRPCM;
 
@@ -235,7 +251,7 @@ c) Propor os objectivos a atingir e as linhas mestras a seguir pelos vários dep
 
 d) Estudar prioridades com vista a um escalonamento de esforços daqueles departamentos no respeitante à sua participação nas tarefas comuns de protecção civil.
 
-###### Art. 11.º O Serviço Regional de Protecção Civil da Madeira disporá de uma Comissão Coordenadora permanente, com as seguintes atribuições:
+Art. 11.º O Serviço Regional de Protecção Civil da Madeira disporá de uma Comissão Coordenadora permanente, com as seguintes atribuições:
 
 a) Apoio técnico;
 
@@ -243,7 +259,7 @@ b) Estudo e investigação das questões de previsão, prevenção e reconstruç
 
 c) Elaboração de pareceres técnicos que lhe forem solicitados através do seu presidente.
 
-###### Art. 12.º - 1 - A Comissão Coordenadora será presidida pelo presidente do SRPCM ou seu delegado e será constituída por representantes de cada secretaria regional, directores regionais de saúde pública, segurança social, hospitais e turismo, director regional de telecomunicações (CTP), presidente da Câmara Municipal do Funchal, delegado do Governo no Porto Santo, comandante regional da PSP, capitão do porto do Funchal, delegados dos Bombeiros Voluntários Madeirenses, da Cruz Vermelha Portuguesa e da Associação de Radioamadores da Região da Madeira, e terá um coordenador geral, a designar pelo presidente.
+Art. 12.º - 1 - A Comissão Coordenadora será presidida pelo presidente do SRPCM ou seu delegado e será constituída por representantes de cada secretaria regional, directores regionais de saúde pública, segurança social, hospitais e turismo, director regional de telecomunicações (CTP), presidente da Câmara Municipal do Funchal, delegado do Governo no Porto Santo, comandante regional da PSP, capitão do porto do Funchal, delegados dos Bombeiros Voluntários Madeirenses, da Cruz Vermelha Portuguesa e da Associação de Radioamadores da Região da Madeira, e terá um coordenador geral, a designar pelo presidente.
 
 2 - Ao coordenador geral caberá fundamentalmente o accionamento, coordenação e controle da actuação dos meios disponíveis, bem como a execução das directivas emanadas quer do Conselho Regional, quer da Comissão Coordenadora.
 
@@ -251,11 +267,11 @@ c) Elaboração de pareceres técnicos que lhe forem solicitados através do seu
 
 4 - Sempre que, pela especialidade das questões a tratar, haja necessidade de eventual colaboração de outras entidades, o presidente requererá aos organismos próprios a nomeação dos especialistas convenientes.
 
-###### Art. 13.º Os membros da Comissão Coordenadora elaborarão o Plano Regional de Protecção Civil, designando várias comissões sectoriais, suas atribuições, missões e áreas de actuação, e escolherão entre si o presidente de cada uma das comissões sectoriais constituídas.
+Art. 13.º Os membros da Comissão Coordenadora elaborarão o Plano Regional de Protecção Civil, designando várias comissões sectoriais, suas atribuições, missões e áreas de actuação, e escolherão entre si o presidente de cada uma das comissões sectoriais constituídas.
 
-###### Art. 14.º O Centro Operacional de Protecção Civil da Madeira (COPCM) é o órgão do SRPCM que tem a finalidade de possibilitar o controle da situação e a liberdade de acção necessária para as acções a desenvolver, em ordem a evitar, se possível, as catástrofes iminentes ou a minimizar os seus efeitos, quando ocorram.
+Art. 14.º O Centro Operacional de Protecção Civil da Madeira (COPCM) é o órgão do SRPCM que tem a finalidade de possibilitar o controle da situação e a liberdade de acção necessária para as acções a desenvolver, em ordem a evitar, se possível, as catástrofes iminentes ou a minimizar os seus efeitos, quando ocorram.
 
-###### Art. 15.º Constituem missões do Centro Operacional de Protecção Civil da Madeira (COPCM):
+Art. 15.º Constituem missões do Centro Operacional de Protecção Civil da Madeira (COPCM):
 
 a) Garantir ligações permanentes com as entidades e organizações necessárias, por forma a conseguir informações adequadas e em tempo útil;
 
@@ -267,13 +283,13 @@ d) Possibilitar os pedidos de auxílio ao SNPC, a organizações de protecção 
 
 e) Efectuar os treinos e exercícios aconselháveis e rotinar procedimentos, em ordem a alcançar um alto nível de operacionalidade.
 
-###### Art. 16.º - 1 - O Centro Operacional de Protecção Civil da Madeira (COPCM), quando activado, é directamente dirigido pelo Presidente do Governo Regional, que poderá delegar no Secretário Regional dos Assuntos Sociais ou num outro secretário, agregando outros membros do Governo Regional, se necessário.
+Art. 16.º - 1 - O Centro Operacional de Protecção Civil da Madeira (COPCM), quando activado, é directamente dirigido pelo Presidente do Governo Regional, que poderá delegar no Secretário Regional dos Assuntos Sociais ou num outro secretário, agregando outros membros do Governo Regional, se necessário.
 
 2 - Dele farão parte os membros do Conselho Regional e da Comissão Coordenadora, podendo ser convocados delegados de quaisquer sectores de actividade, face à situação que se apresente e às necessidades detectadas.
 
 3 - O Serviço Regional de Protecção Civil da Madeira garantirá todo o apoio administrativo-logístico e implementará os meios necessários à montagem e bom funcionamento do Centro Operacional.
 
-###### Art. 17.º - 1 - O Presidente do Governo Regional, ou o secretário regional em quem ele delegar, assumirá a direcção das operações de emergência a desencadear de acordo com os planos previamente estabelecidos, se já existentes, competindo-lhe decidir da activação e desactivação do Centro.
+Art. 17.º - 1 - O Presidente do Governo Regional, ou o secretário regional em quem ele delegar, assumirá a direcção das operações de emergência a desencadear de acordo com os planos previamente estabelecidos, se já existentes, competindo-lhe decidir da activação e desactivação do Centro.
 
 2 - Pelo SRPCM será garantido um acompanhamento constante da situação, tendo em vista conhecer dos pequenos incidentes, sinistros ou desastres e a sua evolução previsível, quando for caso disso, por forma que seja possível evitar a catástrofe pela actuação conveniente e em tempo útil do Centro Operacional de Protecção Civil da Madeira.
 
@@ -283,7 +299,7 @@ e) Efectuar os treinos e exercícios aconselháveis e rotinar procedimentos, em 
 
 5 - Serão estabelecidos acordos de colaboração com as organizações e entidades privadas necessárias em ordem a conseguir o seu empenhamento nas acções a desenvolver quando da ocorrência de catástrofes ou calamidades públicas.
 
-###### Art. 18.º - 1 - Activado o Centro Operacional de Protecção Civil da Madeira, o Presidente do Governo Regional, ou o secretário regional em quem ele delegar, tem competência para tomar as medidas planeadas e outras que entender convenientes, nomeadamente:
+Art. 18.º - 1 - Activado o Centro Operacional de Protecção Civil da Madeira, o Presidente do Governo Regional, ou o secretário regional em quem ele delegar, tem competência para tomar as medidas planeadas e outras que entender convenientes, nomeadamente:
 
 a) Accionar directamente todos os departamentos regionais, determinando a sua participação nas acções a desempenhar;
 
@@ -299,23 +315,23 @@ f) Promover a organização de comandos operacionais avançados nas áreas que a
 
 2 - Na ausência do Presidente do Governo Regional, e enquanto não for estabelecida a delegação referida, o Secretário Regional dos Assuntos Sociais terá as competências consignadas no número anterior.
 
-###### Art. 19.º - 1 - Sempre que se prevejam ou ocorram sinistros, catástrofes ou calamidades públicas, tanto as populações como as várias entidades e organizações que na Região Autónoma da Madeira tenham missões no âmbito da protecção civil desencadearão, por sua iniciativa, as medidas apropriadas de acordo com os planos e programas estabelecidos.
+Art. 19.º - 1 - Sempre que se prevejam ou ocorram sinistros, catástrofes ou calamidades públicas, tanto as populações como as várias entidades e organizações que na Região Autónoma da Madeira tenham missões no âmbito da protecção civil desencadearão, por sua iniciativa, as medidas apropriadas de acordo com os planos e programas estabelecidos.
 
 2 - Quando, nas situações referidas no número anterior, se manifestem insuficientes os meios disponíveis a nível local ou regional, deverá o responsável pela protecção civil àqueles níveis solicitar o apoio e, se necessário, a intervenção do escalão imediatamente superior.
 
 3 - Quando, na ocorrência ou iminência de catástrofes ou calamidades públicas, for activado o Centro Operacional de Protecção Civil da Madeira (COPCM), a participação das organizações referidas no n.º 1 do presente artigo será integrada no conjunto das operações determinadas e coordenadas por aquele Centro.
 
-###### Art. 20.º Se os prejuízos e as circunstâncias justificarem tais acções, o Presidente do Governo Regional poderá, sob proposta do Conselho Regional do SRPCM, emitir uma proclamação, declarando o estado de catástrofe e ou estado de necessidade na Região, situação que acarretará determinado número de implicações, a definir.
+Art. 20.º Se os prejuízos e as circunstâncias justificarem tais acções, o Presidente do Governo Regional poderá, sob proposta do Conselho Regional do SRPCM, emitir uma proclamação, declarando o estado de catástrofe e ou estado de necessidade na Região, situação que acarretará determinado número de implicações, a definir.
 
-###### Art. 21.º - 1 - À medida que os planos anticatástrofe o permitirem, deverão ser realizados exercícios e treinos para rotinar procedimentos, possibilitar a correcção de falhas ou imperfeições e facultar aos executantes um concreto conhecimento das acções a executar.
+Art. 21.º - 1 - À medida que os planos anticatástrofe o permitirem, deverão ser realizados exercícios e treinos para rotinar procedimentos, possibilitar a correcção de falhas ou imperfeições e facultar aos executantes um concreto conhecimento das acções a executar.
 
 2 - Estes exercícios e treinos serão criteriosamente planeados pelo Serviço Regional de Protecção Civil da Madeira e submetidos à decisão do Presidente do Governo Regional.
 
-###### Art. 22.º Os encargos administrativos resultantes da organização, funcionamento e activação do Centro Operacional serão suportados pelo Serviço Regional de Protecção Civil da Madeira.
+Art. 22.º Os encargos administrativos resultantes da organização, funcionamento e activação do Centro Operacional serão suportados pelo Serviço Regional de Protecção Civil da Madeira.
 
-###### Art. 23.º As responsabilidades e competências dos órgãos autárquicos e seus responsáveis, no domínio da protecção civil, para além do apoio técnico a assegurar pelo SRPCM às autarquias, nos casos em que se justifique a criação de um órgão permanente, serão definidas por regulamentação própria.
+Art. 23.º As responsabilidades e competências dos órgãos autárquicos e seus responsáveis, no domínio da protecção civil, para além do apoio técnico a assegurar pelo SRPCM às autarquias, nos casos em que se justifique a criação de um órgão permanente, serão definidas por regulamentação própria.
 
-###### Art. 24.º Constituem receitas do SRPCM:
+Art. 24.º Constituem receitas do SRPCM:
 
 a) Dotação própria a inscrever no orçamento da Região e a detalhar em orçamento próprio;
 
@@ -327,22 +343,22 @@ d) Rendimento de bens próprios;
 
 e) Outras receitas, nomeadamente as provenientes de publicações, vistorias, pareceres e prestação de outros serviços de ordem técnica.
 
-###### Art. 25.º Constituem encargos do SRPCM todas as despesas decorrentes do funcionamento dos serviços próprios e da execução de empreendimentos e actividades que prossigam os objectivos da protecção civil.
+Art. 25.º Constituem encargos do SRPCM todas as despesas decorrentes do funcionamento dos serviços próprios e da execução de empreendimentos e actividades que prossigam os objectivos da protecção civil.
 
-###### Art. 26.º O Serviço Regional de Protecção Civil da Madeira (SRPCM) é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, dispondo de património próprio.
+Art. 26.º O Serviço Regional de Protecção Civil da Madeira (SRPCM) é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, dispondo de património próprio.
 
-###### Art. 27.º O Governo Regional elaborará a regulamentação considerada indispensável para a execução do presente decreto regional.
+Art. 27.º O Governo Regional elaborará a regulamentação considerada indispensável para a execução do presente decreto regional.
 
-###### Art. 28.º O Governo Regional fica autorizado a efectuar as transferências de verbas necessárias para a execução do presente diploma.
+Art. 28.º O Governo Regional fica autorizado a efectuar as transferências de verbas necessárias para a execução do presente diploma.
 
-###### Art. 29.º As dúvidas que se suscitarem na aplicação deste decreto regional serão resolvidas por despacho conjunto do Ministro da República e do Presidente do Governo Regional.
+Art. 29.º As dúvidas que se suscitarem na aplicação deste decreto regional serão resolvidas por despacho conjunto do Ministro da República e do Presidente do Governo Regional.
 
-###### Art. 30.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 30.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 7 de Janeiro de 1982.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 25 de Janeiro de 1982.**
+Assinado em 25 de Janeiro de 1982.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

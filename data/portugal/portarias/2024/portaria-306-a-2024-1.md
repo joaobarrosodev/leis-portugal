@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23001/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/306-a/2024/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-a-2024-898053219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1ba1588db86d3f5de4af82b0033f80aeb7b31201088cd9803b5c8157ceb43f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c9d8a6daf55c6c8abe5f7ff77c2d0af2398b842b44540c3deff3112fa0d51f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
+- Açores
 - Aicep
+- Apoio ao Investimento
+- Efeito de Estufa
 - Financiamento
+- Investimento
+- Madeira.região Autónoma
+- Projeto de Investimento
+- Proteção do Ambiente
 - Qualidade do AR
 - Regulamentação de Atos Legislativos
-- Apoio ao Investimento
-- Projeto de Investimento
-- Investimento
-- Proteção do Ambiente
-- Madeira.região Autónoma
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/191/2014/12/31/p/dre
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:177908719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211717115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366011:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:02Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +190,7 @@ O enquadramento previsto na presente portaria pode ser aplicado a projetos com p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 25 de novembro de 2024. - O Ministro da Economia, Pedro Reis, em 22 de novembro de 2024.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 25 de novembro de 2024. - O Ministro da Economia, Pedro Reis, em 22 de novembro de 2024.
 
 ## ANEXO
 
@@ -477,3 +509,5 @@ Ao presente Sistema de Incentivos é aplicável, no que não se encontre express
 a) Os artigos 3.º, 6.º a 9.º, 24.º a 27.º, 33.º e 34.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, que estabelece o regime geral de aplicação dos fundos europeus do Portugal 2030 e do Fundo para o Asilo a Migração e a Integração para o período de programação de 2021-2027, com as devidas adaptações, atendendo às competências definidas na presente portaria e origem do apoio a conceder;
 
 b) O Código do Procedimento Administrativo.
+
+118398311

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 115/2013, 2º Suplemento, Série I de 2013-06-18
   number: '115'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3376-(1284) a 3376-(1287)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11502/0128401287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204-a/2013/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2013-546030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487779488bd93e87c3cf7818d56c3ecba93d734dcc9f30d8867d1a3739847ea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2762f054ae55c072ab5f822a3a95158d574a3a0bd1c2ca8cecc1dce2d286004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
-- Instituto do Emprego e Formação Profissional
+- Contratação de Pessoal
 - Definição de Competências
 - Desempregado
+- Desemprego
+- Empresa
 - Entidade Patronal
-- Projeto de Investimento
+- Financiamento
+- Instituto do Emprego e Formação Profissional
 - Jovem
 - Pagamento
-- Contratação de Pessoal
 - Pessoa Coletiva
 - Pessoa Singular
-- Desemprego
-- Recuperação de Empresas
-- Projecto PIN
 - Política de Emprego
+- Projecto PIN
+- Projeto de Investimento
+- Recuperação de Empresas
 - Reembolso
 relationships:
 - type: cites
@@ -124,16 +124,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:179028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:55021051:por
+  label: Revogada, a partir de 25.07.2014, pelo(a) Portaria n.º 149-A/2014 - Diário da República n.º 141/2014, 1º Suplemento,
+    Série I de 2014-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-a-2014-55021051
+  date: '2014-07-24'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:08Z'
   warnings: []
   errors: []
 ---
@@ -334,4 +396,4 @@ As candidaturas apresentadas ao abrigo dos diplomas referidos no artigo anterior
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 17 de junho de 2013.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 17 de junho de 2013.

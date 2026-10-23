@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249/2010/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-2010-614307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 009f533f71072ad7cf52cc168e5117c64a2eab6741ab078f7ea5a7d39786a7b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860ee7449f4ca73190aeb6233879f98c61a122f4617a7b52332da8c0fadf6adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Condições de Higiene e Segurança no Trabalho
-- Regulamento de Extensão
 - Indústria Alimentar
+- Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
 - Tabela Salarial
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:15Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +138,4 @@ b) Às relações de trabalho entre empresas filiadas nas associações de empre
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da sua entrada em vigor, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 19 de Abril de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 19 de Abril de 2010.

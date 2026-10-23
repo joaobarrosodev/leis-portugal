@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372-a/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-a-2024-901661964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 347c35f9b371baff14e0cfb3b79387082ac2b3df41cdad2e5a66aeab346a6290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1880a9551ef0b405a64b10aa296570b997c581d668775d9ff4281014fc24c2b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Cobrança de Impostos
-- Regulamentação de Atos Legislativos
 - Imposto Especial sobre o Consumo
-- Tabaco
 - Receita
 - Receita Fiscal
 - Receita Regional
-- Açores
+- Região Autónoma
 - Região Autónoma da Madeira
+- Regulamentação de Atos Legislativos
+- Tabaco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:23Z'
   warnings: []
   errors: []
 ---
@@ -175,4 +183,6 @@ d) PN = população residente no território nacional, de acordo com os últimos
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de janeiro de 2024.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 30 de dezembro de 2024.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 30 de dezembro de 2024.
+
+118517446

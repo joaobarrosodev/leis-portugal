@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/973/2009/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3a69cbcfaa60339433eb195edd85a00b22ab74b1de6dd82bbdb3b246b096cff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64bc4da70845264de58e342c1ebbe92064823641951e2e74108346a1716da873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lotaria Instantânea
-- Totobola
-- Totoloto
-- Jogos de Fortuna e Azar
 - Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
+- Jogos de Fortuna e Azar
+- Joker
+- Lotaria Instantânea
+- Lotaria Nacional
 - Preço
 - Prémio
 - Receita
 - Regulamento
-- Lotaria Nacional
 - Regulamento do Totobola
-- Joker
 - Regulamento do Totoloto
+- Santa Casa da Misericórdia
+- Totobola
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:259421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 6º do Regulamento da Lotaria Instantânea aprovado pela Port. 552/2001, de 31-mai, na redação do\
+    \ presente diploma, pela PORT.112/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:259421:por
+  label: "Alterado o art. 6º do Regulamento da Lotaria Instantânea aprovado pela Port. 552/2001, de 31-mai, na redação do\
+    \ presente diploma, pela PORT.112/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/112-2013-259421
+  date: '2013-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -125,16 +137,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:241015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:342655:por
+  label: "Revogada, a partir de 05.10.2010, a Port 551/2001 de 31-Mai, com a redacção conferida no presente diploma, pela\
+    \ PORT.1016/2010.04.10.2010.MTSSO, DR.IS [193] de 04.10.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1016-2010-342655
+  date: '2010-10-04'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogadada, em 13.03.2011, a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2011-03-11'
+- type: repealed_by
+  target: pt:dre:278178:por
+  label: "Revogada em 13.03.2011 a Port. 553/2001, de 03-Mai, na redacção da presente portaria, pela PORT.102/2011.11.03.2011.MTSSO,\
+    \ DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:23Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +347,9 @@ f) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos 
 
 O preço de cada aposta é fixado em (euro) 0,50.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 55 %.
 
@@ -297,4 +389,4 @@ e) 30,2 % para o 5.º prémio.
 
 8.º Os n.os 2.º e 3.º produzem efeitos para os jogos da Lotaria Instantânea emitidos e planos de prémios da Lotaria Nacional aprovados a partir de 1 de Setembro de 2009.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 27 de Agosto de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 27 de Agosto de 2009.

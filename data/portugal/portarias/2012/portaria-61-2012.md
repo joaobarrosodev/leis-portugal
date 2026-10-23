@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2012/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2012-553637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67c78feec71b34c0d021b6c95fb5cf438de43111ae0ef17a94b84a62330e9923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9c4a9e35af75bb8bcc11473a4a9107aa8d05a231e5b1d6a8bcaff38b5af5be3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Contrato de Seguro
-- Financiamento
-- Definição de Competências
-- Catástrofe
-- Indemnização
-- IFAP
 - Agricultor
+- Agricultura
+- Alteração Climática
+- Catástrofe
+- Companhia de Seguros
+- Contrato de Seguro
+- Definição de Competências
+- Financiamento
+- Fundo de Calamidades
+- IFAP
+- Indemnização
 - Política Agrícola
 - Produção Agrícola
 - Regulamento
-- Agricultura
-- Alteração Climática
-- Companhia de Seguros
-- Fundo de Calamidades
+- Sipac
 relationships:
 - type: amended_by
   target: pt:dre:571897:por
@@ -94,16 +94,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/318/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/318/2011/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:571897:por
+  label: "Revogada a Port 318/2011, de 30-dez, na redação do presente diploma, pela PORT.65/2014.12.03.2014.MF, DR.IS [50]\
+    \ de 12.03.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2014-571897
+  date: '2014-03-12'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:19Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +154,9 @@ d) O valor limite previsto na subalínea ii) da alínea c) pode, no caso de cont
 
 4 - O cálculo da disponibilidade orçamental referido na alínea d) do n.º 2 é efetuado com base no histórico dos contratos celebrados nos últimos cinco anos ao abrigo do SIPAC.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -158,11 +166,15 @@ b)...
 
 2 - O contrato de seguro de colheitas referido na alínea a) do número anterior deve incluir, pelo menos, os riscos climáticos previstos na cobertura base do SIPAC e abranger a cultura ou plantação atingida pela calamidade.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 De acordo com o estipulado no artigo 9.º do Decreto-Lei n.º 20/96, de 19 de março, o mecanismo de compensação de sinistralidade destina-se a compensar as empresas de seguros pelo excesso de sinistralidade que ocorra durante o exercício da sua atividade, no âmbito dos contratos de seguro celebrados ao abrigo do SIPAC e dos contratos de seguro celebrados ao abrigo do Regulamento (CE) n.º [1234/2007](http://data.europa.eu/eli/reg/2007/1234/oj?locale=pt), do Conselho, de 22 de outubro de 2007, que prevejam condições idênticas às estabelecidas nos artigos 1.º a 4.º e 8.º do presente regulamento.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 ...
 
@@ -180,7 +192,9 @@ iv) [Anterior subalínea iii).];
 
 v) No apuramento dos valores é considerado o conjunto dos contratos de seguro celebrados ao abrigo do SIPAC e do Regulamento (CE) n.º [1234/2007](http://data.europa.eu/eli/reg/2007/1234/oj?locale=pt), do Conselho, de 22 de outubro de 2007, sempre que as empresas de seguros tenham aderido ao mecanismo de compensação de sinistralidade para ambos os regimes.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -212,4 +226,4 @@ Contratos de seguro coletivos - são ainda concedidos 10 % de bonificação aos 
 
 Em 14 de março de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça.

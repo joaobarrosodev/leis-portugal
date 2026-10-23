@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/370/2013/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-2013-483658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61da3990f4d4b6738c3e739de698199958cff47beface6fa41920be90a467a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94423f224c439d4dd7e1681eb000320fb53ef567457cd3f3bf3898b046e772e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Avaliação de Prédios
-- Imposto Municipal sobre Imóveis
-- Custo da Construção
-- Indústria da Construção
 - Avaliação do Património
+- Custo da Construção
+- Imposto Municipal sobre Imóveis
+- Indústria da Construção
 - Preço
 - Prédio Urbano
 - Tributação
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:04Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +106,4 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 A presente portaria aplica-se a todos os prédios urbanos cujas declarações modelo 1, a que se referem os artigos 13.º e 37.º do Código do Imposto Municipal sobre os Imóveis, sejam entregues a partir de 1 de janeiro de 2014.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.

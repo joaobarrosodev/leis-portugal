@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2025/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf0f9ef70d8df1dd82be45dfb5df524c64cc390081936ec5982a5153b5c371b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 012309c49b04b89388963ba0d8d71c0bbd4f7a8b772ef0c32b439830f7926c5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Promoção Turística
-- Regulamentação de Atos Legislativos
 - Auxílio de Minimis
-- Incentivos ao Desenvolvimento
-- Instituto de Turismo de Portugal
-- Regulamento
-- Regulamento CE
 - Desenvolvimento Local
 - Estratégia para o Turismo 2027
+- Financiamento
+- Incentivos ao Desenvolvimento
+- Instituto de Turismo de Portugal
+- Promoção Turística
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Regulamento CE
+- Turismo
 - Turismo de Portugal
 relationships:
+- type: amends
+  target: pt:numero:portaria:101/2023
+  label: Altera, a partir de 11 de fevereiro de 2025, os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 14.º,
+    17.º, 18.º, 19.º e 20.º do Regulamento Específico do Sistema de Incentivos Portugal Events, publicado em anexo à Portaria
+    n.º 101/2023, de 11 de abril, Diário da República n.º 71/2023, Série I, que republica
+  source: null
+  date: '2023-04-11'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -103,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:211580658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229915933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:11Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +186,9 @@ f) [...]
 
 g) ‘Convention Bureaux’, as associações de direito privado, que têm especificamente por objeto a promoção, dinamização e captação de congressos e eventos.
 
-###### Artigo 3.º — […]
+Artigo 3.º
+
+[…]
 
 1 - A dotação disponível para financiamento das operações ao abrigo do presente programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de € 30 000 000 (trinta milhões de euros), repartidos da seguinte forma, em função do ano objeto da decisão de aprovação:
 
@@ -179,7 +208,9 @@ c) Planos de eventos a que se refere a alínea c): € 2 800 000 (dois milhões 
 
 3 - […]
 
-###### Artigo 5.º — […]
+Artigo 5.º
+
+[…]
 
 1 - [...]
 
@@ -193,7 +224,9 @@ b) Entidades públicas, incluindo aquelas em cuja gestão as entidades da admini
 
 4 - Na preparação da candidatura a que se refere o número anterior, devem as entidades regionais de turismo e as secretarias regionais de turismo assegurar a ampla publicidade e transparência do processo, garantindo a coerência dos respetivos planos de eventos.
 
-###### Artigo 6.º — […]
+Artigo 6.º
+
+[…]
 
 1 - [...]
 
@@ -205,7 +238,9 @@ c) Eventos de natureza local ou regional, que sejam capazes de dinamizar as econ
 
 2 - Não são enquadráveis operações de organização e realização de eventos que correspondam a patrocínios individuais ou que não estejam direcionados para os mercados prioritários definidos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.
 
-###### Artigo 7.º — […]
+Artigo 7.º
+
+[…]
 
 1 - [...]
 
@@ -231,7 +266,9 @@ j) No que se refere aos eventos enquadrados na alínea b) do n.º 1 do artigo 6.
 
 2 - [...]
 
-###### Artigo 8.º — […]
+Artigo 8.º
+
+[…]
 
 1 - [...]
 
@@ -263,7 +300,9 @@ f) […]
 
 4 - No caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, para além das condições de elegibilidade referidas no n.º 1 do presente artigo, é ainda condição de elegibilidade encontrarem-se os mesmos integrados num dos planos anuais de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento.
 
-###### Artigo 9.º — […]
+Artigo 9.º
+
+[…]
 
 1 - No caso dos eventos a que se referem as alíneas a) e c) do n.º 1 do artigo 6.º, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a operação e adequadas às necessidades da mesma:
 
@@ -299,7 +338,9 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 11.º — […]
+Artigo 11.º
+
+[…]
 
 1 - [...]
 
@@ -333,7 +374,9 @@ b) [...]
 
 9 - No caso das candidaturas promovidas pelas entidades a que se refere o n.º 4 do artigo 8.º do presente Regulamento, o apoio a conceder ao conjunto de eventos que compõem cada plano anual de eventos, no limite máximo de € 400 000 (quatrocentos mil euros) por cada uma daquelas entidades, corresponde à aplicação de uma taxa de comparticipação única de 30 % sobre as respetivas despesas elegíveis.
 
-###### Artigo 12.º — […]
+Artigo 12.º
+
+[…]
 
 1 - [...]
 
@@ -359,7 +402,9 @@ e) […]
 
 3 - No caso dos planos anuais de eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, os mesmo são avaliados em função dos critérios definidos no n.º 1 do presente artigo, sendo elegíveis os planos que demonstrem preencher todos os critérios aí definidos.
 
-###### Artigo 13.º — […]
+Artigo 13.º
+
+[…]
 
 1 - [...]
 
@@ -375,7 +420,9 @@ e) [...]
 
 2 - Salvo em situações devidamente justificadas e aceites pelo Turismo de Portugal, I. P., as candidaturas são apresentadas a partir do dia 1 de setembro do ano anterior à realização do evento.
 
-###### Artigo 14.º — […]
+Artigo 14.º
+
+[…]
 
 1 - [...]
 
@@ -389,7 +436,9 @@ e) [...]
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 17.º — […]
+Artigo 17.º
+
+[…]
 
 1 - [...]
 
@@ -423,7 +472,9 @@ ii) [...]
 
 5 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 […]
 
@@ -431,7 +482,9 @@ a) Permitir o acesso do Turismo Portugal I. P., ou das entidades devidamente man
 
 b) […]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -445,7 +498,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 20.º — […]
+Artigo 20.º
+
+[…]
 
 1 - Para os eventos integrados nas alíneas a) e c) do n.º 1 do artigo 6.º que revistam natureza cultural como tal definida na alínea c) do artigo 2.º, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho de 2014.
 
@@ -459,7 +514,7 @@ b) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Turismo, Pedro Manuel Monteiro Machado, em 5 de fevereiro de 2025.**
+O Secretário de Estado do Turismo, Pedro Manuel Monteiro Machado, em 5 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -759,7 +814,7 @@ a) Libertação de 50 % com a assinatura do Termo de Aceitação;
 
 b) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;
 
-c) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação, nos termos previstos nos n.<sup>os</sup>1 e 2 do artigo 19.º
+c) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação, nos termos previstos nos n.os1 e 2 do artigo 19.º
 
 1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:
 
@@ -810,3 +865,5 @@ b) A verificação física tem por base a realização de visitas aos locais de 
 1 - Para os eventos integrados nas alíneas a) e c) do n.º 1 do artigo 6.º que revistam natureza cultural como tal definida na alínea c) do artigo 2.º, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.
 
 2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se referem as alíneas a) e c) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no Regulamento (UE) n.º 2023/2831, da Comissão, de 13 de dezembro.
+
+118660581

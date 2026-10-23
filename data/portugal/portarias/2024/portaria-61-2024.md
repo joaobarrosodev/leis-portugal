@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03600/0001300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/2024/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2024-853137722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d27d8689a87dde4eb7056bbf1d4ee920739c64ed76100d2189a6f360b3758b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb5162a78c0cc06dcbae295a9d60cf0b0e3f651847ee79f40c353ec0935adc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
 - Certidão
 - Certificação Electrónica
-- Comunicações Eletrónicas
-- Instituto dos Registos e do Notariado
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
-- Documento Eletrónico
-- País Estrangeiro
-- Registo Civil
-- Residente no Estrangeiro
 - Chave Móvel Digital
+- Comunicações Eletrónicas
+- Documento Eletrónico
+- Formulário Eletrónico
+- Instituto dos Registos e do Notariado
+- Nacionalidade
+- País Estrangeiro
 - Plataforma Eletrónica
+- Registo Civil
+- Regulamentação de Atos Legislativos
+- Residente no Estrangeiro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/2023/12/26/p/dre
@@ -99,16 +99,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/26/2022/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/2022/03/18/p/dre
+- type: cites
+  target: pt:dre:131457481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143426695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152172564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180657814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674291:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho:9042/2020
+  label: Revoga, a partir de 21 de fevereiro de 2024, o Despacho n.º 9042/2020, de 22 de setembro, Diário da República n.º
+    185/2020, Série II
+  source: null
+  date: '2020-09-22'
+- type: repeals
+  target: pt:numero:despacho:12565/2020
+  label: Revoga, a partir de 21 de fevereiro de 2024, o Despacho n.º 12565/2020, de 24 de dezembro, Diário da República n.º
+    249/2020, Série II
+  source: null
+  date: '2020-12-24'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:32Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +223,6 @@ b) O [Despacho n.º 9042/2020](https://diariodarepublica.pt/dr/detalhe/despacho/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 16 de fevereiro de 2024.**
+O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 16 de fevereiro de 2024.
+
+117370201

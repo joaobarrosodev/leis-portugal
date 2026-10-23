@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189/2022/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-2022-186577200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae5826cf3f4d6f0379075407b95e48c0c8e4e992a74b77974401d03f275a83e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89756455f0e648f2a86687f7269c73938a5d533cbf6b59c72a811eb1166f17e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
+- Administração Pública
 - Agenda para a Inovação em Portugal
 - Aquisição de Equipamento
+- Atividade Seguradora
 - Autoridade Nacional
+- Centro de Experimentação Operacional da Marinha
 - Centro Tecnológico
 - Definição de Competências
-- Marinha
-- Administração Pública
 - Fiscalização
 - Gestão Pública
 - Grândola
-- Setúbal
+- Marinha
 - Regulamento
 - Responsabilidade Civil
 - Sesimbra
+- Setúbal
 - Tróia
 - Zona Livre Tecnológica
-- Centro de Experimentação Operacional da Marinha
 - Zona Livre Tecnológica Infante D. Henrique
 relationships:
 - type: cites
@@ -137,16 +137,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
+- type: cites
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168697990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173109815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:27Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +245,7 @@ Assim, ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 67/2021](https://
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 18 de julho de 2022. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 18 de julho de 2022. - O Secretário de Estado da Economia, João Jorge Arêde Correia Neves, em 19 de julho de 2022.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 18 de julho de 2022. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 18 de julho de 2022. - O Secretário de Estado da Economia, João Jorge Arêde Correia Neves, em 19 de julho de 2022.
 
 ## ANEXO — Regulamento da Zona Livre Tecnológica Infante D. Henrique
 
@@ -283,15 +347,15 @@ Para a realização das atividades na ZLT, são identificadas as seguintes área
 
 a) A área marítima oceânica compreende as seguintes coordenadas (WGS84):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
 
 b) A área terrestre e estuarina compreende as seguintes coordenadas (WGS84):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
 
 Figura 1 - Área marítima oceânica e área terrestre da ZLT.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
 
 Figura 2 - Área estuarina da ZLT.
 
@@ -623,7 +687,7 @@ Testes e experimentação de tecnologias, produtos, serviços e processos inovad
 
 5 - Processo de emissão, renovação, alteração, suspensão ou revogação da homologação da entidade gestora pela AAN e processo de articulação com a ANI
 
-## Apêndice A - Requisitos da entidade gestora da ZLT Infante D. Henrique
+Apêndice A - Requisitos da entidade gestora da ZLT Infante D. Henrique
 
 1 - Âmbito de aplicação
 
@@ -661,7 +725,7 @@ Testes e experimentação de tecnologias, produtos, serviços e processos inovad
 
 18 - Constatações
 
-## Apêndice B - Procedimentos administrativos da AAN para homologação e supervisão contínua da entidade gestora da ZLT Infante D. Henrique
+Apêndice B - Procedimentos administrativos da AAN para homologação e supervisão contínua da entidade gestora da ZLT Infante D. Henrique
 
 1 - Âmbito de aplicação
 
@@ -673,7 +737,7 @@ Testes e experimentação de tecnologias, produtos, serviços e processos inovad
 
 5 - Fiscalização, supervisão e constatações
 
-## Apêndice C - Níveis de maturidade tecnológica para plataformas aéreas não tripuladas
+Apêndice C - Níveis de maturidade tecnológica para plataformas aéreas não tripuladas
 
 1 - Introdução:
 
@@ -747,7 +811,7 @@ O Apêndice B estabelece os procedimentos administrativos da AAN no exercício d
 
 (9) [Decreto-Lei n.º 67/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2021-168697990), de 30 de julho.
 
-## Apêndice A - Requisitos da entidade gestora da ZLT Infante D. Henrique
+Apêndice A - Requisitos da entidade gestora da ZLT Infante D. Henrique
 
 1 - Âmbito de aplicação:
 
@@ -1109,7 +1173,7 @@ b) Uma constatação de nível 2 corresponde a uma não conformidade significati
 
 c) Após a receção da notificação de constatações, a Marinha, enquanto entidade gestora da ZLT Infante D. Henrique, deve definir um plano de ação corretiva aceite pela AAN num prazo acordado com a referida autoridade.
 
-## Apêndice B - Procedimentos administrativos da AAN para homologação e supervisão contínua da entidade gestora da ZLT Infante D. Henrique
+Apêndice B - Procedimentos administrativos da AAN para homologação e supervisão contínua da entidade gestora da ZLT Infante D. Henrique
 
 1 - Âmbito de aplicação:
 
@@ -1169,11 +1233,11 @@ a) Quando forem identificadas constatações de não conformidade, de acordo com
 
 b) Em caso de não cumprimento do prazo estabelecido pela AAN, a AAN toma medidas no sentido de suspender total ou parcialmente a homologação.
 
-## Apêndice C - Níveis de maturidade tecnológica para plataformas aéreas não tripuladas
+Apêndice C - Níveis de maturidade tecnológica para plataformas aéreas não tripuladas
 
 Para efeitos do presente anexo, devem ser considerados os seguintes níveis de maturidade tecnológica para plataformas aéreas não tripuladas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/14200/0000600032.pdf)
 
 ## ANEXO B — Autoridade Nacional de Aviação Civil
 
@@ -1262,3 +1326,5 @@ A ocupação privativa do EMN encontra-se sujeita à emissão de Título de Util
 Deverá ainda considerar-se que o ordenamento do EMN é um instrumento fundamental que contribui para manter ou alcançar o Bom Estado Ambiental do meio marinho (BEA), de acordo com o disposto na [Diretiva n.º 2008/56/CE](https://data.europa.eu/eli/dir/2008/56/oj?locale=pt), de 17 de junho (Diretiva Quadro «Estratégia Marinha» - DQEM), transposta pelo [Decreto-Lei n.º 108/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2010-344453), de 13 de outubro, na sua atual redação. De acordo com os artigos 11.º e 13.º da DQEM, o Estado-Membro tem de proceder a monitorizações e à tomada das medidas necessárias para que o Bom Estado Ambiental do meio marinho seja mantido ou alcançado.
 
 A entidade gestora (EG) da ZLT deverá ter em conta quer os instrumentos de ordenamento do EMN, nomeadamente o PSOEM, quer a implementação da DQEM, sobretudo no que respeita ao Programa de Monitorização e ao Programa de Medidas, devendo contribuir ativamente para a sua execução, no EMN que lhe está afeto. Assim, a EG deverá reportar anualmente à DGRM, nos termos que venham a ser considerados adequados, a utilização do EMN que lhe está afeto, relativamente a usos que não requerem emissão de TUPEM, mas que são promovidos pela ZLT. Para os usos ou atividades que requerem reserva de espaço marítimo nacional, os termos de referência de relatórios de ocupação de EMN constarão das cláusulas do competente TUPEM.
+
+115534475

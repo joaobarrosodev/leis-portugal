@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 332-(412) a 332-(416)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0041200416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54-o/2023/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-o-2023-207942909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f89ec6c1409cadfeb4f889fe558bd6076cc6c0b5fbcb3b4d447c69b80fc004a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2d3c43c2c9223c2d6d4efc1932bfda66715d42c94f6399c1b687fda3026c38b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Agricultura Biológica
 - Armazenagem
-- Direção Geral de Agricultura e Desenvolvimento Rural
+- Comércio
 - Controlo de Qualidade
 - Definição de Competências
-- Etiquetagem
-- Agricultura Biológica
-- Fiscalização
-- Simbolo de Identificação
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Documento Eletrónico
-- Notificação
+- Etiquetagem
 - Exploração Agrícola
+- Fiscalização
+- Notificação
+- Plataforma Eletrónica
+- Produção Agrícola
+- Produto Agrícola
+- Produto Alimentar
 - Proteção do Ambiente
 - Protecção Integrada das Culturas
-- Produção Agrícola
 - Regulamento
-- Comércio
-- Produto Agrícola
-- Plataforma Eletrónica
+- Simbolo de Identificação
 relationships:
 - type: cites
   target: celex:32018R0848
@@ -110,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/131/2005/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/131/2005/02/02/p/dre
+- type: cites
+  target: pt:dre:203460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:823850:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:28Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +190,7 @@ Para além do previsto no regulamento anexo à presente portaria, a operacionali
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -279,3 +303,5 @@ b) Manter atualizada e divulgar anualmente a lista dos nomes e endereços dos or
 ###### Artigo 8.º — Logótipo para a produção integrada
 
 O logótipo para a produção integrada é aprovado por despacho do Diretor-Geral de Agricultura e Desenvolvimento Rural, publicado na 2.ª série do Diário da República no prazo máximo de 180 dias a contar da publicação do presente regulamento.
+
+116207447

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20900/0001100013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/321/2023/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-2023-223414657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6817ed4462266ff5e2402ee0bc106b58edf4195ec19ac15c2384f2fcf1596d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48fff5b1bf858c4faf62ccec43a40963df92aa82ae94664c86a5100ff1b2b4e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Boletim de Alojamento
 - Cidadão Estrangeiro
-- Regulamentação de Atos Legislativos
 - Estabelecimento Hoteleiro
 - Formulário Eletrónico
 - Impresso
-- Página na Internet
 - Internet
+- Página na Internet
+- Regulamentação de Atos Legislativos
+- Residência de Estrangeiros
 - Sistema de Informação
-- Admissão de Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/415/2008/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/415/2008/06/11/p/dre
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:37Z'
   warnings: []
   errors: []
 ---
@@ -172,10 +196,13 @@ O anexo a que se refere o n.º 2 da [Portaria n.º 415/2008](https://diariodarep
 
 A presente portaria entra em vigor em 29 de outubro de 2023.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 24 de outubro de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 24 de outubro de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
 Modelo de boletim de alojamento
 
-![](https://files.diariodarepublica.pt/images/223414657/223414759.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223414657/223414759.png) |
+| --- |
+
+116994922

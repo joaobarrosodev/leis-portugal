@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 146/2023, 2º Suplemento, Série I de 2023-07-28
   number: '146'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 114-(2) a 114-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14602/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244-b/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-b-2023-216326057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0c81f362a6e7d345d86141a8a741b14058a2da1ca5975e4ae93c888e24c08dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e40138b488e7a80d6a862fbb354b9cf65334ad54a31a7aad1e0d9c0f25f59d87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Regulamentação de Atos Legislativos
-- Política Energética
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fixação de Preços
 - Gasóleo
 - Gasolina
 - Imposto Especial sobre o Consumo
-- Contribuições e Impostos
+- Política Energética
 - Preço
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: cites
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
+- type: cites
+  target: pt:dre:117114258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215097649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:08Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +134,6 @@ Nestes termos, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais 
 
 2 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de julho de 2023. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 28 de julho de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de julho de 2023. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 28 de julho de 2023.
+
+116728172

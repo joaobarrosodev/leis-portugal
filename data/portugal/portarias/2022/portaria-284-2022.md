@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22900/0000500009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/284/2022/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/284-2022-203974447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b705e9d40589ecca2744e43e560222feb6424dde334977568cd3df17399c5ea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b26efa2d9f775e3f9571e7359abc8f37746d03888b096bce4de755d304030518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ subjects:
 - Acesso à Informação
 - Aproximação das Legislações
 - Autoridade da Concorrência
+- Autoridade Nacional de Comunicações
 - Cláusulas Contratuais Gerais
 - Comissão Nacional de Protecção de Dados
+- Comunicações
 - Comunicações Eletrónicas
 - Contrato
 - Contrato de Prestação de Serviços
 - Definição de Competências
 - Direcção Geral do Consumidor
-- Rescisão de Contrato
+- Equipamento de Transmissão
 - Especificação Técnica
 - Informação
-- Publicitação
-- Página na Internet
 - Internet
-- Prestação de Serviços
-- Comunicações
-- Equipamento de Transmissão
-- Utente
+- Página na Internet
 - Plataforma Eletrónica
-- Autoridade Nacional de Comunicações
+- Prestação de Serviços
+- Publicitação
+- Rescisão de Contrato
+- Utente
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -104,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2018/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2018/03/28/p/dre
+- type: cites
+  target: pt:dre:114937034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:00Z'
   warnings: []
   errors: []
 ---
@@ -260,4 +272,6 @@ iv) Autenticação através dos dados de acesso do Portal das Finanças.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado do Turismo, Comércio e Serviços, Rita Baptista Marques, em 24 de novembro de 2022.**
+A Secretária de Estado do Turismo, Comércio e Serviços, Rita Baptista Marques, em 24 de novembro de 2022.
+
+115914868

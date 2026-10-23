@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/43/2011/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-2011-280901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc264a675444b240c5f1a36675028ae6d3e2550edb380bc8e63bbbcec07058c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78b2020816667b1a147fbdfe2097d37b341c9d66dab48151d7ea1efc89aaa05d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Açores
+- Agência Portuguesa do Ambiente
 - Comissão de Acompanhamento
+- Comissão de Acompanhamento da Gestão de Resíduos
 - Direção Geral da Saúde
 - Direção Geral de Veterinária
-- Saúde
-- Comissão de Acompanhamento da Gestão de Resíduos
-- Transporte de Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Política do Ambiente
-- Madeira.região Autónoma
-- Estabelecimento Hospitalar
-- Açores
 - Eliminação de Resíduos
-- Agência Portuguesa do Ambiente
+- Estabelecimento Hospitalar
+- Gestão de Resíduos
+- Madeira.região Autónoma
+- Política do Ambiente
+- Proteção do Ambiente
+- Saúde
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32000D0532
@@ -116,13 +116,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:57Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +179,7 @@ A Agência Portuguesa do Ambiente coordena os trabalhos da equipa técnica de ac
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 12 de Janeiro de 2011. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 10 de Janeiro de 2011. - O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 10 de Janeiro de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 12 de Janeiro de 2011. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 10 de Janeiro de 2011. - O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 10 de Janeiro de 2011.
 
 PLANO ESTRATÉGICO DOS RESÍDUOS HOSPITALARES - 2011-2016
 
@@ -509,7 +509,7 @@ QUADRO I
 
 Opções estratégicas do PERH 1999-2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 As opções estratégicas enunciadas conduziram ao estabelecimento de metas para os horizontes 2000 e 2005.
 
@@ -533,23 +533,23 @@ Nos Quadros II e III apresenta-se uma análise sumária da concretização das i
 
 Na avaliação do cumprimento das metas, relativamente aos horizontes temporais de 2000 e 2005, foi adoptada a seguinte simbologia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Para efeitos da avaliação da evolução dos desenvolvimentos até ao primeiro trimestre de 2009, adoptou-se a simbologia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO II
 
 Avaliação do grau de cumprimento das metas do PERH 1999-2005 para o horizonte 2000 e evolução até ao primeiro trimestre de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO III
 
 Avaliação do grau de cumprimento das metas do PERH 1999-2005 para o horizonte 2005 e evolução até ao primeiro trimestre de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Balanço global do PERH 1999-2005
 
@@ -589,7 +589,7 @@ Nos últimos anos, o quadro jurídico aplicável aos resíduos sofreu profundas 
 
 A alteração do sistema jurídico de gestão dos resíduos em Portugal que decorreu desde 1999 conduziu à revogação de muitos diplomas legais que estiveram na base da estratégia do anterior PERH. A Figura 1 pretende esquematizar os principais diplomas revogados (assinalados a verde) e os que permanecem em vigor (assinalados a azul e a preto), em que estes últimos configuram o enquadramento legislativo do PERH 2011-2016.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise comparativa do actual contexto legislativo com o existente no período de 1999-2005, constata-se que os três diplomas de carácter específico, que nortearam o anterior PERH, encontram-se ainda em vigor:
 
@@ -655,7 +655,7 @@ O regime geral da gestão dos resíduos consagra o princípio da responsabilidad
 
 A gestão adequada dos resíduos tem sido, ao longo das últimas décadas, um desafio constante das políticas de ambiente, considerando a complexidade e gravidade dos respectivos problemas ambientais e de saúde pública. A evolução da política de resíduos conduziu à alteração do regime jurídico de gestão de resíduos (Figura 2), tendo sido desde sempre notória a especial preocupação com os resíduos hospitalares, dada a sua especificidade e riscos potenciais associados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Os diversos regimes gerais de gestão de resíduos têm apresentado elementos comuns no quadro da estratégia da política de resíduos, destacando-se, pela sua relevância no contexto dos resíduos hospitalares:
 
@@ -699,7 +699,7 @@ QUADRO IV
 
 Síntese dos Princípios subjacentes ao actual regime de gestão de resíduos e analogia com o preconizado na Directiva [2008/98/CE](http://data.europa.eu/eli/dir/2008/98/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Dando continuidade ao preconizado pelos regimes anteriores, o actual enquadramento determina que os planos específicos de gestão de resíduos concretizam o plano nacional de gestão de resíduos em cada área específica de actividade produtora de resíduos, nomeadamente a hospitalar, estabelecendo as respectivas prioridades a observar, metas a atingir e acções a implementar. Determina ainda que se deve estabelecer: um procedimento administrativo célere de controlo prévio das operações de gestão de resíduos e os procedimentos administrativos que assegurem uma efectiva monitorização da actividade desenvolvida após esse licenciamento; uma melhor gestão da informação em matéria de gestão de resíduos, de forma a garantir informação relevante sobre o «ciclo de vida» dos resíduos; e um novo regime económico e financeiro da gestão de resíduos, com vista a auxiliar o cumprimento dos objectivos ambientais a que o país se propõe.
 
@@ -713,7 +713,7 @@ O resíduo resultante de actividades médicas desenvolvidas em unidades de prest
 
 Esta última definição, para além de manter os requisitos da anterior, torna-se mais abrangente, pois estende a gestão dos resíduos hospitalares a um maior e mais diversificado universo de produtores, tendo em conta a evolução da prestação de cuidados de saúde, bem como outras práticas susceptíveis de gerar resíduos hospitalares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 4.3 - O regime jurídico específico aplicável aos resíduos hospitalares
 
@@ -747,7 +747,7 @@ Foi estabelecido ainda que os resíduos hospitalares seriam objecto de tratament
 
 Os Grupos I e II são agrupados como "resíduos não perigosos" e os Grupos III e IV como "resíduos perigosos", como esquematizado na Figura 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 O mesmo Despacho especifica quais os resíduos hospitalares que se encontram incluídos em cada Grupo, ilustrado no Quadro V.
 
@@ -755,7 +755,7 @@ QUADRO V
 
 Grupos de resíduos hospitalares e resíduos abrangidos, em conformidade com o Despacho n.º 242/96, publicado a 13 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Refira-se que os resíduos do Grupo IV são classificados e geridos como resíduos específicos por razões que se relacionam com a sua composição, com a prevenção de riscos decorrentes do seu manuseamento e com questões de natureza ética e cultural.
 
@@ -767,7 +767,7 @@ QUADRO VI
 
 Principais constrangimentos a suprir no quadro de futura legislação em matéria de classificação dos resíduos hospitalares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Conforme evidenciado no Quadro VI, a classificação preconizada no Despacho n.º 242/96 abrange apenas os resíduos provenientes da prestação de cuidados de saúde a seres humanos. Os resíduos hospitalares provenientes da actividade médico-legal encontram-se abrangidos pelo Despacho n.º 9/SEJ/97, publicado em 22 de Abril. Para os resíduos resultantes da prestação de cuidados de saúde a animais ou de investigação relacionada, não foi, até ao momento, produzida nenhuma orientação / normativo homólogo, embora a Portaria n.º 178/97, de 11 de Março, relativa ao mapa de registo de resíduos hospitalares, referisse que este mapa, com as necessárias adaptações, devia obrigatoriamente ser preenchido no âmbito da saúde animal.
 
@@ -839,7 +839,7 @@ QUADRO VII
 
 Processos e respectivas tecnologias de descontaminação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Em Portugal, para os resíduos dos Grupos I e II é admitida a gestão conjunta com os resíduos urbanos, sendo exigidos tratamentos específicos para os resíduos dos Grupos III e IV.
 
@@ -853,7 +853,7 @@ QUADRO VIII
 
 Síntese das vantagens e desvantagens das principais tecnologias de tratamento de resíduos hospitalares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No Quadro IX apresenta-se uma comparação de algumas tecnologias existentes incidindo nas questões operacionais e de segurança, fiabilidade, custos e outros requisitos (Hong Kong SARG 2000).
 
@@ -861,7 +861,7 @@ QUADRO IX
 
 Comparação do desempenho de algumas tecnologias de tratamento de resíduos hospitalares (adaptado de Hong Kong SARG 2000)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No Quadro X é apresentada uma comparação do desempenho das diferentes opções de tratamento em relação aos diferentes tipos de resíduos, assumindo o seu correcto funcionamento.
 
@@ -869,7 +869,7 @@ QUADRO X
 
 Comparação do desempenho das opções de tratamento em relação aos diferentes tipos de resíduos (adaptado de Johannessen et al., 2000)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da avaliação dos resíduos que suscitam mais dúvidas quanto à adequação do processo de tratamento e/ou eliminação, constata-se que os métodos de tratamento autoclavagem ou desinfecção química serão adequados para os resíduos com um perigo potencial de infecção, mas não para resíduos que na generalidade impliquem risco químico (Infotox, 2009).
 
@@ -889,7 +889,7 @@ QUADRO XI
 
 Opções de destino final por país
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Em síntese, verifica-se actualmente que os países do Norte da Europa optam por soluções mais definitivas, privilegiando a incineração, contrastando com os países do Sul da Europa, com excepção das Astúrias, em Espanha, que optam por soluções envolvendo circuitos de tratamento mais prolongados.
 
@@ -937,7 +937,7 @@ Outro factor relevante e que importa ter em consideração é que nem todos os p
 
 Assim, para 2006 optou-se por utilizar os dados declarados pelos operadores relativamente ao universo dos hospitais do SNS e Centros de Saúde, dada a maior fiabilidade dos mesmos.
 
-# Parte dos constrangimentos observados poderá ser explicada pelo facto de ter sido o primeiro ano de registo no SIRER, em que os dados tinham de ser registados por código LER e não por Grupo, conforme o anterior regime. De referir que a actual versão do Guia para o preenchimento do Mapa Integrado de Registo de Resíduos no SIRAPA, que veio substituir o SIRER, já contempla uma Tabela de correspondência entre os Grupos de resíduos hospitalares actualmente em vigor e os Códigos da LER.
+Parte dos constrangimentos observados poderá ser explicada pelo facto de ter sido o primeiro ano de registo no SIRER, em que os dados tinham de ser registados por código LER e não por Grupo, conforme o anterior regime. De referir que a actual versão do Guia para o preenchimento do Mapa Integrado de Registo de Resíduos no SIRAPA, que veio substituir o SIRER, já contempla uma Tabela de correspondência entre os Grupos de resíduos hospitalares actualmente em vigor e os Códigos da LER.
 
 Os dados constantes neste capítulo provêm, então, das seguintes fontes de informação:
 
@@ -971,7 +971,7 @@ QUADRO XII
 
 Universo dos produtores versus preenchimento do SIRER, 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Em complemento das notas que integram o Quadro anterior, importará referir ainda os seguintes aspectos:
 
@@ -997,7 +997,7 @@ QUADRO XIII
 
 Hospitais do SNS e Centros de Saúde cujo preenchimento conjunto dos produtores e operadores permite o conhecimento do mapa de registo de resíduos hospitalares, de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Com o objectivo de se caracterizar a produção de resíduos hospitalares, procedeu-se, de acordo com os pressupostos apresentados anteriormente, à estimativa das quantidades de resíduos hospitalares para as unidades de prestação de cuidados de saúde do SNS para as quais não existia informação, permitindo desta forma, apesar do erro associado, conhecer a produção aproximada deste universo de produtores.
 
@@ -1007,15 +1007,15 @@ QUADRO XIV
 
 Quantidade de resíduos hospitalares (t), dos Grupos III e IV, estimada para o universo de unidades de prestação de cuidados de saúde do SNS, de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Calculadas as quantidades dos Grupos III e IV, para estimar as quantidades referentes aos Grupos I e II, no período de 2001 a 2005, consideraram-se as percentagens de cada um destes Grupos apresentadas em TAVARES et al. (2007a), para os hospitais do SNS e Centros de Saúde, constantes, respectivamente, nas Figuras 5 e 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 As Figuras 7 e 8 apresentam a média da distribuição da percentagem de resíduos hospitalares produzidos entre 2001 e 2005 nos hospitais do SNS e nos Centros de Saúde, respectivamente, por Grupo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No Quadro XV são apresentadas as quantidades de resíduos produzidos pelos hospitais do SNS e Centros de Saúde para cada um dos quatro Grupos de resíduos hospitalares, para o período entre 2001 e 2006.
 
@@ -1023,7 +1023,7 @@ QUADRO XV
 
 Quantidade de resíduos hospitalares (t), dos Grupos I e II, III e IV, estimada para o universo de unidades de prestação de cuidados de saúde do SNS, de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Após a determinação da quantidade estimada para todo o universo das unidades de prestação de cuidados de saúde do SNS foi estimada a produção de resíduos hospitalares dos hospitais não públicos e hospitais privados, admitindo-se que a sua relação é proporcional à do número de camas, cujo resultado se apresenta no Quadro XVI.
 
@@ -1031,7 +1031,7 @@ QUADRO XVI
 
 Quantidade de resíduos hospitalares (t) dos Grupos I e II, III e IV, estimada para o universo de todos os tipos de Hospitais e Centros de Saúde, de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No universo de todos os tipos de Hospitais e Centros de Saúde, de 2001 a 2006, verificou-se um aumento da produção de 2001 a 2006 de cerca de 29%, devido ao aumento da produção dos resíduos dos Grupos I e II e do Grupo III, correspondentes a 33% e 26%, respectivamente. Para o mesmo período, os resíduos do Grupo IV apresentaram uma redução de 36%.
 
@@ -1055,7 +1055,7 @@ QUADRO XVII
 
 Resumo da produção de resíduos hospitalares nos hospitais e respectivas capitações das camas por Região em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 De referir que, no que respeita à média de resíduos do Grupo III nos hospitais, se verificou uma evolução, entre 2002 e 2006, de 1,01 para 1,17 kg/cama/dia, enquanto que para o Grupo IV se registou uma diminuição, de 0,14 para 0,13 kg/cama/dia.
 
@@ -1063,7 +1063,7 @@ QUADRO XVIII
 
 Distribuição da produção de resíduos hospitalares por Grupo e por Região, em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No que respeita à produção de resíduos hospitalares do Grupo III em 2006 por Regiões, verifica-se que a Região de Lisboa é responsável por mais de metade da produção, seguindo-se a Região Norte com 27%, Centro com 16% e a Região do Alentejo e do Algarve representam quase 2% cada.
 
@@ -1073,7 +1073,7 @@ QUADRO XIX
 
 Resumo da produção de resíduos hospitalares nos Centros de Saúde e respectivas capitações por consulta e por Região em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No que respeita às capitações nos Centros de Saúde, os valores máximos verificam-se no Algarve, enquanto os valores mínimos surgem associados ao Norte mas também às Regiões do Alentejo (Grupos I e II) e de Lisboa e Vale do Tejo (Grupo IV).
 
@@ -1085,7 +1085,7 @@ QUADRO XX
 
 Resumo da produção de resíduos hospitalares nos Hospitais e Centros de Saúde e respectivas capitações por tipo de unidade em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Atendendo às discrepâncias detectadas entre os dados registados no SIRER por produtor e operador, foi considerada a informação declarada pelos operadores, não só pela experiência que possuem na gestão dos resíduos hospitalares, mas também devido ao vasto universo de entidades que abrangem, sendo que a estimativa de produção de resíduos hospitalares provenientes das outras actividades teve por base a relação entre a estimativa de produção para os hospitais e Centros de Saúde e a quantidade total declarada pelos operadores.
 
@@ -1097,13 +1097,13 @@ QUADRO XXI
 
 Quantidade de resíduos hospitalares declarada pelos Operadores de gestão de resíduos hospitalares no SIRER em 2006, Grupos III e IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXII
 
 Quantidade de resíduos hospitalares (t) dos Grupos I e II, III e IV, estimada para o período de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No que respeita à evolução da produção de resíduos em Portugal, e pela análise do Quadro anterior, e de acordo com a tendência já identificada para o universo dos hospitais e Centros de Saúde, constata-se que ao longo dos anos a produção de resíduos do Grupo III tem vindo a aumentar verificando-se um comportamento inverso dos resíduos do Grupo IV.
 
@@ -1113,15 +1113,15 @@ Os hospitais do SNS produzem em média 58% dos resíduos para os vários Grupos,
 
 Apresenta-se em seguida a evolução da produção dos diferentes Grupos de 2001 a 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da leitura do gráfico anterior, verifica-se um aumento genérico dos quantitativos de resíduos dos Grupos I e II ao longo do período em análise.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No que respeita aos resíduos do Grupo III, verifica-se igualmente um aumento de produção no período analisado, constatando-se uma variação de 4,35% entre os resíduos produzidos entre 2005 e 2006. A maior produção é registada pelos hospitais do SNS, enquanto a menor quantidade está associada aos hospitais oficiais não públicos e aos Centros de Saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 No que se refere aos resíduos do Grupo IV, confirma-se uma diminuição da produção no período analisado, constatando-se um decréscimo de 2,24% nos resíduos produzidos entre 2005 e 2006.
 
@@ -1221,7 +1221,7 @@ QUADRO XXIII
 
 Quantidade de resíduos recolhidos selectivamente pelas unidades produtoras de resíduos hospitalares, de 2001 a 2006 (t)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Apesar da pouca consistência dos dados de base, é possível concluir que a quantidade de resíduos recolhidos selectivamente pelas unidades produtoras de resíduos hospitalares tem aumentado significativamente ao longo dos anos, verificando-se um aumento de mais de 160% entre 2001 e 2006. Em 2006 os resíduos recolhidos selectivamente representaram mais de 20% dos resíduos produzidos dos Grupos I e II.
 
@@ -1231,7 +1231,7 @@ QUADRO XXIV
 
 Resíduos recolhidos selectivamente por fileira de material, de 2001 a 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Constata-se que a percentagem de papel e cartão recolhidos selectivamente já é bastante elevada, representando mais de 93% da recolha selectiva, julgando-se que tenderá a estabilizar nos próximos anos. Para o vidro, plástico e metais ferrosos e não ferrosos, as percentagens são bastante reduzidas, pelo que, no futuro, se prevê ser possível conseguir um aumento significativo.
 
@@ -1245,7 +1245,7 @@ QUADRO XXV
 
 Quantidade total de resíduos hospitalares exportados (t)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise do Quadro XXV pode concluir-se que a quantidade de resíduos hospitalares exportados não é significativa face à quantidade total de resíduos exportados, sendo a sua proporção inferior a 1%. Apenas no ano de 2006 se verificou um valor superior, contudo esta situação ficou a dever-se ao facto de a unidade de incineração do SUCH ter estado fora de serviço, o que levou à necessidade de uma maior exportação dos resíduos hospitalares.
 
@@ -1255,17 +1255,17 @@ QUADRO XXVI
 
 Comparação entre as quantidades de resíduos hospitalares do Grupo IV produzidos e de resíduos exportados (t)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXVII
 
 Quantidade de resíduos hospitalares exportados por ano e destino final (t)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Do Quadro e da Figura anteriores é possível constatar, ao longo do período em análise, uma transição gradual do destino dos resíduos hospitalares exportados da operação de autoclavagem (D9) para incineração, correspondendo esta operação, em 2006, a 77%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Relativamente aos países de destino dos resíduos hospitalares exportados, verifica-se também uma transição, constatando-se que no ano de 2001 a quase totalidade dos resíduos foi remetida para Espanha, tendo-se verificado a partir de 2003 a preponderância da Bélgica como destino.
 
@@ -1285,13 +1285,13 @@ Relativamente aos resíduos do Grupo IV, estes são incinerados na única centra
 
 Na Figura 15 indica-se a localização das unidades de armazenamento temporário de resíduos hospitalares bem como de autoclavagem e incineração existentes em Portugal Continental.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXVIII
 
 Capacidade das unidades de gestão dos resíduos hospitalares por Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 A capacidade de autoclavagem de resíduos hospitalares do Grupo III e a capacidade instantânea de armazenamento dos do Grupo IV são nitidamente superiores na Região de Lisboa e Vale do Tejo.
 
@@ -1311,13 +1311,13 @@ QUADRO XXIX
 
 Aterros para resíduos não perigosos de origem urbana (2009)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Na Figura 16 apresenta-se a localização dos aterros, sendo possível constatar que a maior concentração destas infra-estruturas ocorre no Litoral Norte. No Interior existe menor número de aterros, facto explicado pela menor densidade populacional.
 
 Relativamente às centrais de incineração de resíduos urbanos, existem duas, ambas em Portugal Continental: uma na Zona do Grande Porto e outra na Zona da Grande Lisboa. Estas unidades servem os concelhos afectos aos Sistemas de Gestão de resíduos urbanos da VALORSUL - Sistema Multimunicipal de Lisboa Norte e da LIPOR - Serviço Intermunicipalizado de Gestão de Resíduos do Grande Porto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 5.2.3 - Resíduos não perigosos
 
@@ -1335,13 +1335,13 @@ QUADRO XXX
 
 Capacidade por Região dos aterros licenciados para resíduos não perigosos de origem não urbana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Estão previstos para Portugal Continental três novos aterros para resíduos não perigosos de origem não urbana, nas Regiões Norte (Valongo), Centro (Aveiro), e Lisboa e Vale do Tejo (Montijo).
 
 Na Figura 17 está indicada a localização dos aterros para resíduos não perigosos de origem não urbana. À data, não existe nenhum aterro para deposição deste tipo de resíduos na Região do Algarve, o que obriga ao transporte de resíduos não perigosos de origem não urbana produzidos nesta Região para aterros da mesma tipologia localizados noutras Regiões ou para aterros para resíduos não perigosos de origem urbana com autorização da Entidade licenciadora para proceder à sua gestão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 5.3 - Análise das capacidades de Tratamento/Incineração
 
@@ -1355,7 +1355,7 @@ QUADRO XXXI
 
 Capacidade instalada para os resíduos do Grupo III e diferencial existente relativamente à produção estimada em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise efectuada, conclui-se, no total, a existência de um diferencial de 20.666 t/ano para o tratamento dos resíduos do Grupo III em Portugal Continental, verificando-se no entanto um défice de capacidade na Região Centro.
 
@@ -1367,7 +1367,7 @@ QUADRO XXXII
 
 Capacidade instalada para os resíduos do Grupo IV e diferencial existente relativamente à produção estimada em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise efectuada, constata-se a existência de um ligeiro défice de 253 t/ano para o tratamento dos resíduos do Grupo IV em Portugal Continental, ou seja, existe ainda uma quantidade de resíduos do Grupo IV que têm de ser sujeitos a tratamento em unidades de outros países pelo facto de a única unidade de incineração de resíduos hospitalares instalada não ter capacidade suficiente.
 
@@ -1393,7 +1393,7 @@ Por último, importa ainda referir que as medidas de controlo da transmissão de
 
 Na Figura seguinte são apresentados de forma resumida os factores anteriormente descritos e que se consideram poder influenciar a produção de resíduos hospitalares. Contudo, uma vez que não existem estudos relativos aos reais impactes que estas tendências terão, apenas são referenciadas para efeitos de enquadramento e análise prospectiva do sector.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 6.2 - Evolução da produção de resíduos
 
@@ -1421,7 +1421,7 @@ Por outro lado, o Cenário PUR pressupõe a estabilização da produção na cap
 
 A Figura 22 sistematiza os pressupostos subjacentes aos cenários considerados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 I. CENÁRIO BaU
 
@@ -1439,7 +1439,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário BaU - Grupos I e II - Recolha indiferenciada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXXIV
 
@@ -1447,7 +1447,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário BaU - Grupos I e II - Recolha selectiva multimaterial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXXV
 
@@ -1455,7 +1455,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário BaU - Grupos I e II - Recolha selectiva da matéria orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Para a determinação dos valores relativos aos resíduos dos Grupos III e IV foi usado o mesmo racional, aplicando a média da percentagem de crescimento dos resíduos destes dois Grupos em conjunto.
 
@@ -1465,7 +1465,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário BaU - Grupo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXXVII
 
@@ -1473,7 +1473,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário BaU - Grupo IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise dos Quadros anteriores, verifica-se um aumento mais acentuado da produção de resíduos dos Grupos I e II, pois apesar de se verificar igualmente um aumento dos resíduos pertencentes aos Grupos III e IV este crescimento não é tão significativo, em consonância com a tendência verificada de 2002 a 2006.
 
@@ -1485,13 +1485,13 @@ QUADRO XXXVIII
 
 Capitações de resíduos hospitalares - 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XXXIX
 
 Projecções de População (n.º de habitantes) por NUT II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Os Quadros seguintes apresentam os quantitativos de resíduos hospitalares para os anos de vigência do Plano, assumindo o cenário PUR - os quantitativos dos resíduos dos Grupos I e II constam nos Quadros XL, XLI e XLII, os do Grupo III no Quadro XLIII e os do Grupo IV são apresentados no Quadro XLIV.
 
@@ -1507,7 +1507,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário PUR - Grupos I e II - Recolha indiferenciada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XLI
 
@@ -1515,7 +1515,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário PUR - Grupos I e II - Recolha selectiva multimaterial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XLII
 
@@ -1523,7 +1523,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário PUR - Grupos I e II - Recolha selectiva da matéria orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Segundo as metas percentuais definidas anteriormente, a quantidade de resíduos hospitalares recicláveis que se pretende venham a ser separados, corresponderá em 2016 a um valor superior a 35.000 t, no que respeita à recolha multimaterial, e a um valor superior a 1.300 t, no que respeita à recolha de matéria orgânica, que equivalerá, respectivamente, a aproximadamente 40% e 1,5% da quantidade de resíduos hospitalares dos Grupos I e II estimada para esse ano.
 
@@ -1535,7 +1535,7 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário PUR - Grupo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 QUADRO XLIV
 
@@ -1543,13 +1543,13 @@ Previsões de produção de resíduos hospitalares (t)
 
 Cenário PUR - Grupo IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da leitura destes Quadros, constata-se que as quantidades de resíduos de cada um dos Grupos, entre 2011 e 2016, variam muito pouco, aproximando-se das actuais, o que é explicado pelo facto de estar previsto que a população seja similar à situação actual.
 
 A Figura 23 representa a evolução da produção de resíduos dos Grupos III e IV em Portugal Continental, a partir de 2011, inclusive, segundo os dois cenários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 6.3 - Balanço entre capacidade e produção
 
@@ -1561,7 +1561,7 @@ QUADRO XLV
 
 Capacidade de tratamento instalada vs produção de resíduos hospitalares prevista em 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Face à capacidade anual de tratamento instalada, apresentada no Quadro XLV, verifica-se que, para os resíduos hospitalares do Grupo III, face à estimativa dos limiares inferior e superior, existe capacidade instalada disponível. No entanto, no que respeita aos resíduos do Grupo IV, poderá não haver capacidade instalada disponível, no caso de a quantidade produzida se aproximar do limiar superior.
 
@@ -1571,7 +1571,7 @@ QUADRO XLVI
 
 Capacidade de tratamento instalada actual, por Região - Grupo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Da análise do Quadro, constata-se que as Regiões Norte e Centro poderão não dispor de unidades de tratamento com capacidade suficiente para o tratamento dos resíduos do Grupo III produzidos, o que poderá obrigar ao seu transporte para outras Regiões do País, para posterior tratamento. Nas Regiões de Lisboa e Vale do Tejo, Alentejo e Algarve verifica-se que a capacidade de tratamento instalada é superior à quantidade de resíduos do Grupo III prevista para 2016.
 
@@ -1601,7 +1601,7 @@ QUADRO XLVII
 
 Cenário para os resíduos do Grupo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Os resíduos hospitalares do Grupo III, após descontaminação, são na sua maioria actualmente depositados em aterros para resíduos não perigosos de origem urbana.
 
@@ -1611,7 +1611,7 @@ Nas Figuras 24 e 25 são indicados, respectivamente, os limiares, inferior e sup
 
 No final de 2009, encontravam-se em exploração em Portugal oito aterros para resíduos não perigosos de origem não urbana e 35 aterros para resíduos não perigosos de origem urbana, cuja localização geográfica é ilustrada na Figura 26.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 B - Resíduos Hospitalares do Grupo IV
 
@@ -1625,7 +1625,7 @@ QUADRO XLVIII
 
 Cenário para os resíduos do Grupo IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 CENÁRIO B.1
 
@@ -1651,7 +1651,7 @@ As cinzas e escórias resultantes do processo de incineração, consideradas res
 
 Nas Figuras 27 e 28 são indicados os limiares, inferior e superior, respectivamente, das quantidades de resíduos do Grupo IV e as infra-estruturas existentes de tratamento (actual e prevista após 2012).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 7 - Análise SWOT e identificação de stakeholders
 
@@ -1673,7 +1673,7 @@ Identificar estes aspectos, no planeamento dos resíduos hospitalares, permite f
 
 Na Figura 29 encontra-se a reflexão desenvolvida que, não pretendendo ser exaustiva, permite enquadrar, conjuntamente com a Visão, a estratégia e respectivas acções a implementar no período 2011-2016.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Na Figura 30 são apresentados os principais stakeholders que se entendem poder de alguma forma contribuir e/ou ser envolvidos nas acções que se preconizam neste Plano, nas suas diferentes vertentes, designadamente legal, económico-financeira ou operacional.
 
@@ -1697,7 +1697,7 @@ Destacam-se as Organizações Não Governamentais, nomeadamente de Ambiente (ONG
 
 Será ainda de realçar o papel da Comunidade Científica, bem como dos Fabricantes/ Distribuidores de equipamento, produtos e dispositivos médicos e medicamentos, dado o papel de destaque desempenhado indirectamente no Eixo V, designadamente ao nível da Inovação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8 - Estratégia
 
@@ -1709,7 +1709,7 @@ Os Eixos Estratégicos do PERH 2011-2016 encerram um conjunto de Objectivos, con
 
 Neste contexto, foram definidos cinco Eixos Estratégicos: Eixo I - Prevenção; Eixo II - Informação, Conhecimento e Inovação; Eixo III - Sensibilização, Formação e Educação; Eixo IV - Operacionalização da Gestão; e Eixo V - Acompanhamento e Controlo, apresentando-se na Figura 31 a interacção funcional entre os mesmos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Os Eixos preconizados encerram a consagração dos princípios comunitários em matéria de ambiente e de resíduos, em particular, com um especial enfoque ao nível da operacionalização da gestão dos resíduos hospitalares.
 
@@ -1743,7 +1743,7 @@ QUADRO XLIX
 
 Objectivos por Eixo Estratégico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Para a avaliação da concretização dos objectivos postulados, apresentam-se no Quadro L os indicadores e respectivas metas a atingir com a implementação do PERH.
 
@@ -1757,7 +1757,7 @@ QUADRO L
 
 Objectivos e indicadores por Eixo Estratégico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8.3 - Acções, intervenientes e horizonte temporal de implementação
 
@@ -1845,7 +1845,7 @@ QUADRO LI
 
 Objectivos e Acções - Eixo I (Prevenção)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8.3.2 - EIXO II - Informação, Conhecimento e Inovação
 
@@ -1875,7 +1875,7 @@ QUADRO LII
 
 Objectivos e Acções - Eixo II (Informação, Conhecimento e Inovação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8.3.3 - EIXO III - Sensibilização, Formação e Educação
 
@@ -1911,7 +1911,7 @@ QUADRO LIII
 
 Objectivos e Acções - Eixo III (Sensibilização, Formação e Educação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8.3.4 - EIXO IV - Operacionalização da Gestão
 
@@ -1981,7 +1981,7 @@ QUADRO LIV
 
 Objectivos e Acções - Eixo IV (Operacionalização da Gestão)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 8.3.5 - EIXO V - Acompanhamento e Controlo
 
@@ -2031,7 +2031,7 @@ QUADRO LV
 
 Objectivos e Acções - Eixo V (Acompanhamento e Controlo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 9 - Avaliação do Plano
 
@@ -2059,7 +2059,7 @@ Complementar às avaliações anteriormente referidas, será ainda efectuada uma
 
 A revisão do Plano (PERH 2017-2024) deverá ser iniciada com um ano de antecedência relativamente ao término do actual PERH, i.e., no primeiro semestre de 2015, garantindo-se o seu desenvolvimento no segundo semestre de 2015 / início de 2016, conjugado com a Avaliação Final do PERH 2011-2016, e dela beneficiando.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 Preconiza-se ainda, que seja constituída uma Equipa Técnica de Acompanhamento do PERH, interdisciplinar, constituída por representantes da APA, DGS e DGV, cuja principal missão será a adequada implementação e monitorização do Plano, garante do alcance dos objectivos e metas preconizados. A Comissão de Acompanhamento da Gestão de Resíduos (CAGER), criada pelo Decreto-Lei n.º 178/2006, de 5 de Setembro, acompanhará a execução do PERH, pronunciando-se sobre os Relatórios de Progresso e Final, deliberando ainda da necessidade de criação de Comissão de Acompanhamento específica para o efeito e respectiva composição.
 
@@ -2201,7 +2201,7 @@ Bibliografia
 
 . Johannessen L. M. et al., 2000. Health Care Waste Management Guidance Note. World Bank Publication, Washington, May 2000;
 
-. [([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf), S. E. (2000). Principles of pollution abatement. Pollution Abatement for the 21st Century. Elsevier Science Publishers B. V. Amesterdão (Holanda);
+. [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf), S. E. (2000). Principles of pollution abatement. Pollution Abatement for the 21st Century. Elsevier Science Publishers B. V. Amesterdão (Holanda);
 
 . KLIGERMAN, D. C.; VILELA, H.; CARDOSO, T. A.; COHEN, S. C.; SOUSA, D.; ROVERE, E. (2006). Sistemas de indicadores de saúde e ambiente em instituições de saúde. Rio de Janeiro (Brasil);
 
@@ -2579,11 +2579,11 @@ Glossário
 
 Principais actividades económicas contempladas no PERH 2011-2016, tendo como base a Classificação Portuguesa de Actividades Económicas (CAE Rev. 3, estabelecida pelo Decreto-Lei n.º 381/2007, de 14 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 ## ANEXO II — Elementos-chave em matéria de gestão de resíduos hospitalares, fixados pelo Despacho n.º 242/96, publicado a 13 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01400/0037700466.pdf)
 
 ## ANEXO III — Sistematização das tecnologias de descontaminação e de incineração
 

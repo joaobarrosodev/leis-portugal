@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decminrepram/2/1996/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica-para-regiao-autonoma-madeira/2-1996-165846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 766d8502e0b66ea45fa007fe8b86950bb2ab211527541148352623c63399e9ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa45632a4352cd1e2ecd4ff602ff54cfd2ab2103a51c9254b67cea509c649b4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
 subjects:
 - Exoneração
 - Governo Regional
-- Secretário Regional dos Assuntos Parlamentares e Comunicação
-- Secretário Regional do Equipamento Social e Ambiente
 - Madeira.região Autónoma
-- Secretário Regional das Finanças
 - Secretário Regional da Agricultura Florestas e Pescas
 - Secretário Regional da Economia e Cooperação Externa
+- Secretário Regional das Finanças
+- Secretário Regional do Equipamento Social e Ambiente
 - Secretário Regional do Turismo e Cultura
+- Secretário Regional dos Assuntos Parlamentares e Comunicação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:06Z'
   warnings: []
   errors: []
 ---
@@ -99,8 +103,8 @@ de 11 de Novembro
 
 Ao abrigo do n.º 4 do artigo 233.º da Constituição e do n.º 2 do artigo 39.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, exonero o Secretário Regional de Agricultura, Florestas e Pescas, Jorge Manuel Bazenga Marques, o Secretário Regional dos Assuntos Parlamentares e Comunicação, Dr. Eduardo António Brazão de Castro, o Secretário Regional do Turismo e Cultura, João Carlos Nunes Abreu, o Secretário Regional do Equipamento Social e Ambiente, engenheiro Jorge Manuel Jardim Fernandes, o Secretário Regional dos Assuntos Sociais, Dr. Rui Adriano Ferreira de Freitas, o Secretário Regional de Finanças, Dr. José Paulo Baptista Fontes, o Secretário Regional de Economia e Cooperação Externa, Dr. José Agostinho Gomes Pereira de Gouveia, e o Secretário Regional de Educação, Dr. Francisco Miguel Azinhais Abreu dos Santos.
 
-**Assinado em 11 de Novembro de 1996.**
+Assinado em 11 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

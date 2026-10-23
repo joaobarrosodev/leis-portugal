@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/786/2009/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/786-2009-492994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23638645fbd375afbe348626d70663b5420cd479c5c4f87e45b80dc12489c9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e25f0c602e05c785738e001fff2b3a75eed057d73c872c15f07b3296d1602299
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
+- Agricultura
+- Apoio ao Investimento
+- Cooperação Agrícola
 - Cooperação Inter-regional
 - Cooperação Transfronteira
 - Definição de Competências
-- Desenvolvimento Regional
-- Feader
-- Apoio ao Investimento
-- Projeto de Investimento
-- Pagamento
-- IFAP
 - Desenvolvimento Económico
-- Cooperação Agrícola
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Feader
+- Financiamento
+- IFAP
+- Pagamento
+- Proder
 - Programa Leader
+- Projeto de Investimento
 - Regulamento de Aplicação das Acções 3.4.1-cooperação Interterritorial e 3.4.2-cooperação Transnacional
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 6º, 8º, 10º e 13º e revogadas as als. b) e d) do art. 5º, a al. a) do nº1 do art. 6º e o art.\
+    \ 21º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 6.º ( na redacção da Port. 814/2010, de 27-Ago ), 17.º, 19.º e 20.º do Regulamento de Aplicação\
+    \ das Acções n.os 3.4.1, «Cooperação Interterritorial», e 3.4.2, «Cooperação Transnacional», aprovado pelo presente diploma,\
+    \ pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I do Regulamento de aplicação das Ações n.º 3.4.1, «Cooperação Interterritorial» e 3.4.2,\
+    \ «Cooperação Transnacional» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:31985R2137
   label: null
@@ -104,13 +124,13 @@ relationships:
 article_structure:
   article_count: 24
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:17Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +177,7 @@ c) Anexo III, relativo à metodologia de cálculo da valia estratégica.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 22 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 22 de Julho de 2009.
 
 ## ANEXO
 
@@ -511,7 +531,7 @@ Pro rata - na percentagem em que for dedutível.
 
 (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14300/0479304799.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14300/0479304799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14300/0479304799.pdf)
 
 ## ANEXO III — Metodologia de cálculo da valia estratégica
 

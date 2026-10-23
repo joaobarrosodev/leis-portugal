@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/77/2023/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-2023-208581817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80831eb0d0513418441738e8ede0a9c132435b4f7ebed7676b565064e13f1c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a603bec3f2486879adc217ff5445562ac2d207c917928a5fd443579ac9db60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tecnologia da Informação
-- Serviço de Telecomunicações Móveis
+- Autoridade Nacional de Comunicações
 - Comunicações Eletrónicas
 - Definição de Competências
 - Documentação Classificada
 - Especificação Técnica
-- Sociedade da Informação
 - Internet
-- Sistema de Informação
-- Plataforma Eletrónica
-- Autoridade Nacional de Comunicações
 - Operador de Rede de Comunicações Eletrónicas
+- Plataforma Eletrónica
 - Rede Fixa de Comunicações Eletrónicas
 - Rede Móvel de Comunicações Eletrónicas
+- Serviço de Telecomunicações Móveis
+- Sistema de Informação
+- Sociedade da Informação
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/40/2022/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/2022/06/06/p/dre
+- type: cites
+  target: pt:dre:184420992:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:36Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +155,7 @@ e) 60 dias úteis para a cobertura via satélite.
 
 A presente portaria entra em vigor dez dias úteis após a sua publicação.
 
-**O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 24 de fevereiro de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 3 de março de 2023. - A Secretária de Estado do Desenvolvimento Regional, Isabel Cristina Fernandes Rodrigues Ferreira, em 3 de março de 2023.**
+O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 24 de fevereiro de 2023. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 3 de março de 2023. - A Secretária de Estado do Desenvolvimento Regional, Isabel Cristina Fernandes Rodrigues Ferreira, em 3 de março de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -253,7 +257,7 @@ TABELA 1
 
 Meio físico e tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 A informação relativa a cada endereço passado deve permitir conhecer todas as tecnologias disponíveis no mesmo. Caso um endereço seja passado por mais do que uma tecnologia de um mesmo operador, devem ser preenchidos os campos correspondentes às tecnologias A e B:
 
@@ -279,7 +283,7 @@ TABELA 2
 
 Rede utilizada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Os acessos cobertos com recurso à partilha de rede, detida por outro operador, devem ser igualmente indicados como utilizando Rede de terceiros (código 1).
 
@@ -307,7 +311,7 @@ TABELA 3
 
 Tipo de utilização do edifício
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 vi) Designação de tipo de via e de tipo de edifício
 
@@ -317,13 +321,13 @@ TABELA 4
 
 Tipo de via
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 TABELA 5
 
 Prefixo de edifício
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 vii) Informação classificada
 
@@ -333,7 +337,7 @@ TABELA 6
 
 Informação classificada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Estrutura tabular para preenchimento de dados
 
@@ -343,7 +347,7 @@ TABELA 7
 
 Formato tabular dos dados (por endereço)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 3 - Cobertura das redes móveis
 
@@ -371,13 +375,13 @@ TABELA 8
 
 Cobertura do serviço de voz, SMS e MMS através de GSM (2G)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 TABELA 9
 
 Cobertura do serviço de voz, SMS e MMS através de UMTS (3G)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Para cada quadrícula, de 100 por 100 metros, deve ser indicado apenas o código relativo à melhor cobertura radioelétrica disponível. A ausência de cobertura deve também ser indicada com o código 0.
 
@@ -391,7 +395,7 @@ TABELA 10
 
 Cobertura do serviço de acesso à Internet através de UMTS/HSPA (3G)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Para cada quadrícula de 100 por 100 metros deve ser indicado apenas o código relativo à melhor cobertura radioelétrica disponível. A ausência de cobertura deve ser indicada com o código 0.
 
@@ -401,13 +405,13 @@ TABELA 11
 
 Cobertura do serviço de acesso à Internet através de LTE/LTE-A (4G)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Para cada quadrícula, de 100 por 100 metros, deve ser indicado apenas o código relativo à melhor cobertura radioelétrica disponível. A ausência de cobertura deve ser indicada com o código 0.
 
 No que se refere aos níveis de cobertura radioelétrica do serviço de acesso à Internet através de LTE/LTE-A (4G), indicados na tabela anterior, o cálculo da cobertura para as velocidades não deve considerar agregação de portadoras, exceto para velocidades iguais ou superiores a 300 Mbps, caso em que essa agregação deve ser considerada, sempre que apropriado, recorrendo aos valores indicados na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Figura 1 - Níveis de sinal de radioelétrico (RSRP - dBm) para cálculo de velocidades de download utilizando agregação de portadoras.
 
@@ -417,7 +421,7 @@ TABELA 12
 
 Cobertura do serviço de acesso à Internet através de NR (5G)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Para cada quadrícula, de 100 metros por 100 metros, deve ser indicado apenas o código relativo à melhor cobertura radioelétrica disponível. A ausência de cobertura deve ser indicada com o código 0.
 
@@ -431,7 +435,7 @@ TABELA 13
 
 Formato tabular dos dados (por quadrícula)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 4 - Traçados das redes de acesso e de transporte
 
@@ -447,7 +451,7 @@ TABELA 14
 
 Tipo de rede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 ii) Meio físico
 
@@ -457,7 +461,7 @@ TABELA 15
 
 Meio físico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Caso um troço da rede de acesso ou de transporte compreenda mais do que um meio físico, conforme Tabela 15, devem ser preenchidos os campos correspondentes Meio A a D conforme estrutura constante da Tabela 17.
 
@@ -475,7 +479,7 @@ TABELA 16
 
 Informação classificada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Estrutura tabular
 
@@ -485,7 +489,7 @@ TABELA 17
 
 Formato tabular dos dados (redes de acesso e de transporte)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 5 - Traçados dos cabos submarinos e localização dos pontos de amarração
 
@@ -507,13 +511,13 @@ TABELA 18
 
 Informação classificada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 TABELA 19
 
 Formato tabular dos dados (cabos submarinos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 iii) Pontos de amarração dos cabos submarinos
 
@@ -523,7 +527,7 @@ TABELA 20
 
 Formato tabular dos dados (pontos de amarração dos cabos submarinos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 6 - Cobertura das redes de satélite
 
@@ -537,7 +541,7 @@ TABELA 21
 
 Formato tabular dos dados (por polígono)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05200/0000200018.pdf)
 
 Acrónimos
 
@@ -584,3 +588,5 @@ SS-RSRP (Synchronization Signal - Reference Signal Received Power).
 UMTS (Universal Mobile Telecommunications System).
 
 UTM (Universal Transverse Mercator).
+
+116240098

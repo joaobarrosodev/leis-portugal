@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04300/0003800047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337bac1537ec93f05cb38fac37b799ee41702193d428f6fef65c0c1a9bf2f9bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfa4fa23d159cf78b6f52aec970d3c4b02c64ca54c1ad12152471e9a7a3225b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Concurso
 - Curso de Formação
-- Marinha
 - Formação Complementar
-- Recrutamento de Pessoal
+- Formação Profissional
+- Marinha
 - Pessoal Técnico Superior
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regulamento
 relationships:
+- type: amends
+  target: pt:numero:portaria:442/2023
+  label: Altera, a partir de 4 de março de 2025, o artigo 2.º da Portaria n.º 442/2023, de 19 de dezembro, Diário da República
+    n.º 243/2023, Série I, e os artigos 2.º, 3.º, 4.º, 7.º, 8.º 13.º e 14.º do regulamento em anexo, o qual é republicado
+  source: null
+  date: '2023-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
   label: null
@@ -93,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/442/2023/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/442/2023/12/19/p/dre
+- type: cites
+  target: pt:dre:105283926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:799214995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868547581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:15Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +191,9 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 3.º — Condições de admissão ao concurso interno geral
+Artigo 3.º
+
+Condições de admissão ao concurso interno geral
 
 1 - Constituem condições gerais de admissão ao concurso interno geral:
 
@@ -183,7 +211,9 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 4.º — Condições de admissão ao concurso externo
+Artigo 4.º
+
+Condições de admissão ao concurso externo
 
 1 - Constituem condições gerais de admissão ao concurso externo:
 
@@ -197,7 +227,9 @@ c) [...]
 
 No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +247,9 @@ e) Entrevista profissional.
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +263,9 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 4 - [...]
 
-###### Artigo 13.º — Entrevista profissional
+Artigo 13.º
+
+Entrevista profissional
 
 1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de TSN.
 
@@ -237,7 +273,9 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -279,7 +317,7 @@ Ep = entrevista profissional, valorada através da média ponderada das classifi
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.**
+O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -297,7 +335,7 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFCO
 
 1 - Constituem condições gerais de admissão ao concurso interno limitado:
 
-a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, em instituição oficialmente reconhecida;
 
@@ -315,7 +353,7 @@ b) No aplicável, ser detentor de título profissional, emitido pela respetiva O
 
 1 - Constituem condições gerais de admissão ao concurso interno geral:
 
-a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM;
+a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM;
 
 b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, por instituição oficialmente reconhecida;
 
@@ -395,7 +433,7 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos QP, na classe de TSN, e é realizada de acordo com os critérios fixados por despacho do CEMA.
 
-2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM.
 
 ###### Artigo 10.º — Inspeções médicas
 
@@ -415,7 +453,7 @@ A avaliação psicológica destina-se a avaliar as aptidões e características 
 
 1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de TSN.
 
-2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, e pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, e pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
 
 ###### Artigo 13.º — Entrevista profissional
 
@@ -470,3 +508,5 @@ Decorrido o período de audiência dos interessados e a tramitação das eventua
 ###### Artigo 17.º — Impugnação administrativa
 
 Sem prejuízo da impugnação junto dos tribunais administrativos, dos atos de exclusão dos candidatos ao procedimento concursal e de homologação da lista de ordenação final cabe recurso hierárquico nos termos do Estatuto dos Militares das Forças Armadas e do CPA.
+
+118725195

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24900/0981809819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2015/12/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2015-72934426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90700cb907d45b4ec52175d20361ed224e742a7dcf367c9a051f622316d35be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a44d37f8916d7d05174216dea5dd5e9ec37ea98b46a68633b50493cc9440f9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apartamento Turístico
-- Prevenção de Incêndios
-- Turismo
+- ASAE
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional de Turismo
+- Equipamento de Combate a Incêndios
 - Fiscalização
+- Habitação
 - Inspecção Regional das Actividades Económicas
 - Instituto de Turismo de Portugal
-- ASAE
-- Moradia Turística
 - Madeira.região Autónoma
+- Moradia Turística
+- Prevenção de Incêndios
 - Reclamação
 - Regime Jurídico
-- Habitação
 - Segurança dos Edifícios
-- Equipamento de Combate a Incêndios
+- Turismo
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -128,6 +128,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/517/2008/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/517/2008/06/25/p/dre
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67059141:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
@@ -135,13 +199,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:53Z'
   warnings: []
   errors: []
 ---
@@ -216,10 +280,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 30 de novembro de 2015.**
+Assinado em 30 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

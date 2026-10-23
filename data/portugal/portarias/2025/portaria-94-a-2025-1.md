@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04901/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/94-a/2025/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9682ac9e7269dbde69a82e9f9b178be247f98fab3913ab183f6f7834bfa48325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03c16ed6c10bad4eb4b2b4aebfb3b1e0b3a1af0c696a255366510a736405fe11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
+- Apicultura
 - Aquisição de Equipamento
-- Incêndio
-- Financiamento
+- Atividade Agrícola
 - CAÇA
 - Catástrofe
 - Comissão de Coordenação e Desenvolvimento Regional
+- Financiamento
+- Incêndio
 - Ordenamento Cinegético
-- Apicultura
 - Regime de Apoio
 - Subsídio
 - ZONA de CAÇA
 relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:16/2024
+  label: Altera, a partir de 12 de março de 2025, com efeitos a 1 de janeiro de 2025, o n.º 5 do Despacho Normativo n.º 16/2024,
+    de 18 de novembro, Diário da República n.º 223/2024, Série II
+  source: null
+  date: '2024-11-18'
+- type: amends
+  target: pt:numero:portaria:294/2024
+  label: Altera, a partir de 12 de março de 2025, com efeitos a 1 de janeiro de 2025, os artigos 1.º, 2.º, 8.º e 10.º do anexo
+    i e os artigos 1.º, 2.º, 4.º, 5.º, 8.º e 10.º do anexo ii da Portaria n.º 294/2024/1, de 18 de novembro, Diário da República
+    n.º 223/2024, Série I
+  source: null
+  date: '2024-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59-a/2024/09/27/p/dre
   label: null
@@ -95,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/130-a/2024/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/130-a/2024/09/27/p/dre
+- type: cites
+  target: pt:dre:889277040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889312084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:896828794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:896834904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904742812:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:22Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +156,7 @@ Aproveita-se, igualmente, para introduzir algumas clarificações de redação d
 
 Assim:
 
-Ao abrigo do disposto no n.º 2 do artigo 19.º e nos n.<sup>os</sup>2 e 3 do artigo 21.º do [Decreto-Lei n.º 59-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-a-2024-889277040), de 27 de setembro, na sua redação atual, manda o Governo, pelo Ministro Adjunto e da Coesão Territorial e pelo Ministro da Agricultura e Pescas, o seguinte:
+Ao abrigo do disposto no n.º 2 do artigo 19.º e nos n.os2 e 3 do artigo 21.º do [Decreto-Lei n.º 59-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-a-2024-889277040), de 27 de setembro, na sua redação atual, manda o Governo, pelo Ministro Adjunto e da Coesão Territorial e pelo Ministro da Agricultura e Pescas, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -143,7 +176,9 @@ Os artigos 1.º,2.º, 8.º e 10.º do anexo i da [Portaria n.º 294/2024/1](http
 
 É criado o apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal que se destina a fazer face aos prejuízos decorrentes dos incêndios que deflagraram entre os dias 15 e 19 de setembro de 2024, nos territórios identificados na [Resolução do Conselho de Ministros n.º 130-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-a-2024-889312084), de 27 de setembro, na sua redação atual.
 
-###### Artigo 2.º — Tipologias de intervenção elegíveis
+Artigo 2.º
+
+Tipologias de intervenção elegíveis
 
 É concedido um apoio extraordinário à reposição da atividade florestal, sendo o apoio concedido às seguintes tipologias de intervenção:
 
@@ -151,13 +186,17 @@ a) [...]
 
 b) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das CCDR, I. P., territorialmente competentes, até 31 de março de 2025.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR, I. P., territorialmente competente.
 
@@ -175,7 +214,9 @@ Os artigos 1.º,2.º, 4.º, 5.º, 8.º e 10.º do anexo ii da [Portaria n.º 294
 
 É criado o apoio extraordinário às entidades gestoras de zonas de caça afetadas pelos incêndios que deflagraram entre os dias 15 e 19 de setembro do corrente ano, nos territórios identificados na [Resolução do Conselho de Ministros n.º 130-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-a-2024-889312084), de 27 de setembro, na sua redação atual.
 
-###### Artigo 2.º — Tipologias de intervenção elegíveis
+Artigo 2.º
+
+Tipologias de intervenção elegíveis
 
 1 - [...]
 
@@ -207,7 +248,9 @@ vii) [...]
 
 viii) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -221,7 +264,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -235,13 +280,17 @@ d) [...]
 
 e) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das comissões de coordenação e desenvolvimento regional, I. P. (CCDR, I. P.), territorialmente competentes, até 31 de março de 2025.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR, I. P., territorialmente competente.
 
@@ -259,4 +308,6 @@ O n.º 5 do [Despacho Normativo n.º 16/2024](https://diariodarepublica.pt/dr/de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025.
 
-**O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 14 de fevereiro de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 11 de março de 2025.**
+O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 14 de fevereiro de 2025. - O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 11 de março de 2025.
+
+118797294

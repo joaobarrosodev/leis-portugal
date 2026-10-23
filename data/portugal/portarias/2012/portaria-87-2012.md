@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06500/0153701538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/87/2012/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-2012-553885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d541d6aa556d128c74573d5d90c25aeb22ca30c6e67ce4d9bc9e57542b5172b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8653157236cc4b1122553acf1bbe2e2494670ec7636a092627d260a0275f34e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:544413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70409974:por
+  label: Revogada pelo(a) Portaria n.º 320/2015 - Diário da República n.º 192/2015, Série I de 2015-10-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2015-70409974
+  date: '2015-10-01'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:27Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +174,4 @@ O número máximo de unidades orgânicas flexíveis da Inspeção-Geral da Defes
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 24 de fevereiro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 24 de fevereiro de 2012.

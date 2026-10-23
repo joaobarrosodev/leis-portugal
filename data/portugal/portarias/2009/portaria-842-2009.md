@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/842/2009/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-2009-493015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88df1ffc37078069c99bd262aaeb347d38d6c27eeaedc6111b3d05c0ed50d182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 028be972d1d0de2cd024b30f967748cd3265e9a1529339476318834aa3cba762
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
-- Apoio ao Investimento
-- Projeto de Investimento
-- Aproveitamento Hidroagrícola
-- IFAP
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
-- Regulamento
-- Modernização do Sector Agrícola
 - Agricultura
+- Apoio ao Investimento
+- Aproveitamento Hidroagrícola
+- Desenvolvimento Rural
+- Financiamento
+- IFAP
+- Modernização do Sector Agrícola
+- Proder
+- Projeto de Investimento
+- Regulamento
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 9º, 11º, 12º, 13º, 15º e 18º e revogadas as als. d) e f) do art. 6º, a al. c) do nº2 do art.\
+    \ 7º e o art. 23º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de\
+    \ 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º do Regulamento de Aplicação\
+    \ da Acção n.º 1.6.4, «Modernização dos Regadios Colectivos Tradicionais», aprovado pela presente portaria, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:260416:por
+  label: "Dada nova redação ao nº 8 do anexo I ao Regulamento de Aplicação da Ação n.º 1.6.4, «Modernização dos Regadios Coletivos\
+    \ Tradicionais» pela PORT.152/2013.17.04.2013.MAMAOT, DR.IS [75] de 17.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2013-260416
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I (alterado pela Port 152/2013 de 17-abr) do Regulamento de Aplicação da Ação n.º 1.6.4,\
+    \ «Modernização dos Regadios Coletivos Tradicionais» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -94,13 +121,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:37Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +164,7 @@ b) Anexo II, relativo à metodologia de cálculo da valia global das operações
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Julho de 2009.
 
 ## ANEXO
 

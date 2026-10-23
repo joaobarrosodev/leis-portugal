@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21600/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/340/2023/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-2023-223940596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259a76fdc9dd5aa3f36d729e4066649b63165c0bb1ba59c7b84302d2885c93cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4eb14e362d8ed3cc3b0c90568d27201c20d016c73f6ef99be749f0cf1251822
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - Coeficiente de Actualização
 - Coeficiente de Correcção
 - Desvalorização da Moeda
-- Regulamentação de Atos Legislativos
 - Imposto de Mais-Valias
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2014/01/16/p/dre
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022085:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:44Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +127,13 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 Os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2023, cujo valor deva ser atualizado nos termos dos artigos 47.º do Código do IRC e 50.º do Código do IRS, para efeitos de determinação da matéria coletável dos referidos impostos, são os constantes do quadro anexo.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 31 de outubro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 31 de outubro de 2023.
 
 ## ANEXO — Quadro de atualização dos coeficientes de desvalorização da moeda a que se referem os artigos 47.º do Código do IRC e 50.º do Código do IRS
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Anos | Coeficientes | Anos | Coeficientes |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Até 1903 | 5 238,67 | 1981 | 9,72 |
 | 1904 a 1910 | 4 876,60 | 1982 | 8,07 |
 | 1911 a 1914 | 4 677,20 | 1983 | 6,46 |
@@ -155,3 +171,5 @@ Os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alien
 | 1978 | 16,72 | 2018 a 2020 | 1,09 |
 | 1979 | 13,19 | 2021 | 1,08 |
 | 1980 | 11,89 | 2022 | 1,00 |
+
+117024526

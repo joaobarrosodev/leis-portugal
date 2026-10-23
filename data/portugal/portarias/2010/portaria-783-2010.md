@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/783/2010/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-2010-343462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72456170b4d09c688ab3b8dfb7fe99f4a825edb8774024b96d3e3686d674a50b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c02ddf418e48e2a4314dcfc3f730fe572d0abab89987dde65077516cdb5f96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/1998/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/1998/09/26/p/dre
+- type: cites
+  target: pt:dre:245556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626382:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:26Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +145,6 @@ São anexados à zona de caça turística de Morena Erges (processo n.º 2088-AF
 
 Esta portaria produz efeitos a partir do dia 27 de Setembro de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 3 de Agosto de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 3 de Agosto de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/16200/0364103641.pdf))](https://files.diariodarepublica.pt/1s/2010/08/16200/0364103641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/16200/0364103641.pdf)

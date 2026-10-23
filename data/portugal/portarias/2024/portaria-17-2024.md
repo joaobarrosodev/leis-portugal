@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01800/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/2024/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ff67af8728940414c4ac5f5ed43d7111dc9e79a94f0db860e559be8ee876af5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92f9dfb4c0e351cac742f03c14ad72b502d2841c85eb7761ec9ca421a1bcaedf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:1126594012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1126594012:por
+  label: Mantida em vigor o artigo 3.º pelo(a) Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2026-1126594012
+  date: '2026-05-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
@@ -82,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2013/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2013/04/02/p/dre
+- type: cites
+  target: pt:dre:259952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:09Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +161,15 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O estatuto remuneratório dos chefes de equipa multidisciplinares pode ser fixado até ao limite da remuneração do coordenador de área, em função da natureza e da complexidade das funções.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +203,9 @@ m) Apoiar o Departamento de Gestão de Serviços e Relações Externas na prepar
 
 n) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +227,9 @@ g) Apoiar o Departamento de Gestão de Serviços e Relações Externas na prepar
 
 h) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -240,7 +261,9 @@ l) Apoiar o Departamento de Gestão de Serviços e Relações Externas na prepar
 
 m) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -262,7 +285,9 @@ g) Apoiar o Departamento de Gestão de Serviços e Relações Externas com vista
 
 h) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -284,7 +309,9 @@ g) Apoiar o Departamento de Gestão de Serviços e Relações Externas na prepar
 
 h) [...]
 
-###### Artigo 9.º — Departamento de Gestão de Serviços e Relações Externas
+Artigo 9.º
+
+Departamento de Gestão de Serviços e Relações Externas
 
 1 - Compete ao Departamento de Gestão de Serviços e Relações Externas, abreviadamente designado por DGSRE, assumir o papel de principal contacto e promover a imagem junto dos parceiros, compreender as suas necessidades e assegurar um correto planeamento interno para o cumprimento de prazos, custos e receitas das soluções que garantam os adequados níveis de prestação e respetivas contrapartidas.
 
@@ -310,7 +337,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -372,7 +401,7 @@ São republicados, em anexo, que é parte integrante da presente portaria, os Es
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 5 de dezembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 5 de dezembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -621,3 +650,5 @@ s) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenh
 t) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;
 
 u) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.
+
+117272905

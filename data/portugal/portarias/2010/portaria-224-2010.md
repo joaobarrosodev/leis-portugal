@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07600/0134501346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/2010/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2010-613247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0847a0bfa7e234337721691fb68504c725cbb71d342f5869e6bfd8987abf73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96f8aa5712a76395d7808605079b05ab3c232cf67b4c39e462f27f7257b33ebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Tecnológico
-- Educação Especial
-- Formação Profissional
 - Certificação Profissional
-- TIC
-- Sistema de Informação
-- Estabelecimento de Ensino
-- Pessoal Docente
+- Educação Especial
 - Educação Permanente
-- Ensino Básico
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Formação Profissional
+- Pessoal Docente
+- Plano Tecnológico
+- Sistema de Informação
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:502838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502838:por
+  label: "Alterados os arts 1.º, 2.º, 3.º, 5.º, 8.º, 9.º, 10.º, 11.º e 12.º da Port 731/2009, de 07-jul, e republicada na\
+    \ íntegra bem como os seus anexos da qual fazem parte integrante, na redação do presente diploma, pela PORT.321/2013.28.10.2013.MECI,\
+    \ DR.IS [208] de 28.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2013-502838
+  date: '2013-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/731/2009/07/07/p/dre
   label: null
@@ -91,16 +98,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
+- type: cites
+  target: pt:dre:642198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502838:por
+  label: "Revogada, a partir de 02.11.2013, pela PORT.321/2013.28.10.2013.MECI, DR.IS [208] de 28.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2013-502838
+  date: '2013-10-28'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:07Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +145,7 @@ Ao elenco das opções do curso de formação contínua obrigatório «Ensino e 
 
 É republicado na íntegra em anexo à presente portaria, da qual faz parte integrante, o anexo i da Portaria n.º 731/2009, de 7 de Julho.
 
-**A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 13 de Abril de 2010.**
+A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 13 de Abril de 2010.
 
 ## ANEXO I — (a que se refere o n.º 2)
 
@@ -139,7 +155,7 @@ Modalidade - Cursos de formação
 
 Duração: 15 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07600/0134501346.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07600/0134501346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07600/0134501346.pdf)
 
 2 - Cursos de formação contínua - Competências pedagógicas e profissionais com TIC (nível 2)
 

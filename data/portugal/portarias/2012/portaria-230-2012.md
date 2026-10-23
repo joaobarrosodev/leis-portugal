@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230/2012/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2012-179024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d45e24e9796612816f8c1b0b7008082242bda4ae394572e8e685d1e7681191e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c023744006e985505077f4c8e4799a6751e5819e414653b3065b1b8d27e6bd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,28 @@ subjects:
 - Pesca por ARTE de Armadilha
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:25343725:por
+  label: "Determinado, para 2014, um período de exercício da pesca do camarão-branco-legítimo com armadilhas da classe de\
+    \ malhagem 8 mm-29 mm diverso (a terminar em 31.05.2014) do definido pela al. b) do n.º 2 do art. 9.º do Regulamento da\
+    \ Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000, de 22-nov, na redacção do presente dip'loma, pela PORT.92/2014.28.04.2014.MAGM,\
+    \ DR.IS [81] de 28.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2014-25343725
+  date: '2014-04-28'
+- type: amended_by
+  target: pt:dre:74316116:por
+  label: Alterados os arts. 9.º e o art. 9.º-A do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000
+    de 22-nov, com a útlima republicação efetuada pelo presente diploma, pelo(a) Portaria n.º 118-C/2016 - Diário da República
+    n.º 83/2016, 1º Suplemento, Série I de 2016-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-c-2016-74316116
+  date: '2016-04-29'
+- type: amended_by
+  target: pt:dre:123891093:por
+  label: Alterado o art. 9.º-A, do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000 de 22-nov, na
+    versão republicada pelo presente diploma, pelo(a) Portaria n.º 255/2019 - Diário da República n.º 153/2019, Série I de
+    2019-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2019-123891093
+  date: '2019-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -81,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97-a/2012/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97-a/2012/04/05/p/dre
+- type: cites
+  target: pt:dre:204453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:59Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +181,9 @@ Classes de malhagem
 
 4 - ...
 
-###### Artigo 8.º — Condicionalismos ao exercício da pesca
+Artigo 8.º
+
+Condicionalismos ao exercício da pesca
 
 1 - ...
 
@@ -159,35 +199,51 @@ d) [Anterior alínea c).]
 
 3 - É proibido utilizar caranguejo-mouro, também designado por caranguejo-verde, como isco vivo, na costa algarvia a leste do meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8'' W).
 
-## ANEXO II — (a que se refere o artigo 8.º)
+ANEXO II
+
+(a que se refere o artigo 8.º)
 
 Número máximo de armadilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)
 
-###### Artigo 2.º — Republicação
+Artigo 2.º
+
+Republicação
 
 O Regulamento da Pesca por Arte de Armadilha, aprovado pela [Portaria n.º 1102-D/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-d-2000-284921), de 22 de novembro, é republicado em anexo.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 1 de agosto de 2012.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 1 de agosto de 2012.
 
-## ANEXO — REGULAMENTO DA PESCA POR ARTE DE ARMADILHA
+ANEXO
 
-### CAPÍTULO I — Disposições gerais
+REGULAMENTO DA PESCA POR ARTE DE ARMADILHA
 
-###### Artigo 1.º — Objeto
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente Regulamento estabelece o regime de exercício da pesca por armadilha.
 
-###### Artigo 2.º — Definição da arte
+Artigo 2.º
+
+Definição da arte
 
 Por pesca por armadilha entende-se qualquer método de pesca passivo pelo qual a presa é atraída ou encaminhada para um dispositivo que lhe dificulta ou impossibilita a fuga, sem que para tal tenha abandonado o seu elemento natural.
 
-###### Artigo 3.º — Tipos
+Artigo 3.º
+
+Tipos
 
 A pesca por armadilha pode ser exercida com artes que se integrem num dos seguintes grupos:
 
@@ -197,13 +253,19 @@ b) Pesca por armadilha de gaiola;
 
 c) Pesca por armação.
 
-### CAPÍTULO II — Pesca por armadilhas de abrigo
+CAPÍTULO II
 
-###### Artigo 4.º — Caracterização
+Pesca por armadilhas de abrigo
+
+Artigo 4.º
+
+Caracterização
 
 Por pesca por armadilha de abrigo entende-se aquela em que a presa é atraída pela criação artificial de ambientes similares a locais de abrigo ou poiso e dos quais pode sair livremente.
 
-###### Artigo 5.º — Condicionalismos ao exercício da pesca
+Artigo 5.º
+
+Condicionalismos ao exercício da pesca
 
 1 - A pesca com armadilhas de abrigo só pode ser efetuada com potes ou alcatruzes, destinada à captura de polvo.
 
@@ -215,13 +277,19 @@ a) 1/2 milha de distância da linha da costa para embarcações até 9 m de comp
 
 b) 1 milha de distância da linha da costa para embarcações com cff superior a 9 m.
 
-### CAPÍTULO III — Pesca por armadilha de gaiola
+CAPÍTULO III
 
-###### Artigo 6.º — Caracterização
+Pesca por armadilha de gaiola
+
+Artigo 6.º
+
+Caracterização
 
 Por pesca por armadilha de gaiola entende-se aquela em que se recorre a dispositivo de dimensões e forma muito diversas, constituído por estrutura rígida tal que, por si só ou servindo de suporte a pano de rede, delimitam um compartimento cujo acesso é feito através de uma ou mais aberturas fáceis, mas cuja utilização, em sentido contrário, é dificultada às presas.
 
-###### Artigo 7.º — Classes de malhagem
+Artigo 7.º
+
+Classes de malhagem
 
 1 - Sem prejuízo do estabelecido no número seguinte e no n.º 3 do artigo 11.º, as classes de malhagem das armadilhas de gaiola, bem como as espécies alvo respetivas, são as definidas no anexo i ao presente Regulamento.
 
@@ -235,7 +303,9 @@ b) Aquelas em que o processo de construção obrigue a um estreitamento do vazio
 
 4 - A determinação do vazio da malha ou retículo é feita nos termos do n.º 2 do artigo 50.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de julho, na redação dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de maio.
 
-###### Artigo 8.º — Condicionalismos ao exercício da pesca
+Artigo 8.º
+
+Condicionalismos ao exercício da pesca
 
 1 - As embarcações que exerçam a pesca por armadilha estão sujeitas aos seguintes condicionalismos:
 
@@ -251,7 +321,9 @@ d) Não podem manter a bordo ou descarregar capturas em cuja composição a perc
 
 3 - É proibido utilizar caranguejo-mouro, também designado por caranguejo-verde, como isco vivo, na costa algarvia a leste do meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8'' W).
 
-###### Artigo 9.º — Pesca do camarão-branco-legítimo
+Artigo 9.º
+
+Pesca do camarão-branco-legítimo
 
 1 - No exercício da pesca de camarão-branco-legítimo (Palaemon serratus) é permitida a utilização de armadilhas de gaiola, com a malhagem da classe de malhagem 8 mm-29 mm e com as seguintes características:
 
@@ -271,7 +343,9 @@ d) Com um máximo de 100 armadilhas por embarcação.
 
 3 - Só podem ser licenciadas para o uso das armadilhas referidas no n.º 1 as embarcações de pesca registadas na frota local nas áreas de jurisdição das capitanias de Caminha à Figueira da Foz.
 
-###### Artigo 9.º-A — Pesca de navalheira e do polvo
+Artigo 9.º-A
+
+Pesca de navalheira e do polvo
 
 1 - No exercício da pesca de navalheira (Necora puber e Liocarcinus spp.) e do polvo (Octopus vulgaris e Eledone spp.) é permitida a utilização de armadilhas de gaiola, com a malhagem 8 mm -29 mm, desde que:
 
@@ -287,7 +361,9 @@ b) As armadilhas utilizadas tenham a forma de um paralelepípedo ou cilindro, co
 
 5 - Só podem ser licenciadas para o uso das armadilhas referidas no n.º 1 as embarcações de pesca registadas na frota local nas áreas de jurisdição das capitanias de Caminha à Figueira da Foz.
 
-###### Artigo 10.º — Pesca do camarão da Madeira
+Artigo 10.º
+
+Pesca do camarão da Madeira
 
 1 - No exercício da pesca dirigida ao conjunto de espécies vulgarmente designadas por camarão da Madeira (Plesionika spp.) é permitida a utilização de armadilhas construídas com rede desde que apresentem endiches cuja abertura externa não ultrapasse 50 mm.
 
@@ -297,7 +373,9 @@ a) Utilizar nem ter a bordo qualquer outra arte, exceto artes de pesca à linha;
 
 b) Calar e manter a bordo mais de 100 armadilhas.
 
-###### Artigo 11.º — Pesca da lagosta e do lavagante
+Artigo 11.º
+
+Pesca da lagosta e do lavagante
 
 1 - A pesca de lagosta (Palinurus elephas e P. mauritanicus) e de lavagante (Homarus gammarus) com armadilhas só pode ser exercida entre 1 de janeiro e 30 de setembro, sem prejuízo do disposto no n.º 2.
 
@@ -307,9 +385,13 @@ b) Calar e manter a bordo mais de 100 armadilhas.
 
 4 - Durante o período referido no n.º 1, todos os exemplares ovados que forem capturados devem ser rejeitados e devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou vendidos.
 
-### CAPÍTULO IV — Pesca por armadilha do tipo armação
+CAPÍTULO IV
 
-###### Artigo 12.º — Caracterização
+Pesca por armadilha do tipo armação
+
+Artigo 12.º
+
+Caracterização
 
 1 - Por pesca por armadilha do tipo armação entende-se aquela em que se recorre a uma estrutura fixa, de grande dimensão, em mar aberto, mista, para a captura de espécies marinhas, constituída por um corpo central com redes verticais sustentadas por cabos e boias, fixadas ao fundo por poitas, âncoras ou sacos de areia, definindo canais, barreiras e câmaras, através dos quais os peixes são conduzidos até chegarem a um copo onde são capturados, podendo aí ser mantidos para crescimento e engorda.
 
@@ -321,18 +403,24 @@ b) Calar e manter a bordo mais de 100 armadilhas.
 
 5 - A malhagem mínima é de 600 mm nas redes-guia e de 80 mm nas redes do copo.
 
-###### Artigo 13.º — Condicionalismos ao licenciamento
+Artigo 13.º
+
+Condicionalismos ao licenciamento
 
 O licenciamento da armadilha do tipo armação é precedido da apresentação do título de utilização de área do domínio público marítimo.
 
-## ANEXO I — (a que se refere o n.º 1 do artigo 7.º)
+ANEXO I
+
+(a que se refere o n.º 1 do artigo 7.º)
 
 Dimensão do vazio da malha ou retículo e percentagem mínima de espécies alvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)
 
-## ANEXO II — (a que se refere o artigo 8.º)
+ANEXO II
+
+(a que se refere o artigo 8.º)
 
 Número máximo de armadilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15000/0409004094.pdf)

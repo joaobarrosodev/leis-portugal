@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/142-2001-2455070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d94fe636c45d91d425c20c7a53b90d84bcf9b45dde17bdea175ea97e505bba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19b2ed73df1151592b95838535f0e4c495c2c3803e3d2f29fdd76899c02f9ceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Constituição de Sociedade
+- Highgrove-Sociedade de Gestão e Investimento Mobiliário
+relationships:
+- type: cites
+  target: pt:dre:622128:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1036683:por
+  label: "ALTERADA PELA RECT.390/2001.2001.02.05.MF, DR.IIS [39], DE 15/FEV/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/390-2001-1036683
+  date: '2001-02-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:17:13Z'
   warnings: []
   errors: []
 ---

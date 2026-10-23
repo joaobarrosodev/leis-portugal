@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1979-393190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c8f3b9b4233d9e437517c01735a49a20acba6b9eccb2127903569b843f613b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b60299e055ff5695cbb8bb333426a04c7d92a366c90d840c8c77b37d17e2cada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Integração de Serviços
+- Madeira.região Autónoma
+- Secretaria Regional da Agricultura e Pescas
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:53Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +97,11 @@ Nestes termos:
 
 O Governo Regional, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, artigo 33.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, artigo 2.º do Decreto Regional n.º 1/76, de 21 de Julho, e artigo 4.º do Decreto Regional n.º 12/78-M, publicado no Diário da República, de 10 de Março, decreta o seguinte:
 
-###### Artigo 1.º A Missão de Fomento da Floricultura na Ilha da Madeira passa a ficar integrada na Secretaria Regional da Agricultura e Pescas, com transferência efectiva de direitos e obrigações.
+Artigo 1.º A Missão de Fomento da Floricultura na Ilha da Madeira passa a ficar integrada na Secretaria Regional da Agricultura e Pescas, com transferência efectiva de direitos e obrigações.
 
-###### Art. 2.º Todos os bens e património em geral afectos aos serviços da Missão de Fomento da Floricultura transitam para o Governo Regional, com dispensa de qualquer formalidade, à excepção dos que forem propriedade da Junta Nacional das Frutas, cujo destino será objecto de um protocolo de acordo a firmar entre aquela Junta e o Governo Regional, através da Secretaria Regional da Agricultura e Pescas.
+Art. 2.º Todos os bens e património em geral afectos aos serviços da Missão de Fomento da Floricultura transitam para o Governo Regional, com dispensa de qualquer formalidade, à excepção dos que forem propriedade da Junta Nacional das Frutas, cujo destino será objecto de um protocolo de acordo a firmar entre aquela Junta e o Governo Regional, através da Secretaria Regional da Agricultura e Pescas.
 
-###### Art. 3.º - 1 - O pessoal adstrito à Missão de Fomento da Floricultura transita para a Secretaria Regional da Agricultura e Pescas.
+Art. 3.º - 1 - O pessoal adstrito à Missão de Fomento da Floricultura transita para a Secretaria Regional da Agricultura e Pescas.
 
 2 - Aos servidores referidos no número anterior é-lhes concedida a faculdade de, no prazo de noventa dias, a contar da data do início da entrada em vigor do presente decreto, declararem, por escrito, se desejam ser integrados, nos termos enunciados na mesma disposição legal.
 
@@ -104,18 +111,18 @@ O Governo Regional, nos termos do artigo 229.º, n.º 1, alínea b), da Constitu
 
 5 - A integração do respectivo pessoal no quadro far-se-á pela categoria mais baixa da carreira.
 
-###### Art. 4.º A denominação definitiva da actual Missão de Fomento da Floricultura, suas atribuições e competências, serão definidas na lei orgânica da Secretaria Regional da Agricultura e Pescas, constituindo um serviço dependente dos serviços agrícolas, cuja estruturação será, de igual modo, objecto do mesmo diploma.
+Art. 4.º A denominação definitiva da actual Missão de Fomento da Floricultura, suas atribuições e competências, serão definidas na lei orgânica da Secretaria Regional da Agricultura e Pescas, constituindo um serviço dependente dos serviços agrícolas, cuja estruturação será, de igual modo, objecto do mesmo diploma.
 
-###### Art. 5.º As despesas com a Missão de Fomento da Floricultura serão suportadas, no ano económico de 1978, pela própria verba consignada no orçamento ordinário de 1978, do Governo Regional, devendo, no entanto, os processos de despesa ser submetidos obrigatoriamente a despacho do Secretário da Agricultura e Pescas, até à publicação da lei orgânica da respectiva Secretaria.
+Art. 5.º As despesas com a Missão de Fomento da Floricultura serão suportadas, no ano económico de 1978, pela própria verba consignada no orçamento ordinário de 1978, do Governo Regional, devendo, no entanto, os processos de despesa ser submetidos obrigatoriamente a despacho do Secretário da Agricultura e Pescas, até à publicação da lei orgânica da respectiva Secretaria.
 
-###### Art. 6.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas pelo Secretário Regional da Agricultura e Pescas.
+Art. 6.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas pelo Secretário Regional da Agricultura e Pescas.
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor.
+Art. 7.º O presente diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Jardim.**
+O Presidente do Governo Regional, Alberto João Jardim.
 
-**Assinado em 15 de Dezembro de 1978.**
+Assinado em 15 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

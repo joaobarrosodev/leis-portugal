@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/289/2013/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2013-499780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb886ed7b1606f5e4e9c5f695db0d15826623188c46d6ede4aae6e78a525f72a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 768afd20fb8a62d17c6868a9168ff2fb0d320aa91af895c80f0cf66ddcb1e166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
 - Definição de Competências
+- Ensino Superior
 - Estatuto
 - Orgânica
-- Ensino Superior
 - Porto
+- Universidade Lusíada
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2013/08/02/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
+- type: cites
+  target: pt:dre:321923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683863:por
+  label: null
+  source: null
 article_structure:
   article_count: 86
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:34Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +146,7 @@ Manda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:
 
 São registados os estatutos da Universidade Lusíada do Porto, cujo texto vai publicado em anexo à presente portaria.
 
-**O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes, em 26 de agosto de 2013.**
+O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes, em 26 de agosto de 2013.
 
 ESTATUTOS DA UNIVERSIDADE LUSÍADA DO PORTO
 

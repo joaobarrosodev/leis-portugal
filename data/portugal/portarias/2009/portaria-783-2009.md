@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/783/2009/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-2009-492995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 870c9b2769be846e2ef514c26f0394988a92a4514aad79e3220f1d34e0882739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3400078993467b2dd3eadef1b50779942e77852d91fc2bf88cb21f7498ea77e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Comissão Vitivinícola Regional da Península de Setúbal
-- Denominação de Origem
-- Definição de Competências
-- Etiquetagem
 - Certificado de Qualidade
+- Comércio
+- Comissão Vitivinícola Regional da Península de Setúbal
+- Definição de Competências
+- Denominação de Origem
 - Embalagem
+- Etiquetagem
 - Montijo
 - Palmela
-- Setúbal
 - Sesimbra
-- Comércio
+- Setúbal
 - Vinha
+- Vinho
 relationships:
+- type: amended_by
+  target: pt:dre:56727879:por
+  label: Dada nova redação ao art. 7.º pelo(a) Portaria n.º 178/2014 - Diário da República n.º 175/2014, Série I de 2014-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2014-56727879
+  date: '2014-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/1999/04/14/p/dre
   label: null
@@ -96,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/326/1997/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/326/1997/11/26/p/dre
+- type: cites
+  target: pt:dre:319934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544612:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:16Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +221,9 @@ d) Solos podzolizados de areias e arenitos.
 
 6 - No caso de na mesma adega serem também elaborados vinhos sem direito à DO «Palmela» a entidade certificadora estabelece as condições em que deve decorrer a sua elaboração, devendo os vinhos protegidos por esta portaria ser conservados em áreas separadas, em recipientes devidamente identificados, nos quais constem, nomeadamente, as indicações relativas ao volume do recipiente, ao tipo de vinho contido e ao ano de colheita.
 
-###### Artigo 8.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 8.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Os mostos destinados aos vinhos aptos ao uso da DO «Palmela» devem possuir um título alcoométrico volúmico natural mínimo de:
 
@@ -268,16 +291,16 @@ Competem à Comissão Vitivinícola Regional da Península de Setúbal as funç�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e revoga, nos termos das alíneas t) e v) do artigo 23.º e do n.º 2 do artigo 24.º do [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), de 23 de Agosto, o [Decreto-Lei n.º 326/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1997-406529), de 26 de Novembro, e o artigo 3.º do [Decreto-Lei n.º 116/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1999-544612), de 14 de Abril.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Julho de 2009.
 
 ## ANEXO I
 
 Área geográfica de produção de vinhos com DO «Palmela»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf)
 
 ## ANEXO II
 
 Castas aptas à produção de vinho com DO «Palmela»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14200/0478204785.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02300/0001000019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/2025/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 629df9735c76e470f501f9f4aee8be73c276132525e1133989a5b829175d985c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 207f689b1372e2a11cb1a818bc88960a0edd21013b86d0cf90efc91a3b24c409
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,19 @@ subjects:
 - Acesso ao Direito
 - Advogado
 - Consulta Jurídica
-- Regulamentação de Atos Legislativos
 - Direito à Justiça
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Solicitador
 - Taxa
 relationships:
+- type: amends
+  target: pt:numero:portaria:10/2008
+  label: Altera, a partir de 2 de agosto de 2025, nos termos do artigo 8.º do presente diploma, os artigos 3.º, 15.º, 25.º,
+    27.º, 28.º e 28.º-A e o anexo e revoga o n.º 1 do artigo 8.º da Portaria n.º 10/2008, de 3 de janeiro, Diário da República
+    n.º 2/2008, Série I
+  source: null
+  date: '2008-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/34/2004/07/29/p/dre
   label: null
@@ -87,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1386/2004/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1386/2004/11/10/p/dre
+- type: cites
+  target: pt:dre:386797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548661:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:42Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +188,9 @@ Os artigos 3.º, 15.º, 25.º, 27.º, 28.º e 28.º-A da [Portaria n.º 10/2008]
 
 9 - […]
 
-###### Artigo 15.º — […]
+Artigo 15.º
+
+[…]
 
 1 - […]
 
@@ -179,7 +200,9 @@ Os artigos 3.º, 15.º, 25.º, 27.º, 28.º e 28.º-A da [Portaria n.º 10/2008]
 
 4 - […]
 
-###### Artigo 25.º — […]
+Artigo 25.º
+
+[…]
 
 1 - […]
 
@@ -201,11 +224,15 @@ Os artigos 3.º, 15.º, 25.º, 27.º, 28.º e 28.º-A da [Portaria n.º 10/2008]
 
 10 - […]
 
-###### Artigo 27.º — […]
+Artigo 27.º
+
+[…]
 
 Pela realização efetiva de uma consulta jurídica em escritório de advogado, advogado estagiário ou solicitador é devido o valor constante da tabela de honorários anexa à [Portaria n.º 1386/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2004-548661), de 10 de novembro, na sua redação atual.
 
-###### Artigo 28.º — […]
+Artigo 28.º
+
+[…]
 
 1 - O pagamento da compensação devida aos profissionais forenses deve ser processado pelo IGFEJ, I. P., até ao termo do mês seguinte àquele em que a secretaria do tribunal, ou serviço competente junto do qual corre o processo, confirme, no sistema, a prática dos factos determinantes da compensação descritos nas alíneas a) a d) do número seguinte, ou em que é enviado ao IGFEJ, I. P., o documento indicado nas alíneas e) e f), também do número seguinte.
 
@@ -231,7 +258,9 @@ f) No caso previsto no n.º 6 do artigo 5.º da [Portaria n.º 1386/2004](https:
 
 6 - […]
 
-###### Artigo 28.º-A — […]
+Artigo 28.º-A
+
+[…]
 
 Sempre que o beneficiário de apoio judiciário constitua mandatário após ter sido nomeado profissional forense, ou este seja substituído no processo, é-lhe devido:
 
@@ -271,15 +300,15 @@ A presente portaria aplica-se aos atos praticados no âmbito das nomeações ace
 
 A presente portaria entra em vigor 180 dias após a sua publicação.
 
-**A Secretária de Estado Adjunta e da Justiça, Maria Clara da Silva Maia de Figueiredo, em 29 de janeiro de 2025.**
+A Secretária de Estado Adjunta e da Justiça, Maria Clara da Silva Maia de Figueiredo, em 29 de janeiro de 2025.
 
 ## ANEXO I — (a que se refere o artigo 1.º da [Portaria n.º 1386/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2004-548661), de 10 de novembro)
 
 Tabela de honorários para a proteção jurídica
 
-| Espécies | N.º UR | Valor |
+| UR = 28,00 € |  |  |
 | --- | --- | --- |
-| UR = 28,00 € | UR = 28,00 € | UR = 28,00 € |
+| Espécies | N.º UR | Valor |
 | 1 - Processo civil |  |  |
 | 1.1 - Ação declarativa |  |  |
 | 1.1.1 - Juízo central cível | 58 | 1 624,00 € |
@@ -437,3 +466,7 @@ o) […]
 p) Centro de Arbitragem Administrativa, autorizado nos termos conjugados dos Despachos n.os 5097/2009, de 27 de janeiro, publicado no Diário da República, 2.ª série, de 12 de fevereiro de 2009, e 5880/2018, de 1 de junho, publicado no Diário da República, 2.ª série, de 15 de junho de 2018;
 
 q) Centro de Informação, Mediação e Arbitragem de Consumo dos Açores (CIMARA), autorizado nos termos do Despacho n.º 12783/2022, de 21 de setembro, publicado no Diário da República, 2.ª série, de 4 de novembro de 2022.
+
+118636281
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:11px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { text-align:right; } .Tbl5 { height:26px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { text-align:center; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl10 { min-height:18px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:28px; } .Tbl16 { min-height:19px; } .Tbl17 { min-height:27px; } .Tbl18 { min-height:37px; } .Tbl19 { min-height:47px; }

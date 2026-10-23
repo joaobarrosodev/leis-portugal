@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/149/2013/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2013-260437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3af4a8ba849b49f72317d8de371e0ad96bbf12b23f534465548ceafca061140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1eca873af12fd5836985d75e5a14d922c9f11abd9daff83b6deeb34155c61d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Ajuda Comunitária
-- Financiamento
-- Beneficiário
-- Turismo
-- Silvicultura
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Criação de Serviços
-- Feader
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
-- Fiscalização
-- Apoio ao Investimento
-- Pagamento
-- IFAP
-- Investimento
-- Criação de Emprego
-- Exploração Agrícola
-- Desenvolvimento Económico
-- Política Agrícola Comum
 - Agricultor
-- Região Rural
-- Qualidade de VIDA
+- Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Beneficiário
+- Comércio
+- Contrato de Financiamento
+- Criação de Emprego
+- Criação de Serviços
+- Desenvolvimento Económico
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Feader
+- Financiamento
+- Fiscalização
+- IFAP
+- Infraestrutura Turística
+- Investimento
 - Microempresa
+- Pagamento
+- Política Agrícola Comum
+- Proder
+- Qualidade de VIDA
+- Região Rural
 - Regulamento
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
-- Agricultura
-- Comércio
-- Infraestrutura Turística
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Silvicultura
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II do Regulamento de Aplicação das Ações n.º 3.2.1, «Conservação e Valorização do Património\
+    \ Rural», e 3.2.2, «Serviços Básicos para a População Rural», aprovado pela Port 521/2009 de 14-mai, alterado pelo presente\
+    \ diploma, pela \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -118,16 +125,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/521/2009/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/521/2009/05/14/p/dre
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388617:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:49Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +211,9 @@ j) [...]
 
 5 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -204,7 +225,9 @@ j) [...]
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -254,7 +277,7 @@ São introduzidas as alterações aos anexos I e II do Regulamento de Aplicaçã
 
 3. As alterações ao anexo III ao Regulamento aprovado pela Portaria n.º 520/2009, de 14 de maio, e ao anexo II ao Regulamento aprovado pela Portaria n.º 521/2009, de 14 de maio, aplicam-se aos trabalhos e às despesas que, à data de entrada em vigor da presente Portaria, estão por realizar.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 9 de abril de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 9 de abril de 2013.
 
 ## ANEXO I — (a que se refere o artigo 3.º da presente Portaria)
 
@@ -280,7 +303,9 @@ Ação n.º 3.1.3
 
 [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 [...]
 
@@ -358,9 +383,11 @@ Ação n.º 3.1.3
 
 Investimentos não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07300/0215602158.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07300/0215602158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07300/0215602158.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 

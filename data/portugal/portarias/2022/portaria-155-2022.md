@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10800/0000500017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2022/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7ca1ba3b93878435b4ac9002656b141e23ead4b7ab4a5ca151d7cba99ed4a7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df78c44ac4a10381b2c42ccc9d737a1db7dc260f26704fd5523c970119361b2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Educação
+- Coimbra
 - Concurso de Ingresso
 - Concurso Local de Acesso
+- Ensino Artístico
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Coimbra
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -118,16 +118,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/705-d/2000/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/705-d/2000/09/01/p/dre
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643695:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:13Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +204,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 O presente Regulamento disciplina o concurso local para a matrícula e a inscrição no curso de licenciatura em Teatro e Educação, ministrado pela Escola Superior de Educação do Instituto Politécnico de Coimbra, adiante designados como ESEC e IPC.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +234,9 @@ b) Apto, com uma classificação inteira no intervalo 100-200 pontos.
 
 7 - O idioma falado na prova específica é o português.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Podem apresentar-se a concurso os candidatos que reúnam as seguintes condições:
 
@@ -200,17 +252,23 @@ c) Tenham sido considerados Aptos na prova de aptidão vocacional específica.
 
 4 - Poderão ser dispensados da prestação de provas de admissão nas componentes de improvisação, diálogo e monólogo (componentes A, B e C) os candidatos que possuam habilitação ao nível do curso complementar ou profissional (nível iv) do ensino específico de Teatro. Os candidatos que reúnam estas condições terão de efetuar a entrevista (componente D) e apresentar atempadamente prova documental das suas habilitações. A classificação obtida, comprovada por via documental, será usada nas componentes A, B e C para a obtenção da classificação final da avaliação de capacidade para a frequência do curso.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos [Decretos-Leis n.os 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de fevereiro, [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela [Declaração de Retificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de junho, e [11/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), de 2 de abril.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A candidatura é apresentada online na plataforma académica da ESEC.
 
 2 - O prazo para a realização da candidatura é fixado nos termos do artigo 11.º do presente Regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -220,7 +278,9 @@ b) ...
 
 c) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +294,9 @@ d) ...
 
 2 - O certificado referido na alínea b) do n.º 1 pode ser temporariamente substituído por declaração do candidato, comprometendo-se a apresentá-lo até cinco dias úteis antes da data marcada para a publicação do aviso com os resultados finais do concurso, sob pena de indeferimento liminar do pedido.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +310,9 @@ d) Expressamente infrinjam alguma das regras fixadas no presente Regulamento.
 
 2 - O indeferimento liminar nos termos do número anterior é da competência do presidente da ESEC e deve ser fundamentado.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A organização da prova de aptidão vocacional específica é da competência de um júri designado pelo presidente da ESEC, ouvido o Conselho Técnico-Científico.
 
@@ -262,7 +326,9 @@ b) Fixar os critérios de avaliação a adotar;
 
 c) Garantir a normal execução das provas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Até 30 dias antes da realização da prova de aptidão vocacional específica, o presidente da ESEC promoverá a divulgação de edital indicando, designadamente:
 
@@ -280,7 +346,9 @@ f) Os fatores de seriação a que se refere o artigo 13.º
 
 2 - O edital referido no número anterior será divulgado na página web da ESEC e/ou em outros locais ou suportes eletrónicos julgados convenientes, em conformidade com as normas vigentes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -296,7 +364,9 @@ d) Na classificação do ensino secundário.
 
 3 - A divulgação pública da seleção será feita nos prazos fixados nos termos do artigo 23.º do presente Regulamento, em lista afixada na plataforma ESEC, conforme definido no n.º 2 do artigo 18.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura.
 
@@ -314,15 +384,21 @@ S = Classificação final do ensino secundário.
 
 3 - As classificações referidas no número anterior devem ser consideradas numa escala de 0 a 200 pontos, para o que, caso necessário, devem efetuar-se as devidas conversões.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 A colocação dos candidatos nas vagas fixadas é feita pela ordem numérica decrescente da lista seriada elaborada nos termos do artigo anterior.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da ESEC.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O resultado final é tornado público na plataforma da ESEC no prazo previamente fixado nos termos do artigo 23.º do presente Regulamento.
 
@@ -336,7 +412,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os candidatos podem apresentar reclamação fundamentada relativamente:
 
@@ -354,7 +432,9 @@ b) À classificação final obtida no âmbito do processo de seleção e seriaç
 
 6 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -364,11 +444,15 @@ b) ...
 
 2 - A decisão a que se refere o número anterior é da competência do presidente da ESEC.
 
-###### Artigo 22.º — Comunicação à Direção-Geral do Ensino Superior
+Artigo 22.º
+
+Comunicação à Direção-Geral do Ensino Superior
 
 Findo o prazo de matrícula e inscrição, a ESEC/IPC enviará à Direção-Geral do Ensino Superior uma lista onde constem todos os estudantes que procederam à mesma, com indicação do nome e número do documento de identificação.
 
-###### Artigo 23.º — Prazos
+Artigo 23.º
+
+Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da ESEC em edital, devendo ser tornados públicos de acordo com os procedimentos e normas em uso.»
 
@@ -404,7 +488,7 @@ D = Entrevista.»
 
 2 - As alterações aprovadas pela presente portaria produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022-2023, inclusive.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 22 de abril de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 22 de abril de 2022.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -669,3 +753,5 @@ Findo o prazo de matrícula e inscrição, a ESEC/IPC enviará à Direção-Gera
 ###### Artigo 23.º — Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da ESEC em edital, devendo ser tornados públicos de acordo com os procedimentos e normas em uso.
+
+115374298

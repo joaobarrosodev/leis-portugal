@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/2012/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2012-178480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1284ae47a7e059b65b3a1e6bce3c18d82a3ac645f0bf83da67ab053e0802aea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fa74cf8083f0f7d3fc6c5994c38f48bb0923353ebf74d37b7c5d8db0a317115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
+- Cascais
 - Recursos Hídricos
 - Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
-- Cascais
 relationships:
 - type: amended_by
   target: pt:dre:483950:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483950:por
+  label: "Alteradas as coordenadas da captação 47 do polo de captação de Malveira da Serra - Vale de Cavalos constantes do\
+    \ anexo I e as coordenadas dos vértices de referência da zona de proteção imediata das captações PS1 e PS2 do polo de\
+    \ captação de Cardosas constantes do anexo II, pela PORT.358/2013.12.12.2013.MAOTE, DR.IS [241] de 12.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2013-483950
+  date: '2013-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:50Z'
   warnings: []
   errors: []
 ---
@@ -242,109 +261,109 @@ As zonas de proteção intermédia e alargada, respeitantes aos perímetros de p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 30 de maio de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 30 de maio de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
 Zona de proteção imediata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Atrozela
 
 Captações Furo 1 e JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Captação Furo 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Captação JK4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pau Gordo
 
 Captação RA2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Biscaia
 
 Captação RA5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pisão
 
 Captação RA6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cardosas
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Murches
 
 Captação RA7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cobre
 
 Captação RA8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pau Gordo
 
 Captação RA2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pisão
 
 Captações Mina 1 e Mina 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Murches
 
 Captação RA7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cobre
 
 Captação RA8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Malveira da Serra - Vale de Cavalos
 
 Minas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -354,25 +373,25 @@ Polo de captação de Atrozela
 
 Captações Furo 1, Furo 2, JK1, JK2 e JK4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pau Gordo
 
 Captação RA2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Biscaia
 
 Captação RA5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pisão
 
 Captação RA6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 As zonas de proteção intermédia e alargada da Mina 1 e da Mina 2 são coincidentes.
 
@@ -382,19 +401,19 @@ Polo de captação de Cardosas
 
 Captações PS1 e PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Murches
 
 Captação RA7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cobre
 
 Captação RA8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Malveira da Serra - Vale de Cavalos
 
@@ -410,32 +429,32 @@ Extrato da Carta Militar de Portugal Série M888 - 1/25 000 (IGeoE)
 
 Polo de captação de Atrozela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pau Gordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Biscaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Pisão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cardosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Murches
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Cobre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
 
 Polo de captação de Malveira da Serra - Vale de Cavalos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13000/0349903507.pdf)

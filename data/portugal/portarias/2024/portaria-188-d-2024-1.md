@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15701/0003200051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/188-d/2024/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-d-2024-877330488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3901c550134fdc7d40dac20e8e39274f416dbf82730bd60d5ca3bfd0110283aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd9e91b1b74b44eba59ff1290aedded0ffcea9e761af350893f50487ef4ba75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Formação Profissional
-- Regulamentação de Atos Legislativos
 - Ensino Médico
+- Formação Profissional
 - Internato Médico
+- Médico
 - Programa de Formação
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:28/2011
+  label: Atualiza o programa de formação especializada em imunoalergologia aprovado pela Portaria n.º 28/2011, de 10 de janeiro,
+    Diário da República n.º 6/2011, Série I
+  source: null
+  date: '2011-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2018/02/26/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/327/1996/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/327/1996/08/02/p/dre
+- type: cites
+  target: pt:dre:114766032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115730616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:15Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +155,7 @@ A aplicação e desenvolvimento do programa de formação compete aos órgãos e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Saúde, Ana Paula Mecheiro de Almeida Martins Silvestre Correia, em 9 de agosto de 2024.**
+A Ministra da Saúde, Ana Paula Mecheiro de Almeida Martins Silvestre Correia, em 9 de agosto de 2024.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -964,39 +986,39 @@ g) Indicações para cirurgia do tecido linfoide.
 
 6.14.1 - Desempenhos mínimos a desenvolver quanto a procedimentos assistenciais com o objetivo de adquirir experiência suficiente quanto à interpretação, fundamentos, indicações, limites, sensibilidade, especificidade, valor preditivo, fatores de erro e relação risco-benefício dos vários procedimentos. Realização, interpretação e supervisão de procedimentos da tabela seguinte:
 
-| Procedimentos | Estágios de imunoalergologia | Estágios de imunoalergologia | Estágios de imunoalergologia | Estágios de imunoalergologia | Estágios de imunoalergologia | Estágios de imunoalergologia |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Geral | Grupos Ped I | Adulto I | Adulto I | Grupos Ped II | Adulto II |
-| N.º de consultas - acompanhamento com o especialista | 300<sup>a</sup> | 300<sup>a</sup> | 300<sup>a</sup> | 300<sup>a</sup> | 250<sup>b</sup> | 250<sup>b</sup> |
-| N.º de doentes - acompanhamento personalizado (primeiras consultas e de seguimento, sob supervisão do especialista) | - | Grupos pediátricos - 250Adultos - 250 | Grupos pediátricos - 250Adultos - 250 | Grupos pediátricos - 250Adultos - 250 | Grupos pediátricos - 250Adultos - 250 | Grupos pediátricos - 250Adultos - 250 |
-| Provas de sensibilidade cutânea | Geral | Grupos Ped I | Adulto I | Adulto I | Grupos Ped II | Adulto II |
-| Testes por picada | 150<sup>c</sup> | 100<sup>c</sup> | 100<sup>c</sup> | 100<sup>c</sup> | 200<sup>cd</sup> | 200<sup>cd</sup> |
-| Testes intradérmicos | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 30<sup>cd</sup> |
-| Testes de contacto | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> |
-| Provas de provocação com estímulos físicos | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 10<sup>cd</sup>; Adultos - 20<sup>cd</sup> |
-| Provas de provocação nasal e/ou conjuntival | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 20<sup>cd</sup>; Adultos - 20<sup>cd</sup> |
-| Provas de provocação oral |  |  |  |  |  |  |
-| Alimentos | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 20<sup>cd</sup> |
-| Fármacos | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> | Grupos pediátricos - 40<sup>cd</sup>; Adultos - 40<sup>cd</sup> |
-| Provas de provocação injetável | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> | Grupos pediátricos - 5<sup>cd</sup>; Adultos - 5<sup>cd</sup> |
-| Provas de função respiratória |  |  |  |  |  |  |
-| Basais | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> |
-| Prova de broncodilatação | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> | Grupos pediátricos - 50<sup>c</sup>; 500<sup>cd</sup>; Adultos - 50<sup>c</sup>; 500<sup>cd</sup> |
-| Prova de provocação brônquica inespecífica | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> | Grupos pediátricos - 50<sup>cd</sup>; Adultos - 50<sup>cd</sup> |
-| Prova de provocação brônquica específica | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional |
-| Prova de exercício físico | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional | Grupos pediátricos - 30<sup>cd</sup>; Adultos - opcional |
-| Imunoterapia específica com alergénios subcutânea | Geral | Grupos Ped I | Grupos Ped I | Adulto I | Grupos Ped II | Adulto II |
-| Esquema convencional | 100<sup>e</sup> | 100<sup>e</sup> | 100<sup>e</sup> | 100<sup>e</sup> | 400<sup>f</sup> | 400<sup>f</sup> |
-| Esquemas rush e ultra-rush | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> | Grupos pediátricos - 40<sup>f</sup>; Adultos - 40<sup>f</sup> |
-| Aplicação de Imunoterapia específica com alergénios sublingual por método rush | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> | Grupos pediátricos e/ou Adultos - 5<sup>f</sup> |
-| Administração de terapêuticas biológicas ou outras | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> | Grupos pediátricos - 10<sup>e</sup>; Adultos - 30<sup>e</sup> |
-| Indução de tolerância/dessensibilização |  |  |  |  |  |  |
-| Alimentos | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional | Grupos pediátricos - 10<sup>f</sup>; Adultos - opcional |
-| Fármacos | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> | Grupos Pediátricos - opcional; Adultos - 10<sup>f</sup> |
+| Procedimentos | Estágios de imunoalergologia |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Geral | Grupos Ped I | Adulto I | Grupos Ped II | Adulto II |
+| N.º de consultas - acompanhamento com o especialista | 300a | 300a | 300a | 250b | 250b |
+| N.º de doentes - acompanhamento personalizado (primeiras consultas e de seguimento, sob supervisão do especialista) | - | Grupos pediátricos - 250Adultos - 250 |  |  |  |
+| Provas de sensibilidade cutânea | Geral | Grupos Ped I | Adulto I | Grupos Ped II | Adulto II |
+| Testes por picada | 150c | 100c | 100c | 200cd | 200cd |
+| Testes intradérmicos | Grupos pediátricos - 20cd; Adultos - 30cd |  |  |  |  |
+| Testes de contacto | Grupos pediátricos - 10cd; Adultos - 20cd |  |  |  |  |
+| Provas de provocação com estímulos físicos | Grupos pediátricos - 10cd; Adultos - 20cd |  |  |  |  |
+| Provas de provocação nasal e/ou conjuntival | Grupos pediátricos - 20cd; Adultos - 20cd |  |  |  |  |
+| Provas de provocação oral |  |  |  |  |  |
+| Alimentos | Grupos pediátricos - 40cd; Adultos - 20cd |  |  |  |  |
+| Fármacos | Grupos pediátricos - 40cd; Adultos - 40cd |  |  |  |  |
+| Provas de provocação injetável | Grupos pediátricos - 5cd; Adultos - 5cd |  |  |  |  |
+| Provas de função respiratória |  |  |  |  |  |
+| Basais | Grupos pediátricos - 50c; 500cd; Adultos - 50c; 500cd |  |  |  |  |
+| Prova de broncodilatação | Grupos pediátricos - 50c; 500cd; Adultos - 50c; 500cd |  |  |  |  |
+| Prova de provocação brônquica inespecífica | Grupos pediátricos - 50cd; Adultos - 50cd |  |  |  |  |
+| Prova de provocação brônquica específica | Opcional |  |  |  |  |
+| Prova de exercício físico | Grupos pediátricos - 30cd; Adultos - opcional |  |  |  |  |
+| Imunoterapia específica com alergénios subcutânea | Geral | Grupos Ped I | Adulto I | Grupos Ped II | Adulto II |
+| Esquema convencional | 100e | 100e | 100e | 400f | 400f |
+| Esquemas rush e ultra-rush | Grupos pediátricos - 40f; Adultos - 40f |  |  |  |  |
+| Aplicação de Imunoterapia específica com alergénios sublingual por método rush | Grupos pediátricos e/ou Adultos - 5f |  |  |  |  |
+| Administração de terapêuticas biológicas ou outras | Grupos pediátricos - 10e; Adultos - 30e |  |  |  |  |
+| Indução de tolerância/dessensibilização |  |  |  |  |  |
+| Alimentos | Grupos pediátricos - 10f; Adultos - opcional |  |  |  |  |
+| Fármacos | Grupos Pediátricos - opcional; Adultos - 10f |  |  |  |  |
 
-Consultas: imunoalergologia geral<sup>a</sup> ou específicas<sup>b</sup>de patologias.
+Consultas: imunoalergologia gerala ou específicasbde patologias.
 
-Procedimentos: realizaçãoc e interpretação<sup>d</sup> pelo médico interno, sob supervisão do especialista; monitorização<sup>e</sup> ou aplicação e monitorização f pelo médico interno, sob supervisão do médico especialista.
+Procedimentos: realizaçãoc e interpretaçãod pelo médico interno, sob supervisão do especialista; monitorizaçãoe ou aplicação e monitorização f pelo médico interno, sob supervisão do médico especialista.
 
 6.14.2 - Desempenhos mínimos a desenvolver durante a formação especializada relativamente à atividade científica.
 
@@ -1026,7 +1048,7 @@ d) Relações humanas no trabalho, avaliação da comunicação (com o doente e 
 
 A avaliação do nível de conhecimentos só tem lugar no caso em que tenha sido obtida uma avaliação não inferior a 10 na componente de desempenho individual. Tem o objetivo de classificação e aconselhamento do médico Interno sobre a evolução dos conhecimentos. É efetuada no serviço de colocação do médico interno. É realizada pelo diretor de serviço (ou em quem o mesmo delegar, desde que este detenha a especialidade a que corresponde o programa de formação especializada do médico interno em avaliação), pelo orientador de formação e por outro especialista qualificado. Ocorre no final de cada um dos estágios, podendo ser diferida e integrar a avaliação anual. A avaliação de conhecimentos tem uma periodicidade no mínimo anual.
 
-A avaliação de conhecimentos, com a exceção dos n.<sup>os</sup>7.2.1., constará de:
+A avaliação de conhecimentos, com a exceção dos n.os7.2.1., constará de:
 
 a) Apreciação e discussão do relatório de atividades do estágio efetuado pelo médico interno;
 
@@ -1071,3 +1093,5 @@ b) Classificação final da avaliação contínua com uma ponderação de 40 % d
 10.2 - O novo programa de formação poderá abranger os médicos internos já em formação na primeira metade da formação especializada do internato médico de imunoalergologia e neste caso, deverão os interessados entregar na direção do internato do seu hospital, no prazo de três meses a partir da publicação da presente portaria, uma declaração em que conste a sua pretensão, com concordância averbada dos respetivos diretor de serviço e orientador de formação, desde que a opção não implique o aumento de tempo de duração da formação especializada.
 
 10.3 - As regras da avaliação final previstas no anterior n.º 9 aplicam-se aos médicos internos que se encontrem a frequentar a primeira metade da formação especializada do internato médico.
+
+118015967

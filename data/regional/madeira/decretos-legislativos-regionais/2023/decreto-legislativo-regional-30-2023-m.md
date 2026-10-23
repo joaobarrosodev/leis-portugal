@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14400/0010500107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2023/07/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 568d65597ffcb41cda889ffa52191f709ac611c8f3a3ed0464011cf8b2394704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02b7b32f82e8913894c9be305cf0effb902a597d598115e571c3a785b379fc3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Carreira Profissional
 - Educador de Infância
+- Ensino Básico
 - Estatuto
 - Estatuto da Carreira Docente
-- Sistema Retributivo
-- Carreira Profissional
+- Horário de Trabalho
+- Madeira.região Autónoma
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
-- Horário de Trabalho
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre
@@ -119,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/d
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/d
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:46Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +239,9 @@ c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 anos 
 
 7 - [Revogado.]
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
@@ -233,10 +287,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 24 de julho de 2023.**
+Assinado em 24 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116711372

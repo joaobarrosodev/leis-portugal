@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16600/0002500034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/269/2023/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-2023-220949541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09c1fa7925134d0ea5f24bf30a27620e82914dae7c027ffaffe63a411584ba48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d03c1bfbb999c2fa37a2fcb0937919c0a1e978df5181d94c2030a58eaff9ad55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto da Segurança Social
-- Lares
+- Centro de Acolhimento
 - Centro de Actividades de Tempos Livres
+- Centro de Actividades Ocupacionais
+- Centro de Apoio Social
 - Centro de DIA
+- Comunidade de Inserção
 - Construção Civil
-- Obras Particulares
-- Urbanização
-- Obras de Conservação e Restauro
 - Direcção Técnica
 - Equipamento Social
 - Fiscalização
-- IPSS
-- Habitação Social
-- Jovem
-- Centro de Acolhimento
-- Licenciamento
-- Centro de Actividades Ocupacionais
-- Normas de Segurança
-- Prestação de Serviços
-- Inserção Social
-- Propriedade Privada
 - Habitação
+- Habitação Colaborativa
+- Habitação Colaborativa e Comunitária
+- Habitação Social
+- Inserção Social
+- Instituto da Segurança Social
+- IPSS
+- Jovem
+- Lares
+- Licenciamento
+- Normas de Segurança
+- Obras de Conservação e Restauro
+- Obras Particulares
+- Prestação de Serviços
+- Propriedade Privada
 - Segurança das Instalações
 - Segurança Social
-- Comunidade de Inserção
-- Centro de Apoio Social
-- Habitação Colaborativa e Comunitária
-- Habitação Colaborativa
+- Urbanização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
@@ -116,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301/2019/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301/2019/09/12/p/dre
+- type: cites
+  target: pt:dre:123279819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124642990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:17Z'
   warnings: []
   errors: []
 ---
@@ -512,4 +532,6 @@ c) Ser assegurada a eliminação das barreiras físicas que dificultem ou imposs
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de agosto de 2023.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de agosto de 2023.
+
+116798943

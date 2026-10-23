@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/482-a/2025/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fde97ca963f7eb43a4e9dc0da01ea370d16ef709ccea8463c1759dc595a854d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 797ed2d7b5199e4bab12d85a30bc31d2ec525bef240c4b1f6e96cb1ec11243e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
+- Algodão
 - Financiamento
-- Regulamentação de Atos Legislativos
+- Fruticultura
 - Fundos CE
-- Pagamento
 - IFAP
+- Pagamento
+- Pecuária
+- Plano Estratégico da Política Agrícola Comum para Portugal
 - Política Agrícola Comum
 - Regime de Apoio
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Fruticultura
-- Pecuária
-- Agricultura
-- Algodão
 - Vinha
-- Plano Estratégico da Política Agrícola Comum para Portugal
 relationships:
 - type: amended_by
   target: pt:dre:1062753817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:54-D/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 27.º, 29.º (este com efeitos a 1 de janeiro de 2025)
+    e 31.º, e adita, com efeitos a partir de 1 de janeiro de 2026, o anexo iv à Portaria n.º 54-D/2023, de 27 de fevereiro,
+    Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-E/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 25.º, 33.º, 55.º (este com efeitos a 1 de janeiro
+    de 2025) e 57.º (o n.º 4 deste com efeitos a 1 de janeiro de 2025) e o anexo xiv, e adita, com efeitos a partir de 1 de
+    janeiro de 2026, o artigo 56.º-A e o anexo xvi à Portaria n.º 54-E/2023, de 27 de fevereiro, Diário da República n.º 41/2023,
+    1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-I/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 3.º, 29.º, 35.º e 37.º (este com efeitos a 1 de
+    janeiro de 2025) e o anexo vii, e adita, com efeitos a partir de 1 de janeiro de 2026, os artigos 18.º-A e 38.º-A e o
+    anexo x à Portaria n.º 54-I/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-Q/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, o artigo 3.º da Portaria n.º 54-Q/2023, de 27 de fevereiro,
+    Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -137,16 +163,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/80-c/2024/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/80-c/2024/03/04/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213761245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222939646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536096:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1062753817:por
+  label: Retificados os anexos i e iii pelo(a) Declaração de Retificação n.º 9/2026/1 - Diário da República n.º 41/2026, Série
+    I de 2026-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/9-2026-1062753817
+  date: '2026-02-27'
 article_structure:
-  article_count: 22
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:04Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +259,7 @@ Na [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54
 
 Verificou-se, ainda, necessário proceder à alteração das disposições referentes às reduções e exclusões do apoio no âmbito das referidas portarias, assegurando uma maior proporcionalidade das sanções, sem prejuízo do seu efeito dissuasor, com efeitos a 1 de janeiro de 2025, o que exige a manutenção à referência a «direitos ao pagamento». É ainda de salientar que referências a «direitos ao pagamento», em outras disposições para além das atrás referidas, apesar de não terem aplicação nos anos 2026 e seguintes, permanecem no diploma por terem aplicação para efeitos dos anos de 2023 a 2025.
 
-Ainda no que respeita às Portarias n.<sup>os</sup>[54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), [54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899) e [54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), num contexto de uma gestão administrativa das dotações financeiras das intervenções são agora divulgados, no que aos montantes unitários médios, mínimos e máximos, ao nível de cada intervenção ou grupo de pagamento, com o objetivo do cumprimento do quadro de desempenho.
+Ainda no que respeita às Portarias n.os[54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), [54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899) e [54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), num contexto de uma gestão administrativa das dotações financeiras das intervenções são agora divulgados, no que aos montantes unitários médios, mínimos e máximos, ao nível de cada intervenção ou grupo de pagamento, com o objetivo do cumprimento do quadro de desempenho.
 
 Nestes termos, cumpre adaptar em conformidade as normas nacionais de aplicação das intervenções mencionadas anteriormente.
 
@@ -195,7 +275,7 @@ a) Sexta alteração da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/d
 
 b) Décima alteração da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, que estabelece o regime de aplicação dos apoios a conceder no domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
 
-c) Quarta alteração da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup> [147-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), de 30 de maio, [314/2023](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), de 19 de outubro, e [80-C/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), de 4 de março, que estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal, no continente;
+c) Quarta alteração da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, alterada pelas Portarias n.os [147-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), de 30 de maio, [314/2023](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), de 19 de outubro, e [80-C/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), de 4 de março, que estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal, no continente;
 
 d) Quinta alteração da [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, na sua redação atual, que estabelece a nomenclatura das ocupações culturais, os elementos lineares e de paisagem a integrar na área útil da subparcela agrícola, as regras de elegibilidade da superfície agrícola, os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras.
 
@@ -213,7 +293,9 @@ Os artigos 27.º, 29.º e 31.º da [Portaria n.º 54-D/2023](https://diariodarep
 
 3 - Para o ano de 2026, os montantes unitários indicativos médios, mínimos e máximos das intervenções de apoios dissociados encontram-se previstos no anexo iv à presente portaria, da qual faz parte integrante.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 [...]
 
@@ -255,7 +337,9 @@ iv) Se a diferença entre a superfície candidata e a superfície determinada fo
 
 4 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, na sua redação atual.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -285,7 +369,9 @@ Os artigos 25.º, 33.º, 55.º e 57.º da [Portaria n.º 54-E/2023](https://diar
 
 5 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O montante do apoio a conceder na presente secção é indicativo, no valor de 112,50 euros por hectare de culturas temporárias, culturas permanentes ou prados e pastagens permanentes sem predominância de vegetação arbustiva com valorização agrícola de efluentes pecuários, ou através da incorporação de biorresíduos de origem agrícola.
 
@@ -293,7 +379,9 @@ Os artigos 25.º, 33.º, 55.º e 57.º da [Portaria n.º 54-E/2023](https://diar
 
 3 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -325,7 +413,9 @@ c) Se a diferença entre a superfície candidata e a superfície determinada for
 
 9 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, na sua redação atual.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -377,7 +467,9 @@ e) [...]
 
 f) ‘Falsa sementeira’, a preparação do canteiro tal como seria efetuada para proceder à sementeira normal, incluindo as operações usuais de mobilização e rega, mas sem a realizar, induzindo a germinação de infestantes, com posterior eliminação dos mesmos exclusivamente através de ação mecânica.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 a) [...]
 
@@ -387,7 +479,9 @@ c) Efetue entregas de leite ou produtos lácteos, durante o período de retenç�
 
 d) Comercialize a sua produção de carne através de uma OP reconhecida do setor da carne.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -401,7 +495,9 @@ d) Comercialize a sua produção de carne através de uma OP reconhecida do seto
 
 6 - No caso do pagamento à multiplicação de sementes certificadas, o valor unitário indicativo é majorado em 20 %, face ao previsto no anexo vii da presente portaria, da qual faz parte integrante, se a semente certificada for produzida em modo de produção biológico, certificado por organismo de certificação e controlo.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -471,7 +567,9 @@ Regeneração produtiva dos arrozais
 
 2 - Para efeitos do número anterior, a área de subparcelas de pousio, candidata no PU do ano em causa, não pode ser superior a 33 % do total da superfície elegível ao pagamento ao arroz.
 
-###### Artigo 38.º-A — Gestão financeira
+Artigo 38.º-A
+
+Gestão financeira
 
 Para efeitos de aplicação das disposições de gestão financeira definidas no capítulo ii da [Portaria n.º 54-P/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-p-2023-207942910) são definidos ao nível de intervenção ou grupo de pagamento no anexo x os montantes unitários indicativos médio, mínimo e máximo.»
 
@@ -507,7 +605,7 @@ b) Artigo 55.º e n.º 4 do artigo 57.º da [Portaria n.º 54-E/2023](https://di
 
 c) Artigo 37.º da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 28 de dezembro de 2025.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 28 de dezembro de 2025.
 
 ## ANEXO I — (a que se refere o artigo 8.º)
 
@@ -562,12 +660,12 @@ Montantes unitários indicativos, médios, mínimo e máximo
 
 (a que se refere o artigo 35.º)
 
-| Apoio ao rendimento base, por hectare elegível: | Apoio ao rendimento base, por hectare elegível: | Apoio ao rendimento base, por hectare elegível: |
+| Apoio ao rendimento base, por hectare elegível: |  |  |
 | --- | --- | --- |
 | Montante médio indicativo (€)107,96 | Montante mínimo indicativo (€)80,97 | Montante máximo indicativo (€)134,95 |
-| Pagamento aos pequenos agricultores: | Pagamento aos pequenos agricultores: |  |
+| Pagamento aos pequenos agricultores: |  |  |
 | Montante médio indicativo (€)770,00 | Montante mínimo indicativo (€)577,50 | Montante máximo indicativo (€)962,50 |
-| Apoio redistributivo ao rendimento, por hectare elegível: | Apoio redistributivo ao rendimento, por hectare elegível: | Apoio redistributivo ao rendimento, por hectare elegível: |
+| Apoio redistributivo ao rendimento, por hectare elegível: |  |  |
 | Montante médio indicativo (€)120,00 | Montante mínimo indicativo (€)90,00 | Montante máximo indicativo (€)150,00» |
 
 ## ANEXO IV — (a que se refere o artigo 11.º)
@@ -578,22 +676,22 @@ Montantes unitários indicativos, médios, mínimo e máximo
 
 (a que se refere o artigo 56.º-A)
 
-| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: | Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: | Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: |
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: |  |  |
 | --- | --- | --- |
 | Montante médio indicativo (€)60,00 | Montante mínimo indicativo (€)25,00 | Montante máximo indicativo (€)94,88 |
-| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: | Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: | Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: |
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: |  |  |
 | Montante médio indicativo (€)36,00 | Montante mínimo indicativo (€)15,00 | Montante máximo indicativo (€)56,93 |
-| Gestão do solo - Promoção da fertilização orgânica: | Gestão do solo - Promoção da fertilização orgânica: | Gestão do solo - Promoção da fertilização orgânica: |
+| Gestão do solo - Promoção da fertilização orgânica: |  |  |
 | Montante médio indicativo (€)112,50 | Montante mínimo indicativo (€)112,50 | Montante máximo indicativo (€)200,00 |
-| Melhorar a eficiência alimentar animal para redução das emissões de GEE: | Melhorar a eficiência alimentar animal para redução das emissões de GEE: | Melhorar a eficiência alimentar animal para redução das emissões de GEE: |
+| Melhorar a eficiência alimentar animal para redução das emissões de GEE: |  |  |
 | Montante médio indicativo (€)22,00 | Montante mínimo indicativo (€)5,00 | Montante máximo indicativo (€)29,00 |
-| Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: | Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: | Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: |  |  |
 | Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)20,00 | Montante máximo indicativo (€)25,00 |
-| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: | Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: | Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: |  |  |
 | Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)22,00 | Montante máximo indicativo (€)25,00 |
-| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: | Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: | Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: |  |  |
 | Montante médio indicativo (€)29,00 | Montante mínimo indicativo (€)27,00 | Montante máximo indicativo (€)30,00 |
-| Práticas promotoras da biodiversidade: | Práticas promotoras da biodiversidade: | Práticas promotoras da biodiversidade: |
+| Práticas promotoras da biodiversidade: |  |  |
 | Montante médio indicativo (€)44,80 | Montante mínimo indicativo (€)31,36 | Montante máximo indicativo (€)58,24» |
 
 ## ANEXO V — (a que se refere o artigo 12.º)
@@ -604,24 +702,28 @@ Montantes unitários indicativos, médios, mínimo e máximo
 
 (a que se refere o artigo 38.º-A)
 
-| Pagamento vaca em aleitamento: | Pagamento vaca em aleitamento: | Pagamento vaca em aleitamento: |
+| Pagamento vaca em aleitamento: |  |  |
 | --- | --- | --- |
 | Montante médio indicativo (€)103,00 | Montante mínimo indicativo (€)77,25 | Montante máximo indicativo (€)128,75 |
-| Pagamento aos pequenos ruminantes: | Pagamento aos pequenos ruminantes: | Pagamento aos pequenos ruminantes: |
+| Pagamento aos pequenos ruminantes: |  |  |
 | Montante médio indicativo (€)21,00 | Montante mínimo indicativo (€)15,75 | Montante máximo indicativo (€)26,25 |
-| Pagamento leite de vaca: | Pagamento leite de vaca: | Pagamento leite de vaca: |
+| Pagamento leite de vaca: |  |  |
 | Montante médio indicativo (€)113,00 | Montante mínimo indicativo (€)84,75 | Montante máximo indicativo (€)141,25 |
-| Pagamento ao arroz: | Pagamento ao arroz: | Pagamento ao arroz: |
+| Pagamento ao arroz: |  |  |
 | Montante médio indicativo (€)387,00 | Montante mínimo indicativo (€)290,25 | Montante máximo indicativo (€)483,75 |
-| Pagamento ao tomate para indústria: | Pagamento ao tomate para indústria: | Pagamento ao tomate para indústria: |
+| Pagamento ao tomate para indústria: |  |  |
 | Montante médio indicativo (€)360,00 | Montante mínimo indicativo (€)270,00 | Montante máximo indicativo (€)450,00 |
-| Pagamento às proteaginosas: | Pagamento às proteaginosas: | Pagamento às proteaginosas: |
+| Pagamento às proteaginosas: |  |  |
 | Montante médio indicativo (€)65,00 | Montante mínimo indicativo (€)48,75 | Montante máximo indicativo (€)81,25 |
-| Pagamento aos cereais praganosos: | Pagamento aos cereais praganosos: | Pagamento aos cereais praganosos: |
+| Pagamento aos cereais praganosos: |  |  |
 | Montante médio indicativo (€)104,00 | Montante mínimo indicativo (€)78,00 | Montante máximo indicativo (€)130,00 |
-| Pagamento ao milho grão: | Pagamento ao milho grão: | Pagamento ao milho grão: |
+| Pagamento ao milho grão: |  |  |
 | Montante médio indicativo (€)275,00 | Montante mínimo indicativo (€)206,25 | Montante máximo indicativo (€)343,75 |
-| Pagamento ao milho silagem: | Pagamento ao milho silagem: | Pagamento ao milho silagem: |
+| Pagamento ao milho silagem: |  |  |
 | Montante médio indicativo (€)165,00 | Montante mínimo indicativo (€)123,75 | Montante máximo indicativo (€)206,25 |
-| Pagamento à multiplicação de sementes certificadas: | Pagamento à multiplicação de sementes certificadas: | Pagamento à multiplicação de sementes certificadas: |
+| Pagamento à multiplicação de sementes certificadas: |  |  |
 | Montante médio indicativo (€)125,00 | Montante mínimo indicativo (€)93,75 | Montante máximo indicativo (€)181,25» |
+
+119936201
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:17px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-collapse:collapse; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { text-align:justify; text-align-last:right; } .Tbl16 { border-collapse:collapse; border-width:1px; } .Tbl17 { min-height:18px; } .Tbl18 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:32px; } .Tbl20 { min-height:31px; } .Tbl21 { min-height:33px; }

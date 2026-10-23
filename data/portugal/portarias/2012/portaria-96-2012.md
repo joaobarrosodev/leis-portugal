@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/96/2012/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-2012-554378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0148d2310c15f5a4c2d4c4727e6202fa754cf031b3bb70ede4d443c8052a1862
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46027c4e6da7db961fe69995c8a9b3e31c0574c9a7d6c5e70357e4e4632d8ab0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Acreditação
 - Autoridade Nacional
-- Controlador de Tráfego Aéreo
-- Engenheiro
-- Escola de Condução
-- Direito de Estabelecimento
-- Livre Circulação de Pessoas
+- Comunicações
 - Condutor
+- Controlador de Tráfego Aéreo
+- Direito de Estabelecimento
+- Engenheiro
+- Equivalência de Diplomas
+- Escola de Condução
+- Livre Circulação de Pessoas
 - Obras Públicas
 - Ordem dos Engenheiros
 - Pessoal Navegante
 - Prestação de Serviços
 - Profissão Independente
 - Qualificação Profissional
-- Comunicações
-- Equivalência de Diplomas
 - Transporte
 relationships:
 - type: cites
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:31Z'
   warnings: []
   errors: []
 ---
@@ -145,6 +145,6 @@ A presente portaria entra em vigor no dia seguinte à sua publicação.
 
 Pelo Ministro da Economia e do Emprego, Sérgio Paulo Lopes da Silva Monteiro, Secretário de Estado das Obras Públicas, Transportes e Comunicações, em 30 de março de 2012.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06900/0174401745.pdf)

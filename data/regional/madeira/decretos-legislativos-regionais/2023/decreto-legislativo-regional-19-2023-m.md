@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09100/0006100067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2023/05/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41fda1b3eff36dfb8a67724a2e947f088ca70d6b26590c372365af02e27e6f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58993ffe8c8653408ef025df5f9cee77bf61d9f0adb6a721d2727c8fb6b1d539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - África do Sul
-- Reino Unido
+- Canadá
 - Caraíbas
-- Venezuela
 - Comunidades Portuguesas
-- Governo Regional
+- Conselho da Diáspora Madeirense
 - Cooperação
-- Definição de Competências
-- Emigrante
-- Presidente do Governo Regional
 - CPLP
-- Orgânica
+- Definição de Competências
 - Emigração
+- Emigrante
+- Fórum Madeira Global
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 - Política Cultural
 - Política Social
 - Presidente
-- Madeira.região Autónoma
-- Canadá
-- Fórum Madeira Global
-- Conselho da Diáspora Madeirense
+- Presidente do Governo Regional
+- Reino Unido
+- Venezuela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/39/2006/08/23/m/dre
@@ -107,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73416668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:43Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +189,9 @@ e) Tomar conhecimento da lista dos membros para o Conselho da Diáspora, propost
 
 f) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Podem participar no Fórum os emigrantes madeirenses e seus descendentes, maiores de 18 anos, residentes no estrangeiro ou regressados.
 
@@ -177,7 +199,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O Fórum reúne anualmente, em regra, entre junho e setembro, mediante anúncio público, a efetuar com a antecedência de 90 dias.
 
@@ -185,7 +209,9 @@ f) [...]
 
 3 - O anúncio referido no n.º 1, bem como a organização, o apoio técnico, financeiro e administrativo necessários ao normal funcionamento das reuniões do Fórum serão assegurados pelo departamento do Governo Regional com a tutela das Comunidades Madeirenses.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +219,9 @@ f) [...]
 
 3 - Pode o Conselho reunir em regime não presencial, com recurso a meios tecnológicos, sempre que assim se justifique.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O Conselho é composto pelos conselheiros efetivos, designados pelo Governo Regional, nos seguintes termos:
 
@@ -223,7 +251,9 @@ k) (Revogada.)
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O Conselho é convocado e presidido pelo Presidente do Governo Regional ou pelo responsável do departamento do Governo Regional com a tutela das Comunidades Madeirenses.
 
@@ -233,7 +263,9 @@ k) (Revogada.)
 
 4 - O apoio logístico, técnico, financeiro e administrativo necessário ao normal funcionamento do Conselho será assegurado pelo departamento do Governo Regional com a tutela das Comunidades Madeirenses.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os conselheiros tomam posse no primeiro dia de trabalhos do Conselho e o seu mandato coincide com a duração do mandato do Presidente que os nomeou, terminando com a tomada de posse daqueles que os substituam.»
 
@@ -251,11 +283,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de abril de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 9 de maio de 2023.**
+Assinado em 9 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -386,3 +418,5 @@ Os conselheiros tomam posse no primeiro dia de trabalhos do Conselho e o seu man
 ###### Artigo 12.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+116451013

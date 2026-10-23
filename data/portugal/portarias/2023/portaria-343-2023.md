@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21700/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/343/2023/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/343-2023-224017937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0937194173b358afa8f537ecc0b1b510b3b2cc0fa4bb6a8ed9b2e6e452f7d41e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1255a272dd36dbe69d227d359fda843aa1f0b269f0f836c706b96c019b557b10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
+- Agricultura
 - Agrupamento de Produtores
+- Ajuda Comunitária
+- Alteração Climática
 - Beneficiário
+- Clima
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
 - Fundos CE
-- Agricultura
-- Alteração Climática
-- Clima
 - Subsídio
 relationships:
 - type: cites
@@ -110,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/306/2019/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/306/2019/09/12/p/dre
+- type: cites
+  target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124642995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214618955:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:45Z'
   warnings: []
   errors: []
 ---
@@ -186,15 +210,15 @@ As organizações de produtores afetadas pelos acontecimentos meteorológicos ad
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2023 aos programas operacionais em execução durante 2023.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 3 de novembro de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 3 de novembro de 2023.
 
 ## ANEXO I — Limites das ações e medidas
 
 (a que se refere o artigo 5.º)
 
-|  |  |  |
+| Ações e medidas | Limite máximo (percentagem) | Limite mínimo<br>(percentagem) |
 | --- | --- | --- |
-| Ações e medidas | Limite máximo (percentagem) | Limite mínimo (percentagem) |
+|  |  |  |
 | Ações de planeamento da produção... | N. a. |  |
 | Ações de melhoria da qualidade dos produtos... | N. a. |  |
 | Ações destinadas a melhorar a comercialização... | N. a. |  |
@@ -207,8 +231,10 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação, produ
 | Outros tipos de ações... | N. a. |  |
 | Despesas gerais (1) ... | 2 % do FO (até 180 000(euro)). |  |
 | Despesas comuns às ações 2.2.6, 3.2.2., 4.2.3 e 7.9... | 40 |  |
-| Despesas com pessoal qualificado (2) ... | 36 838(euro)/técnico/ano - se for funcionário da OP. 3 683,80(euro)/técnico/ano - se não for funcionário da OP. |  |
+| Despesas com pessoal qualificado (2) ... | 36 838(euro)/técnico/ano - se for funcionário da OP.<br>3 683,80(euro)/técnico/ano - se não for funcionário da OP. |  |
 
 (1) Limites regulamentares.
 
 (2) Limite anual de custos reais com pessoal qualificado/assistência técnica, no programa operacional.
+
+117028382

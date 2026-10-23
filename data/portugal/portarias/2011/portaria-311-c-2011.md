@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 247/2011, 1º Suplemento, Série I de 2011-12-27
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5418-(19) a 5418-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24701/0001900021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/311-c/2011/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-c-2011-577694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bc2d22d772f9303b17826a2675395018697dd67fbd90262b8ee1e469713c66d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c99c0762b2a0fec856b57ca5b99112e9a5d5484b538c6e96e190e09730bf69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
 - Cobrança de Impostos
 - Código do IRS
-- Declaração de Rendimentos
-- Impresso
 - Contribuições e Impostos
-- IRS
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Habitação
+- Impresso
+- Instituição de Crédito
+- IRS
 - Plano Poupança-reforma
 - Prémio de Seguro
-- Habitação
 - Seguro de VIDA
 relationships:
 - type: amended_by
@@ -91,16 +91,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/2011/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/2011/01/25/p/dre
+- type: cites
+  target: pt:dre:280944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:189950:por
+  label: "Revogadas a partir de 01.01.2013 as instruções de preenchimento anexas, pela PORT.413/2012.17.12.2012.MF, DR.IS\
+    \ [243] de 17.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-2012-189950
+  date: '2012-12-17'
+- type: repealed_by
+  target: pt:dre:69778952:por
+  label: Revogado, a partir de 18.07.2015, o presente diploma, na redação da Port 413/2012 de 17-dez, pelo(a) Portaria n.º
+    201-A/2015 - Diário da República n.º 133/2015, 1º Suplemento, Série I de 2015-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-a-2015-69778952
+  date: '2015-07-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:50Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +165,6 @@ São revogadas as Portarias n.º 727/2008, de 11 de Agosto, e n.º 328-A/2011, d
 
 A presente portaria entra em vigor no dia 1 de Janeiro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de Dezembro de 2011.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 22 de Dezembro de 2011.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24701/0001900021.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24701/0001900021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24701/0001900021.pdf)

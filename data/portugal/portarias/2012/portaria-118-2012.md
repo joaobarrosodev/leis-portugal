@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/2012/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2012-553022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9f78e437329f455887b97aa388c8476876dc7721ce5cdda36413232ca36a44f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ddd80240bdea9fba59656a85bc2bbbb7894cde99bffe0020585ce512b68f348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Banca
 - Financiamento
 - Fundo de Estabilização Financeira da Segurança Social
-- Banca
 - Regulamento de Gestão
 - Segurança Social
 - Sistema Bancário
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1273/2004/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1273/2004/10/07/p/dre
+- type: cites
+  target: pt:dre:590479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638544:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:22Z'
   warnings: []
   errors: []
 ---

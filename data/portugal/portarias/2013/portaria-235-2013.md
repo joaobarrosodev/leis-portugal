@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235/2013/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6acfa34827f9e138a43ef210e42f776e33eea90bdc9bab0c8edde51e3b9485d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c7355d3fed5f51553324f1d1280b021c206d8dbf0df13de85c95050badff24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Instituto Nacional de Estatística
-- Ordenamento do Território
+- Câmara Municipal
 - Construção Civil
-- Obras Particulares
-- Urbanização
-- Definição de Competências
-- Informação
 - Dados Estatísticos
-- Licenciamento
-- Licenciamento de Obras
+- Definição de Competências
+- Estatística
+- Informação
+- Instituto Nacional de Estatística
 - Licença de Construção
 - Licença de Loteamento
+- Licenciamento
+- Licenciamento de Obras
 - Loteamento Urbano
-- Estatística
-- Câmara Municipal
+- Obras Particulares
+- Ordenamento do Território
+- Urbanização
 relationships:
 - type: cites
   target: celex:32007L0002
@@ -94,13 +94,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:18Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +159,7 @@ e) Alteração de utilização, que obedece às especificações do Anexo V.
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Secretário de Estado da Administração Local, António Egrejas Leitão Amaro, em 25 de junho de 2013. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 4 de julho de 2013.**
+O Secretário de Estado da Administração Local, António Egrejas Leitão Amaro, em 25 de junho de 2013. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 4 de julho de 2013.
 
 ## ANEXO I — Operações de loteamento com ou sem a realização de obras de urbanização
 

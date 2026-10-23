@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/2010/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2010-343173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4759b1b82f8332f9e4dd1a78aa9835969f6a4881845a4bd1be38b1e4eb6125f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 905f5fe35bc1a7ebb33192f5d9bc67f582bac53c3bcb7b97701d463ed6503f8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1512/2004/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1512/2004/12/31/p/dre
+- type: cites
+  target: pt:dre:350125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:47Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +144,4 @@ d) 25 % aos demais caçadores, conforme é referido na alínea d) do citado arti
 
 Esta portaria produz efeitos no dia 1 de Janeiro de 2011.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010.

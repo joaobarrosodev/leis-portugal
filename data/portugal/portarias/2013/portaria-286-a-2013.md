@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 178/2013, 1º Suplemento, Série I de 2013-09-16
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5862-(3) a 5862-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17801/0000300005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286-a/2013/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2013-204379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 388af27df994cf149c9a077e03dddf1059b0e70320904eea6cf95ac17f91ee08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98b978803dcddbc6c41d03df91b38e5796d69d770c41456f9e02fa7c8a897c50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Financiamento
-- Instituto do Emprego e Formação Profissional
 - Comissão Permanente de Concertação Social
+- Contrato de Trabalho
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
+- Emprego
 - Empresa de Trabalho Temporário
 - Entidade Patronal
-- Pagamento
+- Financiamento
 - Instituto de Informática
-- Criação de Emprego
+- Instituto do Emprego e Formação Profissional
 - Mercado de Emprego
-- Emprego
+- Pagamento
 - Promoção de Emprego
-- Contrato de Trabalho
 - Remuneração
 - Segurança Social
 - Subsídio
@@ -88,6 +88,11 @@ relationships:
   target: pt:dre:571061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571061:por
+  label: "Alterados os arts. 4.º, 7.º e 8.º pela PORT.17/2014.27.01.2014.MSESS, DR.IS [18] de 27.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-2014-571061
+  date: '2014-01-27'
 - type: cites
   target: eli:http://dat
   label: null
@@ -132,16 +137,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:570688:por
+  label: "Retificado o art. 1.º da Port 17/2014 de 27-jan, na parte que altera o n.º 1 do art. 4.º do presente diploma, pela\
+    \ DECL-RECT.5/2014.03.02.2014.PCM, DR.IS [23] de 03.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/5-2014-570688
+  date: '2014-02-03'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:34Z'
   warnings: []
   errors: []
 ---
@@ -300,4 +375,4 @@ O Incentivo é passível de financiamento comunitário, sendo-lhe aplicáveis as
 
 A presente Portaria vigora entre 1 de outubro de 2013 e 30 de setembro de 2015.
 
-**O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 13 de setembro de 2013.**
+O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 13 de setembro de 2013.

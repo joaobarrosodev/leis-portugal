@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/634/2010/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-2010-333488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a62ed31745999ce087ecd93193e7c6909ea792976fdd10875014cf3482a2de59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c7633a1f249b584e1e61021dec8a7a0e9316881221b3eb5627279616eaf3291
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Heráldica
-- Simbolo de Identificação
-- Regulamento
 - Fardamento
+- Heráldica
+- PSP
+- Regulamento
+- Simbolo de Identificação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/299/2009/10/14/p/dre
@@ -80,16 +80,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75784204:por
+  label: Revogada pelo(a) Portaria n.º 294/2016 - Diário da República n.º 224/2016, Série I de 2016-11-22 nos termos do seu
+    art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2016-75784204
+  date: '2016-11-22'
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:29Z'
   warnings: []
   errors: []
 ---
@@ -144,11 +162,13 @@ Sem prejuízo das excepções previstas no regulamento em anexo, a atribuição 
 
 3 - É revogada a [Portaria n.º 810/89](https://diariodarepublica.pt/dr/detalhe/portaria/810-1989-547581), de 13 de Setembro, bem como toda a legislação que contrarie o previsto no Regulamento de Fardamento do Pessoal com Funções Policiais da Polícia de Segurança Pública em anexo.
 
-**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 3 de Agosto de 2010.**
+O Secretário de Estado Adjunto e da Administração Interna, José Manuel Vieira Conde Rodrigues, em 3 de Agosto de 2010.
 
 REGULAMENTO DE FARDAMENTO DO PESSOAL COM FUNÇÕES POLICIAIS DA POLÍCIA DE SEGURANÇA PÚBLICA
 
-### CAPÍTULO I — Secção I
+### CAPÍTULO I
+
+#### Secção I
 
 Disposições gerais
 
@@ -388,7 +408,9 @@ c) Os elementos operacionais das subunidades da UEP têm ainda direito ao fornec
 
 d) Com excepção da boina e do emblema metálico da especialidade, todos os restantes artigos fornecidos por conta do Estado são devolvidos quando ocorra transferência da unidade.
 
-### CAPÍTULO II — Secção I
+### CAPÍTULO II
+
+#### Secção I
 
 Identificação, insígnias, distintivos e emblemas
 
@@ -542,62 +564,62 @@ As situações omissas serão objecto de despacho do director nacional da PSP.
 
 ## ANEXO I — Acessórios para boné e barrete
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO II — Uniformes
 
 Uniforme de gala
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de cerimónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de representação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de serviço operacional (USO 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de serviço operacional (USO 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de serviço operacional (USO 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Uniforme de instrução (UI)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Vestuário e equipamento de educação física e desporto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 Quadro de fardamento complementar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO III — Dotações a que se refere o n.º 1 do artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO IV — Dotações a que se refere o n.º 2 do artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO V — Artigos de fardamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO VI — Identificação, insígnias, distintivos e emblemas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
 
 ## ANEXO VII — Distintivos de postos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15300/0325903292.pdf)

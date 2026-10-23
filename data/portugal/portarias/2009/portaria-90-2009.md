@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01600/0049800498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/2009/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-2009-602977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c9bc0271bbcea4da79e0c5b1214b463f0e1a245de618e0087101ba788d72f6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a34a0170097709bd9e1944ba692eac0f7ed3cc20ad3c5e3c258e7c71ea76dda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beneficiário
-- Farmácia
 - Cartão de Cidadão
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
+- Farmácia
 - Medicamento
 - Preço de Venda
 - Receita Médica
 - Registo Nacional de Utentes
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:287808:por
@@ -96,16 +96,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3-b/2007/01/02/p/dre
+- type: cites
+  target: pt:dre:197495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287808:por
+  label: "Revogada, a partir de 01.07.2011, pela PORT.193/2011.13.05.2011.MS, DR.IS [93] de 13.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-2011-287808
+  date: '2011-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:58Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +175,4 @@ b) Nas receitas emitidas manualmente, através da vinheta da unidade pública de
 
 c) Nas receitas emitidas manualmente sem aposição da vinheta prevista na alínea anterior, através de declaração emitida pelo SNS ou do cartão de utente, até à sua integral substituição.»
 
-**O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 16 de Janeiro de 2009.**
+O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 16 de Janeiro de 2009.

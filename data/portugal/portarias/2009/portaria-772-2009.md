@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13900/0456304563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/772/2009/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-2009-492727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02799de9b97d36b15ce84dc8e9336f174b48d3d14b71f7fa6ed28d253e714a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f80912418e15a447a37a49999d4ecf4d7c08f0571dccc85b5cd5734438fc0566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desvalorização da Moeda
 - Contribuições e Impostos
-- IRS
+- Desvalorização da Moeda
 - IRC
-relationships: []
+- IRS
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:12Z'
   warnings: []
   errors: []
 ---
@@ -95,8 +103,8 @@ Assim:
 
 Manda o Governo, pelo Secretario de Estado dos Assuntos Fiscais, que os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2009, cujo valor deva ser actualizado nos termos dos artigos 44.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas e 50.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, para efeitos de determinação da matéria colectável dos referidos impostos, são os constantes do quadro anexo.
 
-**O Secretário de Estado dos Assuntos Fiscais, Carlos Manuel Baptista Lobo, em 14 de Maio de 2009.**
+O Secretário de Estado dos Assuntos Fiscais, Carlos Manuel Baptista Lobo, em 14 de Maio de 2009.
 
 ## ANEXO — Quadro de actualização dos coeficientes de desvalorização da moeda a que se referem os artigos 44.º do CIRC e 50.º do CIRS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13900/0456304563.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13900/0456304563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13900/0456304563.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/299/2012/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/299-2012-175799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77bc36888801587cfede934c647ad162a3cd6ba818de03026d988e4a85748409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc4fa1060c56c2435a8d2fc19d288d7457452106175646a4704329b17022ba1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - Arborização
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
-- Agricultura
+- Política Agrícola Comum
 - Política Florestal
 relationships:
 - type: amended_by
@@ -90,16 +90,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/199/1994/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/199/1994/04/06/p/dre
+- type: repealed_by
+  target: pt:dre:570751:por
+  label: "Revogado o art. 26.º da Port 199/94, de 06-abril, na redação do presente diploma, na parte em que se refere ao Regulamento\
+    \ (CEE) n.º 2080/92, do Conselho, de 30 de junho, pela PORT.32/2014.06.02.2014.MAGM, DR.IS [26] de 06.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-2014-570751
+  date: '2014-02-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:25Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +198,7 @@ O anexo C da Portaria n.º 199/94, de 6 de abril, passa a ter a redação consta
 
 2 - As alterações aos artigos 3.º, 7.º, 26.º e ao anexo C da Portaria n.º 199/94, de 6 de abril, introduzidas pela presente portaria, são também aplicáveis, quando mais favoráveis, e com as devidas adaptações, aos projetos florestais aprovados no âmbito das medidas florestais nas explorações agrícolas instituídas pelo Regulamento (CEE) n.º [2328/91](https://data.europa.eu/eli/reg/1991/2328/oj?locale=pt), do Conselho, de 15 de julho.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 18 de setembro de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 18 de setembro de 2012.
 
 ## ANEXO — (anexo C da Portaria n.º 199/94, de 6 de abril)
 
@@ -204,7 +210,7 @@ I
 
 Período de atribuição do prémio por perda de rendimento e densidades mínimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19000/0549105493.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19000/0549105493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19000/0549105493.pdf)
 
 II
 

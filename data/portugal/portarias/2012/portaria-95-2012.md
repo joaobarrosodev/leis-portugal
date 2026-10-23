@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2012/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2012-554385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95e464197c7732aba092a62400b89b759084596a9d08e609bbadb58348a03bd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 685d39e334ed8f582ee1ad86dff8bfbdd2bf3fa8cbd0efa95be97b3a981fe816
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Crédito ao Investimento
+- Criação de Emprego
 - Criação de Empresas
 - Desempregado
-- Projeto de Investimento
+- Financiamento
 - Jovem
-- Pagamento
 - JURO Bonificado
-- Criação de Emprego
+- Pagamento
 - Prestações da Segurança Social
+- Projeto de Investimento
 - Proteção no Desemprego
 relationships:
 - type: cites
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2010/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2010/03/04/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647296:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:31Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +159,9 @@ Os artigos 11.º-A, 11.º-B e 11.º-C da Portaria n.º 985/2009, de 4 de setembr
 
 7 - Os destinatários identificados nos n.os 1 e 2 do presente artigo constituem-se como promotores, nos termos do previsto no artigo 5.º, com a apresentação de um projeto.
 
-###### Artigo 11.º-B — [...]
+Artigo 11.º-B
+
+[...]
 
 1 - No âmbito do Programa Nacional de Microcrédito, os projetos apresentados pelos promotores identificados no artigo anterior beneficiam da tipologia MICROINVEST, referida na alínea a) do n.º 3 do artigo 9.º, com as especificidades constantes dos números seguintes.
 
@@ -159,7 +173,9 @@ Os artigos 11.º-A, 11.º-B e 11.º-C da Portaria n.º 985/2009, de 4 de setembr
 
 5 - Não podem beneficiar do Programa Nacional de Microcrédito as entidades que já tenham beneficiado anteriormente de apoio no âmbito das tipologias MICROINVEST ou INVEST+.
 
-###### Artigo 11.º-C — [...]
+Artigo 11.º-C
+
+[...]
 
 Os projetos apresentados pelos promotores identificados no artigo 11.º-A podem beneficiar de apoio técnico à sua criação e consolidação, nos termos do artigo 11.º, com as seguintes adaptações:
 
@@ -177,4 +193,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 27 de março de 2012.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins. - O Secretário de Estado da Solidariedade e da Segurança Social, Marco António Ribeiro dos Santos Costa.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins. - O Secretário de Estado da Solidariedade e da Segurança Social, Marco António Ribeiro dos Santos Costa.

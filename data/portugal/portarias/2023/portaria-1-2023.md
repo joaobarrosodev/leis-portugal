@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00100/0003500040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/2023/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-2023-205557201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84e689f8d4d30a705a58a62c562768ccb5bd4d9398e17c28eb684e85ad149ddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb75166fef5add29f9365c60271682f567444339e1360c535652a1adaa23ab14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Financiamento
-- Empresa
-- Celorico da Beira
-- Estabelecimento Comercial
-- Covilhã
 - Auxílio de Minimis
 - Catástrofe
+- Celorico da Beira
+- Comércio
+- Covilhã
+- Empresa
+- Estabelecimento Comercial
+- Financiamento
+- Fundo de Modernização do Comércio
 - Gouveia
+- Guarda
+- Incêndio
 - Incentivos ao Desenvolvimento
 - Investimento
+- Linha de Apoio à Valorização do Comércio
 - Manteigas
-- Fundo de Modernização do Comércio
 - Parque Natural da Serra da Estrela
+- Programa Transformar Comércio
 - Regulamento
 - Seia
-- Comércio
-- Guarda
-- Programa Transformar Comércio
-- Linha de Apoio à Valorização do Comércio
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -131,16 +131,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2022/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2022/09/27/p/dre
+- type: cites
+  target: pt:dre:200360506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:13Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +207,7 @@ Assim, nos termos [Resolução do Conselho de Ministros n.º 83/2022](https://di
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 27 de dezembro de 2022.**
+O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 27 de dezembro de 2022.
 
 ## ANEXO — REGULAMENTO ESPECÍFICO DA LINHA DE APOIO À VALORIZAÇÃO DO COMÉRCIO - PROGRAMA TRANSFORMAR COMÉRCIO
 
@@ -354,3 +386,5 @@ Os apoios atribuídos ao abrigo Programa Transformar Comércio não são acumul�
 ###### Artigo 16.º — Fonte de financiamento
 
 O presente Programa é financiado através de verbas do Fundo de Modernização do Comércio aprovado pela [Portaria n.º 1297/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1297-2005-465223), de 20 de dezembro, alterada pela [Portaria n.º 1359/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2006-545425), de 4 de dezembro.
+
+116014789

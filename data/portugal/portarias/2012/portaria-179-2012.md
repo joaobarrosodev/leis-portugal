@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/2012/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-2012-177775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec2f3de58d3855be05abacac8c83d5fdea6172110a25761f04610e45b11be3ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71f272b75b054e1ecf5a625485efb98a13ac0e720cd12fee755dc9a790a527b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:41Z'
   warnings: []
   errors: []
 ---
@@ -188,4 +196,4 @@ d) Relativamente à moeda «XX Aniversário da 'Série Ibero-Americana'» o limi
 
 3 - Do montante apurado nos termos do número anterior, 50 % é afeto à regularização de pagamentos junto do Tesouro pelo Comité Olímpico de Portugal e 50 % é afeto ao Instituto Português do Desporto e da Juventude, I. P., para financiamento dos custos de preparação e missão olímpicas nacionais.
 
-**A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, por delegação, em 22 de maio de 2012.**
+A Secretária de Estado do Tesouro e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, por delegação, em 22 de maio de 2012.

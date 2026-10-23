@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14900/0448004495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2017/08/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2017-107805902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5c57c8425300adfc9e90a86829786a57c26c5bdccdc03f68ec0d519a47d5a80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45fb0eb4d83d549d89a2d296180ef266cca94b3effe4c63f7e5d80df1c66e06f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
+- Administração Regional
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
+- BENS Imóveis
+- Conselho do Governo Regional
 - Contrato
 - Direcção Regional do Património
 - Gestão do Património
-- Conselho do Governo Regional
-- Pagamento
 - Instituto Público
-- Património do Estado
 - Madeira.região Autónoma
+- Pagamento
+- Património do Estado
 - Regime Jurídico
 - Registo Predial
-- Administração Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/257/1995/09/30/p/dre
@@ -121,16 +121,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 111
+  article_count: 105
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:12Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +223,9 @@ Os artigos 7.º, 8.º, 9.º, 10.º, 61.º, 82.º e 88.º do [Decreto Legislativo
 
 A aquisição onerosa do direito de propriedade ou de direitos reais de gozo sobre bens imóveis é precedida de uma consulta ao mercado realizada pelo serviço ou instituto público interessado.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +241,9 @@ A aquisição onerosa do direito de propriedade ou de direitos reais de gozo sob
 
 7 - O parecer favorável do serviço responsável pela área do património imobiliário previsto no presente artigo, não é aplicável nos casos em que os procedimentos identificados naquele normativo sejam promovidos por aquele e tenham sido objeto de autorização pelo respetivo dirigente máximo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -183,7 +251,9 @@ A aquisição onerosa do direito de propriedade ou de direitos reais de gozo sob
 
 3 - O parecer favorável do serviço responsável pela área do património imobiliário previsto no n.º 1 do presente artigo, não é aplicável nos casos em que os procedimentos sejam promovidos pelo serviço responsável pelo património e tenham sido objeto de autorização pelo dirigente máximo do serviço.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Na celebração dos contratos de aquisição previstos na presente subsecção, a Região Autónoma da Madeira é representada pelo membro do Governo Regional responsável pelo serviço ou pelo instituto público interessado na aquisição do imóvel.
 
@@ -191,17 +261,23 @@ A aquisição onerosa do direito de propriedade ou de direitos reais de gozo sob
 
 3 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
 2 - O pagamento em prestações não pode exceder 15 anos, sendo o período de pagamento e a periodicidade das prestações fixados em plano de pagamentos mediante autorização do membro do Governo responsável pela área do património.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 Sem prejuízo do disposto no artigo anterior, são aplicáveis subsidiariamente ao ajuste direto as regras constantes dos artigos 62.º a 71.º-A, com as devidas adaptações.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -247,11 +323,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 13 de julho de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 25 de julho de 2017.**
+Assinado em 25 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

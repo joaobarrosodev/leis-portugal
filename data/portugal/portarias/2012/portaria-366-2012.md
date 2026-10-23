@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21300/0634806350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/366/2012/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-2012-191517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78021299d2c9a9bc0eaf0d5a97d2863f9036cb77de364506d953051f46137730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6acd232d65e4bc71c7e8f83ed9bc5f32439a46a07917415b4fe1a1311f49a2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:178815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484378:por
+  label: "Revogada, a partir de 05.12.2013, pela PORT.351/2013.04.12.2013.PCM, DR.IS [235] de 04.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2013-484378
+  date: '2013-12-04'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:47Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +134,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 24 de outubro de 2012.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO FINANCEIRO PARA O DESENVOLVIMENTO REGIONAL, I. P.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/2013/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-2013-483964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 556430e47873beeffd22419816c29b067d86d02e213a129101f0e1395f4b6736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eea2cbc9b46a2397c9ae8e20111318f04cf17f4d995165022b9e9e813faa3b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Circunscrição Florestal
-- Lei de Bases
+- Exploração Florestal
 - Instituto da Conservação da Natureza e das Florestas
+- Lei de Bases
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
 - Plano Regional de Ordenamento Florestal
-- Regulamento
 - Política Florestal
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:307874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:03Z'
   warnings: []
   errors: []
 ---
@@ -379,4 +403,4 @@ O regulamento é acompanhado de uma carta síntese com representação gráfica 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de dezembro de 2013.**
+A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de dezembro de 2013.

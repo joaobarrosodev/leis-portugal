@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/23200/0661706623.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/349/2013/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-2013-484165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ddbc2e1bacdc5ed3677798b9000f7cae7612cc7db3e89df01a61dc7aa50464b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e4f4b22f77e7b7bfe4bca66ce718cb1ac15ceef9e26577360c0243c13a1b481
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
-- Licenciamento
 - Artes de Pesca
-- Regulamento
+- Licenciamento
+- Pesca
 - Pesca por ARTE de Arrasto
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:67142142:por
+  label: Alterado o n.º 1 do art.13.º-A do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port 1102-E/2000, de 22-nov,
+    na redação do presente diploma, pelo(a) Portaria n.º 122-A/2015 - Diário da República n.º 85/2015, 1º Suplemento, Série
+    I de 2015-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-a-2015-67142142
+  date: '2015-05-04'
+- type: amended_by
+  target: pt:dre:74334145:por
+  label: Alterado, para o ano de 2016, o período de interdição à pesca previsto no n.º 1 do art. 21.º do Regulamento da Pesca
+    por Arrasto, aprovado pela Port 1102-E/2000 de 22-nov, na versão republicada pela presente Portaria, pelo(a) Portaria
+    n.º 124-A/2016 - Diário da República n.º 86/2016, 1º Suplemento, Série I de 2016-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-a-2016-74334145
+  date: '2016-05-04'
+- type: amended_by
+  target: pt:dre:106434270:por
+  label: Alterados os arts. 10.º, 17.º e 21.º (este na redação da Port 124-A/2016 de 04-mai), bem como o Anexo do Regulamento
+    da Pesca por Arte de Arrasto, aprovado pela Port 1102-E/2000 de 22-nov na versão republicada pela presente portaria, pelo(a)
+    Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-2017-106434270
+  date: '2017-02-13'
+- type: amended_by
+  target: pt:dre:120847471:por
+  label: Alterados, a partir de 17.03.2019, os arts. 23.º e 26.º e o Anexo (este na redação da Port 66/2017 de 13-fev) do
+    Regulamento da Pesca por Arte de Arrasto aprovado pela Port 1102-E/2000 de 22-nov, na versão republicada do Regulamento
+    pelo presente diploma, pelo(a) Portaria n.º 77/2019 - Diário da República n.º 50/2019, Série I de 2019-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-2019-120847471
+  date: '2019-03-12'
 - type: cites
   target: celex:31987R0954
   label: null
@@ -84,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
 article_structure:
-  article_count: 35
+  article_count: 34
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:57Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +151,9 @@ Monitorização do esforço de pesca
 
 2 - As embarcações licenciadas para ganchorra na zona norte e na zona ocidental sul devem igualmente ter instalado a partir de 1 de abril de 2015, o sistema de seguimento em tempo real a que se refere o número anterior.
 
-###### Artigo 17.º — Características da ganchorra rebocada por embarcação
+Artigo 17.º
+
+Características da ganchorra rebocada por embarcação
 
 1 - [...].
 
@@ -167,7 +197,7 @@ O Regulamento da Pesca por Arte de Arrasto, com a redação resultante das alter
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 23 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 23 de outubro de 2013.
 
 ## ANEXO — [a que se refere o artigo 2.º]
 
@@ -471,4 +501,4 @@ Durante uma mesma viagem, as embarcações licenciadas para o exercício da pesc
 
 Classes de malhagens, espécies alvo e percentagens de captura exigidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23200/0661706623.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23200/0661706623.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23200/0661706623.pdf)

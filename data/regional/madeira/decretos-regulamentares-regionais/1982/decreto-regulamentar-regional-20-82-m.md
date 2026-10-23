@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1982-375396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f7dde3353ee123adff10c27094109a41350865487694e9f39629a6ac4181fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d99b9dfed50908fc845a622ca7841d3c22a758da0ecb7e12e91bf9b48a62f2cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA do POVO
+- Estatuto
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:13Z'
   warnings: []
   errors: []
 ---
@@ -126,25 +149,25 @@ Assim, para a execução do disposto no artigo 34.º do [Decreto-Lei n.º 4/82](
 
 #### SECÇÃO I — (Natureza)
 
-###### Artigo 1.º As casas do povo são instituições de base associativa dotadas de personalidade jurídica e autonomia administrativa e financeira e que se constituem por tempo indeterminado e se destinam ao desenvolvimento cultural, recreativo e desportivo das comunidades.
+Artigo 1.º As casas do povo são instituições de base associativa dotadas de personalidade jurídica e autonomia administrativa e financeira e que se constituem por tempo indeterminado e se destinam ao desenvolvimento cultural, recreativo e desportivo das comunidades.
 
-###### Art. 2.º O Governo Regional apoiará, técnica e financeiramente, as casas do povo, assegurando o prosseguimento dos seus objectivos e o estabelecimento de uma animação sócio-cultural, como acção pedagógica conducente ao processo da sua evolução.
+Art. 2.º O Governo Regional apoiará, técnica e financeiramente, as casas do povo, assegurando o prosseguimento dos seus objectivos e o estabelecimento de uma animação sócio-cultural, como acção pedagógica conducente ao processo da sua evolução.
 
 § único. Esta acção realizar-se-á através da Comissão Provisória de Apoio às Casas do Povo, criada no âmbito da Secretaria Regional da Agricultura e Pescas, sendo presidida por um representante da Direcção de Serviços de Extensão Rural.
 
 #### SECÇÃO II — (Fins)
 
-###### Art. 3.º As casas do povo têm como finalidade principal tornar as populações responsáveis por iniciativas de cooperação solidária no campo da cultura, do desporto e do recreio.
+Art. 3.º As casas do povo têm como finalidade principal tornar as populações responsáveis por iniciativas de cooperação solidária no campo da cultura, do desporto e do recreio.
 
-###### Art. 4.º Para a realização dos seus objectivos deverão as casas do povo, por si ou em colaboração com outras entidades públicas ou privadas, promover actividades de animação sócio-cultural, nomeadamente no âmbito do teatro, da criação plástica, do folclore, da música, da fotografia, do cinema, da leitura, do convívio, da ocupação dos tempos livres, do artesanato, do desporto, da formação familiar, da defesa do património e de outros.
+Art. 4.º Para a realização dos seus objectivos deverão as casas do povo, por si ou em colaboração com outras entidades públicas ou privadas, promover actividades de animação sócio-cultural, nomeadamente no âmbito do teatro, da criação plástica, do folclore, da música, da fotografia, do cinema, da leitura, do convívio, da ocupação dos tempos livres, do artesanato, do desporto, da formação familiar, da defesa do património e de outros.
 
 #### SECÇÃO III — (Criação e reestruturação)
 
-###### Art. 5.º - 1 - As casas do povo adquirem personalidade jurídica pela publicação, no Jornal Oficial da Região Autónoma da Madeira, do despacho do Secretário Regional da Agricultura e Pescas que aprove os respectivos estatutos.
+Art. 5.º - 1 - As casas do povo adquirem personalidade jurídica pela publicação, no Jornal Oficial da Região Autónoma da Madeira, do despacho do Secretário Regional da Agricultura e Pescas que aprove os respectivos estatutos.
 
 2 - O requerimento em que se solicite a aprovação dos estatutos deverá ser subscrito por um mínimo de 50 pessoas em condições de se inscreverem como sócios da casa do povo a criar, o qual será instruído com documento passado pela Comissão Provisória de Apoio às Casas do Povo confirmando a existência de condições mínimas necessárias ao cumprimento do seu objectivo, segundo critérios a fixar em regulamento próprio.
 
-###### Art. 6.º Dos estatutos da casa do povo constarão obrigatoriamente:
+Art. 6.º Dos estatutos da casa do povo constarão obrigatoriamente:
 
 a) Denominação, da qual constará a expressão «Casa do Povo»;
 
@@ -160,35 +183,35 @@ f) Condições necessárias para a constituição e funcionamento da assembleia 
 
 g) Condições em que pode ser deliberada a dissolução da casa do povo.
 
-###### Art. 7.º As direcções das casas do povo existentes, juntamente com representantes das actividades nelas desenvolvidas, das respectivas autarquias locais ou de associações com objectivos afins e com sede na mesma área, constituirão comissões instaladoras com vista à sua reestruturação, à luz das novas funções.
+Art. 7.º As direcções das casas do povo existentes, juntamente com representantes das actividades nelas desenvolvidas, das respectivas autarquias locais ou de associações com objectivos afins e com sede na mesma área, constituirão comissões instaladoras com vista à sua reestruturação, à luz das novas funções.
 
-###### Art. 8.º As comissões instaladoras ficarão responsáveis por todo o património pertencente às casas do povo, que lhes será entregue pelas direcções cessantes, mediante documentação comprovativa.
+Art. 8.º As comissões instaladoras ficarão responsáveis por todo o património pertencente às casas do povo, que lhes será entregue pelas direcções cessantes, mediante documentação comprovativa.
 
-###### Art. 9.º Face a uma situação de desinteresse das direcções e das pessoas ou entidades referidas no artigo 7.º relativamente à transformação e continuidade das casas do povo, o património ficará à responsabilidade dos Serviços de Extensão Rural.
+Art. 9.º Face a uma situação de desinteresse das direcções e das pessoas ou entidades referidas no artigo 7.º relativamente à transformação e continuidade das casas do povo, o património ficará à responsabilidade dos Serviços de Extensão Rural.
 
 #### SECÇÃO IV — (Área)
 
-###### Art. 10.º A área abrangida pela casa do povo terá a extensão mais adequada às suas finalidades e às características do aglomerado populacional, devendo em princípio coincidir com a da freguesia.
+Art. 10.º A área abrangida pela casa do povo terá a extensão mais adequada às suas finalidades e às características do aglomerado populacional, devendo em princípio coincidir com a da freguesia.
 
 ### CAPÍTULO II — Sócios
 
 #### SECÇÃO V — (Definição)
 
-###### Art. 11.º São sócios das casa do povo as pessoas singulares com mais de 18 anos no uso pleno dos seus direitos cívicos, devidamente recenseadas, que residam habitualmente na respectiva área e que requeiram a sua inscrição.
+Art. 11.º São sócios das casa do povo as pessoas singulares com mais de 18 anos no uso pleno dos seus direitos cívicos, devidamente recenseadas, que residam habitualmente na respectiva área e que requeiram a sua inscrição.
 
 § único. Os indivíduos que anteriormente eram sócios das casas do povo serão automaticamente considerados sócios efectivos, salvo declaração em contrário.
 
-###### Art. 12.º Haverá 3 classes de associados: os efectivos, os honorários e os beneméritos.
+Art. 12.º Haverá 3 classes de associados: os efectivos, os honorários e os beneméritos.
 
-###### Art. 13.º São sócios efectivos os antigos sócios das casas do povo que não tenham anulado a sua inscrição ou os indivíduos que explicitamente requeiram essa inscrição e que se encontrem nas condições previstas no artigo 11.º
+Art. 13.º São sócios efectivos os antigos sócios das casas do povo que não tenham anulado a sua inscrição ou os indivíduos que explicitamente requeiram essa inscrição e que se encontrem nas condições previstas no artigo 11.º
 
-###### Art. 14.º São sócios honorários os indivíduos que, tendo prestado apreciáveis serviços às casas do povo, forem galardoados pela assembleia geral com essa homenagem.
+Art. 14.º São sócios honorários os indivíduos que, tendo prestado apreciáveis serviços às casas do povo, forem galardoados pela assembleia geral com essa homenagem.
 
-###### Art. 15.º São sócios beneméritos os indivíduos que voluntariamente contribuam com doações ou donativos de vária ordem e que a assembleia geral reconheça merecedores dessa distinção.
+Art. 15.º São sócios beneméritos os indivíduos que voluntariamente contribuam com doações ou donativos de vária ordem e que a assembleia geral reconheça merecedores dessa distinção.
 
 #### SECÇÃO VI — (Direitos e deveres)
 
-###### Art. 16.º Cada sócio das casas do povo goza dos seguintes direitos:
+Art. 16.º Cada sócio das casas do povo goza dos seguintes direitos:
 
 a) Participar nas assembleias gerais;
 
@@ -208,7 +231,7 @@ g) Utilizar a sede da casa do povo e participar activamente nas suas actividades
 
 § 2.º Os direitos previstos no parágrafo anterior poderão ser reconhecidos, em condições análogas às dos sócios, a pessoas que não possam ter esta qualidade, quer porque não residam na respectiva área, quer porque não tenham a idade mínima necessária.
 
-###### Art. 17.º São deveres dos sócios:
+Art. 17.º São deveres dos sócios:
 
 a) Concorrer activamente para a prossecução dos objectivos das casas do povo;
 
@@ -224,9 +247,9 @@ e) Zelar e defender o património das casas do povo.
 
 #### SECÇÃO VII — (Enumeração)
 
-###### Art. 18.º São órgãos da casa do povo a assembleia geral e a direcção.
+Art. 18.º São órgãos da casa do povo a assembleia geral e a direcção.
 
-###### Art. 19.º A duração do mandato dos membros da mesa da assembleia geral e da direcção é de 3 anos, salvo no caso referido no artigo 39.º, sendo permitida a reeleição.
+Art. 19.º A duração do mandato dos membros da mesa da assembleia geral e da direcção é de 3 anos, salvo no caso referido no artigo 39.º, sendo permitida a reeleição.
 
 § 1.º O triénio de exercício de funções será contado sempre a partir da data da posse dos corpos gerentes.
 
@@ -234,7 +257,7 @@ e) Zelar e defender o património das casas do povo.
 
 #### SECÇÃO VIII — (Da assembleia geral)
 
-###### Art. 20.º A assembleia geral, quando constituída, representa a totalidade dos associados, sendo as suas decisões obrigatórias. Reúne impreterivelmente até 31 de Março de cada ano para apreciar o relatório e contas da direcção e proceder à eleição dos órgãos integrantes da casa do povo, nos anos em que deva ter lugar. Reúne extraordinariamente:
+Art. 20.º A assembleia geral, quando constituída, representa a totalidade dos associados, sendo as suas decisões obrigatórias. Reúne impreterivelmente até 31 de Março de cada ano para apreciar o relatório e contas da direcção e proceder à eleição dos órgãos integrantes da casa do povo, nos anos em que deva ter lugar. Reúne extraordinariamente:
 
 a) Por iniciativa do presidente;
 
@@ -242,31 +265,31 @@ b) A pedido da direcção;
 
 c) A requerimento de pelo menos um terço dos sócios.
 
-###### Art. 21.º A mesa da assembleia geral é formada por 1 presidente e 2 vogais.
+Art. 21.º A mesa da assembleia geral é formada por 1 presidente e 2 vogais.
 
-###### Art. 22.º A assembleia geral será convocada pelo presidente e as convocações serão feitas, pelo menos, com 15 dias de antecedência, indicando sempre o assunto a tratar.
+Art. 22.º A assembleia geral será convocada pelo presidente e as convocações serão feitas, pelo menos, com 15 dias de antecedência, indicando sempre o assunto a tratar.
 
 § único. Quando a convocação da assembleia geral for pedida ou requerida com fundamento em qualquer das disposições deste estatuto e essa convocação se não fizer dentro de 8 dias contados da data da entrega do pedido ou requerimento na sede da casa do povo, a convocação poderá ser levada a efeito pela Comissão Provisória de Apoio às Casas do Povo.
 
-###### Art. 23.º O pedido ou requerimento para a convocação da assembleia geral extraordinária será apresentado, em duplicado, ao presidente da referida assembleia geral, sendo este, ou qualquer elemento da casa do povo que o receber, obrigado a passar recibo ao seu apresentante.
+Art. 23.º O pedido ou requerimento para a convocação da assembleia geral extraordinária será apresentado, em duplicado, ao presidente da referida assembleia geral, sendo este, ou qualquer elemento da casa do povo que o receber, obrigado a passar recibo ao seu apresentante.
 
-###### Art. 24.º A convocação da assembleia geral será feita por afixação de avisos na sede da casa do povo e noutros lugares públicos que se mostrem adequados.
+Art. 24.º A convocação da assembleia geral será feita por afixação de avisos na sede da casa do povo e noutros lugares públicos que se mostrem adequados.
 
-###### Art. 25.º A assembleia geral funcionará em primeira convocatória com a presença da maioria dos sócios ou uma hora depois da hora marcada com qualquer número de presenças, podendo então deliberar validamente.
+Art. 25.º A assembleia geral funcionará em primeira convocatória com a presença da maioria dos sócios ou uma hora depois da hora marcada com qualquer número de presenças, podendo então deliberar validamente.
 
-###### Art. 26.º As decisões da assembleia geral serão tomadas por maioria de votos dos sócios presentes.
+Art. 26.º As decisões da assembleia geral serão tomadas por maioria de votos dos sócios presentes.
 
-###### Art. 27.º Todos os associados têm direito a tomar parte na assembleia geral e a discutir os assuntos submetidos à sua aprovação.
+Art. 27.º Todos os associados têm direito a tomar parte na assembleia geral e a discutir os assuntos submetidos à sua aprovação.
 
-###### Art. 28.º As votações seguirão o processo de levantados e sentados, quando a maioria não resolver que se proceda de qualquer outra forma.
+Art. 28.º As votações seguirão o processo de levantados e sentados, quando a maioria não resolver que se proceda de qualquer outra forma.
 
-###### Art. 29.º As eleições para os cargos sociais serão feitas por escrutínio secreto.
+Art. 29.º As eleições para os cargos sociais serão feitas por escrutínio secreto.
 
-###### Art. 30.º As decisões sobre alterações dos estatutos ou dissolução da associação só serão válidas quando tomadas por, pelo menos, dois terços dos associados.
+Art. 30.º As decisões sobre alterações dos estatutos ou dissolução da associação só serão válidas quando tomadas por, pelo menos, dois terços dos associados.
 
-###### Art. 31.º Será lavrada acta de cada sessão da assembleia geral, onde se indicarão as resoluções tomadas, assim como o número de associados presentes.
+Art. 31.º Será lavrada acta de cada sessão da assembleia geral, onde se indicarão as resoluções tomadas, assim como o número de associados presentes.
 
-###### Art. 32.º Compete à assembleia geral:
+Art. 32.º Compete à assembleia geral:
 
 a) Eleger a mesa e a direcção;
 
@@ -280,27 +303,27 @@ e) Deliberar quanto à alteração dos estatutos e à dissolução da associaç�
 
 f) Deliberar sobre a eventual remuneração dos membros da direcção.
 
-###### Art. 33.º Os corpos demissionários continuarão em exercício até que a posse seja conferida aos novos corpos gerentes.
+Art. 33.º Os corpos demissionários continuarão em exercício até que a posse seja conferida aos novos corpos gerentes.
 
-###### Art. 34.º As sessões de posse serão obrigatoriamente assistidas pelos corpos cessantes, que farão a entrega de todos os documentos, livros, inventários, arquivos e haveres da associação e prestarão todos os esclarecimentos precisos, a fim de que as actividades não sofram interrupção.
+Art. 34.º As sessões de posse serão obrigatoriamente assistidas pelos corpos cessantes, que farão a entrega de todos os documentos, livros, inventários, arquivos e haveres da associação e prestarão todos os esclarecimentos precisos, a fim de que as actividades não sofram interrupção.
 
-###### Art. 35.º As posses, em todos os corpos sociais, serão dadas pelo presidente da assembleia geral.
+Art. 35.º As posses, em todos os corpos sociais, serão dadas pelo presidente da assembleia geral.
 
 #### SECÇÃO IX — (Da direcção)
 
-###### Art. 36.º A direcção é constituída por 1 presidente e 2 vogais.
+Art. 36.º A direcção é constituída por 1 presidente e 2 vogais.
 
-###### Art. 37.º A eleição do presidente e dos vogais será feita pela assembleia geral, de entre os sócios da casa do povo no pleno gozo dos seus direitos.
+Art. 37.º A eleição do presidente e dos vogais será feita pela assembleia geral, de entre os sócios da casa do povo no pleno gozo dos seus direitos.
 
-###### Art. 38.º Os 3 primeiros elementos da lista mais votada constituirão a direcção, sendo presidente aquele que encabeça a lista.
+Art. 38.º Os 3 primeiros elementos da lista mais votada constituirão a direcção, sendo presidente aquele que encabeça a lista.
 
-###### Art. 39.º A eleição da direcção será feita trienalmente, podendo a assembleia geral revogar o mandato, se o tiver por conveniente.
+Art. 39.º A eleição da direcção será feita trienalmente, podendo a assembleia geral revogar o mandato, se o tiver por conveniente.
 
-###### Art. 40.º Não poderão integrar conjuntamente a direcção indivíduos que tiverem entre si parentesco até ao segundo grau, segundo o direito civil.
+Art. 40.º Não poderão integrar conjuntamente a direcção indivíduos que tiverem entre si parentesco até ao segundo grau, segundo o direito civil.
 
-###### Art. 41.º Os membros da direcção exercerão gratuitamente as suas funções, salvo se a assembleia geral decidir fixar para eles qualquer forma de compensação.
+Art. 41.º Os membros da direcção exercerão gratuitamente as suas funções, salvo se a assembleia geral decidir fixar para eles qualquer forma de compensação.
 
-###### Art. 42.º As reuniões regulares da direcção terão a periodicidade que se revelar mais conveniente e as sessões extraordinárias serão convocadas pelo presidente sempre que forem consideradas necessárias.
+Art. 42.º As reuniões regulares da direcção terão a periodicidade que se revelar mais conveniente e as sessões extraordinárias serão convocadas pelo presidente sempre que forem consideradas necessárias.
 
 § 1.º O dia escolhido para as reuniões regulares será fixado pela direcção na primeira sessão de cada ano e a convocação para as sessões extraordinárias terá lugar por meio de aviso, onde se indique o dia, hora e assunto a tratar.
 
@@ -308,7 +331,7 @@ f) Deliberar sobre a eventual remuneração dos membros da direcção.
 
 § 3.º As reuniões da direcção só se consideram em funcionamento legal quando estiver presente a maioria dos seus membros.
 
-###### Art. 43.º Sem prejuízo das atribuições estatutárias compete à direcção:
+Art. 43.º Sem prejuízo das atribuições estatutárias compete à direcção:
 
 a) Representar a casa do povo em juízo ou fora dele;
 
@@ -336,9 +359,9 @@ l) Praticar os demais actos conducentes à realização dos fins da instituiçã
 
 #### SECÇÃO X — (Da Comissão Provisória de Apoio às Casas do Povo)
 
-###### Art. 44.º A constituição da Comissão é a que consta do despacho conjunto da Presidência do Governo Regional e da ex-Secretaria Regional da Coordenação Económica, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 8, de 6 de Março de 1980.
+Art. 44.º A constituição da Comissão é a que consta do despacho conjunto da Presidência do Governo Regional e da ex-Secretaria Regional da Coordenação Económica, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 8, de 6 de Março de 1980.
 
-###### Art. 45.º São funções da Comissão Provisória de Apoio às Casas do Povo:
+Art. 45.º São funções da Comissão Provisória de Apoio às Casas do Povo:
 
 a) Veicular o apoio técnico e financeiro a prestar pelo Governo Regional às casas do povo, com vista à realização das suas actividades culturais, desportivas e recreativas;
 
@@ -360,7 +383,7 @@ h) Assegurar o estabelecimento de uma animação sócio-cultural, como acção p
 
 #### SECÇÃO XI
 
-###### Art. 46.º As casas do povo terão ao seu serviço os trabalhadores que a direcção considerar necessários para o seu conveniente funcionamento, devendo para o efeito ser concedido às mesmas o indispensável apoio financeiro que lhes permita suportar os encargos respeitantes ao referido pessoal.
+Art. 46.º As casas do povo terão ao seu serviço os trabalhadores que a direcção considerar necessários para o seu conveniente funcionamento, devendo para o efeito ser concedido às mesmas o indispensável apoio financeiro que lhes permita suportar os encargos respeitantes ao referido pessoal.
 
 § 1.º As relações de trabalho entre as casas do povo e o pessoal ao serviço serão reguladas de acordo com a Lei Geral do Trabalho.
 
@@ -372,7 +395,7 @@ h) Assegurar o estabelecimento de uma animação sócio-cultural, como acção p
 
 #### SECÇÃO XII
 
-###### Art. 47.º As receitas da casa do povo são constituídas por:
+Art. 47.º As receitas da casa do povo são constituídas por:
 
 a) Dotações do Governo Regional;
 
@@ -388,66 +411,66 @@ e) Outras receitas.
 
 #### SECÇÃO XIII
 
-###### Art. 48.º Podem tomar parte no acto eleitoral todos os indivíduos que se encontrem devidamente recenseados e que estejam inscritos como sócios das casas do povo.
+Art. 48.º Podem tomar parte no acto eleitoral todos os indivíduos que se encontrem devidamente recenseados e que estejam inscritos como sócios das casas do povo.
 
-###### Art. 49.º A direcção da casa do povo, no ano em que findar o exercício e até 30 de Novembro, apresentará ao presidente da mesa da assembleia geral a lista das candidaturas para os corpos gerentes a eleger para o triénio imediato.
+Art. 49.º A direcção da casa do povo, no ano em que findar o exercício e até 30 de Novembro, apresentará ao presidente da mesa da assembleia geral a lista das candidaturas para os corpos gerentes a eleger para o triénio imediato.
 
-###### Art. 50.º No prazo referido no artigo anterior poderão ser apresentadas outras listas de candidaturas, subscritas por um número de sócios eleitores correspondentes a 5% do total dos sócios inscritos, o qual, no entanto, nunca poderá ser inferior a 25.
+Art. 50.º No prazo referido no artigo anterior poderão ser apresentadas outras listas de candidaturas, subscritas por um número de sócios eleitores correspondentes a 5% do total dos sócios inscritos, o qual, no entanto, nunca poderá ser inferior a 25.
 
-###### Art. 51.º As listas serão compostas por 6 elementos, quer para a assembleia geral, quer para a direcção, tendo à cabeça a entidade proposta para presidente e contendo igualmente o nome completo e o número de inscrição dos sócios propostos.
+Art. 51.º As listas serão compostas por 6 elementos, quer para a assembleia geral, quer para a direcção, tendo à cabeça a entidade proposta para presidente e contendo igualmente o nome completo e o número de inscrição dos sócios propostos.
 
-###### Art. 52.º A mesa da assembleia geral apreciará a legitimidade das candidaturas apresentadas e fixará na sede da casa do povo, até ao dia 20 de Dezembro, a relação das listas aceites, numerando-as por ordem de apresentação e enviando cópia à Comissão Provisória de Apoio às Casas do Povo.
+Art. 52.º A mesa da assembleia geral apreciará a legitimidade das candidaturas apresentadas e fixará na sede da casa do povo, até ao dia 20 de Dezembro, a relação das listas aceites, numerando-as por ordem de apresentação e enviando cópia à Comissão Provisória de Apoio às Casas do Povo.
 
-###### Art. 53.º As reclamações quanto à aceitação ou recusa das candidaturas poderão ser apresentadas por escrito ao presidente da mesa da assembleia geral até 31 de Dezembro.
+Art. 53.º As reclamações quanto à aceitação ou recusa das candidaturas poderão ser apresentadas por escrito ao presidente da mesa da assembleia geral até 31 de Dezembro.
 
-###### Art. 54.º A assembleia geral para efeito de eleição reunirá até 31 de Maio.
+Art. 54.º A assembleia geral para efeito de eleição reunirá até 31 de Maio.
 
-###### Art. 55.º Antes de proceder à votação, deve a assembleia geral deliberar acerca das reclamações oportunamente apresentadas relativamente à aceitação das listas anteriormente propostas.
+Art. 55.º Antes de proceder à votação, deve a assembleia geral deliberar acerca das reclamações oportunamente apresentadas relativamente à aceitação das listas anteriormente propostas.
 
-###### Art. 56.º As listas terão a forma rectangular com as dimensões de 15 cm x 10 cm, em papel branco, sem marca ou sinal externo, e conterão, bem legíveis, os nomes dos candidatos e o número correspondente da sua inscrição de sócio.
+Art. 56.º As listas terão a forma rectangular com as dimensões de 15 cm x 10 cm, em papel branco, sem marca ou sinal externo, e conterão, bem legíveis, os nomes dos candidatos e o número correspondente da sua inscrição de sócio.
 
-###### Art. 57.º Consideram-se nulas e não serão contadas as listas em branco e aquelas que não obedeçam aos requisitos exigidos no artigo anterior.
+Art. 57.º Consideram-se nulas e não serão contadas as listas em branco e aquelas que não obedeçam aos requisitos exigidos no artigo anterior.
 
-###### Art. 58.º As votações serão feitas por escrutínio secreto, devendo as listas, convenientemente dobradas, ser entregues pelos eleitores ao presidente da mesa.
+Art. 58.º As votações serão feitas por escrutínio secreto, devendo as listas, convenientemente dobradas, ser entregues pelos eleitores ao presidente da mesa.
 
-###### Art. 59.º O escrutínio efectuar-se-á imediatamente depois de concluída a votação, servindo de escrutinadores os sócios que forem escolhidos pelo presidente da mesa, em número que este julgar conveniente.
+Art. 59.º O escrutínio efectuar-se-á imediatamente depois de concluída a votação, servindo de escrutinadores os sócios que forem escolhidos pelo presidente da mesa, em número que este julgar conveniente.
 
-###### Art. 60.º As dúvidas que se levantarem no apuramento da votação serão resolvidas pela mesa da assembleia geral.
+Art. 60.º As dúvidas que se levantarem no apuramento da votação serão resolvidas pela mesa da assembleia geral.
 
-###### Art. 61.º Finda a eleição, será proclamada vencedora a lista mais votada.
+Art. 61.º Finda a eleição, será proclamada vencedora a lista mais votada.
 
-###### Art. 62.º No caso de empate, efectuar-se-á novo acto eleitoral no prazo máximo de 8 dias.
+Art. 62.º No caso de empate, efectuar-se-á novo acto eleitoral no prazo máximo de 8 dias.
 
-###### Art. 63.º Dos resultados das eleições será dado conhecimento à Comissão Provisória de Apoio às Casas do Povo.
+Art. 63.º Dos resultados das eleições será dado conhecimento à Comissão Provisória de Apoio às Casas do Povo.
 
-###### Art. 64.º Os cargos que ficarem vagos no decurso do mandato serão preenchidos por eleição parcial, se necessário em assembleia geral extraordinária, com efeitos até ao termo do triénio em curso, observando-se, com as adaptações convenientes, o disposto no presente capítulo.
+Art. 64.º Os cargos que ficarem vagos no decurso do mandato serão preenchidos por eleição parcial, se necessário em assembleia geral extraordinária, com efeitos até ao termo do triénio em curso, observando-se, com as adaptações convenientes, o disposto no presente capítulo.
 
-###### Art. 65.º No caso de se verificarem irregularidades no acto eleitoral, competirá à Comissão Provisória de Apoio às Casas do Povo dar conhecimento das mesmas ao Secretário Regional da Agricultura e Pescas, que sobre a ocorrência tomará as medidas que tiver por convenientes.
+Art. 65.º No caso de se verificarem irregularidades no acto eleitoral, competirá à Comissão Provisória de Apoio às Casas do Povo dar conhecimento das mesmas ao Secretário Regional da Agricultura e Pescas, que sobre a ocorrência tomará as medidas que tiver por convenientes.
 
 ### CAPÍTULO VII — Disposições finais transitórias
 
 #### SECÇÃO XIV
 
-###### Art. 66.º As funções atribuídas na secção VIII à assembleia geral e à direcção das casas do povo ficam cometidas às comissões organizadoras ou instaladoras previstas no artigo 7.º destes Estatutos.
+Art. 66.º As funções atribuídas na secção VIII à assembleia geral e à direcção das casas do povo ficam cometidas às comissões organizadoras ou instaladoras previstas no artigo 7.º destes Estatutos.
 
-###### Art. 67.º As comissões instaladoras procederão às eleições para os corpos gerentes dentro do período máximo de 180 dias a contar da sua nomeação, segundo normas e prazos constantes da secção XIII do capítulo VI, com a devida adaptação das respectivas datas.
+Art. 67.º As comissões instaladoras procederão às eleições para os corpos gerentes dentro do período máximo de 180 dias a contar da sua nomeação, segundo normas e prazos constantes da secção XIII do capítulo VI, com a devida adaptação das respectivas datas.
 
 § único. No caso das casas do povo que já têm comissões pré-instaladoras, o prazo de 180 dias, referido no corpo deste artigo, será contado a partir da data da publicação deste diploma no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 68.º São mantidas a favor das casas do povo as isenções e regalias actualmente previstas na lei.
+Art. 68.º São mantidas a favor das casas do povo as isenções e regalias actualmente previstas na lei.
 
-###### Art. 69.º Ficam derrogadas nesta Região Autónoma todas as normas que contrariem o que se encontra estabelecido neste diploma.
+Art. 69.º Ficam derrogadas nesta Região Autónoma todas as normas que contrariem o que se encontra estabelecido neste diploma.
 
-###### Art. 70.º As dúvidas e casos omissos suscitados pela aplicação do presente diploma serão resolvidos por despacho do Secretário Regional da Agricultura e Pescas, ouvida a Comissão Provisória de Apoio às Casas do Povo.
+Art. 70.º As dúvidas e casos omissos suscitados pela aplicação do presente diploma serão resolvidos por despacho do Secretário Regional da Agricultura e Pescas, ouvida a Comissão Provisória de Apoio às Casas do Povo.
 
-###### Art. 71.º Este diploma entra em vigor 30 dias após a sua publicação.
+Art. 71.º Este diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em plenário do Governo em 7 de Julho de 1982.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Agosto de 1982.**
+Assinado em 2 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

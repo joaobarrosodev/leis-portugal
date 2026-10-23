@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 253/2010, 2º Suplemento, Série I de 2010-12-31
   number: '253'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6122-(327) a 6122-(328)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0032700328.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1334-c/2010/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1334-c-2010-344938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 661d2a3afec40343e59212c8cd1283f3184eb754eee78b416924852ce6700aa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12fd8da9d9c6376bca4d02530178a0944fc617d750ab8380b7f2ba2ed556b4b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Conselho de Segurança Rodoviária
-- Certidão
-- Ministério da Administração Interna
-- Secretaria Geral
-- Governador Civil
-- Autoridade Nacional de Segurança Rodoviária
-- Direcção Geral de Administração Interna
-- GNR
-- Governo Civil
-- Serviço de Estrangeiros e Fronteiras
-- Prestação de Serviços
 - Autoridade Nacional de Protecção Civil
-- Serviços Sociais
+- Autoridade Nacional de Segurança Rodoviária
+- Certidão
+- Conselho de Segurança Rodoviária
+- Direcção Geral de Administração Interna
 - Direcção Geral de Infra-estruturas e Equipamentos
+- GNR
+- Governador Civil
+- Governo Civil
+- Ministério da Administração Interna
+- Prestação de Serviços
+- PSP
+- Secretaria Geral
+- Serviço de Estrangeiros e Fronteiras
+- Serviços Sociais
 - Taxa
 - TAXA de Prestação de Serviços
 - Uso e porte de arma
@@ -125,16 +125,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:176765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:33Z'
   warnings: []
   errors: []
 ---
@@ -243,7 +315,7 @@ Ficam expressamente revogados todos os montantes anteriormente definidos para os
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Dezembro de 2010. - O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Dezembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Dezembro de 2010. - O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Dezembro de 2010.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 

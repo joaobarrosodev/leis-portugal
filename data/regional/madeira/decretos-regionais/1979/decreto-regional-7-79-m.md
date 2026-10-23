@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1979-383064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a59265feb1c246b9368ef3b44ba4af9b3f025c2c6cad25089ec0f8ec283039c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5f13cad6b6b6527e177867efce7e07e81a70e1de264495dc4b453148b844e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Direção
+- Conselho Geral
+- Criação de Serviços
+- Delegação Regional
+- Direção
+- Estatuto
+- Funchal
+- Instituto do Vinho da Madeira
+- Instituto Público
+- Junta Nacional dos Vinhos
+- Madeira.região Autónoma
+- Secretaria Regional da Agricultura e Pescas
+- Transferência de Competências
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:253032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:189119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:30Z'
   warnings: []
   errors: []
 ---
@@ -118,33 +144,33 @@ Embora considerado, para todos os efeitos, organismo regional, de acordo com os 
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República Portuguesa, e do artigo 22.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e tendo em conta o disposto no artigo 46.º deste diploma, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º - 1 - Com vista a coordenar as actividades vitivinícolas na Região Autónoma da Madeira, é criado, em substituição da delegação da Junta Nacional do Vinho, o Instituto do Vinho da Madeira, abreviadamente designado por IVM, junto do qual funcionará também um serviço para a coordenação das actividades ligadas ao açúcar e ao álcool, em substituição da extinta delegação da Administração-Geral do Açúcar e do Álcool.
+Artigo 1.º - 1 - Com vista a coordenar as actividades vitivinícolas na Região Autónoma da Madeira, é criado, em substituição da delegação da Junta Nacional do Vinho, o Instituto do Vinho da Madeira, abreviadamente designado por IVM, junto do qual funcionará também um serviço para a coordenação das actividades ligadas ao açúcar e ao álcool, em substituição da extinta delegação da Administração-Geral do Açúcar e do Álcool.
 
 2 - O estatuto do IVM figura em anexo ao presente diploma e dele faz parte integrante.
 
-###### Art. 2.º - 1 - Os funcionários que prestam serviço a qualquer título na delegação da Junta Nacional do Vinho consideram-se como prestando serviço no IVM, salvo se, no prazo de cento e oitenta dias a contar da entrada em funcionamento do IVM, optarem por continuar a pertencer aos primitivos organismos, onde manterão as suas actuais situações.
+Art. 2.º - 1 - Os funcionários que prestam serviço a qualquer título na delegação da Junta Nacional do Vinho consideram-se como prestando serviço no IVM, salvo se, no prazo de cento e oitenta dias a contar da entrada em funcionamento do IVM, optarem por continuar a pertencer aos primitivos organismos, onde manterão as suas actuais situações.
 
 2 - O novo organismo estudará com a Junta Nacional do Vinho e a Administração-Geral do Açúcar e do Álcool a forma de solucionar as questões suscitadas com a transferência de funções, designadamente as relacionadas com o património.
 
-###### Art. 3.º Enquanto não for revista e alterada a legislação em vigor nas matérias do âmbito de acção do IVM, entende-se que são da sua competência as funções que por essa legislação cabiam aos organismos que o antecederam.
+Art. 3.º Enquanto não for revista e alterada a legislação em vigor nas matérias do âmbito de acção do IVM, entende-se que são da sua competência as funções que por essa legislação cabiam aos organismos que o antecederam.
 
-###### Art. 4.º - 1 - O IVM fica na dependência do Governo Regional da Região Autónoma da Madeira, através da Secretaria Regional de Agricultura e Pescas, sem prejuízo da orientação que, na área da sua competência, seja definida por outras Secretarias Regionais.
+Art. 4.º - 1 - O IVM fica na dependência do Governo Regional da Região Autónoma da Madeira, através da Secretaria Regional de Agricultura e Pescas, sem prejuízo da orientação que, na área da sua competência, seja definida por outras Secretarias Regionais.
 
 2 - O IVM proporá as alterações a introduzir prioritariamente na legislação a que se refere o artigo anterior.
 
-###### Art. 5.º - 1 - O IVM tem a sede na cidade do Funchal e exercerá a sua actividade em toda a área da Região Autónoma da Madeira, mantendo colaboração com os serviços e organizações nacionais e estrangeiros dos sectores que lhe estão confiados.
+Art. 5.º - 1 - O IVM tem a sede na cidade do Funchal e exercerá a sua actividade em toda a área da Região Autónoma da Madeira, mantendo colaboração com os serviços e organizações nacionais e estrangeiros dos sectores que lhe estão confiados.
 
 2 - O IVM poderá estabelecer delegações ou outras formas de representação no País e no estrangeiro, quando a direcção o julgar necessário, mas, em relação ao estrangeiro, só depois de ouvido o conselho geral e mediante autorização do Secretário Regional de Agricultura e Pescas.
 
-###### Art. 6.º Compete ao Governo Regional resolver as dúvidas e casos omissos que se suscitem na aplicação do presente diploma.
+Art. 6.º Compete ao Governo Regional resolver as dúvidas e casos omissos que se suscitem na aplicação do presente diploma.
 
-###### Art. 7.º O presente diploma entra em vigor imediatamente após a regionalização da Junta Nacional do Vinho.
+Art. 7.º O presente diploma entra em vigor imediatamente após a regionalização da Junta Nacional do Vinho.
 
 ESTATUTO DO INSTITUTO DO VINHO DA MADEIRA
 
 ### CAPÍTULO I — Denominação, natureza, regime e sede
 
-###### Artigo 1.º - 1 - O Instituto do Vinho da Madeira, abreviadamente designado por IVM, é um instituto público dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º - 1 - O Instituto do Vinho da Madeira, abreviadamente designado por IVM, é um instituto público dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
 
 2 - Junto do IVM funcionará um serviço para os assuntos ligados ao açúcar e ao álcool.
 
@@ -156,7 +182,7 @@ ESTATUTO DO INSTITUTO DO VINHO DA MADEIRA
 
 ### CAPÍTULO II — Atribuições e competência
 
-###### Art. 2.º São atribuições do IVM:
+Art. 2.º São atribuições do IVM:
 
 a) Incentivar e disciplinar as actividades ligadas à produção e comercialização do vinho da Madeira, garantindo a qualidade do produto e promovendo a sua expansão;
 
@@ -174,7 +200,7 @@ f) Exercer directamente nos circuitos de fabrico e de comercialização dos prod
 
 3 - Pode ainda o IVM realizar operações de fabrico, importação, exportação, compra ou distribuição de outros produtos de cujo abastecimento seja incumbido por resolução do Governo Regional.
 
-###### Art. 3.º - Para o exercício das suas atribuições, compete, em especial, ao IVM:
+Art. 3.º - Para o exercício das suas atribuições, compete, em especial, ao IVM:
 
 a) Assegurar a genuinidade do vinho da Madeira, fazendo cumprir a regulamentação aplicável e emitindo os selos de garantia e os certificados de origem regional apropriados;
 
@@ -214,7 +240,7 @@ p) Exercer as demais funções que se mostrem necessárias no desempenho da sua 
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 4.º São órgãos do IVM:
+Art. 4.º São órgãos do IVM:
 
 a) A direcção;
 
@@ -222,11 +248,11 @@ b) O conselho de direcção;
 
 c) O conselho geral.
 
-###### Art. 5.º - 1 - A direcção é constituída por um presidente e um vice-presidente.
+Art. 5.º - 1 - A direcção é constituída por um presidente e um vice-presidente.
 
 2 - Os membros da direcção são nomeados pelo Governo Regional e exercerão as funções em comissão de serviço, por tempo indeterminado, ficando sujeitos ao regime legal de acumulação vigente na função pública, devendo a nomeação do vice-presidente ser antecedida da audição das associações de agricultores e exportadores.
 
-###### Art. 6.º - 1 - A direcção goza dos poderes necessários para assegurar a gestão do organismo, competindo-lhe, em especial:
+Art. 6.º - 1 - A direcção goza dos poderes necessários para assegurar a gestão do organismo, competindo-lhe, em especial:
 
 a) Elaborar e submeter à aprovação superior, após a apreciação do conselho geral, o regulamento necessário à organização e bom funcionamento dos serviços, bem como o orçamento, o plano das actividades do organismo, o relatório anual da sua actividade e contas de gerência;
 
@@ -240,13 +266,13 @@ e) Contratar o pessoal e exercer sobre ele acção disciplinar.
 
 2 - Em face da natureza dos assuntos a tratar, poderão ser chamados a participar nas reuniões da direcção os responsáveis pelos serviços correspondentes do organismo.
 
-###### Art. 7.º A direcção reunir-se-á, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente a convoque.
+Art. 7.º A direcção reunir-se-á, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente a convoque.
 
-###### Art. 8.º - 1 - O conselho de direcção é constituído pelos membros da direcção e por três vogais, sendo dois representantes da lavoura ligados à cultura das vinhas de qualidade e um do comércio de exportação do vinho, os quais serão designados pelas respectivas associações de classe, cujo mandato terá a duração de quatro anos, renováveis por iguais períodos.
+Art. 8.º - 1 - O conselho de direcção é constituído pelos membros da direcção e por três vogais, sendo dois representantes da lavoura ligados à cultura das vinhas de qualidade e um do comércio de exportação do vinho, os quais serão designados pelas respectivas associações de classe, cujo mandato terá a duração de quatro anos, renováveis por iguais períodos.
 
 2 - Os vogais do conselho de direcção terão direito, por cada reunião a que assistam, a uma senha de presença, cuja importância será fixada pelo Governo Regional, e às despesas de deslocação, quando for caso disso.
 
-###### Art. 9.º - 1 - Ao conselho de direcção compete:
+Art. 9.º - 1 - Ao conselho de direcção compete:
 
 a) Acompanhar a actividade do organismo, podendo formular as propostas, sugestões e recomendações que entenda convenientes;
 
@@ -260,9 +286,9 @@ d) Decidir sobre a aplicação de penalidades, nos termos das disposições lega
 
 3 - As resoluções do conselho de direcção que não sejam consideradas pela direcção serão por esta levadas, no prazo máximo de quinze dias, ao conhecimento e decisão do Governo Regional.
 
-###### Art. 10.º O conselho de direcção reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o presidente o convoque, por iniciativa própria ou a pedido de dois membros.
+Art. 10.º O conselho de direcção reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o presidente o convoque, por iniciativa própria ou a pedido de dois membros.
 
-###### Art. 11.º - 1 - O conselho geral é constituído pelos membros da direcção e restantes vogais do conselho de direcção e ainda pelos seguintes elementos:
+Art. 11.º - 1 - O conselho geral é constituído pelos membros da direcção e restantes vogais do conselho de direcção e ainda pelos seguintes elementos:
 
 a) Representantes do Governo Regional da Madeira, em representação das Secretarias Regionais que tenham a seu cargo os serviços de agricultura, comércio, indústria, turismo e finanças, um por cada um dos referidos serviços;
 
@@ -282,7 +308,7 @@ f) Dois representantes do comércio de vinhos de consumo, sendo um do comércio 
 
 4 - O mandato dos membros do conselho geral que não sejam de nomeação do Governo Regional terá a duração de quatro anos, renováveis por iguais períodos.
 
-###### Art. 12.º - 1 - Ao conselho geral compete:
+Art. 12.º - 1 - Ao conselho geral compete:
 
 a) Apreciar o regulamento interno do organismo e os planos de actividade, orçamento e relatórios e contas anuais apresentados pela direcção e sobre eles emitir os respectivos pareceres;
 
@@ -296,11 +322,11 @@ e) Definir as secções por que poderá funcionar o conselho geral e criar as co
 
 2 - Qualquer dos membros do conselho geral poderá solicitar à direcção elementos de informação necessários ao desempenho das suas funções.
 
-###### Art. 13.º - 1 - O conselho geral poderá reunir em plenário ou por secções ou comissões especiais e, quando for entendido conveniente, em face da natureza dos assuntos a tratar, será presidido pelo Secretário Regional de Agricultura e Pescas, por outro membro do Governo Regional ou por um seu representante designado para o efeito.
+Art. 13.º - 1 - O conselho geral poderá reunir em plenário ou por secções ou comissões especiais e, quando for entendido conveniente, em face da natureza dos assuntos a tratar, será presidido pelo Secretário Regional de Agricultura e Pescas, por outro membro do Governo Regional ou por um seu representante designado para o efeito.
 
 2 - Para a resolução dos assuntos correntes, o conselho geral poderá reunir presidido pelo presidente da direcção, por inerência vice-presidente do conselho geral.
 
-###### Art. 14.º - 1 - O conselho geral reunirá em plenário, ordinariamente, uma vez por semestre e, extraordinariamente, quando for convocado pelo presidente, por sua iniciativa ou a requerimento de um terço dos seus membros.
+Art. 14.º - 1 - O conselho geral reunirá em plenário, ordinariamente, uma vez por semestre e, extraordinariamente, quando for convocado pelo presidente, por sua iniciativa ou a requerimento de um terço dos seus membros.
 
 2 - As reuniões de secção ou de comissões especiais terão lugar quando forem convocadas pelo presidente da direcção ou pelo membro do conselho geral em que tenham sido delegados poderes expressos para o efeito.
 
@@ -312,7 +338,7 @@ e) Definir as secções por que poderá funcionar o conselho geral e criar as co
 
 ### CAPÍTULO IV — Organizações dos serviços
 
-###### Art. 15.º - 1 - O IVM compreenderá os seguintes serviços:
+Art. 15.º - 1 - O IVM compreenderá os seguintes serviços:
 
 a) Serviços de disciplina e fomento vinícola;
 
@@ -324,11 +350,11 @@ d) Serviços administrativos e financeiros.
 
 2 - O IVM compreenderá ainda um serviço de assessoria técnico-jurídica para apoio à direcção e aos serviços do organismo.
 
-###### Art. 16.º O laboratório do IVM é, para todos os efeitos, considerado oficial, tendo o mesmo carácter e fazendo fé em juízo os boletins ou certificados de análise e outros documentos emanados do mesmo.
+Art. 16.º O laboratório do IVM é, para todos os efeitos, considerado oficial, tendo o mesmo carácter e fazendo fé em juízo os boletins ou certificados de análise e outros documentos emanados do mesmo.
 
 ### CAPÍTULO V — Receitas e despesas
 
-###### Art. 17.º Constituem receitas do IVM:
+Art. 17.º Constituem receitas do IVM:
 
 a) As dotações que lhe forem atribuídas, quer pelo Governo Central, quer pelo Governo Regional;
 
@@ -338,17 +364,17 @@ c) O produto das taxas;
 
 d) Quaisquer outros proventos ou rendimentos.
 
-###### Art. 18.º Constituem despesas do JVM todas as que resultem do normal exercício das suas funções.
+Art. 18.º Constituem despesas do JVM todas as que resultem do normal exercício das suas funções.
 
 ### CAPÍTULO VI — Pessoal
 
-###### Art. 19.º - 1 - O estatuto do pessoal ao serviço do IVM será definido face ao que vier a ser decidido para com o pessoal do Governo Regional procedente da extinta autarquia (Junta Geral).
+Art. 19.º - 1 - O estatuto do pessoal ao serviço do IVM será definido face ao que vier a ser decidido para com o pessoal do Governo Regional procedente da extinta autarquia (Junta Geral).
 
 2 - O quadro de pessoal será aprovado pelo Governo Regional.
 
-###### Art. 20.º O estatuto dos membros da direcção será regulado pelo Governo Regional.
+Art. 20.º O estatuto dos membros da direcção será regulado pelo Governo Regional.
 
-###### Art. 21.º - 1 - Podem exercer funções de carácter específico no IVM, em comissão de serviço, funcionários do Estado e de outros institutos públicos, das autarquias locais, bem como trabalhadores das empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação, reforma e sobrevivência, considerando-se todo o período de comissão como serviço prestado nesse quadro.
+Art. 21.º - 1 - Podem exercer funções de carácter específico no IVM, em comissão de serviço, funcionários do Estado e de outros institutos públicos, das autarquias locais, bem como trabalhadores das empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação, reforma e sobrevivência, considerando-se todo o período de comissão como serviço prestado nesse quadro.
 
 2 - Também os trabalhadores do IVM podem exercer funções noutros institutos públicos, autarquias locais ou empresas públicas, em comissão de serviço, mantendo todos os direitos inerentes ao seu estatuto profissional, considerando-se todo o período de comissão como prestado no IVM.
 
@@ -356,16 +382,16 @@ d) Quaisquer outros proventos ou rendimentos.
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade onde se encontrem a exercer efectivamente funções.
 
-###### Art. 22.º O IVM poderá também recorrer à colaboração de técnicos estranhos ao pessoal do quadro do organismo para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de funções da sua especialidade em regime de prestação de serviços.
+Art. 22.º O IVM poderá também recorrer à colaboração de técnicos estranhos ao pessoal do quadro do organismo para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de funções da sua especialidade em regime de prestação de serviços.
 
 ### CAPÍTULO VII — Disposição final
 
-###### Art. 23.º As dúvidas suscitadas no presente Estatuto serão resolvidas por despacho do Secretário Regional de Agricultura e Pescas.
+Art. 23.º As dúvidas suscitadas no presente Estatuto serão resolvidas por despacho do Secretário Regional de Agricultura e Pescas.
 
 Aprovado em 12 de Dezembro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 30 de Dezembro de 1978.**
+Assinado em 30 de Dezembro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

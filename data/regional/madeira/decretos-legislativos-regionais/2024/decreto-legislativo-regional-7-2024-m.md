@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20600/0005200053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2024/10/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2024-892301185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81bc4881cd9a19948cb9e81b2310219bd05efbb1ad41ec71fdc57190f1d577a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0809c54687c0df7f0588c569bcb3ae2638c84e1a31fa9bc9e656eec2733dd372
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRS
 - IRS
 - Madeira.região Autónoma
-- Benefícios Fiscais
 - Retenção na Fonte
 - Taxa
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:926481290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:3/2001/M
+  label: Altera, a partir de 24 de outubro de 2024, com efeitos a 1 de janeiro de 2024, o artigo 2.º do Decreto Legislativo
+    Regional n.º 3/2001/M, de 22 de fevereiro, Diário da República n.º 45/2001, Série I-A
+  source: null
+  date: '2001-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/decleg
   label: null
@@ -117,16 +123,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/2024/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/2024/08/07/p/dre
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139918084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186721644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74985443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875716577:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:55Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +197,11 @@ Porém, por força da alteração das taxas gerais prevista no artigo 68.º do C
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, e nas alíneas f) do n.º 1 do artigo 37.º e ff) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, e nas alíneas f) do n.º 1 do artigo 37.º e ff) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto legislativo regional altera o [Decreto Legislativo Regional n.º 3/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2001-386785), de 22 de fevereiro, republicado pelo [Decreto Legislativo Regional n.º 33/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2016-74985443), de 20 de julho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>42-A/2016/M, de 30 de dezembro, [2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, [26/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), de 31 de dezembro, [12/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), de 10 de agosto, [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro, [28-A/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), de 30 de dezembro, [14/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), de 27 de julho, [26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+O presente decreto legislativo regional altera o [Decreto Legislativo Regional n.º 3/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2001-386785), de 22 de fevereiro, republicado pelo [Decreto Legislativo Regional n.º 33/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2016-74985443), de 20 de julho, alterado pelos Decretos Legislativos Regionais n.os42-A/2016/M, de 30 de dezembro, [2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), de 9 de janeiro, [26/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), de 31 de dezembro, [12/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), de 10 de agosto, [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro, [28-A/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), de 30 de dezembro, [14/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), de 27 de julho, [26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
 ###### Artigo 2.º — Taxas do imposto sobre o rendimento das pessoas singulares
 
@@ -159,9 +213,9 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-| Rendimento coletável (em euros) | Normal (A) | Média (B) |
+| Rendimento coletável (em euros) | Taxas (em percentagem) |  |
 | --- | --- | --- |
-| Rendimento coletável (em euros) | Taxas (em percentagem) | Taxas (em percentagem) |
+| Normal (A) | Média (B) |  |
 | Até 7703 | 9,10 | 9,100 |
 | De mais de 7703 até 11 623 | 11,55 | 9,926 |
 | De mais de 11 623 até 16 472 | 15,40 | 11,538 |
@@ -184,10 +238,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de outubro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 21 de outubro de 2024.**
+Assinado em 21 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118259031
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { text-decoration:none; }

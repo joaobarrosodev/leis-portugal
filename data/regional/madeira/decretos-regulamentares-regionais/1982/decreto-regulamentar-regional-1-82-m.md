@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe5f1035c4d4aa49b719f15c54bd7a6d0e545d1d51bcb798d1f60d0581f82f23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b4ef693d870f27cd5ce6c97ee1cfb5cf2d3ff1fb384b6cd41ad7f11e1021e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Educação e Cultura
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:09Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +121,11 @@ ORGÂNICA DA SECRETARIA REGIONAL DA EDUCAÇÃO E CULTURA
 
 ## TÍTULO I — Conceito, atribuições e competências
 
-###### Artigo 1.º A Secretaria Regional da Educação e Cultura, abreviadamente designada por SREC, é o departamento do Governo da Região Autónoma da Madeira a que se refere a alínea f) do n.º 2 do artigo 2.º do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), de 10 de Março, cujas atribuições e orgânica passam a ser as constantes do presente diploma e dos anexos que dele fizerem parte integrante.
+Artigo 1.º A Secretaria Regional da Educação e Cultura, abreviadamente designada por SREC, é o departamento do Governo da Região Autónoma da Madeira a que se refere a alínea f) do n.º 2 do artigo 2.º do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), de 10 de Março, cujas atribuições e orgânica passam a ser as constantes do presente diploma e dos anexos que dele fizerem parte integrante.
 
-###### Art. 2.º Constituem atribuições da SREC o estudo e a execução da política educativa, cultural e desportiva para a Região Autónoma da Madeira, assim como contribuir para a definição dos princípios gerais do Sistema Nacional de Educação.
+Art. 2.º Constituem atribuições da SREC o estudo e a execução da política educativa, cultural e desportiva para a Região Autónoma da Madeira, assim como contribuir para a definição dos princípios gerais do Sistema Nacional de Educação.
 
-###### Art. 3.º No âmbito da competência genérica referida no artigo anterior, incumbe especialmente à SREC:
+Art. 3.º No âmbito da competência genérica referida no artigo anterior, incumbe especialmente à SREC:
 
 a) Estudar, orientar e executar a política educativa e cultural na Região, assim como contribuir para a sua definição;
 
@@ -108,7 +139,7 @@ d) Assegurar a observância das disposições reguladoras das tarefas que lhe s�
 
 ### CAPÍTULO I — Estrutura geral
 
-###### Art. 4.º A Secretaria Regional da Educação e Cultura compreende os seguintes serviços e departamentos de concepção, coordenação, apoio e execução:
+Art. 4.º A Secretaria Regional da Educação e Cultura compreende os seguintes serviços e departamentos de concepção, coordenação, apoio e execução:
 
 a) Gabinete do Secretário Regional;
 
@@ -124,13 +155,13 @@ f) Direcção Regional dos Assuntos Culturais;
 
 g) Direcção Regional dos Desportos.
 
-###### Art. 5.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
+Art. 5.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 ##### DIVISÃO I — Gabinete do Secretário Regional
 
-###### Art. 6.º - 1 - Compete ao Secretário Regional:
+Art. 6.º - 1 - Compete ao Secretário Regional:
 
 a) Representar a Secretaria;
 
@@ -146,7 +177,7 @@ f) Praticar as acções concernentes ao provimento, movimento e disciplina dos f
 
 2 - O Secretário Regional pode delegar nos directores regionais ou directores de serviços e demais pessoal dirigente as competências que julgar convenientes, nos termos e condições da lei.
 
-###### Art. 7.º - 1 - O Gabinete do Secretário Regional é constituído pelo chefe de gabinete, um adjunto e um secretário particular.
+Art. 7.º - 1 - O Gabinete do Secretário Regional é constituído pelo chefe de gabinete, um adjunto e um secretário particular.
 
 2 - Para além do pessoal referido no n.º 1, o Secretário Regional poderá destacar dos serviços da SREC os funcionários necessários para prestarem apoio ao seu Gabinete, em número não superior a 4 elementos, sendo 2 do pessoal técnico superior e 2 do pessoal técnico-profissional e ou administrativo.
 
@@ -162,9 +193,9 @@ d) Assegurar o expediente do Gabinete e executar os demais serviços que lhe for
 
 ##### DIVISÃO II — Auditoria Jurídica
 
-###### Art. 9.º A Auditoria Jurídica é o órgão de consulta jurídica e apoio legislativo da SREC.
+Art. 9.º A Auditoria Jurídica é o órgão de consulta jurídica e apoio legislativo da SREC.
 
-###### Art. 10.º A Auditoria Jurídica exerce a sua competência nos seguintes domínios:
+Art. 10.º A Auditoria Jurídica exerce a sua competência nos seguintes domínios:
 
 a) Elaboração e apoio legislativo;
 
@@ -174,35 +205,35 @@ c) Contencioso administrativo;
 
 d) Colaboração no poder disciplinar.
 
-###### Art. 11.º No domínio da elaboração e apoio legislativo compete-lhe:
+Art. 11.º No domínio da elaboração e apoio legislativo compete-lhe:
 
 a) Elaborar os projectos de diplomas legais e quaisquer outros que lhe sejam solicitados pelo Secretário Regional;
 
 b) Verificar, relativamente aos projectos de diplomas que lhe sejam submetidos para apreciação, do seu rigor técnico-jurídico, propondo as alterações que se mostrarem necessárias.
 
-###### Art. 12.º No exercício da consulta jurídica compete-lhe:
+Art. 12.º No exercício da consulta jurídica compete-lhe:
 
 a) Dar pareceres, informações e proceder a estudos jurídicos sobre quaisquer assuntos que lhe sejam submetidos;
 
 b) Suscitar oficiosamente quaisquer questões de natureza jurídica de que tenha tomado conhecimento por via do exercício das suas funções.
 
-###### Art. 13.º Em matéria de contencioso administrativo, compete-lhe:
+Art. 13.º Em matéria de contencioso administrativo, compete-lhe:
 
 a) Organizar os processos administrativos relativos aos recursos em que tenha intervindo;
 
 b) Preparar os projectos de resposta nos recursos do contencioso administrativo, para aprovação superior, quando nesses recursos seja citada, para responder, a SREC.
 
-###### Art. 14.º À Auditoria Jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
+Art. 14.º À Auditoria Jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
 
 a) Intervir em quaisquer sindicâncias, inquéritos ou averiguações, designadamente quando para a instrução dos respectivos processos se torne necessária a nomeação de pessoas com formação jurídica;
 
 b) Pronunciar-se sobre quaisquer dos processos referidos na alínea anterior que hajam subido à SREC e que, sendo oriundos de outros departamentos, naquela devam ser resolvidos.
 
-###### Art. 15.º A Auditoria Jurídica será coordenada pelo assessor jurídico, que, na sua falta ou impedimento, será substituído pelo técnico superior mais qualificado.
+Art. 15.º A Auditoria Jurídica será coordenada pelo assessor jurídico, que, na sua falta ou impedimento, será substituído pelo técnico superior mais qualificado.
 
 ##### DIVISÃO III — Departamento Regional de Estudos e Planeamento Educativo
 
-###### Art. 16.º O Departamento Regional de Estudos e Planeamento Educativo (DREPE) é um órgão de concepção, coordenação e apoio, no âmbito da SREC, ao qual incumbe, nomeadamente:
+Art. 16.º O Departamento Regional de Estudos e Planeamento Educativo (DREPE) é um órgão de concepção, coordenação e apoio, no âmbito da SREC, ao qual incumbe, nomeadamente:
 
 a) Contribuir para a formulação da política educativa na Região, bem como proceder ao estudo das carências e planeamento das actividades a realizar no âmbito do ensino;
 
@@ -228,7 +259,7 @@ k) Fomentar a participação da SREC no âmbito da cooperação internacional;
 
 l) Contribuir para o entendimento de que a RAM pode constituir uma área-piloto de medidas próprias.
 
-###### Art. 17.º O Departamento Regional de Estudos e Planeamento Educativo compreende:
+Art. 17.º O Departamento Regional de Estudos e Planeamento Educativo compreende:
 
 a) Direcção de Serviços de Estudos e Planeamento;
 
@@ -236,9 +267,11 @@ b) Direcção de Serviços de Programação e Controle;
 
 c) Secção Administrativa e Documental.
 
-##### SUBDIVISÃO I — Direcção de Serviços de Estudos e Planeamento
+SUBDIVISÃO I
 
-###### Art. 18.º À Direcção de Serviços de Estudos e Planeamento compete, designadamente:
+Direcção de Serviços de Estudos e Planeamento
+
+Art. 18.º À Direcção de Serviços de Estudos e Planeamento compete, designadamente:
 
 a) Contribuir para a dinamização da renovação permanente da actividade educativa, elaborando estudos, relatórios, pareceres ou projectos no domínio da inovação educacional, bem como no das grandes linhas de acção pedagógica;
 
@@ -258,9 +291,11 @@ h) Contribuir para o aperfeiçoamento de técnicas de planeamento educativo e pa
 
 i) Preparação dos planos, no sector da educação.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Programação e Controle
+SUBDIVISÃO II
 
-###### Art. 19.º À Direcção de Serviços de Programação e Controle compete:
+Direcção de Serviços de Programação e Controle
+
+Art. 19.º À Direcção de Serviços de Programação e Controle compete:
 
 a) Acompanhamento e avaliação da execução dos investimentos do Plano e elaboração dos relatórios respeitantes a essa execução;
 
@@ -274,9 +309,11 @@ e) Acompanhar a execução dos planos de formação de professores;
 
 f) Promover uma racional utilização das instalações escolares, através de acções convenientes, em colaboração com a SREC, tendo em vista uma optimização das mesmas.
 
-##### SUBDIVISÃO III — Secção Administrativa e Documental
+SUBDIVISÃO III
 
-###### Art. 20.º À Secção Administrativa e Documental compete:
+#### Secção Administrativa e Documental
+
+Art. 20.º À Secção Administrativa e Documental compete:
 
 a) Assegurar o serviço de expediente geral do DREPE;
 
@@ -290,9 +327,9 @@ e) Compilar, organizar e difundir, sempre que possível, a documentação de nat
 
 ##### DIVISÃO IV — Direcção Regional de Finanças, Administração e Pessoal
 
-###### Art. 21.º A Direcção Regional de Finanças, Administração e Pessoal (DRFAP) exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços dependentes da Secretaria Regional da Educação e Cultura.
+Art. 21.º A Direcção Regional de Finanças, Administração e Pessoal (DRFAP) exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços dependentes da Secretaria Regional da Educação e Cultura.
 
-###### Art. 22.º À Direcção Regional de Finanças, Administração e Pessoal compete, nomeadamente:
+Art. 22.º À Direcção Regional de Finanças, Administração e Pessoal compete, nomeadamente:
 
 a) Superintender e coordenar a gestão administrativa e financeira dos estabelecimentos de ensino, bem como dos órgãos e serviços dependentes da Secretaria Regional;
 
@@ -304,7 +341,7 @@ d) Proceder ao tratamento dos dados estatísticos relativos às áreas de compet
 
 e) Superintender e coordenar os Serviços de Acção Social Escolar.
 
-###### Art. 23.º - 1 - A Direcção Regional de Finanças, Administração e Pessoal compreende as seguintes direcções de serviços:
+Art. 23.º - 1 - A Direcção Regional de Finanças, Administração e Pessoal compreende as seguintes direcções de serviços:
 
 a) Direcção de Serviços de Administração e Pessoal;
 
@@ -316,9 +353,11 @@ a) Divisão de Finanças;
 
 b) Inspecção Administrativo-Financeira, como órgão administrativo-financeiro e disciplinar, no âmbito de actuação dos órgãos que integram aquela Direcção Regional.
 
-##### SUBDIVISÃO I — Direcção de Serviços de Administração e Pessoal
+SUBDIVISÃO I
 
-###### Art. 24.º À Direcção de Serviços de Administração e Pessoal compete, designadamente:
+Direcção de Serviços de Administração e Pessoal
+
+Art. 24.º À Direcção de Serviços de Administração e Pessoal compete, designadamente:
 
 a) Proceder à preparação e execução das operações ligadas à gestão de todo o pessoal docente, técnico, administrativo, operário e auxiliar de todos os estabelecimentos de ensino oficial;
 
@@ -330,7 +369,7 @@ d) Realizar, em coordenação com os serviços centrais do MEC, acções de form
 
 e) Proceder à recolha de dados estatísticos relativos a esta Direcção de Serviços.
 
-###### Art. 25.º A Direcção de Serviços de Administração e Pessoal compreende os seguintes serviços:
+Art. 25.º A Direcção de Serviços de Administração e Pessoal compreende os seguintes serviços:
 
 a) Divisão de Pessoal;
 
@@ -338,9 +377,11 @@ b) Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário;
 
 c) Repartição Administrativa.
 
-#### SECÇÃO I — Divisão de Pessoal
+#### SECÇÃO I
 
-###### Art. 26.º - 1 - À Divisão de Pessoal compete, nomeadamente:
+##### Divisão de Pessoal
+
+Art. 26.º - 1 - À Divisão de Pessoal compete, nomeadamente:
 
 a) Executar todo o serviço de expediente relacionado com o pessoal docente, técnico, administrativo, operário e auxiliar dos estabelecimentos de ensino preparatório e secundário, bem como dos departamentos e serviços da SREC;
 
@@ -354,15 +395,17 @@ e) Proceder à ordenação dos processos de faltas, de concessão de fases, lice
 
 2 - Dependente da Divisão de Pessoal funciona a Secção de Pessoal.
 
-#### SECÇÃO II — Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário
+#### SECÇÃO II
 
-###### Art. 27.º - 1 - À Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário são atribuídas as competências enunciadas no artigo 26.º, na área específica da sua intervenção.
+##### Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário
+
+Art. 27.º - 1 - À Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário são atribuídas as competências enunciadas no artigo 26.º, na área específica da sua intervenção.
 
 2 - Na dependência daquele Departamento funcionam as Secções de Pessoal e Administrativa.
 
 #### SECÇÃO III — Repartição Administrativa
 
-###### Art. 28.º À Repartição Administrativa compete, nomeadamente:
+Art. 28.º À Repartição Administrativa compete, nomeadamente:
 
 a) Assegurar o expediente dos vários serviços da Secretaria Regional;
 
@@ -376,9 +419,11 @@ e) Prestar apoio administrativo aos grupos de trabalho que forem constituídos n
 
 f) Desempenhar outras funções de natureza administrativa de que seja superiormente incumbida.
 
-##### SUBDIVISÃO II — Direcção de Serviços da Acção Social Escolar
+SUBDIVISÃO II
 
-###### Art. 29.º À Direcção de Serviços da Acção Social Escolar compete, nomeadamente:
+Direcção de Serviços da Acção Social Escolar
+
+Art. 29.º À Direcção de Serviços da Acção Social Escolar compete, nomeadamente:
 
 a) Realizar os estudos necessários à formulação de propostas de definição da política da Acção Social Escolar, propondo, se necessário, a adaptação da legislação nacional aos condicionalismos da Região;
 
@@ -392,9 +437,11 @@ e) Promover a divulgação de informações e documentação relativas às suas 
 
 f) Cooperar com os órgãos competentes da Secretaria Regional dos Assuntos Sociais e Saúde, nos domínios da saúde escolar e da assistência médica e medicamentosa aos estudantes, nomeadamente do seguro escolar.
 
-##### SUBDIVISÃO III — Divisão de Finanças
+SUBDIVISÃO III
 
-###### Art. 30.º - 1 - À Divisão de Finanças compete, especialmente:
+##### Divisão de Finanças
+
+Art. 30.º - 1 - À Divisão de Finanças compete, especialmente:
 
 a) Elaborar os projectos de orçamento da Secretaria Regional;
 
@@ -410,9 +457,11 @@ f) Proceder à recolha dos dados estatísticos referentes à área da sua compet
 
 2 - Dependentes da Divisão de Finanças, funcionam as Secções de Contabilidade e de Orçamentos Escolares.
 
-##### SUBDIVISÃO IV — Inspecção Administrativo-Financeira
+SUBDIVISÃO IV
 
-###### Art. 31.º À Inspecção Administrativo-Financeira, que será orientada por um inspector-coordenador, compete, especialmente:
+Inspecção Administrativo-Financeira
+
+Art. 31.º À Inspecção Administrativo-Financeira, que será orientada por um inspector-coordenador, compete, especialmente:
 
 a) Realizar inspecções ao funcionamento, no plano administrativo-financeiro, dos estabelecimentos oficiais de ensino, bem como dos serviços dependentes da SREC;
 
@@ -426,7 +475,7 @@ e) Colaborar com os serviços da Inspecção Pedagógica na instrução dos proc
 
 ##### DIVISÃO V — Direcção Regional de Ensino
 
-###### Art. 32.º A Direcção Regional de Ensino (DRE) superintende na organização e funcionamento dos ensinos pré-primário, primário, preparatório e secundário, competindo-lhe, especialmente:
+Art. 32.º A Direcção Regional de Ensino (DRE) superintende na organização e funcionamento dos ensinos pré-primário, primário, preparatório e secundário, competindo-lhe, especialmente:
 
 a) Contribuir para a definição da política educativa na Região, em coordenação com os serviços do MEC, garantindo assim a intercomunicabilidade de docentes e discentes;
 
@@ -442,7 +491,7 @@ f) Assegurar, em colaboração com o DREPE, a sequência normal de estudos, dent
 
 g) Promover e preparar as actividades educativas extra-escolares e de promoção cultural, destinadas especialmente à população adulta.
 
-###### Art. 33.º - 1 - A Direcção Regional de Ensino compreende os seguintes serviços:
+Art. 33.º - 1 - A Direcção Regional de Ensino compreende os seguintes serviços:
 
 a) Direcção de Serviços dos Ensinos Pré-Primário e Primário;
 
@@ -458,9 +507,11 @@ a) Inspecção Pedagógica, como serviço de controle e fiscalização pedagógi
 
 b) Centro de Meios Áudio-Visuais, que proporcionará às escolas, professores e alunos o apoio das técnicas e meios áudio-visuais.
 
-##### SUBDIVISÃO I — Direcção de Serviços dos Ensinos Pré-Primário e Primário
+SUBDIVISÃO I
 
-###### Art. 34.º À Direcção de Serviços dos Ensinos Pré-Primário e Primário compete, especialmente:
+Direcção de Serviços dos Ensinos Pré-Primário e Primário
+
+Art. 34.º À Direcção de Serviços dos Ensinos Pré-Primário e Primário compete, especialmente:
 
 a) Promover e fomentar a realização de acções para a formação contínua de educadores de infância e de professores do ensino primário, em colaboração directa com o DREPE e serviços correspondentes do MEC;
 
@@ -476,9 +527,11 @@ f) Orientar, em colaboração com a Direcção de Serviços do Ensino Particular
 
 g) Executar todas as actividades que forem definidas no domínio da educação permanente.
 
-##### SUBDIVISÃO II — Direcção de Serviços do Ensino Preparatório
+SUBDIVISÃO II
 
-###### Art. 35.º À Direcção de Serviços do Ensino Preparatório compete, especialmente:
+Direcção de Serviços do Ensino Preparatório
+
+Art. 35.º À Direcção de Serviços do Ensino Preparatório compete, especialmente:
 
 a) Promover a realização de medidas que visem a melhoria da qualidade e eficiência do ensino preparatório directo e indirecto, em colaboração estreita com o Centro de Meios Áudio-Visuais;
 
@@ -488,9 +541,11 @@ c) Observar, em colaboração com a Inspecção Pedagógica, as condições de a
 
 d) Promover acções destinadas à sensibilização de educandos e encarregados de educação para o cumprimento da escolaridade obrigatória.
 
-##### SUBDIVISÃO III — Direcção de Serviços do Ensino Secundário
+SUBDIVISÃO III
 
-###### Art. 36.º À Direcção de Serviços do Ensino Secundário compete, especialmente:
+Direcção de Serviços do Ensino Secundário
+
+Art. 36.º À Direcção de Serviços do Ensino Secundário compete, especialmente:
 
 a) Promover a realização de medidas que visem a melhoria da qualidade e eficiência do ensino secundário;
 
@@ -500,9 +555,11 @@ c) Proporcionar, sempre que for possível e oportuno, aos alunos dos cursos comp
 
 d) Promover as medidas indispensáveis com vista a uma eficiente orientação escolar e vocacional dos alunos.
 
-##### SUBDIVISÃO IV — Direcção de Serviços do Ensino Particular e Cooperativo
+SUBDIVISÃO IV
 
-###### Art. 37.º A Direcção de Serviços do Ensino Particular e Cooperativo exercerá a superintendência em todo o ensino ministrado fora dos estabelecimentos públicos, com excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior, competindo-lhe, nomeadamente:
+Direcção de Serviços do Ensino Particular e Cooperativo
+
+Art. 37.º A Direcção de Serviços do Ensino Particular e Cooperativo exercerá a superintendência em todo o ensino ministrado fora dos estabelecimentos públicos, com excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior, competindo-lhe, nomeadamente:
 
 a) Proporcionar aos estabelecimentos de ensino particular e cooperativo o apoio técnico nos domínios pedagógico e administrativo, em colaboração com as demais direcções desta Secretaria Regional, nos termos previstos por lei;
 
@@ -516,9 +573,11 @@ e) Accionar as acções relativas aos processos de concessão de paralelismo e a
 
 f) Proceder à apreciação dos relatórios apresentados pelos diversos estabelecimentos de ensino particular e cooperativo insertos nesta Região, com a colaboração da Inspecção Pedagógica.
 
-##### SUBDIVISÃO V — Inspecção Pedagógica
+SUBDIVISÃO V
 
-###### Art. 38.º À Inspecção Pedagógica, que será orientada por um inspector-coordenador, compete, especialmente:
+Inspecção Pedagógica
+
+Art. 38.º À Inspecção Pedagógica, que será orientada por um inspector-coordenador, compete, especialmente:
 
 a) Verificar e assegurar o cumprimento das disposições legais e das orientações de âmbito pedagógico, definidas superiormente;
 
@@ -544,9 +603,11 @@ k) Dar parecer, sempre que solicitada, sobre as formas de assegurar a escolarida
 
 l) Propor e colaborar na instauração de processos de sindicância, bem como instruir processos de inquérito e processos disciplinares ao pessoal docente dos estabelecimentos de ensino oficial, particular e cooperativo.
 
-##### SUBDIVISÃO VI — Centro de Meios Áudio-Visuais
+SUBDIVISÃO VI
 
-###### Art. 39.º Ao Centro de Meios Áudio-Visuais, que será chefiado por um director, compete, nomeadamente:
+Centro de Meios Áudio-Visuais
+
+Art. 39.º Ao Centro de Meios Áudio-Visuais, que será chefiado por um director, compete, nomeadamente:
 
 a) Enquadrar professores e alunos na importância pedagógica das técnicas áudio-visuais, possibilitando-lhes um contacto mais directo com o equipamento áudio-visual e dando-lhes condições de vir a produzir o seu próprio material;
 
@@ -564,9 +625,9 @@ g) Passar a vidéocassette filmes que, pelo seu conteúdo, interessem às escola
 
 ##### DIVISÃO VI — Direcção Regional dos Assuntos Culturais
 
-###### Art. 40.º A Direcção Regional dos Assuntos Culturais (DRAC) é o órgão da SREC ao qual incumbe contribuir para a definição e orientação da política cultural da Região, bem como executar, coordenar e conduzir as acções a ela inerentes.
+Art. 40.º A Direcção Regional dos Assuntos Culturais (DRAC) é o órgão da SREC ao qual incumbe contribuir para a definição e orientação da política cultural da Região, bem como executar, coordenar e conduzir as acções a ela inerentes.
 
-###### Art. 41.º No âmbito das suas atribuições, compete-lhe, nomeadamente:
+Art. 41.º No âmbito das suas atribuições, compete-lhe, nomeadamente:
 
 a) Promover o arrolamento, inventário, classificação, recuperação, restauro, conservação, reavaliação e reconversão do património cultural da Região;
 
@@ -588,7 +649,7 @@ i) Aprovar planos, propostas e estimativas de gastos apresentados pelas direcç�
 
 j) Incentivar e apoiar a criação de condições tendentes à formação integral da juventude.
 
-###### Art. 42.º - 1 - A Direcção Regional dos Assuntos Culturais é constituída por:
+Art. 42.º - 1 - A Direcção Regional dos Assuntos Culturais é constituída por:
 
 a) Direcção de Serviços dos Assuntos Culturais;
 
@@ -600,9 +661,11 @@ d) Secção administrativa.
 
 2 - Na dependência do director regional dos Assuntos Culturais funcionará uma inspecção regional de espectáculos, fundo de teatro e instituto de cinema, a regulamentar em diploma, que será posteriormente publicado.
 
-##### SUBDIVISÃO I — Direcção de Serviços dos Assuntos Culturais
+SUBDIVISÃO I
 
-###### Art. 43.º A Direcção de Serviços dos Assuntos Culturais é o órgão executivo incumbido de:
+Direcção de Serviços dos Assuntos Culturais
+
+Art. 43.º A Direcção de Serviços dos Assuntos Culturais é o órgão executivo incumbido de:
 
 a) Proceder ao levantamento de toda a bibliografia existente sobre a história da Madeira;
 
@@ -618,9 +681,11 @@ f) Sugerir e orientar edições e reedições de obras de temática histórica;
 
 g) Elaborar planos, propostas e estimativas de gastos, em ordem à consecução dos objectivos definidos, à inserção recomendável na estrutura escolar vigente, à selecção e qualificação de pessoal e à planificação orçamental desta Direcção Regional.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Defesa do Património Cultural
+SUBDIVISÃO II
 
-###### Art. 44.º A Direcção de Serviços de Defesa do Património Cultural é o órgão executivo incumbido de:
+Direcção de Serviços de Defesa do Património Cultural
+
+Art. 44.º A Direcção de Serviços de Defesa do Património Cultural é o órgão executivo incumbido de:
 
 a) Promover o arrolamento, inventário crítico, classificação, avaliação, recuperação, restauro, conservação e reconversão do património cultural da Região, com a correspondente interpretação, em ordem à criação de uma estrutura museológica específica;
 
@@ -640,11 +705,13 @@ h) Colaborar com os departamentos regionais e ou nacionais no domínio dos edif�
 
 i) Elaborar planos, propostas e estimativas de gastos, em ordem à consecução dos objectivos definidos, à inserção recomendável na estrutura escolar vigente, à selecção e qualificação de pessoal e à planificação orçamental desta Direcção Regional.
 
-##### SUBDIVISÃO III — Direcção de Serviços da Juventude
+SUBDIVISÃO III
 
-###### Art. 45.º A Direcção de Serviços da Juventude é o órgão da SREC que, na dependência da DRAC e em estreita colaboração com a Direcção Regional dos Desportos, visa criar as condições e estruturas necessárias à formação integral da juventude.
+Direcção de Serviços da Juventude
 
-###### Art. 46.º - 1 - À Direcção de Serviços da Juventude, no âmbito da competência genérica enunciada no artigo anterior, incumbe, designadamente:
+Art. 45.º A Direcção de Serviços da Juventude é o órgão da SREC que, na dependência da DRAC e em estreita colaboração com a Direcção Regional dos Desportos, visa criar as condições e estruturas necessárias à formação integral da juventude.
+
+Art. 46.º - 1 - À Direcção de Serviços da Juventude, no âmbito da competência genérica enunciada no artigo anterior, incumbe, designadamente:
 
 a) Apoiar, coordenar e desenvolver actividades juvenis de valor educativo, para preenchimento dos tempos livres, tendo em vista a evolução global do jovem, como pessoa;
 
@@ -666,7 +733,7 @@ i) Promover a criação de centros de ocupação dos tempos livres, com regulame
 
 2 - Na Direcção de Serviços da Juventude funcionará uma secção administrativa.
 
-###### Art. 47.º - 1 - Na dependência da Direcção de Serviços dos Assuntos Culturais funcionam os seguintes serviços:
+Art. 47.º - 1 - Na dependência da Direcção de Serviços dos Assuntos Culturais funcionam os seguintes serviços:
 
 a) Centro de Apoio de Ciências Históricas;
 
@@ -700,9 +767,9 @@ d) Núcleo de Animação e Divulgação Cultural.
 
 ##### DIVISÃO VII — Direcção Regional dos Desportos
 
-###### Art. 48.º A Direcção Regional dos Desportos (DRD) é o órgão da SREC que visa a criação das condições técnicas, materiais e humanas necessárias ao desenvolvimento desportivo e ao apoio e fomento das iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
+Art. 48.º A Direcção Regional dos Desportos (DRD) é o órgão da SREC que visa a criação das condições técnicas, materiais e humanas necessárias ao desenvolvimento desportivo e ao apoio e fomento das iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
 
-###### Art. 49.º No âmbito da competência genérica definida no artigo anterior, à DRD compete, especialmente:
+Art. 49.º No âmbito da competência genérica definida no artigo anterior, à DRD compete, especialmente:
 
 a) Definir as modalidades desportivas de âmbito regional, estabelecendo as suas áreas de implantação e a sua delimitação geográfica, criando pólos de desenvolvimento;
 
@@ -722,7 +789,7 @@ h) Fomentar o contacto com os diversos órgãos correspondentes do Governo Centr
 
 i) Fazer a articulação com as câmaras municipais e conselhos directivos, com vista a uma utilização maximizada das instalações desportivas, afectas à SREC.
 
-###### Art. 50.º A Direcção Regional dos Desportos compreende os seguintes órgãos e serviços:
+Art. 50.º A Direcção Regional dos Desportos compreende os seguintes órgãos e serviços:
 
 a) Conselho Coordenador Desportivo;
 
@@ -734,11 +801,13 @@ d) Serviços sub-regionais;
 
 e) Secção administrativa.
 
-##### SUBDIVISÃO I — Conselho Coordenador Desportivo
+SUBDIVISÃO I
 
-###### Art. 51.º O Conselho Coordenador Desportivo é o órgão de consulta, coordenação e apoio da DRD no exercício das suas atribuições.
+Conselho Coordenador Desportivo
 
-###### Art. 52.º O Conselho Coordenador Desportivo terá a seguinte constituição:
+Art. 51.º O Conselho Coordenador Desportivo é o órgão de consulta, coordenação e apoio da DRD no exercício das suas atribuições.
+
+Art. 52.º O Conselho Coordenador Desportivo terá a seguinte constituição:
 
 a) Director regional dos Desportos;
 
@@ -762,7 +831,7 @@ j) 1 representante da Secretaria Regional dos Assuntos Sociais e Saúde;
 
 k) 1 representante das estruturas militares.
 
-###### Art. 53.º Compete ao Conselho Coordenador Desportivo:
+Art. 53.º Compete ao Conselho Coordenador Desportivo:
 
 a) Assegurar a coordenação entre todos os sectores que intervêm, directa ou indirectamente, no processo desportivo;
 
@@ -770,9 +839,11 @@ b) Propor e colaborar nos estudos relativos à situação desportiva regional, s
 
 c) Colaborar e dar parecer em todos os assuntos que o director regional entenda conveniente submeter-lhe.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação
+SUBDIVISÃO II
 
-###### Art. 54.º À Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação compete, especialmente:
+Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação
+
+Art. 54.º À Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação compete, especialmente:
 
 a) Estudar a situação desportiva regional, a todos os níveis;
 
@@ -794,9 +865,11 @@ i) Intensificar o apoio documental, promovendo a edição de um boletim ou revis
 
 j) Estabelecer formas de coordenação e informação com o Centro de Documentação e Informação da Direcção-Geral dos Desportos e do Instituto Superior de Educação Física.
 
-##### SUBDIVISÃO III — Direcção de Serviços de Actividades, Instalações e Apetrechamento
+SUBDIVISÃO III
 
-###### Art. 55.º À Direcção de Serviços de Actividades, Instalações e Apetrechamento compete, especialmente:
+Direcção de Serviços de Actividades, Instalações e Apetrechamento
+
+Art. 55.º À Direcção de Serviços de Actividades, Instalações e Apetrechamento compete, especialmente:
 
 a) Fomentar e coordenar todas as áreas de actividades desportivas;
 
@@ -818,11 +891,13 @@ i) Promover a criação de áreas de práticas desportivas de manutenção para 
 
 j) Cooperar na elaboração de estudos e projectos de normalização de construções de instalações e apetrechamento desportivo, em conformidade com as conclusões do I Seminário de Arquitectura Desportiva e Turística, em estreita colaboração com o DREPE, a SREC e as autarquias locais.
 
-###### Art. 56.º A Direcção de Serviços de Actividades, Instalações e Apetrechamento compreende ainda uma Divisão de Actividades.
+Art. 56.º A Direcção de Serviços de Actividades, Instalações e Apetrechamento compreende ainda uma Divisão de Actividades.
 
-#### SECÇÃO I — Divisão de Actividades
+#### SECÇÃO I
 
-###### Art. 57.º A esta Divisão compete, nomeadamente:
+##### Divisão de Actividades
+
+Art. 57.º A esta Divisão compete, nomeadamente:
 
 a) Desenvolver, através do apoio a prestar às associações regionais, os programas de acção das modalidades a pôr em prática na Região;
 
@@ -832,15 +907,17 @@ c) Orientar as campanhas de informação que concretizem o enunciado na alínea 
 
 d) Pôr em prática e apoiar, técnica e materialmente, as práticas desportivas de manutenção para a terceira idade e deficientes.
 
-##### SUBDIVISÃO IV — Serviços sub-regionais
+SUBDIVISÃO IV
 
-###### Art. 58.º Os serviços sub-regionais (delegações da DRD) serão criados por despacho do Secretário Regional da Educação e Cultura, mediante proposta do director regional dos Desportos, e tem por objectivos:
+Serviços sub-regionais
+
+Art. 58.º Os serviços sub-regionais (delegações da DRD) serão criados por despacho do Secretário Regional da Educação e Cultura, mediante proposta do director regional dos Desportos, e tem por objectivos:
 
 a) Permitir uma descentralização dos serviços nas zonas onde o crescimento do fenómeno desportivo a justifique;
 
 b) Apoiar e coordenar todas as actividades desportivas desenvolvidas nas referidas zonas, de acordo com regulamentação a ser criada.
 
-###### Art. 59.º - 1 - Na dependência da Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação funcionam:
+Art. 59.º - 1 - Na dependência da Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação funcionam:
 
 a) Escolas de desporto;
 
@@ -856,7 +933,7 @@ c) Outras instalações desportivas a ser integradas no património da SREC.
 
 ## TÍTULO III — Pessoal
 
-###### Art. 60.º - 1 - O pessoal do quadro da SREC é agrupado em:
+Art. 60.º - 1 - O pessoal do quadro da SREC é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -872,7 +949,7 @@ e) Pessoal operário e auxiliar.
 
 3 - A composição do quadro poderá ser alterada, quando as circunstâncias o justifiquem, por portaria conjunta do Presidente do Governo Regional, do Secretário Regional do Planeamento e Finanças e do Secretário Regional da Educação e Cultura.
 
-###### Art. 61.º - 1 - As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal no quadro da SREC serão realizadas de harmonia com as disposições conjugadas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e dos artigos 20.º, 21.º, 23.º, 25.º, 31.º, 33.º, 34.º e 35.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 61.º - 1 - As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal no quadro da SREC serão realizadas de harmonia com as disposições conjugadas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e dos artigos 20.º, 21.º, 23.º, 25.º, 31.º, 33.º, 34.º e 35.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
 2 - À categoria de banheiro é aplicado o disposto na alínea a) do n.º 2 e nos n.os 3, 7 e 8 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
@@ -880,32 +957,32 @@ e) Pessoal operário e auxiliar.
 
 4 - A aplicação do artigo 30.º do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, depende exclusivamente de decisão do Plenário do Governo Regional, por iniciativa do respectivo Presidente ou do Secretário Regional da Educação e Cultura.
 
-###### Art. 62.º O Secretário Regional poderá autorizar a contratação, além dos quadros, de pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços da SREC.
+Art. 62.º O Secretário Regional poderá autorizar a contratação, além dos quadros, de pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços da SREC.
 
-###### Art. 63.º Para o estudo de problemas específicos, poderão ser constituídos grupos de trabalho, cujo mandato, composição, funcionamento e demais condições serão estabelecidos em despacho do Secretário Regional da Educação e Cultura.
+Art. 63.º Para o estudo de problemas específicos, poderão ser constituídos grupos de trabalho, cujo mandato, composição, funcionamento e demais condições serão estabelecidos em despacho do Secretário Regional da Educação e Cultura.
 
 ## TÍTULO IV — Disposições finais
 
-###### Art. 64.º - 1 - A implantação de novos cursos de ensino médio, bem como a adopção de medidas visando a extensão e criação do ensino superior e universitário na Região, estarão na dependência directa do Secretário Regional da Educação e Cultura, que promoverá as acções e as iniciativas necessárias nestes domínios.
+Art. 64.º - 1 - A implantação de novos cursos de ensino médio, bem como a adopção de medidas visando a extensão e criação do ensino superior e universitário na Região, estarão na dependência directa do Secretário Regional da Educação e Cultura, que promoverá as acções e as iniciativas necessárias nestes domínios.
 
 2 - A tutela do Instituto Superior de Artes Plásticas da Madeira e do Conservatório de Música da Madeira está atribuída ao Secretário Regional da Educação e Cultura, bem como em quanto diga respeito à criação de estudos superiores ou universitários da RAM.
 
 3 - A competência mencionada no n.º 2 deste artigo será exercida sem prejuízo da observância dos princípios da autonomia universitária e das funções cometidas pelo [Decreto-Lei n.º 664/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1976-429788), de 4 de Agosto, à Comissão Regional para o Ensino Superior e Universitário, ou do diploma que reformule e actualize o seu enquadramento, a acordar com o MEC, através da Secretaria de Estado do Ensino Superior.
 
-###### Art. 65.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho conjunto do Presidente do Governo da Região e do Secretário Regional da Educação e Cultura.
+Art. 65.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho conjunto do Presidente do Governo da Região e do Secretário Regional da Educação e Cultura.
 
-###### Art. 66.º Este diploma entra imediatamente em vigor.
+Art. 66.º Este diploma entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo de 16 de Julho de 1981.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 18 de Dezembro de 1981.**
+Assinado em 18 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO — Quadro do pessoal a que se refere e n.º 2 do artigo 69.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02400/02120224.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02400/02120224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02400/02120224.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/2010/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2010-611935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1a983baf71a7ef15a66e90c3760080121c18772f363b1d2868cd5aaf8b66ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d92239c25ca0c7b25a3908344d05647a805c677c147d56b873d1bcb55e6b32c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Agrícola
-- Instituto da ÁGUA
 - Aveiro
-- Ordenamento do Território
 - Direção Geral da Agricultura e Desenvolvimento Rural
 - Elvas
+- Instituto da ÁGUA
 - Lista
 - MIRA
+- Ordenamento do Território
+- Pesticida
 - Política de Solos
 - Poluição da água
-- Pesticida
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:44Z'
   warnings: []
   errors: []
 ---
@@ -131,14 +131,14 @@ Os limites das zonas vulneráveis Aveiro e Mira, definidos pela Portaria n.º 11
 
 Em 8 de Março de 2010.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
 ## ANEXO I — Zonas vulneráveis
 
 Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)
 
 ## ANEXO II — Zonas vulneráveis - Cartas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)

@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1615-2000-3349370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64784e044f16cd0ec72a72cbe984d13429d854a70ff1f5b6f5a3279e3210f0b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf4b6f4dc2a655c3de0ebccd7202e063ddd7d020b18cdab0339162e1c8cd21c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Militar
+- Missão no Estrangeiro
+- NATO
+- Nomeação
+- RFA
 relationships:
 - type: amended_by
   target: pt:dre:2971308:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2971308:por
+  label: "Exonerado o nomeado pela PORT.1282/2003(2ªSérie).30.09.2003.MDN, DR.IIS [240] de 30.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1282-2003-2971308
+  date: '2003-09-30'
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657443:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:08:58Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/194/2011/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/194-2011-287819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d16baef8f173f1b4003a096b4c3fa4d1bfc13a6cac9cef79addbf16314ee0128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 612f45c5f56ff0e7ec22dd61e1e5f4f011a48e7310220edd548b934ee97ec1a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
-- Fundação para a Ciência e a Tecnologia
 - Conservação de Documentos
 - Definição de Competências
-- Documentação
-- Microfilmagem
 - Direcção Geral dos Arquivos
+- Documentação
+- Fundação para a Ciência e a Tecnologia
+- Microfilmagem
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:10Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +126,7 @@ Manda o Governo, pelos Ministros da Ciência, Tecnologia e Ensino Superior e da 
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 3 de Maio de 2011.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Maio de 2011. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 3 de Maio de 2011.
 
 ## ANEXO — REGULAMENTO DE GESTÃO DE DOCUMENTOS DA FUNDAÇÃO PARA A CIÊNCIA E A TECNOLOGIA, I. P.
 
@@ -266,22 +274,22 @@ TABELA
 
 Tabela de selecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
 
 MODELO I
 
 Auto de entrega de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
 
 MODELO II
 
 Guia de remessa de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
 
 MODELO III
 
 Auto de eliminação de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09400/0273802752.pdf)

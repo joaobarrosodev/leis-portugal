@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19300/0554205545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/305/2012/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-2012-175566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1fe6809a5bd1e71f033e018d5c9f177a3f69c55f3681c815f4a0955bbbebb96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9697eea661836c1bf0ef037abac40923c0a8b8b603b7f24853201d380d247c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
+- Direção Regional de Agricultura e Pescas do Alentejo
 - Direcção Regional de Agricultura e Pescas
 - Direcção Regional de Agricultura e Pescas de Lisboa e VALE do TEJO
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
 - Orgânica
 relationships:
 - type: amended_by
@@ -94,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-q/2007/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-q/2007/02/28/p/dre
+- type: cites
+  target: pt:dre:470057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:213558633:por
+  label: Revoga, a partir de 01.06.2023, pelo(a) Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26
+    nos termos do art. 12.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2023-213558633
+  date: '2023-05-26'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:27Z'
   warnings: []
   errors: []
 ---
@@ -304,4 +326,4 @@ São revogadas as Portarias n.os [219-G/2007](https://diariodarepublica.pt/dr/de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 21 de setembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 19 de setembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 21 de setembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 19 de setembro de 2012.

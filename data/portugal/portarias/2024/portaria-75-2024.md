@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/2024/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2024-853918465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 317a3c591139ca3a52033f4698224cd89a89a0937925c0a7a6f60aca4801122a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf401b7688cf3989bec25995d42098ef8baad2b20e08c17e495711241487e4f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
-- Ordenamento do Território
+- Autarquia Local
 - Comunidade Intermunicipal
-- Urbanização
+- Estabelecimento Comercial
 - Estabelecimento Industrial
 - Loteamento Urbano
+- Ordenamento do Território
 - Política de Solos
-- Autarquia Local
+- Urbanização
 relationships:
+- type: amends
+  target: pt:numero:portaria:216-B/2008
+  label: Altera, a partir de 4 de março de 2024, o artigo 1.º e os quadros I e II da Portaria n.º 216-B/2008, de 3 de março,
+    Diário da República n.º 44/2008, 1º Suplemento, Série I
+  source: null
+  date: '2008-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
   label: null
@@ -91,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/216-b/2008/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/216-b/2008/03/03/p/dre
+- type: cites
+  target: pt:dre:203474487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:38Z'
   warnings: []
   errors: []
 ---
@@ -135,14 +161,14 @@ O artigo 1.º, o quadro i e o quadro ii da [Portaria n.º 216-B/2008](https://di
 
 Parâmetros de dimensionamento
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Tipo de ocupação | Espaços verdes e de utilização coletiva | Equipamento de utilização coletiva/habitação pública, de custos controlados ou para arrendamento acessível. | Infraestruturas - estacionamento (a) |
-| Habitação em moradia unifamiliar. | 28 m2/fogo | 35 m2/fogo | 1 lugar/fogo com a. c. (menor que) 120 m2. 2 lugares/fogo com a. c. (igual ou maior que) 120 m2 e (igual ou menor que) 300 m2. 3 lugares/fogo com a. c. (maior que) 300 m2. O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. Habitação pública, de custos controlados ou para arrendamento acessível: 1 lugar/fogo. O número total de lugares resultante da aplicação do critério anterior é acrescido de 10 % para estacionamento público. |
-| Habitação coletiva... | 28 m2/120 m2 a. c. hab. | 35 m2/120 m2 a. c. hab. | Habitação com indicação de tipologia: 1 lugar/fogo T0 e T1; 1,5 lugares/fogo T2 e T3; 2 lugares/fogo T4, T5 e T6; 3 lugares/fogo (maior que) T6. O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. Habitação sem indicação de tipologia: 1 lugar/fogo para a. m. f. (menor que) 90 m2; 1,5 lugares/fogo para a. m. f. (igual ou maior que) 90 m2 e (igual ou menor que) 120 m2; 2 lugares/fogo para a. m. f. (maior que) 120 m2 e (igual ou menor que) 300 m2; 3 lugares/fogo para a. m. f. (maior que) 300 m2. O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. Habitação pública, de custos controlados ou para arrendamento acessível: 1 lugar/fogo. O número total de lugares resultante da aplicação do critério anterior é acrescido de 10 % para estacionamento público. |
-| Comércio... | 28 m2/100 m2 a. c. com. | 25 m2/100 m2 a. c. com. | Comércio: 1 lugar/30 m2 a. c. com. para establ. (menor que) 1000 m2 a. c.; 1 lugar/25 m2 a. c. com. para establ. (igual ou maior que) 1000 m2 a. c. (igual ou menor que) 2500 m2 a. c.; 1 lugar/15 m2 a. c. com. para establ. (maior que) 2500 m2 a. c. e cumulativamente 1 lugar de pesado/200 m2 a. c. com. |
-| Serviços... | 28 m2/100 m2 a. c. serv. | 25 m2/100 m2 a. c. serv. | 3 lugares/100 m2 a. c. serv. para establ. (igual ou menor que) 500 m2. 5 lugares/100 m2 a. c. serv. para establ. (maior que) 500 m2. O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
-| Indústria, logística e ou armazéns. | 23 m2/100 m2 a. c. ind./log./armaz. | 10 m2/100 m2 a. c. ind./log./ armaz. | 1 lugar/75 m2 a. c. ind./log./armaz. Pesados: 1 lugar/500 m2 a. c. ind./log./armaz., com um mínimo de 1 lugar/lote (a localizar no interior do lote). O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Habitação em moradia unifamiliar. | 28 m2/fogo | 35 m2/fogo | 1 lugar/fogo com a. c. (menor que) 120 m2.<br>2 lugares/fogo com a. c. (igual ou maior que) 120 m2 e (igual ou menor que) 300 m2.<br>3 lugares/fogo com a. c. (maior que) 300 m2.<br>O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público.<br>Habitação pública, de custos controlados ou para arrendamento acessível: 1 lugar/fogo.<br>O número total de lugares resultante da aplicação do critério anterior é acrescido de 10 % para estacionamento público. |
+| Habitação coletiva... | 28 m2/120 m2 a. c. hab. | 35 m2/120 m2 a. c. hab. | Habitação com indicação de tipologia:<br>1 lugar/fogo T0 e T1;<br>1,5 lugares/fogo T2 e T3;<br>2 lugares/fogo T4, T5 e T6;<br>3 lugares/fogo (maior que) T6.<br>O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público.<br>Habitação sem indicação de tipologia:<br>1 lugar/fogo para a. m. f. (menor que) 90 m2;<br>1,5 lugares/fogo para a. m. f. (igual ou maior que) 90 m2 e (igual ou menor que) 120 m2;<br>2 lugares/fogo para a. m. f. (maior que) 120 m2 e (igual ou menor que) 300 m2;<br>3 lugares/fogo para a. m. f. (maior que) 300 m2.<br>O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público.<br>Habitação pública, de custos controlados ou para arrendamento acessível: 1 lugar/fogo.<br>O número total de lugares resultante da aplicação do critério anterior é acrescido de 10 % para estacionamento público. |
+| Comércio... | 28 m2/100 m2 a. c. com. | 25 m2/100 m2 a. c. com. | Comércio:<br>1 lugar/30 m2 a. c. com. para establ. (menor que) 1000 m2 a. c.;<br>1 lugar/25 m2 a. c. com. para establ. (igual ou maior que) 1000 m2 a. c. (igual ou menor que) 2500 m2 a. c.;<br>1 lugar/15 m2 a. c. com. para establ. (maior que) 2500 m2 a. c. e cumulativamente 1 lugar de pesado/200 m2 a. c. com. |
+| Serviços... | 28 m2/100 m2 a. c. serv. | 25 m2/100 m2 a. c. serv. | 3 lugares/100 m2 a. c. serv. para establ. (igual ou menor que) 500 m2.<br>5 lugares/100 m2 a. c. serv. para establ. (maior que) 500 m2.<br>O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 30 % para estacionamento público. |
+| Indústria, logística e ou armazéns. | 23 m2/100 m2 a. c. ind./log./armaz. | 10 m2/100 m2 a. c. ind./log./ armaz. | 1 lugar/75 m2 a. c. ind./log./armaz.<br>Pesados: 1 lugar/500 m2 a. c. ind./log./armaz., com um mínimo de 1 lugar/lote (a localizar no interior do lote).<br>O número total de lugares resultante da aplicação dos critérios anteriores é acrescido de 20 % para estacionamento público. |
 
 a. c. ind./log./ rmaz. - área de construção para indústria ou armazéns.»
 
@@ -150,12 +176,12 @@ a. c. ind./log./ rmaz. - área de construção para indústria ou armazéns.»
 
 Parâmetros de dimensionamento
 
-|  |  |
-| --- | --- |
 | Tipos de ocupação | Infraestruturas - arruamentos (b) |
-| Habitação a. c. hab. (maior que) 80 % a. c.... | Perfil tipo (igual ou maior que) 9,7 m. Faixa de rodagem = 6,5 m. Passeio = 1,6 m (x 2). Estacionamento = [(2,5 m) (x 2)] (opcional). Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
-| Habitação (se a. c. hab. (igual ou menor que) 80 %), comércio e ou serviços... | Perfil tipo (igual ou maior que) 12 m. Faixa de rodagem = 7,5 m. Passeios = 2,25 m (x 2). Estacionamento = [(2,25 m) (x 2)] (opcional). Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
-| Quando exista indústria, logística e ou armazéns... | Perfil tipo (igual ou maior que) 12,2 m. Faixa de rodagem = 9 m. Passeios = 1,6 m (x 2). Estacionamento = [(2,25 m) (x 2)] (opcional). Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
+| --- | --- |
+|  |  |
+| Habitação a. c. hab. (maior que) 80 % a. c.... | Perfil tipo (igual ou maior que) 9,7 m.<br>Faixa de rodagem = 6,5 m.<br>Passeio = 1,6 m (x 2). Estacionamento = [(2,5 m) (x 2)] (opcional).<br>Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
+| Habitação (se a. c. hab. (igual ou menor que) 80 %), comércio e ou serviços... | Perfil tipo (igual ou maior que) 12 m.<br>Faixa de rodagem = 7,5 m.<br>Passeios = 2,25 m (x 2).<br>Estacionamento = [(2,25 m) (x 2)] (opcional).<br>Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
+| Quando exista indústria, logística e ou armazéns... | Perfil tipo (igual ou maior que) 12,2 m.<br>Faixa de rodagem = 9 m.<br>Passeios = 1,6 m (x 2).<br>Estacionamento = [(2,25 m) (x 2)] (opcional).<br>Caldeiras para árvores = [(1,0 m) (x 2)] (opcional). |
 
 a. c. ind./log./armaz. - área de construção para indústria ou armazéns.»
 
@@ -167,4 +193,6 @@ Os valores dos parâmetros de dimensionamento das áreas destinadas a espaços v
 
 A presente portaria entra em vigor a 4 de março de 2024, data da entrada em vigor do [Decreto-Lei n.º 10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), de 8 de janeiro.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel, em 23 de fevereiro de 2024.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel, em 23 de fevereiro de 2024.
+
+117402723

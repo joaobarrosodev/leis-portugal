@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-2000-2874482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80f67445a35f0eea4b9a6f7d0998fe9fcb7af510302a51d5cc103e438a56b89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae083f4b032f69761a38a4b989baaf2291f79d15973000efc93e2fb4e48aef78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Curso de Formação de Subcomissários da Polícia de Segurança Pública
+- Formação Profissional
+- PSP
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:14:22Z'
   warnings: []
   errors: []
 ---
@@ -380,7 +389,7 @@ Fato de treino (facultativo).
 
 2 - Os tempos máximos permitidos para a execução de cada prova são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/06/149000000/1106511068.pdf))](https://files.diariodarepublica.pt/2s/2000/06/149000000/1106511068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/06/149000000/1106511068.pdf)
 
 3 - Execução dos exercícios:
 

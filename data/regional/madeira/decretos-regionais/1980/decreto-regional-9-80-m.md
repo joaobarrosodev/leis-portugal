@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-470867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31519be1bb677d77a259775ae7ec402ccee103813bb7899b772f3ddc2aa130cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a304dd79b6d70f2aaf64b34e89a8edbacf6d2a1ecb2ce5e983c48aaaeef300b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Desemprego
+- Gabinete Regional de Gestão do Fundo de Desemprego
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:37Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +104,20 @@ Nestes termos:
 
 De harmonia com a alínea a) do n.º 1 do artigo 229.º da Constituição, e usando da faculdade conferida pelo artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criado, sob a tutela da Secretaria Regional do Trabalho, o Gabinete Regional de Gestão do Fundo de Desemprego, organismo dotado de autonomia administrativa e financeira.
+Artigo 1.º É criado, sob a tutela da Secretaria Regional do Trabalho, o Gabinete Regional de Gestão do Fundo de Desemprego, organismo dotado de autonomia administrativa e financeira.
 
-###### Art. 2.º A entrada em vigor do presente diploma implicará a integração no Gabinete Regional de Gestão do Fundo de Desemprego dos serviços e valores patrimoniais da Delegação do Gabinete do Fundo de Desemprego no Funchal.
+Art. 2.º A entrada em vigor do presente diploma implicará a integração no Gabinete Regional de Gestão do Fundo de Desemprego dos serviços e valores patrimoniais da Delegação do Gabinete do Fundo de Desemprego no Funchal.
 
-###### Art. 3.º As atribuições e competências do Gabinete Regional de Gestão do Fundo de Desemprego são as definidas no [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, e demais legislação complementar, com as alterações que resultarem da sua conformação com os interesses e especificidades da Região.
+Art. 3.º As atribuições e competências do Gabinete Regional de Gestão do Fundo de Desemprego são as definidas no [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, e demais legislação complementar, com as alterações que resultarem da sua conformação com os interesses e especificidades da Região.
 
-###### Art. 4.º A orgânica dos serviços ora criados será definida por decreto regulamentar regional.
+Art. 4.º A orgânica dos serviços ora criados será definida por decreto regulamentar regional.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 9 de Maio de 1980.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 27 de Maio de 1980.**
+Assinado em 27 de Maio de 1980.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

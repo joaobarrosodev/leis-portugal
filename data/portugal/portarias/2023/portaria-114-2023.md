@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08400/0000300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/114/2023/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c49831689a21a7af1eb21781a760c68bee9f9b97550f198d7730457081916bf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84f403e1b920c14f35c9a0c8c262cd4732499e3b989931491d9c410ddf18c875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Instituto do Emprego e Formação Profissional
 - Comissão de Acompanhamento
 - Comissão Interministerial
-- Política de Família
 - Comparticipação do Estado
-- Portugal
-- Emigrante
-- Equipa de Missão
-- Subvenção Pública
-- Ministro das Finanças
-- IAS
-- Mobilidade Geográfica
 - Emigração
-- Qualificação Profissional
+- Emigrante
 - Emprego
-- Ministério dos Negócios Estrangeiros
+- Equipa de Missão
+- Família
+- IAS
+- Instituto do Emprego e Formação Profissional
 - Ministério do Trabalho Solidariedade e Segurança Social
+- Ministério dos Negócios Estrangeiros
+- Ministro das Finanças
+- Mobilidade Geográfica
+- Política de Família
+- Portugal
 - Programa Regressar
+- Qualificação Profissional
+- Subvenção Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -126,16 +126,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122960401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125290656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128832423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155601285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:19Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +240,9 @@ d) [...]
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -234,7 +288,9 @@ c) Contratos de trabalho a termo resolutivo incerto com duração previsível ig
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -270,13 +326,17 @@ c) Comparticipação dos custos com o reconhecimento, em Portugal, de qualifica�
 
 10 - Sem prejuízo da obrigação estabelecida na alínea a) do n.º 4 do artigo 9.º, para as candidaturas suportadas em trabalho por conta própria, os apoios financeiros só serão concedidos caso as atividades profissionais ainda se mantenham à data de pagamento da primeira prestação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos de concessão dos apoios complementares previstos no n.º 4 do artigo 5.º, consideram-se elegíveis as despesas realizadas até ao 12.º mês após a data de início do contrato ou da data de aprovação da candidatura, para as situações de trabalho por conta própria.
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +368,9 @@ d) Comprovativos das despesas efetuadas com o reconhecimento de qualificações,
 
 6 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -334,7 +396,9 @@ b) [...]
 
 5 - Para além das obrigações definidas no presente artigo, nas situações em que a elegibilidade do destinatário seja determinada nos termos do n.º 5 ou do n.º 6 do artigo 4.º, este fica obrigado a manter o local de trabalho contratualmente definido ou a atividade profissional desenvolvida por conta própria em território do interior durante, pelo menos, 12 meses.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -356,7 +420,9 @@ d) Para as situações de trabalho por conta própria, 30 % do montante total ap
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -384,7 +450,9 @@ d) [...]
 
 9 - O destinatário deve ainda restituir a totalidade do apoio financeiro e das comparticipações recebidas no caso de incumprimento da obrigação estabelecida no n.º 5 ou n.º 6 do artigo 9.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A atribuição dos apoios previstos na presente Medida não prejudica a atribuição de outros apoios à contratação para o mesmo posto de trabalho, conforme identificado no regulamento previsto no n.º 2 do artigo 14.º
 
@@ -392,7 +460,9 @@ d) [...]
 
 3 - A presente Medida não é cumulável com outros apoios da mesma natureza e para o mesmo fim, conforme identificado no regulamento previsto no n.º 2 do artigo 14.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -416,7 +486,7 @@ São revogados o n.º 3 do artigo 5.º, as alíneas b) e c) do n.º 5 do artigo 
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 27 de abril de 2023.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 27 de abril de 2023.
 
 ## ANEXO — Republicação da [Portaria n.º 214/2019](https://diariodarepublica.pt/dr/detalhe/portaria/214-2019-122960401), de 5 de julho
 
@@ -669,3 +739,5 @@ Podem ser realizadas ações de acompanhamento, de verificação, de auditoria o
 ###### Artigo 15.º — Entrada em vigor e vigência
 
 A presente Medida entra em vigor no dia seguinte ao da sua publicação.
+
+116412555

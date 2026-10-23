@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01300/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2025/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2025-904259274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ec43100dc4c95e8cde8ea7c642ef879a746897b17ff02b1cb3513d81e0d90ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8de4b8bce4c0fa59cbe6cec85bf3410da4fbfe05e31f7bda8ca5fbfec1054c34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,19 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - ADSE
+- Doença
 - Entidade Patronal
 - Fiscalização
-- Junta Médica
-- Doença
 - Funcionário Público
+- Junta Médica
 - Verificação da Doença
 relationships:
+- type: amends
+  target: pt:numero:portaria:324/2017
+  label: Altera, a partir de 21 de janeiro de 2025, os n.ºs 1, 2 e 3 da Portaria n.º 324/2017, de 27 de outubro, Diário da
+    República n.º 208/2017, Série I
+  source: null
+  date: '2017-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/503/1999/11/20/p/dre
   label: null
@@ -104,16 +110,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/324/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/324/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115235763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421922:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:00Z'
   warnings: []
   errors: []
 ---
@@ -126,11 +168,11 @@ A [Portaria n.º 324/2017](https://diariodarepublica.pt/dr/detalhe/portaria/324-
 
 Não obstante aquela [Portaria n.º 324/2017](https://diariodarepublica.pt/dr/detalhe/portaria/324-2017-114109937), de 27 de outubro, ter fixado o valor de cada perícia de junta médica por doença natural e por acidente de trabalho ocorridos ao serviço de entidades empregadoras públicas, bem como a cada verificação domiciliária da doença, foi omissa no que respeita às juntas médicas por doença profissional.
 
-Mantendo-se o pressuposto, vertido naquela portaria, de que a verificação da doença profissional é competência da ADSE, I. P., nos termos do artigo 21.º e dos n.<sup>os</sup>7 e 8 do artigo 30.º, ambos do [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de novembro, mas sendo uma atividade exercida por conta e interesse das entidades empregadoras, não pode esta atividade ser financiada pela ADSE, I. P., devendo os respetivos encargos ser suportados pelas entidades empregadoras.
+Mantendo-se o pressuposto, vertido naquela portaria, de que a verificação da doença profissional é competência da ADSE, I. P., nos termos do artigo 21.º e dos n.os7 e 8 do artigo 30.º, ambos do [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de novembro, mas sendo uma atividade exercida por conta e interesse das entidades empregadoras, não pode esta atividade ser financiada pela ADSE, I. P., devendo os respetivos encargos ser suportados pelas entidades empregadoras.
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup>4 e 5 do artigo 16.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado da Administração Pública, nos termos da alínea d) do n.º 1 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 19 de junho, e da alínea c) do n.º 1 do [Despacho n.º 6837-E/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-e-2024-869421922), de 19 de junho, o seguinte:
+Ao abrigo do disposto nos n.os4 e 5 do artigo 16.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado da Administração Pública, nos termos da alínea d) do n.º 1 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 19 de junho, e da alínea c) do n.º 1 do [Despacho n.º 6837-E/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-e-2024-869421922), de 19 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -138,7 +180,7 @@ A presente portaria procede à primeira alteração à [Portaria n.º 324/2017](
 
 ###### Artigo 2.º — Alteração à [Portaria n.º 324/2017](https://diariodarepublica.pt/dr/detalhe/portaria/324-2017-114109937), de 27 de outubro
 
-Os n.<sup>os</sup>1 a 3 da [Portaria n.º 324/2017](https://diariodarepublica.pt/dr/detalhe/portaria/324-2017-114109937), de 27 de outubro, passam a ter a seguinte redação:
+Os n.os1 a 3 da [Portaria n.º 324/2017](https://diariodarepublica.pt/dr/detalhe/portaria/324-2017-114109937), de 27 de outubro, passam a ter a seguinte redação:
 
 «Artigo 1.º
 
@@ -154,11 +196,15 @@ c) Junta médica por doença profissional - € 55,00 (cinquenta e cinco euros);
 
 d) [Anterior alínea c).]
 
-###### Artigo 2.º — Unidade do encargo
+Artigo 2.º
+
+Unidade do encargo
 
 [...]
 
-###### Artigo 3.º — Interoperabilidade
+Artigo 3.º
+
+Interoperabilidade
 
 1 - Em estrita observância do regime jurídico de proteção de dados pessoais, as juntas médicas da ADSE, I. P., podem vir a ter acesso à informação disponibilizada nas plataformas de interoperabilidade utilizadas pelo Serviço Nacional de Saúde, nomeadamente as previstas na [Portaria n.º 126/2018](https://diariodarepublica.pt/dr/detalhe/portaria/126-2018-115235763), de 8 de maio, no âmbito da sua atividade de verificação da incapacidade para o trabalho por doença natural, por acidente de trabalho e por doença profissional, quer se efetue mediante a realização de juntas médicas ou através da verificação domiciliária da doença.
 
@@ -168,4 +214,6 @@ d) [Anterior alínea c).]
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito, em 15 de janeiro de 2025. - A Secretária de Estado da Administração Pública, Marisa da Luz Bento Garrido Marques Oliveira, em 9 de janeiro de 2025.**
+O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito, em 15 de janeiro de 2025. - A Secretária de Estado da Administração Pública, Marisa da Luz Bento Garrido Marques Oliveira, em 9 de janeiro de 2025.
+
+118575831

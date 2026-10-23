@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 56/2010, 1º Suplemento, Série I de 2010-03-22
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 906-(2) a 906-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05601/0000200017.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/172-a/2010/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2010-240980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0e9eeb9097adc9a13aada708a4cfcf173b473a26816accccd2d53ecafc68869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b054174e67054b04018fba3250445e0a1e1bc7e2140391309679e5937d744727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Estágios Profissionais na Administração Pública
 - Administração Pública
+- Avaliação do Pessoal
+- Estabelecimento de Ensino
+- Estágio de Formação
+- Internet
 - Jovem
 - Lista
-- Internet
-- Prazo
-- Estabelecimento de Ensino
-- Primeiro Emprego
-- Estágio de Formação
 - Política de Emprego
-- Avaliação do Pessoal
+- Prazo
+- Primeiro Emprego
+- Programa Estágios Profissionais na Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:626463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626463:por
+  label: "Alterado o anexo, na parte referente ao Ministério da Economia, da Inovação e do Desenvolvimento, pela PORT.186-A/2010.01.04.2010.MFAP,\
+    \ DR.IS [64-Supl] de 01.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-a-2010-626463
+  date: '2010-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +152,6 @@ O prazo para apresentação de candidaturas decorre de 29 de Março a 9 de Abril
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 19 de Março de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 19 de Março de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05601/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05601/0000200017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05601/0000200017.pdf)

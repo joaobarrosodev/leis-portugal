@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 252/2013, 4º Suplemento, Série I de 2013-12-30
   number: '252'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7004-(22) a 7004-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377-a/2013/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-a-2013-423885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f239e5778bbcc683350b3282f8ed1f1fa76b69d86a551cf03c4b1a0bdee2133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c5f1510233ecd3432de13f3a6d555842424ef4e10635cae9da913a10287ddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Acompanhamento
-- Unidade de Saúde Familiar
+- ACES
 - Administração Regional de Saúde
-- Serviço Nacional de Saúde
+- Comissão de Acompanhamento
 - Incentivo Profissional
 - Pessoal Administrativo
 - Pessoal de Enfermagem
-- Prémio de Produtividade
 - Prémio de Desempenho
+- Prémio de Produtividade
 - Remuneração
-- ACES
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/2007/08/22/p/dre
@@ -91,16 +91,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301/2008/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301/2008/04/18/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107709510:por
+  label: Revogada a Port 301/2008 de 18-abr, na redação do presente diploma, pelo(a) Portaria n.º 212/2017 - Diário da República
+    n.º 138/2017, Série I de 2017-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-2017-107709510
+  date: '2017-07-19'
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:07Z'
   warnings: []
   errors: []
 ---
@@ -169,13 +183,17 @@ b) No caso da alínea d) do ponto 1, quando em três anos consecutivos se atingi
 
 7 - Os incentivos institucionais traduzem-se, nomeadamente, na distribuição de informação técnica, na participação em conferências, simpósios, colóquios, cursos de formação e seminários sobre matérias de diferentes atividades da carteira de serviços da USF, no apoio à investigação, no aumento das amenidades de exercício de funções da equipa multiprofissional ou no desenvolvimento de processos de melhoria da qualidade e de acreditação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os incentivos financeiros, regulados pela presente portaria, são atribuídos aos enfermeiros e ao pessoal administrativo em função dos resultados obtidos pela respetiva equipa profissional, como parte da remuneração prevista para os profissionais das USF.
 
 2 - A atribuição de incentivos financeiros depende da concretização das metas contratualizadas referentes a atividades decorrentes de vigilância de mulheres em planeamento familiar e grávidas, de vigilância de crianças do nascimento até ao segundo ano de vida, de vigilância de utentes diabéticos e de utentes hipertensos, rastreios oncológicos, vacinação e acessibilidade, segundo métrica de avaliação e critérios constante no anexo II à presente portaria, da qual faz parte integrante.
 
-###### Artigo 4.º — Contratualização e apuramento de resultados
+Artigo 4.º
+
+Contratualização e apuramento de resultados
 
 1 - O peso dos indicadores nacionais, os critérios gerais para a definição das metas a contratualizar e o referencial das metas de cada indicador nacional para o processo de contratualização é determinado anualmente por despacho do membro do governo responsável pela área da saúde, a publicar até 15 de dezembro do ano anterior a que se refere.
 
@@ -189,7 +207,9 @@ b) No caso da alínea d) do ponto 1, quando em três anos consecutivos se atingi
 
 6 - O apuramento dos incentivos financeiros obtém-se segundo a métrica de avaliação e os critérios referidos no n.º2 do artigo anterior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A USF elabora um relatório de atividades, com base nas metas dos indicadores contratualizados e pelos dados fornecidos automaticamente pelo sistema de informação, que remete para o diretor executivo do ACES, até 31 de março do ano seguinte àquele a que respeita, que, após parecer do conselho clínico e de saúde, submete à aprovação do conselho diretivo da ARS,IP.
 
@@ -203,7 +223,9 @@ b) No caso da alínea d) do ponto 1, quando em três anos consecutivos se atingi
 
 6 - Até 31 de julho de cada ano, a ARS,IP aprova o plano de aplicação de incentivos institucionais remetido ou negoceia com a USF a sua aplicação em consonância com a estratégia regional de saúde.
 
-###### Artigo 7.º — Acompanhamento interno e externo
+Artigo 7.º
+
+Acompanhamento interno e externo
 
 1 - Cada USF, com o apoio do conselho clínico e de saúde do ACES, elabora um plano de acompanhamento interno que deve constar na carta de compromisso.
 
@@ -227,7 +249,9 @@ c) Dirimir e arbitrar eventuais conflitos entre as USF e os ACES, emergentes do 
 
 8 - A participação nos trabalhos da comissão de acompanhamento externo, não confere direito a qualquer remuneração adicional, sem prejuízo do abono de ajudas de custo e de transporte pelas deslocações realizadas, cujo encargo é suportado pela respetiva ARS,IP.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A presente portaria é revista, sempre que tal se mostre necessário, devendo ser recolhidos os elementos úteis resultantes da sua aplicação para introdução das alterações visadas.»
 
@@ -241,9 +265,11 @@ Os anexos I, II, III e IV da Portaria n.º 301/2008, de 14 de abril, passam a te
 
 Indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
 
-## ANEXO II — [a que se refere o n.º 2 do artigo 3.º e o n.º 6 do artigo 4.º]
+ANEXO II
+
+[a que se refere o n.º 2 do artigo 3.º e o n.º 6 do artigo 4.º]
 
 Métrica de avaliação das metas contratualizadas e critérios de atribuição de incentivos financeiros
 
@@ -253,13 +279,15 @@ Métrica de avaliação das metas contratualizadas e critérios de atribuição 
 
 a) Indicadores de desempenho e de acesso a verificar (constantes no anexo I à presente portaria):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
 
 b) ...
 
 c) ...
 
-## ANEXO III — [a que se refere o n.º 5 do artigo 4.º]
+ANEXO III
+
+[a que se refere o n.º 5 do artigo 4.º]
 
 Métricas de avaliação das metas contratualizadas e critérios de atribuição dos incentivos institucionais
 
@@ -285,17 +313,19 @@ iii. Se o grau de cumprimento do indicador for superior a 110%, o grau de cumpri
 
 5 - O peso relativo dos indicadores é o que se apresenta no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
 
 6 - O valor do Índice de Desempenho Global, corresponde à soma das ponderações do grau de cumprimento ajustado de cada indicador.
 
-## ANEXO IV — [a que se refere o n.º 2 do artigo 8.º]
+ANEXO IV
+
+[a que se refere o n.º 2 do artigo 8.º]
 
 Valor dos incentivos institucionais
 
 1 - Os valores máximos dos incentivos institucionais a atribuir às USF são os constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25204/0002200028.pdf)
 
 2 - O valor de incentivos definidos no número anterior é ajustado de acordo com o IDG da respetiva USF, atendendo aos seguintes critérios:
 
@@ -313,4 +343,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 27 de dezembro de 2013.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.

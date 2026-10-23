@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/479/2010/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-2010-334341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95b64d65d3b3ecd07ed0d47279fccadd59b00ed33c43016754644a8ea78e162c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c881abc786cbe0368180bbdca2456c1109e3b3fce73eb92d6bd2a0c024de968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indicação Geográfica
 - Denominação de Origem
-- Marca
 - Desenho e Modelo Industrial
+- Indicação Geográfica
 - Instituto Nacional da Propriedade Industrial
+- Marca
 - Patente
 - Propriedade Industrial
 - Recompensa
@@ -80,20 +80,36 @@ relationships:
   target: pt:dre:122852138:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177795:por
+  label: "Alteradas as tabelas i e ii da Port 1098/2008, de 30-set, na redação do presente diploma, pela PORT.176/2012.31.05.2012.MF,\
+    \ DR.IS [106] de 31.05.2012, que republica as tabelas i a iv.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/176-2012-177795
+  date: '2012-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1098/2008/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1098/2008/09/30/p/dre
+- type: cites
+  target: pt:dre:452175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122852138:por
+  label: Revogada, a partir de 01.07.2019, a Port 1098/2008 de 30-set, alterada pelo presente diploma, pelo(a) Portaria n.º
+    201-A/2019 - Diário da República n.º 123/2019, 1º Suplemento, Série I de 2019-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-a-2019-122852138
+  date: '2019-07-01'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:36Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +178,7 @@ h) A taxa do pedido de modificação de decisão do INPI é fixada em (euro) 150
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 30 de Junho.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Julho de 2010. - Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 5 de Julho de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Julho de 2010. - Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 5 de Julho de 2010.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -172,22 +188,22 @@ TABELA I
 
 Marcas, logótipos, recompensas, denominações de origem e indicações geográficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
 
 TABELA II
 
 Patentes de invenção, certificados complementares de protecção, modelos de utilidade e topografias dos produtos semicondutores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
 
 TABELA III
 
 Desenhos ou modelos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
 
 TABELA IV
 
 Taxas comuns
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)

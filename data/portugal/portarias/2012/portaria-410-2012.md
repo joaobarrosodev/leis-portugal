@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/410/2012/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/410-2012-189955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d870dcd7d47acaef0fc54779a35783d276f623f4702c396ab5a9c3bacc04bd7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1cd0adfcb1c841b6616bc6771f221fbee818b62bf28120f46e9254a65ed3f98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
 - Porto de MOS
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:2460621:por
+  label: "Alterada a delimitação da reserva ecológica nacional do município de Porto de Mós, aprovada pela Res 130/96 de 22-ago\
+    \ da PCM, alterada pelo presente diploma, pelo DESP.1951/2014.07.02.2014.CCDRC-PCM, DR.IIS [27] de 07.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1951-2014-2460621
+  date: '2014-02-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -87,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/130/1996/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/130/1996/08/22/p/dre
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:02Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +159,12 @@ A referida planta, o quadro anexo e a memória descritiva do presente processo p
 
 A presente portaria produz os seus efeitos com a entrada em vigor da alteração do Plano de Pormenor da Várzea de Porto de Mós.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 5 de dezembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 5 de dezembro de 2012.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf)
 
 QUADRO ANEXO
 
 Alteração da Reserva Ecológica Nacional do município de Porto de Mós
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24200/0706307064.pdf)

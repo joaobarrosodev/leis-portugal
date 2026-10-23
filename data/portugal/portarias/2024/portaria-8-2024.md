@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01000/0001600033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/2024/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2024-836604895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4810f4d588c8c4e5ebb16c908b89e655071c5246f0dc4e5868bf7e8efd605123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98c251ba5ebec286a3493163e6185209544954840cdf6d96597bb8fa78ed13b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,20 @@ reuse:
 subjects:
 - Acção de Formação
 - Acesso ao Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Agência para a Modernização Administrativa
 - Certificação Profissional
 - Ensino à Distância
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Programa Emprego
-- Agência para a Modernização Administrativa
 relationships:
+- type: amends
+  target: pt:numero:portaria:246/2022
+  label: Altera, a partir de 16 de janeiro de 2024, nos termos do artigo 4.º do presente diploma, os artigos 6.º, 10.º, 12.º,
+    14.º, 16.º, 18.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 30.º, 31.º, 32.º, 35.º, 36.º e 37.º e procede à republicação
+    da Portaria n.º 246/2022, de 27 de setembro, Diário da República n.º 187/2022, Série I
+  source: null
+  date: '2022-09-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
   label: null
@@ -95,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184052515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 43
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:40Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +204,9 @@ Os artigos 6.º, 10.º, 12.º, 14.º, 16.º, 18.º, 20.º, 21.º, 22.º, 23.º, 
 
 11 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -179,13 +216,17 @@ Os artigos 6.º, 10.º, 12.º, 14.º, 16.º, 18.º, 20.º, 21.º, 22.º, 23.º, 
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
 2 - A implementação da medida é realizada pelo IEFP, I. P., em articulação com a AMA, I. P., os parceiros sociais com assento na CPCS e as entidades representativas do setor social e solidário.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -211,7 +252,9 @@ c) [...]
 
 9 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]
 
@@ -221,7 +264,9 @@ b) [...]
 
 c) Os parceiros sociais com assento na Comissão Permanente de Concertação Social (CPCS) e as organizações setoriais e regionais suas associadas, quando certificados pela Direção-Geral do Emprego e das Relações de Trabalho (DGERT).
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Podem apresentar candidatura a projetos de formação:
 
@@ -237,13 +282,17 @@ b) As entidades empregadoras, associações empresariais ou associações do set
 
 5 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
 2 - A implementação da medida é realizada pelo IEFP, I. P., em articulação com a AMA, I. P., com os parceiros sociais com assento na CPCS e as entidades representativas do setor social e solidário.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A medida Cheque-Formação + Digital prevista na alínea c) do n.º 2 do artigo 1.º tem como destinatários os trabalhadores, incluindo trabalhadores em funções públicas, independentemente do seu nível de proficiência digital, que pretendam incrementar as suas competências e qualificações no domínio digital.
 
@@ -251,7 +300,9 @@ b) As entidades empregadoras, associações empresariais ou associações do set
 
 3 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -263,7 +314,9 @@ b) As entidades empregadoras, associações empresariais ou associações do set
 
 5 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -273,13 +326,17 @@ b) As entidades empregadoras, associações empresariais ou associações do set
 
 4 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
 2 - A implementação desta medida é realizada pelo IEFP, I. P., em articulação com a AMA, I. P.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +346,9 @@ a) [...]
 
 b) Profissionais do setor tecnológico digital que queiram desenvolver competências pedagógicas que lhes permitam ministrar formação certificada na área digital, desde que não sejam detentores de CCP, nos termos da legislação em vigor.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -303,7 +362,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -313,25 +374,33 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
 2 - A implementação desta medida é realizada pelo IEFP, I. P., em articulação com a AMA, I. P.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O registo da informação das ações de formação ministradas no âmbito da medida Formador + Digital deve ser realizado no Portal para a Formação e Certificação de Formadores e outros profissionais (Netforce).
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A comunicação e divulgação geral do Programa compete ao IEFP, I. P., em articulação com a AMA, I. P.
 
 2 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -353,7 +422,9 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O IEFP, I. P., é responsável pela elaboração dos regulamentos específicos das medidas previstas no n.º 2 do artigo 1.º, sob consulta da AMA, I. P., os quais são aprovados no prazo de 10 dias, no caso da alínea a), e 60 dias, no caso das alíneas b) a d) do n.º 2 do artigo 1.º, respetivamente, a contar da data de entrada em vigor da presente portaria.
 
@@ -373,7 +444,7 @@ A presente portaria aplica-se às candidaturas decididas após a sua entrada em 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 10 de janeiro de 2024. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 9 de janeiro de 2024. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 11 de janeiro de 2024.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 10 de janeiro de 2024. - O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 9 de janeiro de 2024. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 11 de janeiro de 2024.
 
 ## ANEXO — Republicação da [Portaria n.º 246/2022](https://diariodarepublica.pt/dr/detalhe/portaria/246-2022-201509702), de 27 de setembro
 
@@ -822,3 +893,5 @@ f) Um representante das estruturas representativas das entidades formadoras cert
 ###### Artigo 38.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+117239322

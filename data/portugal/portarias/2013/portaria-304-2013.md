@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/304/2013/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-2013-502999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e21d5de207c104e6ffa3ea27f3603fbb01823b1bb8aee185d0a5a684e4916fe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e06da678fa1ffe952a88d5529277d9c77a3feb251de026cc99c921adfdb88c28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde
 - Direção Geral de Alimentação e Veterinária
-- Saúde Pública
 - Grupo de Trabalho
 - Página na Internet
-- Proteção do Ambiente
-- Programa de Acção
-- Qualidade de VIDA
 - Pesticida
 - Produto Fitofarmacêutico
+- Programa de Acção
+- Proteção do Ambiente
+- Qualidade de VIDA
+- Saúde
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32009L0128
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:41Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +126,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 8 de outubro de 2013.
 
-**O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça.**
+O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça.

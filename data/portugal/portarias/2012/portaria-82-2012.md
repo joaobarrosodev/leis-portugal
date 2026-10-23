@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/82/2012/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f42a0a0c66a2bc86eed799ccfcb17309f509938031bb4447880e18e1904681bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f4b7cf86063ff00971ef7c8da7c3cf1c2398d888f83d3f25acad1c6b2f6fc14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Sistema Judicial
+- Custas Judiciais
 - Definição de Competências
+- Direcção Geral da Administração da Justiça
 - Documento Único de Cobrança
 - Gestão Processual
-- Pagamento
 - Injunção
 - Instituto de Gestão da Tesouraria e do Crédito Público
+- Multa
+- Pagamento
 - Reclamação
-- Direcção Geral da Administração da Justiça
 - Reembolso
 - Regulamento
 - Remuneração
+- Sistema Judicial
 - Taxa
-- Custas Judiciais
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:116433035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499549:por
+  label: "Alterados os arts. 19.º, 22.º, 31.º e 46.º da Port 419-A/2009 de 17-abr, na redação do presente diploma, pela PORT.284/2013.30.08.2013.MJ,\
+    \ DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-2013-499549
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:107622186:por
+  label: Declarada inconstitucional, com força obrigatória geral, a norma que determina que a «reclamação da nota justificativa
+    está sujeita ao depósito da totalidade do valor da nota», constante do n.º 2 do art. 33.º da Port 419-A/2009 de 17-abr,
+    na redação dada pelo presente diploma, pelo(a) Acórdão do Tribunal Constitucional n.º 280/2017 - Diário da República n.º
+    126/2017, Série I de 2017-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/280-2017-107622186
+  date: '2017-07-03'
+- type: amended_by
+  target: pt:dre:116433035:por
+  label: Alterados, a partir de 30.09.2018, os arts. 17.º, 19.º e 23.º-A da Port 419-A/2009 de 17-abr, na redação da presente
+    portaria, pelo(a) Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20 e nos termos do seu
+    art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2018-116433035
+  date: '2018-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/2008/08/28/p/dre
   label: null
@@ -127,16 +148,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
+- type: cites
+  target: pt:dre:240647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:26Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +216,7 @@ de 29 de março
 
 No âmbito do Memorando de Entendimento celebrado com o Banco Central Europeu, com a Comissão Europeia e com o Fundo Monetário Internacional, tendo em vista o programa de assistência financeira à República Portuguesa, o Estado Português assumiu, entre outras, um conjunto de obrigações relacionadas com o regime das custas judiciais, das quais se destaca: a imposição de custas e sanções adicionais aos devedores não cooperantes nos processos executivos; a introdução de uma estrutura de custas judiciais extraordinárias para litígios prolongados desencadeados pelas partes litigantes sem justificação manifesta; a padronização das custas judiciais; e a introdução de custas judiciais especiais para determinadas categorias de processos e procedimentos com o objetivo de aumentar as receitas e desincentivar a litigância de má-fé.
 
-# Parte destas obrigações já tinham consagração legal. Outras, como a padronização das custas judiciais e o desincentivo à litigância de má-fé, implicavam alterações legislativas, nomeadamente ao Regulamento das Custas Processuais, motivo pelo qual o Governo apresentou à Assembleia da República uma proposta de lei que esteve na origem da [Lei n.º 7/2012](https://diariodarepublica.pt/dr/detalhe/lei/7-2012-543045), de 13 de fevereiro.
+Parte destas obrigações já tinham consagração legal. Outras, como a padronização das custas judiciais e o desincentivo à litigância de má-fé, implicavam alterações legislativas, nomeadamente ao Regulamento das Custas Processuais, motivo pelo qual o Governo apresentou à Assembleia da República uma proposta de lei que esteve na origem da [Lei n.º 7/2012](https://diariodarepublica.pt/dr/detalhe/lei/7-2012-543045), de 13 de fevereiro.
 
 Esta lei promove, assim, a padronização das custas judiciais, ou seja, a aplicação do mesmo regime de custas a todos os processos judiciais pendentes, independentemente do momento em que os mesmos se iniciaram. Nas sucessivas alterações ao regime das custas processuais efetuadas em Portugal, a opção do legislador foi, em regra, considerar que as alterações não eram aplicáveis aos processos pendentes, mas apenas aos processos que dessem entrada nos tribunais após a sua entrada em vigor. Deste modo, e na prática, tal representou que o regime de custas aplicável a um processo era o regime vigente no momento em que o mesmo se iniciou, não sendo afetado pelas alterações posteriores. Esta solução levou a uma multiplicação de regimes aplicáveis nos tribunais portugueses (desde 1996 o regime das custas judiciais foi alterado 15 vezes), tornando a sua identificação e aplicação uma tarefa cada vez mais complexa e morosa.
 
@@ -177,7 +246,9 @@ Elaboração da conta
 
 A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, por despacho do diretor-geral da Administração da Justiça, ser fixada de modo diferente.
 
-###### Artigo 7.º — Conta
+Artigo 7.º
+
+Conta
 
 1 - Findo o processo e registados todos os movimentos contabilísticos, é elaborada a conta no sistema informático, obtendo-se o valor a pagar ou a receber pelas partes, encerrando com menção da data e identificação do funcionário que a elaborou.
 
@@ -191,7 +262,9 @@ A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, 
 
 6 - Quando ocorra a deserção da instância, compete às partes, nos termos legais, solicitar a elaboração da conta.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Qualquer pessoa poderá efetuar os pagamentos resultantes do RCP através dos meios eletrónicos disponíveis, Multibanco e Homebanking, ou junto das entidades bancárias indicadas pelo Instituto de Gestão da Tesouraria e do Crédito Público (IGCP), constantes de informação a divulgar por circular conjunta da Direção-Geral da Administração da Justiça (DGAJ) e do IGFIJ, publicada no endereço eletrónico http://www.citius.mj.pt.
 
@@ -205,7 +278,9 @@ A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, 
 
 6 - Os pagamentos respeitantes ao procedimento de injunção de pagamento europeia devem ser efetuados por transferência bancária para conta bancária identificada em circular conjunta da DGAJ e do IGFIJ, e divulgada nos sítios eletrónicos das duas entidades e no endereço electrónico http://www.citius.mj.pt.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 -...
 
@@ -215,13 +290,17 @@ A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, 
 
 4 - Quando o montante devido não corresponda ao valor automaticamente definido pelo DUC, por acrescerem valores de taxa de justiça por dedução de pedidos reconvencionais, o pagamento é feito a título de 'complemento de taxa de justiça', através da emissão de novo DUC.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O DUC poderá ser obtido através do endereço eletrónico do IGFIJ ou do sistema informático CITIUS, que assegura automaticamente a sua disponibilização e emissão no endereço eletrónico http://www.citius.mj.pt.
 
 2 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -231,11 +310,15 @@ A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, 
 
 4 - Recebido o comprovativo, a secretaria deve proceder de imediato ao registo do DUC no sistema informático previsto no artigo 3.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 No caso de lapso na inserção do valor a pagamento constantes do DUC, deve ser solicitada a restituição do excesso à secretaria ou proceder-se ao pagamento do montante remanescente, no prazo de vinte e quatro horas, por autoliquidação, através da emissão de novo DUC.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +328,9 @@ No caso de lapso na inserção do valor a pagamento constantes do DUC, deve ser 
 
 4 - Interposto recurso da decisão referida no n.º 6 do artigo 31.º do RCP, o responsável é notificado para o pagamento quando o processo baixar ao tribunal que funcionou em 1.ª instância.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Nos casos em que haja lugar à devolução de valores pagos, esta é efetuada apenas após o trânsito em julgado e depois de saldadas todas as dívidas da parte ao processo, nomeadamente:
 
@@ -259,7 +344,9 @@ c)...
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +356,9 @@ c)...
 
 4 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +390,9 @@ n)...
 
 2 - São ainda receita do IGFIJ os juros de mora que se vençam relativamente às quantias referidas no número anterior, com exceção das alíneas c), d) e g) do n.º 1.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Constituem receita do conselho geral da Ordem dos Advogados cinco (por mil) das quantias cobradas a título de taxa de justiça em processos cíveis.
 
@@ -315,7 +406,9 @@ n)...
 
 6 - As verbas recebidas pela Câmara dos Solicitadores nos termos do n.º 2 do presente artigo apenas podem ser utilizadas para acorrer às despesas previstas no n.º 4 do artigo 72.º do Estatuto da Câmara dos Solicitadores, aprovado pelo [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), de 10 de setembro, pelas Leis n.os [49/2004](https://diariodarepublica.pt/dr/detalhe/lei/49-2004-479604), de 24 de agosto, e [14/2006](https://diariodarepublica.pt/dr/detalhe/lei/14-2006-661170), de 26 de abril, e pelo [Decreto-Lei n.º 226/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), de 20 de novembro.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -323,7 +416,9 @@ n)...
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Até à publicação da portaria prevista no n.º 5 do artigo 447.º-D do Código do Processo Civil, as custas da parte vencedora são suportadas pela parte vencida e são garantidas as isenções e benefícios previstos na lei, independentemente do recurso a qualquer estrutura de resolução alternativa de litígios.»
 
@@ -337,7 +432,9 @@ Dispensa da conta
 
 Nos casos em que ocorra dispensa da conta, nos termos do n.º 1 do artigo 29.º do RCP, a secretaria deve documentar no processo a verificação dos respetivos pressupostos.
 
-###### Artigo 23.º-A — Devolução de DUC
+Artigo 23.º-A
+
+Devolução de DUC
 
 Os pedidos de reembolso do valor de DUC não utilizado, nos termos do n.º 8 do artigo 14.º do RCP, são efetuados por via eletrónica, através de funcionalidade disponibilizada no sítio eletrónico do IGFIJ, acessível igualmente através do endereço eletrónico http://www.citius.mj.pt.»
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/389/2012/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/389-2012-190605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2262290d024c15d007957230724cdef1e75f1a9a58ac3481d6bcdc076ae44a7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9f7a28b6f7348c37da700c934667364c465555ed08b23a3fc8c6d8fbc38551a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:179290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:54Z'
   warnings: []
   errors: []
 ---
@@ -221,4 +229,4 @@ São revogadas as Portarias n.os 513/2007, 518/2007, 556/2007 e 561/2007, todas 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 9 de novembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 9 de novembro de 2012.

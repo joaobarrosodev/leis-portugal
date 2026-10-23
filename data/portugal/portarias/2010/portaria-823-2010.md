@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/823/2010/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/823-2010-343922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1d987b0a5c5a55815841d4c583ff28e70a259e879cb4c6a70cba2e16b69dbc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98e6f60b2aedc710fff79b866ae0b87baceff91a612d6870d01f736e579804ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pescador
-- Frota de Pesca
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
-- IFAP
-- Artes de Pesca
 - Armador
-- Regime de Apoio
-- Intervenção Operacional Pescas
+- Artes de Pesca
 - Embarcação de Pesca
+- Financiamento
+- Frota de Pesca
+- IFAP
+- Intervenção Operacional Pescas
+- Pesca
+- Pescador
+- Projeto de Investimento
+- Regime de Apoio
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:503053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503053:por
+  label: "Alterados os arts 12º, 15º, 16º, 17º e aditados os arts. 16-Aº e 18-Aº, ao Regulamento, pela PORT.311/2013.21.10.2013.MAGM,\
+    \ DR.IS [203] de 21.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-2013-503053
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 12.º do Regulamento do Regime Específico de Apoio à Pequena Pesca Costeira aprovado pelo presente\
+    \ diploma, na redação da Port 311/2013 de 21-out, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -108,13 +120,13 @@ relationships:
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:39Z'
   warnings: []
   errors: []
 ---

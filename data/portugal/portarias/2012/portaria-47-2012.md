@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2012/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2012-542983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02648bf2c79fdf75c678adb2aa846afd2cfad989c04345b92891fa34ae35365a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce0f0c20a94a29ec9e17ff49800a87023ec8af37e7c9d06b829783676a73801e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Acreditação
 - Definição de Competências
-- Turismo de Natureza
-- Licenciamento
 - Documento Eletrónico
-- Instituto da Conservação da Natureza e das Florestas
-- Presidente
 - Infraestrutura Turística
+- Instituto da Conservação da Natureza e das Florestas
+- Licenciamento
+- Presidente
+- Turismo de Natureza
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -84,15 +84,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/261/2009/03/12/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:14Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 5.º — Revogação do reconhecimento
+Artigo 5.º
+
+Revogação do reconhecimento
 
 O reconhecimento do empreendimento de turismo de natureza pode ser revogado por despacho do presidente do ICNF, I. P., nos seguintes casos:
 
@@ -163,4 +165,4 @@ A presente portaria produz efeitos com a entrada em vigor do diploma orgânico d
 
 Em 17 de fevereiro de 2012.
 
-**A Secretária de Estado do Turismo, Cecília Felgueiras de Meireles Graça. - O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha.**
+A Secretária de Estado do Turismo, Cecília Felgueiras de Meireles Graça. - O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha.

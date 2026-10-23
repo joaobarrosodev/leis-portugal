@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/301/2013/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-2013-494809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 113649a22b8e086dd8dba04473f5568c45992d60b2ce9170053dc4734f84e835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d233b2932f8644f71079bfdc81e9115ff7708a8a35dfcf3c739436bb7d91d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
 subjects:
 - Águeda
 - Alfândega da FÉ
-- Incêndio
 - Aveiro
-- Calendário Venatório
 - CAÇA
+- Calendário Venatório
+- Incêndio
 - Mogadouro
 - Oliveira de Frades
 - Taxa
@@ -127,16 +127,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolcons
   label: null
   source: http://data.dre.pt/eli/resolcons
+- type: cites
+  target: pt:dre:192419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660322:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250271:por
+  label: Revogada a Port 137/2012, de 11-mai, na redação do presente diploma, pelo(a) Portaria n.º 142/2015 - Diário da República
+    n.º 98/2015, Série I de 2015-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-2015-67250271
+  date: '2015-05-21'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:40Z'
   warnings: []
   errors: []
 ---
@@ -181,12 +231,12 @@ Norma transitória
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 9 de outubro de 2013.**
+A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 9 de outubro de 2013.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º-A da Portaria n.º 137/2012, de 11 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf))](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º-A da Portaria n.º 137/2012, de 11 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf))](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/19800/0609206093.pdf)

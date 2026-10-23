@@ -46,36 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1983-443569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7cb6d8539ac7d9ca29eb5d50a69ff98ed9bb13304cb3ebb323a5c9a64bf17c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a2819f79da64deb5ef08de2e6ab52b1440c05d8dd21e3da348f0bc6621fa79e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:22Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +134,27 @@ Tornou-se assim imperioso proceder à sua reformulação, por forma a expurgar t
 
 Neste contexto, foi promulgado o [Decreto Regional n.º 12/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-375666), de 13 de Setembro, cuja regulamentação, nos termos do respectivo artigo 14.º, compete ao Governo Regional, pelo que, tendo em conta o disposto na alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento dos Serviços Sociais do Governo Regional da Madeira, em anexo, que se considera parte integrante deste decreto regulamentar regional.
+Artigo 1.º É aprovado o Regulamento dos Serviços Sociais do Governo Regional da Madeira, em anexo, que se considera parte integrante deste decreto regulamentar regional.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em plenário do Governo Regional em 21 de Julho de 1983.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 10 de Agosto de 1983.**
+Assinado em 10 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 REGULAMENTO DOS SERVIÇOS SOCIAIS DO GOVERNO REGIONAL DA MADEIRA
 
 ### CAPÍTULO I — Da denominação, âmbito e fins
 
-###### Artigo 1.º Os Serviços Sociais do Governo Regional, criados pelo [Decreto Regional n.º 12/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-375666), de 26 de Julho, no presente diploma designados simplesmente por Serviços Sociais, constituem um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, dependente da presidência do Governo.
+Artigo 1.º Os Serviços Sociais do Governo Regional, criados pelo [Decreto Regional n.º 12/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-375666), de 26 de Julho, no presente diploma designados simplesmente por Serviços Sociais, constituem um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, dependente da presidência do Governo.
 
-###### Art. 2.º - 1 - Os Serviços Sociais abrangem os trabalhadores da função pública dependentes dos órgãos de governo próprio da Região Autónoma da Madeira que não sejam beneficiários de obra idêntica.
+Art. 2.º - 1 - Os Serviços Sociais abrangem os trabalhadores da função pública dependentes dos órgãos de governo próprio da Região Autónoma da Madeira que não sejam beneficiários de obra idêntica.
 
 2 - Os Serviços Sociais têm por fim:
 
@@ -126,7 +162,7 @@ a) Auxiliar a satisfação das necessidades de ordem económica, social e cultur
 
 b) Desenvolver os laços de solidariedade entre os trabalhadores abrangidos.
 
-###### Art. 3.º - 1 - A acção dos Serviços Sociais poderá exercer-se nas seguintes modalidades:
+Art. 3.º - 1 - A acção dos Serviços Sociais poderá exercer-se nas seguintes modalidades:
 
 a) Criação de refeitórios, cantinas ou outros meios destinados a proporcionar refeições a preços razoáveis;
 
@@ -154,11 +190,11 @@ j) Actividades de natureza cultural, científica, desportiva e recreativa.
 
 4 - Para cada uma das modalidades a prosseguir será elaborado um regulamento próprio, onde serão definidas as condições para a concessão dos benefícios.
 
-###### Art. 4.º A acção dos Serviços Sociais deverá ser exercida de maneira a evitar, em relação a cada beneficiário, acumulação de regalias da mesma natureza, concedidas por estes Serviços e por outras instituições.
+Art. 4.º A acção dos Serviços Sociais deverá ser exercida de maneira a evitar, em relação a cada beneficiário, acumulação de regalias da mesma natureza, concedidas por estes Serviços e por outras instituições.
 
-###### Art. 5.º Para a prossecução das suas finalidades, os Serviços Sociais poderão colaborar com instituições similares em realizações de interesse comum e, bem assim, fazer acordos ou contratos com outras entidades, designadamente cooperativas e estabelecimentos comerciais e industriais.
+Art. 5.º Para a prossecução das suas finalidades, os Serviços Sociais poderão colaborar com instituições similares em realizações de interesse comum e, bem assim, fazer acordos ou contratos com outras entidades, designadamente cooperativas e estabelecimentos comerciais e industriais.
 
-###### Art. 6.º - 1 - Para assegurar a fruição de regalias pelo maior número possível de beneficiários, poderão ser criadas delegações dos Serviços Sociais nas localidades onde tenham sede serviços dos organismos regionais referidos no n.º 1 do artigo 2.º
+Art. 6.º - 1 - Para assegurar a fruição de regalias pelo maior número possível de beneficiários, poderão ser criadas delegações dos Serviços Sociais nas localidades onde tenham sede serviços dos organismos regionais referidos no n.º 1 do artigo 2.º
 
 2 - Os Serviços Sociais poderão ainda promover a constituição de delegações, secções ou núcleos de actividade junto dos serviços ou organismos onde essa criação se justifique, tendo em conta o número de beneficiários abrangidos, a situação geográfica dos serviços e outros indicadores passíveis de consideração.
 
@@ -166,7 +202,7 @@ j) Actividades de natureza cultural, científica, desportiva e recreativa.
 
 #### SECÇÃO I — Das condições de admissão
 
-###### Art. 7.º - 1 - Podem ser beneficiários dos Serviços os trabalhadores da função pública dependentes dos órgãos do governo próprio da Região Autónoma da Madeira:
+Art. 7.º - 1 - Podem ser beneficiários dos Serviços os trabalhadores da função pública dependentes dos órgãos do governo próprio da Região Autónoma da Madeira:
 
 a) Que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -180,15 +216,15 @@ d) Pessoal eventual, após 3 meses de efectividade de serviço.
 
 3 - Em caso de falecimento do beneficiário, o cônjuge e os familiares a que se refere o número precedente manterão as regalias que vinham usufruindo enquanto obedecerem às normas a estabelecer nos termos do número anterior.
 
-###### Art. 8.º - 1 - A inscrição dos beneficiários é gratuita e far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação, o serviço a que pertence, a categoria profissional e a composição do agregado familiar.
+Art. 8.º - 1 - A inscrição dos beneficiários é gratuita e far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação, o serviço a que pertence, a categoria profissional e a composição do agregado familiar.
 
 2 - As propostas serão autenticadas pelo chefe do serviço respectivo e acompanhadas dos elementos de comprovação que se mostrem necessários.
 
-###### Art. 9.º A qualidade de beneficiário prova-se por cartão de identidade, de modelo a aprovar pela direcção.
+Art. 9.º A qualidade de beneficiário prova-se por cartão de identidade, de modelo a aprovar pela direcção.
 
 #### SECÇÃO II — Dos direitos e deveres
 
-###### Art. 10.º São direitos dos beneficiários:
+Art. 10.º São direitos dos beneficiários:
 
 a) Eleger os representantes dos Serviços Sociais na direcção e na comissão verificadora de contas;
 
@@ -196,7 +232,7 @@ b) Fruir as regalias que lhes sejam concedidas pelos Serviços Sociais, nos term
 
 c) Formular por escrito à direcção as sugestões ou observações que julgarem convenientes, com vista a melhor organização ou funcionamento dos serviços.
 
-###### Art. 11.º São deveres dos beneficiários:
+Art. 11.º São deveres dos beneficiários:
 
 a) Cumprir as disposições legais e regulamentares que lhes digam respeito;
 
@@ -208,7 +244,7 @@ d) Zelar pelo bom nome e património dos Serviços Sociais.
 
 #### SECÇÃO III — Das quotizações
 
-###### Art. 12.º - 1 - Os beneficiários contribuirão para os encargos dos Serviços Sociais com a quotização mensal de 0,5% do vencimento base, tendo em atenção a tabela de vencimentos da função pública.
+Art. 12.º - 1 - Os beneficiários contribuirão para os encargos dos Serviços Sociais com a quotização mensal de 0,5% do vencimento base, tendo em atenção a tabela de vencimentos da função pública.
 
 2 - Os beneficiários aposentados ou reformados pagarão as quotizações correspondentes à sua pensão, de acordo com o escalão respectivo.
 
@@ -218,7 +254,7 @@ d) Zelar pelo bom nome e património dos Serviços Sociais.
 
 #### SECÇÃO IV — Da suspensão de direitos e cancelamento de inscrições
 
-###### Art. 13.º - 1 - Os trabalhadores da função pública dependente dos órgãos do governo próprio da Região Autónoma da Madeira inscritos serão suspensos dos benefícios dos Serviços Sociais:
+Art. 13.º - 1 - Os trabalhadores da função pública dependente dos órgãos do governo próprio da Região Autónoma da Madeira inscritos serão suspensos dos benefícios dos Serviços Sociais:
 
 a) Quando passem ao regime da comissão de serviço ou análogo fora dos quadros dos organismos abrangidos pela acção dos Serviços Sociais, desde que disponham de idênticos benefícios no departamento a que ficarem afectos;
 
@@ -232,7 +268,7 @@ d) Quando cedam a favor de terceiros quaisquer vantagens ou auxílios que lhes s
 
 3 - Durante o período de suspensão previsto no número anterior, pode a direcção permitir, em condições a fixar, que sejam mantidas as regalias directamente atribuíveis aos familiares do beneficiário.
 
-###### Art. 14.º Será cancelada a inscrição nos Serviços Sociais:
+Art. 14.º Será cancelada a inscrição nos Serviços Sociais:
 
 a) Aos trabalhadores exonerados, demitidos ou cujos contratos sejam dados por findos, salvo nos casos abrangidos pela parte final da alínea c) do n.º 1 do artigo 7.º;
 
@@ -244,31 +280,31 @@ d) Aos beneficiários que se encontrem em atraso no pagamento de quotas pelo per
 
 e) Aos beneficiários que pratiquem infracções, consideradas graves pela direcção, contra os Serviços Sociais ou os seus órgãos.
 
-###### Art. 15.º - 1 - A aplicação das penas previstas nos artigos 13.º, n.º 1, alíneas c) e d), e 14.º, alínea e), compete à direcção dos Serviços Sociais mediante a instauração de processo sancionador, em que será tida em conta a situação do agregado familiar do beneficiário.
+Art. 15.º - 1 - A aplicação das penas previstas nos artigos 13.º, n.º 1, alíneas c) e d), e 14.º, alínea e), compete à direcção dos Serviços Sociais mediante a instauração de processo sancionador, em que será tida em conta a situação do agregado familiar do beneficiário.
 
 2 - Da decisão da direcção cabe recurso para a presidência do Governo.
 
 ### CAPÍTULO III — Dos órgãos dos Serviços Sociais
 
-###### Art. 16.º Os órgãos dos Serviços Sociais são:
+Art. 16.º Os órgãos dos Serviços Sociais são:
 
 a) A direcção;
 
 b) A comissão verificadora de contas.
 
-###### Art. 17.º As nomeações ou designações para os órgãos dos Serviços Sociais serão pelo prazo de 2 anos, renovável, podendo os nomeados ou designados ser substituídos a todo o tempo pelas entidades que os houverem nomeado ou designado.
+Art. 17.º As nomeações ou designações para os órgãos dos Serviços Sociais serão pelo prazo de 2 anos, renovável, podendo os nomeados ou designados ser substituídos a todo o tempo pelas entidades que os houverem nomeado ou designado.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 18.º - 1 - Os Serviços Sociais são superiormente orientados por uma direcção.
+Art. 18.º - 1 - Os Serviços Sociais são superiormente orientados por uma direcção.
 
 2 - A direcção é constituída por 1 presidente e por 4 vogais, 3 designados pelas Secretarias Regionais do Planeamento e Finanças, dos Assuntos Sociais e da Educação e 1 eleito de entre os associados.
 
-###### Art. 19.º - 1 - Compete ao Presidente do Governo a nomeação do presidente da direcção.
+Art. 19.º - 1 - Compete ao Presidente do Governo a nomeação do presidente da direcção.
 
 2 - O presidente da direcção será substituído nas suas faltas e impedimentos por um dos vogais eleitos pela direcção.
 
-###### Art. 20.º - 1 - Compete à direcção:
+Art. 20.º - 1 - Compete à direcção:
 
 a) Representar os Serviços Sociais em juízo e em todos os actos e contratos em que estes tenham de intervir;
 
@@ -300,15 +336,15 @@ o) Praticar os demais actos necessários ao bom funcionamento dos Serviços Soci
 
 2 - A aprovação a que se referem as alíneas f) e g) do número anterior é da competência do plenário do Governo.
 
-###### Art. 21.º - 1 - A direcção terá 2 reuniões ordinárias por mês e as extraordinárias que forem convocadas pelo presidente ou pela maioria dos vogais em exercício.
+Art. 21.º - 1 - A direcção terá 2 reuniões ordinárias por mês e as extraordinárias que forem convocadas pelo presidente ou pela maioria dos vogais em exercício.
 
 2 - As deliberações serão tomadas por maioria de votos, tendo o presidente voto de qualidade em caso de empate.
 
 3 - As reuniões são secretariadas por um dos vogais, a designar pela direcção.
 
-###### Art. 22.º Para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção e de um vogal.
+Art. 22.º Para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção e de um vogal.
 
-###### Art. 23.º Compete especialmente ao presidente da direcção:
+Art. 23.º Compete especialmente ao presidente da direcção:
 
 a) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;
 
@@ -318,7 +354,7 @@ c) Orientar e coordenar a acção dos Serviços de acordo com as deliberações 
 
 d) Apresentar a despacho do Presidente do Governo Regional os assuntos que careçam de resolução superior.
 
-###### Art. 24.º Aos vogais da direcção compete essencialmente:
+Art. 24.º Aos vogais da direcção compete essencialmente:
 
 a) Coadjuvar e substituir o presidente nas suas faltas e impedimentos, nos termos do n.º 2 do artigo 19.º;
 
@@ -332,9 +368,9 @@ e) Praticar os demais actos necessários ao bom funcionamento dos Serviços Soci
 
 #### SECÇÃO II — Da comissão verificadora de contas
 
-###### Art. 25.º A comissão verificadora de contas será constituída pelo presidente da direcção, que presidirá, por um vogal a nomear por despacho conjunto do Presidente e do Secretário Regional do Planeamento e Finanças e ainda por outro vogal em representação dos Serviços Sociais, de formação técnica especialmente adequada às funções da comissão.
+Art. 25.º A comissão verificadora de contas será constituída pelo presidente da direcção, que presidirá, por um vogal a nomear por despacho conjunto do Presidente e do Secretário Regional do Planeamento e Finanças e ainda por outro vogal em representação dos Serviços Sociais, de formação técnica especialmente adequada às funções da comissão.
 
-###### Art. 26.º À comissão verificadora de contas, que reunirá obrigatoriamente uma vez por ano, compete em especial:
+Art. 26.º À comissão verificadora de contas, que reunirá obrigatoriamente uma vez por ano, compete em especial:
 
 a) Efectuar os exames e conferências de documentos que se tornem necessários;
 
@@ -344,9 +380,9 @@ c) Emitir parecer sobre os assuntos da sua competência que lhe sejam submetidos
 
 ### CAPÍTULO IV — Dos serviços a do pessoal
 
-###### Art. 27.º Os Serviços Sociais terão os serviços de administração geral necessários ao seu funcionamento e os serviços especiais exigidos pelas actividades referidas no artigo 3.º
+Art. 27.º Os Serviços Sociais terão os serviços de administração geral necessários ao seu funcionamento e os serviços especiais exigidos pelas actividades referidas no artigo 3.º
 
-###### Art. 28.º - 1 - O quadro do pessoal dos Serviços Sociais é o constante do mapa anexo a este diploma.
+Art. 28.º - 1 - O quadro do pessoal dos Serviços Sociais é o constante do mapa anexo a este diploma.
 
 2 - As normas de provimento do pessoal do quadro são as constantes da lei geral, designadamente as do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, as do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e demais legislação aplicável.
 
@@ -354,13 +390,13 @@ c) Emitir parecer sobre os assuntos da sua competência que lhe sejam submetidos
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 29.º - 1 - É aplicável o disposto nos artigos 10.º e 11.º do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, no processo de movimentação e utilização das receitas próprias dos Serviços Sociais.
+Art. 29.º - 1 - É aplicável o disposto nos artigos 10.º e 11.º do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, no processo de movimentação e utilização das receitas próprias dos Serviços Sociais.
 
 2 - Considerando uma necessária adaptação do diploma aludido no número anterior, as referências feitas aos diversos serviços do Governo da República reputar-se-ão aos respectivos departamentos do Governo Regional.
 
-###### Art. 30.º As despesas dos Serviços Sociais serão as que resultarem do desenvolvimento das respectivas actividades, em conformidade com os orçamentos superiormente aprovados.
+Art. 30.º As despesas dos Serviços Sociais serão as que resultarem do desenvolvimento das respectivas actividades, em conformidade com os orçamentos superiormente aprovados.
 
-###### Art. 31.º Dependem de autorização do Governo:
+Art. 31.º Dependem de autorização do Governo:
 
 a) A aquisição, construção ou remodelação de imóveis;
 
@@ -372,14 +408,14 @@ d) Os acordos com instituições similares, cooperativas ou estabelecimentos com
 
 e) Os contratos de arrendamento para instalação dos Serviços.
 
-###### Art. 32.º - 1 - As contas anuais serão submetidas à aprovação do Governo até ao fim de Abril do ano seguinte àquele a que respeitem, acompanhadas do parecer da comissão verificadora de contas.
+Art. 32.º - 1 - As contas anuais serão submetidas à aprovação do Governo até ao fim de Abril do ano seguinte àquele a que respeitem, acompanhadas do parecer da comissão verificadora de contas.
 
 2 - Ficam sujeitas ao Tribunal de Contas as contas de gerência dos Serviços Sociais, que, acompanhadas do respectivo relatório e do parecer da comissão verificadora de contas, serão remetidas àquele órgão de soberania até 31 de Maio do ano seguinte àquele a que respeitem.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 33.º O pessoal dos Serviços Sociais extintos será integrado no stermos do n.º 2 do artigo 11.º do [Decreto Regional n.º 12/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-375666), de 26 de Julho.
+Art. 33.º O pessoal dos Serviços Sociais extintos será integrado no stermos do n.º 2 do artigo 11.º do [Decreto Regional n.º 12/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-375666), de 26 de Julho.
 
 Mapa a que se refere o n.º 1 do artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25500/37603763.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25500/37603763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25500/37603763.pdf)

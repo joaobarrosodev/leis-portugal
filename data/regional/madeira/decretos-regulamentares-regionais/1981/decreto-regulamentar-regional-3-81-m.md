@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1981-388458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab21d4fa3a36f3e1d6eeff208ca9b122f7279fc9319c2acc86a0a67d005aa57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e7a7c7af63ec7e3aee8924ab7930759a74d23ae28bfffec1f3f08c8c6a8931f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro do Emigrante
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:326917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388857:por
+  label: "Alterados o nº 5 do art. 4º, a al. b) do nº 2 do art. 11º, o nº 2 do art. 20º e, o nº 1 do art. 27º pelo DRR.8/81/M.09.04.1981.GR-RAM,\
+    \ DR.IS [83] de 09.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1981-388857
+  date: '1981-04-09'
+- type: cites
+  target: pt:dre:138510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326917:por
+  label: "Revogado pelo DRR.7/85/M.15.03.1985.GR-RAM, DR.IS [62] de 15.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1985-326917
+  date: '1985-03-15'
 article_structure:
   article_count: 41
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:07Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +264,9 @@ c) A Assessoria Jurídica, com os seguintes sectores:
 
 2) Secção do Jornal Oficial.
 
-#### SECÇÃO II — Secção de Expediente
+#### SECÇÃO II
+
+#### Secção de Expediente
 
 ###### Artigo 6.º — (Competência)
 
@@ -217,7 +286,9 @@ f) Estabelecer e assegurar os canais de entrada da correspondência, distribuiç
 
 g) Exercer algumas das competências anteriormente confinadas à secretaria do ex-governo civil do extinto distrito autónomo do Funchal.
 
-#### SECÇÃO III — Secção de Documentação, Arquivo, Cadastro e Pessoal
+#### SECÇÃO III
+
+#### Secção de Documentação, Arquivo, Cadastro e Pessoal
 
 ###### Artigo 7.º — (Competência)
 
@@ -255,7 +326,9 @@ p) Propor a aplicação de métodos adequados à selecção do pessoal, visando 
 
 q) Tratar os demais aspectos técnicos de gestão de pessoal da Secretaria-Geral que lhe forem confiados.
 
-#### SECÇÃO IV — Secção de Contabilidade
+#### SECÇÃO IV
+
+#### Secção de Contabilidade
 
 ###### Artigo 8.º — (Competência)
 
@@ -387,7 +460,7 @@ O tempo de serviço prestado na Secretaria-Geral, nos termos dos artigos 13.º, 
 
 ###### Artigo 19.º — (Aproveitamento subsidiário do pessoal)
 
-**O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.**
+O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.
 
 ###### Artigo 20.º — (Comissões da estudo. Prestações de serviços)
 
@@ -559,20 +632,20 @@ Ficam revogados os Decretos Regulamentares Regionais n.os [12/79/M](https://diar
 
 O presente diploma entra imediatamente em vigor. Aprovado em plenário de 22 de Janeiro de 1981.
 
-**O Secretário Regional do Trabalho, exercendo as funções de Presidente, Manuel Jorge Bazenga Marques.**
+O Secretário Regional do Trabalho, exercendo as funções de Presidente, Manuel Jorge Bazenga Marques.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO I — Quadro do pessoal a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf))](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)
 
 ## ANEXO II — Quadro do pessoal a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf))](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)
 
 ## ANEXO III — Quadro do pessoal a que se refere o artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf))](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/05400/06330640.pdf)

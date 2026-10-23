@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02900/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2024/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2024-840849894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7d14b4e86e2fa52844eed3219ac05ebf24b27a45e21bee97515dddebd575700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5938360c547fb3d74c3f18ec45007bcd354100e2f593f686495e49169d25a5aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,19 @@ reuse:
 subjects:
 - Assistência Médica
 - Assistência Medicamentosa
-- Regulamentação de Atos Legislativos
 - Fixação de Preços
 - Medicamento
 - Meios Complementares de Diagnóstico
+- Regulamentação de Atos Legislativos
 - Sistema Nacional de Cuidados Continuados Integrados
 - Tabela de Cuidados de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:45/2021
+  label: Altera, a partir de 10 de fevereiro de 2024, com efeitos a 01 de janeiro de 2024, os anexos i e ii , nos termos do
+    artigo 2.º do presente diploma, da Portaria n.º 45/2021, de 24 de fevereiro, Diário da República n.º 38/2021, Série I
+  source: null
+  date: '2021-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2021/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+- type: cites
+  target: pt:dre:158238387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203283190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:27Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +165,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 6 de fevereiro de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -149,9 +175,9 @@ Tabela de preços aplicáveis às unidades de internamento da RNCCI UCP-RNCCI
 
 Unidades
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Valor global para suportar encargos com medicamentos, realização de exames auxiliares de diagnóstico, apósitos e material de penso para tratamento de úlceras de pressão, encargos com cuidados de saúde (utente/dia). | Encargos com cuidados de apoio social (utente/dia) | Encargos com utilização de fraldas (utente/dia) | Total (utente/dia) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | I - Unidades de internamento: |  |  |  |  |  |
 | I.1 - Unidade de convalescença ... | 98,87 (euro) | 16,40 (euro) | - | - | 115,27 (euro) |
 | I.2 - Unidade de média duração e reabilitação | 64,30 (euro) | 13,20 (euro) | 22,85 (euro) | - | 100,34 (euro) |
@@ -166,9 +192,9 @@ Tabela de preços aplicáveis às unidades e equipas de cuidados continuados int
 
 Unidades
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/dia) | Encargos com medicamentos (utente/dia) | Encargos com cuidados de apoio social (utente/dia) | Diária global (utente/dia) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | I - Adultos: |  |  |  |  |
 | I.1 - Unidades residenciais: |  |  |  |  |
 | a) Residência de treino de autonomia ... | 30,30 (euro) | 1,10 (euro) | 21,60 (euro) | 53,00 (euro) |
@@ -185,8 +211,10 @@ Unidades
 
 Equipas de apoio domiciliário
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Tipologia | Encargos com cuidados de saúde (utente/visita) | Encargos com cuidados de apoio social (utente/visita) | Encargos globais (utente/visita) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | I - Adultos ... | 25,46 (euro) | 12,18 (euro) | 37,64 (euro) |
 | II - Infância e adolescência ... | 23,81 (euro) | 11,07 (euro) | 34,89 (euro) |
+
+117338701

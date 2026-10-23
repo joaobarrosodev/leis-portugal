@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/2013/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2013-497863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27d53b003b9fd8431c8f3a74b51e7ad6a407c677fc881cc08b424db56a1ca907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c8a6f647a610a59e2f55658e72a9d2ce95308ded11ba29e97b21bd5521135db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Acesso à Educação
 - Comissão Nacional de Acesso ao Ensino Superior
+- Concurso Nacional de Acesso e Ingresso
 - Definição de Competências
+- Direção Geral do Ensino Superior
 - Direcção Geral da Educação
 - Ensino Oficial
-- Concurso Nacional de Acesso e Ingresso
-- Prova de Ingresso
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Estudante
-- Direção Geral do Ensino Superior
 - Numerus Clausus
 - Página na Internet
-- Estabelecimento de Ensino
+- Prova de Ingresso
 - Regulamento
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -122,16 +122,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:1272235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 66
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:15Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +308,7 @@ Todas as alterações ao regulamento são nele incorporadas através de nova red
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 1 de julho de 2013.**
+O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 1 de julho de 2013.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LETIVO DE 2013-2014
 

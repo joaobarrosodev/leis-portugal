@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2010/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2010-332694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e0ea35d3d665faf06928bd36f8b851393ded46810fcdfeae965b4c137e158ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da415b188bfd1bfa8f569652c95dcb9f328590cf48ecaf0382afeefaf121f330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
 - CAÇA
+- Calendário Venatório
 relationships:
 - type: amended_by
   target: pt:dre:334110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334110:por
+  label: "Alterado o art. 2º e substituído o anexo, pela PORT.556/2010.22.07.2010.MADRP, DR.IS [141] de 22.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/556-2010-334110
+  date: '2010-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -87,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:28Z'
   warnings: []
   errors: []
 ---
@@ -269,4 +284,4 @@ Esta portaria produz efeitos a partir do dia 1 de Junho de 2010.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Pedro de Sousa Barreiro, Secretário de Estado das Florestas e Desenvolvimento Rural, em 21 de Maio de 2010.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/10300/0183201835.pdf))](https://files.diariodarepublica.pt/1s/2010/05/10300/0183201835.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/10300/0183201835.pdf)

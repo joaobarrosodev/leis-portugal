@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/02/04100/0121701221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/92/2011/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-2011-278899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ec9f11df6eb90085d0a61305ca2db6a03aa2cdbea86cd43e23ff6228f9034b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f54cb67f8ec8b2ff9154d5c499903fa5d4d36649fce9b934bfd2c699c1fb3760
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
-- Jovem
-- Programa Inov-social
 - Criação de Emprego
-- Programa
-- Qualificação Profissional
 - Emprego
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Política de Emprego
+- Programa
+- Programa Inov-social
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:546031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175792:por
+  label: "Alterados os art.s 5º e 11º e aditado um art. 15º-A, pelo PORT.309/2012.09.10.2012.MEE, DR.IS [195] de 09.10.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2012-175792
+  date: '2012-10-09'
+- type: amended_by
+  target: pt:dre:249069:por
+  label: "Alterados os art.s 3.º, 12.º e 14.º da presente Portaria, e republicada pela PORT.3-B/2013.04.01.2013.MEE, DR.IS\
+    \ [3-Supl] de 04.01.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-b-2013-249069
+  date: '2013-01-04'
+- type: amended_by
+  target: pt:dre:260091:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º(na redação da Port. 3-B/2013, de 04-jan), 4.º, 5.º(na redação da Port. 309/2012,\
+    \ 09-out), 9.º, 11.º(na redação da Port. 309/2012, 09-out), 13.º, 14.º(na redação da Port. 3-B/2013, de 04-jan), 15.º,\
+    \ 15.º-A (aditado pela Port. 309/2012, 09-out), 17.º e 18.º, aditado o art. 11.º-A e revogado o n.º 1 do art. 18.º pela\
+    \ PORT.120/2013.26.03.2013.MEE, DR.IS [60] de 26.03.2013, que a republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-2013-260091
+  date: '2013-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/132/1999/08/28/p/dre
   label: null
@@ -95,16 +115,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
+- type: cites
+  target: pt:dre:233715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3674859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532441:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261158:por
+  label: "Retificados os n.ºs 3 e 4 do art 15.º-A, do anexo à Port. 120/2013, de 26-mar, que constitui uma republicação da\
+    \ presente portaria, pela DECL-RECT.24/2013.10.05.2013.PCM, DR.IS [90] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-2013-261158
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:546031:por
+  label: "Revogado, a partir de 19.07.2013, o presente diploma, alterada pelas Port 309/2012 de 09-out, 3-B/2013 de 04-jan\
+    \ e 120/2013 de 26-mar, pela PORT.204-B/2013.18.06.2013.MEE, DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas\
+    \ para aquele diploma, nos termos do disposto no nº 2 do seu art. 22º, as remissões legais ou regulamentares efetuadas\
+    \ para o presente\0e\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-b-2013-546031
+  date: '2013-06-18'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:15Z'
   warnings: []
   errors: []
 ---
@@ -371,4 +421,4 @@ g) [Despacho n.º 7384/2010](https://diariodarepublica.pt/dr/detalhe/despacho/73
 
 A presente portaria entra em vigor a partir do dia seguinte ao da sua publicação.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 17 de Fevereiro de 2011.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 17 de Fevereiro de 2011.

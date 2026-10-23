@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/2022/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2022-180923379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03ba47a8a3c1d91916f5f1b2916d6a422b71d516cfc2b56b2016d05a22a3faaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44e10aff9ad7e855e2703ebee0657b4f1965966a89e3eca0647a892e832d73c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
+- Águas Subterrâneas
 - Monforte
 - Proteção do Ambiente
 - Zona de Proteção
-- Águas Subterrâneas
-- Abastecimento de Água
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:127369100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149260035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:59Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +161,13 @@ localizadas no concelho de Monforte, nos termos dos artigos seguintes.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 20 de março de 2022.**
+A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 20 de março de 2022.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -157,66 +177,68 @@ Polo de captação de Monforte
 
 Piscina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Oliveirinha 1 e Oliveirinha 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Torre das Figueiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Torre de Palma 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Torre de Palma 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Quinta de Santo António 1 e Quinta de Santo António 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Azeiteira e Barroso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Polo de captação de Prazeres
 
 Prazeres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Polo de captação de Vale da Quinta
 
 Vale da Quinta 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Vale da Quinta 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Polo de captação de Famaguda
 
 Famaguda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Torre de Alfange
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Polo de captação de Vaiamonte
 
 Vaiamonte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Miranços e Cabeças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf))](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/03/05800/0001200016.pdf)
 
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
+
+115138611

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14700/0497004972.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/835/2009/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/835-2009-493062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 985e1c3fa393a7e936809a01786d6cc1502f9e410416d744ebccd0b324c41807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 206aeff018f95504f012baf25bc377f919ab8b201080e0e92cab6f34fb6f87b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Instaladora
-- Educação
 - Definição de Competências
+- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Educação
 - Ensino à Distância
+- Ensino Básico
+- Ensino Secundário
 - Escola Móvel
 - Pedagogia Moderna
-- Ensino Secundário
-- Direcção Geral de Inovação e Desenvolvimento Curricular
-- Ensino Básico
 - Sistema Educativo
 relationships:
 - type: amended_by
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/35/2007/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2007/02/15/p/dre
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:343963:por
+  label: "Revogada pela PORT.812/2010.26.08.2010.ME, DR.IS [166] de 26.08.2010, e procedida a extinção da Escola Móvel\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-2010-343963
+  date: '2010-08-26'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:34Z'
   warnings: []
   errors: []
 ---
@@ -216,4 +229,4 @@ a) Professores de quadro de escola, de agrupamento de escolas ou professores de 
 
 b) Professores a contratar pela Escola Móvel, que colmatem ainda as necessidades temporárias de serviço docente, através de concurso de contratação local de professores/oferta de escola, ao abrigo do [Decreto-Lei n.º 35/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2007-518017), de 15 de Fevereiro.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 22 de Julho de 2009.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 22 de Julho de 2009.

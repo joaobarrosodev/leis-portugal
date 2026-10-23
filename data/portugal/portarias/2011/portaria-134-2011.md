@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06600/0198601987.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/134/2011/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-2011-278051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f465a0c9fbb24014e2ab544ac418e00e054cc4e0f9939d6ef848e3b9222e3135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa3ecfce42dc6fba8a90075f779eb9abcb8f59be6ef8bbc65d67b7d5c93cde43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carta de Caçador
+- Autoridade Florestal Nacional
 - CAÇA
+- Carta de Caçador
 - Exame
 - JURI
-- Autoridade Florestal Nacional
 - Taxa
 relationships:
 - type: amended_by
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/229/2002/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/229/2002/03/12/p/dre
+- type: cites
+  target: pt:dre:265510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287148:por
+  label: "Rectificado o art. 1.º [na parte em que altera o artigo 12.º da Port. 1229/2009, de 12- Out, na redacção do n.º\
+    \ 4] da presente portaria, pela DECL-RECT.11/2011.28.04.2011.PCM, DR.IS [82] de 28.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-2011-287148
+  date: '2011-04-28'
+- type: repealed_by
+  target: pt:dre:74441742:por
+  label: Revogada, a partir de 12.06.2016, a Port. 1229/2009 de 12-out, na redação da presente portaria, pelo(a) Portaria
+    n.º 140-B/2016 - Diário da República n.º 93/2016, 1º Suplemento, Série I de 2016-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-b-2016-74441742
+  date: '2016-05-13'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:51Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +201,4 @@ Norma transitória
 
 A presente portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 22 de Março de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 22 de Março de 2011.

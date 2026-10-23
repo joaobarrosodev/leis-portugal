@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 27/2014, 3º Suplemento, Série I de 2014-02-07
   number: '27'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1268-(1728) a 1268-(1733)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/02703/0172801733.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32-b/2014/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-b-2014-660356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d334a95aaa9ac0b796a6072fb285423530fc1f27759cf8a9734f867266727b8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bad10df5a0919ba2d81174029df632afbd1062e7d7bf91565be7ff9108dd5020
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Protecção Civil
 - Bombeiro
 - Regulamento Disciplinar
-- Autoridade Nacional de Protecção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/2007/06/21/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/703/2008/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/703/2008/07/30/p/dre
+- type: cites
+  target: pt:dre:191076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:38Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,9 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 10.º, 12.º, 13.º, 16.º, 22.º, 23.�
 
 3 - Excetuam-se do âmbito da aplicação deste diploma os bombeiros voluntários que possuem estatuto diferente resultante de contrato individual de trabalho com a entidade detentora quando a infração for praticada fora do exercício das funções de bombeiro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -142,7 +164,9 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 10.º, 12.º, 13.º, 16.º, 22.º, 23.�
 
 3 - Constitui ainda infração a violação dos deveres gerais previstos nos n.os 2 a 11 do artigo 3.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas, aprovado pela [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de setembro, bem como a violação dos deveres especiais previstos no artigo 4.º do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -154,13 +178,17 @@ Os artigos 1.º, 3.º, 4.º, 7.º, 8.º, 10.º, 12.º, 13.º, 16.º, 22.º, 23.�
 
 5 - Aplica-se à prescrição prevista no número anterior o disposto nos números 7 e 8, do artigo 6.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas, com as necessárias adaptações.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - É excluída a responsabilidade disciplinar do bombeiro que atue no cumprimento de ordens ou instruções emanadas de legítimo superior hierárquico e em matéria de serviço, quando previamente delas tenha reclamado ou exigido a sua transmissão ou confirmação por escrito, ou por qualquer outro meio, quando a urgência da situação não permita fazê-lo por escrito.
 
 2 - Cessa o dever de obediência sempre que o cumprimento das ordens ou instruções implique a prática de qualquer crime.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -174,19 +202,25 @@ a) Quando lhe seja aplicada a pena de advertência por mais de uma vez;
 
 b) Quando à infração praticada fosse aplicável pena superior à de advertência.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
 2 - Subsidiariamente, com as necessárias adaptações, é ainda aplicável o disposto nos artigos 15.º, 17.º e 18.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
 2 - O disposto no número anterior é de observar mesmo no caso de infrações apreciadas em mais de um processo, quando apensados, nos termos do artigo 31.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - É competente para instaurar ou mandar instaurar processo disciplinar contra os respetivos subordinados o comandante do corpo de bombeiros.
 
@@ -196,7 +230,9 @@ b) Quando à infração praticada fosse aplicável pena superior à de advertên
 
 4 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A pena de demissão...
 
@@ -212,7 +248,9 @@ e) [...];
 
 f) No mesmo ano civil, deem três faltas seguidas ou seis interpoladas, sem justificação, a serviços operacionais para os quais estejam escalados.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se tornou inimpugnável:
 
@@ -224,7 +262,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...];
 
@@ -234,7 +274,9 @@ d) [...].
 
 4 - Para os efeitos do disposto no n.º 3, o arguido tem o prazo máximo de cinco dias para, querendo, produzir a sua defesa por escrito.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Das decisões, em matéria disciplinar, proferidas pelo comandante do corpo de bombeiros misto ou voluntário, cuja entidade detentora seja uma associação humanitária de bombeiros cabe recurso hierárquico, a interpor no prazo de 15 dias úteis para o conselho disciplinar constituído pelos presidentes da assembleia geral, da direção e do conselho fiscal, que, no prazo de 60 dias, decide.
 
@@ -246,13 +288,17 @@ d) [...].
 
 5 - Das decisões proferidas nos termos dos números anteriores cabe impugnação contenciosa, nos termos gerais.
 
-###### Artigo 30º — [...]
+Artigo 30º
+
+[...]
 
 1 - Em tudo o que não estiver regulado no presente diploma, são aplicáveis as disposições do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas.
 
 2 - Nos casos em que o Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas prevê a publicação de aviso para efeitos de notificação do arguido na 2.ª Série do Diário da República, a publicação desse aviso é feita na ordem de serviço do corpo de bombeiros ou, se a competência disciplinar couber ao Comandante Operacional Distrital, na ordem de serviço do Comando Distrital de Operações de Socorro.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Compete à Autoridade Nacional de Proteção Civil o controlo e fiscalização do cumprimento do estabelecido no presente Regulamento.»
 
@@ -276,7 +322,7 @@ b) 18 meses contados da data da instauração do processo.
 
 3 - Dos prazos previstos no número anterior, aplica-se aquele que seja, em concreto, mais favorável ao arguido.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 6 de fevereiro de 2014.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 6 de fevereiro de 2014.
 
 ## ANEXO — Republicação do Anexo à Portaria n.º 703/2008, de 30 de julho
 

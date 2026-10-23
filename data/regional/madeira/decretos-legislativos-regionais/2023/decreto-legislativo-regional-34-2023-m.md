@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/14800/0007500080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/34/2023/08/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cafed06d5bbf63fdb9b47be6b644b813a6c8dd326d6a9ccdbb213f28083a92a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36385efdc0fff2c06e4e108c6d20b14e773290db74a66a8132466bc69426f827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Madeira.região Autónoma
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
 - Plano de Pormenor
 - Plano de Urbanização
-- Urbanismo
+- Plano Director Municipal
 - Prazo
-- Madeira.região Autónoma
+- Proteção do Ambiente
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
@@ -108,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206269670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:47Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +198,9 @@ Os artigos 28.º, 48.º, 52.º, 61.º, 93.º, 94.º, 101.º, 108.º, 164.º, 167
 
 6 - [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -178,7 +212,9 @@ b) [...]
 
 3 - Na área abrangida por normas do plano territorial atualizado destinadas a salvaguardar situações de risco ou de especial fragilidade ambiental identificadas nos termos da alínea a) do número anterior, não se aplica o disposto no n.º 6 do artigo 48.º do Regime Jurídico da Urbanização e Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, havendo nesse caso lugar à aplicação, com as devidas adaptações, dos n.os 4 e 5 do mesmo artigo, caso a incompatibilidade não resulte de instrumento de gestão territorial anterior, tendo presentes as limitações de aproveitamento decorrentes das características dos prédios em causa.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -202,7 +238,9 @@ b) [...]
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -218,7 +256,9 @@ b) [...]
 
 7 - O não cumprimento dos prazos estabelecidos determina a caducidade do procedimento, sem prejuízo da possibilidade de ser desencadeado novo procedimento, com aproveitamento dos atos e formalidades praticados no âmbito do procedimento caducado, mediante deliberação da Câmara Municipal.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -226,7 +266,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - [...]
 
@@ -242,7 +284,9 @@ c) Do disposto no n.º 9 do artigo 52.º
 
 4 - [...]
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - [...]
 
@@ -258,7 +302,9 @@ c) Do disposto no n.º 9 do artigo 52.º
 
 7 - A suspensão prevista na alínea b) do n.º 1 implica obrigatoriamente o estabelecimento de medidas preventivas e a abertura de procedimento de elaboração, alteração ou revisão de plano intermunicipal ou municipal para a área em causa, em conformidade com a deliberação tomada, o qual deve estar concluído no prazo em que vigorem as medidas preventivas.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - [...]
 
@@ -278,7 +324,9 @@ c) Do disposto no n.º 9 do artigo 52.º
 
 9 - As medidas preventivas estabelecidas para garantir a elaboração, alteração ou revisão de programas especiais caducam com a entrada em vigor da atualização dos planos de âmbito intermunicipal ou municipal preexistentes, nas áreas respetivamente abrangidas, não se aplicando o disposto na alínea c) do n.º 2 do artigo 115.º e suspendendo-se o respetivo prazo de vigência durante o prazo estabelecido para atualização do plano.
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - [...]
 
@@ -286,7 +334,9 @@ c) Do disposto no n.º 9 do artigo 52.º
 
 3 - [...]
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - Os planos setoriais expressamente previstos por lei atualmente em vigor são equiparados, para todos os efeitos, aos programas setoriais.
 
@@ -306,7 +356,9 @@ c) Do disposto no n.º 9 do artigo 52.º
 
 9 - Sem prejuízo do disposto no número anterior, até 31 de julho de 2025 devem ser aprovados programas especiais que revoguem os planos especiais ainda vigentes.
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - [...]
 
@@ -338,10 +390,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 27 de julho de 2023.**
+Assinado em 27 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116724057

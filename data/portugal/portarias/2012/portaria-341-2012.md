@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20800/0604806049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/341/2012/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-2012-192434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8ef1b883ab57bf416a3c388c9c13eb51a3acc1929baea8551ce70a47048f743
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbf1ca9e4b329215c7b24fdef30a856fbf9d788376175c4d888387ea80bf826d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,14 @@ relationships:
   target: pt:dre:570702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570702:por
+  label: "Integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia as atribuições do\
+    \ Gabinete de Estratégias e Estudos do Ministério da Economia e do Emprego, com orgânica constante do presente diploma\
+    \ no domínio da energia, pelo DEC LEI.17/2014.04.02.2014.MAOTE, DR.IS [24] de 04.02.2014, nos termos dos arts. 26º e 27º\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2014-570702
+  date: '2014-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/45/2012/06/20/p/dre
   label: null
@@ -81,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:178818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250218:por
+  label: Revogada, a partir de 01.06.2015, pelo(a) Portaria n.º 138/2015 - Diário da República n.º 97/2015, Série I de 2015-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2015-67250218
+  date: '2015-05-20'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:39Z'
   warnings: []
   errors: []
 ---
@@ -241,4 +262,4 @@ d) A Portaria n.º 140/2009, de 3 de fevereiro.
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de outubro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 17 de outubro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de outubro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 17 de outubro de 2012.

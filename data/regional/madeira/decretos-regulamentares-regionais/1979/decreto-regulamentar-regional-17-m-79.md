@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 14º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 14º Suplemento
+  supplement: null
   pages: 3446-(304) a 3446-(304)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29914/03040304.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1979-156814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: febb5f22a48da8434d6049a5f8d434c3a9d778f5d92234f338464bcccd32ee08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c4c9a186dd8a0082d20ae76d74150b245be2e82c1afe84ea32f6d66a68852da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:388458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383851:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388458:por
+  label: "Revogado pelo DRR.3/81/M.22.01.1981.GR-RAM, DR.IS [54] de 06.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1981-388458
+  date: '1981-01-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:59Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Em execução dos Decretos Regionais n.º 2/76, de 11 de Novembro, e n.º 12/78,
 
 O Governo Regional, pelo seu Presidente, decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o n.º 6 do artigo 4.º do [Decreto Regulamentar Regional n.º 12/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1979-383851), de 31 de Maio.
+Artigo 1.º É revogado o n.º 6 do artigo 4.º do [Decreto Regulamentar Regional n.º 12/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1979-383851), de 31 de Maio.
 
-###### Art. 2.º O artigo 10.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 2.º O artigo 10.º do mesmo diploma passa a ter a seguinte redacção:
 
 Assessoria Jurídica
 
@@ -114,12 +126,12 @@ c) ...
 
 d) Independentemente da faculdade de recorrer aos notários públicos, compete ao pessoal técnico superior integrado na Assessoria Jurídica o exercício das funções de notário nos actos e contratos em que a Região tiver interesse e o Governo Regional for outorgante.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Dezembro de 1979.**
+Assinado em 18 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 250/2011, 3º Suplemento, Série I de 2011-12-30
   number: '250'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5538-(290) a 5538-(291)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/25003/0029000291.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/320-f/2011/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-f-2011-243739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 884082221e7bfae7bbedfdf9f1941e1fc4b16846dfe9786cd000eef733d3e44f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f415e89c4185020a9dac76090b8d3fa1c29d7af76f8f27995a767d5660cddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
+- Apostas Mútuas Desportivas
 - Concurso
 - Euromilhões
+- Jogos de Fortuna e Azar
 - Lisboa
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
 - Regulamento
+- Santa Casa da Misericórdia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/2004/08/20/p/dre
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:236921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676813:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:53Z'
   warnings: []
   errors: []
 ---
@@ -225,4 +253,4 @@ A contagem dos dois concursos sucessivos a que se refere o n.º 10 do artigo 10.
 
 A presente portaria entra em vigor no dia 15 de fevereiro de 2012, produzindo efeitos para as apostas registadas a partir desse dia.
 
-**O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 30 de Dezembro de 2011.**
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 30 de Dezembro de 2011.

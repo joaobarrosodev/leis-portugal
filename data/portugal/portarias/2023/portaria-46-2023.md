@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03200/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46/2023/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-2023-207417312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7814f42c9ca1b7ca520d702baf3ec886d6eea60b314ff7688eb04af87f5f991c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea897e343154da3325102fcd1ef9e7d26e7afc47d3f3affa429c45c871fa4275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Autoridade Marítima
 - Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Diretor Geral
-- Pesca
 - Gestão dos Recursos
 - Instituto Português do Mar e da Atmosfera
-- Recursos do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Peixe
-- Pescado
 - Período de Defeso
+- Pesca
+- Pescado
+- Recursos do Mar
+- Sistema de Autoridade Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/296/2022/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/296/2022/12/15/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204734640:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:25Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +165,6 @@ c) Outras medidas relacionadas com a valorização das espécies em causa.
 
 A presente portaria produz efeitos à data de 1 de janeiro de 2023.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 9 de fevereiro de 2023.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 9 de fevereiro de 2023.
+
+116158661

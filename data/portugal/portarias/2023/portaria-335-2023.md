@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/335/2023/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-2023-223700470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fd211a559b4ddbc8f218de614f2ab69a6098919f326e19f7f70569ede36bda0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e8ffe0bd39ad5f02c5bc1586986dc55e2d48ed8dcd81cf90d593385b0c2d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Informação Médica
+- Cuidador Informal
 - Documentação Administrativa
 - Estatuto
+- Informação Médica
+- Maior Acompanhado
 - Política de Saúde
 - Política Social
 - Processo Judicial
 - Prorrogação de Prazo
-- Cuidador Informal
-- Maior Acompanhado
 relationships:
 - type: amended_by
   target: pt:dre:858167928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:858167928:por
+  label: Prorrogado, a partir de 2 de abril de 2024, com efeitos a 1 de maio de 2024, o prazo previsto no artigo 1.º pelo(a)
+    Portaria n.º 127/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-2024-858167928
+  date: '2024-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/1/2022/01/10/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/89/2023/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/89/2023/03/27/p/dre
+- type: cites
+  target: pt:dre:124500714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177363476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210982938:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:42Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +149,6 @@ A presente portaria procede à prorrogação do prazo previsto no artigo 1.º da
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de novembro de 2023.
 
-**A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes, em 31 de outubro de 2023.**
+A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes, em 31 de outubro de 2023.
+
+117016101

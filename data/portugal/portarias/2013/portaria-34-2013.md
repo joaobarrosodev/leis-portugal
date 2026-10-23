@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2013/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2013-258162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6fc481218bf2fa7a1defed7011929cce4efcd87cd2419f9a7dfd035231c5e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccff2baea52664003eeb552b19f9c6700162ae12b759c8f00406e9675b66e6f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Pombal
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Pombal
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:572428:por
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572428:por
+  label: "Revogada pela PORT.61/2014.10.03.2014.MAOTE, DR.IS [48] de 10.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-2014-572428
+  date: '2014-03-10'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:54Z'
   warnings: []
   errors: []
 ---
@@ -233,13 +250,13 @@ As zonas de proteção imediata, intermédia e alargada, respeitantes aos perím
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 14 de dezembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 14 de dezembro de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -247,7 +264,7 @@ Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema 
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -255,15 +272,15 @@ Zona de proteção alargada
 
 Captação P1-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Captação P2-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Captação P2-100C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsóide Internacional - datum de Lisboa.
 
@@ -271,37 +288,37 @@ Nota - As coordenadas indicadas são coordenadas retangulares planas no sistema 
 
 Zona de proteção alargada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Polos de captação de Moita/Gaio-Rosário/Sarilhos Pequenos e Moita
 
 Captações PS1, PS2 e CR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Polo de captação do Penteado
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Polo de captação de Vinha das Pedras
 
 Captações PS1, PS2, PS3, JK2 e AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Polo de captação da Barra Cheia
 
 Captações PS3 e PS5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Polo de captação do Rego de Água
 
 Captação PS4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Nota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
@@ -313,12 +330,12 @@ Extrato da Carta Militar de Portugal - 1/25.000 (IGeoE)
 
 Captação P1-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Captação P2-200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
 
 Captação P2-100C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02000/0056700571.pdf)

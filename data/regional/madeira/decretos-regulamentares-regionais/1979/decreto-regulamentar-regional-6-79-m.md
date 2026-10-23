@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1979-383667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60eab7c97ffe9a13f8f8100e0868f49a9a23045b4b84026a51b1f7ac74f615ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 230007e5bd5cd3b9ec28a35a840b90853a05a9e8cb08c21569f5366fa76ad1d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Secretaria Regional da Educação e Cultura
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380541:por
+  label: Rectificado pela DECL.DD7287.10.07.1979.PCM, DR.IS [157] de 10.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380541
+  date: '1979-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:58Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +108,9 @@ Orgânica da Secretaria Regional da Educação e Cultura
 
 ### CAPÍTULO I — Atribuições e estrutura
 
-###### Artigo 1.º Compete à Secretaria Regional da Educação e Cultura (SREC), dentro dos limites legalmente estabelecidos, a definição da política educativa da Região Autónoma da Madeira.
+Artigo 1.º Compete à Secretaria Regional da Educação e Cultura (SREC), dentro dos limites legalmente estabelecidos, a definição da política educativa da Região Autónoma da Madeira.
 
-###### Art. 2.º No âmbito da competência genérica referida no artigo anterior, incumbe especialmente à Secretaria Regional da Educação e Cultura:
+Art. 2.º No âmbito da competência genérica referida no artigo anterior, incumbe especialmente à Secretaria Regional da Educação e Cultura:
 
 a) Estudar definir, orientar e executar a política educativa e cultural na Região;
 
@@ -103,7 +120,7 @@ c) Superintender e realizar a gestão dos meios humanos e materiais para a efect
 
 d) Assegurar a observância das disposições reguladoras das tarefas que lhe são cometidas, sem prejuízo das atribuições e competência conferidas por lei a outros departamentos.
 
-###### Art. 3.º A Secretaria Regional da Educação e Cultura compreende os seguintes órgãos e serviços centrais de concepção, coordenação, apoio e execução:
+Art. 3.º A Secretaria Regional da Educação e Cultura compreende os seguintes órgãos e serviços centrais de concepção, coordenação, apoio e execução:
 
 a) Gabinete do Secretário Regional;
 
@@ -117,19 +134,19 @@ e) Direcção Regional da Juventude e Desportos;
 
 f) Direcção Regional dos Assuntos Culturais.
 
-###### Art. 4.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho, de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
+Art. 4.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho, de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
 
 ### CAPÍTULO II — Gabinete do Secretário Regional
 
-###### Art. 5.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
+Art. 5.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
 
-###### Art. 6.º O Secretário Regional poderá delegar nos directores regionais as suas competências.
+Art. 6.º O Secretário Regional poderá delegar nos directores regionais as suas competências.
 
-###### Art. 7.º O Secretário Regional poderá destacar dos serviços administrativos da Secretaria Regional os funcionários considerados necessários para prestarem apoio ao seu Gabinete.
+Art. 7.º O Secretário Regional poderá destacar dos serviços administrativos da Secretaria Regional os funcionários considerados necessários para prestarem apoio ao seu Gabinete.
 
 ### CAPÍTULO III — Direcção Regional de Finanças, Administração, Pessoal e Equipamento
 
-###### Art. 8.º A Direcção Regional de Finanças, Administração, Pessoal e Equipamento exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços centrais e dependentes da Secretaria Regional da Educação e Cultura, competindo-lhe em especial:
+Art. 8.º A Direcção Regional de Finanças, Administração, Pessoal e Equipamento exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços centrais e dependentes da Secretaria Regional da Educação e Cultura, competindo-lhe em especial:
 
 a) Superintender e coordenar a gestão administrativa e financeira dos estabelecimentos de ensino, bem como dos órgãos e serviços centrais e dependentes da Secretaria Regional;
 
@@ -143,7 +160,7 @@ e) Proceder à recolha de dados estatísticos relativos às áreas de competênc
 
 f) Superintender e coordenar os serviços de acção social escolar.
 
-###### Art. 9.º A Direcção Regional de Finanças, Administração, Pessoal e Equipamento compreende os seguintes serviços:
+Art. 9.º A Direcção Regional de Finanças, Administração, Pessoal e Equipamento compreende os seguintes serviços:
 
 a) Direcção de Serviços de Finanças, Administração e Pessoal;
 
@@ -151,7 +168,7 @@ b) Direcção de Serviços de Equipamento e Manutenção;
 
 c) Direcção de Serviços de Acção Social Escolar.
 
-###### Art. 10.º À Direcção de Serviços de Finanças, Administração e Pessoal compete, nomeadamente:
+Art. 10.º À Direcção de Serviços de Finanças, Administração e Pessoal compete, nomeadamente:
 
 a) Elaborar os projectos de orçamento da Secretaria Regional;
 
@@ -171,7 +188,7 @@ h) Realizar, em coordenação com os serviços centrais do MEIC e a Secretaria d
 
 i) Assegurar a execução de todas as actividades desenvolvidas pelo serviço regional de colocações de docentes, que funcionou já em pleno, nesta Região, no ano lectivo de 1978-1979.
 
-###### Art. 11.º À Direcção de Serviços de Equipamento e Manutenção, em coordenação com a Secretaria Regional do Equipamento Social, incumbe, designadamente:
+Art. 11.º À Direcção de Serviços de Equipamento e Manutenção, em coordenação com a Secretaria Regional do Equipamento Social, incumbe, designadamente:
 
 a) Analisar as situações e participar nas operações que conduzam à actualização da rede escolar;
 
@@ -185,7 +202,7 @@ e) Proceder à recolha periódica dos dados estatísticos respeitantes às área
 
 f) Chamar a si a responsabilidade de execução de soluções alternativas em matéria de construções escolares não definitivas, solicitando à Secretaria Regional de Planeamento e Finanças a dotação de verbas especiais e a aplicabilidade de regime administrativo simplificado no domínio contratual, em conformidade com a urgência das situações.
 
-###### Art. 12.º À Direcção de Serviços de Acção Social Escolar competirá:
+Art. 12.º À Direcção de Serviços de Acção Social Escolar competirá:
 
 a) Elaborar propostas orçamentais que assegurem o desenvolvimento da acção social escolar;
 
@@ -197,7 +214,7 @@ d) Exercer as demais funções hoje cometidas ao NRASE, serviço periférico em 
 
 ### CAPÍTULO IV — Gabinete de Estudos, Planeamento e Orientação Pedagógica
 
-###### Art. 13.º O Gabinete de Estudos, Planeamento e Orientação Pedagógica é um órgão de concepção, coordenação e apoio, ao qual incumbe, nomeadamente:
+Art. 13.º O Gabinete de Estudos, Planeamento e Orientação Pedagógica é um órgão de concepção, coordenação e apoio, ao qual incumbe, nomeadamente:
 
 a) Contribuir para a formulação da política educativa na Região, bem como proceder ao planeamento das actividades a realizar no âmbito do ensino, em coordenação com a Direcção Regional do Ensino;
 
@@ -219,7 +236,7 @@ i) Cooperar com a Direcção Regional da Juventude e Desportos na promoção das
 
 j) Elaborar as propostas de medidas tendentes à identificação dos ensinos oficial e particular.
 
-###### Art. 14.º O Gabinete de Estudos, Planeamento e Orientação Pedagógica compreende os seguintes órgãos e serviços específicos:
+Art. 14.º O Gabinete de Estudos, Planeamento e Orientação Pedagógica compreende os seguintes órgãos e serviços específicos:
 
 a) Departamento de Estudos, Planeamento e Apoio Pedagógico;
 
@@ -229,7 +246,7 @@ c) Departamento de Educação Permanente;
 
 d) Departamento Jurídico.
 
-###### Art. 15.º Ao Departamento de Estudos, Planeamento e Apoio Pedagógico compete, designadamente:
+Art. 15.º Ao Departamento de Estudos, Planeamento e Apoio Pedagógico compete, designadamente:
 
 a) Promover as acções de formação e reciclagem de professores;
 
@@ -243,7 +260,7 @@ e) Promover o lançamento de experiências e inovações pedagógicas, bem como 
 
 f) Participar na implantação de novos cursos de ensino médio, bem como nas medidas a adoptar para extensão e criação do ensino superior e universitário na Região.
 
-###### Art. 16.º Incumbe ao Departamento de Documentação Educativa:
+Art. 16.º Incumbe ao Departamento de Documentação Educativa:
 
 a) Recolher bibliografia, documentação, textos e demais elementos de informação relativos a assuntos de natureza educativa de interesse para a Secretaria Regional;
 
@@ -253,7 +270,7 @@ c) Apoiar, em matéria de documentação e informação, as demais Secretarias R
 
 d) Coligir elementos estatísticos e outros considerados de interesse nos domínios do planeamento e da orientação pedagógica.
 
-###### Art. 17.º Incumbe ao Departamento de Educação Permanente em colaboração com as direcções regionais desta Secretaria Regional também competentes nos domínios específicos abaixo discriminados:
+Art. 17.º Incumbe ao Departamento de Educação Permanente em colaboração com as direcções regionais desta Secretaria Regional também competentes nos domínios específicos abaixo discriminados:
 
 a) Promover acções tendentes à diminuição da população não escolarizada;
 
@@ -267,9 +284,9 @@ e) Desenvolver uma acção supletiva do ensino básico, fomentar a criação de 
 
 f) Proporcionar serviços de manutenção física, em colaboração com a Direcção Regional da Juventude e Desportos, para todos os níveis etários.
 
-###### Art. 18.º Para executar as atribuições enunciadas nos artigos anteriores poderão ser constituídas comissões e grupos de trabalho, cuja constituição será da competência do Secretário Regional da Educação e Cultura, que fixará o número e qualidade dos seus membros, bem como o tempo do seu exercício.
+Art. 18.º Para executar as atribuições enunciadas nos artigos anteriores poderão ser constituídas comissões e grupos de trabalho, cuja constituição será da competência do Secretário Regional da Educação e Cultura, que fixará o número e qualidade dos seus membros, bem como o tempo do seu exercício.
 
-###### Art. 19.º Compete ao Departamento Jurídico:
+Art. 19.º Compete ao Departamento Jurídico:
 
 a) Emitir os pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Secretário Regional;
 
@@ -283,15 +300,15 @@ e) Transmitir a todos os órgãos e serviços as disposições legais em vigor n
 
 ### CAPÍTULO V — Direcção Regional do Ensino
 
-###### Art. 20.º Compete à Direcção Regional do Ensino superintender na organização e funcionamento dos ensinos primário, preparatório e secundário e executar a orientação pedagógica que for definida, em coordenação com os serviços centrais do MEIC.
+Art. 20.º Compete à Direcção Regional do Ensino superintender na organização e funcionamento dos ensinos primário, preparatório e secundário e executar a orientação pedagógica que for definida, em coordenação com os serviços centrais do MEIC.
 
-###### Art. 21.º A Direcção Regional do Ensino compreende os seguintes serviços:
+Art. 21.º A Direcção Regional do Ensino compreende os seguintes serviços:
 
 a) Direcção de Serviços do Ensino Básico;
 
 b) Direcção de Serviços do Ensino Secundário.
 
-###### Art. 22.º À Direcção de Serviços do Ensino Básico incumbe:
+Art. 22.º À Direcção de Serviços do Ensino Básico incumbe:
 
 a) Promover a realização de medidas que visem a melhoria da qualidade e eficiência do ensino básico, considerando os problemas escolares dos professores e dos alunos, segundo a legislação geral do País em tudo o que não for específico da Região;
 
@@ -307,35 +324,35 @@ f) Promover a realização de reuniões com os representantes dos conselhos dire
 
 g) Observar as condições de aplicação de programas, planos de estudo e métodos de ensino aprovados a nível nacional, considerando a utilização dos mesmos por uma região autónoma com as características e condicionalismos próprios.
 
-###### Art. 23.º À Direcção de Serviços do Ensino Secundário compete:
+Art. 23.º À Direcção de Serviços do Ensino Secundário compete:
 
 a) Exercer, relativamente aos estabelecimentos deste grau de ensino e ao respectivo pessoal docente, as funções referidas nas alíneas a), d), e), f) e g) do artigo anterior;
 
 b) Proporcionar aos alunos inscritos, principalmente nos cursos complementares, a realização de seminários sobre temas de índole formativa, com incidência em temáticas regionais.
 
-###### Art. 24.º O ensino infantil, pré-primário, ano preliminar e ensino especial constituirão objecto de diploma subsequente, a elaborar em coordenação com a Secretaria Regional dos Assuntos Sociais, à qual, até esta data, tem incumbido, predominantemente, o exercício de tais funções.
+Art. 24.º O ensino infantil, pré-primário, ano preliminar e ensino especial constituirão objecto de diploma subsequente, a elaborar em coordenação com a Secretaria Regional dos Assuntos Sociais, à qual, até esta data, tem incumbido, predominantemente, o exercício de tais funções.
 
-###### Art. 25.º Os cursos gerais, complementares e cursos de aperfeiçoamento do ensino técnico e liceal, em vias de extinção, nos termos da legislação em vigor, encontram-se englobados nas atribuições desta Direcção Regional.
+Art. 25.º Os cursos gerais, complementares e cursos de aperfeiçoamento do ensino técnico e liceal, em vias de extinção, nos termos da legislação em vigor, encontram-se englobados nas atribuições desta Direcção Regional.
 
-###### Art. 26.º As actividades desenvolvidas pelo ciclo preparatório televisivo (delegação do ITE) ficarão na dependência directa do director regional do Ensino.
+Art. 26.º As actividades desenvolvidas pelo ciclo preparatório televisivo (delegação do ITE) ficarão na dependência directa do director regional do Ensino.
 
-###### Art. 27.º Os novos cursos complementares, agora na dependência do Gabinete de Estudos, Planeamento e Orientação Pedagógica, ficarão incluídos no âmbito de competência desta Direcção Regional logo que terminada a respectiva fase de lançamento.
+Art. 27.º Os novos cursos complementares, agora na dependência do Gabinete de Estudos, Planeamento e Orientação Pedagógica, ficarão incluídos no âmbito de competência desta Direcção Regional logo que terminada a respectiva fase de lançamento.
 
-###### Art. 28.º Os novos cursos dos ensinos médio, superior e universitário ficarão na dependência directa do Secretário Regional da Educação e Cultura, de acordo com o estatuído no artigo 37.º do presente diploma.
+Art. 28.º Os novos cursos dos ensinos médio, superior e universitário ficarão na dependência directa do Secretário Regional da Educação e Cultura, de acordo com o estatuído no artigo 37.º do presente diploma.
 
 ### CAPÍTULO VI — Direcção Regional da Juventude e Desportos
 
-###### Art. 29.º A Direcção Regional da Juventude e Desportos visa, de uma forma genérica, a criação das condições técnicas, materiais e humanas necessárias ao seu desenvolvimento e o apoio e fomento às iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
+Art. 29.º A Direcção Regional da Juventude e Desportos visa, de uma forma genérica, a criação das condições técnicas, materiais e humanas necessárias ao seu desenvolvimento e o apoio e fomento às iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
 
-###### Art. 30.º - 1 - A organização, funcionamento, competência específica e respectivo quadro de pessoal dos órgãos e serviços da Direcção Regional da Juventude e Desportos constituirão objecto de definição em diploma a publicar após regionalização dos serviços periféricos DGC e FAOJ.
+Art. 30.º - 1 - A organização, funcionamento, competência específica e respectivo quadro de pessoal dos órgãos e serviços da Direcção Regional da Juventude e Desportos constituirão objecto de definição em diploma a publicar após regionalização dos serviços periféricos DGC e FAOJ.
 
 2 - Será incluído no quadro mencionado no n.º 1 deste artigo o pessoal afecto ao Estádio dos Barreiros.
 
 ### CAPÍTULO VII — Direcção Regional dos Assuntos Culturais
 
-###### Art. 31.º A Direcção Regional dos Assuntos Culturais é um órgão técnico-administrativo, ao qual incumbe contribuir para a definição e orientação da política cultural da Região, bem como executar, coordenar e conduzir as acções a ela inerentes.
+Art. 31.º A Direcção Regional dos Assuntos Culturais é um órgão técnico-administrativo, ao qual incumbe contribuir para a definição e orientação da política cultural da Região, bem como executar, coordenar e conduzir as acções a ela inerentes.
 
-###### Art. 32.º No âmbito das suas atribuições, compete-lhe, nomeadamente:
+Art. 32.º No âmbito das suas atribuições, compete-lhe, nomeadamente:
 
 a) Promover o arrolamento, inventário, classificação, recuperação, restauro, conservação e reconversão do património cultural da Região;
 
@@ -349,48 +366,48 @@ e) Incentivar e apoiar o gosto pela cultura e as possibilidades de participaçã
 
 f) Organizar, apetrechar e apoiar os centros de pesquisa e as estruturas adequadas para a difusão de manifestações culturais.
 
-###### Art. 33.º - 1 - Os departamentos especializados que constituirão a Direcção Regional dos Assuntos Culturais, bem como as respectivas atribuições, organização e restante quadro de pessoal, serão definidos em diploma a publicar oportunamente, após regionalização de serviços que lhe são afectos, nomeadamente o ainda designado «Arquivo Distrital» (a denominar «Arquivo Cabral do Nascimento»), Edifícios e Monumentos Nacionais e de outros departamentos no âmbito em que os mesmos se insiram no organigrama do Governo Central.
+Art. 33.º - 1 - Os departamentos especializados que constituirão a Direcção Regional dos Assuntos Culturais, bem como as respectivas atribuições, organização e restante quadro de pessoal, serão definidos em diploma a publicar oportunamente, após regionalização de serviços que lhe são afectos, nomeadamente o ainda designado «Arquivo Distrital» (a denominar «Arquivo Cabral do Nascimento»), Edifícios e Monumentos Nacionais e de outros departamentos no âmbito em que os mesmos se insiram no organigrama do Governo Central.
 
 2 - Será incluído no quadro mencionado no n.º 1 deste artigo o pessoal pertencente ao Museu da Quinta das Cruzes.
 
 ### CAPÍTULO VIII — Do pessoal
 
-###### Art. 34.º - 1 - O quadro do pessoal da Secretaria Regional da Educação e Cultura é o constante do mapa anexo ao presente diploma.
+Art. 34.º - 1 - O quadro do pessoal da Secretaria Regional da Educação e Cultura é o constante do mapa anexo ao presente diploma.
 
 2 - Os quadros do pessoal das Direcções Regionais da Juventude e Desportos e dos Assuntos Culturais serão objecto de diplomas próprios, de acordo com o preceituado nos artigos 30.º e 33.º deste diploma, bem como o quadro de todos os serviços periféricos em vias de regionalização, nomeadamente a Direcção Escolar do Funchal.
 
-###### Art. 35.º As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal do quadro da Secretaria Regional da Educação e Cultura serão realizadas de harmonia com o estatuído nestas matérias pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 35.º As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal do quadro da Secretaria Regional da Educação e Cultura serão realizadas de harmonia com o estatuído nestas matérias pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
-###### Art. 36.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pela 1.ª e 2.ª classes, a que são atribuídas, respectivamente, as letras S e T.
+Art. 36.º - 1 - Os contínuos, porteiros e guardas distribuir-se-ão pela 1.ª e 2.ª classes, a que são atribuídas, respectivamente, as letras S e T.
 
 2 - No caso de contínuos, porteiros e guardas com mais de dez anos de bom e efectivo serviço, serão classificados na 1.ª classe.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 37.º - 1 - O ano propedêutico, a implantação de novos cursos de ensino médio, bem como a adopção de medidas visando a extensão e criação do ensino superior e universitário na Região, estarão na dependência directa do Secretário Regional da Educação e Cultura, que promoverá as acções e as iniciativas necessárias nestes domínios.
+Art. 37.º - 1 - O ano propedêutico, a implantação de novos cursos de ensino médio, bem como a adopção de medidas visando a extensão e criação do ensino superior e universitário na Região, estarão na dependência directa do Secretário Regional da Educação e Cultura, que promoverá as acções e as iniciativas necessárias nestes domínios.
 
 2 - A competência mencionada no n.º 1 deste artigo será exercida sem prejuízo da observância dos princípios da autonomia universitária.
 
-###### Art. 38.º Na integração e reclassificação do pessoal no quadro da Secretaria Regional da Educação e Cultura serão observadas as normas definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 38.º Na integração e reclassificação do pessoal no quadro da Secretaria Regional da Educação e Cultura serão observadas as normas definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
-###### Art. 39.º A aplicação do artigo 30.º do diploma referido no artigo anterior depende exclusivamente de decisão do plenário do Governo Regional, por iniciativa do respectivo Presidente ou de qualquer Secretaria Regional.
+Art. 39.º A aplicação do artigo 30.º do diploma referido no artigo anterior depende exclusivamente de decisão do plenário do Governo Regional, por iniciativa do respectivo Presidente ou de qualquer Secretaria Regional.
 
-###### Art. 40.º As reclassificações produzirão efeito a partir do dia 1 de Janeiro de 1979.
+Art. 40.º As reclassificações produzirão efeito a partir do dia 1 de Janeiro de 1979.
 
-###### Art. 41.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho conjunto do Presidente do Governo da Região e do Secretário Regional da Educação e Cultura.
+Art. 41.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho conjunto do Presidente do Governo da Região e do Secretário Regional da Educação e Cultura.
 
-###### Art. 42.º Este diploma entra imediatamente em vigor.
+Art. 42.º Este diploma entra imediatamente em vigor.
 
-**Assinado em 18 de Abril de 1979.**
+Assinado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 34.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/12000/11181123.pdf))](https://files.diariodarepublica.pt/1s/1979/05/12000/11181123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12000/11181123.pdf)
 
 (nota a) Exceptuados apenas os quadros específicos dos serviços periféricos em vias de regionalização.
 
-**O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João C. Gonçalves Jardim.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3822-(3) a 3822-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13801/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216-c/2012/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-c-2012-656134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476112aad3012396f319c8b99087028bd34a26a6397e8e48359bf9e513ea972d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ffb02461f936d785d6f36f1eccbb5615aaa6c0a534ffa74427d072b65ecfe78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Aptidão Profissional
-- Instituto do Emprego e Formação Profissional
+- Avaliação de Conhecimentos
 - Centro de Formação Profissional
-- Plano de Estudos
+- Certificado de Aptidão Profissional
+- Educação dos Adultos
+- Ensino Básico
 - Ensino Oficial
+- Estabelecimento de Ensino
 - Formador
 - Habilitações Literárias
-- Educação dos Adultos
-- Sistema Nacional de Qualificações
-- Estabelecimento de Ensino
+- Instituto do Emprego e Formação Profissional
+- Plano de Estudos
 - Programa de Formação em Competências Basicas
 - Qualificação Profissional
-- Ensino Básico
-- Avaliação de Conhecimentos
+- Sistema Nacional de Qualificações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
@@ -90,16 +90,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1100/2010/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1100/2010/10/22/p/dre
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:54Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +138,4 @@ A presente portaria introduz a primeira alteração à Portaria n.º 1100/2010, 
 
 A presente portaria entra em vigor no dia a seguir ao da sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 17 de julho de 2012. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 16 de julho de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 17 de julho de 2012. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 16 de julho de 2012.

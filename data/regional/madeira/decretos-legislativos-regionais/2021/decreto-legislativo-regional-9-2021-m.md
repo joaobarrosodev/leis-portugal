@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09400/0003200058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2021/05/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2021-163332294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a2ff262c2c72905d9e9937aeefaf48ac50d42c269360f42fc8273605dec74f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a791b6ea2ad09fe362a2b2c5b69f9b326540bcbdd975aac23e322f4037db7c53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Tempo de Serviço
-- ILHA da Madeira
-- ILHA de Porto Santo
-- Educação Especial
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
 - Contratação de Pessoal
-- Proteção ao Deficiente
-- Pessoal Docente
+- Deficiente
+- Educação Especial
 - Ensino Básico
+- Ensino Secundário
+- ILHA da Madeira
+- ILHA de Porto Santo
 - Madeira.região Autónoma
-- Quadro de Pessoal
-- Regime Jurídico
 - Mobilidade de Pessoal
+- Pessoal Docente
+- Proteção ao Deficiente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Tempo de Serviço
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -127,16 +127,216 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108002086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115609040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117754017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69782195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74953321:por
+  label: null
+  source: null
 article_structure:
-  article_count: 74
+  article_count: 67
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:33Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +381,9 @@ Os artigos 2.º, 5.º, 9.º, 17.º, 18.º, 19.º, 36.º e 46.º do [Decreto Legi
 
 As normas previstas no presente diploma são aplicáveis aos docentes de carreira cuja relação jurídica de emprego público é titulada por contrato de trabalho em funções públicas por tempo indeterminado e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no n.º 5 do artigo 44.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -205,7 +407,9 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 11 - As vagas previstas no n.º 9 são publicitadas na página eletrónica da direção regional responsável pela área da administração e gestão das organizações escolares, em momento anterior ao das candidaturas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -219,7 +423,9 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 6 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -231,13 +437,17 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 5 - Em casos excecionais e devidamente fundamentados, podem ser admitidas desistências totais do concurso até à publicação das listas de colocação.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
 2 - Os candidatos colocados na sequência dos restantes concursos devem aceitar a colocação junto das entidades referidas no n.º 1, no prazo de quarenta e oito horas, correspondentes aos dois primeiros dias úteis seguintes à publicitação da lista de colocação, com exceção dos candidatos à contratação nos termos do n.º 10 do artigo 43.º e do n.º 11 do artigo 44.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -247,7 +457,9 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 4 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -263,7 +475,9 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 7 - Os docentes em mobilidade ao abrigo da alínea b) do n.º 1 podem requerer o regresso à escola de origem ou ser opositores a novo concurso de mobilidade interna, sem que tenha esgotado o prazo de quatro anos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -313,11 +527,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de abril de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 5 de maio de 2021.**
+Assinado em 5 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -1107,4 +1321,6 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e é ap
 
 ## ANEXO — (a que se refere o n.º 6 do artigo 48.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0003200058.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0003200058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0003200058.pdf)
+
+114217641

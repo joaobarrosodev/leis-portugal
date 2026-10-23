@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292/2010/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-2010-332463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb7530173ebd91fd057161f7b311ba6084b5d55ce86db21ab5c1300fb05d8e88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 383321ca8a58c4e9339bf2557ec51c0aaf83196ae2ce79559f3fe7182d676c7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/836/1999/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/836/1999/09/29/p/dre
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668090:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +149,4 @@ Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Pres
 
 3.º É revogada a [Portaria n.º 836/99](https://diariodarepublica.pt/dr/detalhe/portaria/836-1999-668090), de 24 de Agosto.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Abril de 2010. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 29 de Março de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Abril de 2010. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 29 de Março de 2010.

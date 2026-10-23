@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/405/2012/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/405-2012-190643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 095b11d0168f3d9856f7e9c762b725299c2c179384d8c8306b5d5397c1e2e736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 643ab330274f6a4197ad310e645e342840c029d556fb3efc1a5908941b46154d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Águas Subterrâneas
 - Agência Portuguesa do Ambiente
+- Água
+- Águas Subterrâneas
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:75521172:por
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75521172:por
+  label: Revogada pelo(a) Portaria n.º 268/2016 - Diário da República n.º 197/2016, Série I de 2016-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2016-75521172
+  date: '2016-10-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:01Z'
   warnings: []
   errors: []
 ---
@@ -245,13 +262,13 @@ As zonas de proteção intermédia e alargada, respeitantes aos perímetros de p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 28 de novembro de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 28 de novembro de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -261,73 +278,73 @@ Polo de captação de Arrepiado
 
 Captação CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Carregueira
 
 Captação CBR3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação FR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Ulme
 
 Captações JK5 e JK8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Semideiro
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Vale de Cavalos
 
 Captação CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Chouto
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Gaviãozinho
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Parreira
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -337,57 +354,57 @@ Polo de captação de Arrepiado
 
 Captações CBR1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Carregueira
 
 Captações CBR3 e FR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Ulme
 
 Captações JK5 e JK8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Semideiro
 
 Captações AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Vale de Cavalos
 
 Captação CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Chouto
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Gaviãozinho
 
 Captações AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Parreira
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -397,49 +414,49 @@ Polo de captação de Arrepiado
 
 Captações CBR1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Carregueira
 
 Captações CBR3 e FR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Ulme
 
 Captações JK5 e JK8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Semideiro
 
 Captações AC1, AC2 e CBR1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Vale de Cavalos
 
 Captações CBR1 e CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Chouto
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Gaviãozinho
 
 Captações AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Parreira
 
 Captação CBR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 ## ANEXO V — (a que se refere o artigo 5.º)
 
@@ -451,32 +468,32 @@ Série M888 - 1/25.000 (IGeoE)
 
 Polo de captação de Arrepiado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Carregueira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Ulme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Semideiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Vale de Cavalos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Chouto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Gaviãozinho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
 
 Polo de captação de Parreira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23700/0690706915.pdf)

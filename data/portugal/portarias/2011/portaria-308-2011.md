@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24300/0535405355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/308/2011/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-2011-145037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 861c31b358a4b36a8766fe824b091e9d96e371edd3371a3149929ac1f3ea6805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c31bc5c3a6c6f2371c488f7cdc5eea92ce335f62d21f72d30678397073fa832f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agente de Execução
 - Câmara dos Solicitadores
-- Sistema Judicial
-- Registo Informático de Execuções
-- Informática
+- Depósito Público
+- Execução de Sentença
+- Execução por Dívidas
 - Formulário Eletrónico
 - Impresso
-- Oficial de Justiça
-- Ministério da Justiça
-- Pagamento
-- Venda em Hasta Pública
+- Informática
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Execução de Sentença
+- Ministério da Justiça
 - Notificação
+- Oficial de Justiça
+- Pagamento
 - Página na Internet
-- Sistema de Informação
-- Depósito Público
-- Reembolso
-- Execução por Dívidas
-- Remuneração
 - Processo de Execução
-- Agente de Execução
+- Reembolso
+- Registo Informático de Execuções
+- Remuneração
+- Sistema de Informação
+- Sistema Judicial
 - Venda
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:499505:por
@@ -98,16 +98,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-b/2009/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-b/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:622372:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499505:por
+  label: "Revogada, a partir de 01.09.2013, a Port 331-B/2009 de 30-mar, na redação do presente diploma, pela PORT.282/2013.29.08.2013.MJ,\
+    \ DR.IS [166] de 29.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-2013-499505
+  date: '2013-08-29'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:47Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +180,9 @@ n) [Anterior alínea m).]
 
 o) [Anterior alínea n).]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A presente portaria aplica-se às diligências de execução realizadas por oficial de justiça, com as devidas adaptações, com excepção do disposto em matéria de contas-clientes.
 
@@ -188,17 +200,23 @@ Indicação de número de identificação bancária
 
 2 - Caso não seja indicado um número de identificação bancária no requerimento executivo, o agente de execução solicita ao exequente a sua indicação no processo para efeitos de realização de pagamentos.
 
-###### Artigo 26.º-A — Movimentos a crédito nas contas-clientes
+Artigo 26.º-A
+
+Movimentos a crédito nas contas-clientes
 
 O depósito de quaisquer valores nas contas-clientes à ordem do agente de execução efectua-se através da utilização de um identificador único de pagamento, previamente emitido através do sistema informático de suporte à actividade dos agentes de execução.
 
-###### Artigo 26.º-B — Movimentos a débito nas contas-clientes
+Artigo 26.º-B
+
+Movimentos a débito nas contas-clientes
 
 1 - Os pagamentos pelo agente de execução a quaisquer entidades são efectuados após prévio registo no sistema informático de suporte à actividade dos agentes de execução.
 
 2 - Os movimentos a débito nas contas-clientes à ordem do agente de execução são concretizados através de número de identificação bancária, referência multibanco ou documento único de cobrança constantes do processo ou, ainda, de entrega em dinheiro num balcão de instituição de crédito definida pela Câmara dos Solicitadores.
 
-###### Artigo 26.º-C — Especificações técnicas
+Artigo 26.º-C
+
+Especificações técnicas
 
 A concretização de débitos e créditos nas contas-clientes e a articulação com a plataforma informática da instituição de crédito a que se refere o artigo anterior efectuam-se de acordo com as especificações técnicas constantes do sistema informático de suporte à actividade dos agentes de execução, definidas pela Câmara dos Solicitadores.»
 
@@ -214,4 +232,4 @@ Os agentes de execução, no prazo máximo de 90 dias contados da data de entrad
 
 A presente portaria entra em vigor em 31 de Janeiro de 2012.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 12 de Dezembro de 2011.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 12 de Dezembro de 2011.

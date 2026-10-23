@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15500/0007500083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/256/2023/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fda4d4f3c5a14fd450f74d64c81b2791df9936a3ba6d8e36e7bdc0ec97da11a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e401315132d9cd100395348257373f1803419ffcd742b7943ead8adc5679144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comparticipação
+- Comparticipação Familiar
+- Cooperação
+- Definição de Competências
+- Direção Executiva do Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
 - Exclusão Social
 - Financiamento
-- Comparticipação
-- Cooperação
 - Internamento Hospitalar
-- Saúde
-- Definição de Competências
-- Comparticipação Familiar
-- Serviço Nacional de Saúde
-- Lisboa
 - IPSS
-- Santa Casa da Misericórdia
+- Lisboa
 - Residência
-- Estabelecimento Hospitalar
+- Santa Casa da Misericórdia
+- Saúde
 - Segurança Social
+- Serviço Nacional de Saúde
 - Transporte de Doentes
-- Direção Executiva do Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
@@ -106,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/67/2012/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/67/2012/03/21/p/dre
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207026149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66639520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67666075:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:13Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +190,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 9.º da [Portaria n.º 38-A/2023](http
 
 3 - O disposto no n.º 1 pode ainda ocorrer em entidades de acolhimento com características adequadas às altas hospitalares ou em equipamentos públicos, privados com ou sem fins lucrativos ou da Santa Casa da Misericórdia de Lisboa (SCML), adiante designadas por estruturas de acolhimento para altas hospitalares, mediante a celebração de protocolo de cooperação ou contrato-programa, a homologar pelos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde, com possibilidade de delegação em órgão competente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A referenciação, avaliação, admissão e o acompanhamento das situações com vista ao acolhimento temporário e transitório em resposta social ou em estruturas de acolhimento para altas hospitalares obedece aos procedimentos instituídos na regulamentação em vigor, a qual pressupõe uma avaliação social articulada entre os serviços do ISS, I. P., e o serviço social dos hospitais do SNS ou da RNCCI, quando aplicável.
 
@@ -178,7 +208,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 9.º da [Portaria n.º 38-A/2023](http
 
 7 - Sempre que a pessoa com alta hospitalar resida no concelho de Lisboa, as competências da segurança social previstas no n.º 1 são asseguradas por profissionais da SCML.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As vagas de acolhimento reguladas na presente portaria, nomeadamente as destinadas ao acolhimento de pessoas adultas com alta clínica e social e que permaneçam internadas no hospital são contratualizadas a título extraordinário, temporário e transitório, através da celebração de adenda ao acordo de cooperação ou de novo acordo, e através da celebração de protocolo de cooperação ou contrato-programa, consoante o caso previsto no n.º 2 ou no n.º 3 do artigo 1.º, a outorgar consoante análise casuística a efetuar pelos serviços da segurança social e da saúde.
 
@@ -194,7 +226,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 9.º da [Portaria n.º 38-A/2023](http
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para as vagas em ERPI e em estruturas de acolhimento para altas hospitalares cuja ocupação for efetuada pelos serviços do ISS, I. P., no âmbito da presente portaria, há lugar a uma comparticipação financeira correspondente ao valor mensal convencionado de 1400 (euro) por pessoa, sem prejuízo do disposto no artigo 7.º
 
@@ -212,7 +246,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 9.º da [Portaria n.º 38-A/2023](http
 
 8 - A comparticipação financeira prevista no n.º 1 em estruturas de acolhimento para altas hospitalares pode ser assegurada pela segurança social e pela saúde, nos termos a definir no protocolo de cooperação ou no contrato-programa, deduzindo a comparticipação familiar prevista no n.º 2 do artigo 7.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O valor da comparticipação familiar mensal devida pela utilização das vagas reguladas com instituições do setor social e solidário determina-se segundo as regras de cálculo aplicáveis às respostas sociais ERPI e LR, conforme o anexo à [Portaria n.º 196-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2015-67666075), de 1 de julho, sendo o valor apurado deduzido à comparticipação financeira da segurança social e da saúde, nos termos previstos nos n.os 1, 2 e 8 do artigo anterior.
 
@@ -224,7 +260,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 9.º da [Portaria n.º 38-A/2023](http
 
 5 - Sempre que a dedução prevista no n.º 1 e no n.º 2 não seja efetivada por via da comparticipação familiar, os serviços do ISS, I. P., asseguram o respetivo montante até à sua concretização.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A monitorização da ocupação das vagas previstas na presente portaria é efetuada pelos serviços do ISS, I. P., da Direção Executiva do SNS, I. P., e das organizações representativas do setor social e solidário ou da SCML, quando aplicável.
 
@@ -240,7 +278,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 7 de agosto de 2023.
 
-**A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.**
+A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -371,3 +409,5 @@ h) Administração dos fármacos prescritos.
 ###### Artigo 10.º — Entrada em vigor e produção de efeitos
 
 A presente portaria entra em vigor na data da sua assinatura e produz efeitos a 1 de janeiro de 2023.
+
+116759082

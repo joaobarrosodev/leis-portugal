@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1979-383587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aff657a00ccb301278d01c3152ca88fd14049018af2956de785ac89b38b699de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 520ac6d6f4280d5899b402f3bcd49fd43cc5523773ad148bd79115ddebf49bc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão
+- Comunicação Social
+- Criação de Serviços
+- Financiamento
+- Madeira.região Autónoma
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:139052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:29Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +105,9 @@ Há assim que fazer o Governo Regional dispor de verbas destinadas a apoiar os �
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira determina para valer como lei:
 
-###### Artigo 1.º No uso dos poderes que lhe estão conferidos pelo [Decreto Regional n.º 5/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1977-139052), o Governo Regional disporá de verbas para apoio aos jornais não estatizados e à rádio não estatizada, de âmbito regional.
+Artigo 1.º No uso dos poderes que lhe estão conferidos pelo [Decreto Regional n.º 5/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1977-139052), o Governo Regional disporá de verbas para apoio aos jornais não estatizados e à rádio não estatizada, de âmbito regional.
 
-###### Art. 2.º O Governo concretizará o apoio previsto no artigo anterior, não só através de assistência económica às empresas que tal o solicitem fundamentalmente, mas ainda nos casos seguintes:
+Art. 2.º O Governo concretizará o apoio previsto no artigo anterior, não só através de assistência económica às empresas que tal o solicitem fundamentalmente, mas ainda nos casos seguintes:
 
 a) Estudos de problemática da comunicação social;
 
@@ -115,7 +125,7 @@ g) Estudos sobre a criação de circuitos de distribuição de notícias e de jo
 
 h) Formação e aperfeiçoamento de profissionais de comunicação social.
 
-###### Art. 3.º Os apoios considerados pelo presente diploma não podem abranger meios de comunicação social que:
+Art. 3.º Os apoios considerados pelo presente diploma não podem abranger meios de comunicação social que:
 
 a) Sejam órgãos de um partido político, de uma associação política ou movimento político;
 
@@ -123,7 +133,7 @@ b) Tenham sido objecto de condenação em sentença judicial onde se reconheça 
 
 c) Façam propaganda de doutrinas cujos métodos e práticas se constituíram em sistemas políticos totalitários.
 
-###### Art. 4.º - 1 - Para qualquer tipo de apoio previsto no artigo 2.º, o Governo solicitará um parecer a uma comissão com a seguinte composição:
+Art. 4.º - 1 - Para qualquer tipo de apoio previsto no artigo 2.º, o Governo solicitará um parecer a uma comissão com a seguinte composição:
 
 a) Um representante de cada um dos grupos parlamentares da Assembleia Regional da Madeira;
 
@@ -155,9 +165,9 @@ n) Um representante das empresas de publicidade da Região.
 
 3 - Para efeitos de composição da comissão referida em 1, não são consideradas as empresas, os jornalistas ou outros trabalhadores dos meios de comunicação social que estejam abrangidos por quaisquer das alíneas do artigo anterior.
 
-###### Art. 5.º O Governo Regional deliberará mesmo sem o parecer referido no n.º 1 do artigo anterior, caso tal parecer não seja apresentado dentro dos prazos para cada caso julgados convenientes.
+Art. 5.º O Governo Regional deliberará mesmo sem o parecer referido no n.º 1 do artigo anterior, caso tal parecer não seja apresentado dentro dos prazos para cada caso julgados convenientes.
 
-###### Art. 6.º - 1 - A comissão referida no artigo 4.º será presidida por um dos seus membros, para o efeito designado pelo Governo Regional.
+Art. 6.º - 1 - A comissão referida no artigo 4.º será presidida por um dos seus membros, para o efeito designado pelo Governo Regional.
 
 2 - O membro que preside convoca as reuniões da comissão e coordena as suas actividades.
 
@@ -165,14 +175,14 @@ n) Um representante das empresas de publicidade da Região.
 
 4 - Compete ao Gabinete da Comunicação Social do Governo Regional prestar os apoios necessários à efectivação das reuniões da comissão, quando devidamente convocadas.
 
-###### Art. 7.º O disposto no presente diploma não prejudica o já estatuído quanto ao Jornal do Emigrante do Governo da Região Autónoma.
+Art. 7.º O disposto no presente diploma não prejudica o já estatuído quanto ao Jornal do Emigrante do Governo da Região Autónoma.
 
-###### Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 30 de Janeiro de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 15 de Fevereiro de 1979.**
+Assinado em 15 de Fevereiro de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

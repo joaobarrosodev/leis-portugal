@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14600/0010600107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/243/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-2023-216323581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c327869c0e1644c5edb837f14007bad5c1c23d14afe7bf182e8e0f6d8cdc8e2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cc89b370aa4fbb41908e4b12fd6f1c87da1847ee4d6d9c2827ece98b6d6b5d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,18 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - CAÇA
-- Recursos Hídricos
-- Regulamentação de Atos Legislativos
+- Fundos CE
+- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Ordenamento Cinegético
+- PDR 2020
 - Pesca
 - Projeto de Investimento
-- Fundos CE
 - QCA
-- Ordenamento Cinegético
+- Recursos Hídricos
+- Regulamentação de Atos Legislativos
 - Subsídio não Reembolsável
 - ZONA de CAÇA
 - ZONA de Pesca
-- PDR 2020
-- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -123,16 +123,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90/2018/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/2018/03/29/p/dre
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114944614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74925435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:06Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +267,9 @@ v) «Zonas de pesca profissional», as massas de água em que a gestão da pesca
 
 w) «Zonas de pesca reservada», as massas de água ou troços ou zonas destas onde é praticada a pesca desportiva, sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de junho de 1959, na sua redação atual.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -225,4 +283,6 @@ w) «Zonas de pesca reservada», as massas de água ou troços ou zonas destas o
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 25 de julho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 25 de julho de 2023.
+
+116720599

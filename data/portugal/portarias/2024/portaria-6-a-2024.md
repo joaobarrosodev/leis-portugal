@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 3/2024, 1º Suplemento, Série I de 2024-01-04
   number: '3'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 13-(2) a 13-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00301/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6-a/2024/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-a-2024-836117858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a05b9ae722f5c8043fb8f96b1182538d8a0a3a7e55c1e853b053687eb276a111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f94386352f154389a2d6b7c1de52084806fdc5a2b8931efa24b03fcb2a35ec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Alcoolismo
 - Álcool
-- Prevenção contra o Consumo de Droga
-- Estatuto
+- Alcoolismo
 - Droga
-- Toxicodependente
+- Estatuto
 - Instituto para os Comportamentos Aditivos e as Dependências
+- Prevenção contra o Consumo de Droga
+- Toxicodependente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109-e/2021/12/09/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/604/2001/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/604/2001/06/12/p/dre
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:32Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +178,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 A presente portaria produz efeitos nos termos definidos no artigo 20.º do [Decreto-Lei n.º 89/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), de 11 de outubro.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 29 de dezembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 3 de janeiro de 2024. - A Secretária de Estado da Promoção da Saúde, Margarida Fernandes Tavares, em 4 de janeiro de 2024.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 29 de dezembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 3 de janeiro de 2024. - A Secretária de Estado da Promoção da Saúde, Margarida Fernandes Tavares, em 4 de janeiro de 2024.
 
 ## ANEXO — Estatutos do Instituto para os Comportamentos Aditivos e as Dependências, I. P.
 
@@ -517,3 +549,5 @@ k) Exercer as demais competências que lhe sejam delegadas.
 ###### Artigo 18.º — Regulamento interno
 
 O conselho diretivo do ICAD, I. P., aprova o respetivo o regulamento interno no prazo máximo de 180 dias, regulando a organização e disciplina do trabalho e descrevendo os respetivos postos de trabalho.
+
+117219648

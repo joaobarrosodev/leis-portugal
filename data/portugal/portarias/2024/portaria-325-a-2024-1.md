@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24201/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/325-a/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2024-900157743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0859d59d286edcb803c6d62d5b8167ac800319e2ef4512a434403f0cdbc0391
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0d0b90e87d2c8694a1b048c0c8ae4d1ae86d866f43669f34f28aa43737d3aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - Casa do Douro
 - Conselho Regional de Vitivinicultores
+- Eleição
 - Regulamentação de Atos Legislativos
 - Regulamento Eleitoral
 relationships:
+- type: amends
+  target: pt:numero:portaria:190-A/2024
+  label: Altera, a partir de 14 de dezembro de 2024, os artigos 7.º e 8.º do Regulamento Eleitoral da Casa do Douro, aprovado
+    pela Portaria n.º 190-A/2024/1, de 26 de agosto, Diário da República n.º 164/2024, Suplemento, Série I
+  source: null
+  date: '2024-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/28/2024/02/28/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/319-a/2024/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/319-a/2024/12/06/p/dre
+- type: cites
+  target: pt:dre:853867964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885779498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899370943:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:08Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +137,11 @@ Tendo-se verificado dificuldades significativas na constituição das mesas das 
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup>1 e 2 do artigo 4.º da [Lei n.º 28/2024](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), de 28 de fevereiro, e no n.º 5 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo à referida lei, manda o Governo, pelo Ministro da Agricultura e Pescas, o seguinte:
+Ao abrigo do disposto nos n.os1 e 2 do artigo 4.º da [Lei n.º 28/2024](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), de 28 de fevereiro, e no n.º 5 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo à referida lei, manda o Governo, pelo Ministro da Agricultura e Pescas, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à terceira alteração à [Portaria n.º 190-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2024-885779498), de 26 de agosto, alterada pelas Portarias n.<sup>os</sup> [273/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/273-2024-891867283), de 21 de outubro, e [319-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), de 6 de dezembro, e que aprova o Regulamento Eleitoral da Casa do Douro e a constituição da comissão eleitoral e fixa as datas de eleições dos respetivos órgãos.
+A presente portaria procede à terceira alteração à [Portaria n.º 190-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2024-885779498), de 26 de agosto, alterada pelas Portarias n.os [273/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/273-2024-891867283), de 21 de outubro, e [319-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), de 6 de dezembro, e que aprova o Regulamento Eleitoral da Casa do Douro e a constituição da comissão eleitoral e fixa as datas de eleições dos respetivos órgãos.
 
 ###### Artigo 2.º — Alteração ao Regulamento Eleitoral da Casa do Douro, aprovado pela [Portaria n.º 190-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2024-885779498), de 26 de agosto
 
@@ -145,7 +167,9 @@ Os artigos 7.º e 8.º do Regulamento Eleitoral da Casa do Douro, aprovado pela 
 
 8 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As assembleias de voto têm a sua abertura às 14 horas e o seu encerramento às 18 horas.
 
@@ -161,4 +185,6 @@ Os artigos 7.º e 8.º do Regulamento Eleitoral da Casa do Douro, aprovado pela 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 13 de dezembro de 2024.**
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 13 de dezembro de 2024.
+
+118466862

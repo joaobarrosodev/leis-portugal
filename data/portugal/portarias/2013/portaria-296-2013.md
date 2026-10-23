@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296/2013/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-2013-500217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1a721e9699fd0a2e87ed4e316989c03319b30643739b9bb5725733c1e9a1343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd8ca5f5904dc18d8df69743d090b2d19f5feaf59645867d88b41ea5097decf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
-- Definição de Competências
-- Proteção da Floresta
-- Fundo Florestal Permanente
-- Pagamento
-- IFAP
 - Autoridade Florestal Nacional
+- Definição de Competências
+- Financiamento
+- Fundo Florestal Permanente
+- Garantia
+- IFAP
+- Pagamento
+- Proteção da Floresta
 - Regulamento
 - Relatório de Actividade
 - Relatório e Contas
@@ -113,16 +113,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+- type: cites
+  target: pt:dre:178537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66761451:por
+  label: Revogada, sem prejuízo do disposto no art. 2º, a Port 113/2011, de 23-mar, na redação e republicação da presente
+    portaria, pelo(a) Portaria n.º 77/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-2015-66761451
+  date: '2015-03-16'
 article_structure:
-  article_count: 57
+  article_count: 34
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:37Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +203,9 @@ e) [...];
 
 f) Promoção do investimento, da gestão e do ordenamento florestais, incluindo o apoio à expansão do património florestal.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -185,7 +217,9 @@ f) Promoção do investimento, da gestão e do ordenamento florestais, incluindo
 
 5 - [...].
 
-###### Artigo 5.º — Competências do ICNF, I. P.
+Artigo 5.º
+
+Competências do ICNF, I. P.
 
 Compete ao ICNF, I. P., a prática dos seguintes atos de administração e gestão do Fundo:
 
@@ -211,7 +245,9 @@ j) Resolver os contratos nas situações de incumprimento das obrigações assum
 
 k) Realizar as ações de controlo e de recuperação de apoios indevidamente pagos, nos termos do n.º 5 do artigo 23.º e dos artigos 24.º e 26.º do presente Regulamento, sem prejuízo do disposto na alínea f) do artigo 8.º do presente Regulamento.
 
-###### Artigo 7.º — COAP
+Artigo 7.º
+
+COAP
 
 1 - A COAP tem a seguinte composição:
 
@@ -239,7 +275,9 @@ d) Exercer quaisquer outras funções de que seja encarregue pela COAP.
 
 6 - A participação nas reuniões e nas outras atividades da COAP não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, subsídio ou senha de presença.
 
-###### Artigo 8.º — Competências da COAP
+Artigo 8.º
+
+Competências da COAP
 
 Compete à COAP:
 
@@ -261,21 +299,29 @@ h) Emitir parecer vinculativo sobre o relatório final de execução dos apoios;
 
 i) Emitir parecer sobre o relatório anual de atividades e contas do Fundo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Constituem encargos do Fundo o financiamento dos apoios, nos termos estabelecidos no presente Regulamento, bem como outros encargos legalmente previstos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O plano anual de atividades é o instrumento de planeamento de afetação dos recursos do Fundo às diferentes áreas e estabelece, nomeadamente, os eixos de intervenção a financiar por ordem de prioridade, a tipologia de ações elegíveis, os períodos de apresentação dos pedidos de apoio e a duração destes, quando superior a um ano, bem como os montantes financeiros a afetar, os critérios de hierarquização das candidaturas em função do seu mérito para a execução da política florestal e a execução dos compromissos assumidos em anos anteriores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O plano anual de atividades é elaborado pelo ICNF, I. P., e remetido para aprovação pelo membro do Governo responsável pela área das florestas, até ao final do ano civil anterior ao que diz respeito.
 
 2 - Após a sua aprovação, o plano anual de atividades é divulgado no sítio na Internet do ICNF, I. P.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -285,13 +331,17 @@ O plano anual de atividades é o instrumento de planeamento de afetação dos re
 
 4 - As contas a que se refere o número anterior são publicadas em anexo às contas do ICNF, I. P., de modo a assegurar o princípio geral enunciado no n.º 4 do artigo 4.º do presente Regulamento.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O relatório de atividades e contas é elaborado pelo ICNF, I. P., e remetido para aprovação pelo membro do Governo responsável pela área das florestas após parecer da COAP, até ao final do primeiro trimestre do ano civil seguinte.
 
 2 - Após a sua aprovação, o relatório de atividades e contas é divulgado no sítio na Internet do ICNF, I. P.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As candidaturas a apoios financeiros a conceder pelo Fundo são analisadas e decididas de acordo com o enquadramento definido no plano anual de atividades.
 
@@ -307,7 +357,9 @@ O plano anual de atividades é o instrumento de planeamento de afetação dos re
 
 7 - A atribuição de apoios financeiros prevista no número anterior não pode exceder 5 % do orçamento aprovado para o exercício respetivo e fica sujeita às mesmas regras previstas para os demais apoios a conceder pelo Fundo, designadamente a celebração de contrato escrito com a entidade beneficiária.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os apoios são concedidos pelo período de um ano, podendo a sua duração elevar-se excecionalmente até três anos para os eixos de intervenção e tipologia de ações identificados no plano anual de atividades.
 
@@ -317,13 +369,17 @@ O plano anual de atividades é o instrumento de planeamento de afetação dos re
 
 4 - O pedido de prorrogação, devidamente fundamentado, é entregue no ICNF, I. P., e segue o procedimento estabelecido para a aprovação das candidaturas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Podem ser beneficiários de apoios a conceder pelo Fundo quaisquer pessoas singulares ou coletivas, de direito privado ou público, incluindo o ICNF, I. P., bem como os baldios em situação de administração direta pelos compartes.
 
 2 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 [...]:
 
@@ -345,7 +401,9 @@ h) Comunicar ao ICNF, I. P., qualquer alteração ou ocorrência que ponha em ca
 
 i) (Anterior alínea h).
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os pedidos de apoio a conceder pelo Fundo são apresentados através de candidatura formalizada junto do ICNF, I. P., em formulário de modelo próprio a aprovar por este Instituto.
 
@@ -353,13 +411,17 @@ i) (Anterior alínea h).
 
 3 - Os períodos a que se refere o número anterior podem ser alterados por despacho do membro do Governo responsável pela área das florestas.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Compete ao ICNF, I. P., rececionar e proceder à análise técnica das candidaturas, bem como submetê-las à COAP para decisão.
 
 2 - As candidaturas apresentadas pelo ICNF, I. P., são analisadas e aprovadas pela COAP.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A atribuição do apoio é formalizada em contrato escrito, a celebrar entre o ICNF, I. P., e o beneficiário, cujo modelo é aprovado por aquele Instituto, sem prejuízo do disposto no número seguinte.
 
@@ -369,7 +431,9 @@ i) (Anterior alínea h).
 
 4 - O contrato tem anexado, como parte integrante, o plano de execução material e financeira, cujo modelo é aprovado pelo ICNF, I. P.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]:
 
@@ -391,7 +455,9 @@ i) No regime de isenção, por aplicação do disposto no artigo 9.º do Código
 
 ii) Nos regimes mistos, de afetação real, desde que a atividade em causa constitua parte isenta da atividade do beneficiário, ou em pro rata na percentagem do IVA que não for dedutível.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O pedido de pagamento, acompanhado dos comprovativos das despesas efetivamente realizadas e pagas, bem como do respetivo recapitulativo, é entregue pelo beneficiário ao ICNF, I. P., que procede ao controlo previsto no artigo 24.º do presente Regulamento, à validação e ao pagamento.
 
@@ -407,7 +473,9 @@ ii) Nos regimes mistos, de afetação real, desde que a atividade em causa const
 
 7 - Os modelos de formulário do pedido de pagamento, do documento recapitulativo das despesas e respetiva quitação constam das normas técnicas a elaborar pelo ICNF, I. P.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -423,7 +491,9 @@ ii) Nos regimes mistos, de afetação real, desde que a atividade em causa const
 
 7 - Excecionalmente, em casos justificados e sob proposta fundamentada do ICNF, I. P., o membro do Governo responsável pela área das florestas pode autorizar a concessão de novos adiantamentos de montante proporcional à parte validada do adiantamento precedente, contando que este se encontre justificado na percentagem referida no número anterior.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Compete ao ICNF, I. P., a realização de ações de controlo destinadas a assegurar o cumprimento integral do estabelecido nos contratos, nomeadamente que as despesas declaradas pelos beneficiários dos apoios foram efetuadas.
 
@@ -433,13 +503,17 @@ ii) Nos regimes mistos, de afetação real, desde que a atividade em causa const
 
 4 - A segunda fase de controlo consiste na verificação física da execução das candidaturas e da realização da respetiva despesa.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Em todas as ações financiadas pelo Fundo, os beneficiários devem utilizar o logótipo do Ministério da Agricultura e do Mar, bem como a menção «Financiado pelo Fundo Florestal Permanente», em condições que permitam uma identificação visual inequívoca.
 
 2 - Os apoios financeiros concedidos pelo Fundo e os respetivos beneficiários são divulgados no sítio na Internet do ICNF, I. P.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -499,7 +573,9 @@ iii) A investigação e experimentação no âmbito da sanidade florestal;
 
 f) No eixo intervenção «promoção do investimento, da gestão e do ordenamento florestais», o apoio do reforço da contrapartida nacional disponível para o financiamento de projetos florestais com fundos comunitários.
 
-###### Artigo 20.º-A — Transmissão dos apoios
+Artigo 20.º-A
+
+Transmissão dos apoios
 
 1 - Os apoios contratualizados podem ser transmitidos a pedido do beneficiário inicial, salvo se este for o ICNF, I. P., mediante consentimento expresso deste e parecer prévio favorável da COAP, contando que o cessionário preencha os mesmos requisitos e assuma todas as obrigações do cedente, incluindo as referentes à execução material e financeira decorrida até à data da cessão.
 

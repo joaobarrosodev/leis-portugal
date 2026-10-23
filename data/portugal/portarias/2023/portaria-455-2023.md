@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25000/0034000341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-2023-835864048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e60cfefc10995f36449c7df13699bd441467e86c401750e7421fcf0cc058d49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89cf13fa5fee7659b557aea347d49e9fd9b108fc9c5d8ef69131cb3b44c18ab5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Regulamentação de Atos Legislativos
+- Aviação Civil
 - Eurocontrol
 - Juros
-- Aviação Civil
+- Regulamentação de Atos Legislativos
 - Segurança Aérea
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1223-b/2000/12/29/p/dre
@@ -113,16 +113,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/1997/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/1997/01/25/p/dre
+- type: cites
+  target: pt:dre:106555635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114426008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128770403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154483168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205314086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230093600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73000159:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:23Z'
   warnings: []
   errors: []
 ---
@@ -157,4 +289,6 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2024.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco, em 18 de dezembro de 2023.**
+O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco, em 18 de dezembro de 2023.
+
+117177755

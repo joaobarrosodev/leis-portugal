@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/73/2014/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-2014-571927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14fe6640499ab272a2c5ea88fdd46e08122b40686b6f3848329706cb168f484a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc462cd6a681fea293d2c072787fc95d0f49bc97ab978505a44535fa561fd0ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Simbolo de Identificação
-- Regulamento
 - Autoridade Nacional de Protecção Civil
 - Fardamento
+- Regulamento
+- Simbolo de Identificação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2013/05/31/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/622/2005/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/622/2005/08/01/p/dre
+- type: cites
+  target: pt:dre:240257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513609:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:52Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +131,7 @@ Manda o Governo, pelo Ministro da Administração Interna, nos termos dos artigo
 
 A presente portaria entra em vigor 30 dias após a publicação.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 10 de março de 2014.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 10 de março de 2014.
 
 ## ANEXO — REGULAMENTO DE UNIFORMES DA ESTRUTURA OPERACIONAL DA AUTORIDADE NACIONAL DE PROTEÇÃO CIVIL (RUEOANPC)
 
@@ -679,7 +687,7 @@ QUADRO N.º 1
 
 Uniforme C 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Observações:
 
@@ -697,7 +705,7 @@ QUADRO N.º 2
 
 Uniforme C 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Observações:
 
@@ -713,187 +721,187 @@ QUADRO N.º 3
 
 Uniforme C 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 ## ANEXO II — Figuras dos artigos de uniforme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 1 - Boina (artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 2 - Dólman do uniforme C 1 (artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 3 - Calça do uniforme C 1 (artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 4 - Camisa manga comprida do uniforme C 1 (artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 5 - Cinto de couro preto (artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 6 - Luvas pretas de calfe (artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 7 - Sapatos de Polimento Preto m/M (artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 8 - Peúgas Pretas (artigo 15.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 9 - Sapatos de Polimento Preto m/F (artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 10 - Gravata Preta (artigo 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 11 - Camisola interior do uniforme C 1 (artigo 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 12 - Camisa de manga comprida uniforme C 3 (artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 13 - Calça do uniforme C 3 (artigo 20.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 14 - Cinturão do uniforme C 3 (artigo 21.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 15 - Camisola interior do uniforme C 3 (artigo 22.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 16 - Botas (artigo 23.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 17 - Blusão de Cabedal (artigo 24.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 18 - Camisola azul de lã (artigo 25.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 19 - Camisa branca de colarinho e meia manga (artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 20 - Camisa branca de colarinho aberto e meia manga (artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 21 - Blusão do uniforme C 3 (artigo 28.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 22 - Polar Blusão do uniforme C 3 (artigo 29.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 23 - Colete refletor do blusão do uniforme C 3 (artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 24 - Polo de manga comprida do uniforme C 3 (artigo 3l.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 25 - Polo de manga curta do uniforme C 3 (artigo 32.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 26 - Casaco impermeável (artigo 33.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 27 - Colete de identificação (artigo 34.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 28 - Corta-vento (artigo 35.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 29 - Fita de identificação individual do uniforme C 1 e C 2 (artigo 36.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 30 - Fita de identificação individual do uniforme C 3 (artigo 37.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 31 - Prendedor de Gravata (artigo 38.º)
 
 ## ANEXO III — Figuras dos Distintivos (artigo 41.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 32 - Distintivo de cargo Comandante Operacional Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 33 - Distintivo de cargo 2.º Comandante Operacional Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 34 - Distintivo de Adjunto de Operações Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 35 - Distintivo de Comandante Operacional de Agrupamento Distrital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 36 - Distintivo de Comandante Operacional Distrital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 37 - Distintivo de 2.º Comandante Operacional Distrital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 38 - Distintivo de Oficial de Serviço ao CNOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 39 - Distintivo de Chefe de Célula do CNOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Fig. 40 - Adjunto de Chefe de Célula do CNOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Distintivos de Identificação da ANPC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Distintivo de Identificação do Sistema de Proteção Civil
 
 Fig. 41 - Distintivos Institucionais (artigo 42.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 BANDEIRA NACIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05500/0208902101.pdf)
 
 Distintivo PORTUGAL
 

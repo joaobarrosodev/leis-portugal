@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/852/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/852-2009-494003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe6df0bc9be946f7ca9ff2d791a4528125fa180e7812790e63535c6ede689dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dec1132b40827c53f497888e2550c8d2197bb777b0ae99f600d1413f9b2f49a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
-- Preço
-- Cuidados Médicos
-- Regulamento
 - Cirurgia
+- Cuidados Médicos
+- Preço
+- Regulamento
 - Setor Privado
 - Setor Público
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 relationships:
 - type: amended_by
   target: pt:dre:174853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482156:por
+  label: "Determinada, a partir de 04.01.2010, a cessação dos efeitos da aplicação do nº 15 do art. 7º do Regulamento das\
+    \ Tabelas de Preços a praticar para a produção adicional realizada no âmbito do Sistema Integrado de Gestão de Inscritos\
+    \ para Cirurgia (SIGIC), aprovado neste diploma, pela PORT.1454/2009.29.12.2009.MS, DR.IS [250] de 29.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1454-2009-482156
+  date: '2009-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -88,16 +95,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/426/2005/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/426/2005/04/15/p/dre
+- type: cites
+  target: pt:dre:547043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:491401:por
+  label: "Rectificado o n.º 2 do artigo 5.º, a alínea a) do n.º 8 e o n.º 14 do artigo 7.º do anexo I ao presente diploma,\
+    \ pela DECL-RECT.72/2009.06.10.2009.PCM, DR.IS [193] de 06.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/72-2009-491401
+  date: '2009-10-06'
+- type: repealed_by
+  target: pt:dre:174853:por
+  label: "Revogada, com produção de efeitos a 09.09.2012, pela PORT.271/2012.04.09.2012.MS, DR.IS [171] de 04.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2012-174853
+  date: '2012-09-04'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:41Z'
   warnings: []
   errors: []
 ---
@@ -320,8 +346,8 @@ n) Electrocardiograma.
 
 ## ANEXO II — Tabela de preços a praticar para a produção adicional realizada no âmbito do SIGIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf)
 
 ## ANEXO III — Procedimentos que permitem o acréscimo relativamente aos preços previstos no anexo ii
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0514905167.pdf)

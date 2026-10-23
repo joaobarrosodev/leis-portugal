@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/176/2012/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-2012-177795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad8d4a04b131cf4903ab23be3f122f21395f1d0a88084171357cdf5e0aa454f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d38a6109e1bfb3c0f537da0aabf8eb7b8e367d58daaef14e1e78d2dd666dfe6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,16 +111,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/418/1998/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/418/1998/07/21/p/dre
+- type: cites
+  target: pt:dre:220563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122852138:por
+  label: Revogada, a partir de 01.07.2019, a Port 1098/2008 de 30-set, alterada pelo presente diploma, pelo(a) Portaria n.º
+    201-A/2019 - Diário da República n.º 123/2019, 1º Suplemento, Série I de 2019-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-a-2019-122852138
+  date: '2019-07-01'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:39Z'
   warnings: []
   errors: []
 ---
@@ -177,22 +215,22 @@ TABELA I
 
 Marcas, logótipos, recompensas, denominações de origem e indicações geográficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
 
 TABELA II
 
 Patentes de invenção, certificados complementares de protecção, modelos de utilidade e topografias dos produtos semicondutores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
 
 TABELA III
 
 Desenhos ou modelos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
 
 TABELA IV
 
 Taxas comuns
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10600/0285602858.pdf)

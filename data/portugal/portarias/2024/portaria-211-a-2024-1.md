@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/211-a/2024/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-a-2024-888110986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3527d9d2f5ba23bc3aafc12ab66f363113635911f523aa3755d81f303f5c0f9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2026bf9c2531797a35b70cab2d90fb10099f25c9c71411c549966f8e98dc05f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
-- Regulamentação de Atos Legislativos
-- Recrutamento de Pessoal
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/27/2006/02/10/p/dre
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/57-a/2024/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/57-a/2024/09/13/p/dre
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887747449:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:27Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +138,13 @@ Todas as vagas referidas no artigo anterior consideram-se extintas quando vagare
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 17 de setembro de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 16 de setembro de 2024.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 17 de setembro de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 16 de setembro de 2024.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 Vagas de quadro de zona pedagógica
 
-| QZP/ GR | 100 | 110 | 120 | 200 | 210 | 220 | 230 | 240 | 250 | 260 | 290 | 300 | 310 | 320 | 330 | 340 | 350 | 360 | 400 | 410 | 420 | 430 | 500 | 510 | 520 | 530 | 540 | 550 | 560 | 600 | 610 | 620 | 910 | 920 | 930 | Total |
+| QZP/<br>GR | 100 | 110 | 120 | 200 | 210 | 220 | 230 | 240 | 250 | 260 | 290 | 300 | 310 | 320 | 330 | 340 | 350 | 360 | 400 | 410 | 420 | 430 | 500 | 510 | 520 | 530 | 540 | 550 | 560 | 600 | 610 | 620 | 910 | 920 | 930 | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 40 | 2 | 0 | 0 | 1 | 1 | 5 | 0 | 2 | 0 | 0 | 3 | 2 | 0 | 2 | 2 | 0 | 4 | 0 | 4 | 0 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 11 | 0 | 3 | 0 | 0 | 2 | 0 | 0 | 51 |
 | 41 | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 0 | 1 | 5 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 3 | 0 | 0 | 1 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 31 |
@@ -158,3 +170,5 @@ Vagas de quadro de zona pedagógica
 | 62 | 1 | 0 | 0 | 1 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 2 | 0 | 1 | 1 | 0 | 3 | 2 | 1 | 4 | 3 | 0 | 1 | 0 | 0 | 1 | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 31 |
 | 63 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 2 | 0 | 3 | 1 | 0 | 2 | 0 | 1 | 0 | 6 | 0 | 2 | 0 | 0 | 1 | 1 | 3 | 0 | 5 | 1 | 0 | 2 | 0 | 0 | 35 |
 | Total | 12 | 101 | 151 | 78 | 25 | 81 | 24 | 47 | 14 | 2 | 42 | 166 | 2 | 52 | 146 | 1 | 57 | 4 | 102 | 34 | 133 | 83 | 186 | 113 | 103 | 17 | 20 | 193 | 0 | 74 | 2 | 9 | 222 | 4 | 9 | 2 309 |
+
+118126645

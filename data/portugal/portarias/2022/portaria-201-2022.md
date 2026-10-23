@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/14900/0000200019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/201/2022/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/201-2022-186995873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdf3123a50a3e87a664ac97b01cd1188da2556bbde67f2430e7bc1ae37f16d29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fdc532c72bbfb0ae0010f28e3f696ed9a7a1598f996fb01bc3c07000c05df47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
+- Contratação Pública
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
 - Direcção Regional do Planeamento e Fundos Estruturais
-- Património Arqueológico
-- Património Cultural
+- Economia Digital
+- Estrutura de Missão Recuperar Portugal
 - Fundo Europeu de Investimento
+- Fundo Europeu de Regresso
 - Lisboa e Vale do Tejo
 - Orgânica
-- Plano Regional
+- Património Arqueológico
 - Património Arquitectónico
-- Fundo Europeu de Regresso
-- Unidade Territorial
+- Património Cultural
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Contratação Pública
+- Plano Regional
+- Unidade Territorial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2012/05/25/p/dre
@@ -123,16 +123,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
+- type: cites
+  target: pt:dre:122498959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163092607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164712109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:32Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +283,9 @@ v) [...]
 
 3 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +351,9 @@ f) Manter atualizada a pesquisa das técnicas construtivas, de experimentação 
 
 g) Promover a realização de estudos propondo metodologias de intervenção, orientações e medidas preventivas visando a conservação do património cultural arquitetónico e arqueológico.
 
-###### Artigo 3.º — Departamento de Museus, Monumentos e Palácios
+Artigo 3.º
+
+Departamento de Museus, Monumentos e Palácios
 
 1 - Ao Departamento de Museus, Monumentos e Palácios, abreviadamente designado por DMMP, compete:
 
@@ -401,7 +465,9 @@ a) Apoiar o desenvolvimento de projetos que contribuam para combater qualquer ti
 
 b) Promover a acessibilidade e a inclusão nos museus, monumentos e palácios.
 
-###### Artigo 4.º — Departamento de Estudos, Projetos e Obras
+Artigo 4.º
+
+Departamento de Estudos, Projetos e Obras
 
 Ao Departamento de Estudos, Projetos e Obras, abreviadamente designado por DEPO, compete:
 
@@ -435,7 +501,9 @@ n) [...]
 
 o) Acompanhar, monitorizar e fiscalizar a execução das intervenções realizadas na recuperação, conservação, salvaguarda e requalificação no património imóvel classificado propriedade do Estado, financiadas ao abrigo do Plano de Recuperação e Resiliência (PRR) aprovado pela Comissão Europeia e com contratualização entre a Estrutura de Missão «Recuperar Portugal» propondo recomendações e medidas de proteção que considerem adequadas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -453,7 +521,9 @@ f) Na área da gestão administrativa, assegurar o desenvolvimento de todos os p
 
 g) Na área da assessoria jurídica, preparar, desenvolver e acompanhar, em articulação e apoio aos restantes departamentos, as matérias de índole jurídica, incluindo procedimentos de aquisição de bens e serviços e de empreitadas decorrentes do cumprimento da missão da DGPC.
 
-###### Artigo 5.º-A — Departamento do Fundo de Salvaguarda do Património Cultural
+Artigo 5.º-A
+
+Departamento do Fundo de Salvaguarda do Património Cultural
 
 Ao Departamento do Fundo de Salvaguarda do Património Cultural, abreviadamente designado por DFSPC, compete:
 
@@ -485,7 +555,9 @@ m) Gerir os projetos da DGPC que concorram ou beneficiem de cofinanciamento no q
 
 n) Na área da assessoria jurídica, preparar, desenvolver e acompanhar, em articulação e apoio aos restantes departamentos, as matérias de índole jurídica, incluindo procedimentos de aquisição de bens e serviços e de empreitadas decorrentes do cumprimento da missão da DGPC e da execução do Plano de Recuperação e Resiliência (PRR).
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O número máximo de unidades orgânicas flexíveis da DGPC é fixado em 14.»
 
@@ -521,7 +593,7 @@ g) Na área do apoio informático, desenvolver os procedimentos necessários à 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 21 de julho de 2022. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 22 de julho de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 29 de julho de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 21 de julho de 2022. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 22 de julho de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 29 de julho de 2022.
 
 ## ANEXO — Republicação da [Portaria n.º 223/2012](https://diariodarepublica.pt/dr/detalhe/portaria/223-2012-179365), de 24 de julho
 
@@ -890,3 +962,5 @@ O número máximo de unidades orgânicas flexíveis da DGPC é fixado em 14.
 ###### Artigo 8.º — Norma revogatória
 
 São revogadas as Portaria n.os [373/2007](https://diariodarepublica.pt/dr/detalhe/portaria/373-2007-520399) e [395/2007](https://diariodarepublica.pt/dr/detalhe/portaria/395-2007-520418), ambas no que se refere à Direção Regional de Cultura de Lisboa e Vale do Tejo, [376/2007](https://diariodarepublica.pt/dr/detalhe/portaria/376-2007-520377) e [377/2007](https://diariodarepublica.pt/dr/detalhe/portaria/377-2007-520423), todas de 30 de março.
+
+115571662

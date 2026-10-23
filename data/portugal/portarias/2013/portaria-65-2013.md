@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65/2013/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2013-258702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bcbe62d0e0c654c77a1a49dfb02ea703092c943722dabfde2060d30a3f0166c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d64acf5d37cf75b82bc43ee23766e2a7a55ff049a9eada3ab02b0be60214a340
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Associação
+- Comércio
 - Direcção Regional de Agricultura e Pescas
+- Financiamento
 - Fiscalização
 - Organização de Produtores
 - Programa Operacional
 - Regulamento CE
-- Associação
-- Comércio
 relationships:
 - type: cites
   target: celex:32007R1234
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:18Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +126,4 @@ A título excecional, as organizações e associações de organizações de pro
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se aos programas operacionais executados em 2012.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 11 de fevereiro de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 11 de fevereiro de 2013.

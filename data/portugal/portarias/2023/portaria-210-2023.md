@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13700/0000500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/2023/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf18c8ea58afb8bef21b96e9da367881ccd51e7ed82f02d577d9b62dbbe7e68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45f909b796c2229b9eb06ae28e2e5a0bda016c53aa40426649a0fb39bab3dfca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Humanitária dos Bombeiros Voluntários
-- Proteção Civil
-- Regulamentação de Atos Legislativos
-- Escola Nacional de Bombeiros
-- Bombeiro
-- Prazo
-- Câmara Municipal
-- Contrato de Trabalho
 - Autarquia Local
 - Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
+- Câmara Municipal
+- Contrato de Trabalho
 - Equipa de Intervenção Permanente
+- Escola Nacional de Bombeiros
+- Prazo
+- Proteção Civil
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2018/11/29/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/75/2011/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/2011/02/15/p/dre
+- type: cites
+  target: pt:dre:115375942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:54Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +190,9 @@ Os artigos 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 14.º, 15.º e 17.º da [Po
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -176,7 +210,9 @@ f) Limpeza e manutenção de equipamento, veículos e instalações;
 
 g) Participação em ações de formação e sensibilização.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +222,9 @@ g) Participação em ações de formação e sensibilização.
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -198,7 +236,9 @@ g) Participação em ações de formação e sensibilização.
 
 5 - As EIP especializadas são constituídas por protocolo a celebrar entre a ANEPC, as AHB detentoras dos corpos de bombeiros e as demais entidades, públicas ou privadas, cujo envolvimento se mostre relevante para a prossecução das missões especializadas que lhes sejam atribuídas, homologado pelo membro do Governo responsável pela área da proteção civil.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O membro do Governo responsável pela área da proteção civil determina, por despacho a emitir até 10 de maio, o número de EIP a constituir no ano civil seguinte.
 
@@ -222,13 +262,17 @@ b) Sem observância dos prazos previstos nos números anteriores.
 
 9 - A ANEPC é responsável pela preparação dos protocolos de constituição das EIP, a celebrar nos termos dos n.os 1 e 5 do artigo anterior.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
 2 - As EIP especializadas são constituídas por um número de bombeiros a determinar no protocolo de constituição, num mínimo de três e num máximo de seis.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -252,7 +296,9 @@ d) [...]
 
 7 - Nas EIP especializadas, o protocolo de constituição estabelece a categoria ou especialidade do chefe de equipa, podendo ainda prever requisitos pessoais distintos ou adicionais aos previstos no n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os bombeiros que integram as EIP prestam trabalho:
 
@@ -274,11 +320,15 @@ b) Nos demais casos, ao abrigo de um contrato de trabalho celebrado com a AHB, p
 
 8 - O disposto no presente artigo aplica-se às EIP especializadas, salvo disposição em contrário no respetivo protocolo de constituição.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os bombeiros que integram as EIP têm direito ao uso de distintivo próprio, exceto aquando do uso de equipamento de proteção individual.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +358,7 @@ Os bombeiros que integram as EIP têm direito ao uso de distintivo próprio, exc
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Proteção Civil, Patrícia Alexandra Costa Gaspar, em 11 de julho de 2023.**
+A Secretária de Estado da Proteção Civil, Patrícia Alexandra Costa Gaspar, em 11 de julho de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -607,3 +657,5 @@ c) Os planos e relatórios de atividades anuais.
 ###### Artigo 21.º — Norma revogatória
 
 São revogadas a [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de outubro, a [Portaria n.º 75/2011](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), de 15 de fevereiro, e a [Portaria n.º 148-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), de 22 de maio.
+
+116667399

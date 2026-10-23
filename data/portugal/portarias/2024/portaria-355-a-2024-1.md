@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:901468201:por
 title: Portaria n.º 355-A/2024/1
 short_title: null
-summary: Procede à fixação da taxa do adicionamento sobre as emissões de CO<sub>2</sub> previsto no artigo 92.º-A do Código
-  dos Impostos Especiais de Consumo.
+summary: Procede à fixação da taxa do adicionamento sobre as emissões de CO2 previsto no artigo 92.º-A do Código dos Impostos
+  Especiais de Consumo.
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/355-a/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-a-2024-901468201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0e65867f1a291944d1caa887641f1a7a83383e0d9a8781e76ed12d0eca3623b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 842b6af1621a79b6057089f8c96549a5f452c7af73e6829269f12515c9f4b704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
 - Carvão
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
-- Petróleo
 - Combustível
+- Efeito de Estufa
 - Fuelóleo
 - Gás
 - Gasóleo
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Petróleo
 - Proteção do Ambiente
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships: []
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:18Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ validation:
 
 de 27 de dezembro
 
-O adicionamento sobre as emissões de CO<sub>2</sub> previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, acresce às taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, sendo a respetiva taxa fixada anualmente, em conformidade com o disposto no n.º 2 do mesmo artigo, com base nos preços dos leilões de licenças de emissão de gases de efeito de estufa, realizados no âmbito do Comércio Europeu de Licenças de Emissão (CELE).
+O adicionamento sobre as emissões de CO2 previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, acresce às taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, sendo a respetiva taxa fixada anualmente, em conformidade com o disposto no n.º 2 do mesmo artigo, com base nos preços dos leilões de licenças de emissão de gases de efeito de estufa, realizados no âmbito do Comércio Europeu de Licenças de Emissão (CELE).
 
 Assim, importa atender à evolução do preço resultante dos leilões de licenças de emissão de gases de efeitos de estufa, tendo igualmente em consideração a necessidade de, em consonância com as recomendações da Comissão Europeia, dar continuidade à reversão gradual das medidas, de caráter excecional e temporário, adotadas para mitigar os efeitos do aumento extraordinário dos preços dos combustíveis.
 
@@ -106,18 +106,20 @@ Nestes termos, manda o Governo, pela Secretária de Estado dos Assuntos Fiscais,
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à fixação da taxa do adicionamento sobre as emissões de CO<sub>2</sub> previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo.
+A presente portaria procede à fixação da taxa do adicionamento sobre as emissões de CO2 previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo.
 
-###### Artigo 2.º — Taxa do adicionamento sobre as emissões de CO<sub>2</sub>
+###### Artigo 2.º — Taxa do adicionamento sobre as emissões de CO2
 
-A taxa do adicionamento sobre as emissões de CO<sub>2</sub> é de 67,395 euros/tonelada de CO<sub>2</sub>.
+A taxa do adicionamento sobre as emissões de CO2 é de 67,395 euros/tonelada de CO2.
 
-###### Artigo 3.º — Valor do adicionamento sobre as emissões de CO<sub>2</sub>
+###### Artigo 3.º — Valor do adicionamento sobre as emissões de CO2
 
-Os valores do adicionamento sobre as emissões de CO<sub>2</sub> a aplicar aos produtos abrangidos são os resultantes do produto desta taxa e dos fatores previstos no n.º 1 do artigo 92.º-A do Código dos Impostos Especiais de Consumo.
+Os valores do adicionamento sobre as emissões de CO2 a aplicar aos produtos abrangidos são os resultantes do produto desta taxa e dos fatores previstos no n.º 1 do artigo 92.º-A do Código dos Impostos Especiais de Consumo.
 
 ###### Artigo 4.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2025.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 26 de dezembro de 2024.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 26 de dezembro de 2024.
+
+118511979

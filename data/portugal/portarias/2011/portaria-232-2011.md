@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/232/2011/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/232-2011-670052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986beca70fac63946b164b35049eaf552aab3e8d4c0c7d50bd1902a254375bd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250b27e7669d3b3553b26772c5e238edc890b0734d5f04edd27c18f5791b7095
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Berlengas
-- Pesca
 - Gestão dos Recursos
-- Licenciamento
 - Licença de Pesca
+- Licenciamento
 - Marisco
+- Pesca
 - Regulamento
 - Reserva Natural
 - Reserva Natural da Berlenga
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/2000/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/2000/06/27/p/dre
+- type: cites
+  target: pt:dre:186280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654500:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:21Z'
   warnings: []
   errors: []
 ---
@@ -175,13 +199,17 @@ O modelo do manifesto de captura previsto no n.º 4 constante do anexo v passa a
 
 Manifesto da apanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
 
-###### Artigo 3.º — Republicação
+Artigo 3.º
+
+Republicação
 
 É republicado em anexo o Regulamento da Apanha do Percebe Pollicipes Pollicipes na Reserva Natural das Berlengas, aprovado pela [Portaria n.º 378/2000](https://diariodarepublica.pt/dr/detalhe/portaria/378-2000-303226), de 27 de Junho, com as alterações dadas pelo presente diploma.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
@@ -189,7 +217,9 @@ Em 6 de Junho de 2011.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura. - Pela Ministra do Ambiente e do Ordenamento do Território, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente.
 
-## ANEXO I — REGULAMENTO DA APANHA DO PERCEBE POLLICIPES POLLICIPES NA RESERVA NATURAL DAS BERLENGAS
+ANEXO I
+
+REGULAMENTO DA APANHA DO PERCEBE POLLICIPES POLLICIPES NA RESERVA NATURAL DAS BERLENGAS
 
 1 - A apanha do percebe Pollicipes pollicipes na Reserva Natural das Berlengas é permitida nos sectores A e B e interdita no sector C, nos termos previstos no presente Regulamento e no anexo II.
 
@@ -229,7 +259,9 @@ b) Descendentes de apanhadores que já tenham sido licenciados para a apanha de 
 
 10 - Tendo em vista assegurar a sustentabilidade da exploração do percebe, com base na informação disponível sobre o estado do recurso, podem ser revistas as medidas previstas no presente diploma, através de despacho dos membros do Governo responsáveis pelas áreas das pescas e do ambiente, nomeadamente no que se refere à alteração do número máximo de licenças e critérios para licenciamento, ao estabelecimento de locais de defeso ou à sua alteração e outras medidas de interdição da apanha de percebe total ou parcial nos sectores A ou B.
 
-## ANEXO II — Limites do zonamento da apanha do percebe Pollicipes pollicipes
+ANEXO II
+
+Limites do zonamento da apanha do percebe Pollicipes pollicipes
 
 1 - Limites dos sectores A e B onde é permitida a apanha do percebe na faixa entre marés da Reserva Natural das Berlengas:
 
@@ -277,20 +309,26 @@ Nos Farilhões:
 
 Costa sul do Farilhão Grande entre o Farilhão de Nordeste (exclusive) e os Ferreiros de Sotavento (inclusive), incluindo o Farilhão da Cova, o Rabo d'Asno, o Filho do Ferreiro e o Farilhão dos Olhos.
 
-## ANEXO III — Carta de zonamento da apanha do percebe Pollicipes pollicipes
+ANEXO III
+
+Carta de zonamento da apanha do percebe Pollicipes pollicipes
 
 Berlenga e Estelas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
 
 Farilhões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
 
-## ANEXO IV — Limite do comprimento de «unha» do percebe Pollicipes pollicipes susceptível de captura
+ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
+Limite do comprimento de «unha» do percebe Pollicipes pollicipes susceptível de captura
 
-## ANEXO V — Manifesto da apanha
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)
+ANEXO V
+
+Manifesto da apanha
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11300/0310503109.pdf)

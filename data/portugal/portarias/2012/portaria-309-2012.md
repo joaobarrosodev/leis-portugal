@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19500/0560705608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/309/2012/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-2012-175792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ac65dd77d50f9e09867e46be7f707bd6541268633cb8a45525bbdd41dd49aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af5c3bd6e046f4a7490faca385bf42569b5c571c59d8dcf0f950e0d61b271a2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
-- Jovem
-- Programa Inov-social
 - Criação de Emprego
-- Programa
-- Qualificação Profissional
 - Emprego
 - Estágio de Formação
-- Projecto PIN
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Política de Emprego
+- Programa
+- Programa Inov-social
+- Projecto PIN
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:546031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260091:por
+  label: "Alterados os arts. 5º, 11º e 15º-A da Port. 92/2011, de 28-fev, na redação do presente diploma, pela PORT.120/2013.26.03.2013.MEE,\
+    \ DR.IS [60] de 26.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-2013-260091
+  date: '2013-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1
   label: null
@@ -124,16 +130,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/2011/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92/2011/02/28/p/dre
+- type: cites
+  target: pt:dre:453539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546031:por
+  label: "Revogada, a partir de 19.07.2013, a Port 92/2011 de 28-fev, com a redação constante do presente diploma, pela PORT.204-B/2013.18.06.2013.MEE,\
+    \ DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma, nos termos do disposto no nº 2\
+    \ do seu art. 13º, as remissões legais ou regulamentares efetuadas para este diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-b-2013-546031
+  date: '2013-06-18'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:29Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +221,9 @@ São alterados os artigos 5.º e 11.º da Portaria n.º 92/2011, de 28 de fevere
 
 2 - Sem prejuízo do disposto no número anterior, podem candidatar-se ao presente programa as empresas que iniciaram processo especial de revitalização, previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, e alterado pelos Decretos-Leis n.os [200/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2004-480702), de 18 de agosto, [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de março, [282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385), de 7 de agosto, [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, e [185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), de 12 de agosto, e pela [Lei n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/lei/16-2012-552804), de 20 de abril, devendo entregar ao Instituto do Emprego e Formação Profissional, I. P., cópia certificada da decisão a que se refere a alínea a) do n.º 3 do artigo 17.º-C do CIRE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O estágio tem a duração de nove meses, não prorrogáveis, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 15.º-A.»
 
@@ -206,4 +261,4 @@ f) Classificação mínima de 70 %, de acordo com o modelo de avaliação dos pr
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 28 de setembro de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 28 de setembro de 2012.

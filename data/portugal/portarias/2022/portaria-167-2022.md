@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/167/2022/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c76b07ee7fb05bb07e8be2f29b656f68b21c663043a5c45e4ee6dfed9321568
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53b15aceea69f93bbe15c4d5532ce87e60db866bac0cfcc60588838ead1c68bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,29 +70,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Produção Animal
-- Financiamento
-- Desenvolvimento Rural
-- Recursos Hídricos
+- Agricultura
 - Agricultura Biológica
-- Exploração Pecuária
+- Água
 - Apoio ao Investimento
+- Desenvolvimento Rural
+- Diversidade Biológica
+- Exploração Agrícola
+- Exploração Florestal
+- Exploração Pecuária
+- Financiamento
+- Fruticultura
 - Fundos CE
 - Gestão dos Recursos
+- Medida N.º 7 Agricultura e Recursos Naturais
 - Pagamento
-- Exploração Agrícola
-- Diversidade Biológica
-- Exploração Florestal
+- PDR 2020
 - Produção Agrícola
+- Produção Animal
+- Produto Animal
+- Recursos Hídricos
 - Regime de Apoio
 - Regulamento CE
-- Fruticultura
-- Agricultura
 - Subsídio a Agricultores
-- Produto Animal
-- Medida N.º 7 Agricultura e Recursos Naturais
-- PDR 2020
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -134,16 +134,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/50/2015/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/50/2015/02/25/p/dre
+- type: cites
+  target: pt:dre:105643559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114952497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66591872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67323559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67444556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70748599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73163704:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:20Z'
   warnings: []
   errors: []
 ---
@@ -180,9 +240,11 @@ Mosaico agroflorestal
 
 Área geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf))](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf)
 
-###### Artigo 3.º — Alteração à [Portaria n.º 154-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2015-67323559), de 27 de maio
+Artigo 3.º
+
+Alteração à [Portaria n.º 154-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2015-67323559), de 27 de maio
 
 O artigo 3.º e o anexo ii da [Portaria n.º 154-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2015-67323559), de 27 de maio, na sua redação atual, passam a ter a seguinte redação:
 
@@ -200,14 +262,20 @@ O artigo 3.º e o anexo ii da [Portaria n.º 154-A/2015](https://diariodarepubli
 
 5 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Douro Vinhateiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf))](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/12400/0000900012.pdf)
 
-###### Artigo 4.º — Entrada em vigor e produção de efeitos
+Artigo 4.º
+
+Entrada em vigor e produção de efeitos
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos compromissos de natureza agroambiental em curso.
 
-**O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 23 de junho de 2022.**
+O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 23 de junho de 2022.
+
+115449433

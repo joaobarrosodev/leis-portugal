@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0022900285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2024/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4690893841144b1d49d88a2cd22dba404968a64f048721f8d81d1f57018e0b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aeb0067e1a7475c0a784d75fbbeb2cdf452f4d9a40a9c52595e7399cc58dace
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Comissão Paritária
 - Administração Pública
-- SIADAP
-- Avaliação das Instituições
-- Conselho Coordenador
-- Madeira.região Autónoma
-- Avaliação do Pessoal
-- Funcionário Público
 - Administração Regional
+- Avaliação das Instituições
+- Avaliação do Pessoal
+- Comissão Paritária
+- Conselho Coordenador
+- Funcionário Público
+- Madeira.região Autónoma
+- Pessoal Dirigente
+- SIADAP
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:27/2009/M
+  label: Altera, a partir de 1 de janeiro de 2025, nos termos dos artigos 4.º, 6.º e n.º 2 do artigo 8.º do presente diploma,
+    os artigos 2.º, 3.º, 8.º, 12.º, 17.º, 22.º, 25.º, 26.º, 29.º, 30.º, 33.º, 34.º, 35.º, 36.º, 38.º, 39.º, 40.º, 43.º, 44.º,
+    45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 53.º, 54.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 71.º e 78.º, adita os
+    artigos 17.º-A, 23.º-A, 25.º-A, 39.º-A, 39.º-B, 42.º-A, 42.º-B, 47.º-A e 61.º-A, e revoga o n.º 3 do artigo 3.º, a alínea
+    b) do n.º 2 do artigo 14.º, os artigos 15.º, 27.º, 28.º, o artigo 33.º-A, o n.º 10 do artigo 36.º, o n.º 4 do artigo 39.º,
+    o artigo 41.º, os n.ºs 3 e 4 do artigo 49.º, o n.º 2 do artigo 51.º, a alínea d) do n.º 1 do artigo 56.º, a alínea e)
+    do artigo 57.º, a alínea d) do n.º 1 do artigo 58.º, os n.ºs 5, 6 e 7 do artigo 61.º, os artigos 62.º, 63.º, 64.º, 65.º,
+    os n.ºs 1, 2, 3, 5 e 6 do artigo 71.º e os artigos 75.º, 75.º-A e 76.º do Decreto Legislativo Regional n.º 27/2009/M,
+    de 21 de agosto, Diário da República n.º 162/2009, Série I, e procede à sua republicação
+  source: null
+  date: '2009-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2024/01/10/p/dre
   label: null
@@ -117,16 +130,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72942084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889128430:por
+  label: null
+  source: null
 article_structure:
-  article_count: 144
+  article_count: 100
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:54Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +206,7 @@ Procede à quarta alteração ao [Decreto Legislativo Regional n.º 27/2009/M](h
 
 A revisão operada pelo [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro, ao sistema integrado de gestão e avaliação do desempenho na Administração Pública, vertido na [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, dita a necessidade de transpor as medidas ínsitas naquele diploma alterador à realidade regional. Contudo, tal não pode determinar uma aplicação imediata das mesmas, sem a necessária reflexão e ponderação das repercussões de tal desiderato na administração pública regional.
 
-Com efeito, se, por um lado, importa atender aos princípios enformadores daquele sistema, plasmados no n.º 6 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, por outro, impõe-se uma análise criteriosa das mudanças operadas a nível nacional, de modo a transpor para o [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2009-488302), de 21 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[12/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), de 21 de dezembro, [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, aquelas que consubstanciem uma melhoria na aplicação do sistema integrado de gestão e avaliação do desempenho da administração regional autónoma da Madeira.
+Com efeito, se, por um lado, importa atender aos princípios enformadores daquele sistema, plasmados no n.º 6 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, por outro, impõe-se uma análise criteriosa das mudanças operadas a nível nacional, de modo a transpor para o [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2009-488302), de 21 de agosto, alterado pelos Decretos Legislativos Regionais n.os[12/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), de 21 de dezembro, [18/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), de 31 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, aquelas que consubstanciem uma melhoria na aplicação do sistema integrado de gestão e avaliação do desempenho da administração regional autónoma da Madeira.
 
 Partindo desta premissa, afigura-se fundamental aproveitar o ensejo para, em alinhamento com a medida adotada pelo legislador nacional no que concerne à alteração ao artigo 156.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, traduzida na redução do número de pontos para alteração de posicionamento remuneratório obrigatório, de 10 para 8, mas inovando-se, ao arredar do diploma regional a obrigatoriedade de proceder à distribuição das novas menções qualitativas e quantitativas, de acordo com percentagens de diferenciação de desempenho.
 
@@ -153,7 +222,7 @@ Foram cumpridos os procedimentos decorrentes da Lei Geral do Trabalho em Funçõ
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 2 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua atual redação, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 2 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua atual redação, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -169,7 +238,7 @@ Os artigos 2.º, 3.º, 8.º, 12.º, 17.º, 22.º, 25.º, 26.º, 29.º, 30.º, 33
 
 1 - [...]
 
-2 - Sem prejuízo do disposto nos n.<sup>os</sup>4 e 5, o disposto no presente diploma não se aplica aos membros dos gabinetes de apoio dos titulares dos órgãos de governo da Região nem às entidades públicas empresariais.
+2 - Sem prejuízo do disposto nos n.os4 e 5, o disposto no presente diploma não se aplica aos membros dos gabinetes de apoio dos titulares dos órgãos de governo da Região nem às entidades públicas empresariais.
 
 3 - O regime previsto no presente diploma aplica-se ao desempenho dos serviços, dos dirigentes e dos trabalhadores da administração regional autónoma com vínculo de emprego público.
 
@@ -177,7 +246,9 @@ Os artigos 2.º, 3.º, 8.º, 12.º, 17.º, 22.º, 25.º, 26.º, 29.º, 30.º, 33
 
 5 - O disposto no número anterior não prejudica a prevalência de sistemas de avaliação específicos, desde que respeitem os princípios, objetivos e critérios de diferenciação de desempenhos estabelecidos no SIADAP-RAM.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Por portaria conjunta dos membros do Governo Regional da tutela e dos responsáveis pelas áreas das finanças e da Administração Pública, ou por instrumento de regulamentação coletiva de trabalho, podem ser realizadas adaptações ao regime previsto no presente diploma em razão das atribuições e organização dos serviços, das suas carreiras ou das necessidades da sua gestão.
 
@@ -195,7 +266,9 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 5 - Considerando a especificidade das funções das carreiras, pode, excecionalmente, a portaria ou o instrumento de regulamentação coletiva de trabalho a que se refere o n.º 1, promover a adaptação do disposto na alínea b) do número anterior, fixando apenas a avaliação do desempenho baseada nas competências demonstradas e a desenvolver.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -203,7 +276,9 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 3 - A duração dos ciclos de avaliação SIADAP-RAM relativa aos diferentes subsistemas é anual, sem prejuízo da apreciação global que, relativamente aos dirigentes abrangidos pelo SIADAP-RAM 2, deva ocorrer no termo das respetivas comissões de serviço.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -211,7 +286,9 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 3 - No caso de serviços com direção, tutela ou superintendência partilhada, o acompanhamento e a coordenação dos processos referidos nos números anteriores ficam a cargo do serviço com atribuições de acompanhamento e coordenação em matéria de avaliação de desempenho integrado no programa orçamental onde se inscreve o orçamento do serviço.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +300,9 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 5 - Nos casos em que a homologação da avaliação final de desempenho do serviço corresponda à prevista na alínea a) do n.º 1, pode o dirigente máximo do serviço requerer o reconhecimento de desempenho excelente, ao respetivo membro do Governo Regional.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -233,7 +312,9 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 4 - Cada departamento governamental procede à divulgação, na sua página eletrónica, dos serviços aos quais foi reconhecido desempenho excelente, nos termos do artigo 17.º-A.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes superiores e intermédios, nos termos do presente diploma, tem periodicidade anual, e respeita ao desempenho do ano civil anterior.
 
@@ -243,11 +324,13 @@ c) Diferenciação de desempenhos, respeitando o número mínimo de menções de
 
 4 - [...]
 
-5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada anualmente nos termos dos n.<sup>os</sup>5 a 7 do artigo 39.º e do artigo 40.º
+5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada anualmente nos termos dos n.os5 a 7 do artigo 39.º e do artigo 40.º
 
 6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita anualmente, nos termos do SIADAP-RAM 3, não sendo aplicável o disposto no n.º 5.
 
-###### Artigo 26.º — Avaliação global
+Artigo 26.º
+
+Avaliação global
 
 1 - A avaliação global do desempenho dos dirigentes superiores para efeitos de renovação da comissão de serviço efetua-se com base nos seguintes parâmetros:
 
@@ -271,7 +354,9 @@ b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - O dirigente máximo do serviço é avaliado pelo respetivo membro do Governo Regional.
 
@@ -279,7 +364,9 @@ b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais
 
 3 - [...]
 
-###### Artigo 30.º — Avaliação e efeitos
+Artigo 30.º
+
+Avaliação e efeitos
 
 1 - A avaliação final do desempenho dos dirigentes superiores corresponde à avaliação final dos serviços, resultante do relatório de atividade anual.
 
@@ -293,7 +380,9 @@ b) Direção superior de 2.º grau, um prémio no valor equivalente ao de um ven
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início de cada ciclo anual de avaliação ou no início do exercício destas funções, contratualizam com o respetivo avaliador os parâmetros de avaliação, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
 
@@ -321,7 +410,9 @@ b) Direção superior de 2.º grau, um prémio no valor equivalente ao de um ven
 
 13 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A avaliação final é expressa nas seguintes menções qualitativas e quantitativas:
 
@@ -343,7 +434,9 @@ d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999.
 
 6 - A atribuição da avaliação do desempenho de muito bom é, por iniciativa do avaliado ou do avaliador, objeto de apreciação pelo conselho coordenador de avaliação para eventual reconhecimento de mérito, significando desempenho excelente.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -353,7 +446,9 @@ d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999.
 
 4 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no presente artigo e no respetivo estatuto, designadamente em matéria de não renovação ou de cessação da respetiva comissão de serviço.
 
@@ -401,13 +496,17 @@ c) Direção intermédia de 3.º grau, um prémio equivalente ao de um venciment
 
 14 - Os prémios de desempenho referidos nos números anteriores, dependem de adequada dotação orçamental dos serviços.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A avaliação do desempenho dos trabalhadores é de caráter anual.
 
 2 - A avaliação respeita ao desempenho do ano civil anterior.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído vínculo de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
 
@@ -423,7 +522,9 @@ c) Direção intermédia de 3.º grau, um prémio equivalente ao de um venciment
 
 7 - Se no caso previsto no n.º 5, o trabalhador com vínculo de emprego público não tiver avaliação que releve nos termos do número anterior ou se pretender a sua alteração, requer avaliação por ponderação curricular, realizada nos termos do artigo 40.º
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A avaliação por ponderação curricular é diferenciada por graus de complexidade funcional e funções desempenhadas e traduz-se na avaliação do currículo do trabalhador com vínculo de emprego público, referente aos últimos três anos, sendo considerados, entre outros, os seguintes elementos:
 
@@ -443,9 +544,11 @@ c) [...]
 
 6 - A avaliação por ponderação curricular é realizada pelo imediato superior hierárquico ou, na sua falta ou impedimento, por avaliador designado pelo dirigente máximo do serviço.
 
-7 - A fim de garantir o cumprimento dos prazos no presente diploma, devem os serviços informar, na primeira quinzena de dezembro do ano que antecede a avaliação, os trabalhadores com vínculo de emprego público abrangidos pelo disposto nos n.<sup>os</sup>5 a 7 do artigo 39.º, que não disponham de avaliação anterior que releve ou pretendam a sua alteração, que devem requerer a avaliação por ponderação curricular, nos termos do presente artigo.
+7 - A fim de garantir o cumprimento dos prazos no presente diploma, devem os serviços informar, na primeira quinzena de dezembro do ano que antecede a avaliação, os trabalhadores com vínculo de emprego público abrangidos pelo disposto nos n.os5 a 7 do artigo 39.º, que não disponham de avaliação anterior que releve ou pretendam a sua alteração, que devem requerer a avaliação por ponderação curricular, nos termos do presente artigo.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -467,7 +570,9 @@ c) Os objetivos de aperfeiçoamento e desenvolvimento do trabalhador podem ser d
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -477,7 +582,9 @@ c) Os objetivos de aperfeiçoamento e desenvolvimento do trabalhador podem ser d
 
 4 - A avaliação dos resultados obtidos em objetivos de responsabilidade partilhada previstos no n.º 4 do artigo anterior é, em regra, idêntica para todos os trabalhadores neles envolvidos, podendo, mediante opção fundamentada do avaliador, ser feita avaliação diferenciada consoante o contributo de cada trabalhador.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O parâmetro relativo a ‘Competências’ assenta em competências previamente escolhidas para cada trabalhador em número não inferior a cinco e não superior a oito.
 
@@ -487,7 +594,9 @@ c) Os objetivos de aperfeiçoamento e desenvolvimento do trabalhador podem ser d
 
 4 - O dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, estabelece duas competências a que se subordina a avaliação dos trabalhadores, definidas por área de atividade e/ou grau de complexidade funcional, elencadas na portaria referida no n.º 6 do artigo 33.º
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A avaliação das competências é aferida em resultado do número dos comportamentos associados que sejam observados, de acordo com a grelha fixada na portaria a que se refere o n.º 6 do artigo 33.º, e é expressa em três níveis:
 
@@ -499,7 +608,9 @@ c) [...]
 
 2 - A classificação final do parâmetro competências resulta da média aritmética simples das pontuações atribuídas nas diferentes competências avaliadas.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -521,7 +632,9 @@ d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999, que enquadra
 
 6 - As pontuações finais dos parâmetros e a avaliação final são expressas até às centésimas e, quando possível, milésimas.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - A atribuição da menção de avaliação do desempenho de muito bom é objeto de apreciação pelo conselho coordenador da avaliação, para efeitos de eventual reconhecimento de mérito, significando desempenho excelente, por iniciativa do avaliado ou do avaliador.
 
@@ -531,7 +644,9 @@ d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999, que enquadra
 
 4 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -545,13 +660,15 @@ d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999, que enquadra
 
 6 - O reconhecimento de desempenho muito bom em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a três dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste.
 
-7 - Sem prejuízo do disposto nos n.<sup>os</sup>5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
+7 - Sem prejuízo do disposto nos n.os5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
 
 a) Três pontos por cada menção de desempenho excelente;
 
 b) Dois pontos por cada menção de desempenho muito bom.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -559,7 +676,9 @@ b) Dois pontos por cada menção de desempenho muito bom.
 
 3 - Para efeitos de aplicação do disposto em matéria de procedimento disciplinar, na LTFP, a avaliação de desempenho negativa nela prevista corresponde à menção qualitativa de inadequado.
 
-###### Artigo 51.º — Intervenientes
+Artigo 51.º
+
+Intervenientes
 
 1 - Intervêm no processo de avaliação do desempenho dos trabalhadores no âmbito de cada serviço:
 
@@ -575,7 +694,9 @@ e) [...]
 
 2 - (Revogado.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -597,7 +718,9 @@ g) Remeter os contributos escritos adequados a uma efetiva e justa avaliação d
 
 3 - A ausência ou impedimento de avaliador direto não constitui fundamento para não avaliar o trabalhador.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -619,7 +742,9 @@ b) Proceder à respetiva autoavaliação com garantia de envolvimento ativo e re
 
 5 - [...]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...]
 
@@ -661,7 +786,9 @@ b) Ao dirigente máximo do serviço, sempre que se verifique a impossibilidade d
 
 9 - [...]
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
@@ -685,7 +812,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 [...]
 
@@ -709,7 +838,9 @@ i) [Anterior alínea h).]
 
 j) [Anterior alínea i).]
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -735,7 +866,9 @@ c) Validar as avaliações de desempenho de muito bom, bom ou inadequado, bem co
 
 5 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -749,7 +882,9 @@ c) Validar as avaliações de desempenho de muito bom, bom ou inadequado, bem co
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 60.º — Reunião do conselho coordenador da avaliação
+Artigo 60.º
+
+Reunião do conselho coordenador da avaliação
 
 1 - Na 2.ª quinzena de janeiro, realiza-se a reunião do conselho coordenador da avaliação para a análise das propostas de avaliação, procedendo:
 
@@ -765,7 +900,9 @@ d) À análise do impacto do desempenho, designadamente para efeitos de reconhec
 
 3 - Nos casos previstos no número anterior o conselho coordenador da avaliação transmite a classificação final ao avaliador para que este dê conhecimento ao avaliado na reunião de avaliação e a remeta para homologação.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Durante o mês de fevereiro do ano seguinte àquele em que se completa o ciclo avaliativo e após a validação referida no artigo anterior, realizam-se as reuniões dos avaliadores com cada um dos respetivos avaliados, tendo como objetivo dar conhecimento da avaliação.
 
@@ -781,7 +918,9 @@ d) À análise do impacto do desempenho, designadamente para efeitos de reconhec
 
 7 - (Revogado.)
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -795,7 +934,9 @@ d) À análise do impacto do desempenho, designadamente para efeitos de reconhec
 
 6 - (Revogado.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 Os modelos de fichas de autoavaliação, de avaliação, de monitorização do desempenho, de reformulação de objetivos, bem como as listas de competências, são os constantes da [Portaria n.º 236/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/236-2024-889128430), de 27 de setembro, considerando-se reportadas aos departamentos do Governo Regional, as referências a Ministérios ou a entidades da administração central.»
 
@@ -821,7 +962,9 @@ c) Manutenção do nível de excelência antes atingido.
 
 4 - A homologação dos reconhecimentos de desempenho excelente compete ao respetivo membro do Governo Regional, após a validação referida no número anterior.
 
-###### Artigo 23.º-A — Efeitos da distinção de excelência
+Artigo 23.º-A
+
+Efeitos da distinção de excelência
 
 1 - O reconhecimento de desempenho excelente determina para o ciclo de avaliação seguinte a consagração de reforço orçamental visando:
 
@@ -831,7 +974,9 @@ b) A dinamização de novos projetos de melhoria do serviço.
 
 2 - O montante do reforço orçamental previsto no número anterior é definido em sede do diploma que aprove o Orçamento para a Região Autónoma da Madeira.
 
-###### Artigo 25.º-A — Intervenientes
+Artigo 25.º-A
+
+Intervenientes
 
 No processo de avaliação do desempenho dos dirigentes, no âmbito de cada serviço, intervêm os seguintes elementos:
 
@@ -843,13 +988,17 @@ c) O conselho coordenador da avaliação, neste caso composto apenas por dirigen
 
 d) O dirigente máximo do órgão ou serviço.
 
-###### Artigo 39.º-A — Requisitos funcionais para avaliação no ano de ingresso na Administração Pública ou integração em carreira diferente
+Artigo 39.º-A
+
+Requisitos funcionais para avaliação no ano de ingresso na Administração Pública ou integração em carreira diferente
 
 1 - No ano de ingresso na Administração Pública ou de integração em diferente carreira ou categoria o trabalhador contratualiza com o avaliador competente os parâmetros de avaliação, no período máximo de 10 dias após a conclusão com sucesso do período experimental.
 
 2 - Quando decorra um período inferior a seis meses entre a data de conclusão do período experimental e o final do ciclo avaliativo e o trabalhador tenha mais de seis meses de serviço efetivo, é-lhe atribuída a avaliação de desempenho regular, para efeitos do disposto no n.º 7 do artigo 156.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual (LTFP).
 
-###### Artigo 39.º-B — Sucessão de avaliadores
+Artigo 39.º-B
+
+Sucessão de avaliadores
 
 1 - Se no decorrer do ciclo avaliativo se sucederem vários avaliadores, tem competência para avaliar o avaliador que tiver a qualidade de superior hierárquico no momento da realização da avaliação.
 
@@ -859,7 +1008,9 @@ d) O dirigente máximo do órgão ou serviço.
 
 4 - Os elementos a que se referem os números anteriores devem contemplar uma pronúncia sobre todos os objetivos e competências contratualizados, referente ao período de contacto funcional entre o avaliador e o avaliado, e serem remetidos na forma escrita.
 
-###### Artigo 42.º-A — Avaliação por competências
+Artigo 42.º-A
+
+Avaliação por competências
 
 1 - Em casos excecionais, a avaliação dos desempenhos pode incidir apenas sobre o parâmetro ‘Competências’, previsto na alínea b) do artigo anterior, mediante decisão fundamentada do dirigente máximo do serviço, ouvido o conselho coordenador da avaliação e com observância do disposto nos números seguintes.
 
@@ -881,7 +1032,9 @@ b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas 
 
 8 - A avaliação final é a média aritmética simples ou ponderada das pontuações atribuídas às competências escolhidas para cada trabalhador.
 
-###### Artigo 42.º-B — Contratualização dos parâmetros
+Artigo 42.º-B
+
+Contratualização dos parâmetros
 
 1 - Sem prejuízo do disposto no artigo 39.º-A, a contratualização dos parâmetros ocorre no início de cada período anual de avaliação ou no início do exercício de novas funções no mesmo ou em diferente serviço ou unidade orgânica.
 
@@ -891,11 +1044,15 @@ b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas 
 
 4 - A reunião de contratualização referida no n.º 2 pode ser precedida de reunião de análise do dirigente com todos os avaliados que integrem a respetiva unidade orgânica ou equipa, designadamente quando existirem objetivos partilhados.
 
-###### Artigo 47.º-A — Critérios de desempate
+Artigo 47.º-A
+
+Critérios de desempate
 
 Quando não sejam suficientes os critérios de desempate fixados por parte do conselho coordenador da avaliação e seja necessário proceder a desempate entre trabalhadores, releva a avaliação obtida no parâmetro resultados.
 
-###### Artigo 61.º-A — Controlo do cumprimento da contratualização dos parâmetros de avaliação
+Artigo 61.º-A
+
+Controlo do cumprimento da contratualização dos parâmetros de avaliação
 
 1 - Após reunião de avaliação, o conselho coordenador da avaliação verifica o cumprimento da contratualização dos parâmetros de avaliação, sinalizando os casos de incumprimento e determinando a fixação dos referidos parâmetros no prazo máximo de 10 dias úteis.
 
@@ -909,11 +1066,11 @@ Aplicam-se à avaliação do biénio de 2023-2024 as seguintes disposições:
 
 a) As menções previstas no n.º 5 do artigo 47.º e o reconhecimento de mérito previsto no n.º 1 do artigo 48.º do SIADAP-RAM, na redação conferida pelo presente diploma;
 
-b) As disposições relativas à fixação e aplicação das percentagens para a diferenciação de desempenhos previstas nos n.<sup>os</sup>1 e 2 do artigo 75.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na redação conferida pelo artigo 4.º do [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro.
+b) As disposições relativas à fixação e aplicação das percentagens para a diferenciação de desempenhos previstas nos n.os1 e 2 do artigo 75.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na redação conferida pelo artigo 4.º do [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro.
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados o n.º 3 do artigo 3.º, a alínea b) do n.º 2 do artigo 14.º, os artigos 15.º, 27.º, 28.º, o artigo 33.º-A, o n.º 10 do artigo 36.º, o n.º 4 do artigo 39.º, o artigo 41.º, os n.<sup>os</sup>3 e 4 do artigo 49.º, o n.º 2 do artigo 51.º, a alínea d) do n.º 1 do artigo 56.º, a alínea e) do artigo 57.º, a alínea d) do n.º 1 do artigo 58.º, os n.<sup>os</sup>5, 6 e 7 do artigo 61.º, os artigos 62.º, 63.º, 64.º, 65.º, os n.<sup>os</sup>1 a 3, 5 e 6 do artigo 71.º, os artigos 75.º, 75.º-A e 76.º do [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2009-488302), de 21 de agosto, na sua atual redação.
+São revogados o n.º 3 do artigo 3.º, a alínea b) do n.º 2 do artigo 14.º, os artigos 15.º, 27.º, 28.º, o artigo 33.º-A, o n.º 10 do artigo 36.º, o n.º 4 do artigo 39.º, o artigo 41.º, os n.os3 e 4 do artigo 49.º, o n.º 2 do artigo 51.º, a alínea d) do n.º 1 do artigo 56.º, a alínea e) do artigo 57.º, a alínea d) do n.º 1 do artigo 58.º, os n.os5, 6 e 7 do artigo 61.º, os artigos 62.º, 63.º, 64.º, 65.º, os n.os1 a 3, 5 e 6 do artigo 71.º, os artigos 75.º, 75.º-A e 76.º do [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2009-488302), de 21 de agosto, na sua atual redação.
 
 ###### Artigo 6.º — Disposição final
 
@@ -927,15 +1084,15 @@ O [Decreto Legislativo Regional n.º 27/2009/M](https://diariodarepublica.pt/dr/
 
 1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor em 1 de janeiro de 2025.
 
-2 - O n.º 3 do artigo 30.º, os n.<sup>os</sup>11, 12 e 13 do artigo 36.º e na parte relativa a abonos pecuniários, os n.<sup>os</sup>5, 6 e 7 do artigo 49.º, entram em vigor a partir do início de vigência do diploma que aprove o próximo Orçamento da Região Autónoma da Madeira.
+2 - O n.º 3 do artigo 30.º, os n.os11, 12 e 13 do artigo 36.º e na parte relativa a abonos pecuniários, os n.os5, 6 e 7 do artigo 49.º, entram em vigor a partir do início de vigência do diploma que aprove o próximo Orçamento da Região Autónoma da Madeira.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 20 de dezembro de 2024.**
+Assinado em 20 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -957,7 +1114,7 @@ Estabelece o sistema integrado de gestão e avaliação do desempenho na adminis
 
 1 - O presente diploma aplica-se aos serviços da administração direta e indireta da Região Autónoma da Madeira, bem como aos serviços de apoio dos órgãos de governo da Região.
 
-2 - Sem prejuízo do disposto nos n.<sup>os</sup>4 e 5, o disposto no presente diploma não se aplica aos membros dos gabinetes de apoio dos titulares dos órgãos de governo da Região nem às entidades públicas empresariais.
+2 - Sem prejuízo do disposto nos n.os4 e 5, o disposto no presente diploma não se aplica aos membros dos gabinetes de apoio dos titulares dos órgãos de governo da Região nem às entidades públicas empresariais.
 
 3 - O regime previsto no presente diploma aplica-se ao desempenho dos serviços, dos dirigentes e dos trabalhadores da administração regional autónoma com vínculo de emprego público.
 
@@ -1303,7 +1460,7 @@ d) Critérios de seleção, no caso de a avaliação ser efetuada por operadores
 
 4 - A proposta efetuada nos termos do n.º 1 é aprovada por deliberação do conselho do Governo Regional, cabendo ao órgão inspetivo assegurar a sua execução e os correspondentes encargos administrativos e financeiros.
 
-5 - Nos casos previstos nos n.<sup>os</sup>3 e 5 do artigo 19.º, os encargos administrativos e financeiros inerentes à heteroavaliação são suportados pelo respetivo serviço.
+5 - Nos casos previstos nos n.os3 e 5 do artigo 19.º, os encargos administrativos e financeiros inerentes à heteroavaliação são suportados pelo respetivo serviço.
 
 ###### Artigo 21.º — Apresentação de resultados
 
@@ -1371,7 +1528,7 @@ b) A dinamização de novos projetos de melhoria do serviço.
 
 4 - (Revogado.)
 
-5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada anualmente nos termos dos n.<sup>os</sup>5 a 7 do artigo 39.º e do artigo 40.º
+5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada anualmente nos termos dos n.os5 a 7 do artigo 39.º e do artigo 40.º
 
 6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita anualmente, nos termos do SIADAP-RAM 3, não sendo aplicável o disposto no n.º 5.
 
@@ -1649,7 +1806,7 @@ c) O exercício de cargos dirigentes ou outros cargos ou funções de reconhecid
 
 6 - A avaliação por ponderação curricular é realizada pelo imediato superior hierárquico ou, na sua falta ou impedimento, por avaliador designado pelo dirigente máximo do serviço.
 
-7 - A fim de garantir o cumprimento dos prazos no presente diploma, devem os serviços informar, na primeira quinzena de dezembro do ano que antecede a avaliação, os trabalhadores com vínculo de emprego público abrangidos pelo disposto nos n.<sup>os</sup>5 a 7 do artigo 39.º, que não disponham de avaliação anterior que releve ou pretendam a sua alteração, que devem requerer a avaliação por ponderação curricular, nos termos do presente artigo.
+7 - A fim de garantir o cumprimento dos prazos no presente diploma, devem os serviços informar, na primeira quinzena de dezembro do ano que antecede a avaliação, os trabalhadores com vínculo de emprego público abrangidos pelo disposto nos n.os5 a 7 do artigo 39.º, que não disponham de avaliação anterior que releve ou pretendam a sua alteração, que devem requerer a avaliação por ponderação curricular, nos termos do presente artigo.
 
 ###### Artigo 41.º — Publicidade
 
@@ -1833,7 +1990,7 @@ e) Alteração de posicionamento remuneratório na carreira do trabalhador e atr
 
 6 - O reconhecimento de desempenho muito bom em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a três dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste.
 
-7 - Sem prejuízo do disposto nos n.<sup>os</sup>5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
+7 - Sem prejuízo do disposto nos n.os5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
 
 a) Três pontos por cada menção de desempenho excelente;
 
@@ -1991,7 +2148,7 @@ f) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no d
 
 8 - Os vogais efetivos são substituídos pelos vogais suplentes quando tenham de interromper o respetivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como avaliados ou avaliadores.
 
-9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efetivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.<sup>os</sup>4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
+9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efetivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.os4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
 
 10 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completam o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.
 
@@ -2267,7 +2424,7 @@ c) A recolha participada de reflexões sobre o modo efetivo do desenvolvimento d
 
 2 - Nas situações previstas no número anterior, em que só tenha havido atribuição de menção qualitativa ou atribuição de valores quantitativos não sujeitos a percentagens de diferenciação de desempenhos, é realizada ponderação curricular, nos termos do artigo 40.º, por avaliador designado pelo dirigente máximo do serviço.
 
-3 - No caso previsto nos n.<sup>os</sup>5 e 6 do artigo 39.º releva ainda, para efeitos da respetiva carreira, a última avaliação atribuída nos termos:
+3 - No caso previsto nos n.os5 e 6 do artigo 39.º releva ainda, para efeitos da respetiva carreira, a última avaliação atribuída nos termos:
 
 a) Do SIADAP aprovado pela [Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/lei/10-2004-541273), de 22 de março, e regulamentado pelo [Decreto Legislativo Regional n.º 11/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), de 29 de junho;
 
@@ -2298,3 +2455,5 @@ b) A Portaria n.º 54/2006, de 24 de maio.
 ###### Artigo 80.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+118501001

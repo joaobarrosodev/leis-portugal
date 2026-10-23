@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/365/2013/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-2013-483923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35ea54b0e23c197cb603abfce7a0461fe0f91e9b47cb33a8d3705c190b608bb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4dd22bb8b31d4fa3e2f959c6f52acabfa33e6e44429406cfd1926faa90874ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,37 @@ reuse:
 subjects:
 - Cobrança de Impostos
 - Código do IRS
-- Declaração de Rendimentos
-- Impresso
 - Contribuições e Impostos
-- IRS
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Impresso
+- IRS
 relationships:
+- type: amended_by
+  target: pt:dre:65990731:por
+  label: Mantido em vigor o modelo de impresso referente ao Anexo D - imputação de rendimentos de entidades sujeitas ao regime
+    de transparência fiscal e de heranças indivisas - e respetivas instruções de preenchimento pelo(a) Portaria n.º 276/2014
+    - Diário da República n.º 249/2014, Série I de 2014-12-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-2014-65990731
+  date: '2014-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:03Z'
   warnings: []
   errors: []
 ---
@@ -161,6 +172,6 @@ c) Anexo G - mais-valias e outros incrementos patrimoniais - e respetivas instru
 
 d) Anexo G1 - mais-valias não tributáveis - e respetivas instruções de preenchimento, aprovado pela Portaria nº 421/2012, de 21 de dezembro.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0691606935.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0691606935.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0691606935.pdf)

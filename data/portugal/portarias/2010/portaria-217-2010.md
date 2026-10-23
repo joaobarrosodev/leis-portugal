@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217/2010/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-2010-613411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebf0896f1c997ca8d0df4b7708630511abc30fbe37f636232d2e4e08655a1276
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec32b81cced7e98016768ca6ee33c1a52ecc085844cd24d8b9a0223e0a7aa9e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Bebida
-- Turismo
-- Contrato Coletivo de Trabalho
-- Algarve
-- Indústria Hoteleira
-- Alimentação
 - Agricultura
+- Algarve
+- Alimentação
+- Bebida
+- Contrato Coletivo de Trabalho
+- Indústria Hoteleira
 - Regulamento de Extensão
 - Relações de Trabalho
 - Tabela Salarial
+- Turismo
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:04Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +137,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de cinco.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 9 de Abril de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 9 de Abril de 2010.

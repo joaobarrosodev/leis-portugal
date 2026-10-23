@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18800/22072208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1980-470791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d6ded6345c12db13331f65a1d3c1ec26ae5775c1fed3a9c3181a4149690cd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89d2efa701b336d108e7cee0eaab1406871d4ad16bbbb17ef47dd1ee55c13aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação
+- Extinção de Serviços
+- Funchal
+- Junta Nacional dos Produtos Pecuários
+- Madeira.região Autónoma
+- Matadouro
+- Transferência de Competências
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:03Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +115,21 @@ Assim:
 
 Ouvido o Governo Regional, o Governo da República decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma da Madeira as competências e atribuições que, no âmbito regional, o Governo da República até agora vinha exercendo através da Junta Nacional dos Produtos Pecuários.
+Artigo 1.º São transferidas para a Região Autónoma da Madeira as competências e atribuições que, no âmbito regional, o Governo da República até agora vinha exercendo através da Junta Nacional dos Produtos Pecuários.
 
-###### Art. 2.º - 1 - Ao Governo Regional compete a definição e a condução da política de abastecimento e comercialização dos produtos pecuários, sem prejuízo das leis gerais da República e do acatamento devido às linhas gerais de política económica de âmbito nacional definidas pelo Governo da República.
+Art. 2.º - 1 - Ao Governo Regional compete a definição e a condução da política de abastecimento e comercialização dos produtos pecuários, sem prejuízo das leis gerais da República e do acatamento devido às linhas gerais de política económica de âmbito nacional definidas pelo Governo da República.
 
 2 - O departamento regional competente assumirá e coordenará as actividades actualmente exercidas pela Junta Nacional dos Produtos Pecuários em relação aos matadouros e casas de matança.
 
-###### Art. 3.º É extinta a Delegação da Junta Nacional dos Produtos Pecuários no Funchal.
+Art. 3.º É extinta a Delegação da Junta Nacional dos Produtos Pecuários no Funchal.
 
-###### Art. 4.º - 1 - O pessoal que presta serviço na Delegação da Junta Nacional dos Produtos Pecuários no Funchal, nos matadouros e casas de matança da Região Autónoma da Madeira será integrado, se assim o desejar, nos quadros regionais, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, designadamente em matéria de antiguidade e categoria profissional, contando-se, para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
+Art. 4.º - 1 - O pessoal que presta serviço na Delegação da Junta Nacional dos Produtos Pecuários no Funchal, nos matadouros e casas de matança da Região Autónoma da Madeira será integrado, se assim o desejar, nos quadros regionais, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, designadamente em matéria de antiguidade e categoria profissional, contando-se, para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e colocação previstas no número anterior serão efectuadas independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República e Jornal Oficial da Região Autónoma da Madeira.
 
 3 - Os funcionários que não desejarem a integração nos quadros regionais deverão apresentar a respectiva declaração no prazo de cento e oitenta dias a seguir à publicação do presente diploma no Diário da República, a fim de continuarem integrados nos quadros de origem.
 
-###### Art. 5.º - 1 - A propriedade dos bens e valores patrimoniais afectos aos matadouros, casas de matança e Delegação no Funchal da Junta Nacional dos Produtos Pecuários são transferidos para a Região Autónoma da Madeira, mediante relações de cadastro.
+Art. 5.º - 1 - A propriedade dos bens e valores patrimoniais afectos aos matadouros, casas de matança e Delegação no Funchal da Junta Nacional dos Produtos Pecuários são transferidos para a Região Autónoma da Madeira, mediante relações de cadastro.
 
 2 - Os bens e valores patrimoniais referidos no número anterior serão abatidos ao património da Junta Nacional dos Produtos Pecuários.
 
@@ -129,16 +143,16 @@ Ouvido o Governo Regional, o Governo da República decreta, nos termos da alíne
 
 7 - Será transferida para o orçamento regional a verba correspondente ao deficit de exploração da Delegação da Junta Nacional dos Produtos Pecuários na Região Autónoma da Madeira, previsível em função de 1979 e correspondente ao tempo que decorrer entre a data de entrada em vigor deste diploma e o final do ano em curso.
 
-###### Art. 6.º O Ministério da Agricultura e Pescas prestará todo o apoio técnico, na medida das suas possibilidades, às actividades relacionadas com a política de abastecimento e comercialização de produtos pecuários, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
+Art. 6.º O Ministério da Agricultura e Pescas prestará todo o apoio técnico, na medida das suas possibilidades, às actividades relacionadas com a política de abastecimento e comercialização de produtos pecuários, a solicitação expressa do Governo Regional, através do Ministro da República para a Madeira.
 
-###### Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Madeira e do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
+Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República para a Madeira e do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 1 de Agosto de 1980.**
+Promulgado em 1 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/989/2009/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/989-2009-489218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1928d74ea1fd7c54c665cab5879b56e30a90a1543e55d8faba921e5750059462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a70f52f3cffb7e4b80e941cd59f8426a405084536db3b7b8f889510c0f3610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Vinho
+- Comércio
 - Comissão de Gestão
+- Financiamento
 - Gabinete de Planeamento e Políticas
-- Instituto da Vinha e do Vinho
 - IFAP
+- Instituto da Vinha e do Vinho
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Países Terceiros
 - Promoção de Produtos
 - Regime de Apoio
 - Regulamento
-- Comércio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:499213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616820:por
+  label: "Alterado o n.º 2 do art. 10.º, bem como o anexo III da Port 1384-B/2008, de 02-Dez, republicada pelo presente diploma,\
+    \ pela PORT.47/2010.20.01.2010.MADRP, DR.IS [13] de 20.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-2010-616820
+  date: '2010-01-20'
+- type: amended_by
+  target: pt:dre:307668:por
+  label: "Alterado o n.º 1 do art. 18.º do Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado\
+    \ em anexo à Port. n.º 1384-B/2008, de 02-Dez, na redacção da presente portaria, pela PORT.1055/2010.14.10.2010.MADRP,\
+    \ DR.IS [200] de 14.10.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1055-2010-307668
+  date: '2010-10-14'
+- type: amended_by
+  target: pt:dre:543069:por
+  label: "Dada nova redação ao art. 2º, 9º e 18º do Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros,\
+    \ aprovado pela Port 1384-B/2008, de 02-dez, alterado e republicado pelo presente diploma, pela PORT.43/2012.10.02.2012.MAMAOT,\
+    \ DR.IS [30] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-2012-543069
+  date: '2012-02-10'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -112,16 +132,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:499213:por
+  label: "Revogada, a partir de 14.08.2013, a Port 1384-B/2008, de 02-dez, que aprova o Regulamento do Apoio à Promoção de\
+    \ Vinhos em Mercados de Países Terceiros, na redação da presente portaria, pela PORT.257/2013.13.08.2013.MAGM, DR.IS [155]\
+    \ de 13.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-2013-499213
+  date: '2013-08-13'
 article_structure:
-  article_count: 43
+  article_count: 31
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:28Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +187,9 @@ Os artigos 2.º, 6.º, 8.º, 9.º, 13.º, 14.º, 17.º, 18.º, 19.º, 22.º, 23.
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -168,7 +197,9 @@ Os artigos 2.º, 6.º, 8.º, 9.º, 13.º, 14.º, 17.º, 18.º, 19.º, 22.º, 23.
 
 3 - Os projectos apresentados por empresas com actividade principal na área da distribuição devem evidenciar o interesse de inclusão das entidades cujos vinhos distribuem nos mercados alvo do projecto em causa, bem como o compromisso das mesmas quanto ao fornecimento dos vinhos, em quantidade e qualidade, para responder à procura nos mercados.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As medidas podem ser executadas pelo beneficiário ou por entidade por este contratada para a sua execução, desde que reunidas as seguintes condições:
 
@@ -178,7 +209,9 @@ b) ...
 
 c) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São consideradas elegíveis todas as despesas directamente relacionadas com a execução das medidas, realizadas entre a data de apresentação do projecto e o prazo previsto para o termo da sua execução, não podendo ultrapassar o período de três anos a contar da data da primeira despesa elegível, que se deverá realizar, o mais tardar, nos seis meses seguintes à data limite para a apresentação do projecto, e que se enquadrem nas seguintes categorias:
 
@@ -212,7 +245,9 @@ e) ...
 
 f) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +259,9 @@ f) ...
 
 5 - Os contratos a celebrar incluem a indicação do apoio máximo a conceder em cada fase de execução do projecto, terminando cada fase no prazo de um ano contado consecutivamente a partir da data limite fixada em cada concurso para a apresentação de projectos, excepto a última fase, que termina na data de realização da última despesa elegível.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Sem prejuízo das disposições previstas no artigo 21.º, o beneficiário fica sujeito às seguintes obrigações:
 
@@ -242,7 +279,9 @@ f) ...
 
 g) Assegurar, até 15 de Outubro de cada ano, a utilização de, pelo menos, 65 % do apoio previsto para cada fase de execução do projecto, se necessário através de pagamento adiantado.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O apoio pode ser pago mediante apresentação de pedido de pagamento adiantado ou de pedido de pagamento intermédio, sendo aceite que os beneficiários que tenham apresentado pedidos de pagamento intermédio possam solicitar, o mais tardar até 15 de Setembro, um pagamento adiantado cujo valor não exceda o montante do apoio a conceder na fase de execução em curso, descontado do montante já pago a título de pagamentos intermédios.
 
@@ -250,7 +289,9 @@ g) Assegurar, até 15 de Outubro de cada ano, a utilização de, pelo menos, 65 
 
 3 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O beneficiário pode apresentar ao IFAP, I. P., em cada fase de execução do projecto, e o mais tardar até 15 de Setembro, um pedido de adiantamento até ao montante correspondente a 100 % do apoio a conceder na fase em causa, descontado, se for caso disso, do montante já pago a título de pagamentos intermédios, mediante a entrega de uma garantia constituída a favor daquele organismo, de montante correspondente a 110 % do adiantamento solicitado.
 
@@ -260,7 +301,9 @@ g) Assegurar, até 15 de Outubro de cada ano, a utilização de, pelo menos, 65 
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os pedidos de pagamento intermédio são apresentados ao IFAP, I. P., nas condições definidas por aquele organismo, nos prazos fixados pela CG no aviso de abertura do concurso, que podem ser adaptados por decisão da mesma caso se revele adequado para aumentar a eficácia da medida.
 
@@ -268,7 +311,9 @@ g) Assegurar, até 15 de Outubro de cada ano, a utilização de, pelo menos, 65 
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +331,9 @@ c) ...
 
 5 - Em caso de ausência de comunicação de alterações ou ocorrências previstas na alínea d) do artigo 14.º
 
-###### Artigo 23.º — Reduções
+Artigo 23.º
+
+Reduções
 
 1 - No caso de incumprimento do prazo de apresentação dos pedidos de pagamento previstos nos artigos 18.º, 19.º e 20.º, o montante de apoio a pagar é reduzido em 0,5 % por mês de atraso se a superação do prazo definido exceder um mês.
 
@@ -298,7 +345,9 @@ c) ...
 
 5 - Em derrogação do disposto no número anterior, a CG pode decidir, mediante justificação devidamente fundamentada a apresentar pelo beneficiário, não aplicar a redução prevista.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +359,9 @@ c) ...
 
 5 - A CG procede à divulgação dos elementos relativos aos projectos aprovados em cada concurso através da Internet, na página electrónica do IVV, I. P., com o endereço www.ivv.min-agricultura.pt, indicando, pelo menos, a designação do beneficiário, a taxa de apoio e o montante máximo a conceder em cada fase do projecto.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os beneficiários são sujeitos aos controlos administrativos e financeiros que venham a ser determinados pelo IFAP, I. P., que no exercício de funções de organismo pagador adopta os procedimentos necessários ao cumprimento dos critérios estabelecidos no anexo i do Regulamento (CE) n.º [885/2006](http://data.europa.eu/eli/reg/2006/885/oj?locale=pt), da Comissão, de 21 de Junho, e disposições previstas no capítulo i do título v do Regulamento (CE) n.º [555/2008](http://data.europa.eu/eli/reg/2008/555/oj?locale=pt), da Comissão, de 27 de Junho.»
 
@@ -706,14 +757,14 @@ Mercados emergentes (grupo iii) - China (incluindo regiões administrativas espe
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 12.º)
 
 Determinação do mérito do projecto (MP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17300/0603806047.pdf)

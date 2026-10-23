@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/206/2013/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-2013-496884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 369a97d42afe80f7f1fffe2f008010c49497cb42b88b9bd3092e944e3c640593
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aff7923a52d25425fcc5d555b93973d0d0695caa85150996de17a27b70d6e718
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,28 @@ reuse:
 subjects:
 - Almada
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação JEAN Piaget
 - Numerus Clausus
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:08Z'
   warnings: []
   errors: []
 ---
@@ -129,14 +133,14 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 17 de maio de 2013.**
+O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 17 de maio de 2013.
 
 ## ANEXO I
 
 Vagas para a candidatura à matrícula e inscrição, no ano letivo de 2012-2013, no curso de Complemento de Formação Científica e Pedagógica para Educadores de Infância.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf)
 
 ## ANEXO II — Vagas para a candidatura à matrícula e inscrição, no ano letivo de 2012-2013, nos cursos de Qualificação para o Exercício de Outras Funções Educativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11600/0338403385.pdf)

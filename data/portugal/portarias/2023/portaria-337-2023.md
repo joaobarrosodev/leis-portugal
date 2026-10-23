@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21500/0005000058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/337/2023/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-2023-223906281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93edd10cf17de8efde13bdf1b3888ce8d5a6db2b20cd088b8e725b5774ac43a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2f1afcdb15f48aea82099476772e5e42d3d4f63ef81fbebb8d851fe416c7dde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Cobrança de Impostos
 - Código do IVA
-- Formulário Eletrónico
 - Contribuições e Impostos
-- IVA
 - Documento Eletrónico
+- Formulário Eletrónico
+- IVA
 - Pagamento de Contribuições
 relationships:
 - type: cites
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/58/2021/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/58/2021/03/16/p/dre
+- type: cites
+  target: pt:dre:144272499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159539837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693823:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:43Z'
   warnings: []
   errors: []
 ---
@@ -144,26 +164,35 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 É republicado, em anexo II à presente portaria, o anexo à [Portaria n.º 232/2020](https://diariodarepublica.pt/dr/detalhe/portaria/232-2020-144272499), de 1 de outubro.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 30 de outubro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 30 de outubro de 2023.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
 Publicação do modelo da declaração mensal global e respetivas instruções de preenchimento
 
-![](https://files.diariodarepublica.pt/images/223906281/223900358.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900358.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906281/223900359.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900359.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906281/223900360.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900360.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906281/223900361.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900361.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
 Republicação do anexo à [Portaria n.º 232/2020](https://diariodarepublica.pt/dr/detalhe/portaria/232-2020-144272499), de 1 de outubro
 
-![](https://files.diariodarepublica.pt/images/223906281/223900362.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900362.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906281/223900363.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900363.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223906281/223900364.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223906281/223900364.png) |
+| --- |
+
+117020719

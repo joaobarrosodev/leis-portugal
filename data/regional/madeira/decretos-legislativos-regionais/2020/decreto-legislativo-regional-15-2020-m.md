@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22300/0003200039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2020/11/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2feea6798dcef989c6838b44df27e303b7508d58354b388404970712c4562953
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21b3b1ff5f00e7363d2ebeedbd97c031aceb2043bd8184d286802265dc0a3e12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Administração Regional de Saúde
+- Conselho Diretivo
 - Direcção Regional de Saúde
+- Governo Regional
+- Iasaúde
+- Madeira.região Autónoma
+- Orgânica
 - Política de Saúde
 - Presidente do Governo Regional
-- Conselho Diretivo
-- Iasaúde
-- Orgânica
-- Madeira.região Autónoma
-- Sistema Regional de Proteção Civil
 - Secretaria Regional da Saúde e Proteção Civil
+- Sistema Regional de Proteção Civil
 relationships:
 - type: amended_by
   target: pt:dre:158240148:por
@@ -121,16 +121,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127657050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133054720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134505605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:24Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +231,9 @@ São alterados os artigos 1.º, 3.º, 5.º, 6.º, 8.º, 13.º e 14.º do anexo a
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O IASAÚDE, IP-RAM, tem por missão assegurar a gestão dos recursos financeiros, humanos, da formação profissional, das instalações e equipamentos, dos sistemas e tecnologias de informação do Serviço Regional de Saúde e dos serviços da administração direta no domínio da SRS.
 
@@ -227,7 +289,9 @@ x) [Revogada.]
 
 y) [Revogada.]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo do IASAÚDE, IP-RAM, é composto por um presidente, coadjuvado por um vice-presidente e dois vogais, nos termos do artigo 19.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na redação que lhe foi conferida pelo [Decreto-Lei n.º 5/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2012-544395), de 17 de janeiro, equiparados, para todos os efeitos legais, a diretor regional e a subdiretores regionais, cargos de direção superior de 1.º e 2.º graus, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional de Saúde e Proteção Civil.
 
@@ -247,19 +311,27 @@ d) Emitir parecer sobre os orçamentos das instituições e serviços públicos 
 
 5 - O vice-presidente e os vogais exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, com a faculdade de subdelegação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do instituto, sendo designado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde, nos termos da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A organização interna do IASAÚDE, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os regulamentos internos necessários ao funcionamento do IASAÚDE, IP-RAM, são aprovados por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde, no prazo de 180 dias, a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 No âmbito das suas atribuições, o IASAÚDE, IP-RAM, pode emitir instruções genéricas que vinculam as entidades do Serviço Regional de Saúde, bem como as que integram funcionalmente o sistema regional de saúde, designadamente de natureza privada.»
 
@@ -277,11 +349,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de outubro de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 2 de novembro de 2020.**
+Assinado em 2 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -438,3 +510,5 @@ Os regulamentos internos necessários ao funcionamento do IASAÚDE, IP-RAM, são
 ###### Artigo 14.º — Vinculação normativa
 
 No âmbito das suas atribuições, o IASAÚDE, IP-RAM, pode emitir instruções genéricas que vinculam as entidades do serviço regional de saúde, bem como as que integram funcionalmente o sistema regional de saúde, designadamente de natureza privada.
+
+113704109

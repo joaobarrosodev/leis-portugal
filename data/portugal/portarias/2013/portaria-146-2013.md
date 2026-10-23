@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/146/2013/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-2013-260457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0274c92032652fb283225dc4704b00dda37e7e98a7cf99e3038c73388861d43f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c3fa02544563b69dfd5e32201346dd245749577852dda391b6ef33fc7ff59d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ subjects:
 - Taxa
 - TAXA de JURO
 relationships:
+- type: amended_by
+  target: pt:dre:75503400:por
+  label: Alterados, nos termos do art. 4.º, os n.ºs 1, 4, 5 e 7 do art. 2.º (na redação da presente portaria) da Port. 279/2011
+    de 17-out, pelo(a) Portaria n.º 262-A/2016 - Diário da República n.º 194/2016, 1º Suplemento, Série I de 2016-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-a-2016-75503400
+  date: '2016-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
   label: null
@@ -103,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/279/2011/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/279/2011/10/17/p/dre
+- type: cites
+  target: pt:dre:177864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:48Z'
   warnings: []
   errors: []
 ---
@@ -147,23 +177,23 @@ O artigo 2.º da Portaria n.º 279/2011, de 17 de outubro, passa a ter a seguint
 
 1 - No cálculo da anuidade, a cinco anos, a aplicar no âmbito do diferimento intertemporal nos proveitos permitidos referido no artigo anterior, a Entidade Reguladora dos Serviços Energéticos (ERSE) utiliza a taxa de remuneração que resulta da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
 
-2 - Para efeitos da fórmula prevista no número anterior, [([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf) resulta da aplicação da seguinte fórmula:
+2 - Para efeitos da fórmula prevista no número anterior, [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf) resulta da aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
 
 3 - Para efeitos da fórmula prevista no número anterior, «R*» resulta da aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
 
 4 - Para efeitos da fórmula prevista no número anterior, «R(índice i)» resulta da aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
 
 5 - Para efeitos da fórmula prevista no número anterior, caso não seja transacionada em mercado secundário qualquer série de obrigações com maturidade igual a i, emitidas em euros pelo grupo empresarial que integra o comercializador de último recurso, «Rm(índice i)» deverá ser determinado pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07100/0213302135.pdf)
 
 6 - Os parâmetros «(teta)», «k», «t», «R0(índice i)» e «a(índice i)» referidos no presente artigo são estabelecidos por despacho do membro do Governo responsável pela área da energia até ao dia 30 de novembro do ano anterior àquele a que dizem respeito os proveitos permitidos, sem prejuízo da disposição transitória aplicável.
 
@@ -201,4 +231,4 @@ iv) «a(índice 6)» = 0.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação, reportando os seus efeitos ao dia 1 de janeiro de 2013.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 21 de março de 2013.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 21 de março de 2013.

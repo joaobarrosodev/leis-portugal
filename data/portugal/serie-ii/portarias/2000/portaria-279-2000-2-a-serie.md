@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-2000-1918759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:11:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 254448438d462d0fc0b90c4d6607b5c3ceddedeb8d69cb9b55e406f010ba1b76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303ee3074b45f4babcfedc682fa79859cd5eee3c77177c5d845c058c449d7d98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:11:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação Contínua do Mérito
+- Avaliação do Pessoal
+- Gestão de Recursos Humanos
+- GNR
+- Militar
+- Pessoal Militarizado
+- Regulamento
+- Regulamento de Avaliação do Mérito dos Militares da GNR
+- Sammgnr
+relationships:
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:127582934:por
+  label: Revogada pelo(a) Portaria n.º 411/2019 - Diário da República n.º 250/2019, Série I de 2019-12-30, nos termos do disposto
+    nos seus arts. 3.º e 4.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-2019-127582934
+  date: '2019-12-30'
 article_structure:
   article_count: 26
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:11:30Z'
   warnings: []
   errors: []
 ---
@@ -442,7 +465,7 @@ Código 16 - Adaptabilidade.
 
 a) Factores de avaliação (caixa 04):
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf))](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)
 
 b) No juízo complementar (caixa 05), o factor com o código 13 tem o coeficiente 1 e os factores com os códigos 14, 15 e 16 o coeficiente 2.
 
@@ -688,7 +711,7 @@ Medíocre - 8 valores.
 
 O presente Regulamento será obrigatoriamente revisto, no prazo máximo de dois anos, tendo em atenção a experiência resultante da aplicação do RAAMGNR.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf))](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)
 
 ## ANEXO D — Critérios de Avaliação Individual
 
@@ -956,4 +979,4 @@ d) Adaptabilidade (código 16):
 
 1 - Revela grandes dificuldades de adaptação, com substancial redução da capacidade de trabalho e da eficiência.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf))](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/02/038000000/0307003085.pdf)

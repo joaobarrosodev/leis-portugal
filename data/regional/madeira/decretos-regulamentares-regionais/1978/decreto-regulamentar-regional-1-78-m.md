@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1978-298272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 804d9526ad060859defc6891ba0d9233a7681c8e035b1370fe419a910debbf87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdb45a099c44389ebaf33c681d801b9938c39dcd698fb2c5e3e8bfbc77d091e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Saúde
+- Centro Regional de Saúde Pública
+- Conselho de Administração
+- Conselho Técnico
+- Definição de Competências
+- Denominação de Instituição
+- Estatuto
+- Funchal
+- Laboratório
+- Madeira.região Autónoma
+- Orgânica
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448509:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:52Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +108,15 @@ Cumprindo, entretanto, regulamentar a sua estrutura orgânica, nos termos da al�
 
 ESTATUTO DO CENTRO REGIONAL DE SAÚDE PÚBLICA DA REGIÃO AUTÓNOMA DA MADEIRA
 
-###### Artigo 1.º - 1 - O Centro Regional de Saúde Pública é um complexo funcional de órgãos e serviços dependentes da Secretaria Regional dos Assuntos Sociais que visam a promoção e coordenação das acções tendentes ao tratamento de doentes fora do âmbito hospitalar e, principalmente, a medicina preventiva e a educação sanitária e ainda a concessão dos benefícios sociais inerentes às situações de doença.
+Artigo 1.º - 1 - O Centro Regional de Saúde Pública é um complexo funcional de órgãos e serviços dependentes da Secretaria Regional dos Assuntos Sociais que visam a promoção e coordenação das acções tendentes ao tratamento de doentes fora do âmbito hospitalar e, principalmente, a medicina preventiva e a educação sanitária e ainda a concessão dos benefícios sociais inerentes às situações de doença.
 
 2 - Exercerá a sua acção através dos serviços que lhe são próprios e dos centros de saúde concelhios e subconcelhios existentes ou a criar na Região, que, para efeitos, ficarão na sua dependência directa.
 
-###### Art. 2.º - 1 - Na sede de cada concelho, e numa perspectiva de acção integrada, funcionará um centro de saúde concelhio, que integrará todas as actividades de saúde pública da respectiva área e ainda aquelas que nela venham a ser reconhecidas como necessárias.
+Art. 2.º - 1 - Na sede de cada concelho, e numa perspectiva de acção integrada, funcionará um centro de saúde concelhio, que integrará todas as actividades de saúde pública da respectiva área e ainda aquelas que nela venham a ser reconhecidas como necessárias.
 
 2 - Poderão também ser criados centros de saúde subconcelhios, com os mesmos objectivos previstos no número precedente, com acção circunscrita a uma área limitada dentro do respectivo concelho.
 
-###### Art. 3.º Compete, nomeadamente, ao Centro Regional de Saúde Pública:
+Art. 3.º Compete, nomeadamente, ao Centro Regional de Saúde Pública:
 
 a) Fazer a aplicação e velar pelo cumprimento das normas técnicas dos serviços a seu cargo, contribuindo para a definição das mesmas sempre que solicitado;
 
@@ -112,7 +132,7 @@ f) Elaborar os programas de acção, os orçamentos e os relatórios de activida
 
 g) Colaborar com os demais departamentos oficiais e não oficiais sempre e nas condições que lhe forem determinadas directa ou indirectamente pela Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 4.º - 1 - Constituem receitas do Centro:
+Art. 4.º - 1 - Constituem receitas do Centro:
 
 a) Comparticipações do orçamento geral da Região;
 
@@ -124,7 +144,7 @@ d) Outras receitas.
 
 2 - O programa de financiamento do Centro de Saúde Pública depende de aprovação da Secretaria Regional dos Assuntos Sociais, que vigiará pelo seu cumprimento e pelas alterações que venham a ser necessárias.
 
-###### Art. 5.º - 1 - O Centro terá pessoal dirigente, técnico, administrativo e auxiliar, que constará do quadro do pessoal a aprovar nos termos da legislação em vigor.
+Art. 5.º - 1 - O Centro terá pessoal dirigente, técnico, administrativo e auxiliar, que constará do quadro do pessoal a aprovar nos termos da legislação em vigor.
 
 2 - O pessoal do Centro, bem como o dos centros concelhios nele integrados, fará parte de um quadro único, ainda que a sua distribuição e condição de transferência obedeçam a critérios previamente fixados.
 
@@ -132,17 +152,17 @@ d) Outras receitas.
 
 4 - A reclassificação de pessoal obedecerá a critérios objectivos a definir oportunamente para os casos em que não existam normas a nível nacional, sendo, porém, salvaguardados os direitos adquiridos, conforme o artigo 4.º do [Decreto Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-448509).
 
-###### Art. 6.º - 1 - O Centro é aberto a toda a população, sem diferenciação pela sua situação económica ou social, a qual deverá, porém, acatar as normas em vigor quanto à disciplina e actuação dos serviços.
+Art. 6.º - 1 - O Centro é aberto a toda a população, sem diferenciação pela sua situação económica ou social, a qual deverá, porém, acatar as normas em vigor quanto à disciplina e actuação dos serviços.
 
 2 - Os serviços prestados serão retribuídos segundo os preçários em vigor, que terão sempre em conta a capacidade económica dos utentes e os benefícios sociais que lhes sejam reconhecidos.
 
-###### Art. 7.º São órgãos da direcção do Centro:
+Art. 7.º São órgãos da direcção do Centro:
 
 a) O conselho de administração;
 
 b) O conselho de gerência.
 
-###### Art. 8.º - 1 - O conselho de administração tem a seguinte composição:
+Art. 8.º - 1 - O conselho de administração tem a seguinte composição:
 
 a) Um representante da Secretaria Regional dos Assuntos Sociais, que preside;
 
@@ -154,7 +174,7 @@ d) Um representante da assembleia regional.
 
 2 - Os membros referidos nas alíneas c) e d) do número anterior são designados, por um mandato, renovável, de dois anos, pelas entidades que representam, às quais compete também a sua substituição e recondução.
 
-###### Art. 9.º - 1 - O conselho de administração pode reunir desde que esteja presente a maioria dos seus membros em exercício.
+Art. 9.º - 1 - O conselho de administração pode reunir desde que esteja presente a maioria dos seus membros em exercício.
 
 2 - As deliberações são tomadas por maioria simples de votos dos presentes, tendo o presidente voto de qualidade.
 
@@ -162,15 +182,15 @@ d) Um representante da assembleia regional.
 
 4 - A ordem de trabalhos só pode ser alterada por unanimidade.
 
-###### Art. 10.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
+Art. 10.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
 
 2 - O presidente não pode recusar a convocação que lhe for pedida pelo conselho de gerência ou pelo mínimo de um terço dos membros do conselho de administração.
 
 3 - Qualquer dos membros do conselho de administração pode pedir a inscrição de assuntos na ordem de trabalhos, mas, quando houver dúvida quanto à competência do conselho, a este compete decidir.
 
-###### Art. 11.º O conselho de administração reunirá ordinariamente de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
+Art. 11.º O conselho de administração reunirá ordinariamente de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
 
-###### Art. 12.º - 1 - Os membros referidos nas alíneas a) e b) do artigo 7.º terão direito a senhas de presença quando as reuniões tenham lugar fora das horas de serviço.
+Art. 12.º - 1 - Os membros referidos nas alíneas a) e b) do artigo 7.º terão direito a senhas de presença quando as reuniões tenham lugar fora das horas de serviço.
 
 2 - Os membros do conselho de administração referidos nas alíneas c) e d) do n.º 1 do artigo 7.º terão direito ao abono de senhas de presença.
 
@@ -178,7 +198,7 @@ d) Um representante da assembleia regional.
 
 4 - As despesas previstas neste artigo são suportadas pelo orçamento do próprio Centro.
 
-###### Art. 13.º - 1 - Compete ao conselho de administração:
+Art. 13.º - 1 - Compete ao conselho de administração:
 
 a) Apreciar e aprovar os planos de acção anuais e plurianuais para o Centro;
 
@@ -202,11 +222,11 @@ g) Emitir parecer sobre os assuntos que lhe forem apresentados pelo conselho de 
 
 5 - Poderão ser chamados a participar nas reuniões técnicos especializados em assuntos respeitantes ao sector.
 
-###### Art. 14.º O conselho de gerência é constituído por um médico, um enfermeiro e um elemento administrativo, nomeados pelo Secretário Regional dos Assuntos Sociais, para um mandato de três anos, renovável.
+Art. 14.º O conselho de gerência é constituído por um médico, um enfermeiro e um elemento administrativo, nomeados pelo Secretário Regional dos Assuntos Sociais, para um mandato de três anos, renovável.
 
-###### Art. 15.º Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
+Art. 15.º Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
 
-###### Art. 16.º - 1 - Compete-lhe, em especial:
+Art. 16.º - 1 - Compete-lhe, em especial:
 
 a) Preparar os planos gerais de actividade do Centro, incluindo os respectivos orçamentos, e submetê-los à apreciação do conselho de administração e das instâncias de tutela quando for legalmente exigido;
 
@@ -240,11 +260,11 @@ o) Autorizar a substituição de equipamento insusceptível de reparação até 
 
 3 - As atribuições constantes das alíneas c), n) e o) podem ser delegadas no membro administrativo até ao montante de 200 contos.
 
-###### Art. 17.º - 1 - Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
+Art. 17.º - 1 - Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
 
 2 - O conselho de gerência representará o Centro em juízo e fora dele.
 
-###### Art. 18.º - 1 - O conselho de gerência será presidido pelo elemento módico que tem voto de qualidade e reunirá obrigatoriamente uma vez por semana.
+Art. 18.º - 1 - O conselho de gerência será presidido pelo elemento módico que tem voto de qualidade e reunirá obrigatoriamente uma vez por semana.
 
 2 - As reuniões não poderão efectuar-se sem a presença da maioria dos seus membros, sendo as deliberações tomadas por maioria de votos.
 
@@ -252,7 +272,7 @@ o) Autorizar a substituição de equipamento insusceptível de reparação até 
 
 4 - As deliberações do conselho serão transcritas em acta.
 
-###### Art. 19.º - 1 - São órgãos de apoio técnico:
+Art. 19.º - 1 - São órgãos de apoio técnico:
 
 a) Direcção dos Serviços Médicos;
 
@@ -270,7 +290,7 @@ c) Direcção dos Serviços Administrativos.
 
 6 - Serão nomeados pelo Secretário Regional dos Assuntos Sociais por um período de três anos, renovável.
 
-###### Art. 20.º - 1 - São órgãos consultivos:
+Art. 20.º - 1 - São órgãos consultivos:
 
 a) Conselho técnico médico;
 
@@ -294,7 +314,7 @@ d) Responsáveis administrativos pelos centros concelhios.
 
 5 - Os conselhos técnicos terão funções meramente consultivas e reunirão sempre que convocados pelo conselho de gerência, por sua iniciativa ou a pedido da respectiva direcção, ou dos serviços interessados, e pronunciam-se validamente através da maioria dos seus membros.
 
-###### Art. 21.º Compete ao conselho técnico médico:
+Art. 21.º Compete ao conselho técnico médico:
 
 a) Pronunciar-se sobre o rendimento dos serviços médicos e propor o que julgar útil para a sua melhoria;
 
@@ -312,7 +332,7 @@ g) Dar parecer, quando solicitado, sobre a admissão, fixação e transferência
 
 h) Apreciar as regras quanto à elaboração do relatório anual.
 
-###### Art. 22.º Compete ao conselho técnico de enfermagem:
+Art. 22.º Compete ao conselho técnico de enfermagem:
 
 a) Dar parecer sobre as medidas necessárias a um melhor funcionamento dos serviços de enfermagem dos centros;
 
@@ -332,7 +352,7 @@ h) Dar parecer, quando consultado pela Direcção dos Serviços de Enfermagem ou
 
 i) Apreciar as regras quanto à elaboração do relatório anual.
 
-###### Art. 23.º Compete ao conselho técnico administrativo:
+Art. 23.º Compete ao conselho técnico administrativo:
 
 a) Dar parecer sobre os assuntos com implicação nos serviços de apoio geral, procurando obter a maior eficiência e rentabilidade;
 
@@ -348,7 +368,7 @@ f) Dar parecer, quando solicitado, sobre o plano de férias do pessoal de apoio 
 
 g) Pronunciar-se sobre os assuntos que lhe sejam submetidos pela Direcção dos Serviços Administrativos e pelos órgãos de gestão do Centro.
 
-###### Art. 24.º - 1 - O Centro terá duas repartições administrativas, que integram os seguintes sectores de actividades:
+Art. 24.º - 1 - O Centro terá duas repartições administrativas, que integram os seguintes sectores de actividades:
 
 Secretaria,
 
@@ -368,7 +388,7 @@ Migrantes.
 
 3 - A estrutura e organização destes sectores serão definidas no regulamento interno do Centro.
 
-###### Art. 25.º - 1 - São atribuições genéricas dos centros de saúde concelhios:
+Art. 25.º - 1 - São atribuições genéricas dos centros de saúde concelhios:
 
 Cuidados médicos de base;
 
@@ -406,32 +426,32 @@ Transporte de doentes.
 
 3 - As valências técnicas a atribuir a cada centro concelhio ou subconcelhio dependerão da sua situação geográfica, facilidades de acessos e distância em relação à cidade do Funchal e ainda da população abrangida.
 
-###### Art. 26.º Os centros de saúde concelhios e subconcelhios, como unidades primárias de promoção da saúde e prevenção da doença, actuam prioritariamente junto das populações, devendo organizar-se e dispor de meios necessários ao envio dos utentes para serviços mais evoluídos, sobretudo no campo da medicina curativa, sem soluções de continuidade.
+Art. 26.º Os centros de saúde concelhios e subconcelhios, como unidades primárias de promoção da saúde e prevenção da doença, actuam prioritariamente junto das populações, devendo organizar-se e dispor de meios necessários ao envio dos utentes para serviços mais evoluídos, sobretudo no campo da medicina curativa, sem soluções de continuidade.
 
-###### Art. 27.º Os centros de saúde concelhios e subconcelhios deverão ter permanentemente actualizados os ficheiros médicos e sanitários da população por eles coberta, cujo resumo acompanhará o respectivo interessado quando tenha de ser assistido em local diferente, com vista a possibilitar o seu conhecimento e para recolha de novos dados de actualização, que serão registados após o regresso.
+Art. 27.º Os centros de saúde concelhios e subconcelhios deverão ter permanentemente actualizados os ficheiros médicos e sanitários da população por eles coberta, cujo resumo acompanhará o respectivo interessado quando tenha de ser assistido em local diferente, com vista a possibilitar o seu conhecimento e para recolha de novos dados de actualização, que serão registados após o regresso.
 
-###### Art. 28.º Na identificação dos utentes deverá ser tomada em conta a eventual existência de ficha médico-sanitária em local diferente, com vista a sua transferência, quando for caso disso, ou ao conhecimento do seu conteúdo, para efeitos do disposto no artigo precedente.
+Art. 28.º Na identificação dos utentes deverá ser tomada em conta a eventual existência de ficha médico-sanitária em local diferente, com vista a sua transferência, quando for caso disso, ou ao conhecimento do seu conteúdo, para efeitos do disposto no artigo precedente.
 
-###### Art. 29.º - 1 - Os centros de saúde concelhios funcionarão como unidades técnicas dependentes do Centro Regional de Saúde Pública e terão a dirigi-los três elementos, sendo um médico, outro de enfermagem e outro administrativo, que responderão directamente perante o conselho de gerência.
+Art. 29.º - 1 - Os centros de saúde concelhios funcionarão como unidades técnicas dependentes do Centro Regional de Saúde Pública e terão a dirigi-los três elementos, sendo um médico, outro de enfermagem e outro administrativo, que responderão directamente perante o conselho de gerência.
 
 2 - Os centros de saúde subconcelhios, quando não autónomos, constituem subunidades que funcionam na dependência do respectivo centro de saúde concelhio.
 
-###### Art. 30.º O Laboratório Distrital do Funchal passará a ter a designação de Laboratório de Saúde Pública e funcionará como unidade de apoio aos centros de saúde.
+Art. 30.º O Laboratório Distrital do Funchal passará a ter a designação de Laboratório de Saúde Pública e funcionará como unidade de apoio aos centros de saúde.
 
-###### Art. 31.º Sempre que a situação o aconselhe, o conselho de gerência solicitará às assembleias municipais parecer sobre as questões de interesse para o respectivo concelho, nomeadamente quanto à criação, alteração e extinção dos serviços de saúde.
+Art. 31.º Sempre que a situação o aconselhe, o conselho de gerência solicitará às assembleias municipais parecer sobre as questões de interesse para o respectivo concelho, nomeadamente quanto à criação, alteração e extinção dos serviços de saúde.
 
-###### Art. 32.º São transferidas para o Centro as posições contratuais assumidas pelos estabelecimentos e serviços que nele ficam integrados.
+Art. 32.º São transferidas para o Centro as posições contratuais assumidas pelos estabelecimentos e serviços que nele ficam integrados.
 
-###### Art. 33.º As dúvidas e omissões resultantes da aplicação do presente diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 33.º As dúvidas e omissões resultantes da aplicação do presente diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 34.º O presente diploma vigorará a título experimental pelo prazo de um ano, findo o qual sofrerá as adaptações que a experiência determinar.
+Art. 34.º O presente diploma vigorará a título experimental pelo prazo de um ano, findo o qual sofrerá as adaptações que a experiência determinar.
 
-###### Art. 35.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
+Art. 35.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim. - O Secretário Regional dos Assuntos Sociais, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim. - O Secretário Regional dos Assuntos Sociais, Jorge Nélio Praxedes Ferraz de Mendonça.
 
-**Assinado em 2 de Junho de 1978.**
+Assinado em 2 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

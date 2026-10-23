@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/306/2011/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-2011-145022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c80f51a3b28e68b842cc41bb9984fb1c3807aa2042a19314985c8c115809f732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c130e51c996cbf8529d83faa8ac76a08b713d07ee10074d412ebfb2b32c240d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Formação Profissional
-- Ensino Médico
-- Internato Médico
-- Programa de Formação
 - Cirurgia
+- Ensino Médico
+- Formação Profissional
+- Internato Médico
+- Médico
+- Programa de Formação
 relationships:
 - type: amended_by
   target: pt:dre:877330485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:877330485:por
+  label: Atualizado o programa de formação especializada em cirurgia pediátrica pelo(a) Portaria n.º 188-A/2024/1 - Diário
+    da República n.º 157/2024, Suplemento, Série I de 2024-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-a-2024-877330485
+  date: '2024-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/50/1997/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/50/1997/01/20/p/dre
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:47Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +156,7 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 2 - A aplicação e desenvolvimento dos programas compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 7 de Dezembro de 2011.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 7 de Dezembro de 2011.
 
 ## ANEXO — Programa de formação do internato médico da área profissional de especialização de Cirurgia Pediátrica
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06500/0154101542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/91/2012/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2012-553883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 855aa979ae96f8e585b865552e622a573cdb01a3a2ef2d3ad8beee6e494f1719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98bb1ffee5041c86822184d94b8792d8b235740a19fdf87008e77be451273cc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Educação
-- Plano de Estudos
+- Avaliação de Conhecimentos
 - Diploma
+- Educação dos Adultos
+- Ensino Artístico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Profissional
-- Gestão Escolar
-- Educação dos Adultos
-- Avaliação de Conhecimentos
 - Ensino Superior
+- Gestão Escolar
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:175165:por
@@ -117,16 +117,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/781/2006/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/781/2006/08/09/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552032:por
+  label: "Retificado o art. 2º [na parte que adita o art. 38º-A à Port 550-E/2004, de 21-maio] pela DECL-RECT.24/2012.11.05.2012.PCM,\
+    \ DR.IS [92] de 11.05.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-2012-552032
+  date: '2012-05-11'
+- type: repealed_by
+  target: pt:dre:175165:por
+  label: "Revogada, a partir de 15.08.2012, a Port 550-E/2004, de 21-maio, na redação da Port 781/2006, de 09-ago e do presente\
+    \ diploma, pela PORT.242/2012.10.08.2012.MECI, DR.IS [155] de 10.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-2012-175165
+  date: '2012-08-10'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:29Z'
   warnings: []
   errors: []
 ---
@@ -201,4 +245,4 @@ b) A classificação obtida em exames finais nacionais de disciplinas de cursos 
 
 A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 27 de março de 2012.**
+O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 27 de março de 2012.

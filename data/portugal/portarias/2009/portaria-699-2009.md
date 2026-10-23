@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/699/2009/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eb51678d417202181abe659e1c4ca6baa9cf8c018d3f284152bf2fcf9802f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58737d4ce150201c61e9fd34c3b94fc100081398dcdcf57ba74c4d2e599f1fd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Euromilhões
-- Regulamento
+- Jogos de Fortuna e Azar
 - Joker
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:571049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488495:por
+  label: "Alterado o art. 5.º do Regulamento do JOKER, aprovado pela Port 550/2001, de 31-Maio, na redacção do presente diploma,\
+    \ pela PORT.973/2009.31.08.2009.MTSSO, DR.IS [168] de 31.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2009-488495
+  date: '2009-08-31'
+- type: amended_by
+  target: pt:dre:280488:por
+  label: "Alterado o art. 15º do Regulamento do JOKER, aprovado pela Port 550/2001, de 31-Maio, na redacção da presente portaria,\
+    \ pela PORT.65/2011.04.02.2011.MTSSO, DR.IS [25] de 04.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2011-280488
+  date: '2011-02-04'
+- type: amended_by
+  target: pt:dre:278178:por
+  label: "Alterado o art. 8.º do Regulamento do JOKER, aprovado pela Port. n.º 550/2001, de 31-Mai, na redacção da presente\
+    \ portaria, pela PORT.102/2011.11.03.2011.MTSSO, DR.IS [50] de 11.03.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2011-278178
+  date: '2011-03-11'
+- type: amended_by
+  target: pt:dre:277587:por
+  label: "Dada nova redacção, a partir de 07.05.2011, ao art. 8º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004\
+    \ de 01-Out, alterado pelo presente diploma, pela PORT.127/2011.31.03.2011.MTSSO, DR.IS [64] de 31.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-2011-277587
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:259420:por
+  label: "Alterados os art.s 1.º, 2.º, 8.º, 9.º, 11.º, 12.º, 13.º, 14.º, 15.º do Regulamento do do Jóquer, aprovado pela Port\
+    \ 550/2001, de 31-maio, na redação da presente Portaria, e republicado, pela PORT.114/2013.21.03.2013.MSSSOC, DR.IS [57]\
+    \ de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2013-259420
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: "Dada nova redação, a partir de 26.01.2014, ao art. 19.º do Regulamento do JOKER, aprovado pela Port 550/2001 de\
+    \ 31-mai, alterado pelo presente diploma, pela PORT.15/2014.23.01.2014.MSESS, DR.IS [16] de 23.01.2014 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2014-571049
+  date: '2014-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/2009/07/02/p/dre
   label: null
@@ -114,16 +151,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:236921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676813:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:47Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +243,9 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte
 
 O presente Regulamento estabelece as normas do jogo social do Estado denominado 'JOKER', que consiste num sorteio de números, cuja participação depende da participação simultânea num dos jogos sociais do Estado, Totobola, Totogolo, Totoloto e EUROMILHÕES, organizados e explorados, nos termos da lei, pela Santa Casa da Misericórdia de Lisboa, através do seu departamento de jogos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O JOKER tem periodicidade semanal e nele só podem jogar os apostadores que, em simultâneo, participem num dos jogos sociais do Estado mencionados no artigo anterior.
 
@@ -166,11 +253,15 @@ O presente Regulamento estabelece as normas do jogo social do Estado denominado 
 
 3 - A data do concurso do JOKER é a data do respectivo sorteio, que se realiza ao domingo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O preço de cada aposta é de (euro) 1.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +283,9 @@ f) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos 
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +337,9 @@ f) Tipo do jogo principal ao qual a aposta do JOKER está associada.
 
 19 - (Anterior n.º 18.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -302,4 +397,4 @@ f) Tipo do jogo principal ao qual a aposta do JOKER está associada.
 
 5.º A presente portaria entra em vigor no dia 5 de Julho de 2009, produzindo efeitos relativamente às apostas registadas desde esse dia para o sorteio do JOKER a realizar em 12 de Julho de 2009.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 1 de Julho de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 1 de Julho de 2009.

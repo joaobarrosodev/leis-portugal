@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 68/2011, 1º Suplemento, Série I de 2011-04-06
   number: '68'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2068-(2) a 2068-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06801/0000200017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/145-a/2011/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7f844faa67752a14d434717f1eb9964bf060cd931b6e1a20ccde16837ae25eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1d459c619ac59653dadd69770fdcdd57e3bf1f11ff95a7a42cd25b41ac1967e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Entidade Empregadora Pública
+- Administração Pública
+- Avaliação de Conhecimentos
 - Concurso
 - Direcção Geral da Administração e do Emprego Público
-- Administração Pública
-- Recrutamento de Pessoal
+- Entidade Empregadora Pública
 - Posto de Trabalho
-- Avaliação de Conhecimentos
+- Recrutamento de Pessoal
 - Reserva
 relationships:
 - type: amended_by
@@ -111,16 +111,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122202602:por
+  label: Revogada a Port 83-A/2009 de 22-jan, na redação do presente diploma, pelo(a) Portaria n.º 125-A/2019 - Diário da
+    República n.º 83/2019, 1º Suplemento, Série I de 2019-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-a-2019-122202602
+  date: '2019-04-30'
 article_structure:
-  article_count: 74
+  article_count: 59
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:56Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +221,9 @@ e) 'Perfil de competências' o elenco de competências e dos comportamentos que 
 
 f) 'Posição remuneratória de referência' a posição remuneratória de determinada carreira e ou categoria que, havendo lugar à negociação do posicionamento remuneratório, o dirigente máximo do órgão ou serviço pondera vir a oferecer aos trabalhadores a recrutar, determinada em função das disponibilidades orçamentais, sem prejuízo da possibilidade de, fundamentadamente, poder vir a oferecer posição diferente, nos termos e com observância dos limites legalmente definidos, em especial no artigo 55.º da LVCR.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os métodos de selecção obrigatórios são:
 
@@ -199,7 +239,9 @@ b) Os definidos nos n.os 2 e 4 do artigo 53.º da LVCR, quando se trate de const
 
 5 - No caso de utilização de um único método de selecção obrigatório, a sua ponderação não pode ser inferior a 55 %.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +261,9 @@ f) Após a aplicação dos métodos de selecção a nova tranche, nos termos da 
 
 3 - A fundamentação da opção referida no número anterior, quando ocorra depois de publicitado o procedimento, é publicitada pelos meios previstos nas alíneas a), b) e c) do n.º 1 do artigo 19.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +281,9 @@ f) Após a aplicação dos métodos de selecção a nova tranche, nos termos da 
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -261,7 +307,9 @@ c) Por entidade especializada privada, conhecedora do contexto específico da Ad
 
 8 - O disposto no número anterior releva, apenas, para os candidatos a quem tenha sido aplicada a totalidade do método e que tenham obtido resultado positivo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +317,9 @@ c) Por entidade especializada privada, conhecedora do contexto específico da Ad
 
 3 - Para efeitos do disposto na alínea d) do número anterior, deve o júri do procedimento concursal, na definição dos elementos a que se refere a alínea c) do n.º 2 do artigo 22.º, prever o valor positivo a ser considerado na respectiva fórmula para o caso dos candidatos que, por razões que não lhe sejam imputáveis, não possuam avaliação do desempenho relativa ao período a considerar.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +351,9 @@ b) Quando a entrevista seja realizada pelos técnicos a que se refere a segunda 
 
 13 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +409,9 @@ v) ...
 
 4 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -379,7 +433,9 @@ v) ...
 
 10 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -411,7 +467,9 @@ l) Submeter a homologação do dirigente máximo do órgão ou serviço a lista 
 
 4 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A apresentação da candidatura é efectuada em suporte de papel ou electrónico, através do preenchimento de formulário tipo, em ambos os casos de utilização obrigatória, e contém, entre outros, os seguintes elementos:
 
@@ -445,7 +503,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +539,9 @@ b) Não é exigível o preenchimento do formulário de candidatura e, aquando da
 
 12 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A ordenação final dos candidatos que completem o procedimento, com aprovação em todos os métodos de selecção aplicados, é efectuada de acordo com a escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações quantitativas obtidas em cada método de selecção.
 
@@ -487,7 +549,9 @@ b) Não é exigível o preenchimento do formulário de candidatura e, aquando da
 
 3 - A lista de ordenação final a que se refere o número anterior é elaborada no prazo de 10 dias úteis após a realização do último método de selecção.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - À lista unitária de ordenação final dos candidatos aprovados, bem como às exclusões do procedimento ocorridas na sequência da aplicação de cada um dos métodos de selecção é aplicável, com as necessárias adaptações, o disposto nos n.os 1 e 3 do artigo 30.º e nos n.os 1 a 5 do artigo 31.º
 
@@ -501,7 +565,9 @@ b) Não é exigível o preenchimento do formulário de candidatura e, aquando da
 
 6 - A lista unitária de ordenação final, após homologação, é afixada em local visível e público das instalações da entidade empregadora pública e disponibilizada na sua página electrónica, sendo ainda publicado um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 40.º, o procedimento concursal cessa com a ocupação dos postos de trabalho constantes da publicitação ou, quando os postos não possam ser totalmente ocupados, por:
 
@@ -511,7 +577,9 @@ b) ...
 
 2 - Excepcionalmente, o procedimento concursal pode, ainda, cessar por acto devidamente fundamentado da entidade responsável pela sua realização, homologado pelo respectivo membro do Governo, desde que não se tenha ainda procedido à notificação da lista de ordenação final aos candidatos, no âmbito da audiência dos interessados.
 
-###### Artigo 51.º — Modelos de formulários e disposições regulamentares
+Artigo 51.º
+
+Modelos de formulários e disposições regulamentares
 
 1 - ...
 
@@ -537,7 +605,7 @@ As alterações introduzidas à [Portaria n.º 83-A/2009](https://diariodarepubl
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Março de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Março de 2011.
 
 ## ANEXO — Republicação da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro
 

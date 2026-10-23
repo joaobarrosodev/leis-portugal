@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/2011/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c4fd78862e522d4bce084458a6fc82408158d8fc55300014617117337706d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33a90d67a9265aa93957b35e727e01a1c7227ca1dd1547fb6b79e8a158c231fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Financiamento
+- Atividade Ocupacional
 - Beneficiário
-- Instituto do Emprego e Formação Profissional
+- Contrato de Trabalho
+- Deficiente
 - Definição de Competências
 - Desempregado
+- Desemprego
 - Desemprego de Longa Duração
-- Atividade Ocupacional
 - Entidade sem FINS Lucrativos
-- Inserção Profissional
 - Faltas
+- Financiamento
+- Inserção Profissional
+- Instituto do Emprego e Formação Profissional
 - Licença por Maternidade
 - Licença por Paternidade
 - Prestações da Segurança Social
-- Desemprego
-- Rendimento Social de Inserção
 - Proteção no Desemprego
-- Contrato de Trabalho
+- Rendimento Social de Inserção
 - Subsídio Complementar
 - Subsídio de Desemprego
 - Subsídio Social de Desemprego
@@ -92,6 +92,19 @@ relationships:
   target: pt:dre:398490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164429:por
+  label: "Alterados, a partir de 30.01.2014, os arts 4.º, 6.º, 7.º, 8.º , 11.º, 13.º e 17.º da Port 128/2009 de 30-jan, na\
+    \ redação do presente diploma, pela PORT.378-H/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013, que a república\
+    \ \0ca \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-h-2013-164429
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:398490:por
+  label: "Dada nova redação ao 13.º da Port 128/2009 de 30-jan, alterado pelo presente diploma, pela PORT.20-B/2014.30.01.2014.MSESS,\
+    \ DR.IS [21-Supl] de 30.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-b-2014-398490
+  date: '2014-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -132,16 +145,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/128/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/128/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676606:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:00Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +245,9 @@ c) ...
 
 d) Disporem de contabilidade organizada, desde que legalmente exigível, de acordo com as regras do Sistema de Normalização Contabilística aplicável.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As candidaturas devem ser fundamentadas de forma a comprovar, designadamente, que as actividades a desenvolver no âmbito dos projectos:
 
@@ -206,7 +265,9 @@ b) ...
 
 4 - O IEFP, I. P., decide a candidatura no prazo de 15 dias consecutivos, contados a partir da data da sua apresentação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O IEFP, I. P., em articulação com as entidades promotoras de projectos de trabalho socialmente necessário, selecciona os beneficiários a abranger, de entre os desempregados inscritos nos centros de emprego, no prazo de cinco dias úteis após a recepção pelo IEFP, I. P., do termo de aceitação da decisão.
 
@@ -220,7 +281,9 @@ c) ...
 
 d) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +297,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +317,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O contrato cessa no termo do prazo ou da sua renovação, bem como quando o beneficiário:
 
@@ -296,7 +363,9 @@ d) ...
 
 12 - (Anterior redacção do anterior n.º 11.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O desempregado beneficiário de subsídio de desemprego ou de subsídio social de desemprego tem direito a uma bolsa complementar de montante correspondente a 20 % do indexante dos apoios sociais.
 
@@ -314,7 +383,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O IEFP, I. P., define, através de regulamento específico, os elementos procedimentais adicionais que se mostrem necessários à correcta execução da presente medida.
 
@@ -336,7 +407,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 É republicada em anexo à presente portaria, da qual faz parte integrante, a Portaria n.º 128/2009, de 30 de Janeiro, alterada pela Portaria n.º 294/2010, de 31 de Maio, com a redacção actual.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 6 de Abril de 2011.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 6 de Abril de 2011.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

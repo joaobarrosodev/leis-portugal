@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0005600077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89/2024/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-2024-854635719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52683e6695a45ec57d20b2fb36ce46794a7e9559f9a93c222ef731fb56cc97ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7a712ced65888d64cd1fa0b8552468e559ecf9cb53d96e01bbaeba1637d7410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Controlo de Qualidade
-- Regulamentação de Atos Legislativos
 - Especificação Técnica
+- Informação do Consumidor
 - Licenciamento
 - Normas de Construção
 - Oncologia
-- Informação do Consumidor
 - Radioterapia
 - Recursos Humanos
+- Regulamentação de Atos Legislativos
 - Regulamento Interno
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -95,16 +95,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:34/2014
+  label: Revoga, a partir de 12 de março de 2024, nos termos do artigo 20.º do presente diploma, a Portaria n.º 34/2014, de
+    12 de fevereiro, Diário da República n.º 30/2014, Série I
+  source: null
+  date: '2014-02-12'
 article_structure:
   article_count: 24
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:43Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +153,7 @@ O protelamento da publicação das portarias que regulamentam o [Decreto-Lei n.�
 
 Assim:
 
-Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os</sup>1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.os1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -347,7 +369,7 @@ a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do
 
 b) Inibição do exercício da atividade profissional, pela respetiva Ordem ou Associação Profissional, durante o período determinado.
 
-4 - O disposto nos n.<sup>os</sup> 2 e 3 deste artigo deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+4 - O disposto nos n.os 2 e 3 deste artigo deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
 
 ### CAPÍTULO IV — Recursos humanos
 
@@ -511,7 +533,9 @@ Deve existir frigorífico para conservação de medicamentos, dotado de disposit
 
 Sempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.
 
-###### Artigo 22.º — Livro de reclamações
+###### Artigo 22.º
+
+## Livro de reclamações
 
 As unidades de radioncologia estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -525,7 +549,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 1 de março de 2024.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ANEXOS
 
@@ -533,13 +557,13 @@ ANEXOS
 
 Unidades de radioterapia/radioncologia
 
-| Designação | Função do compartimento | Área útil mínima (m<sup>2</sup>) | Largura mínima (m) | Observações |
+| Designação | Função do compartimento | Área útil mínima<br>(m2) | Largura mínima<br>(m) | Observações |
 | --- | --- | --- | --- | --- |
-| Área de Acolhimento (*) | Área de Acolhimento (*) | Área de Acolhimento (*) | Área de Acolhimento (*) | Área de Acolhimento (*) |
+| Área de Acolhimento (*) |  |  |  |  |
 | Receção/secretaria | Secretaria com zona de atendimento de público. | – | – | – |
 | Zona de espera | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria)Para utentes em cama ou maca | – | – | Junto à receção/secretaria. |
 | Instalação sanitária de público | - | – | – | Acessível a pessoas de mobilidade condicionada, com zona de fraldário se existir pediatria. |
-| Área clínica/técnica | Área clínica/técnica | Área clínica/técnica | Área clínica/técnica | Área clínica/técnica |
+| Área clínica/técnica |  |  |  |  |
 | Gabinete de consulta | Elaboração da história clínica dos utentes e observação | 12 | 2.6 | Pode estar integrado em zona de consulta externa, fora do serviço. |
 | Sala de tratamentos de enfermagem | Pensos e outros tratamentos, preparação da pele | 14 |  | – |
 | Sala de TC de simulação (se existir) | Planeamento terapêutico para simular CPS de irradiação | 20 | – | Incluindo vestiário de utentes. |
@@ -552,26 +576,26 @@ Unidades de radioterapia/radioncologia
 | Sala de trabalho de enfermagem | Realização de atividades de enfermagem | 12 | – | – |
 | Sala de dosimetria | Planeamento dosimétrico | 25 | – | – |
 | Sala de equipamentos de dosimetria | Armazenamento de equipamento de dosimetria e controlo da qualidade | – | – | – |
-| Braquiterapia (se existir) | Braquiterapia (se existir) | Braquiterapia (se existir) | Braquiterapia (se existir) | Braquiterapia (se existir) |
+| Braquiterapia (se existir) |  |  |  |  |
 | Desinfeção | Desinfeção de pessoal, anexa à sala de cirurgia de braquiterapia | – | – | Facultativo na situação prevista na alínea e) |
 | Sala de cirurgia de braquiterapia d) e) | Aplicação de técnicas de braquiterapia | 24 | – | – |
 | Vestiário de utentes | Para utentes de cirurgia de braquiterapia, com instalação sanitária e cacifos | – | – | Facultativo na situação prevista na alínea e) |
 | Sala de apoio para especialidades g) | Com área laboratorial para preparação das fontes | 12 | – | Facultativo |
 | Área de armazenamento | Com cofre devidamente blindado para conter as fontes radioativas seladas | – | – | – |
 | Área de resíduos radioativos | Com contentores destinados às fontes removidas dos utentes, para retenção temporária das mesmas, até à sua devolução à procedência | – | – | – |
-| Radiocirurgia em Gamma knife (se existir) f) | Radiocirurgia em Gamma knife (se existir) f) | Radiocirurgia em Gamma knife (se existir) f) | Radiocirurgia em Gamma knife (se existir) f) | Radiocirurgia em Gamma knife (se existir) f) |
+| Radiocirurgia em Gamma knife (se existir) f) |  |  |  |  |
 | Sala de preparação e recobro | Preparação do utente para tratamento e recuperação pós-tratamento | 16 | – | Pode ser comum a outras técnicas realizadas no serviço. |
 | Sala de Gamma Knife | Realização de tratamentos de radiocirurgia craniana | 35 | – | – |
 | Sala de comando | Comando e controlo do equipamento Gamma Knife | – | – | – |
 | Sala de planeamento | Para planeamento do tratamento | 15 | – | Pode ser comum a outras técnicas realizadas no serviço. |
-| Área de pessoal (*) | Área de pessoal (*) | Área de pessoal (*) | Área de pessoal (*) | Área de pessoal (*) |
+| Área de pessoal (*) |  |  |  |  |
 | Gabinete médico | Para trabalho médico/reuniões | – | – | Facultativo |
 | Gabinete de físico | - | – | – | Facultativo |
 | Sala de pessoal | Pausa de pessoal | – | – | Facultativo |
 | Instalação Sanitária de pessoal | Para trabalho/reuniões. |  | – | Pode ser partilhada com um serviço adjacente. |
 | Vestiário de pessoal | - | – | – | Com zona de cacifos. Facultativo caso seja centralizado para toda a unidade. |
 | Vestiário de pessoal (quando existir sala de cirurgia de braquiterapia) | - | – | – | Com zona de cacifos, instalação sanitária e chuveiros para cada sexo com acesso direto à zona operatória. |
-| Área logística (*) | Área logística (*) | Área logística (*) | Área logística (*) | Área logística (*) |
+| Área logística (*) |  |  |  |  |
 | Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
 | Sala de reprocessamento. Sala de descontaminação a) h) | Para limpeza, desinfeção, triagem, montagem e embalamento de dispositivos médicos de uso múltiplo | – | – | A área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos.Pode ser partilhada com serviço de medicina nuclear ou hospital de dia de oncologia se forem adjacentes. |
 | Sala de reprocessamento. Zona limpa a) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por "guichet" ou por máquina de lavar com duas portas | – | – | Pode ser partilhada com serviço de medicina nuclear ou hospital de dia de oncologia se forem adjacentes b) c). |
@@ -619,7 +643,7 @@ Unidades de Radioterapia/Radioncologia
 |  | Sala de comando e controlo/sala de preparação e recobro/sala de recuperação/sala de desinfeção/sala de trabalho de enfermagem | Sala da TC de simulação/Sala de TC de planeamento/sala de tratamentos (3) | Gabinete de Consulta |
 | --- | --- | --- | --- |
 | Tratamento | VC/UI* | VC/UI* | VC/UI* |
-| Caudal de ar novo | 35 m<sup>3</sup>/h. pessoa (1) | 35 m<sup>3</sup>/h. pessoa (1) | (1) |
+| Caudal de ar novo | 35 m3/h. pessoa (1) | 35 m3/h. pessoa (1) | (1) |
 | Condições ambiente | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 22 °C | Verão: máximo 25 °CInverno: mínimo 22 °C |
 | Extração | Geral da radioterapia/radioncologia (2) | Geral da radioterapia/radioncologia (2) | Sim, forçada (2) |
 | Sobrepressão/subpressão | Equilíbrio | Equilíbrio/Subpressão (3) | Equilíbrio |
@@ -632,7 +656,7 @@ Unidades de Radioterapia/Radioncologia
 | Sobrepressão/subpressão | Subpressão | Sobrepressão (15 Pa) | Equilíbrio |
 | Insuflação | Difusores | Difusores com filtragem terminal | Difusores |
 | Caudal de ar recirculado | Sim | Mínimo: 20 rec/h | Sim |
-| Caudal de ar novo mínimo | 12 ren/ h (1) | 100 m<sup>3</sup>/h. pessoa (1) | 12 ren/ h (1) |
+| Caudal de ar novo mínimo | 12 ren/ h (1) | 100 m3/h. pessoa (1) | 12 ren/ h (1) |
 | Diferencial de temperatura | Máximo: 8°C em frio | Máximo: 8 °C em frio | Máximo: 8 °C em frio |
 | Condições ambiente | 20 a 25 °C: 40 a 60 % HR | 20 a 25.ºC: 40 a 60 % HR | 20 a 25 °C: 40 a 60 % HR |
 
@@ -650,9 +674,9 @@ Notas:
 
 (5) Privativo (Equipamento dedicado exclusivamente a um único compartimento/espaço), Específico (Equipamento dedicado a um conjunto específico de compartimentos ou serviço).
 
-| Ventilação - Compartimentos diversos | Ventilação - Compartimentos diversos |
+| Ventilação - Compartimentos diversos |  |
 | --- | --- |
-| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. | Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |
+| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |  |
 | Sala de sujos e despejos | 10 ren/h (2) |
 | Instalações sanitárias | Em conformidade com a legislação em vigor no SCE *(1) |
 | Salas de produtos radioativos | 10 a 20 ren/h (2) |
@@ -669,9 +693,9 @@ Gases medicinais e aspiração
 
 Requisitos mínimos a considerar:
 
-| Local | O2 | N<sub>2</sub>O (1) | Aspiração (vácuo) | Ar comprimido respirável-400 kPa |
+| Número mínimo de tomadas a considerar |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Número mínimo de tomadas a considerar | Número mínimo de tomadas a considerar | Número mínimo de tomadas a considerar | Número mínimo de tomadas a considerar | Número mínimo de tomadas a considerar |
+| Local | O2 | N2O (1) | Aspiração (vácuo) | Ar comprimido respirável-400 kPa |
 | Zona de exames tratamentos |  |  |  |  |
 | Sala de recuperação | 1/cama | – | 1/cama | 1/cama |
 | Sala de cirurgia de braquiterapia | 1/sala | – | 1/sala | 1/sala |
@@ -855,3 +879,5 @@ Observações:
 (1) Em caso de haver braquiterapia em ambulatório.
 
 (*) Opcional.
+
+117429843

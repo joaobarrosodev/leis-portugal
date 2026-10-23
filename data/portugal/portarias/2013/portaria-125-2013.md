@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/125/2013/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-2013-260118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e53fe6c092f5f80e56c1217882f745d70fae63a31c8c2577f158328970355238
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 372128788ef78e7cc536f857e9d9d40803f16a4f8b1e373bc5e39e4b5bac5500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Técnico
-- Financiamento
-- Inspeção Geral de Finanças
-- Fundação
 - Definição de Competências
 - Direcção Geral da Administração e do Emprego Público
+- Financiamento
 - Fiscalização
+- Fundação
+- Inspeção Geral de Finanças
 - Ministro das Finanças
 - Parecer
 - Transferência de Verbas
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/13-a/2013/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13-a/2013/03/08/p/dre
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:41Z'
   warnings: []
   errors: []
 ---
@@ -171,4 +187,4 @@ A presente portaria aplica-se aos pareceres solicitados a partir de 1 de janeiro
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 15 de março de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 15 de março de 2013.

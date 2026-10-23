@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00300/0000300019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/2023/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2023-205689376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74809095c324974df31c011da41ee09f45af96a9591657215c9300744b0095b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee5c74b02f2f1e802589127793b9a2cae421ff903ce8ae1369588dd21ed17795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Código do IRC
 - Código do IRS
+- Contribuições e Impostos
 - Contribuinte
 - Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
-- Contribuições e Impostos
-- IRS
 - Documento Eletrónico
+- Formulário Eletrónico
 - IRC
+- IRS
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:836079148:por
@@ -88,16 +88,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/278/2021/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/278/2021/12/02/p/dre
+- type: cites
+  target: pt:dre:175264442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:836079148:por
+  label: Revogado, a partir de 1 de janeiro de 2024, o presente diploma pelo(a) Portaria n.º 4/2024 - Diário da República
+    n.º 2/2024, Série I de 2024-01-03, nos termos do artigo 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2024-836079148
+  date: '2024-01-03'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:37Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +168,8 @@ A obrigação de entrega da Declaração Modelo 10, prevista o ponto ii) da alí
 
 A presente portaria entra em vigor a 1 de janeiro de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2022.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 29 de dezembro de 2022.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00300/0000300019.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00300/0000300019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00300/0000300019.pdf)
+
+116022167

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/271/2012/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2012-174853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3da20f92d9233c34627dbff82954360d24343a004e63362646ec63b1b0233a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a8b082c7194843827b7ef1a9ef3eaa45d573caa40c011ba100b0a381ad8dc8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
-- Preço
-- Cuidados Médicos
-- Regulamento
 - Cirurgia
+- Cuidados Médicos
+- Preço
+- Regulamento
 - Setor Privado
 - Setor Público
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 relationships:
 - type: amended_by
   target: pt:dre:107669157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70095680:por
+  label: Alterado o art. 4.º do Regulamento das Tabelas de Preços a praticar para a produção adicional realizada no âmbito
+    do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC), aprovado como Anexo I à presente portaria pelo(a) Portaria
+    n.º 260-B/2015 - Diário da República n.º 164/2015, 1º Suplemento, Série I de 2015-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-b-2015-70095680
+  date: '2015-08-24'
+- type: amended_by
+  target: pt:dre:73462826:por
+  label: Aditado o art. 2.º-B ao Regulamento das Tabelas de Preços a Praticar para a Produção Adicional Realizada no Âmbito
+    do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) aprovado como Anexo I ao presente diploma pelo(a) Portaria
+    n.º 18/2016 - Diário da República n.º 26/2016, Série I de 2016-02-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-2016-73462826
+  date: '2016-02-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -88,16 +102,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/852/2009/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/852/2009/08/07/p/dre
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191080:por
+  label: "Revogado o nº 15 do art. 7º do Regulamento das tabelas de preços a praticar para a produção adicional realizada\
+    \ no âmbito do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) pela PORT.381/2012.22.11.2012.MS, DR.IS\
+    \ [226] de 22.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-2012-191080
+  date: '2012-11-22'
+- type: repealed_by
+  target: pt:dre:107669157:por
+  label: Revogada pelo(a) Portaria n.º 207/2017 - Diário da República n.º 132/2017, Série I de 2017-07-11, nos termos do seu
+    art. 4
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2017-107669157
+  date: '2017-07-11'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:19Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +171,7 @@ São aprovados como anexo iii à presente portaria, da qual fazem parte integran
 
 A presente portaria produz efeitos cinco dias após a sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 22 de agosto de 2012.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 22 de agosto de 2012.
 
 ## ANEXO I
 
@@ -342,8 +373,8 @@ m) Eletrocardiograma.
 
 Preço base - (euro) 1326,49
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)
 
 ## ANEXO III — Procedimentos que permitem o acréscimo relativamente aos preços previstos no anexo ii
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)

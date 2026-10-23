@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07401/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189-a/2025/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-a-2025-915234326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af9800687705bb5a8351e9eb284a528e0d1fd84d0de50ab7d6bcfd143fa515e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef398619a16e5e71f5e4c70c2a2b9b87bcbcefc435002c96edcee2daf32b8c29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura Biológica
 - Ajuda Comunitária
 - Direção Geral de Agricultura e Desenvolvimento Rural
+- Exploração Agrícola
 - Financiamento
-- Regulamentação de Atos Legislativos
-- Agricultura Biológica
 - IFAP
 - Instituto Português de Acreditação
-- Exploração Agrícola
-- Produção Agrícola
-- Regulamento CE
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Produção Agrícola
+- Regulamentação de Atos Legislativos
+- Regulamento CE
 relationships:
+- type: amends
+  target: pt:numero:portaria:360/2024
+  label: Altera, a partir de 16 de abril de 2025, com efeitos a 1 de janeiro de 2025, os anexos IV, VI e VII da Portaria n.º
+    360/2024/1, de 30 de dezembro, Diário da República n.º 252/2024, Série I
+  source: null
+  date: '2024-12-30'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -93,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/360/2024/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/360/2024/12/30/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536092:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:17Z'
   warnings: []
   errors: []
 ---
@@ -133,69 +147,77 @@ Os anexos IV, VI e VII passam a ter a seguinte redação:
 
 [...]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
+| Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
 |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| Arroz (<sup>4</sup>) | Arroz (<sup>4</sup>) | Arroz (<sup>4</sup>) | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| Arroz (4) | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
 
 [...]
 
-(<sup>4</sup>) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.
+(4) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.
 
-## ANEXO VI — [...]
+ANEXO VI
 
 [...]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
+[...]
+
+| Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
 |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| Arroz (<sup>6</sup>) |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| Arroz (6) |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
 
 [...]
 
-(<sup>6</sup>) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.
+(6) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.
 
-## ANEXO VII — [...]
+ANEXO VII
 
 [...]
 
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |
+[...]
+
+| Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupos de pagamento | Grupos de pagamento | Grupos de pagamento | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Montantes de apoio por escalão de área (€/ha) | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio | Escalões de área (ha) para efeito de modulação do apoio |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. | 1.º esc. | 2.º esc. | 3.º esc. | 4.º esc. |  |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
 |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| Arroz (<sup>6</sup>) | Arroz (<sup>6</sup>) | Arroz (<sup>6</sup>) | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+|  | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| Arroz (6) | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |  |
 
 [...]
 
-(<sup>6</sup>) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.»
+(6) Inclui superfícies adjacentes a terra arável, declaradas como elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura.»
 
 ###### Artigo 3.º — Entrada em vigor e produção de efeitos
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025.
 
-**O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 14 de abril de 2025.**
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 14 de abril de 2025.
+
+118950123
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:26px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:18px; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

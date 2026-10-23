@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09200/0247202475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137/2012/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-2012-552036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb2c3dc518e83c443cfb30632e7d1ddf165d2c35fd7febc1bfa25c45bd79af23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9267b5be16a74672a1f944299c5fed403fec0207236688d69aa2ff54b045cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
 - CAÇA
+- Calendário Venatório
 relationships:
 - type: amended_by
   target: pt:dre:67250271:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230942:por
+  label: "Aditado o art. 3.º-A pela PORT.265-A/2013.16.08.2013.MAGM, DR.IS [157-Supl] de 16.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-a-2013-230942
+  date: '2013-08-16'
+- type: amended_by
+  target: pt:dre:494809:por
+  label: "Alterado o art. 3.º-A do presente diploma, aditado pela Port 265-A/2013 de 16-ago, pela PORT.301/2013.14.10.2013.MAGM,\
+    \ DR.IS [198] de 14.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-2013-494809
+  date: '2013-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
   label: null
@@ -105,16 +116,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/260-b/2011/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/260-b/2011/08/12/p/dre
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250271:por
+  label: Revogada pelo(a) Portaria n.º 142/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-2015-67250271
+  date: '2015-05-21'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:29Z'
   warnings: []
   errors: []
 ---
@@ -293,6 +345,6 @@ A presente portaria é passível de revisão anual para introdução de alteraç
 
 Esta portaria produz efeitos a partir do dia 1 de junho de 2012.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 7 de maio de 2012.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, José Daniel Rosas Campelo da Rocha, em 7 de maio de 2012.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09200/0247202475.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09200/0247202475.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09200/0247202475.pdf)

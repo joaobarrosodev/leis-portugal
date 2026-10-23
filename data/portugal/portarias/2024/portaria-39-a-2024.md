@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 23/2024, 1º Suplemento, Série I de 2024-02-01
   number: '23'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 16-(2) a 16-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02301/0000200014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39-a/2024/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-a-2024-839926119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b689c196c4bf9bfc8c744a97215eedb48126fafe34f84f97e3db68c079557c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b137a87208cf152024a0bde9e6a316aab86f3ffda0a451c4e6c991f1607a9eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Bolsa de Formação
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Certificação Profissional
-- Refugiado
-- Toxicodependente
-- Rendimento Social de Inserção
-- Política de Emprego
-- Contrato de Trabalho
-- Violência Doméstica
-- Medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde
 - ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
+- Bolsa de Formação
+- Certificação Profissional
+- Contrato de Trabalho
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Medida de Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde
+- Política de Emprego
+- Refugiado
+- Rendimento Social de Inserção
+- Toxicodependente
+- Violência Doméstica
 relationships:
+- type: amends
+  target: pt:numero:portaria:38/2022
+  label: Altera, a partir de 2 de fevereiro de 2024, os artigos 3.º, 4.º, 6.º, 7.º, 11.º e 18.º, revoga as alíneas a) e b)
+    do n.º 4 do artigo 6.º e o artigo 21.º e republica, em anexo, a Portaria n.º 38/2022, de 17 de janeiro, Diário da República
+    n.º 11/2022, Série I
+  source: null
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
   label: null
@@ -119,16 +125,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/2009/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/2009/07/23/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179899186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184350761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215086004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55032402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:150/2014
+  label: Revoga, a partir de 2 de fevereiro de 2024, a Portaria n.º 150/2014, de 30 de julho, Diário da República n.º 145/2014,
+    Série I
+  source: null
+  date: '2014-07-30'
+- type: repeals
+  target: pt:numero:portaria:207/2020
+  label: Revoga, a partir de 2 de fevereiro de 2024, a Portaria n.º 207/2020, de 27 de agosto, Diário da República n.º 167/2020,
+    Série I
+  source: null
+  date: '2020-08-27'
+- type: repeals
+  target: pt:numero:portaria:154-A/2022
+  label: Revoga, a partir de 2 de fevereiro de 2024, a Portaria n.º 154-A/2022, de 2 de junho, Diário da República n.º 107/2022,
+    1º Suplemento, Série I
+  source: null
+  date: '2022-06-02'
+- type: repeals
+  target: pt:numero:portaria:109/2023
+  label: Revoga, a partir de 2 de fevereiro de 2024, o artigo 4.º da Portaria n.º 109/2023, de 19 de abril, Diário da República
+    n.º 77/2023, Série I
+  source: null
+  date: '2023-04-19'
 article_structure:
-  article_count: 32
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:24Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +283,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São requisitos para a concessão dos apoios financeiros os seguintes:
 
@@ -201,7 +301,9 @@ e) A observância do previsto em termos de retribuição no respetivo instrument
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +355,9 @@ r) [...]
 
 7 - Os contratos de trabalho celebrados com jovens com idade igual ou inferior a 35 anos, com qualificação de nível 5, 6, 7 ou 8 do Quadro Nacional de Qualificações, nos termos da [Portaria n.º 782/2009](https://diariodarepublica.pt/dr/detalhe/portaria/782-2009-493227), de 23 de julho, apenas poderão ser objeto de apoio através do Programa AVANÇAR, nos termos da [Portaria n.º 187/2023](https://diariodarepublica.pt/dr/detalhe/portaria/187-2023-215086004), de 3 de julho, na sua redação atual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º e no artigo anterior, são elegíveis os contratos de trabalho celebrados sem termo e cuja retribuição base estabelecida seja igual ou superior a duas vezes o valor do indexante dos apoios sociais.
 
@@ -263,7 +367,9 @@ a) Entre entidade empregadora ou entidade pertencente ao mesmo grupo empresarial
 
 b) Com desempregado que tenha frequentado um estágio financiado pelo IEFP, I. P., na mesma entidade ou entidade pertencente ao mesmo grupo empresarial nos 12 meses anteriores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -291,7 +397,9 @@ f) [...]
 
 7 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 A presente medida é passível de financiamento comunitário, sendo-lhe aplicáveis as respetivas disposições do direito comunitário e nacional.»
 
@@ -317,7 +425,7 @@ e) A [Portaria n.º 154-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 31 de janeiro de 2024.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 31 de janeiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -680,3 +788,5 @@ A presente medida é passível de financiamento comunitário, sendo-lhe aplicáv
 ###### Artigo 22.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+117312595

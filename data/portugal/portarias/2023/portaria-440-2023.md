@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/440/2023/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-2023-378285220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34a27fd893576aa8619a420500e58726cc49844df96b28cdc54bffd0825181e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 618b083a1fefd3e13bc9a890f367cf3e8af0ef2d8edf0861aef86a22094e65dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+- type: cites
+  target: pt:dre:208087600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:17Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +163,7 @@ b) A moeda designada «Capitais Ibero-Americanas, Lisboa» apresenta no anverso 
 
 c) A moeda designada «Liberdade, liberdade!» apresenta no anverso, ao centro, a representação de um cravo à esquerda do qual se inscrevem a legenda «Portugal» e as datas «25.04.1974» e «25.04.2024», na orla à esquerda a indicação do autor, o valor facial, cinco escudetes, a legenda «Casa da Moeda», e à direita o verso «Esta é a madrugada que eu esperava» e «in 'O Nome das Coisas'», Sophia de Mello Breyner Andresen. No reverso ao centro a representação do mesmo cravo circundado por cinquenta círculos excêntricos;
 
-d) A moeda designada «UEFA Euro 2024» apresenta no anverso a representação estilizada de um estádio, figurando na parte superior a cobertura com o escudo nacional e a esfera armilar ao centro, de onde emanam duas faixas, representando as bancadas, e no eixo central o campo de futebol com o logótipo oficial do evento «UEFA EURO 2024[([ver documento original](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf))](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» por baixo, no lado esquerdo o valor facial e no lado direito a legenda «Portugal»; no reverso, ocupando o campo central, apresentando-se ao centro uma bola, ladeada por dois pés de jogador com duas faixas derivando de cada um deles, na parte superior do campo central apresenta-se a legenda «UEFA EURO 2024[([ver documento original](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf))](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» e na parte inferior direita a legenda «Casa da Moeda» e a indicação do autor. A versão em prata com acabamento especial do tipo «Prova numismática» (proof) apresenta apontamentos de cor;
+d) A moeda designada «UEFA Euro 2024» apresenta no anverso a representação estilizada de um estádio, figurando na parte superior a cobertura com o escudo nacional e a esfera armilar ao centro, de onde emanam duas faixas, representando as bancadas, e no eixo central o campo de futebol com o logótipo oficial do evento «UEFA EURO 2024[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» por baixo, no lado esquerdo o valor facial e no lado direito a legenda «Portugal»; no reverso, ocupando o campo central, apresentando-se ao centro uma bola, ladeada por dois pés de jogador com duas faixas derivando de cada um deles, na parte superior do campo central apresenta-se a legenda «UEFA EURO 2024[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» e na parte inferior direita a legenda «Casa da Moeda» e a indicação do autor. A versão em prata com acabamento especial do tipo «Prova numismática» (proof) apresenta apontamentos de cor;
 
 e) A moeda designada «Luís de Camões, 1524» apresenta no anverso, no campo central, o escudo nacional à esquerda do valor facial, circundado pela legenda «República Portuguesa», o ano «2024» e por baixo a legenda «Casa da Moeda» e a indicação do autor; o reverso apresenta no campo central a efígie estilizada do poeta cego, com uma coroa de louros e uma gola típica do século xvi, circundado à esquerda pela legenda «Luís de Camões» e à direita pelo ano «1524». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem apontamentos de cor;
 
@@ -257,4 +265,6 @@ j) Relativamente à moeda «Pac-Man», o limite é de (euro) 20 000 (vinte mil e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 12 de dezembro de 2023.**
+O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 12 de dezembro de 2023.
+
+117165345

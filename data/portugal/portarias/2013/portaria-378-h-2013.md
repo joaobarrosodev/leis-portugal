@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(370) a 7056-(376)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0037000376.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-h/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3f88a9bec5eafdab1338b19c2dde8fccc4c6b9bc0aee68fff938e4300512961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bbe10cd308404e8b01b02750161da4450df4b9274ad9491a90eb0747adfe72e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Atividade Ocupacional
 - Beneficiário
-- Instituto do Emprego e Formação Profissional
 - Contrato
 - Desempregado
-- Atividade Ocupacional
-- Inserção Profissional
 - Desemprego
-- Rendimento Social de Inserção
 - Emprego
+- Inserção Profissional
 - Inserção Social
+- Instituto do Emprego e Formação Profissional
 - Política de Emprego
 - Proteção no Desemprego
 - Proteção Social
+- Rendimento Social de Inserção
 - Sector Empresarial Local
 - Subsídio de Desemprego
 - Subsídio Social de Desemprego
@@ -87,6 +87,12 @@ relationships:
   target: pt:dre:398490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:398490:por
+  label: "Dada nova redação aos arts. 5.º-A , 13.º e 14.º da Port 128/2009 de 30-jan, alterada pelo presente diploma, pela\
+    \ PORT.20-B/2014.30.01.2014.MSESS, DR.IS [21-Supl] de 30.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-b-2014-398490
+  date: '2014-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2013/01/25/p/dre
   label: null
@@ -127,16 +133,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/128/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/128/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:09Z'
   warnings: []
   errors: []
 ---
@@ -169,11 +227,15 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 11.º, 13.º, 14.º e
 
 A presente portaria regulamenta as medidas 'Contrato emprego-inserção' e 'Contrato emprego-inserção+', através das quais é desenvolvido trabalho socialmente necessário.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Considera-se trabalho socialmente necessário a realização, por desempregados inscritos no Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), de atividades que satisfaçam necessidades sociais ou coletivas temporárias.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -183,7 +245,9 @@ b) [...];
 
 c) A satisfação de necessidades sociais ou coletivas, em particular ao nível local ou regional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -205,7 +269,9 @@ c) Terem a sua situação regularizada no que respeita a apoios comunitários ou
 
 d) Disporem de contabilidade organizada de acordo com o previsto na lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O IEFP, I. P., em articulação com as entidades promotoras de projetos de trabalho socialmente necessário, seleciona os beneficiários a abranger, de entre os desempregados nele inscritos, no prazo de cinco dias úteis após a receção pelo IEFP, I. P., do termo de aceitação da decisão.
 
@@ -223,7 +289,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -239,7 +307,9 @@ d) [...].
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -257,7 +327,9 @@ b) No caso dos desempregados referidos nos n.os 2 e 3 do artigo 5.º-A, contrato
 
 6 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - No exercício das atividades integradas num projeto de trabalho socialmente necessário é aplicável ao beneficiário o regime da duração e horário de trabalho, descansos diário e semanal, feriados, faltas e segurança e saúde no trabalho aplicável à generalidade dos trabalhadores da entidade promotora.
 
@@ -273,7 +345,9 @@ b) No caso dos desempregados referidos nos n.os 2 e 3 do artigo 5.º-A, contrato
 
 7 - (Anterior n.º 3.)
 
-###### Artigo 11.º — Cessação ou suspensão do contrato
+Artigo 11.º
+
+Cessação ou suspensão do contrato
 
 1 - [...]:
 
@@ -321,7 +395,9 @@ b) Não é devida a bolsa e os outros apoios previstos no contrato, salvo a bols
 
 12 - Nos casos aplicáveis, o IEFP, I. P., comunica de imediato a cessação do contrato ao centro distrital de segurança social competente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -341,7 +417,9 @@ b) 20% do IAS a cargo da entidade promotora e o restante pelo IEFP, I. P., no ca
 
 7 - A comparticipação financeira do IEFP, I. P., prevista nos números anteriores pode ser substituída, mediante despacho do membro do Governo responsável pela área do emprego, por uma forma de comparticipação baseada na modalidade de custos unitários, por mês e por beneficiário.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -353,7 +431,9 @@ b) Refeição ou subsídio de alimentação, conforme praticado para a generalid
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -403,7 +483,7 @@ A presente portaria entra em vigor 30 dias após a sua publicação.
 
 É republicada em anexo à presente portaria, da qual faz parte integrante, a Portaria n.º 128/2009, de 30 de janeiro, alterada pela Portaria n.º 294/2010, de 31 de maio, e pela Portaria n.º 164/2011, de 18 de abril, com as alterações agora introduzidas.
 
-**O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 30 de dezembro de 2013.**
+O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 30 de dezembro de 2013.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

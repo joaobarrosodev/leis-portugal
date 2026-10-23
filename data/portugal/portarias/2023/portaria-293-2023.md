@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293/2023/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-2023-222283514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b7e32f29e99d0c67c6e8b76e06e5f02c95501b3957b4f081b9574a8dfc9fc4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a2c437eeb3901e9d10889ead02155b92e9e1401c4072b440f53e56b85d0ca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Combustível
+- Comércio
+- Contribuições e Impostos
+- Gasóleo
 - Política Fiscal
 - Produto Petrolífero
-- Combustível
-- Gasóleo
-- Contribuições e Impostos
 - Regulamento
 - Taxa
-- Comércio
 relationships:
 - type: cites
   target: celex:31995L0060
@@ -116,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/463/2004/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/463/2004/05/04/p/dre
+- type: cites
+  target: pt:dre:213132930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642497:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:26Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +164,7 @@ Neste âmbito, foi publicada a [Portaria n.º 1509/2002](https://diariodarepubli
 
 De acordo com o artigo 2.º da Decisão de Execução (UE) [2017/74](https://data.europa.eu/eli/dec/2017/74/oj?locale=pt), esta seria objeto de reexame, atendendo à evolução técnica no domínio dos sistemas de marcação e à necessidade de combater a utilização fraudulenta de produtos energéticos isentos ou sujeitos a taxa reduzida do imposto especial sobre o consumo.
 
-Realizado o processo de reexame, mediante a Decisão de Execução (UE) [2022/197](https://data.europa.eu/eli/dec/2022/197/oj?locale=pt), de 17 de janeiro de 2022, a Comissão estabeleceu como marcador fiscal comum, na aceção da [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt), o ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS em substituição do Solvent Yellow 124. A concentração do marcador foi estabelecida num intervalo harmonizado, a fim de facilitar a aplicação e o controlo do cumprimento em toda a União. Simultaneamente previu-se que, durante um período transitório, que termina em 18 de janeiro de 2024, os Estados-Membros podem utilizar indiferentemente Solvent Yellow 124 ou ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS.
+Realizado o processo de reexame, mediante a Decisão de Execução (UE) [2022/197](https://data.europa.eu/eli/dec/2022/197/oj?locale=pt), de 17 de janeiro de 2022, a Comissão estabeleceu como marcador fiscal comum, na aceção da [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt), o ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS em substituição do Solvent Yellow 124. A concentração do marcador foi estabelecida num intervalo harmonizado, a fim de facilitar a aplicação e o controlo do cumprimento em toda a União. Simultaneamente previu-se que, durante um período transitório, que termina em 18 de janeiro de 2024, os Estados-Membros podem utilizar indiferentemente Solvent Yellow 124 ou ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS.
 
 Acresce que, através da [Lei n.º 20/2023](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), de 17 de maio, foi alterada a redação dos n.os 1 e 6 do artigo 93.º do Código dos Impostos Especiais de Consumo e, bem assim, foram revogados os n.os 2 e 4 do mesmo artigo. Como resultado, foram eliminadas do mencionado artigo 93.º as referências ao gasóleo de aquecimento e ao petróleo colorido e marcado como produtos aos quais são aplicadas taxas reduzidas de imposto. Torna-se, assim, desnecessária a marcação e coloração destes dois produtos, face aos objetivos traçados pela [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt), do Conselho, de 27 de novembro.
 
@@ -164,11 +184,11 @@ c) À aprovação do Regulamento dos Procedimentos de Controlo da Utilização d
 
 ###### Artigo 2.º — Marcação e coloração
 
-1 - A marcação e a coloração do gasóleo, excetuando o gasóleo de aquecimento, classificado nas subposições 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19, previstas no n.º 1 do artigo 93.º do Código dos Impostos Especiais de Consumo (CIEC), é feita, por cada 1000 l de produto a 15ºC, com um mínimo de 12,5 g e um máximo de 18,75 g do marcador ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS e com um mínimo de 5 g de um corante azul.
+1 - A marcação e a coloração do gasóleo, excetuando o gasóleo de aquecimento, classificado nas subposições 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19, previstas no n.º 1 do artigo 93.º do Código dos Impostos Especiais de Consumo (CIEC), é feita, por cada 1000 l de produto a 15ºC, com um mínimo de 12,5 g e um máximo de 18,75 g do marcador ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS e com um mínimo de 5 g de um corante azul.
 
 2 - A concentração indicada no número anterior corresponde a uma concentração do marcador não inferior a 9,5 g de butoxibenzeno por 1000 l e não superior a 14,25 g de butoxibenzeno por 1000 l de gasóleo.
 
-3 - O gasóleo colorido e marcado introduzido no consumo após 18 de janeiro de 2024 deve encontrar-se marcado com ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, nos termos definidos nos números anteriores, ainda que também contenha Solvent Yellow 124.
+3 - O gasóleo colorido e marcado introduzido no consumo após 18 de janeiro de 2024 deve encontrar-se marcado com ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, nos termos definidos nos números anteriores, ainda que também contenha Solvent Yellow 124.
 
 ###### Artigo 3.º — Aquisição de marcador e corante
 
@@ -202,11 +222,11 @@ b) A verificação dos correspondentes registos nas contas correntes do marcador
 
 ###### Artigo 7.º — Período transitório
 
-1 - Até 18 de janeiro de 2024 os depositários autorizados podem introduzir no consumo gasóleo marcado, indiferentemente, com Solvent Yellow 124 ou com ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, como marcador fiscal comum na aceção da [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt).
+1 - Até 18 de janeiro de 2024 os depositários autorizados podem introduzir no consumo gasóleo marcado, indiferentemente, com Solvent Yellow 124 ou com ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, como marcador fiscal comum na aceção da [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt).
 
 2 - Para ser considerado como marcado com o marcador fiscal comum na aceção da [Diretiva 95/60/CE](https://data.europa.eu/eli/dir/1995/60/oj?locale=pt), o gasóleo colorido e marcado introduzido no consumo até 18 de janeiro de 2024, deve cumprir uma das seguintes condições:
 
-a) Em caso de utilização de ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, deve ser cumprido o disposto no artigo 2.º;
+a) Em caso de utilização de ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS, deve ser cumprido o disposto no artigo 2.º;
 
 b) Em caso de utilização de Solvent Yellow 124, deve ser cumprido o disposto no n.º 1.º da [Portaria n.º 1509/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1509-2002-405907), de 17 de dezembro, na redação que lhe foi conferida pela [Portaria n.º 463/2004](https://diariodarepublica.pt/dr/detalhe/portaria/463-2004-302102), de 4 de maio.
 
@@ -228,7 +248,7 @@ b) Em caso de utilização de Solvent Yellow 124, deve ser cumprido o disposto n
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 26 de setembro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 26 de setembro de 2023.
 
 ## ANEXO — REGULAMENTO DOS PROCEDIMENTOS DE CONTROLO DA UTILIZAÇÃO DO GASÓLEO COLORIDO E MARCADO
 
@@ -246,6 +266,8 @@ b) A amostra n.º 3 é entregue ao proprietário ou utilizador da viatura autom�
 
 c) As amostras n.º 1 e 2 devem ser remetidas à Direção de Serviços Técnicos, Análises e Laboratório da Autoridade Tributária e Aduaneira para análise quantitativa.
 
-5 - Para além da análise efetuada pela Direção de Serviços Técnicos, Análises e Laboratório da Autoridade Tributária e Aduaneira, as autoridades aduaneiras e policiais podem utilizar equipamentos portáteis para deteção da presença do marcador ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS no produto controlado.
+5 - Para além da análise efetuada pela Direção de Serviços Técnicos, Análises e Laboratório da Autoridade Tributária e Aduaneira, as autoridades aduaneiras e policiais podem utilizar equipamentos portáteis para deteção da presença do marcador ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS no produto controlado.
 
-6 - A deteção da presença do marcador ACCUTRACE[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS mediante a utilização de equipamento portátil não substitui a recolha de amostras nos termos previstos nos n.os 3 e 4, e subsequente análise pela Direção de Serviços Técnicos, Análises e Laboratório da Autoridade Tributária e Aduaneira.
+6 - A deteção da presença do marcador ACCUTRACE[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/19100/0000200005.pdf) PLUS mediante a utilização de equipamento portátil não substitui a recolha de amostras nos termos previstos nos n.os 3 e 4, e subsequente análise pela Direção de Serviços Técnicos, Análises e Laboratório da Autoridade Tributária e Aduaneira.
+
+116895819

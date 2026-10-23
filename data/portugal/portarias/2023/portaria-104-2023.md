@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07300/0000300031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/104/2023/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-2023-211711524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4e198b9648abdc773f6721fb29f70003c9402f7d863795ded1b262593236c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25441e21355b0dc256735d2f8e67845dbc3c7f2ea7ac7a06538caf8bde032e5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Comissão Nacional de Acesso ao Ensino Superior
-- Regulamentação de Atos Legislativos
 - Concurso Nacional de Acesso e Ingresso
+- Direção Geral do Ensino Superior
+- Ensino Superior
 - Ensino Superior Politécnico
 - Formulário Eletrónico
-- Direção Geral do Ensino Superior
-- Proteção ao Deficiente
 - Madeira.região Autónoma
+- Proteção ao Deficiente
+- Regulamentação de Atos Legislativos
 - Regulamento
-- Ensino Superior
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -118,16 +118,184 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:105322292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136237681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:14Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +326,7 @@ Ao abrigo do artigo 28.º do [Decreto-Lei n.º 296-A/98](https://diariodarepubli
 
 Esta portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 6 de abril de 2023.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 6 de abril de 2023.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LETIVO DE 2023-2024
 
@@ -1315,3 +1483,5 @@ Compete à Direção-Geral do Ensino Superior prestar todo o apoio necessário a
 ###### Artigo 10.º — Encargos
 
 Todos os encargos decorrentes do funcionamento da Comissão de Peritos e do processo de análise das candidaturas, nomeadamente os referentes a exames determinados pela Comissão para a análise funcional das capacidades dos candidatos, a refeições e deslocações dos membros da Comissão para a realização de entrevistas e reuniões, são suportados pelas verbas adequadas do orçamento da Direção-Geral do Ensino Superior.
+
+116353871

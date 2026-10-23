@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03300/0002500027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/41/2025/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-2025-907629895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb8a0f95d2ef59eb4d8cf70ceccf02d9629352047e45dba5c7e7e762fd3987e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ed078d5886f70919d1776e6e22f7ac3b0bc23ef76d69a4119a5986536258320
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Contabilidade
+- Empresa
 - Imposto sobre o Rendimento
-- Sistema de Normalização Contabilística
-- Normas Internacionais de Contabilidade
-- Tributação
 - Normalização
+- Normas Internacionais de Contabilidade
+- Sistema de Normalização Contabilística
+- Tributação
 relationships:
+- type: amends
+  target: pt:numero:portaria:220/2015
+  label: Altera, a partir de 18 de fevereiro de 2025, com efeitos relativamente aos períodos que tenham início em ou após
+    1 de janeiro de 2024 (com exceção dos que terminem antes de 18 de fevereeiro de 2025), o ponto 27 do Anexo 6 a que se
+    refere a alínea f) do artigo 2.º da Portaria n.º 220/2015, de 24 de julho, Diário da República n.º 143/2015, Série I
+  source: null
+  date: '2015-07-24'
 - type: cites
   target: celex:32002R1606
   label: null
@@ -98,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/220/2015/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/220/2015/07/24/p/dre
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895990687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905831228:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:36Z'
   warnings: []
   errors: []
 ---
@@ -196,4 +219,6 @@ ii) Uma indicação do modo como a taxa média efetiva de imposto da entidade te
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos relativamente aos períodos que tenham início em ou após 1 de janeiro de 2024, com exceção dos que terminem antes da data da sua entrada em vigor.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 11 de fevereiro de 2025.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 11 de fevereiro de 2025.
+
+118684493

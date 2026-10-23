@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-2025-909476476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d471c8eaa8f2acd7a4f582f609021ed78b13d82411e75f60a4eac7bd9ac1179f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfff9b5490c8dbd5efb157d65472361a0e2c78fdac3b81bdb0d669291621e818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Algarve
-- Pesca
+- Comité de Cogestão
 - Gestão
 - Lagos
 - Molusco
+- Pesca
 - Pesca por ARTE de Armadilha
 - Vila Real de Santo António
-- Comité de Cogestão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/84/2024/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/84/2024/03/06/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202709177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215874584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854169897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868636240:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:16Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +182,7 @@ O Comité de Cogestão para a pesca do polvo (Octopus vulgaris) no Algarve gere 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 25 de fevereiro de 2025.**
+A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 25 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -230,10 +250,10 @@ Limite: valor a partir do qual é necessária intervenção ao nível da gestão
 
 Objetivo: valor ideal (pode ser mínimo ou máximo dependendo do indicador).
 
-| Objetivo de gestão | Indicador(es) de desempenho | Limites | Objetivo |
+| Objetivo de gestão | Indicador(es) de desempenho | Linha(s) vermelha(s) |  |
 | --- | --- | --- | --- |
-| Objetivo de gestão | Indicador(es) de desempenho | Linha(s) vermelha(s) | Linha(s) vermelha(s) |
-| 1 - Sustentabilidade | Proporção de polvos pequenos [T3 (<sup>1</sup>)] nos desembarques entre setembro e dezembro. | 30 % dos desembarques (dados da Docapesca de desembarques em lota em peso) entre setembro e dezembro constituídos por polvos de tamanho T3 (entre 750 g a 1 kg).Definir linhas vermelhas adicionais para delimitação das áreas de proteção de juvenis no seio do Comité com base em informação científica disponível. | Mínimo 37 % de T3.Definir linhas vermelhas adicionais para delimitação de áreas de proteção de juvenis no seio do Comité com base em informação científica disponível. |
+| Limites | Objetivo |  |  |
+| 1 - Sustentabilidade | Proporção de polvos pequenos [T3 (1)] nos desembarques entre setembro e dezembro. | 30 % dos desembarques (dados da Docapesca de desembarques em lota em peso) entre setembro e dezembro constituídos por polvos de tamanho T3 (entre 750 g a 1 kg).Definir linhas vermelhas adicionais para delimitação das áreas de proteção de juvenis no seio do Comité com base em informação científica disponível. | Mínimo 37 % de T3.Definir linhas vermelhas adicionais para delimitação de áreas de proteção de juvenis no seio do Comité com base em informação científica disponível. |
 | 2 - Regras e controlo | A definir no seio do Comité com base na informação disponível. | A definir no seio do Comité com base na informação disponível. | A definir no seio do Comité com base na informação disponível. |
 | 3 - Valorização | A definir no seio do Comité com base na informação disponível. | A definir no seio do Comité com base na informação disponível. | A definir no seio do Comité com base na informação disponível. |
 | 4 - Governança interna | Constituição da Comissão Executiva e da Estrutura de Apoio ao Facilitador, ambas as figuras previstas e regulamentadas na Portaria n.º 84/2024/1. | A definir no seio do Comité com base na informação disponível. | Realização do número mínimo de reuniões, duas, nos termos previstos e a apresentação dos relatórios anuais, nomeadamente relativos a contas, também previstos. |
@@ -382,7 +402,7 @@ Esta medida contribui para os seguintes objetivos de gestão:
 
 É objetivo do Comité a comercialização e valorização do polvo (Octopus vulgaris) do Algarve, através de um esquema de certificação. Assim, e como primeiro passo, é importante avaliar-se a possibilidade de obtenção de uma certificação.
 
-Apesar de já ter sido feita uma pré-avaliação para esta pescaria no âmbito do projeto científico INTERREG Cephs and Chefs (<sup>2</sup>)no que diz respeito à certificação MSC, chegou-se à conclusão que a pesca de polvo no Algarve carecia de mais dados e de trabalho em algumas áreas, nomeadamente no «cumprimento generalizado das medidas de gestão, de existirem consideráveis desembarques de indivíduos de polvo abaixo do tamanho mínimo e na inexistência de uma avaliação formal do stock».
+Apesar de já ter sido feita uma pré-avaliação para esta pescaria no âmbito do projeto científico INTERREG Cephs and Chefs (2)no que diz respeito à certificação MSC, chegou-se à conclusão que a pesca de polvo no Algarve carecia de mais dados e de trabalho em algumas áreas, nomeadamente no «cumprimento generalizado das medidas de gestão, de existirem consideráveis desembarques de indivíduos de polvo abaixo do tamanho mínimo e na inexistência de uma avaliação formal do stock».
 
 No entanto, com a implementação da cogestão, assume-se que estes pontos serão ultrapassados, propondo-se estudar a possibilidade de nova avaliação e trabalhar para obter a certificação. É de ressalvar que outras certificações, nomeadamente uma certificação de origem, poderiam ser também uma mais-valia para a pescaria e o recurso.
 
@@ -470,8 +490,10 @@ Medida C.7: Determinar os métodos de pesca admissíveis e proibir o uso de cert
 
 Medida C.8: Determinar o número máximo anual de licenças e dias de pesca, no quadro das competências do Comité
 
-(<sup>1</sup>) T3: classe de tamanho de venda em lota compreendida por polvos com peso entre os 750 g e 1 kg.
+(1) T3: classe de tamanho de venda em lota compreendida por polvos com peso entre os 750 g e 1 kg.
 
-(<sup>2</sup>) Ver mais aqui:
+(2) Ver mais aqui:
 
 https://www.cephsandchefs.com/wp-content/uploads/2020/04/Algarve-octopus-fishery-MSC-pre-assessment-FINAL.pdf.
+
+118744173

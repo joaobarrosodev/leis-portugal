@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230/2013/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2013-497825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4414e124fd07082acb1fe76a793bf73e336d914854cfd5d4e17914d184e3b8d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 123953825d78fd74501493eadcf6996ffd2a18ea503fb07548bedcb5febcc4bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/145/2012/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/145/2012/05/16/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:16Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +178,9 @@ Os artigos 4.º e 5.º da Portaria n.º 145/2012, de 16 de maio, alterada pela P
 
 O número máximo de unidades orgânicas flexíveis da IGEC é fixado em dois.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A dotação máxima de chefes de equipas multidisciplinares é fixada em nove.»
 
@@ -158,4 +192,4 @@ A dotação máxima de chefes de equipas multidisciplinares é fixada em nove.»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 1 de julho de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 3 de julho de 2013.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 1 de julho de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 3 de julho de 2013.

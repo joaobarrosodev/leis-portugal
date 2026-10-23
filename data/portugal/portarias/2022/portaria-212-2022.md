@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16200/0001700017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/212/2022/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/212-2022-200139612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6c0b26f640a9e6393091b0801f3cdff1746ee23de4c288ff1ee13f4ce09923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e40663bef22f43ef8f4589e13e9e5934bc14ed8ec315720efbcd25881a1c745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Empresa
 - Construção Civil
-- Obras Particulares
+- Empresa
 - Indústria da Construção
+- Obras Particulares
 - Obras Públicas
 relationships:
 - type: amended_by
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/119/2012/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/119/2012/04/30/p/dre
+- type: cites
+  target: pt:dre:186361752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377968:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:37Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +128,7 @@ Assim, nos termos da alínea c) do n.º 1 do artigo 199.º da Constituição, ma
 
 As classes de habilitações contidas nos alvarás das empresas de construção, bem como os valores máximos de obra que cada uma delas permite realizar, são fixados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16200/0001700017.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16200/0001700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0001700017.pdf)
 
 ###### Artigo 2.º
 
@@ -126,4 +138,6 @@ As classes de habilitações contidas nos alvarás das empresas de construção,
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Habitação, Marina Sola Gonçalves, em 11 de agosto de 2022.**
+A Secretária de Estado da Habitação, Marina Sola Gonçalves, em 11 de agosto de 2022.
+
+115624855

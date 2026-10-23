@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/55/2012/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-2012-553595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45e5fdbd2e88849d3b4bace6252a20825914c9e8840e40d150c8f3df62596ccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15e4e5a3ec6212dc6d7fe26a20a86b0e878cf708057e3be7cf328d8ea47bbf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Higiene do Trabalho
+- Autoridade para as Condições do Trabalho
 - Definição de Competências
-- Segurança no Trabalho
-- Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Diplomas
+- Habilitações Literárias
+- Higiene do Trabalho
 - Livre Circulação de Pessoas
 - Pessoal Técnico de Segurança e Higiene do Trabalho
 - Pessoal Técnico Superior de Segurança e Higiene do Trabalho
 - Prestação de Serviços
 - Profissão Independente
 - Qualificação Profissional
-- Equivalência de Diplomas
-- Autoridade para as Condições do Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:191284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191284:por
+  label: "Alterado o art. 2.º, pela PORT.384/2012.26.11.2012.MEE, DR.IS [228] de 26.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-2012-191284
+  date: '2012-11-26'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -100,13 +105,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:17Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +150,4 @@ A autoridade nacional competente para proceder ao reconhecimento das qualificaç
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de fevereiro de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de fevereiro de 2012.

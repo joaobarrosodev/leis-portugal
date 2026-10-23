@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1977-279416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 652875c0c89cc4ba91f628fdd561063f779ebf6efe33b3a4203e3cbed5f62cf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0842538e3a0b0257721fb77858bc36b520381911f5f71210028854973b9b4e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Distrital de Assistência
+- Comissão Instaladora
+- Conselho Consultivo
+- Definição de Competências
+- Direcção Regional de Segurança Social
+- Gestão Administrativa
+- Madeira.região Autónoma
+- Orgânica
+- Regime de Instalação
+- Secretaria Regional dos Assuntos Sociais e da Saúde
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:185487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:12Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +129,15 @@ Prevê-se o funcionamento em regime de instalação durante a fase inicial, de c
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição Portuguesa, e do artigo 22.º, alínea b), do Estatuto Provisório ([Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril), e tendo em conta o disposto no artigo 46.º deste diploma, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criada a Direcção Regional de Segurança Social da Região Autónoma da Madeira.
+Artigo 1.º É criada a Direcção Regional de Segurança Social da Região Autónoma da Madeira.
 
-###### Art. 2.º A Direcção Regional visa a protecção e defesa dos indivíduos e da família, dos socialmente diminuídos desde a infância à terceira idade, a integração social dos marginalizados e a formação de trabalhadores de segurança social na área da Região Autónoma da Madeira.
+Art. 2.º A Direcção Regional visa a protecção e defesa dos indivíduos e da família, dos socialmente diminuídos desde a infância à terceira idade, a integração social dos marginalizados e a formação de trabalhadores de segurança social na área da Região Autónoma da Madeira.
 
-###### Art. 3.º A Direcção Regional goza de personalidade jurídica e de autonomia administrativa, nos termos do presente diploma e de regulamentação subsequente.
+Art. 3.º A Direcção Regional goza de personalidade jurídica e de autonomia administrativa, nos termos do presente diploma e de regulamentação subsequente.
 
-###### Art. 4.º A Direcção Regional funciona na dependência da Secretaria Regional para os Assuntos Sociais e Saúde.
+Art. 4.º A Direcção Regional funciona na dependência da Secretaria Regional para os Assuntos Sociais e Saúde.
 
-###### Art. 5.º - 1 - Ficam integrados na Direcção Regional os estabelecimentos de assistência e previdência oficiais da área da Região Autónoma da Madeira.
+Art. 5.º - 1 - Ficam integrados na Direcção Regional os estabelecimentos de assistência e previdência oficiais da área da Região Autónoma da Madeira.
 
 2 - Os estabelecimentos de assistência e previdência particulares serão incluídos no programa geral e de prioridades a definir pela Direcção Regional de Segurança Social, devendo também obedecer aos critérios de eficiência a estabelecer por decreto regional.
 
@@ -122,29 +145,29 @@ Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição Portug
 
 4 - Os estabelecimentos de assistência e previdência particulares da Região poderão impugnar judicialmente o despacho do Secretário Regional para os Assuntos Sociais e Saúde previsto no número anterior, se as exigências e condicionamentos previstos no n.º 2 forem contra os respectivos fins estatutários.
 
-###### Art. 6.º Os estabelecimentos integrados disporão da autonomia que lhes vier a ser reconhecida por regulamentação aprovada pelo Secretário Regional para os Assuntos Sociais e Saúde.
+Art. 6.º Os estabelecimentos integrados disporão da autonomia que lhes vier a ser reconhecida por regulamentação aprovada pelo Secretário Regional para os Assuntos Sociais e Saúde.
 
-###### Art. 7.º Compete ao Secretário Regional orientar, fiscalizar e inspeccionar a actividade da Direcção Regional de Segurança Social e definir os seus critérios de actuação.
+Art. 7.º Compete ao Secretário Regional orientar, fiscalizar e inspeccionar a actividade da Direcção Regional de Segurança Social e definir os seus critérios de actuação.
 
-###### Art. 8.º Cada estabelecimento integrado terá órgãos próprios, a definir para cada caso, aos quais compete a gerência corrente do mesmo, a sua representação e a execução das directivas dimanadas da Direcção Regional de Segurança Social e da Secretaria Regional.
+Art. 8.º Cada estabelecimento integrado terá órgãos próprios, a definir para cada caso, aos quais compete a gerência corrente do mesmo, a sua representação e a execução das directivas dimanadas da Direcção Regional de Segurança Social e da Secretaria Regional.
 
-###### Art. 9.º A cobertura financeira da Direcção Regional de Segurança Social e dos estabelecimentos nela integrados será assegurada pela comparticipação dos serviços centrais ou da Secretaria Regional para os Assuntos Sociais e Saúde e pelas receitas e rendimentos próprios.
+Art. 9.º A cobertura financeira da Direcção Regional de Segurança Social e dos estabelecimentos nela integrados será assegurada pela comparticipação dos serviços centrais ou da Secretaria Regional para os Assuntos Sociais e Saúde e pelas receitas e rendimentos próprios.
 
-###### Art. 10.º O pessoal que transitar dos estabelecimentos e serviços integrados manterá os direitos e regalias que vinha auferindo, designadamente o de descontar para a instituição de previdência em que estiver inscrito, contando-se para efeitos de aposentação todo o tempo de serviço prestado, nos termos da legislação aplicável.
+Art. 10.º O pessoal que transitar dos estabelecimentos e serviços integrados manterá os direitos e regalias que vinha auferindo, designadamente o de descontar para a instituição de previdência em que estiver inscrito, contando-se para efeitos de aposentação todo o tempo de serviço prestado, nos termos da legislação aplicável.
 
-###### Art. 11.º A Direcção Regional de Segurança Social poderá solicitar o apoio e colaboração técnica dos serviços regionais ou centrais, através do Secretário Regional para os Assuntos Sociais e Saúde.
+Art. 11.º A Direcção Regional de Segurança Social poderá solicitar o apoio e colaboração técnica dos serviços regionais ou centrais, através do Secretário Regional para os Assuntos Sociais e Saúde.
 
-###### Art. 12.º A Direcção Regional de Segurança Social entrará em regime de instalação pelo período de um ano, prorrogável, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 12.º A Direcção Regional de Segurança Social entrará em regime de instalação pelo período de um ano, prorrogável, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 13.º O regime de instalação tem como fim principal a definição da estrutura e organização da Direcção Regional de Segurança Social.
+Art. 13.º O regime de instalação tem como fim principal a definição da estrutura e organização da Direcção Regional de Segurança Social.
 
-###### Art. 14.º Para o regime de instalação são criados os seguintes órgãos:
+Art. 14.º Para o regime de instalação são criados os seguintes órgãos:
 
 a) Comissão instaladora;
 
 b) Conselho consultivo.
 
-###### Art. 15.º A comissão instaladora será constituída por cinco membros, designados pelo Secretário Regional para os Assuntos Sociais e Saúde, e compete-lhe em especial:
+Art. 15.º A comissão instaladora será constituída por cinco membros, designados pelo Secretário Regional para os Assuntos Sociais e Saúde, e compete-lhe em especial:
 
 a) Preparar os planos de acção da Direcção Regional;
 
@@ -170,15 +193,15 @@ l) Acompanhar e avaliar a actividade dos estabelecimentos e serviços integrados
 
 m) Elaborar o próprio orçamento e quadro de pessoal, para aprovação pelo Secretário Regional para os Assuntos Sociais e Saúde.
 
-###### Art. 16.º - 1 - O conselho consultivo é um órgão destinado a apoiar a comissão instaladora, sendo presidido pelo Secretário Regional para os Assuntos Sociais e Saúde e constituído por representantes dos estabelecimentos integrados.
+Art. 16.º - 1 - O conselho consultivo é um órgão destinado a apoiar a comissão instaladora, sendo presidido pelo Secretário Regional para os Assuntos Sociais e Saúde e constituído por representantes dos estabelecimentos integrados.
 
 2 - Integram ainda o conselho consultivo um representante das autarquias locais, dois representantes sindicais e um representante de estabelecimentos não integrados.
 
 3 - A falta de indicação de representantes, nos termos do número anterior, não impedirá o funcionamento do conselho consultivo.
 
-###### Art. 17.º Transitam para a comissão instaladora as funções atribuídas à Comissão Distrital de Assistência pelo [Decreto-Lei n.º 36262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36262-1947-185487), de 5 de Maio de 1947.
+Art. 17.º Transitam para a comissão instaladora as funções atribuídas à Comissão Distrital de Assistência pelo [Decreto-Lei n.º 36262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36262-1947-185487), de 5 de Maio de 1947.
 
-###### Art. 18.º - 1 - Durante o período de instalação, poderá ser destacado ou requisitado pessoal de outros serviços para exercer a sua actividade na Direcção Regional de Segurança Social e nos estabelecimentos integrados.
+Art. 18.º - 1 - Durante o período de instalação, poderá ser destacado ou requisitado pessoal de outros serviços para exercer a sua actividade na Direcção Regional de Segurança Social e nos estabelecimentos integrados.
 
 2 - Tal destacamento ou requisição far-se-á por despacho do Secretário Regional para os Assuntos Sociais e Saúde e será sempre ouvido o trabalhador.
 
@@ -186,6 +209,6 @@ m) Elaborar o próprio orçamento e quadro de pessoal, para aprovação pelo Sec
 
 Aprovado em sessão plenária de 28 de Dezembro de 1976. - O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 17 de Janeiro de 1977.**
+Assinado em 17 de Janeiro de 1977.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

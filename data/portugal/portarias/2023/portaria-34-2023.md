@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01800/0005000052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2023/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2023-206478424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c94dba6b0d283a80d35fef2766bfc8f767f859414dd60096445bc91773d0d8b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fd87c1e8e07b900a9282c9016dc614fb97ea022eebb7561f80d5bfdcc386f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Abono de Família
 - Abono de Família Pré-natal
-- Subsídio Familiar a Crianças e Jovens
-- Regulamentação de Atos Legislativos
+- Deficiente
 - Pessoa em Situação de Dependência
-- Proteção à Infância
 - Prestações da Segurança Social
 - Prestações Familiares
-- Protecção à Juventude
+- Proteção à Infância
 - Proteção Social
+- Protecção à Juventude
 - Regime Contributivo da Segurança Social
 - Regime Geral da Segurança Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Subsídio de Funeral
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
@@ -128,16 +128,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124256710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192209136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200691263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73017524:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857698:por
+  label: Revogada, com efeitos a partir de 01.01.2024, pelo(a) Portaria n.º 422/2023 - Diário da República n.º 237/2023, Série
+    I de 2023-12-11 nos termos do art. 7.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-2023-229857698
+  date: '2023-12-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:43Z'
   warnings: []
   errors: []
 ---
@@ -268,4 +354,6 @@ A presente portaria produz efeitos a partir de 1 de janeiro de 2023.
 
 Em 17 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+116083769

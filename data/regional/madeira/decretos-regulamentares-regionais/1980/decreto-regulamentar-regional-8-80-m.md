@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1980-462632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f8c3facc625b75f8063d360ee406f85980ef31247b427fbaef9e0152269e5d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c89a2822e567b77d52fe37c8dd5848d734f044a0843d25efdc7b3434d03f2795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Coordenação Económica
+relationships:
+- type: cites
+  target: pt:dre:364926:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:03Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +95,7 @@ Com a publicação do [Decreto Regional n.º 24/79/M](https://diariodarepublica.
 
 Assim, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º A Direcção dos Serviços de Extensão Rural funciona na dependência directa do Secretário Regional da Coordenação Económica e tem como objectivos fundamentais:
+Artigo 1.º A Direcção dos Serviços de Extensão Rural funciona na dependência directa do Secretário Regional da Coordenação Económica e tem como objectivos fundamentais:
 
 a) Estudar, definir e aplicar os meios de aceleração do processo de desenvolvimento integral das comunidades rurais da Região, habilitando as suas populações para uma participação consciente no estudo e execução dos programas do seu autodesenvolvimento, a levar a cabo com a intervenção de serviços diferenciados;
 
@@ -96,7 +103,7 @@ b) Dinamizar, definir e implantar uma estrutura e estratégia de actuação cons
 
 c) Criar os instrumentos necessários à formação profissional permanente e actualizada, quer ao nível dos técnicos, quer ao nível das populações.
 
-###### Art. 2.º À Direcção dos Serviços de Extensão Rural incumbe genericamente:
+Art. 2.º À Direcção dos Serviços de Extensão Rural incumbe genericamente:
 
 1) Assegurar a implantação, o funcionamento e a coordenação da Direcção dos Serviços nos domínios próprios da sua acção;
 
@@ -116,7 +123,7 @@ c) Criar os instrumentos necessários à formação profissional permanente e ac
 
 9) Proceder a uma avaliação sistemática e crítica das acções realizadas, visando a sua reformulação, por forma que se crie um modelo de actuação de extensão rural adaptado à problemática da Região.
 
-###### Art. 3.º A Direcção dos Serviços de Extensão Rural integra os seguintes departamentos, na sua directa dependência e coordenação:
+Art. 3.º A Direcção dos Serviços de Extensão Rural integra os seguintes departamentos, na sua directa dependência e coordenação:
 
 I - Estudos, Planeamento e Coordenação;
 
@@ -126,9 +133,9 @@ III - Formação Profissional;
 
 IV - Serviços Administrativos.
 
-###### Art. 4.º É integrada no Departamento de Estudos, Planeamento e Coordenação a comissão provisória de apoio às Casas do Povo, criada por despacho conjunto da Presidência do Governo Regional e da Secretaria Regional da Coordenação Económica de 27 de Fevereiro de 1980.
+Art. 4.º É integrada no Departamento de Estudos, Planeamento e Coordenação a comissão provisória de apoio às Casas do Povo, criada por despacho conjunto da Presidência do Governo Regional e da Secretaria Regional da Coordenação Económica de 27 de Fevereiro de 1980.
 
-###### Art. 5.º O Departamento de Estudos, Planeamento e Coordenação integra os seguintes subdepartamentos:
+Art. 5.º O Departamento de Estudos, Planeamento e Coordenação integra os seguintes subdepartamentos:
 
 a) Juventude, Família e Comunidade;
 
@@ -136,7 +143,7 @@ b) Informação e Documentação;
 
 c) Animação Sócio-Cultural.
 
-###### Art. 6.º Ao Departamento de Estudos, Planeamento e Coordenação compete:
+Art. 6.º Ao Departamento de Estudos, Planeamento e Coordenação compete:
 
 1) Estudar e estabelecer áreas de actuação do serviço, propondo a criação neste de uma estrutura adequada à melhor rendibilidade nas acções a realizar;
 
@@ -216,7 +223,7 @@ c) Animação Sócio-Cultural.
 
 39) Colaborar com outras Secretarias Regionais na formação de animadores sócio-culturais.
 
-###### Art. 7.º Ao Departamento de Associativismo compete:
+Art. 7.º Ao Departamento de Associativismo compete:
 
 1) Fomentar e desenvolver o movimento cooperativo;
 
@@ -234,7 +241,7 @@ c) Animação Sócio-Cultural.
 
 8) Analisar a viabilidade dos projectos de cooperativas agrícolas e as questões sócio-económicas e financeiras relativas às associações agrícolas em geral e às cooperativas agrícolas e agricultura de grupo em particular.
 
-###### Art. 8.º Ao Departamento de Formação Profissional incumbe:
+Art. 8.º Ao Departamento de Formação Profissional incumbe:
 
 1) Promover a formação profissional de agricultores e trabalhadores rurais e definir métodos e técnicas pedagógicas mais adequados às acções de formação profissional agrária;
 
@@ -246,18 +253,18 @@ c) Animação Sócio-Cultural.
 
 5) Definir critérios objectivos de recrutamento do pessoal para os serviços de extensão em colaboração com os outros departamentos.
 
-###### Art. 9.º O pessoal da Direcção dos Serviços de Extensão Rural é o que consta do quadro anexo a este diploma.
+Art. 9.º O pessoal da Direcção dos Serviços de Extensão Rural é o que consta do quadro anexo a este diploma.
 
-###### Art. 10.º O presente diploma entra imediatamente em vigor.
+Art. 10.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Plenário do Governo Regional em 28 de Agosto de 1980.
 
-**O Presidente do Governo Regional em exercício, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente do Governo Regional em exercício, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 26 de Setembro de 1980.**
+Assinado em 26 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24700/35963599.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24700/35963599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24700/35963599.pdf)

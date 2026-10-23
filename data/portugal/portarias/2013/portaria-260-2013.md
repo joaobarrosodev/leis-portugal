@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/260/2013/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2013-499211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81b514da4300f0b8f9f15080c1edd1b98f6fe437b0931662b62e01ea6a6a620
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 882a167fc9f3b7b20c7cef63cef92c7af8ff98e6bc6a912d70179919221102f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,23 @@ subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Aprendizagem Profissional
 - Autonomia Pedagógica
-- Formação Profissional
 - Colégio Internato dos Carvalhos
-- Plano de Estudos
 - Direcção Geral da Educação
 - Ensino Particular
 - Ensino Profissional
 - Ensino Tecnológico
 - Estabelecimento de Ensino
+- Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:107773647:por
+  label: Prorrogado por mais um ciclo de estudos, a iniciar no ano letivo de 2017/2018, o funcionamento, no Colégio Internato
+    dos Carvalhos, dos cursos Científico-Tecnológicos de nível secundário de educação com planos próprios, criados pela presente
+    portaria, pelo(a) Portaria n.º 234/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-2017-107773647
+  date: '2017-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -88,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124539910:por
+  label: Revogada, pelo(a) Portaria n.º 294/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 de acordo com o
+    disposto no seus art. 42.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2019-124539910
+  date: '2019-09-09'
+- type: repealed_by
+  target: pt:dre:124539911:por
+  label: Revogada, a partir de 10.09.2019, pelo(a) Portaria n.º 295/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09,
+    de acordo com calendarização da produção de efeitos prevista no seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-2019-124539911
+  date: '2019-09-09'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:26Z'
   warnings: []
   errors: []
 ---
@@ -408,56 +439,56 @@ c) No ano letivo de 2015/2016 no 12.º ano de escolaridade.
 
 É revogada a Portaria n.º 941/2009, de 20 de agosto, de acordo com o calendário de produção de efeitos definido no artigo 15.º do presente diploma.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.
 
 ## ANEXO I — Matriz Curricular do Curso Secundário Científico-Tecnológico de Química, Ambiente e Qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO II — Matriz Curricular do Curso Secundário Científico-Tecnológico de Biotecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO III — Matriz Curricular do Curso Secundário Científico-Tecnológico de Animação Sócio Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO IV — Matriz Curricular do Curso Secundário Científico-Tecnológico de Eletrotecnia e Automação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO V — Matriz Curricular do Curso Secundário Científico-Tecnológico de Eletrónica e Telecomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO VI — Matriz Curricular do Curso Secundário Científico-Tecnológico de Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO VII — Matriz Curricular do Curso Secundário Científico-Tecnológico de Contabilidade e Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO VIII — Matriz Curricular do Curso Secundário Científico-Tecnológico de Informática de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO IX — Matriz Curricular do Curso Secundário Científico-Tecnológico de Marketing e Estratégia Empresarial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO X — Matriz Curricular do Curso Secundário Científico-Tecnológico de Línguas e Relações Empresariais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO XI — Matriz Curricular do Curso Secundário Científico-Tecnológico de Assessoria Jurídica e Documentação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO XII — Matriz Curricular do Curso Secundário Científico-Tecnológico de Património e Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
 
 ## ANEXO XIII — Matriz Curricular do Curso Secundário Científico-Tecnológico de Artes Gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15500/0483704851.pdf)

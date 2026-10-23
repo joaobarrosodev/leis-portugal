@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04601/0000200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83-a/2024/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d26f57cf646b73c2145ad8c0b74041bb57caa0a4d8796c6eeb59502de1f2d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb45f4fdf72b4dd0e5774ad9fcb140ed77a351a437219192f5eafa4835ee1f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
 - Fundo Europeu Agrícola de Desenvolvimento Rural
 - Fundo Europeu Agrícola de Garantia
 - Fundos CE
 - IFAP
+- Plano Estratégico da Política Agrícola Comum de Portugal
 - Política Agrícola Comum
 - Programa Comunitário
-- Plano Estratégico da Política Agrícola Comum de Portugal
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:175/2023
+  label: Altera, a partir de 6 de março de 2024, com efeitos a 1 de janeiro de 2024, os anexos vi, vii, viii, xv, xxv e xxxiv
+    da Portaria n.º 175/2023, de 23 de junho, Diário da República n.º 121/2023, Série I
+  source: null
+  date: '2023-06-23'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -121,16 +127,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-e/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-e/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215375646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216406868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582870:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:44Z'
   warnings: []
   errors: []
 ---
@@ -159,9 +229,9 @@ Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da a
 
 A presente portaria procede à alteração das seguintes portarias:
 
-a) Sexta alteração à [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [244-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-c-2023-216406867), de 28 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios aos programas de ação em áreas sensíveis, no que se refere à aplicação do domínio "D.2 - Programas de ação em áreas sensíveis" do eixo "D - Abordagem territorial integrada - Continente" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
+a) Sexta alteração à [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, alterada pelas Portarias n.os175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [244-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-c-2023-216406867), de 28 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios aos programas de ação em áreas sensíveis, no que se refere à aplicação do domínio "D.2 - Programas de ação em áreas sensíveis" do eixo "D - Abordagem territorial integrada - Continente" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
 
-b) Sexta alteração à [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [244-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-d-2023-216406868), de 28 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios previstos nas intervenções a conceder ao abrigo do artigo 70.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio "C.1 - Gestão ambiental e climática" do eixo "C - Desenvolvimento rural - Continente" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC), no continente;
+b) Sexta alteração à [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, alterada pelas Portarias n.os175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [244-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/244-d-2023-216406868), de 28 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios previstos nas intervenções a conceder ao abrigo do artigo 70.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio "C.1 - Gestão ambiental e climática" do eixo "C - Desenvolvimento rural - Continente" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC), no continente;
 
 c) Primeira alteração à Portaria n.º 175/2023, de 23 de junho, que estabelece os termos e os critérios aplicáveis à avaliação dos incumprimentos de compromissos ou outras obrigações, para efeitos da aplicação das reduções e exclusões previstas no n.º4 do artigo 63.º da [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, no n.º 8 do artigo 66.º da [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, e no n.º 7 do artigo 55.º da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro.
 
@@ -322,19 +392,19 @@ A) Tipologia ‘Manutenção do mosaico paisagístico do Barroso’
 | Tipos de ocupação do solo | Escalões de área | Montantes de apoio (€/ha) |
 | --- | --- | --- |
 | Culturas temporárias | ≤ 3 ha | 138 |
-| Culturas temporárias | > 3 ha ≤ 50 ha | 69 |
+| > 3 ha ≤ 50 ha | 69 |  |
 | Lameiros de regadio | ≤ 5 ha | 262 |
-| Lameiros de regadio | > 5 ha | 90 |
+| > 5 ha | 90 |  |
 | Lameiros de sequeiro | ≤ 20 ha | 110 |
-| Lameiros de sequeiro | > 20 ha e ≤ 40 ha | 76 |
-| Lameiros de sequeiro | > 40 ha e ≤ 100 ha | 44 |
-| Lameiros de sequeiro | > 100 ha e ≤ 250 ha | 22 |
+| > 20 ha e ≤ 40 ha | 76 |  |
+| > 40 ha e ≤ 100 ha | 44 |  |
+| > 100 ha e ≤ 250 ha | 22 |  |
 | Outros prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | ≤ 10 ha | 75 |
-| Outros prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | > 10 ha e ≤ 50 ha | 55 |
-| Outros prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | > 50 ha e ≤ 100 ha | 23 |
-| Outros prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | ≤ 10 ha | 186 |
+| > 10 ha e ≤ 50 ha | 55 |  |
+| > 50 ha e ≤ 100 ha | 23 |  |
+| ≤ 10 ha | 186 |  |
 | Culturas permanentes | > 10 ha ≤ 50 ha | 104 |
-| Culturas permanentes | > 50 ha | 58 |
+| > 50 ha | 58 |  |
 | Área em socalco | – | 276 |
 
 Nota. - As superfícies declaradas com cabeceiras e áreas envolventes de culturas permanentes são consideradas nos grupos de pagamentos das culturas permanentes, na proporção da cultura permanente elegível por parcela, calculada de acordo com a seguinte fórmula: Proporção de cabeceiras e áreas envolventes da parcela = Área da cabeceira e áreas envolventes * (Área do grupo de pagamento da parcela/Somatório das áreas dos grupos de pagamento culturas permanentes da parcela).
@@ -344,8 +414,8 @@ B) Tipologia ‘Gestão do pastoreio em áreas de baldio do Barroso’
 | Tipos de ocupação do solo | Escalões de área | Montantes de apoio (€/ha) |
 | --- | --- | --- |
 | Área de baldio sujeita a pastoreio | ≤ 100 ha | 92 |
-| Área de baldio sujeita a pastoreio | > 100 ha e ≤ 500 ha | 58 |
-| Área de baldio sujeita a pastoreio | > 500 ha | 29 |
+| > 100 ha e ≤ 500 ha | 58 |  |
+| > 500 ha | 29 |  |
 
 ## ANEXO XIV — [...]
 
@@ -354,13 +424,13 @@ B) Tipologia ‘Gestão do pastoreio em áreas de baldio do Barroso’
 | Distrito | Município | Freguesias |
 | --- | --- | --- |
 | Beja | Almodôvar | União das Freguesias de Almodôvar e Graça dos Padrões |
-| Beja | Beja | União das Freguesias de Salvada e Quintos |
-| Beja | Castro Verde | Santa Bárbara de Padrões; São Marcos da Ataboeira |
-| Beja | Mértola | Alcaria Ruiva; Espírito Santo; Mértola; São João dos Caldeireiros; União das Freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros |
-| Beja | Moura | Sobral da Adiça; União das Freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador; Safara; Santo Aleixo da Restauração |
-| Beja | Serpa | Pias; União das Freguesias de Serpa (Salvador e Santa Maria); União das Freguesias de Vila Nova de São Bento e Vale de Vargo |
+| Beja | União das Freguesias de Salvada e Quintos |  |
+| Castro Verde | Santa Bárbara de Padrões; São Marcos da Ataboeira |  |
+| Mértola | Alcaria Ruiva; Espírito Santo; Mértola; São João dos Caldeireiros; União das Freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros |  |
+| Moura | Sobral da Adiça; União das Freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador; Safara; Santo Aleixo da Restauração |  |
+| Serpa | Pias; União das Freguesias de Serpa (Salvador e Santa Maria); União das Freguesias de Vila Nova de São Bento e Vale de Vargo |  |
 | Faro | Alcoutim | Giões; União das Freguesias de Alcoutim e Pereiro; Vaqueiros |
-| Faro | Castro Marim | Odeleite |
+| Castro Marim | Odeleite |  |
 
 ## ANEXO XVI — [...]
 
@@ -530,10 +600,10 @@ Nota. - As superfícies declaradas com cabeceiras e áreas envolventes de cultur
 
 [...]
 
-| Escalões de área | Culturas temporárias de regadio, horticultura, frutos frescos e vinha para uva de mesa, vinha para vinho, olival e frutos secos. | Culturas temporárias de regadio | Horticultura, frutos frescos e vinha para uva de mesa | Vinha para vinho, olival e frutos secos | Culturas temporárias de regadio | Horticultura, frutos frescos e vinha para uva de mesa | Vinha para vinho, olival e frutos secos |
+| Escalões de área | Classe de regante |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Escalões de área | Classe de regante | Classe de regante | Classe de regante | Classe de regante | Classe de regante | Classe de regante | Classe de regante |
-| Escalões de área | B | B + | B + | B + | A | A | A |
+| B | B + | A |  |  |  |  |  |
+| Culturas temporárias de regadio, horticultura, frutos frescos e vinha para uva de mesa, vinha para vinho, olival e frutos secos. | Culturas temporárias de regadio | Horticultura, frutos frescos e vinha<br>para uva de mesa | Vinha para vinho, olival e frutos secos | Culturas temporárias de regadio | Horticultura, frutos frescos e vinha<br>para uva de mesa | Vinha para vinho, olival e frutos secos |  |
 | ≤ 20 ha | 130 | – | – | – | – | – | – |
 | ≤ 40 ha | – | 185 | 220 | 185 | 222 | 264 | 222 |
 | > 40 e ≤ 80 ha | – | 148 | 176 | 148 | 177 | 211 | 177 |
@@ -548,16 +618,16 @@ Nota. - As superfícies declaradas com cabeceiras e áreas envolventes de cultur
 
 |  | Escalões de área(ha) | Montante de apoio (€/ha) |
 | --- | --- | --- |
-| Culturas temporárias (<sup>1</sup>) | ≤ 3 | 120 |
-| Culturas temporárias (<sup>1</sup>) | > 3 a ≤ 50 | 60 |
+| Culturas temporárias (1) | ≤ 3 | 120 |
+| > 3 a ≤ 50 | 60 |  |
 | Culturas frutícolas, olival e vinha, exceto pinheiro-manso | ≤ 10 | 162 |
-| Culturas frutícolas, olival e vinha, exceto pinheiro-manso | > 10 a ≤ 50 | 90 |
-| Culturas frutícolas, olival e vinha, exceto pinheiro-manso | > 50 | 50 |
+| > 10 a ≤ 50 | 90 |  |
+| > 50 | 50 |  |
 | Prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | ≤ 10 | 65 |
-| Prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | > 10 a ≤ 50 | 48 |
-| Prados e pastagens permanentes e prados e pastagens permanentes com predominância de vegetação arbustiva | > 50 a ≤ 100 | 20 |
+| > 10 a ≤ 50 | 48 |  |
+| > 50 a ≤ 100 | 20 |  |
 
-(<sup>1</sup>) Inclui pousio nas situações de seca extrema ou severa reconhecida pelas autoridades nacionais competentes.
+(1) Inclui pousio nas situações de seca extrema ou severa reconhecida pelas autoridades nacionais competentes.
 
 Nota. - As superfícies declaradas com cabeceiras e áreas envolventes de culturas permanentes são consideradas nos grupos de pagamentos das culturas permanentes, na proporção da cultura permanente elegível por parcela, calculada de acordo com a seguinte fórmula: Proporção de cabeceiras e áreas envolventes da parcela = Área da cabeceira e áreas envolventes * (Área do grupo de pagamento da parcela/Somatório das áreas dos grupos de pagamento culturas permanentes da parcela)."
 
@@ -571,9 +641,9 @@ Os anexos vi, vii, viii, xv, xxv e xxxiv passam a ter a seguinte redação:
 
 [...]
 
-| Previsão na Portaria n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (<sup>2</sup>). | Redução (<sup>3</sup>) | Exclusão (<sup>4</sup>) |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Redução/exclusão | Redução/exclusão |
+| Previsão na Portaria<br>n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito<br>de aplicação | Qualificação (1) | Duração dos efeitos<br>ou possibilidade<br>de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (2). | Redução (3) | Exclusão (4) |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -591,8 +661,8 @@ Os anexos vi, vii, viii, xv, xxv e xxxiv passam a ter a seguinte redação:
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 | Artigo 20.º, n.º 1, h) | h) Respeitar e registar as datas e as técnicas a aplicar nos cortes a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios ou pastagens temporárias naturais, bem como o limite máximo de superfície de cereal praganoso objeto de corte, a indicar anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio. | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 20.º, n.º 1, h) | h) Respeitar e registar as datas e as técnicas a aplicar nos cortes a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios ou pastagens temporárias naturais, bem como o limite máximo de superfície de cereal praganoso objeto de corte, a indicar anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio. | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 20.º, n.º 1, h) | h) Respeitar e registar as datas e as técnicas a aplicar nos cortes a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios ou pastagens temporárias naturais, bem como o limite máximo de superfície de cereal praganoso objeto de corte, a indicar anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio. | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica. | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica. |  |  |  |  |  |  |  |  |
 |  | O registo é efetuado de acordo com o conteúdo normalizado em formato eletrónico, disponível no portal da Internet da PEPAContinente |  |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -602,8 +672,8 @@ Os anexos vi, vii, viii, xv, xxv e xxxiv passam a ter a seguinte redação:
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 | Artigo 20.º, n.º 1, n) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 20.º, n.º 1, n) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 2 ou mais | 10 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 20.º, n.º 1, n) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo |  | 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 10 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+|  | 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
@@ -611,7 +681,7 @@ Os anexos vi, vii, viii, xv, xxv e xxxiv passam a ter a seguinte redação:
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -619,19 +689,19 @@ b) [...]
 
 c) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
 ## ANEXO VII — [...]
 
 [...]
 
-| Previsão na Portaria n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (<sup>2</sup>). | Redução (<sup>3</sup>) | Exclusão (<sup>4</sup>) |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Redução/exclusão | Redução/exclusão |
+| Previsão na Portaria<br>n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito<br>de aplicação | Qualificação (1) | Duração dos efeitos<br>ou possibilidade<br>de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (2). | Redução (3) | Exclusão (4) |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  |  |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -644,11 +714,11 @@ c) [...]
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | Artigo 22.º, n.º 1, f) | Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 20 % e 50 % da superfície de rotação sujeita a compromisso e a superfície de pousio ou pastagens temporárias naturais represente entre 10 % e 30 % da superfície de rotação sujeita a compromisso, sujeito a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Básico | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, f) | Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 20 % e 50 % da superfície de rotação sujeita a compromisso e a superfície de pousio ou pastagens temporárias naturais represente entre 10 % e 30 % da superfície de rotação sujeita a compromisso, sujeito a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Básico | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, f) | Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 20 % e 50 % da superfície de rotação sujeita a compromisso e a superfície de pousio ou pastagens temporárias naturais represente entre 10 % e 30 % da superfície de rotação sujeita a compromisso, sujeito a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Básico | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 | Artigo 22.º, n.º 1, g) | Respeitar e registar as datas e as técnicas a aplicar nos cortes, incluindo os relativos a cereais praganosos, de forma a atingir o grau de maturação, numa superfície mínima, a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios, indicadas anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio;O registo é efetuado de acordo com o conteúdo normalizado em formato eletrónico, disponível no portal da Internet da PEPAContinente | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, g) | Respeitar e registar as datas e as técnicas a aplicar nos cortes, incluindo os relativos a cereais praganosos, de forma a atingir o grau de maturação, numa superfície mínima, a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios, indicadas anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio;O registo é efetuado de acordo com o conteúdo normalizado em formato eletrónico, disponível no portal da Internet da PEPAContinente | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, g) | Respeitar e registar as datas e as técnicas a aplicar nos cortes, incluindo os relativos a cereais praganosos, de forma a atingir o grau de maturação, numa superfície mínima, a efetuar nas superfícies de rotação sujeitas a compromisso, e na mobilização de pousios, indicadas anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em consideração as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo, não devendo os cortes ser efetuados no período compreendido entre 15 de março e 15 de junho, exceto em anos de condições climáticas excecionais, estabelecidas pela ELA, que justifiquem uma colheita antecipada em data o mais próxima possível de 15 de junho e, em qualquer caso, nunca antes de 15 de maio;O registo é efetuado de acordo com o conteúdo normalizado em formato eletrónico, disponível no portal da Internet da PEPAContinente | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
@@ -659,13 +729,13 @@ c) [...]
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 | Artigo 22.º, n.º 1, m) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, m) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 2 ou mais | 10 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 22.º, n.º 1, m) | Não instalar cercas, ou outros elementos de contenção de gado ou para delimitação de propriedade equivalentes, com caráter permanente, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P. | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 10 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -673,26 +743,26 @@ b) [...]
 
 c) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
 ## ANEXO VIII — [...]
 
 [...]
 
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Redução/exclusão | Redução/exclusão |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Previsão na Portaria n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (<sup>2</sup>). | Redução (<sup>3</sup>) | Exclusão (<sup>4</sup>) |
+| Previsão na Portaria<br>n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito<br>de aplicação | Qualificação (1) | Duração dos efeitos<br>ou possibilidade<br>de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (2). | Redução (3) | Exclusão (4) |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | Artigo 26.º, c) | Deter o plano de ação a partir do segundo ano de compromisso recorrendo ao apoio técnico do GLA e deter, a 1 de setembro de cada ano de compromisso, relatório anual de atividades, elaborado pelo GLA, que inclua a avaliação dos quatro resultados e respetivos indicadores relativos ao nível do solo saudável, regeneração das quercíneas, biodiversidade da pastagem mediterrânica e elementos singulares promotores da biodiversidade, que constam do anexo vi da presente portaria, da qual faz parte integrante, e o cálculo da pontuação global ao nível da subparcela sob compromisso | Área sob compromisso | Essencial (E) | Dura mais de um ano e difícil erradicação por meios razoáveis | Elevado | Excludente | 1 ou mais | 1 ou mais | 100 % da ajuda | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e com impossibilidade de candidatura no ano seguinte. |
 | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -700,19 +770,19 @@ b) [...]
 
 c) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
 ## ANEXO XV — [...]
 
 [...]
 
-| Previsão na Portaria n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (<sup>2</sup>). | Redução (<sup>3</sup>) | Exclusão (<sup>4</sup>) |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Redução/exclusão | Redução/exclusão |
+| Previsão na Portaria<br>n.º 54-A/2023, de 27 de fevereiro | Descrição | Âmbito<br>de aplicação | Qualificação (1) | Duração dos efeitos<br>ou possibilidade<br>de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (2). | Redução (3) | Exclusão (4) |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -732,16 +802,16 @@ c) [...]
 |  |  |  |  |  |  |  |  | [...] | [...] |  |
 |  |  |  |  |  |  |  | [...] | [...] | [...] |  |
 | Artigo 53.º, e), iv) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar o corte de povoamentos, incluindo cortes para reconversão ou rearborização nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 53.º, e), iv) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar o corte de povoamentos, incluindo cortes para reconversão ou rearborização nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 53.º, e), iv) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar o corte de povoamentos, incluindo cortes para reconversão ou rearborização nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 | Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar a abertura ou reabertura de trilhos nas proximidades de árvores com ninhos nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar a abertura ou reabertura de trilhos nas proximidades de árvores com ninhos nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não efetuar a abertura ou reabertura de trilhos nas proximidades de árvores com ninhos nas imediações dos locais de nidificação | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 | Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não desenvolver, numa área de proteção definida por um raio de 250 m do ninho, atividades de lazer e recreio como o ecoturismo e a caça, de pastoreio e aparcamento de gado, ou de circulação de pessoas e viaturas, exceto se forem pertencentes à exploração ou utilizem estradas municipais ou caminhos em que é obrigatória a cedência de passagem vicinal | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 1 | 20 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
-| Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não desenvolver, numa área de proteção definida por um raio de 250 m do ninho, atividades de lazer e recreio como o ecoturismo e a caça, de pastoreio e aparcamento de gado, ou de circulação de pessoas e viaturas, exceto se forem pertencentes à exploração ou utilizem estradas municipais ou caminhos em que é obrigatória a cedência de passagem vicinal | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 1 | 2 ou mais | 40 % da ajuda no ano em que se verifica |  |
-| Artigo 53.º, e), vi) | Durante o período de reprodução definido no anexo xvii da portaria, [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, não desenvolver, numa área de proteção definida por um raio de 250 m do ninho, atividades de lazer e recreio como o ecoturismo e a caça, de pastoreio e aparcamento de gado, ou de circulação de pessoas e viaturas, exceto se forem pertencentes à exploração ou utilizem estradas municipais ou caminhos em que é obrigatória a cedência de passagem vicinal | Área sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Médio | Significativo | 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |
+| 2 ou mais | 40 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |
+| 2 ou mais | 1 ou mais | 50 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -749,35 +819,35 @@ b) [...]
 
 c) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
 ## ANEXO XXV — [...]
 
 [...]
 
-| Previsão na Portaria n.º 54-C/2023, de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (<sup>2</sup>). | Redução (<sup>3</sup>) | Exclusão (<sup>4</sup>) |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Incumprimento | Redução/exclusão | Redução/exclusão |
-| Artigo 56.º, a) | Manter o efetivo pecuário sob compromisso, expresso em CN, durante todo o período de retenção de cada espécie | CN sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Proporcional ao incumprimento | Proporcional ao incumprimento | 1 ou mais | 1 ou mais | Sanção proporcional com tolerância de 50 % se compromisso for inferior a 4 CN e de 20 % para compromissos maiores que 4 CN.A redução determina a devolução proporcional dos apoios recebidos desde o início de compromisso.A nota (<sup>3</sup>) não se aplica a esta redução | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
+| Previsão na Portaria<br>n.º 54-C/2023, de 27 de fevereiro | Descrição | Âmbito<br>de aplicação | Qualificação (1) | Duração dos efeitos<br>ou possibilidade<br>de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso. | Extensão - efeito do incumprimento no compromisso no seu conjunto. | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais. | Número de incumprimentos verificados ao longo do compromisso (2). | Redução (3) | Exclusão (4) |
+| Artigo 56.º, a) | Manter o efetivo pecuário sob compromisso, expresso em CN, durante todo o período de retenção de cada espécie | CN sob compromisso | Básico (B) | Dura menos de um ano e é possível erradicar por meios razoáveis | Proporcional ao incumprimento | Proporcional ao incumprimento | 1 ou mais | 1 ou mais | Sanção proporcional com tolerância de 50 % se compromisso for inferior a 4 CN e de 20 % para compromissos maiores que 4 CN.A redução determina a devolução proporcional dos apoios recebidos desde o início de compromisso.A nota (3) não se aplica a esta redução | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |  |  |  |  |  |  |  |
+| [...] | [...] | [...] |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |  |  |  |  |  |  |  |
+| [...] | [...] | [...] |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |  |  |  |  |  |  |  |
+| [...] | [...] | [...] |  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |  |  |  |  |  |  |  |
+| [...] | [...] | [...] |  |  |  |  |  |  |  |  |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -785,23 +855,23 @@ b) [...]
 
 c) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
 ## ANEXO XXXIV — [...]
 
 [...]
 
-| Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Compromissos/outras obrigações | Incumprimento | Incumprimento | Redução/exclusão |
+| Compromissos/outras obrigações | Incumprimento | Redução/exclusão |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Previsão na [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (<sup>1</sup>) | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do co mpromisso | Extensão - efeito do incumprimento no compromisso no seu conjunto | Redução |
+| Previsão na [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899),<br>de 27 de fevereiro | Descrição | Âmbito de aplicação | Qualificação (1) | Gravidade - importância e consequências do incumprimento atendendo<br>aos objetivos do co mpromisso | Extensão - efeito do incumprimento no compromisso no seu conjunto | Redução |
 | [...] | Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a manter uma área ou elementos de interesse ecológico e ambiental correspondente a pelo menos 7 % da terra arável, no caso de explorações com área de terra arável elegível superior a 10 ha, e igual ou superior a 4 % da terra arável, no caso de explorações com área de terra arável elegível inferior ou igual a 10 ha | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 
-(<sup>1</sup>) [...]
+(1) [...]
 
 a) [...]
 
@@ -811,9 +881,9 @@ c) [...]"
 
 ###### Artigo 5.º — Norma revogatória
 
-1 - Revogam-se a alínea d) do artigo 26.º, a subalínea vii) da alínea e) do artigo 53.º e os n.<sup>os</sup>1, 2, 3 e 5 do artigo 58.º da [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>175/2023, de 23 de junho, 194-B/2023, de 7 de julho, 244-C/2023, de 28 de julho, 303-A/2023, de 6 de outubro, e 314/2023, de 19 de outubro.
+1 - Revogam-se a alínea d) do artigo 26.º, a subalínea vii) da alínea e) do artigo 53.º e os n.os1, 2, 3 e 5 do artigo 58.º da [Portaria n.º 54-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-a-2023-207942895), de 27 de fevereiro, alterada pelas Portarias n.os175/2023, de 23 de junho, 194-B/2023, de 7 de julho, 244-C/2023, de 28 de julho, 303-A/2023, de 6 de outubro, e 314/2023, de 19 de outubro.
 
-2 - Revogam-se os n.<sup>os</sup>1, 2, 3 e 6 do artigo 61.º da [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>175/2023, de 23 de junho, 194-B/2023, de 7 de julho, 244-D/2023, de 28 de julho, 303-A/2023, de 6 de outubro, e 314/2023, de 19 de outubro.
+2 - Revogam-se os n.os1, 2, 3 e 6 do artigo 61.º da [Portaria n.º 54-C/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-c-2023-207942897), de 27 de fevereiro, alterada pelas Portarias n.os175/2023, de 23 de junho, 194-B/2023, de 7 de julho, 244-D/2023, de 28 de julho, 303-A/2023, de 6 de outubro, e 314/2023, de 19 de outubro.
 
 ###### Artigo 6.º — Disposição transitória
 
@@ -823,4 +893,6 @@ A falta de apresentação do pedido de pagamento no PU de 2024 no âmbito da int
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.
+
+117427891

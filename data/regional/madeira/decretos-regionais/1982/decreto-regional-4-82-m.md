@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1982-608511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f8e1650243f303c73e8622e5736ef09063227843d5fcf352c4f28d321b29d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3276235eda2a391a99b6a95b1ddc2db94488953930e60795fc35450ed854a71e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deficiente
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:49Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +100,9 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Para efeitos do presente diploma, considera-se deficiente todo o indivíduo que, por virtude de lesão ou deformidade congénita ou adquirida, é portador de deficiência física, psíquica, sensorial ou outra, com carácter permanente, que lhe dificulte o exercício dos seus direitos.
+Artigo 1.º Para efeitos do presente diploma, considera-se deficiente todo o indivíduo que, por virtude de lesão ou deformidade congénita ou adquirida, é portador de deficiência física, psíquica, sensorial ou outra, com carácter permanente, que lhe dificulte o exercício dos seus direitos.
 
-###### Art. 2.º Com vista à acção preventiva e de reabilitação do deficiente, serão criados meios humanos e materiais que permitam a prevenção eficaz das deficiências na criança e no adulto, designadamente:
+Art. 2.º Com vista à acção preventiva e de reabilitação do deficiente, serão criados meios humanos e materiais que permitam a prevenção eficaz das deficiências na criança e no adulto, designadamente:
 
 a) Aconselhamento genético, outras medidas de ordem genética viáveis e ainda a intensificação dos cuidados pré, peri e pós-natais integrados;
 
@@ -124,7 +130,7 @@ m) Incremento das medidas legislativas já existentes que visam a atribuição e
 
 n) Intensificação da luta anti-alcoólica, enquanto factor adjuvante ou determinante entre as causas de deficiência.
 
-###### Art. 3.º No domínio da segurança social serão promovidas as seguintes medidas:
+Art. 3.º No domínio da segurança social serão promovidas as seguintes medidas:
 
 a) Apoio às famílias de crianças deficientes através de condições adequadas de habitação, transporte e segurança social;
 
@@ -136,7 +142,7 @@ d) Revisão das pensões dos sinistrados do trabalho e das doenças profissionai
 
 e) Concessão de prioridades na instalação de telefones particulares dos requerentes que sejam grandes deficientes ou que tenham familiares nessa situação.
 
-###### Art. 4.º No domínio da educação serão promovidas as seguintes medidas:
+Art. 4.º No domínio da educação serão promovidas as seguintes medidas:
 
 a) Introdução do tema «Integração de deficientes» no plano global de formação de docentes;
 
@@ -150,7 +156,7 @@ e) Atribuição de subsídios pontuais de transporte e ou refeição às famíli
 
 f) Adopção de medidas que fomentem a participação de crianças, jovens e adultos deficientes em actividades recreativas, culturais e desportivas.
 
-###### Art. 5.º No domínio do trabalho serão promovidas as seguintes medidas:
+Art. 5.º No domínio do trabalho serão promovidas as seguintes medidas:
 
 a) Na área da pré-profissionalização:
 
@@ -174,7 +180,7 @@ Subsídio para adaptação dos postos de trabalho às dificuldades funcionais do
 
 c) Na área da prevenção do trabalho serão aplicadas medidas adequadas, nomeadamente a intensificação de acções no campo da higiene e segurança no trabalho, que permitam a aplicação da legislação existente e as demais que conduzam à diminuição da incidência dos acidentes de trabalho.
 
-###### Art. 6.º No domínio dos transportes serão promovidas as seguintes medidas:
+Art. 6.º No domínio dos transportes serão promovidas as seguintes medidas:
 
 a) Inspecções médicas do deficiente com vista a definir o seu ingresso nos diversos meios de transporte;
 
@@ -188,7 +194,7 @@ e) Concessão de subsídios para adaptação de viaturas ao ensino de condução
 
 f) As viaturas em que os deficientes se façam transportar serão objecto de placa indicativa.
 
-###### Art. 7.º - 1 - Todas as construções ou adaptações de edifícios pertencentes à administração pública regional ou local, na área da Região Autónoma, passam a ficar sujeitas a normas de construção a estabelecer em diploma regulamentar, das quais dependerá o respectivo licenciamento.
+Art. 7.º - 1 - Todas as construções ou adaptações de edifícios pertencentes à administração pública regional ou local, na área da Região Autónoma, passam a ficar sujeitas a normas de construção a estabelecer em diploma regulamentar, das quais dependerá o respectivo licenciamento.
 
 2 - Ficam abrangidos pelo n.º 1 do presente artigo, designadamente:
 
@@ -214,28 +220,28 @@ Planos de urbanização e de conjuntos habitacionais promovidos pelo Governo e a
 
 Edifícios do Governo, autarquias locais e pessoas colectivas de direito público na tutela do Governo Regional.
 
-###### Art. 8.º Serão igualmente definidas em diploma regulamentar as normas de construção para habitação colectiva no que respeita aos seus acessos, estrutura interna e apetrechamento.
+Art. 8.º Serão igualmente definidas em diploma regulamentar as normas de construção para habitação colectiva no que respeita aos seus acessos, estrutura interna e apetrechamento.
 
-###### Art. 9.º Nos recintos ou instalações de utilização pública, designadamente parques de estacionamento, sanitários públicos, balneários públicos, recintos desportivos, piscinas públicas e locais de atendimento, serão criadas condições ajustadas às necessidades dos deficientes em áreas ou percentagens a estabelecer por diploma regulamentar.
+Art. 9.º Nos recintos ou instalações de utilização pública, designadamente parques de estacionamento, sanitários públicos, balneários públicos, recintos desportivos, piscinas públicas e locais de atendimento, serão criadas condições ajustadas às necessidades dos deficientes em áreas ou percentagens a estabelecer por diploma regulamentar.
 
-###### Art. 10.º As zonas ou instalações destinadas a deficientes, bem como os respectivos acessos, serão obrigatoriamente sinalizadas por placa bem visível por forma a poderem ser facilmente identificadas.
+Art. 10.º As zonas ou instalações destinadas a deficientes, bem como os respectivos acessos, serão obrigatoriamente sinalizadas por placa bem visível por forma a poderem ser facilmente identificadas.
 
-###### Art. 11.º Será feito levantamento e despiste da deficiência, criado o «Registo Regional do Deficiente» e institucionalização na Região o «cartão do deficiente».
+Art. 11.º Será feito levantamento e despiste da deficiência, criado o «Registo Regional do Deficiente» e institucionalização na Região o «cartão do deficiente».
 
-###### Art. 12.º Será criada uma comissão regional de reabilitação, sob tutela da Secretaria Regional dos Assuntos Sociais, que dinamizará e fará a coordenação das medidas previstas no presente diploma.
+Art. 12.º Será criada uma comissão regional de reabilitação, sob tutela da Secretaria Regional dos Assuntos Sociais, que dinamizará e fará a coordenação das medidas previstas no presente diploma.
 
-###### Art. 13.º O presente diploma é extensivo às iniciativas em curso na Região que caibam no seu âmbito.
+Art. 13.º O presente diploma é extensivo às iniciativas em curso na Região que caibam no seu âmbito.
 
-###### Art. 14.º Será dado eficiente apoio a todas as iniciativas válidas de instituições privadas de solidariedade social que visem a concretização dos objectivos deste diploma.
+Art. 14.º Será dado eficiente apoio a todas as iniciativas válidas de instituições privadas de solidariedade social que visem a concretização dos objectivos deste diploma.
 
-###### Art. 15.º O presente diploma será objecto das medidas legislativas de carácter regulamentar necessárias à sua execução.
+Art. 15.º O presente diploma será objecto das medidas legislativas de carácter regulamentar necessárias à sua execução.
 
-###### Art. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 12 de Fevereiro de 1982.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 4 de Março de 1982.**
+Assinado em 4 de Março de 1982.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

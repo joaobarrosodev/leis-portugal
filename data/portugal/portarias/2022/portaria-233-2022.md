@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17500/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/2022/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-2022-200860990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d25d7edba8e6a0330ecbb8f1f13d20907a94b171ee8f77eda9a6c60ff78c7466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc4b4bc40073118bbd651bf7a2587306ef1c6c4895e2492e0339224ba8b9b787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
+- Avaliação de Conhecimentos
+- Avaliação do Pessoal
+- Bolsa de Emprego Público
 - Concurso
 - Concurso Público
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direcção Geral da Administração e do Emprego Público
 - Documentação Administrativa
-- Administração Pública
 - Formas de Provimento
-- Bolsa de Emprego Público
-- Recrutamento de Pessoal
 - Habilitações Literárias
 - Homologação
 - Impugnação
-- Publicitação
 - JURI
 - Nomeação
 - Notificação
 - Página na Internet
-- Qualificação Profissional
-- Avaliação de Conhecimentos
-- Quadro de Pessoal
-- Administração Local
-- Reserva
-- Avaliação do Pessoal
-- Administração Regional
 - Plataforma Eletrónica
+- Publicitação
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:1060523847:por
@@ -113,16 +113,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/125-a/2019/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/125-a/2019/04/30/p/dre
+- type: cites
+  target: pt:dre:122202602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153519418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 45
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:44Z'
   warnings: []
   errors: []
 ---
@@ -755,4 +771,6 @@ d) Aplicar outros métodos de seleção e integrar júris de concurso em procedi
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 6 de setembro de 2022.**
+A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 6 de setembro de 2022.
+
+115672272

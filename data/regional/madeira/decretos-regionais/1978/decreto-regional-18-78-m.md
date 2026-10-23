@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1978-446931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d1fd18e5f6c4269d63442d085b7825c151952751cb468b483ce724224713185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a455e6c5d99531b9ba75ef0bcad0e058abae1002e85d5ee8b5d5a44928403917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Rural
+- Conselho Regional de Agricultura
+- Criação de Serviços
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Reforma Agrária
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:17Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +115,9 @@ Na sequência da criação do regime de crédito agrícola, prometida na [Lei n.
 
 Assim, a Assembleia Regional da Madeira determina para valer como lei:
 
-###### Artigo 1.º Nos termos do artigo 57.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, é criado o Conselho Regional de Agricultura.
+Artigo 1.º Nos termos do artigo 57.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, é criado o Conselho Regional de Agricultura.
 
-###### Art. 2.º - 1 - O Conselho Regional de Agricultura é constituído por:
+Art. 2.º - 1 - O Conselho Regional de Agricultura é constituído por:
 
 a) Três membros designados pelo Governo Regional;
 
@@ -111,9 +131,9 @@ d) Dois membros designados pelas cooperativas agrícolas.
 
 3 - O Governo Regional submeterá à Assembleia Regional, no prazo de seis meses, a aprovação dos Estatutos do Conselho Regional de Agricultura.
 
-###### Art. 3.º Na Região Autónoma da Madeira, é da competência do Governo Regional o disposto no n.º 5 do artigo 39.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
+Art. 3.º Na Região Autónoma da Madeira, é da competência do Governo Regional o disposto no n.º 5 do artigo 39.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
 
-###### Art. 4.º - 1 - Os arrendamentos rurais serão obrigatoriamente reduzidos a escrito quando a superfície agrícola útil seja igual ou superior a meio hectare.
+Art. 4.º - 1 - Os arrendamentos rurais serão obrigatoriamente reduzidos a escrito quando a superfície agrícola útil seja igual ou superior a meio hectare.
 
 2 - A obrigatoriedade a que alude o número anterior não se aplica aos arrendamentos do agricultor autónomo.
 
@@ -121,7 +141,7 @@ d) Dois membros designados pelas cooperativas agrícolas.
 
 4 - Os contratos de arrendamento rural não estão sujeitos a registo predial e ficam isentos de qualquer imposto, taxa ou emolumento, ainda que reduzidos a escrito.
 
-###### Art. 5.º Na Região Autónoma da Madeira, são atribuídas aos competentes serviços do Governo Regional as seguintes matérias da [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro:
+Art. 5.º Na Região Autónoma da Madeira, são atribuídas aos competentes serviços do Governo Regional as seguintes matérias da [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro:
 
 a) O parecer a que alude o n.º 3 do artigo 8.º;
 
@@ -137,7 +157,7 @@ f) A aprovação prevista no n.º 1 do artigo 45.º;
 
 g) A aprovação de planos, referida no n.º 2 do artigo 47.º
 
-###### Art. 6.º Na Região Autónoma da Madeira, são da competência do Governo Regional as seguintes matérias previstas na [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro:
+Art. 6.º Na Região Autónoma da Madeira, são da competência do Governo Regional as seguintes matérias previstas na [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro:
 
 a) A faculdade atribuída ao Ministro da Agricultura e Pescas no artigo 10.º;
 
@@ -147,18 +167,18 @@ c) A competência do Ministro da Agricultura e Pescas prevista no n.º 1 do arti
 
 d) A autorização prevista no artigo 46.º
 
-###### Art. 7.º - 1 - O Governo Regional proporá à Assembleia Regional um regime de crédito agrícola que tenha em conta as características específicas da Região.
+Art. 7.º - 1 - O Governo Regional proporá à Assembleia Regional um regime de crédito agrícola que tenha em conta as características específicas da Região.
 
 2 - A proposta referida no número anterior deverá ser apresentada até seis meses a contar da data da criação do Instituto de Crédito Agrícola, prevista no n.º 1 do artigo 19.º da Lei 77/77, de 29 de Setembro.
 
-###### Art. 8.º À comissão concelhia de arrendamento rural compete dar parecer sobre problemas relacionados com arrendamento sempre que seja solicitada pelos órgãos de governo próprio da Região ou por departamentos do Governo Regional ligados ao sector agrário, para além das entidades previstas na alínea e) do n.º 1 do artigo 39.º da [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro.
+Art. 8.º À comissão concelhia de arrendamento rural compete dar parecer sobre problemas relacionados com arrendamento sempre que seja solicitada pelos órgãos de governo próprio da Região ou por departamentos do Governo Regional ligados ao sector agrário, para além das entidades previstas na alínea e) do n.º 1 do artigo 39.º da [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 21 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 9 de Março de 1978.**
+Assinado em 9 de Março de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

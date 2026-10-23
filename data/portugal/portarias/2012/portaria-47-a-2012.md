@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 40/2012, 1º Suplemento, Série I de 2012-02-24
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 890-(2) a 890-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/04001/0000200015.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47-a/2012/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-a-2012-162811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30a4a8dff796508e6b58f98cb23036e565ea4fd8d58da209e886b5f5d7ca15ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49e5f2cbfcac899736e08b84d6b4e93425e0f8ef5f340f5da60dcad6da061ced
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Financiamento
-- Empresa
-- Internacionalização Empresarial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
+- Financiamento
+- Internacionalização Empresarial
 - Investimento
 - Pequenas e Médias Empresas
-- Regulamento
 - PME
+- Projeto de Investimento
+- QREN
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:191523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405362:por
+  label: "Alterados os arts. 7º, 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de\
+    \ PME, aprovado pela Port 1463/2007 de 15-nov, na redação do presente diploma, pela PORT.233-A/2012.06.08.2012.MEE, DR.IS\
+    \ [151-Supl] de 06.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-a-2012-405362
+  date: '2012-08-06'
+- type: amended_by
+  target: pt:dre:191523:por
+  label: "Alterados os art.s 6º, 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de\
+    \ PME, anexo à Port 1463/2007, de 15-nov, na redação do presente diploma, pela PORT.369/2012.06.11.2012.MEE, DR.IS [214]\
+    \ de 06.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2012-191523
+  date: '2012-11-06'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -98,15 +112,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 52
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:15Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +161,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º
 
 São abrangidos pelo SI Qualificação PME os projetos de investimento promovidos por empresas, a título individual, bem como por entidades públicas, associações empresariais ou entidades do Sistema Científico e Tecnológico (SCT) direcionados para a intervenção nas PME, tendo em vista a inovação, modernização e internacionalização, através da utilização de fatores dinâmicos da competitividade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -157,7 +173,9 @@ b) ...
 
 c) (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +207,9 @@ n) ...
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +223,9 @@ d) Projeto simplificado - apresentado por uma PME para aquisição de serviços 
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +235,9 @@ b) No caso dos projetos conjuntos definidos na alínea b) do n.º 1 do artigo 6.
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - São suscetíveis de apoio no âmbito do SI Qualificação PME os projetos de investimento que incidam nas atividades previstas no n.º 1 do artigo 9.º do Decreto-Lei n.º 287/2007, de 17 de agosto, alterado pelo Decreto-Lei n.º 65/2009, de 20 de março, doravante referido como enquadramento nacional, sem prejuízo dos avisos de abertura de concursos para a apresentação de candidaturas poderem restringir as atividades abrangidas em cada concurso.
 
@@ -225,7 +249,9 @@ b) No caso dos projetos conjuntos definidos na alínea b) do n.º 1 do artigo 6.
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +271,9 @@ d) ...
 
 5 - Após a comunicação da decisão de aprovação, o promotor tem um prazo de 20 dias úteis para apresentação dos comprovantes das condições previstas no artigo 11.º do enquadramento nacional e no n.º 1 do presente artigo, o qual poderá ser prorrogado por igual período desde que o promotor apresente, dentro do prazo previsto, justificação fundamentada ao organismo intermédio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Além das condições gerais de elegibilidade previstas no artigo 12.º do enquadramento nacional, o projeto, com exceção do projeto simplificado previsto na alínea d) do n.º 1 do artigo 6.º, deve ainda cumprir os seguintes requisitos:
 
@@ -279,7 +307,9 @@ d) ...
 
 5 - Além das condições de elegibilidade do projeto previstas no artigo 12.º do enquadramento nacional, os projetos previstos na alínea d) do n.º 1 do artigo 6.º devem apenas incluir despesas posteriores à data da candidatura, realizadas por um período máximo de um ano e corresponder a uma despesa mínima elegível de (euro) 5000.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -359,11 +389,15 @@ c) Vale Internacionalização: despesas relativas à participação em feiras e 
 
 8 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O incentivo a conceder assume a natureza de incentivo não reembolsável até aos limites fixados no n.º 1 do artigo 16.º do presente regulamento, podendo ainda ser utilizados mecanismos complementares de incentivo, nomeadamente a prestação de garantia de financiamento bancário e a bonificação total ou parcial de juros e de comissões de garantia.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Com exceção do projeto simplificado previsto na alínea d) do n.º 1 do artigo 6.º e das despesas relativas à participação em feiras e exposições previstas na subalínea v) da alínea c) do artigo 12.º e das despesas previstas na subalínea xiv) da alínea c) do mesmo artigo, o incentivo a conceder é calculado através da aplicação às despesas elegíveis de uma taxa base máxima de 45%.
 
@@ -373,7 +407,9 @@ O incentivo a conceder assume a natureza de incentivo não reembolsável até ao
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -399,13 +435,17 @@ d) ...
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
 2 - As candidaturas são enviadas pela Internet através de formulário eletrónico, nos termos definidos nos avisos de abertura de concursos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -447,7 +487,9 @@ g) ...
 
 6 - Os avisos de abertura são definidos pelos órgãos de gestão competentes, ouvidos os membros da comissão de seleção, sendo divulgados através dos seus respetivos sítios na Internet.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os projetos, com exceção dos projetos simplificados previstos na alínea à) do n.º 1 do artigo 6.º, serão avaliados através do indicador de mérito do projeto (NT), em função de um conjunto de critérios de seleção, e com base em metodologia de cálculo definida no aviso de abertura de concurso.
 
@@ -459,7 +501,9 @@ g) ...
 
 5 - A seleção dos projetos simplificados previstos na alínea d) do n.º 1 do artigo 6.º é efetuada por ordem crescente da dimensão da empresa, medida pelo número de trabalhadores, até ao limite orçamental definido no aviso de abertura de concurso, sem prejuízo do referido limite poder ser reforçado, por decisão da autoridade de gestão e, em caso de igualdade, em função da data de entrada da candidatura, podendo o aviso estabelecer fatores ponderadores deste critério.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +527,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -509,7 +555,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A concessão do apoio é formalizada através de:
 
@@ -521,7 +569,9 @@ b) Nas restantes modalidades de projeto, de contrato a celebrar entre o promotor
 
 3 - A não celebração do contrato ou do termo de aceitação por razões imputáveis aos promotores, no prazo referido no número anterior, determina a caducidade da decisão de concessão de incentivo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ...
 
@@ -545,7 +595,9 @@ i) ...
 
 j) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -555,7 +607,9 @@ b) As verificações físicas e técnicas do projeto são efetuadas pelo organis
 
 2 - ...
 
-###### Artigo 26.º — Resolução do contrato e revogação do termo de aceitação
+Artigo 26.º
+
+Resolução do contrato e revogação do termo de aceitação
 
 1 - O contrato pode ser resolvido unilateralmente, ou o termo de aceitação revogado, desde que se verifique uma das seguintes condições:
 
@@ -569,7 +623,9 @@ c) ...
 
 3 - ...
 
-## ANEXO A — [...]
+ANEXO A
+
+[...]
 
 1 - Para efeitos do disposto na alínea c) do n.º 2 do artigo 11.º o plano de ação conjunto deve conter as seguintes informações:
 
@@ -607,7 +663,9 @@ f) ...
 
 g) ...
 
-## ANEXO B — [...]
+ANEXO B
+
+[...]
 
 1 - ...
 
@@ -633,7 +691,9 @@ AL(índice e) - ativo líquido da empresa.
 
 7 - ...
 
-## ANEXO C — [...]
+ANEXO C
+
+[...]
 
 1 - ...
 
@@ -679,7 +739,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 É republicado na íntegra, no anexo i à presente portaria, da qual faz parte integrante, o Regulamento do SI Qualificação PME, anexo à Portaria n.º 1463/2007, de 15 de novembro, alterado pela Portaria n.º 250/2008, de 4 de abril, e alterado e republicado pelas Portarias n.º 353-A/2009, de 3 de abril, e n.º 1101 /2010, de 25 de outubro, com as alterações ora introduzidas.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 21 de Fevereiro de 2012.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 21 de Fevereiro de 2012.
 
 ## ANEXO I — Republicação do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de PME
 

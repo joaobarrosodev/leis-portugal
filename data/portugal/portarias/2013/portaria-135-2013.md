@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06200/0190401904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135/2013/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-2013-260124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a208cf25cd998299fac0beb6c963e9894972843384a0ce4fadd57e7acff870e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b02a38e5d1e3219e8c63a17dda8c5fc2539e1b01b79663ea5a007b1f538fc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Campanha Vinícola
-- Vinho
 - Apoio ao Investimento
-- Instituto da Vinha e do Vinho
+- Campanha Vinícola
+- Financiamento
 - IFAP
+- Instituto da Vinha e do Vinho
 - Regime de Apoio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/74/2013/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/74/2013/02/15/p/dre
+- type: cites
+  target: pt:dre:1313203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 74/2013 de 15-fev, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:43Z'
   warnings: []
   errors: []
 ---
@@ -133,4 +151,4 @@ Para a campanha vitivinícola de 2013-2014, são consideradas candidaturas agrup
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de entrada em vigor da Portaria n.º 74/2013, de 15 de fevereiro.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 22 de março de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 22 de março de 2013.

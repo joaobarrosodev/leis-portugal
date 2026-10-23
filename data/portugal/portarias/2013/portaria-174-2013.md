@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/174/2013/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2013-260878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28cfd8f7c833fab71312aa771bb3279b31fe0852851b16838580df56350a31ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c928eca94bf8097f084bb11e0dd537f42cdf48ac8b39eba5b5661ae1c14047b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Matosinhos
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:114792001:por
+  label: Aprovada a alteração de todas as folhas da Reserva Ecológica Nacional para o município de Matosinhos, aprovada pela
+    Res 196/97 de 05-nov PCM, na redação do presente diploma, pelo(a) Aviso n.º 2906/2018 - Diário da República n.º 44/2018,
+    Série II de 2018-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2906-2018-114792001
+  date: '2018-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -95,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684630:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:57Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +180,7 @@ A referida planta e a memória descritiva do presente processo podem ser consult
 
 A presente portaria entra em vigor no dia seguinte ao da respetiva publicação em Diário da República.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.
 
 QUADRO ANEXO
 
@@ -149,4 +188,4 @@ Alteração da Reserva Ecológica Nacional do concelho de Matosinhos
 
 PROPOSTA DE EXCLUSÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08900/0276502766.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08900/0276502766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08900/0276502766.pdf)

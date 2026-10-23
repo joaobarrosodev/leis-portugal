@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23600/0011100112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/417/2023/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-2023-225397121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f39ec07cff0bd6996b894d52c194f2c5614379afb57bd091f708138ef500a671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f9661e40fb4df6d5cf37a7c7a0759aec831f105faee10781e44f69711752fd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Ajuda Comunitária
+- Atividade Agrícola
 - Consultoria
-- Prestação de Serviços
-- PDR 2020
 - Medida N.º 2 Conhecimento
+- PDR 2020
+- Prestação de Serviços
 relationships:
 - type: cites
   target: celex:32021R2115
@@ -120,16 +120,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/2
   label: null
   source: http://data.dre.pt/eli/port/92/2
+- type: cites
+  target: pt:dre:105579664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114177788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114952498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117343947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122074197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211241822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74539107:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:09Z'
   warnings: []
   errors: []
 ---
@@ -190,4 +250,6 @@ c) [...]»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de entrada em vigor da [Portaria n.º 98/2023](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), de 31 de março.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 30 de novembro de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 30 de novembro de 2023.
+
+117126595

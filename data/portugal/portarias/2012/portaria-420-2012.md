@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/2012/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-2012-190179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 359a5106b32c0a5fd3255838265a49cacd87414a8fba98727ad60cc9c47cd018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f238134add9f101a60e481b0749715da08233a6fcb8e418bb14901c4e41c6e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo de Resolução
 - Banco de Portugal
+- Fundo de Resolução
 - Regulamento
 relationships:
 - type: cites
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/31-a/2012/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/31-a/2012/02/10/p/dre
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:07Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +115,7 @@ Assim, nos termos do disposto no artigo 153.º-U do Regime Geral das Instituiç�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de dezembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de dezembro de 2012.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

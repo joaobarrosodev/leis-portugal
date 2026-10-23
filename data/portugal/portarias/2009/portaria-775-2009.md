@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/775/2009/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/775-2009-492724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c224ce9c96fc4f3f5d54f2ad0547eac9c0634a839a3c29021046d4a2414808
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee899e0f7598263ae9c7ed8430e7dd3e3eff8f550fc74121f18f7a760a741c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
+- Embarcação de Pesca
 - Instituto Nacional de Recursos Biológicos
 - Licenciamento
-- Recursos do Mar
 - Molusco
+- Pesca
 - Quota de Pesca
-- Embarcação de Pesca
+- Recursos do Mar
 - Relatório
 relationships:
 - type: amended_by
   target: pt:dre:215486103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215486103:por
+  label: Mantidas em vigor as restrições à pesca com ganchorra nas diversas zonas de operação estabelecidas pelo presente
+    diploma, pelo(a) Portaria n.º 199/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11 até à publicação do despacho
+    a que se refere o n.º 5 do art. 10.º desta, para cada zona de operação de pesca com a arte de ganchorra
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-2023-215486103
+  date: '2023-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -99,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/769/2006/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/769/2006/08/07/p/dre
+- type: cites
+  target: pt:dre:172730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538633:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:13Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/08500/0000500014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2022/05/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d612366286d0bc75e8113610fa895cf484bf1e4e84a40cc893ebe8ebd10cd689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0cb1d67c89a89f620536f90a814e85ac873997e266a8abc65f6ed85372c4da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Contra-ordenação
 - Fiscalização
 - Ilhas Selvagens
-- Proteção do Ambiente
-- Zona de Proteção
 - Madeira.região Autónoma
+- Proteção do Ambiente
 - Protecção do Património
 - Regime Jurídico
 - Reserva Natural
 - Sanção
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2015/03/12/p/dre
@@ -101,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:159539841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:39Z'
   warnings: []
   errors: []
 ---
@@ -473,14 +509,16 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de abril de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 29 de abril de 2022.**
+Assinado em 29 de abril de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO ÚNICO — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/08500/0000500014.pdf))](https://files.diariodarepublica.pt/1s/2022/05/08500/0000500014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/08500/0000500014.pdf)
+
+115276182

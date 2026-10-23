@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13300/0001400017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/2022/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-2022-185971765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c8ff0e6a5b1011199635e0f6946071ec1a4a4a5ba49c96e3146c7881d7c00b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e40c0007b368b5a406c57787ce81125e21823e7cf71daf3fd9528f148aa920
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Silvicultura
-- Regulamentação de Atos Legislativos
-- Feader
-- Arborização
-- Proteção da Floresta
-- Reconversão da Produção
-- Ordenamento Florestal
-- Orientação Agrícola
-- Prémio a Arborização de Superficies Agrícolas
-- Exploração Florestal
 - Agricultor
 - Agricultura
-- PDR 2020
+- Ajuda Comunitária
+- Arborização
+- Exploração Florestal
+- Feader
+- Financiamento
 - Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- Ordenamento Florestal
+- Orientação Agrícola
+- PDR 2020
+- Prémio a Arborização de Superficies Agrícolas
+- Proteção da Floresta
+- Reconversão da Produção
+- Regulamentação de Atos Legislativos
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:186522364:por
@@ -114,16 +114,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/25/2017/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/25/2017/01/13/p/dre
+- type: cites
+  target: pt:dre:105758424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186522364:por
+  label: Revogada pelo(a) Portaria n.º 188/2022 - Diário da República n.º 141/2022, Série I de 2022-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2022-186522364
+  date: '2022-07-22'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:21Z'
   warnings: []
   errors: []
 ---
@@ -158,14 +191,20 @@ a) As densidades descritas no anexo i da presente portaria, da qual faz parte in
 
 b) As densidades aprovadas no projeto de investimento, quando sejam inferiores às referidas na alínea anterior.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 (a que se refere o artigo 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/13300/0001400017.pdf))](https://files.diariodarepublica.pt/1s/2022/07/13300/0001400017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/07/13300/0001400017.pdf)
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 6 de julho de 2022.**
+O Secretário de Estado da Agricultura, Rui Manuel Costa Martinho, em 6 de julho de 2022.
+
+115490776

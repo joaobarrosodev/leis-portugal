@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/740/2009/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-2009-492397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27174e4cc2c0932b662b78ef9a31fb65945cc640b223a87fc8b8cac6a023c500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf4935093abd7a35ae808010e7fdccb0767e406d04747e190107436a6e3690ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174614574:por
+  label: Revogada, a partir de 24.11.2021, a Port 740/2009 de 10-jul DR.IS [132] pelo(a) Portaria n.º 256/2021 - Diário da
+    República n.º 225/2021, Série I de 2021-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-2021-174614574
+  date: '2021-11-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:02Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +128,7 @@ Manda o Governo, pelo Secretário de Estado Adjunto, da Indústria e da Inovaç�
 
 Em 30 de Março de 2009.
 
-**O Ministro da Cultura, José António de Melo Pinto Ribeiro. - O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra.**
+O Ministro da Cultura, José António de Melo Pinto Ribeiro. - O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra.
 
 Regulamento Arquivístico da Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação
 
@@ -236,16 +254,16 @@ Auditoria
 
 Compete à DGARQ auditar sobre a execução do disposto no presente Regulamento.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
 
 ## ANEXO II — Auto de entrega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
 
 ## ANEXO III — Guia de remessa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
 
 ## ANEXO IV — Auto de eliminação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf))](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)

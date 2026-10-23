@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/24-1979-364926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f40a4d7555dddb6bef0295d10493d16437a044833fe91922e610b52c336bae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1ca6ea8714251fb95cc46e977d7d7177656b2cec7726d6e060b1cb33baecd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Regional de Turismo
+- Extinção de Serviços
+- Governo Regional
+- Madeira.região Autónoma
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Secretaria Regional da Agricultura e Florestas
+- Secretaria Regional da Coordenação Económica
+- Secretaria Regional da Economia
+- Secretaria Regional do Equipamento Social
+- Secretário Regional
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:382673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:28Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +114,13 @@ Por outro lado, para além do relevo específico que o sector do turismo assume 
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira delibera, para valer como lei:
 
-###### Artigo 1.º O Governo Regional compõe-se de um Presidente e seis Secretários Regionais.
+Artigo 1.º O Governo Regional compõe-se de um Presidente e seis Secretários Regionais.
 
-###### Art. 2.º São extintas a Secretaria Regional de Agricultura e Pescas e a Secretaria Regional de Economia, mantendo-se as restantes Secretarias Regionais criadas pelo [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142).
+Art. 2.º São extintas a Secretaria Regional de Agricultura e Pescas e a Secretaria Regional de Economia, mantendo-se as restantes Secretarias Regionais criadas pelo [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142).
 
-###### Art. 3.º É criada a Secretaria Regional da Coordenação Económica.
+Art. 3.º É criada a Secretaria Regional da Coordenação Económica.
 
-###### Art. 4.º A Secretaria Regional da Coordenação Económica integra os seguintes âmbitos de actividade:
+Art. 4.º A Secretaria Regional da Coordenação Económica integra os seguintes âmbitos de actividade:
 
 a) Todo o âmbito atribuído à Secretaria Regional de Agricultura e Pescas pelo [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), compreendendo os órgãos e direcções de serviço definidos pelo Decreto Regulamentar Regional n.º 8/79/M;
 
@@ -106,18 +128,18 @@ b) Todo o âmbito de competência e os serviços que estavam atribuídos pelo [D
 
 c) Os serviços referidos no artigo 3.º do [Decreto Regulamentar Regional n.º 4/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1979-382673).
 
-###### Art. 5.º Transita para a Presidência do Governo Regional a superintendência no sector do turismo, bem como a Direcção Regional de Turismo.
+Art. 5.º Transita para a Presidência do Governo Regional a superintendência no sector do turismo, bem como a Direcção Regional de Turismo.
 
-###### Art. 6.º Transita para a Secretaria Regional do Equipamento Social a superintendência nos sectores dos transportes e da energia, bem como a Direcção Regional de Transportes.
+Art. 6.º Transita para a Secretaria Regional do Equipamento Social a superintendência nos sectores dos transportes e da energia, bem como a Direcção Regional de Transportes.
 
-###### Art. 7.º Nos termos definidos na lei, proceder-se-á à consequente estruturação orgânica da Presidência do Governo, da Secretaria Regional do Equipamento Social e da Secretaria Regional da Coordenação Económica.
+Art. 7.º Nos termos definidos na lei, proceder-se-á à consequente estruturação orgânica da Presidência do Governo, da Secretaria Regional do Equipamento Social e da Secretaria Regional da Coordenação Económica.
 
-###### Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 26 de Setembro de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 28 de Setembro de 1979.**
+Assinado em 28 de Setembro de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

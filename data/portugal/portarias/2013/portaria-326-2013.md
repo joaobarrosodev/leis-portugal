@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/21200/0633006332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326/2013/11/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-2013-505004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77a5268026007f77321fa4950bf06874b067a3451f76a4d8a2c25f32a3bbd15e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14eced8f5096b54428c5fcb012d25aebb4a1cda9e6947c794c729b7104cc6586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Acção de Formação
 - Acreditação
-- Formação Profissional
 - Certificação Electrónica
-- Educação Física
-- Formador
-- Sistema Nacional de Qualificações
-- Instituto Português do Desporto e Juventude
-- Educação Permanente
-- Qualificação Profissional
-- Treinador Desportivo
 - Desporto
+- Educação Física
+- Educação Permanente
+- Formação Profissional
+- Formador
+- Instituto Português do Desporto e Juventude
+- Qualificação Profissional
+- Sistema Nacional de Qualificações
+- Treinador Desportivo
 relationships:
 - type: amended_by
   target: pt:dre:135844797:por
@@ -90,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:174781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:135844797:por
+  label: Revogada, a partir de 01.07.2020, pelo(a) Portaria n.º 141/2020 - Diário da República n.º 115/2020, Série I de 2020-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/141-2020-135844797
+  date: '2020-06-16'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:48Z'
   warnings: []
   errors: []
 ---
@@ -252,4 +265,4 @@ h) Datas de início e de fim da ação de formação.
 
 A presente Portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
-**O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 29 de outubro de 2013.**
+O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 29 de outubro de 2013.

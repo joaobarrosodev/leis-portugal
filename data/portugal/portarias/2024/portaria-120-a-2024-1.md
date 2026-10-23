@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06202/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/120-a/2024/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-a-2024-857832625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bc012781ff6a1fb3fd7a6f0fa11c081730be0df739c2c9fefeb9ac9b9afdebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adfebf4ddf14b23880d478452c4a7ebb09e7ab9665164cefea94d59586f5d6e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para o Desenvolvimento e Coesão
+- Aquicultura
 - Compensação Financeira
-- Regulamentação de Atos Legislativos
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Frota de Pesca
 - IFAP
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Aquicultura
+- Regulamentação de Atos Legislativos
 - Regulamento CE
 relationships:
 - type: cites
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/30-c/2022/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/30-c/2022/04/18/p/dre
+- type: cites
+  target: pt:dre:182213908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212551431:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:51Z'
   warnings: []
   errors: []
 ---
@@ -193,19 +201,19 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 26 de março de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 
 Tabela 1 - Compensação por embarcação
 
-| Segmento de frota | Comprimento fora a fora das embarcações (m) | Compensação por tipo de embarcação (€) |
+| Segmento de frota | Comprimento fora a fora das embarcações (m) | Compensação por tipo<br>de embarcação (€) |
 | --- | --- | --- |
 | Arrasto | Inferior a 10 | 345 |
-| Arrasto | Igual ou superior a 10 e até 12 | 1 211 |
-| Arrasto | Igual ou superior a 12 e até 18 | 2 052 |
-| Arrasto | Igual ou superior a 18 e até 24 | 10 045 |
-| Arrasto | Igual ou superior a 24 | 15 487 |
+| Igual ou superior a 10 e até 12 | 1 211 |  |
+| Igual ou superior a 12 e até 18 | 2 052 |  |
+| Igual ou superior a 18 e até 24 | 10 045 |  |
+| Igual ou superior a 24 | 15 487 |  |
 | Cerco | Inferior a 10 | 440 |
 |  | Igual ou superior a 10 e até 12 | 956 |
 |  | Igual ou superior a 12 e até 18 | 1 909 |
@@ -219,7 +227,7 @@ Tabela 1 - Compensação por embarcação
 
 Tabela 2 - Compensação por empresa e tipo de estabelecimento aquícola
 
-| Tipologia de estabelecimento em águas marinhas incluindo as de transição e águas interiores | Compensação custos de produção por empresa (€) |
+| Tipologia de estabelecimento em águas marinhas incluindo as de transição e águas interiores | Compensação custos de produção<br>por empresa (€) |
 | --- | --- |
 | 1 - Viveiros | 285 |
 | 2 - Tanques |  |
@@ -228,3 +236,5 @@ Tabela 2 - Compensação por empresa e tipo de estabelecimento aquícola
 | 3 - Estruturas flutuantes |  |
 | 3.1 - Peixe | 15 120 |
 | 3.2 - Bivalves | 11 361 |
+
+117535078

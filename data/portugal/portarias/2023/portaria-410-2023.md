@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23400/0011900120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/410/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/410-2023-225217601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 763285e501ace32144b70a956ac9d421866b99526a17a174bf86400245ba9802
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4152faf29ea3ae24cd6b9400d56bb494061343ac60d4eec8c23f70b5f7025d85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Admissão de Pessoal
 - Concurso
 - Concurso de Ingresso
-- Força Aérea
-- Regulamentação de Atos Legislativos
 - Estatuto dos Militares das Forças Armadas
-- Recrutamento de Pessoal
+- Força Aérea
 - Quadro Permanente da Força Aérea
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/77/2023/09/04/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:221225698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:07Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +191,6 @@ c) Preencher os requisitos especiais estabelecidos em disposições próprias co
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 23 de novembro de 2023.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 23 de novembro de 2023.
+
+117113553

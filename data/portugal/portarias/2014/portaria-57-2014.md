@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/57/2014/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2014-572418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dbf9daca63ead428406af27e7a0181e1aeb3f645ff8299937fd979140aa8b18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4414c1406264c5229ab16297f41ed389064d7cb37323762b2778f5d43167bd53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Autoridade da Concorrência
 - Classificação Económica das Receitas Públicas
-- Instituto da Construção e do Imobiliário
-- Instituto Nacional de Aviação Civil
-- Instituto das Comunicações de Portugal
-- Instituto da Mobilidade e dos Transportes
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Entidade Reguladora dos Serviços Energéticos
+- Instituto da Construção e do Imobiliário
+- Instituto da Mobilidade e dos Transportes
+- Instituto das Comunicações de Portugal
+- Instituto Nacional de Aviação Civil
 - Receita Própria
 - Taxa
 relationships:
@@ -117,16 +117,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
+- type: cites
+  target: pt:dre:176336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647508:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:47Z'
   warnings: []
   errors: []
 ---
@@ -177,4 +225,4 @@ d) No caso do INAC, no início de junho e de setembro, até ao dia 15 de cada m�
 
 A presente portaria produz efeitos a 1 de janeiro de 2013, sem prejuízo do disposto no n.º 2 do artigo 3.º da Portaria n.º 383/2012, de 23 de novembro.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de fevereiro de 2014. - O Ministro da Economia, António de Magalhães Pires de Lima, em 24 de fevereiro de 2014. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 29 de janeiro de 2014.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de fevereiro de 2014. - O Ministro da Economia, António de Magalhães Pires de Lima, em 24 de fevereiro de 2014. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 29 de janeiro de 2014.

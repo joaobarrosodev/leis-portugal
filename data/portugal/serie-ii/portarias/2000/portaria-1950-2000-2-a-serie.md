@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1950-2000-2000369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:10:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ddc0ec6a6be49023c06f1695e788acf427dc7a81570ff0a36f933cbf711f09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bed116c2e3b0f78ab45589842ee83d8f8b1f9bc043b26306637c686d2b84c9d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:10:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Equipamento
+- Autorização de Despesas
+- Comando Logístico e Administrativo
+- Força Aérea
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:10:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +113,7 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
 
 2.º Os encargos orçamentais resultantes da celebração dos contratos a que se refere o número anterior não poderão exceder, em cada ano, as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/12/287000000/1998519985.pdf))](https://files.diariodarepublica.pt/2s/2000/12/287000000/1998519985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/12/287000000/1998519985.pdf)
 
 3.º As importâncias fixadas para 2001, 2002 e 2003 serão acrescidas dos saldos que se apurarem na execução orçamental dos anos anteriores.
 

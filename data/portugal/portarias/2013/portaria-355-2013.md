@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/355/2013/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee047be8e6fbe01328b2448126444d11580c1385918e0528f1797870e7c4065f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 029aedb71c74fafb2c882a64d413a3b7c124cf37565972019d1e047ba93de35c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- Administração Pública
 - Carreira Médica
 - Clínica Geral
 - Concurso
 - Concurso de Habilitação
-- Administração Pública
+- Médico
 - Recrutamento de Pessoal
 - Regulamento
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:900706886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69933711:por
+  label: Alterados os arts. 18.º e 23.º da Port 207/2011, de 24-mai, na redação do presente diploma pelo(a) Portaria n.º 229-A/2015
+    - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-a-2015-69933711
+  date: '2015-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
   label: null
@@ -95,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/207/2011/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/207/2011/05/24/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:59Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +185,9 @@ b) [...]
 
 12 - Anterior n.º 11
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -175,7 +195,9 @@ b) [...]
 
 3 - O júri deve iniciar a avaliação curricular dos candidatos admitidos ao procedimento no prazo máximo de 30 dias úteis após a data de afixação da respetiva lista, devendo a mesma ser concluída no prazo máximo de 30 dias úteis.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -255,13 +277,17 @@ Alínea h) - de 0 a 1 valores.
 
 8 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A prova prática destina-se a avaliar a capacidade do candidato para resolver problemas e atuar, assim como reagir, em situações do âmbito da respetiva área profissional de especialidade, com a apresentação e discussão de um plano de gestão clínica do serviço ou unidade da área de especialização à qual concorre, tendo em vista a maximização da eficiência, a melhoria contínua da qualidade, metas e objetivos a alcançar e a forma de seguimento e avaliação de resultados.
 
 2 - A prova prática apenas tem lugar no âmbito dos procedimentos de recrutamento para a categoria de assistente graduado sénior, uma vez que, para as categorias de assistente e de assistente graduado, os objetivos que se pretendem alcançar com a realização desta prova já se encontram acautelados, respetivamente, pela avaliação final do internato médico e pela avaliação final da prova de habilitação ao grau de consultor.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -285,4 +311,4 @@ A presente portaria aplica-se aos procedimentos concursais que sejam publicitado
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 4 de dezembro de 2013. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 25 de novembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 4 de dezembro de 2013. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 25 de novembro de 2013.

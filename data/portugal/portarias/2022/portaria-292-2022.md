@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23600/0008700088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292/2022/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3feba6bf63376ad80d47e0630d8e9f47e5da5f825c66e024f4378cafe8600b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef99a985a2afdd29e32f8af7a00a632b1fd30aa27169f2d64f15b844e8af62b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,16 +89,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53/2021/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53/2021/03/10/p/dre
+- type: cites
+  target: pt:dre:159174081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176075693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225397118:por
+  label: Revogada, a partir de 12.12.2023 e com efeitos a 01.01.2024, o art. 2.º do presente diploma, pelo(a) Portaria n.º
+    414/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07,nos termos do seu art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-2023-225397118
+  date: '2023-12-07'
+- type: repealed_by
+  target: pt:dre:901536090:por
+  label: Revogada, com efeitos a partir de 1 de janeiro de 2025, pelo(a) Portaria n.º 358/2024/1 - Diário da República n.º
+    252/2024, Série I de 2024-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2024-901536090
+  date: '2024-12-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:04Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +163,6 @@ O fator de sustentabilidade a aplicar, nos termos do disposto no artigo 35.º do
 
 A presente portaria produz efeitos a partir de 1 de janeiro de 2023.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de dezembro de 2022.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de dezembro de 2022.
+
+115948589

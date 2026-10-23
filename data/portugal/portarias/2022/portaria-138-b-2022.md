@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 74/2022, 1º Suplemento, Série I de 2022-04-14
   number: '74'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138-b/2022/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-b-2022-182135958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9728e2b5a88d46a4d18f1766ef3e2c14a5e1304124cf9ca0da022d6cb6d199e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a923647549a4bf6c38b44ca057149fa4dec22938edd21a145e7faf478a107913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Transporte Rodoviário
-- Regulamentação de Atos Legislativos
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
 - Fixação de Preços
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - IVA
 - Preço de Venda
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
+- Transporte Rodoviário
 - Tributação
 relationships:
 - type: cites
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/128-a/2022/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/128-a/2022/03/25/p/dre
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181161521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:05Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +142,6 @@ Nestes termos, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais 
 
 Em 14 de abril de 2022.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.
+
+115233624

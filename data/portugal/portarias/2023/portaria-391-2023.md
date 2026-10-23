@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22700/0004500050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/391/2023/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/391-2023-224661316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 789f7d93309c72f32d15f9cdb166294e6f1b93c776a48c6325541374ebdc0aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9122adb71e684c009e4bf1ac31dba936bca62db0b35c328acca7f2964f524c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
-- Regulamentação de Atos Legislativos
-- Pesca
-- Licença de Apanhador
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Licença de Apanhador
+- Pesca
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Transacção Comercial
 relationships:
 - type: cites
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/70/2014/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/70/2014/09/01/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384930:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:00Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +291,7 @@ c) Emitir parecer relativamente aos despachos do diretor-geral da DGRM a que se 
 
 3 - Os requerentes que cumpram o disposto no número anterior podem apresentar o comprovativo da formação a que se refere o n.º 1 do artigo 3.º até 30 de setembro de 2025, sem o qual não será renovada a licença para 2026.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 17 de novembro de 2023.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 17 de novembro de 2023.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -307,9 +323,9 @@ k) Mistura ou sargaço (conjunto de espécies de algas arrojadas ou em flutuaç�
 
 1 - Zonas de apanha de algas em mergulho profissional, número máximo de licenças e número máximo de embarcações de apoio:
 
-|  |  |  |
+| Zona de apanha | Número máximo<br>de licenças - Apanha<br>em mergulho profissional | Número máximo<br>de embarcações<br>de apoio (*) |
 | --- | --- | --- |
-| Zona de apanha | Número máximo de licenças - Apanha em mergulho profissional | Número máximo de embarcações de apoio (*) |
+|  |  |  |
 | Zona 1 - Compreende as áreas de jurisdição das Capitanias de Caminha a Póvoa de Varzim ... | 20 | 2 |
 | Zona 2 - Compreende as áreas de jurisdição das Capitanias de Vila do Conde a Figueira da Foz ... | 20 | 2 |
 | Zona 3 - Compreende as áreas de jurisdição da Capitania da Nazaré | 90 | 22 |
@@ -320,3 +336,5 @@ k) Mistura ou sargaço (conjunto de espécies de algas arrojadas ou em flutuaç�
 (*) Cada embarcação de apoio apenas poderá ser autorizada a operar numa única zona, em cada ano civil.
 
 2 - Para operação na área de jurisdição de cada capitania é fixado em 30 o número máximo de licenças para apanha de algas previstas na alínea a) do n.º 1 do artigo 2.º
+
+117079818

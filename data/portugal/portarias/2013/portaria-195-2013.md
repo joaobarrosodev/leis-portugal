@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/195/2013/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-2013-513600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcc8d5c0d35a19993c73b840b6c83d78a125156d2ef891db9f1889e234bb30dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ccf53218f858ee797cc317bce9c60e068bf9c635efde99ec659707b64d0a1ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato de Seguro
-- Financiamento
 - Definição de Competências
-- Instituto da Vinha e do Vinho
+- Financiamento
 - IFAP
+- Instituto da Vinha e do Vinho
 - Página na Internet
 - Regime de Apoio
 - Regulamento CE
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:572379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572379:por
+  label: "Alterados os arts 2.º, 5.º, 7.º e revogado o n.º 3 do art. 7.º da Port 42/2012, de 10-fev, na redacção da presente\
+    \ portaria, pela PORT.52/2014.28.02.2014.MAGM, DR.IS [42] de 28.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-2014-572379
+  date: '2014-02-28'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -92,13 +98,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:05Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +141,4 @@ O artigo 7.º da Portaria n.º 42/2012, de 10 de fevereiro, passa a ter a seguin
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos contratos de seguro celebrados a partir do ano de 2013.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 20 de maio de 2013.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 20 de maio de 2013.

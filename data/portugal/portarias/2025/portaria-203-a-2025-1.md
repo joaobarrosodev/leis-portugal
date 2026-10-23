@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/08001/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203-a/2025/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-a-2025-916205897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c1d27325111960102571de1100243afe62d36a8183edbc484ee790037444a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a1450062cf9ee2840312ffe4a62f8f254a14d39c98aa1d93a5ddcf4f58bd452
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Energia Elétrica
-- Consumo de Energia
-- Regulamentação de Atos Legislativos
-- Contrato de Adesão
 - Auxílio de Minimis
+- Centro Eletroprodutor
+- Consumo de Energia
+- Contrato de Adesão
+- Energia Elétrica
+- Estatuto do Cliente Eletrointensivo
+- Financiamento
 - Indústria
 - Proteção do Ambiente
+- Regulamentação de Atos Legislativos
 - Sistema Elétrico Nacional
-- Centro Eletroprodutor
-- Estatuto do Cliente Eletrointensivo
 relationships:
+- type: amends
+  target: pt:numero:portaria:112/2022
+  label: Altera, a partir de 25 de abril de 2025, nos termos do artigo 5.º do presente diploma, os artigos 2.º, 3.º, 4.º,
+    5.º, 6.º, 9.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º e o anexo, adita os artigos 8.º-A e 18.º-A e revoga os n.ºs 2 e 3 do
+    artigo 7.º e os artigos 14.º e 15.º da Portaria n.º 112/2022, de 14 de março, Diário da República n.º 51/2022, Série I
+  source: null
+  date: '2022-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2020/04/06/p/dre
   label: null
@@ -101,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/112/2022/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/112/2022/03/14/p/dre
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3290785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3397117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:22Z'
   warnings: []
   errors: []
 ---
@@ -173,11 +212,13 @@ CI(índice n) = Custo das mercadorias vendidas e das matérias consumidas(índic
 
 5 - Para o efeito do número anterior, as instalações de consumo encontram-se vinculadas ao cumprimento dos requisitos previstos no n.º 1 em, pelo menos, dois dos três anos posteriores ao pedido de adesão, com base nos cenários reais ou estimados, conforme as situações aplicáveis.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
-2 - Para a validação do cumprimento dos requisitos previstos nos n.<sup>os</sup>1, 3 ou 5 do artigo anterior, a Direção-Geral de Energia e Geologia (DGEG) deve remeter os pedidos de adesão desagregados por instalação de consumo antes do fim do prazo referido no n.º 2 do artigo 193.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro:
+2 - Para a validação do cumprimento dos requisitos previstos nos n.os1, 3 ou 5 do artigo anterior, a Direção-Geral de Energia e Geologia (DGEG) deve remeter os pedidos de adesão desagregados por instalação de consumo antes do fim do prazo referido no n.º 2 do artigo 193.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro:
 
 a) [...]
 
@@ -189,7 +230,9 @@ b) Aos operadores das redes de distribuição (ORD), para obtenção dos dados d
 
 5 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O contrato de adesão vigora:
 
@@ -199,7 +242,7 @@ b) No âmbito do n.º 4 do artigo 2.º, pelo prazo de três anos a contar do in�
 
 2 - [...]
 
-3 - Os pedidos de renovação ou de conversão dos contratos de adesão devem ser instruídos com os elementos de informação necessários para a verificação do cumprimento dos requisitos de elegibilidade previstos nos n.<sup>os</sup>1, 3 ou 5 do artigo 2.º, aplicando-se o procedimento referido nos termos dos n.<sup>os</sup>1 a 3 do artigo anterior, com as necessárias adaptações.
+3 - Os pedidos de renovação ou de conversão dos contratos de adesão devem ser instruídos com os elementos de informação necessários para a verificação do cumprimento dos requisitos de elegibilidade previstos nos n.os1, 3 ou 5 do artigo 2.º, aplicando-se o procedimento referido nos termos dos n.os1 a 3 do artigo anterior, com as necessárias adaptações.
 
 4 - O incumprimento, num determinado ano civil, dos requisitos de elegibilidade previstos no número anterior determina, através de despacho do diretor-geral da DGEG:
 
@@ -209,13 +252,15 @@ b) A cessação do contrato de adesão, nos termos do artigo 6.º;
 
 5 - A DGEG comunica ao GGS ou ao respetivo ORD as renovações ou conversões dos contratos de adesão, no prazo referido no n.º 4 do artigo anterior.
 
-6 - As instalações que obtenham o Estatuto do Cliente Eletrointensivo devem apresentar à DGEG, até 30 abril de cada ano civil do contrato, incluindo o ano civil subsequente ao do seu termo, os comprovativos de manutenção dos requisitos de elegibilidade, através da disponibilização dos elementos de informação constantes das alíneas d) e f) do n.º 1 ou das alíneas d) e e) do n.º 2 do anexo à presente portaria, no âmbito dos pedidos de adesão referidos, respetivamente, nos n.<sup>os</sup>1 ou 4 do artigo 2.º
+6 - As instalações que obtenham o Estatuto do Cliente Eletrointensivo devem apresentar à DGEG, até 30 abril de cada ano civil do contrato, incluindo o ano civil subsequente ao do seu termo, os comprovativos de manutenção dos requisitos de elegibilidade, através da disponibilização dos elementos de informação constantes das alíneas d) e f) do n.º 1 ou das alíneas d) e e) do n.º 2 do anexo à presente portaria, no âmbito dos pedidos de adesão referidos, respetivamente, nos n.os1 ou 4 do artigo 2.º
 
 7 - Os pedidos de renovação ou de conversão dos contratos de adesão ao Estatuto do Cliente Eletrointensivo encontram-se, ainda, condicionados ao prévio cumprimento do disposto nos artigos 8.º e 8.º-A.
 
 8 - O disposto no número anterior aplica-se aos novos pedidos de adesão ao Estatuto do Cliente Eletrointensivo seguintes ao indeferimento dos pedidos de renovação ou de conversão dos anteriores contratos de adesão referentes às mesmas instalações de consumo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +268,9 @@ b) A cessação do contrato de adesão, nos termos do artigo 6.º;
 
 3 - A DGEG comunica ao GGS ou ao respetivo ORD a celebração de novo contrato de adesão nos termos da alínea a) do número anterior, no prazo referido no n.º 4 do artigo 3.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -231,7 +278,7 @@ a) [...]
 
 b) [...]
 
-c) Incumprimento superveniente dos requisitos de elegibilidade previstos nos n.<sup>os</sup>1, 3 ou 5 do artigo 2.º;
+c) Incumprimento superveniente dos requisitos de elegibilidade previstos nos n.os1, 3 ou 5 do artigo 2.º;
 
 d) [...]
 
@@ -249,7 +296,9 @@ h) Incumprimento das regras aplicáveis às auditorias energéticas e sistemas d
 
 4 - A DGEG comunica ao GGS ou ao respetivo operador de rede a decisão de cessação do contrato de adesão nos termos dos números anteriores, no prazo referido no n.º 4 do artigo 3.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os clientes eletrointensivos beneficiam da redução parcial dos encargos correspondentes aos CIEG que incidem sobre a tarifa de uso global do sistema nos termos da alínea a) do n.º 2 do artigo 195.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro, na componente de custo de energia elétrica proveniente da RESP, nos termos a operacionalizar pela ERSE.
 
@@ -257,7 +306,9 @@ h) Incumprimento das regras aplicáveis às auditorias energéticas e sistemas d
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os clientes eletrointensivos têm acesso a um mecanismo de cobertura de risco relativo ao pagamento do preço de aquisição a médio e longo prazo de eletricidade proveniente de fontes de energia renováveis através de contratos bilaterais de longa duração.
 
@@ -269,13 +320,17 @@ b) Assegurar 10 % do consumo anual de energia elétrica dos clientes eletrointen
 
 3 - A cobertura de risco prevista no n.º 1 é assegurada através de Sociedades de Garantia Mútua com contragarantia do Fundo de Contragarantia Mútuo e está sujeita ao cumprimento das regras europeias aplicáveis em matéria de auxílios de Estado.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [n.º único] A cobertura dos riscos referida no artigo anterior reveste a forma de garantia nunca superior a 80 %
 
 2 - (Revogado.)
 
-###### Artigo 13.º — Responsabilidades
+Artigo 13.º
+
+Responsabilidades
 
 1 - As Sociedades de Garantia Mútua garantem a cobertura dos riscos assumidos em relação ao risco de incumprimento do pagamento do preço estabelecido nos contratos celebrados pelos Beneficiários para aquisição a médio e longo prazo de eletricidade proveniente de fontes de energia renovável, nos termos das condições estabelecidas na garantia, limitada ao prejuízo efetivo.
 
@@ -287,13 +342,17 @@ a) Assegurar as responsabilidades emergentes da cobertura dos riscos, até ao li
 
 b) Pagar a remuneração do Banco Português de Fomento, S. A., enquanto entidade gestora do Fundo de Contragarantia Mútuo, nos termos previstos no n.º 1 do artigo 24.º da Portaria n.º 1354-A/99 (2.ª série), de 3 de dezembro.
 
-###### Artigo 16.º — Pagamento
+Artigo 16.º
+
+Pagamento
 
 1 - O pagamento da garantia, nos termos do artigo 13.º, é realizado dentro dos prazos previstos no contrato de cobertura de risco, sempre que se encontrem preenchidas as respetivas condições e se verifique a existência de um direito legítimo ao acionamento da garantia.
 
 2 - Com o pagamento da garantia autónoma, o cliente eletrointensivo obriga-se a pagar à Sociedade de Garantia Mútua todos os valores que esta tenha pago em cumprimento da garantia prestada, sendo devidos juros moratórios sobre o montante em dívida na eventualidade do pagamento não ocorrer no prazo fixado para o efeito.
 
-###### Artigo 17.º — Remuneração do Gestor
+Artigo 17.º
+
+Remuneração do Gestor
 
 1 - As Sociedades de Garantia Mútua recebem uma comissão de garantia paga pelo cliente eletrointensivo pela garantia prestada.
 
@@ -301,7 +360,9 @@ b) Pagar a remuneração do Banco Português de Fomento, S. A., enquanto entidad
 
 3 - O Banco Português de Fomento, S. A., recebe, enquanto entidade gestora do Fundo de Contragarantia Mútua, uma comissão de gestão nos termos legalmente previstos, que está incluída no limite estabelecido na alínea a) do n.º 3 do artigo 13.º da presente portaria.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -315,7 +376,7 @@ São aditados à [Portaria n.º 112/2022](https://diariodarepublica.pt/dr/detalh
 
 Auditorias energéticas e sistemas de gestão de energia
 
-1 - As instalações que obtenham o Estatuto do Cliente Eletrointensivo, nos termos dos n.<sup>os</sup>1 ou 4 do artigo 2.º, e que não estejam abrangidas pelo Sistema de Gestão dos Consumos Intensivos de Energia (SGCIE), aprovado pelo [Decreto-Lei n.º 71/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2008-249821), de 15 de abril, na sua redação atual, ficam sujeitas à realização de uma auditoria energética nos termos do disposto no [Despacho n.º 17313/2008](https://diariodarepublica.pt/dr/detalhe/despacho/17313-2008-3397117), de 26 de junho, e no ponto 1.1. do [Despacho n.º 17449/2008](https://diariodarepublica.pt/dr/detalhe/despacho/17449-2008-3290785), de 27 de junho, na sua redação atual.
+1 - As instalações que obtenham o Estatuto do Cliente Eletrointensivo, nos termos dos n.os1 ou 4 do artigo 2.º, e que não estejam abrangidas pelo Sistema de Gestão dos Consumos Intensivos de Energia (SGCIE), aprovado pelo [Decreto-Lei n.º 71/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2008-249821), de 15 de abril, na sua redação atual, ficam sujeitas à realização de uma auditoria energética nos termos do disposto no [Despacho n.º 17313/2008](https://diariodarepublica.pt/dr/detalhe/despacho/17313-2008-3397117), de 26 de junho, e no ponto 1.1. do [Despacho n.º 17449/2008](https://diariodarepublica.pt/dr/detalhe/despacho/17449-2008-3290785), de 27 de junho, na sua redação atual.
 
 2 - As auditorias energéticas referidas no número anterior devem ser:
 
@@ -341,7 +402,7 @@ c) Investimentos em instalações para autoconsumo baseadas em fontes de energia
 
 d) Outros investimentos ou ações semelhantes.
 
-5 - O relatório de execução final, com a análise da evolução dos requisitos de elegibilidade previstos nos n.<sup>os</sup>1 ou 4 do artigo 2.º, encontra-se sujeito ao cumprimento do disposto no n.º 3 do anexo à presente portaria e deve ser instruído com os seguintes elementos de informação:
+5 - O relatório de execução final, com a análise da evolução dos requisitos de elegibilidade previstos nos n.os1 ou 4 do artigo 2.º, encontra-se sujeito ao cumprimento do disposto no n.º 3 do anexo à presente portaria e deve ser instruído com os seguintes elementos de informação:
 
 a) O relatório de auditoria energética, nos termos do n.º 1;
 
@@ -355,7 +416,9 @@ d) O comprovativo do cumprimento da obrigação de instalação, certificação 
 
 7 - Para o cumprimento do disposto no presente artigo, as instalações de consumo que obtenham o Estatuto do Cliente Eletrointensivo nos termos do n.º 4 do artigo 2.º devem considerar a realização da auditoria energética referida no n.º 1 até ao final do segundo ano civil a partir do ano civil onde se verificou a sua entrada em exploração, ou o cumprimento das disposições do SGCIE, conforme a situação aplicável.
 
-###### Artigo 18.º-A — (Revisão dos requisitos de elegibilidade)
+Artigo 18.º-A
+
+(Revisão dos requisitos de elegibilidade)
 
 1 - O membro do governo responsável pela área da energia pode avaliar periodicamente o requisito previsto na alínea a) do n.º 1 do artigo 2.º»
 
@@ -375,7 +438,7 @@ O anexo a que se refere o n.º 1 do artigo 3.º da [Portaria n.º 112/2022](http
 
 ###### Artigo 6.º — Norma revogatória
 
-São revogados os n.<sup>os</sup> 2 e 3 do artigo 7.º, os artigos 14.º e 15.º da [Portaria n.º 112/2022](https://diariodarepublica.pt/dr/detalhe/portaria/112-2022-180398375), de 14 de março, que regulamenta o Estatuto do Cliente Eletrointensivo.
+São revogados os n.os 2 e 3 do artigo 7.º, os artigos 14.º e 15.º da [Portaria n.º 112/2022](https://diariodarepublica.pt/dr/detalhe/portaria/112-2022-180398375), de 14 de março, que regulamenta o Estatuto do Cliente Eletrointensivo.
 
 ###### Artigo 7.º — Entrada em vigor
 
@@ -383,7 +446,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 24 de abril de 2025.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -428,3 +491,5 @@ iii) Comprovativo dos últimos anos civis com histórico da energia elétrica pr
 e) VAB anual da instalação de consumo nos últimos anos com histórico de consumo de energia elétrica, devidamente certificado e auditado, quando aplicável.
 
 3 - Os pedidos de adesão e de submissão do relatório de execução, conforme a situação aplicável, devem ser assinados pelo(s) representante(s) com poderes para representar a instalação de consumo, acompanhado do código de acesso à certidão permanente do registo comercial e procuração, se aplicável, que permita verificar os poderes de representação do(s) assinante(s).
+
+118986397

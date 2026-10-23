@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 19-(4) a 19-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17801/0000400023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-b/2023/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d83e39663702c7636a0033d7d5e808cea091b6a34ce34f329654d3ba3c9b010a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24d9f30823d4d879147d01b10b8470dcbe55e14100d5e5c361b69c51041f169c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Financiamento
+- Curso Profissional
+- Direção Geral dos Estabelecimentos Escolares
 - Ensino Particular
 - Ensino Profissional
-- Curso Profissional
-- Escola Profissional
-- Fiscalização
-- SIGO
-- Publicitação
 - Ensino Secundário
-- Direção Geral dos Estabelecimentos Escolares
-- Inspecção Geral da Educação e Ciência
-- Política de Educação
-- Internet
+- Escola Profissional
 - Estabelecimento de Ensino
-- Subsídio
+- Financiamento
+- Fiscalização
+- Inspecção Geral da Educação e Ciência
+- Internet
 - Plataforma Eletrónica
+- Política de Educação
+- Publicitação
+- SIGO
+- Subsídio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2018
@@ -124,16 +124,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/49/2007/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/49/2007/01/08/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116154369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2824963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3462343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69820476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:22Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +224,9 @@ A presente portaria procede à terceira alteração à [Portaria n.º 49/2007](h
 
 O presente diploma define as regras a que deve obedecer o financiamento público dos cursos profissionais de nível secundário regulados pela [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto, e dos cursos de educação e formação de jovens regulados pelo [Despacho Conjunto n.º 453/2004](https://diariodarepublica.pt/dr/detalhe/despacho-conjunto/453-2004-2824963), publicado no Diário da República, 2.ª série, n.º 175, de 27 de julho de 2004, na sua redação atual, ministrados em escolas profissionais privadas sujeitas ao regime jurídico previsto no [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho, na sua redação atual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -182,11 +240,15 @@ a) [...]
 
 b) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Podem ter acesso ao apoio financeiro regulado no âmbito do presente diploma as entidades proprietárias de escolas profissionais privadas sujeitas ao regime jurídico previsto no [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho, na sua redação atual, relativamente às ofertas formativas previstas no artigo 2.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de financiamento é efetuado junto da Direção-Geral dos Estabelecimentos Escolares, mediante a apresentação, por parte das entidades candidatas, da respetiva proposta de oferta formativa para o ciclo de formação a iniciar no ano civil em que decorre a candidatura, proposta essa a ser efetuada através da plataforma do Sistema Integrado de Gestão das Ofertas - SIGO.
 
@@ -206,7 +268,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -220,7 +284,9 @@ c) [...]
 
 3 - A proposta de oferta formativa deve ser assinada e as respetivas páginas rubricadas pelos órgãos representativos da escola profissional privada, nos termos dos artigos 15.º e 25.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A Direção-Geral dos Estabelecimentos Escolares procede à análise dos pedidos de financiamento com base nos critérios estabelecidos na presente portaria, tendo em vista a elaboração de proposta final a submeter à homologação do membro do Governo responsável pela área da educação.
 
@@ -230,17 +296,23 @@ c) [...]
 
 4 - Da decisão final do procedimento deverão constar os cursos a apoiar, o número de turmas subsidiadas, por escola, por curso, bem como o valor do subsídio, por turma, por curso, previamente definido por despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A notificação às entidades candidatas da decisão de aprovação ou de indeferimento da candidatura será efetuada pela Direção-Geral dos Estabelecimentos Escolares, no prazo de 10 dias contados desde a decisão final do procedimento a que se alude no n.º 3 do artigo anterior.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O conteúdo da decisão final do procedimento previsto no n.º 4 do artigo 8.º, com as eventuais alterações decorrentes das reclamações apresentadas nos termos do n.º 2 do artigo anterior, é tornado público pela Direção-Geral dos Estabelecimentos Escolares na sua página eletrónica, assim como por cada uma das escolas profissionais privadas, no que respeita às suas ofertas formativas objeto de financiamento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -260,7 +332,9 @@ O conteúdo da decisão final do procedimento previsto no n.º 4 do artigo 8.º,
 
 9 - As tabelas referentes aos apoios financeiros a conceder por turma, por curso, para as ofertas formativas em causa serão objeto de aprovação por despacho do membro do Governo responsável pela área da educação, sendo devidamente divulgadas através da página eletrónica da Direção-Geral dos Estabelecimentos Escolares.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O valor do subsídio anual por turma, por curso, definido nos termos do artigo anterior será objeto de redução para efeitos do contrato a celebrar com as escolas profissionais privadas quando as ofertas autorizadas nos termos do artigo 2.º não cumpram no início do ciclo formativo os limites definidos no que se refere ao número mínimo de alunos conforme previsto no n.º 6 do artigo 12.º
 
@@ -286,13 +360,17 @@ e) Nos estabelecimentos de ensino integrados nos territórios caracterizados com
 
 7 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O processamento do pagamento das prestações relativas à comparticipação financeira fixada em contrato-programa compete à Direção-Geral dos Estabelecimentos Escolares.
 
 2 - No termo do ciclo de formação, a Direção-Geral dos Estabelecimentos Escolares procederá, aquando do pagamento da última prestação prevista no contrato-programa celebrado ao abrigo do artigo anterior, à verificação do número de alunos efetivamente matriculados e da respetiva taxa de desistência e abandono relativamente ao período correspondente ao último ano letivo de execução do contrato, de modo a apurar da existência de qualquer débito suplementar ou crédito remanescente, os quais serão calculados proporcionalmente com base nos critérios fixados no artigo 13.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As entidades beneficiárias do financiamento ao abrigo do presente diploma são objeto de ações de controlo, acompanhamento e avaliação que incidem sobre as componentes técnico-pedagógica, contabilística e financeira dos cursos ministrados nas respetivas escolas profissionais, efetuadas pela Direção-Geral dos Estabelecimentos Escolares, pela Agência Nacional para a Qualificação e o Ensino Profissional, I. P., e pela Inspeção-Geral da Educação e Ciência ou por outras entidades credenciadas para o efeito, no âmbito das respetivas competências legais, ficando obrigadas a colocar à disposição todos os elementos relacionados com o desenvolvimento dos cursos.»
 
@@ -304,45 +382,45 @@ Proposta de oferta formativa - Cursos profissionais
 
 Grelha de requisitos e critérios de análise
 
-|  |  |  |
-| --- | --- | --- |
 | Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
-| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF: Designação da escola profissional privada; |
-|  |  | Designação dos cursos e portarias de criação ou referencial do CNQ; Lotação; Responsável(eis) pedagógico(s); Localização do funcionamento dos cursos. |
-| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura: Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada; |
+|  |  | Designação dos cursos e portarias de criação ou referencial do CNQ;<br>Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho;<br>Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas;<br>Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
 |  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
-| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional: Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
-| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria; N.º 4 do artigo 16.º da [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto; Alínea d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados. Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
-| Artigos 25.º, 30.º e 31.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa: Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica; Número de professores profissionalizados/em profissionalização e não profissionalizados; Situação contratual. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria; [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio, designadamente quanto a: Salas de aula, sem requisitos especiais; Salas de aula específicas, para as diversas áreas de formação; Laboratórios; Espaços oficinais, para a componente técnica; |
-|  |  | Espaços especializados, para as diversas áreas de formação; Centro de recursos educativos/mediateca; Espaços sociais e de convívio; Espaços de apoio socioeducativo e profissional; Espaços de direção, administração e gestão; Espaços de apoio geral. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho;<br>Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria;<br>N.º 4 do artigo 16.º da [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto;<br>Alínea d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados.<br>Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
+| Artigos 25.º, 30.º e 31.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho;<br>Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica;<br>Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>[Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio;<br>Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
 | Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos profissionais nela ministrados. |
-| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos profissionais realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada. Informação quanto ao tempo médio despendido para conclusão do curso. Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
-|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso. Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
-| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação. Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos profissionais realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso.<br>Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
+| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
 | Subalínea v) da alínea a) do anexo i à [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
 
 Proposta de oferta formativa - Cursos de educação e formação de jovens
 
 Grelha de requisitos e critérios de análise
 
-|  |  |  |
-| --- | --- | --- |
 | Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
-| Artigo 2.º da presente portaria. | APF ... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF: Designação da escola profissional privada; Designação dos cursos; Lotação; Responsável(eis) pedagógico(s); Localização do funcionamento dos cursos. |
-| Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura: Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF ... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada;<br>Designação dos cursos;<br>Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; |
 |  |  | Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
 |  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
-| Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional: Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
 | Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados. |
 |  |  | Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa: Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica; Número de professores profissionalizados/em profissionalização e não profissionalizados; Situação contratual. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria; [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio, designadamente quanto a: Salas de aula, sem requisitos especiais; Salas de aula específicas, para as diversas áreas de formação; Laboratórios; Espaços oficinais, para a componente técnica; |
-|  |  | Espaços especializados, para as diversas áreas de formação; Centro de recursos educativos/mediateca; Espaços sociais e de convívio; Espaços de apoio socioeducativo e profissional; Espaços de direção, administração e gestão; Espaços de apoio geral. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica;<br>Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>[Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio;<br>Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
 | Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos de educação e formação de jovens nela ministrados. |
-| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos de educação e formação de jovens realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada. Informação quanto ao tempo médio despendido para conclusão do curso. Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
-|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso. Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
-| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação. Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos de educação e formação de jovens realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso.<br>Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
+| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
 | Alínea c) do n.º 3 do artigo 3.º do Regulamento dos Cursos de Educação e Formação anexo ao [Despacho Conjunto n.º 453/2004](https://diariodarepublica.pt/dr/detalhe/despacho-conjunto/453-2004-2824963), de 27 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
 
 ###### Artigo 3.º — Entrada em vigor
@@ -353,7 +431,7 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação e prod
 
 É republicada em anexo à presente portaria, e da qual faz parte integrante, a [Portaria n.º 49/2007](https://diariodarepublica.pt/dr/detalhe/portaria/49-2007-262088), de 8 de janeiro, com as alterações introduzidas pela presente portaria.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 11 de setembro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 12 de setembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 11 de setembro de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 12 de setembro de 2023.
 
 ## ANEXO — Republicação da [Portaria n.º 49/2007](https://diariodarepublica.pt/dr/detalhe/portaria/49-2007-262088), de 8 de janeiro
 
@@ -609,49 +687,53 @@ Proposta de oferta formativa - Cursos profissionais
 
 Grelha de requisitos e critérios de análise
 
-|  |  |  |
-| --- | --- | --- |
 | Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
-| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF: Designação da escola profissional privada; |
-|  |  | Designação dos cursos e portarias de criação ou referencial do CNQ; Lotação; Responsável(eis) pedagógico(s); Localização do funcionamento dos cursos. |
-| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura: Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada; |
+|  |  | Designação dos cursos e portarias de criação ou referencial do CNQ;<br>Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho;<br>Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas;<br>Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
 |  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
-| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional: Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
 | Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. |  |  |
-| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria; N.º 4 do artigo 16.º da [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto; Alínea d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados. Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
-| Artigos 25.º, 30.º e 31.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho; Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa: Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica; Número de professores profissionalizados/em profissionalização e não profissionalizados; Situação contratual. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria; [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio, designadamente quanto a: Salas de aula, sem requisitos especiais; Salas de aula específicas, para as diversas áreas de formação; Laboratórios; Espaços oficinais, para a componente técnica; |
-|  |  | Espaços especializados, para as diversas áreas de formação; Centro de recursos educativos/mediateca; Espaços sociais e de convívio; |
-|  |  | Espaços de apoio socioeducativo e profissional; Espaços de direção, administração e gestão; Espaços de apoio geral. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria;<br>N.º 4 do artigo 16.º da [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto;<br>Alínea d) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados.<br>Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
+| Artigos 25.º, 30.º e 31.º do [Decreto-Lei n.º 92/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2014-25676935), de 20 de junho;<br>Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica;<br>Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>[Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio; |
+|  |  | Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
 | Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos profissionais nela ministrados. |
-| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos profissionais realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada. Informação quanto ao tempo médio despendido para conclusão do curso. Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos profissionais realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
 |  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso. |
 |  |  | Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
-| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação. Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
 | Subalínea v) da alínea a) do anexo i à [Portaria n.º 235-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), de 23 de agosto. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
 
 Proposta de oferta formativa - Cursos de educação e formação de jovens
 
 Grelha de requisitos e critérios de análise
 
-|  |  |  |
-| --- | --- | --- |
 | Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
-| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF: Designação da escola profissional privada; Designação dos cursos; |
-|  |  | Lotação; Responsável(eis) pedagógico(s); Localização do funcionamento dos cursos. |
-| Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura: Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada;<br>Designação dos cursos; |
+|  |  | Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; |
 |  |  | Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
 |  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
-| Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional: Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
 | Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados. |
 |  |  | Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa: Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica; |
-|  |  | Número de professores profissionalizados/em profissionalização e não profissionalizados; Situação contratual. |
-| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria; [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio, designadamente quanto a: Salas de aula, sem requisitos especiais; Salas de aula específicas, para as diversas áreas de formação; Laboratórios; Espaços oficinais, para a componente técnica; |
-|  |  | Espaços especializados, para as diversas áreas de formação; Centro de recursos educativos/mediateca; Espaços sociais e de convívio; |
-|  |  | Espaços de apoio socioeducativo e profissional; Espaços de direção, administração e gestão; Espaços de apoio geral. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica; |
+|  |  | Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>[Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do [Despacho Normativo n.º 27/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1999-317123), de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio; |
+|  |  | Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
 | Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos de educação e formação de jovens nela ministrados. |
-| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos de educação e formação de jovens realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada. Informação quanto ao tempo médio despendido para conclusão do curso. Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
-|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso. Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
-| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação. Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos de educação e formação de jovens realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso.<br>Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
+| Alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
 | Alínea c) do n.º 3 do artigo 3.º do Regulamento dos Cursos de Educação e Formação anexo ao [Despacho Conjunto n.º 453/2004](https://diariodarepublica.pt/dr/detalhe/despacho-conjunto/453-2004-2824963), de 27 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
+
+116851527
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/despacho-conjunto/278-2005-3462343'title='DespachoConjunton.º278/2005'>278/2005</a>font-style:Regular; font-size:8.5; vertical-align:top; }

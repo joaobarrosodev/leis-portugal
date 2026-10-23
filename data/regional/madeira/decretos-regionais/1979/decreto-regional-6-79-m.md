@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/6-1979-383047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e2a181e25b499d4d3ab701cff59641bab66148c7293ce06e2761220b0b1e429
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69832c7fb8f373da8762dcac40d9e911d768344f901c5656539dd80fe2eb8827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Contrato de Viabilização
+- Criação de Serviços
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Secretaria Regional da Economia
+- Serviço de Apoio à Construção Civil da Madeira
+relationships:
+- type: cites
+  target: pt:dre:139052:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:381143:por
+  label: Rectificado pela DECL.DD7480.30.06.1979.PCM, DR.IS [149] de 30.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381143
+  date: '1979-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:30Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +109,19 @@ Considerando a necessidade de apoiar o sector da construção civil de modo a sa
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República, a Assembleia Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Serviço de Apoio à Construção Civil da Madeira (SACMA) na Secretaria Regional de Economia do Governo Regional da Madeira.
+Artigo 1.º É criado o Serviço de Apoio à Construção Civil da Madeira (SACMA) na Secretaria Regional de Economia do Governo Regional da Madeira.
 
-###### Art. 2.º O SACMA terá a orgânica que lhe for definida pela Secretaria Regional de Economia.
+Art. 2.º O SACMA terá a orgânica que lhe for definida pela Secretaria Regional de Economia.
 
-###### Art. 3.º Compete ao SACMA apoiar o sector da construção civil na Região Autónoma da Madeira, nos moldes previstos neste diploma.
+Art. 3.º Compete ao SACMA apoiar o sector da construção civil na Região Autónoma da Madeira, nos moldes previstos neste diploma.
 
-###### Art. 4.º Podem ser declaradas em estado de viabilização as empresas de construção com actividade predominante na Região Autónoma da Madeira, cuja exploração se apresente fortemente deficitária, prevendo-se que a sua recuperação seja problemática ou demorada, embora possível.
+Art. 4.º Podem ser declaradas em estado de viabilização as empresas de construção com actividade predominante na Região Autónoma da Madeira, cuja exploração se apresente fortemente deficitária, prevendo-se que a sua recuperação seja problemática ou demorada, embora possível.
 
-###### Art. 5.º Entendem-se por empresas de construção todas aquelas que exerçam como actividade principal a construção civil ou de obras públicas e ainda aquelas que exerçam actividades similares ou complementares, tais como industriais de serração de madeiras, carpintaria, marcenaria, electricidade, cerâmica, olaria, serralharia civil e pintura, artefactos de cimento, exploração de pedreiras e produção de inertes.
+Art. 5.º Entendem-se por empresas de construção todas aquelas que exerçam como actividade principal a construção civil ou de obras públicas e ainda aquelas que exerçam actividades similares ou complementares, tais como industriais de serração de madeiras, carpintaria, marcenaria, electricidade, cerâmica, olaria, serralharia civil e pintura, artefactos de cimento, exploração de pedreiras e produção de inertes.
 
-###### Art. 6.º O critério para determinar a actividade predominante na Região Autónoma da Madeira é a média dos três últimos anos e o volume de obras expresso em moeda, exigindo-se que se ultrapassem os 50% do total desse volume na Região.
+Art. 6.º O critério para determinar a actividade predominante na Região Autónoma da Madeira é a média dos três últimos anos e o volume de obras expresso em moeda, exigindo-se que se ultrapassem os 50% do total desse volume na Região.
 
-###### Art. 7.º Podem ser declaradas em estado de viabilização as empresas que estejam pelo menos nas condições de uma das seguintes alíneas e cuja recuperação seja considerada possível:
+Art. 7.º Podem ser declaradas em estado de viabilização as empresas que estejam pelo menos nas condições de uma das seguintes alíneas e cuja recuperação seja considerada possível:
 
 a) A existência de capital alheio superior a 60% do activo da empresa;
 
@@ -112,13 +129,13 @@ b) O recurso a avales e subsídios do Governo Regional não atribuíveis a compe
 
 c) O incumprimento, sobretudo quando reiterado, de obrigações para com o Estado, a segurança social ou o sistema bancário.
 
-###### Art. 8.º - 1 - As empresas podem ser declaradas em estado de viabilização pelo Plenário do Governo Regional, mediante requerimento dirigido ao Secretário Regional de Economia.
+Art. 8.º - 1 - As empresas podem ser declaradas em estado de viabilização pelo Plenário do Governo Regional, mediante requerimento dirigido ao Secretário Regional de Economia.
 
 2 - O requerimento será obrigatoriamente justificado com a descrição circunstanciada e fundamentada da situação económico-financeira da empresa e das medidas consideradas necessárias à sua superação ou à minimização dos seus efeitos.
 
-###### Art. 9.º Na declaração do estado de viabilização, o Governo Regional fixará genericamente o âmbito e o alcance das medidas previstas no artigo seguinte, competindo ao SACMA especificá-los dentro daqueles limites.
+Art. 9.º Na declaração do estado de viabilização, o Governo Regional fixará genericamente o âmbito e o alcance das medidas previstas no artigo seguinte, competindo ao SACMA especificá-los dentro daqueles limites.
 
-###### Art. 10.º A declaração pode acarretar:
+Art. 10.º A declaração pode acarretar:
 
 a) Alteração nas condições de trabalho vigentes na empresa;
 
@@ -128,19 +145,19 @@ c) Medidas de carácter económico-financeiro;
 
 d) Medidas fiscais com incidências financeiras.
 
-###### Art. 11.º A aplicação das medidas incluídas na alínea a) do artigo anterior, quando impliquem redução efectiva de benefícios ou garantias para os trabalhadores, requerem acordo da maioria daqueles, expresso através de voto secreto.
+Art. 11.º A aplicação das medidas incluídas na alínea a) do artigo anterior, quando impliquem redução efectiva de benefícios ou garantias para os trabalhadores, requerem acordo da maioria daqueles, expresso através de voto secreto.
 
-###### Art. 12.º - 1 - Enquanto se mantiverem no regime de estado de viabilização, as empresas não podem proceder à distribuição de lucros sob qualquer forma, nomeadamente a título de levantamentos por conta de lucros futuros, nem aumentar as remunerações dos membros dos corpos sociais sem autorização do SACMA ou proceder ao reembolso de prestações suplementares de capital ou de suprimentos.
+Art. 12.º - 1 - Enquanto se mantiverem no regime de estado de viabilização, as empresas não podem proceder à distribuição de lucros sob qualquer forma, nomeadamente a título de levantamentos por conta de lucros futuros, nem aumentar as remunerações dos membros dos corpos sociais sem autorização do SACMA ou proceder ao reembolso de prestações suplementares de capital ou de suprimentos.
 
 2 - A qualquer momento o Governo Regional pode mandar efectuar os inquéritos, inspecções e auditorias entendidos como convenientes às empresas no regime de viabilização.
 
-###### Art. 13.º As empresas de construção, cujo processo de viabilização esteja já iniciado, poderão celebrar contratos com o SACMA através dos quais as empresas se obriguem a atingir metas pré-fixadas de equilíbrio financeiro, de produtividade e de rentabilidade, em contrapartida de benefícios concedidos de entre os previstos neste diploma.
+Art. 13.º As empresas de construção, cujo processo de viabilização esteja já iniciado, poderão celebrar contratos com o SACMA através dos quais as empresas se obriguem a atingir metas pré-fixadas de equilíbrio financeiro, de produtividade e de rentabilidade, em contrapartida de benefícios concedidos de entre os previstos neste diploma.
 
-###### Art. 14.º É condição prévia para celebração dos contratos com o SACMA, através dos quais as empresa do estudo técnico, económico e financeiro, devidamente fundamentado.
+Art. 14.º É condição prévia para celebração dos contratos com o SACMA, através dos quais as empresa do estudo técnico, económico e financeiro, devidamente fundamentado.
 
-###### Art. 15.º As metas e objectivos finais a fixar nos contratos de viabilização serão sempre decompostos em metas e objectivos anuais e mensais, claramente definidos.
+Art. 15.º As metas e objectivos finais a fixar nos contratos de viabilização serão sempre decompostos em metas e objectivos anuais e mensais, claramente definidos.
 
-###### Art. 16.º - 1 - Sem prejuízo de outros benefícios porventura atribuíveis nos termos dos regimes gerais ou especiais (ou em virtude de contrato de viabilização anterior, nos termos do Decreto Regulamentar n.º 124/77, de 1 de Abril) aplicáveis, poderão também ser concedidos os que a seguir se enumeram:
+Art. 16.º - 1 - Sem prejuízo de outros benefícios porventura atribuíveis nos termos dos regimes gerais ou especiais (ou em virtude de contrato de viabilização anterior, nos termos do Decreto Regulamentar n.º 124/77, de 1 de Abril) aplicáveis, poderão também ser concedidos os que a seguir se enumeram:
 
 a) Consolidação do passivo, nos termos referidos no artigo 18.º;
 
@@ -154,13 +171,13 @@ e) Concepção de subsídios a fundo perdido, que poderão atingir, consoante os
 
 2 - Para as empresas que não estivessem subordinadas àquele CCT nas datas atrás mencionadas, será efectuado o cálculo como se estivessem.
 
-###### Art. 17.º - 1 - O prazo e as condições dos contratos de viabilização serão estritamente indispensáveis à consecução dos objectivos globais estabelecidos no contrato, não devendo, porém, em regra exceder sete anos.
+Art. 17.º - 1 - O prazo e as condições dos contratos de viabilização serão estritamente indispensáveis à consecução dos objectivos globais estabelecidos no contrato, não devendo, porém, em regra exceder sete anos.
 
 2 - Findo esse prazo, e durante os dois anos subsequentes, devem as empresas considerar-se em regime de observação, ficando obrigadas a prestar ao SACMA os elementos que forem necessários para a avaliação da sua auto-suficiência.
 
 3 - Durante a vigência do contrato de viabilização não pode a empresa contratante ser declarada em situação de falência.
 
-###### Art. 18.º - 1 - O montante total do passivo a consolidar será igual aos prejuízos acumulados nos exercícios de 1974, 1975, 1976, 1977 e 1978, incluindo amortizações ou reintegrações do imobilizado, eventualmente não contabilizados, os quais, para este efeito, serão calculados em função das taxas máximas admitidas para fins de contribuição industrial.
+Art. 18.º - 1 - O montante total do passivo a consolidar será igual aos prejuízos acumulados nos exercícios de 1974, 1975, 1976, 1977 e 1978, incluindo amortizações ou reintegrações do imobilizado, eventualmente não contabilizados, os quais, para este efeito, serão calculados em função das taxas máximas admitidas para fins de contribuição industrial.
 
 2 - O prazo de consolidação será, no máximo, de dez anos e o serviço da dívida processar-se-á por anuidades, semestralidades ou trimestralidades iguais ou crescentes ou decrescentes de capital ou constantes de capital e juro.
 
@@ -168,7 +185,7 @@ e) Concepção de subsídios a fundo perdido, que poderão atingir, consoante os
 
 § único. Para efeitos do disposto no n.º 1, o SACMA tomará em consideração a necessidade da satisfação das obrigações das empresas credoras, a fim de evitar que sejam colocadas em condições económicas difíceis por virtude da consolidação do passivo das empresas em estado de viabilização.
 
-###### Art. 19.º - 1 - É necessária para a celebração do contrato de viabilização a junção de:
+Art. 19.º - 1 - É necessária para a celebração do contrato de viabilização a junção de:
 
 a) Estudo económico e financeiro;
 
@@ -192,7 +209,7 @@ d) Prova dos poderes de negociação dos subscritores do pedido de contrato.
 
 4 - O Governo Regional, através do SACMA, poderá comparticipar até 50% no custo do estudo de viabilidade e até 30% no custo dos estudos, projectos e outras acções de reorganização, promoção de mercado, racionalização da produção ou investigação científica e tecnológica, conducente à produção de inovações socialmente úteis.
 
-###### Art. 20.º - 1 - Só poderão celebrar contratos de viabilização as empresas que disponham de:
+Art. 20.º - 1 - Só poderão celebrar contratos de viabilização as empresas que disponham de:
 
 a) Contabilidade adequada à apreciação da respectiva situação económica e financeira e da sua evolução ou possam vir a dela dispor durante a vigência do contrato;
 
@@ -208,9 +225,9 @@ c) Gabinetes de pessoal com um mínimo de eficiência para acompanhar a evoluç�
 
 5 - O SACMA colaborará com as empresas no âmbito do contrato de viabilização em acordos preferenciais com as instituições de crédito que tornem mais viáveis a consecução dos fins em vista.
 
-###### Art. 21.º A concessão dos subsídios a que se refere a alínea e) do artigo 16.º terá a finalidade que no contrato de viabilização se mencionar, mas será prioritariamente destinado a um fundo para consolidação do passivo, depois de resgatados os avales prestados pelo Governo Regional.
+Art. 21.º A concessão dos subsídios a que se refere a alínea e) do artigo 16.º terá a finalidade que no contrato de viabilização se mencionar, mas será prioritariamente destinado a um fundo para consolidação do passivo, depois de resgatados os avales prestados pelo Governo Regional.
 
-###### Art. 22.º - 1 - O efectivo direito nos benefícios derivados do contratos de viabilização dependerá da consecução pelas empresas das metas e objectivos que nos mesmos contratos se estabelecerem.
+Art. 22.º - 1 - O efectivo direito nos benefícios derivados do contratos de viabilização dependerá da consecução pelas empresas das metas e objectivos que nos mesmos contratos se estabelecerem.
 
 2 - Cabe às empresas contratantes o ónus de provar, nos termos estabelecidos no contrato de viabilização, a efectiva consecução das metas e objectivos fixados e, bem assim, se for caso disso, que lhes não é imputável uma eventual falta de cumprimento.
 
@@ -220,7 +237,7 @@ c) Gabinetes de pessoal com um mínimo de eficiência para acompanhar a evoluç�
 
 5 - A contabilidade das empresas dará expressão adequada aos benefícios decorrentes do contrato de viabilização, para o que deverão os mesmos, quer directos, quer indirectos, ser registados em conta especial de proveitos a criar.
 
-###### Art. 23.º - 1 - O Plenário do Governo Regional poderá rescindir os contratos de viabilização:
+Art. 23.º - 1 - O Plenário do Governo Regional poderá rescindir os contratos de viabilização:
 
 a) Quando se verifique a falta de cumprimento pelas empresas contratantes das metas e objectivos do contrato;
 
@@ -230,20 +247,20 @@ c) Quando se verificarem quaisquer outros factos que, nos termos da lei geral ou
 
 2 - Nos casos previstos no número anterior, quando a falta de cumprimento ou facto impeditivo resultar da culpa grave ou dolo das empresas contratantes, a resolução do contrato implicará, além de caducidade de todos os benefícios concedidos, a obrigação de restituição das importâncias já recebidas e o imediato vencimento das prestações vincendas.
 
-###### Art. 24.º No uso dos poderes que lhe estão conferidos pelo [Decreto Regional n.º 5/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1977-139052), o Governo Regional disporá de verbas destinadas à cobertura dos encargos derivados do estatuído no presente decreto.
+Art. 24.º No uso dos poderes que lhe estão conferidos pelo [Decreto Regional n.º 5/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1977-139052), o Governo Regional disporá de verbas destinadas à cobertura dos encargos derivados do estatuído no presente decreto.
 
-###### Art. 25.º A superintendência em todos os departamentos e acções que se prendam com o abastecimento à Região de matérias-primas ou materiais destinados ao sector da construção civil, bem como à respectiva actividade transformadora, é da competência da Secretaria Regional de Economia.
+Art. 25.º A superintendência em todos os departamentos e acções que se prendam com o abastecimento à Região de matérias-primas ou materiais destinados ao sector da construção civil, bem como à respectiva actividade transformadora, é da competência da Secretaria Regional de Economia.
 
-###### Art. 26.º Os pedidos de viabilização devem dar entrada até ao dia 31 de Dezembro de 1979.
+Art. 26.º Os pedidos de viabilização devem dar entrada até ao dia 31 de Dezembro de 1979.
 
-###### Art. 27.º É da competência do Governo Regional a resolução de qualquer dúvida suscitada pelo presente diploma.
+Art. 27.º É da competência do Governo Regional a resolução de qualquer dúvida suscitada pelo presente diploma.
 
-###### Art. 28.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
+Art. 28.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 9 de Fevereiro de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 16 de Fevereiro de 1979.**
+Assinado em 16 de Fevereiro de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

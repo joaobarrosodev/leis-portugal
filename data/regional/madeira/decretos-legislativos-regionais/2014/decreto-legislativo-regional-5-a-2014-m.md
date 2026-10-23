@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 140/2014, 1º Suplemento, Série I de 2014-07-23
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3940-(2) a 3940-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5-a/2014/07/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-a-2014-55021027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea48723115e9156f92b04895cd6049119ec3d64b3708e05fb462b070c74a9284
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98ab07046ae3fdaadd1b4ce7dd0eb040578a34497772177b64d5d15999ca90c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
+- Alteração Orçamental
 - Atividade Agrícola
 - Atividade Industrial
-- Alteração Orçamental
-- Financiamento
+- Autarquia Local
 - Derrama
 - Dívidas ao Estado
 - Empresa Pública
 - Execução Fiscal
-- Orçamento Regional
-- Pessoa Coletiva
+- Financiamento
 - IRC
 - Madeira.região Autónoma
-- Administração Regional
+- Orçamento Regional
+- Pessoa Coletiva
 - Taxa
-- Autarquia Local
 - Tributação
 relationships:
 - type: amended_by
   target: pt:dre:205450899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantida em vigor para a RAM a derrama regional, aprovada pelos arts 3.º a 6.º do DLR 14/2010/M de 05-ago, alterado
+    e republicado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantida em vigor para a RAM a derrama regional, aprovada pelos arts 3.º a 6.º (arts 4.º a 6.º na redação do presente
+    diploma), do DLR 14/2010/M de 05-ago, pelo(a) Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015,
+    Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantida em vigor, com efeitos desde 01.01.2017, para a Região Autónoma da Madeira a derrama regional aprovada pelos
+    arts. 3.º a 6.º do DLR 14/2010/M de 05-ago, na versão republicada destes arts. pelo DLR 5-A/2014/M de 23-jul, pelo(a)
+    Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Mantida em vigor, com efeitos desde 01.01.2018, para a Região Autónoma da Madeira a derrama regional aprovada pelos
+    arts. 3.º a 6.º e alterado o art. 4.º, todos do DLR 14/2010/M de 05-ago, na versão republicada destes arts. pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Mantido em vigor, com efeitos a 01.01.2019, o regime da derrama regional da Região Autónoma da Madeira, aprovado
+    pelos arts. 3.º a 6.º e alterada a redação do mesmo art. 6.º todos do DLR 14/2010/M de 05-ago, na versão republicada daqueles
+    arts. pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série
+    I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantido em vigor, com efeitos desde 01.01.2020, para a Região Autónoma da Madeira, o regime da derrama regional,
+    aprovada pelos arts 3.º a 6.º (na versão republicada destes arts. pelo presente diploma) do DLR 14/2010/M de 05-ago, pelo(a)
+    Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31 nos
+    termos do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Alterados, a partir de 01.01.2021, os arts. 4.º e 6.º (na versão republicada destes arts. pelo presente diploma)
+    do regime da derrama regional aprovado pelo DLR 14/2010/M de 05-ago, pelo(a) Decreto Legislativo Regional n.º 18/2020/M
+    - Diário da República n.º 253/2020, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Mantido em vigor, a partir de 30.12.2022 e com efeitos a 01.01.2023, para a Região Autónoma da Madeira, o regime
+    da derrama regional, aprovada pelos arts. 3.º, 4.º, 5.º e 6.º do DLR 14/2010/M de 05-ago, na versão republicada pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2010/08/05/m/dre
   label: null
@@ -126,16 +184,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:51Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +270,7 @@ O presente diploma aprova as alterações ao regime jurídico da derrama regiona
 
 1 - Sobre a parte do lucro tributável superior a (euro) 1 500 000 sujeito e não isento de imposto sobre o rendimento das pessoas coletivas apurado por sujeitos passivos enquadrados no n.º 1 do artigo 26.º da [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), de 2 de setembro, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incidem as taxas adicionais constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
 
 2 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000:
 
@@ -180,13 +282,15 @@ b) Quando superior a (euro) 35 000 000, é dividido em três partes: uma, igual 
 
 4 - ...
 
-###### Artigo 6.º — (...)
+Artigo 6.º
+
+(...)
 
 1 - ...
 
 2 - O valor dos pagamentos adicionais por conta devidos os termos da alínea a) do n.º 1 do artigo 5.º do presente regime legal, é igual ao montante resultante da aplicação das taxas previstas na tabela seguinte sobre a parte do lucro tributável superior a (euro) 1 500 000 relativo ao período de tributação anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
 
 3 - O quantitativo da parte do lucro tributável que exceda (euro) 1500 000:
 
@@ -210,11 +314,11 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação e retroage os
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de junho de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 17 de julho de 2014.**
+Assinado em 17 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -230,7 +334,7 @@ Ao abrigo da alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administ
 
 1 - Sobre a parte do lucro tributável superior a (euro) 1 500 000 sujeito e não isento de imposto sobre o rendimento das pessoas coletivas apurado por sujeitos passivos enquadrados no n.º 1 do artigo 26.º da [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), de 2 de setembro, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incidem as taxas adicionais constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
 
 2 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000:
 
@@ -262,7 +366,7 @@ c) Até ao dia do envio da declaração de substituição a que se refere o arti
 
 2 - O valor dos pagamentos adicionais por conta devidos os termos da alínea a) do n.º 1 do artigo 5.º do presente regime legal, é igual ao montante resultante da aplicação das taxas previstas na tabela seguinte sobre a parte do lucro tributável superior a (euro) 1 500 000 relativo ao período de tributação anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14001/0000200004.pdf)
 
 3 - O quantitativo da parte do lucro tributável que exceda (euro) 1500 000:
 

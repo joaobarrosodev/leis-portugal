@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/154/2011/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-2011-276844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe1e2732ba3bd7b6e6cec50c47ad9218b010baebbbd5eacbb428ced23d9ac75d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27dc4ad723df5f6aac60e0694b27825fc98f2b178601d24ba05a4d943d3e87d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Julgado de Paz
 - Coimbra
+- Julgado de Paz
 - Regulamento Interno
 relationships:
 - type: cites
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304/2006/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304/2006/03/24/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671260:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:58Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +127,9 @@ São alterados os artigos 2.º e 3.º do Regulamento Interno do Julgado de Paz d
 
 2 - O horário de atendimento do Julgado de Paz é das 9 horas e 30 minutos às 12 horas e 30 minutos e das 14 horas às 17 horas, de segunda-feira a sexta-feira.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, para o efeito, for nomeado pelo Conselho de Acompanhamento dos Julgados de Paz.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/196/2010/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2010-612210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9e2021f45c59d2d58217315b8f86a7e350ce8be43a55d58a73399f712740e2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8326d3290666a704c3fd574814cc9d78dbe4875b494064ce3f02b079e1e7c700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto dos Museus e da Conservação
-- Património Cultural
 - Internet
-- Protecção do Património
 - Inventário
+- Património Cultural
+- Protecção do Património
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2009/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/139/2009/06/15/p/dre
+- type: cites
+  target: pt:dre:494544:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:57Z'
   warnings: []
   errors: []
 ---
@@ -470,12 +474,12 @@ Neste campo deverão ser igualmente registadas as informações pertinentes rela
 
 II - Documentação
 
-#### Secção destinada à identificação da documentação de referência produzida sobre a manifestação do património cultural imaterial, devendo a informação ser repartida pelos campos aplicáveis. No campo «Fontes orais» deverão ser registadas transcrições de recolhas de literatura oral, entrevistas, entre outros elementos afins. Deverão ser claramente identificados os respectivos detentores dos direitos de autoria e de reprodução.
+Secção destinada à identificação da documentação de referência produzida sobre a manifestação do património cultural imaterial, devendo a informação ser repartida pelos campos aplicáveis. No campo «Fontes orais» deverão ser registadas transcrições de recolhas de literatura oral, entrevistas, entre outros elementos afins. Deverão ser claramente identificados os respectivos detentores dos direitos de autoria e de reprodução.
 
 III - Direitos associados
 
-#### Secção destinada à identificação de direitos que eventualmente recaiam sobre a manifestação do património cultural imaterial, designadamente sobre os seus detentores, sobre os responsáveis pela sua transmissão, ou outros.
+Secção destinada à identificação de direitos que eventualmente recaiam sobre a manifestação do património cultural imaterial, designadamente sobre os seus detentores, sobre os responsáveis pela sua transmissão, ou outros.
 
 IV - Património associado
 
-#### Secção destinada à caracterização da eventual articulação da manifestação do património cultural imaterial com elementos da cultura material (bens móveis, móveis integrados ou imóveis), com demais manifestações do património imaterial, ou com património natural, devendo a informação ser repartida pelos campos respectivos. Sempre que os mesmos bens sejam objecto de protecção legal, deverão ser identificados a forma e o nível de protecção respectivos.
+Secção destinada à caracterização da eventual articulação da manifestação do património cultural imaterial com elementos da cultura material (bens móveis, móveis integrados ou imóveis), com demais manifestações do património imaterial, ou com património natural, devendo a informação ser repartida pelos campos respectivos. Sempre que os mesmos bens sejam objecto de protecção legal, deverão ser identificados a forma e o nível de protecção respectivos.

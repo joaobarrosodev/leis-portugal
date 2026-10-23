@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/316/2013/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-2013-502864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46af3f6423a0e6916de31b3d1a95e78d8ee0190944bd0b52eecf1d92715679ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4599226709775034db6b2e3b6c2c9d3ca981cb0664dc6da125ec3d2f85c0b212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca Locais de Desembarque e de Abrigo
-- Financiamento
+- Apoio ao Investimento
 - Contrato de Locação Financeira
 - Direcção Regional de Agricultura e Pescas
-- Pesca
-- Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
 - Gestor
 - IFAP
+- Intervenção Operacional Pescas
+- Pesca
 - Porto de Pesca
 - Prazo
 - Programa Comunitário
+- Projeto de Investimento
 - Prorrogação de Prazo
-- Intervenção Operacional Pescas
 - Regulamento
+- Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca Locais de Desembarque e de Abrigo
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:483893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483893:por
+  label: "Alterado o art. 3.º, do Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca, Locais de Desembarque\
+    \ e de Abrigo, aprovado pela Port 719-A/2008, de 31-jul, na redação da presente Portaria, pela PORT.378/2013.31.12.2013.MAGM,\
+    \ DR.IS [253] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-2013-483893
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 9.º do Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca, Locais de Desembarque\
+    \ e de Abrigo aprovado pela Port 719-A/2008 de 31-jul, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM,\
+    \ DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre
   label: null
@@ -104,16 +118,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/719-a/2008/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/719-a/2008/07/31/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:45Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +192,9 @@ b)...
 
 c) Os promotores a que se refere a alínea c) do artigo 2.º, demonstrar uma situação financeira equilibrada que garanta a concretização do projeto, de acordo com o anexo i ao presente Regulamento, exceto nos casos em que essa apreciação não é exigida, nos termos do n.º 3 do artigo 10.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -190,7 +222,9 @@ i)...
 
 j)...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas ao presente regime são apresentadas nas direções regionais de agricultura e pescas, doravante designadas por DRAP.
 
@@ -198,7 +232,9 @@ j)...
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1-...
 
@@ -212,7 +248,9 @@ b)...
 
 4 - O IFAP, após a receção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 -...
 
@@ -220,7 +258,9 @@ b)...
 
 3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10 % desse apoio.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50 % do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -240,7 +280,9 @@ b) Decorridos 30 dias após o termo do prazo a que alude o n.º 3 sem que o prom
 
 7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 12.º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, constituem obrigações dos beneficiários:
 
@@ -262,7 +304,9 @@ h) Comprovar, até à data de apresentação do último pedido de pagamento, que
 
 2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução do projeto, previstos na alínea b) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, delas não podendo resultar o aumento do apoio público.»
 
@@ -326,4 +370,4 @@ AL - ativo líquido da empresa.
 
 3 - As alterações introduzidas na alínea c) do artigo 3.º, na alínea h) do artigo 7.º, no n.º 1 do artigo 9.º, no n.º 2 do artigo 11.º, no anexo i e na alínea h) do n.º 1 do artigo 14.º, todos do Regulamento do Regime de Apoio referido no número anterior, aplicam-se às candidaturas já apresentadas e ainda não decididas.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.

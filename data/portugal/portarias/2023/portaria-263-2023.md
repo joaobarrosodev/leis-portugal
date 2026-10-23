@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15900/0001600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263/2023/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b7d283e0174e680bae63396b547755e00d250d8decd0f8d7bfe9ece27434481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfbc8efc6c63a1aa2932561a66f828e62b7e31c53ec37b5545956d2a63c1f679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Farmácia
-- Infarmed
-- Informação Médica
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
-- Impresso
-- Medicamento
 - Documento Eletrónico
+- Farmácia
+- Formulário Eletrónico
+- Guia de Tratamento
+- Impresso
+- Infarmed
+- Informação de Saúde
+- Informação Médica
+- Medicamento
 - Prazo
 - Produto Farmacêutico
 - Receita Médica
-- Informação de Saúde
-- Guia de Tratamento
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
@@ -122,16 +122,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/417/2015/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/417/2015/12/04/p/dre
+- type: cites
+  target: pt:dre:125781753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211241821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72812702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75660778:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:15Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +268,9 @@ ii) Ausência prolongada do país;
 
 10 - [...]
 
-###### Artigo 13.º — Vigência da prescrição
+Artigo 13.º
+
+Vigência da prescrição
 
 1 - As prescrições são válidas por 12 meses, exceto:
 
@@ -230,7 +288,9 @@ c) As linhas das receitas desmaterializadas relativas a medicamentos destinados 
 
 5 - Os prazos de vigência previstos nos números anteriores contam-se a partir do dia seguinte à data da respetiva prescrição.
 
-###### Artigo 16.º — Acesso à prescrição para efeitos de dispensa
+Artigo 16.º
+
+Acesso à prescrição para efeitos de dispensa
 
 1 - [...]
 
@@ -238,7 +298,9 @@ c) As linhas das receitas desmaterializadas relativas a medicamentos destinados 
 
 3 - O código de acesso e dispensa e o código de direito de opção, para fins de acesso, ao histórico de prescrições e dispensas e para fins de dispensa de medicamentos e produtos de saúde, pode ser obtido através de mensagem escrita (SMS) ou por outro meio eletrónico desenvolvido para este fim.
 
-###### Artigo 17.º — Dispensa em geral
+Artigo 17.º
+
+Dispensa em geral
 
 1 - [...]
 
@@ -260,7 +322,9 @@ b) Ausência prolongada do país.
 
 8 - Em situações de rutura com impacto elevado na saúde pública identificadas pelo INFARMED, I. P., a farmácia pode dispensar outras embalagens do medicamento prescrito com uma forma farmacêutica e/ou dosagens equivalentes.
 
-###### Artigo 18.º — Procedimento
+Artigo 18.º
+
+Procedimento
 
 1 - [...]
 
@@ -300,4 +364,6 @@ Para efeitos de otimização da terapêutica instituída, o médico tem acesso, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 11 de agosto de 2023.**
+O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 11 de agosto de 2023.
+
+116773476

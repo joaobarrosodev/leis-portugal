@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/689/2010/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-2010-343378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a32eed52911eda33f85bc6905a53e74172ec028c603fee7ea8f0807ba4f3f2d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b02b72f4d7c39f829c5f726fd80448223b10c928a55313242623b291ae82a8dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comércio a Retalho
-- Contrato Coletivo de Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
 - Remuneração
 - Tabela Salarial
 - Trabalhador por Conta de Outrem
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:53Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +147,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de quatro.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 30 de Julho de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 30 de Julho de 2010.

@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1981-388857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 040b862cf0ea84926abbbedf1a01b8857e50d09cf32ef94239349cce4d0ee310
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e4b584b780dfa7161594c2cc26d68695c25f83cd55f36d773cc13d3f794ee88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Madeira.região Autónoma
+- Serviço de Apoio à Construção Civil da Madeira
+relationships:
+- type: cites
+  target: pt:dre:388458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682066:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:08Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +109,7 @@ Em execução dos Decretos Regionais n.os 2/76/M e 12/78/M, de 11 de Novembro e 
 
 O Governo da Região Autónoma da Madeira, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º O n.º 5 do artigo 4.º, a alínea b) do n.º 2 do artigo 11.º, o n.º 2 do artigo 20.º e o n.º 1 do artigo 27.º do [Decreto Regulamentar Regional n.º 3/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1981-388458), de 6 de Março, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 5 do artigo 4.º, a alínea b) do n.º 2 do artigo 11.º, o n.º 2 do artigo 20.º e o n.º 1 do artigo 27.º do [Decreto Regulamentar Regional n.º 3/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1981-388458), de 6 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — (Secretário-geral)
 
@@ -128,16 +147,16 @@ b) Organizar e manter actualizados os ficheiros individuais e emitir os cartões
 
 2 - ...
 
-###### Art. 2.º No quadro de pessoal a que se refere o artigo 12.º do [Decreto Regulamentar Regional n.º 3/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1981-388458), de 6 de Março, na rubrica relativa ao pessoal administrativo, onde se lê «1 - Operador de reprografia principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe - (c) L, N, P ou Q» deve ler-se «1 - Operador de reprografia principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe - L, N, P ou Q», e onde se lê «1 - Auxiliar dos serviços de cadastro - L» deve ler-se «1 - Auxiliar dos serviços de cadastro - (c) L».
+Art. 2.º No quadro de pessoal a que se refere o artigo 12.º do [Decreto Regulamentar Regional n.º 3/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1981-388458), de 6 de Março, na rubrica relativa ao pessoal administrativo, onde se lê «1 - Operador de reprografia principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe - (c) L, N, P ou Q» deve ler-se «1 - Operador de reprografia principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe - L, N, P ou Q», e onde se lê «1 - Auxiliar dos serviços de cadastro - L» deve ler-se «1 - Auxiliar dos serviços de cadastro - (c) L».
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Plenário de 12 de Março de 1981.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Março de 1981.**
+Assinado em 24 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/274/2013/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-2013-499051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e17863435c8ceddca6ee8342b3c7e136bd7ed88b376c90ef767f3726d02d25f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f8a66fcaaa481dadc20ef97a470a338c3bda02e2364cf0a8464488109ba75a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,26 @@ subjects:
 - Atividade Agrícola
 - Atividade Industrial
 - Auditoria
-- Ficheiro Informático
-- Empresa
+- Comércio
 - Contabilidade
 - Contribuições e Impostos
+- Empresa
+- Ficheiro Informático
 - Inspecção Tributária
 - IRC
 - Registo Comercial
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:105300290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105300290:por
+  label: Alterado, a partir de 01.01.2017, o n.º 1 e o ficheiro a que se refere o art. 1º da Port 321-A/2007, de 26-mar, na
+    redação do presente diploma, que passa a ter a estrutura de dados (que entra em vigor em 01.07.2017) constante do anexo
+    à Portaria n.º 302/2016 - Diário da República n.º 231/2016, Série I de 2016-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-2016-105300290
+  date: '2016-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
   label: null
@@ -97,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:30Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +164,7 @@ O ficheiro a que se refere o artigo 1.º da [Portaria n.º 321-A/2007](https://d
 
 A estrutura de dados a que se refere o artigo anterior entra em vigor em 1 de outubro de 2013.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 2 de agosto de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 2 de agosto de 2013.
 
 ## ANEXO — (a que se refere o artigo 2.º da presente Portaria)
 
@@ -251,7 +278,7 @@ l) Na exportação dos valores não são aceites valores negativos. Quando exist
 
 Esta tabela contém informação geral alusiva ao sujeito passivo a que respeita o SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 2. - * Tabelas mestres (Masterfiles):
 
@@ -263,19 +290,19 @@ A tabela de código de contas a exportar é a prevista pelo sistema de normaliza
 
 No caso de contas agregadoras que contenham subcontas com saldos devedores e subcontas com saldos credores, devem ser evidenciados esses saldos devedores e credores na conta agregadora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 2.2. - Tabela de clientes (Customer).
 
 Esta tabela deve conter todos os registos movimentados no período de tributação no respetivo ficheiro de clientes, bem como aqueles que sejam implícitos nos movimentos e não constem do respetivo ficheiro. Se, por exemplo, existir uma fatura com o registo do número de contribuinte e morada do cliente, que não conste no ficheiro de clientes da aplicação, este deve ser exportado como cliente no SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 2.3 - Tabela de Fornecedores (Supplier).
 
 Esta tabela deve conter todos os registos movimentados no período de tributação na respetiva base de dados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 2.4 - Tabela de produtos/serviços (Product).
 
@@ -285,19 +312,19 @@ Se, por exemplo, existir uma fatura com uma linha de portes que não conste no f
 
 Devem constar ainda os impostos, taxas, ecotaxas e encargos parafiscais que aparecem mencionados na fatura e que contribuam ou não para a base tributável do IVA ou IS - exceto o IVA e o IS, os quais deverão ser refletidos na 2.5. - Tabela de impostos (TaxTable).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 2.5 - Tabela de impostos (TaxTable).
 
 Nesta tabela registam-se os regimes fiscais de IVA, praticados em cada espaço fiscal e as rubricas do imposto do selo a liquidar, aplicáveis nas linhas dos documentos, registados na tabela 4. - Documentos comerciais (SourceDocuments).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 3 - Movimentos contabilísticos (GeneralLedgerEntries).
 
 Nesta tabela registam-se os movimentos contabilísticos correspondentes ao período de exportação a que diz respeito o SAF-T (PT), não devendo os movimentos de abertura ser objeto de exportação, na medida em que estes são apenas refletidos ao nível da tabela 2.1. - Tabela de código de contas (GeneralLedger) nos campos 2.1.3. - Saldo de abertura a débito da conta do plano de contas (OpeningDebitBalance) e 2.1.4. - Saldo de abertura a crédito da conta do plano de contas (OpeningCreditBalance).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 4 - Documentos comerciais (SourceDocuments):
 
@@ -309,11 +336,11 @@ Devem constar nesta tabela todos os documentos de venda e retificativos emitidos
 
 Para registos até 2012-12-31 e para não duplicar o montante das vendas ou anulações, quando existir um registo de talão de venda ou talão de devolução e outro registo de fatura ou nota de crédito correspondente, o talão deve ser assinalado no campo 4.1.4.2.1 - Estado atual do documento" (InvoiceStatus) como "F".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 4.3 - Documentos de conferência de entrega de mercadorias ou da prestação de serviços (WorkingDocuments).
 
@@ -321,10 +348,10 @@ Nesta tabela devem ser exportados quaisquer outros documentos emitidos, independ
 
 Não devem ser exportados nesta tabela aqueles documentos que devam constar nas tabelas 4.1 - Documentos comerciais a clientes (SalesInvoices) ou 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
 
 4.4 - Documentos de recibos emitidos (Payments).
 
 Nesta tabela devem ser exportados os recibos emitidos, criados após a entrada em vigor da presente estrutura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf))](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/16000/0502105047.pdf)

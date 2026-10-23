@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/21600/0641806419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330/2013/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-2013-504677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d067664d5c8404f9d076ce04a6ea90054623454f8ebb600b16d4d3d56cfa9dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83b235ab2c5d6791aa7059c4e18b8838f2100765e4686f982b4ed21b92619ce5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
-- Proteção Civil
+- Autoridade Nacional de Protecção Civil
 - Espetáculos e Divertimentos Públicos
 - Jogos de Fortuna e Azar
 - Ministério da Administração Interna
+- Proteção Civil
+- Receita Própria
 - Secretaria Geral
 - Segurança Rodoviária
-- Receita Própria
-- Autoridade Nacional de Protecção Civil
 - Transferência de Verbas
 relationships:
 - type: cites
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65891077:por
+  label: Revogada a partir de 01.01.2015 pelo(a) Portaria n.º 264/2014 - Diário da República n.º 242/2014, Série I de 2014-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-2014-65891077
+  date: '2014-12-16'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:50Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +152,4 @@ c) Afetação do valor de 0,69% a que se refere a alínea c) do n.º 2 do artigo
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2014.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 17 de outubro de 2013.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 17 de outubro de 2013.

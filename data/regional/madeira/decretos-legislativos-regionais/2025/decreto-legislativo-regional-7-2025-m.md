@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2025/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2025-962603409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39e9cb44723fe1a0007a06bdc1a516f816045005e34d33fa24785ac96496504d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2826dde6d14898b3de652df31961b0f2f0f566d33e12d7f8d165713650cc942
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Contraordenação
+- Contrato de Sharing
 - Definição de Competências
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
-- Prestação de Serviços
 - Madeira.região Autónoma
+- Multa
+- Prestação de Serviços
+- Veículo
 - Veículo de Aluguer
 - Veículo de Aluguer sem Condutor
-- Contrato de Sharing
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2009/05/15/p/dre
@@ -119,16 +119,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416002:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:13/2013/M
+  label: Revoga, a partir de 5 de dezembro de 2025, nos termos dos artigos 30.º e 31.º do presente diploma, o Decreto Legislativo
+    Regional n.º 13/2013/M, de 28 de março, Diário da República n.º 62/2013, Série I
+  source: null
+  date: '2013-03-28'
 article_structure:
   article_count: 31
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:58Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +217,7 @@ Atendendo à importância desta atividade para o setor turístico da Região, pi
 
 Por fim, salienta-se que todas estas medidas beneficiam de um período de transição que visa permitir aos operadores económicos a acomodação e adaptação progressiva às novas alterações, em consonância com o espírito do presente diploma, que pretende assegurar qualidade, transparência e um melhor funcionamento das políticas de mobilidade terrestre na Região Autónoma da Madeira.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ### CAPÍTULO I — ACESSO À ATIVIDADE DE ALUGUER DE VEÍCULOS DE PASSAGEIROS SEM CONDUTOR
 
@@ -433,7 +491,7 @@ g) Informação sobre outros encargos que possam advir do combustível consumido
 
 h) Informação sobre os meios de pagamento.
 
-2 - Para além dos elementos previstos no número anterior, são aplicáveis ao contrato de sharing as disposições dos n.<sup>os</sup>3, 4 e 6 do artigo anterior.
+2 - Para além dos elementos previstos no número anterior, são aplicáveis ao contrato de sharing as disposições dos n.os3, 4 e 6 do artigo anterior.
 
 3 - O contrato de sharing pode ser celebrado por cada utilização do veículo ou em regime de subscrição, aplicando-se, neste último caso, as regras de subscrição de serviços à distância.
 
@@ -605,13 +663,13 @@ b) A falta de dístico que identifique o veículo de rent-a-car, a que se refere
 
 c) A não disponibilização ao público dos veículos de aluguer nos locais destinados para o efeito, em infração ao disposto no n.º 1 do artigo 8.º;
 
-d) A celebração de contrato em infração ao disposto nos n.<sup>os</sup>1 a 4, 6, 7 e 9 do artigo 11.º e n.<sup>os</sup>1 e 2 do artigo 12.º;
+d) A celebração de contrato em infração ao disposto nos n.os1 a 4, 6, 7 e 9 do artigo 11.º e n.os1 e 2 do artigo 12.º;
 
 e) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 8 do artigo 11.º;
 
 f) A inobservância da obrigação de comunicação prévia das cláusulas contratuais gerais, prevista no n.º 1 do artigo 13.º;
 
-g) A infração às disposições sobre a reserva previstas nos n.<sup>os</sup>1 e 3 do artigo 14.º e n.<sup>os</sup>1 e 4 do artigo 15.º;
+g) A infração às disposições sobre a reserva previstas nos n.os1 e 3 do artigo 14.º e n.os1 e 4 do artigo 15.º;
 
 h) O incumprimento dos deveres do locador a que se refere o artigo 16.º;
 
@@ -619,7 +677,7 @@ i) A celebração de contrato adicional em violação do disposto no artigo 17.�
 
 j) O incumprimento do dever de registo de contratos a que se refere os artigos 18.º e 19.º;
 
-k) A inobservância ao disposto nos n.<sup>os</sup>1 e 5 do artigo 20.º
+k) A inobservância ao disposto nos n.os1 e 5 do artigo 20.º
 
 4 - É sancionado com coima de € 60 a € 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 3 do artigo 7.º
 
@@ -667,7 +725,7 @@ c) 40 % para a entidade decisora.
 
 4 - Os prestadores de serviço com autorização administrativa para exercer a atividade de rent-a-car à data da entrada em vigor do presente diploma, dispõem até 31 de dezembro de 2027 para cumprir com o exigido pela alínea d) do n.º 1 do artigo 7.º
 
-5 - Os prestadores de serviço com autorização administrativa para exercer a atividade de rent-a-car à data da entrada em vigor do presente diploma, dispõem até 30 de junho de 2026 para cumprir com os requisitos a que se refere o n.º 3 do artigo 4.º e os n.<sup>os</sup>5 e 7 do artigo 7.º
+5 - Os prestadores de serviço com autorização administrativa para exercer a atividade de rent-a-car à data da entrada em vigor do presente diploma, dispõem até 30 de junho de 2026 para cumprir com os requisitos a que se refere o n.º 3 do artigo 4.º e os n.os5 e 7 do artigo 7.º
 
 6 - Os prestadores de serviço com permissão administrativa para o exercício da atividade de rent-a-car à data da entrada em vigor do presente diploma dispõem até 30 de junho de 2026 para cumprir com as demais disposições do presente decreto legislativo regional, ficando isentos da obrigação de apresentação da comunicação prévia prevista no artigo 4.º
 
@@ -677,16 +735,18 @@ c) 40 % para a entidade decisora.
 
 ###### Artigo 31.º — Entrada em vigor e produção de efeitos
 
-1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos relativamente a todos os procedimentos após a entrada em vigor da portaria prevista nos n.<sup>os</sup>1 e 4 do artigo 4.º, na alínea d) do n.º 1 do artigo 5.º, no n.º 5 do artigo 7.º, no n.º 8 do artigo 10.º e no n.º 1 do artigo 13.º
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos relativamente a todos os procedimentos após a entrada em vigor da portaria prevista nos n.os1 e 4 do artigo 4.º, na alínea d) do n.º 1 do artigo 5.º, no n.º 5 do artigo 7.º, no n.º 8 do artigo 10.º e no n.º 1 do artigo 13.º
 
 2 - A portaria a que se refere o número anterior é publicada no prazo de 90 dias após a entrada em vigor do presente decreto legislativo regional.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de novembro de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 2 de dezembro de 2025.**
+Assinado em 2 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119840387

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10200/0005800060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/141/2023/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/141-2023-213558640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad679c7d5d4d4e68a68abd5a5d82ce81f12f0f11c9b086a45eac2251971a09d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3116383f1a0aa8e4ede4e8e2501c32cf9bb7fd1d5b5ea28dc6e58a09b30210c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
-- Política Agrícola
-- Regulamento CE
-- Política Florestal
-- PDR 2020
+- Financiamento
 - Medida N.º 2 Conhecimento
+- PDR 2020
+- Política Agrícola
+- Política Florestal
+- Regulamentação de Atos Legislativos
+- Regulamento CE
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
@@ -114,16 +114,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/46/2018/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/46/2018/02/12/p/dre
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:29Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +212,9 @@ g) (Revogada.)
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que reúnam as seguintes condições:
 
@@ -180,7 +222,9 @@ a) Apresentem um plano de ação, com uma duração entre 12 e 36 meses, que esp
 
 b) [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os apoios previstos na presente portaria revestem a forma de subvenção não reembolsável, podendo assumir as seguintes modalidades:
 
@@ -194,7 +238,9 @@ b) Custos simplificados, sob a forma de tabelas normalizadas de custos unitário
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -222,4 +268,6 @@ São revogadas as alíneas f) e g) do n.º 1 do artigo 6.º da [Portaria n.º 16
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 22 de maio de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 22 de maio de 2023.
+
+116499307

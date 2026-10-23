@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2011/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2011-485606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c009e1d79580297804323daadaf74f4058ff63fa2f0952bc17119b8f8957efca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b99afc45a27cf70c0a0e1b6a2c2a9a29adfb550e646e2134e77bda82066605e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/885/2001/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/885/2001/07/27/p/dre
+- type: cites
+  target: pt:dre:372831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:06Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +146,6 @@ A extinção e a concessão só produzem efeitos relativamente a terceiros com a
 
 Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 20 de Dezembro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 20 de Dezembro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00400/0013900140.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00400/0013900140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00400/0013900140.pdf)

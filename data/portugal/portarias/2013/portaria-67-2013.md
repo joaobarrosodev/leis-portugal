@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/67/2013/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-2013-258712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a428b0e8989230aa35e678173ac67b0049bd97118a3347e7db064acf52ad5548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6446f986c575cfb5e526bfa4a654439ffcbb4b91cdfe8d2fbf6dbe4c844da4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Leiria
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Leiria
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:19Z'
   warnings: []
   errors: []
 ---
@@ -224,13 +236,13 @@ As zonas de proteção respeitantes aos perímetros de proteção mencionados no
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 8 de junho de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 8 de junho de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -238,23 +250,23 @@ Zona de proteção imediata
 
 Captação - AC28
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
 
 Captação - JK20
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
 
 Zona de proteção alargada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
 
 ## ANEXO V — (a que se refere o artigo 5.º)
 
@@ -262,4 +274,4 @@ Planta de localização das zonas de proteção
 
 Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0079700799.pdf)

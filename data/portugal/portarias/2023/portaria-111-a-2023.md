@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 81/2023, 1º Suplemento, Série I de 2023-04-26
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(2) a 6-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111-a/2023/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2023-212322791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61a4cf2ad5cd67faee91460a08e1623331fd82d2ed62d337533da89704d919ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c3a4c52cbec9b533bc58cff77e65067b007ee4e1166d8188129beda9927591a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Admissão de Pessoal
 - Concurso de Ingresso
 - Criação de Lugares
-- Regulamentação de Atos Legislativos
+- Ensino Artístico
+- Estabelecimento de Ensino
 - Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
 - Extinção de Lugares
-- Recrutamento de Pessoal
 - Música
-- Estabelecimento de Ensino
 - Pessoal Docente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:17Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +162,14 @@ Todas as vagas referidas no artigo 1.º consideram-se extintas quando vagarem.
 
 A presente portaria entra em vigor e produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 24 de abril de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 24 de abril de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 18 de abril de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 24 de abril de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 24 de abril de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 18 de abril de 2023.
 
 ## ANEXO I — Concurso externo - Vagas de quadro de zona pedagógica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf)
 
 ## ANEXO II — Concurso externo - Vagas para o ensino artístico especializado da Música e da Dança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/08101/0000200004.pdf)
+
+116407096

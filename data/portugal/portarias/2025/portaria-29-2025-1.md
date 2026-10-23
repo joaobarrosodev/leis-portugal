@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02700/0019600206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/29/2025/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2025-906519105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a88391bf09aa63d4241260e7b77e1ee93d5859826ddf603c23fc620dcbc3415
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 709f5830959beec765102440c6e159b381396007666e089c9c2e97ab5fcb3437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Cidadão Estrangeiro
-- Língua Portuguesa
-- Regulamentação de Atos Legislativos
-- Estudante
-- Ensino Básico
 - Avaliação de Conhecimentos
+- Cidadão Estrangeiro
+- Ensino Artístico
+- Ensino Básico
+- Estudante
+- Língua Portuguesa
 - Plano A+A
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:223-A/2018
+  label: Altera, a partir de 8 de fevereiro de 2025, nos termos dos n.ºs 1 e 2 do artigo 6.º do presente diploma, os artigos
+    4.º, 8.º, 12.º, 13.º, 17.º, 19.º, 25.º, 26.º, 27.º, 28.º, 29.º, 34.º e 36.º e o anexo vi-A, adita o artigo 29.º-A, e revoga
+    os artigos 44.º, 45.º, 46.º, 47.º e 48.º (determinando que estes se mantêm transitoriamente em vigor até à publicação
+    do novo regime de frequência e de matrícula dos cursos artísticos especializados) da Portaria n.º 223-A/2018, de 3 de
+    agosto, Diário da República n.º 149/2018, 1º Suplemento, Série I
+  source: null
+  date: '2018-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
   label: null
@@ -103,16 +112,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/140/2024/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/140/2024/10/17/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178478635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179188085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891337590:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho:2044/2022
+  label: Revoga, a partir de 8 de fevereiro de 2025, o Despacho n.º 2044/2022, de 16 de fevereiro, Diário da República n.º
+    33/2022, Série II
+  source: null
+  date: '2022-02-16'
 article_structure:
-  article_count: 19
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:52Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +168,7 @@ validation:
 
 de 7 de fevereiro
 
-O [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, regula o currículo dos ensinos básico e secundário, definindo os princípios orientadores para a sua conceção e implementação e para a avaliação das aprendizagens, por forma a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as competências e as atitudes necessárias para alcançar as competências estabelecidas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+O [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.os[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, regula o currículo dos ensinos básico e secundário, definindo os princípios orientadores para a sua conceção e implementação e para a avaliação das aprendizagens, por forma a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as competências e as atitudes necessárias para alcançar as competências estabelecidas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
 
 A avaliação externa das aprendizagens constitui um instrumento essencial para o acompanhamento e o aperfeiçoamento contínuos do sistema educativo, contribuindo para a melhoria da qualidade do ensino e permitindo a monitorização eficaz das políticas públicas. Pelo seu carácter obrigatório e universal, a avaliação externa das aprendizagens constitui, também, um instrumento ao serviço das escolas e dos professores para robustecer o diagnóstico atempado de áreas a melhorar.
 
@@ -133,7 +180,7 @@ A disciplina de Português Língua Não Materna (PLNM) assume, igualmente, uma r
 
 Assim:
 
-Ao abrigo do disposto no n.º 2 do artigo 8.º e no n.º 6 do artigo 22.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, manda o Governo, pelo Secretário de Estado Adjunto e da Educação, o seguinte:
+Ao abrigo do disposto no n.º 2 do artigo 8.º e no n.º 6 do artigo 22.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.os[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, manda o Governo, pelo Secretário de Estado Adjunto e da Educação, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -169,7 +216,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -195,7 +244,9 @@ e) [...]
 
 12 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - No ensino básico geral e nos cursos artísticos especializados, as matrizes curriculares podem incluir a disciplina de Português Língua Não Materna (PLNM), destinada aos alunos que se enquadrem em uma das seguintes situações:
 
@@ -261,7 +312,9 @@ c) Trezentos e cinquenta minutos no 3.º ciclo.
 
 17 - Ao longo do percurso do aluno em PLNM a atribuição de menção qualitativa igual ou superior a Suficiente, no caso do 1.º ciclo, ou de classificação igual ou superior a 3, no 2.º e no 3.º ciclos, não implica obrigatoriamente a transição de nível de proficiência, porquanto o aluno poderá permanecer por dois anos letivos no nível A1 ou no nível A2, o mesmo sucedendo no nível intermédio B1.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +326,9 @@ a) O aluno pode dar continuidade à língua estrangeira do seu sistema de ensino
 
 b) No caso de iniciar uma nova língua estrangeira (LE II), esta não pode coincidir com a sua língua materna e/ou com a língua na qual foi escolarizado.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - No processo de avaliação das aprendizagens são intervenientes, para além dos referidos no artigo 15.º, os serviços e organismos do Ministério da Educação, Ciência e Inovação.
 
@@ -289,7 +344,9 @@ b) No caso de iniciar uma nova língua estrangeira (LE II), esta não pode coinc
 
 7 - Aos serviços e organismos do Ministério da Educação, Ciência e Inovação, especificamente no âmbito da avaliação externa, compete providenciar atempadamente informação de qualidade decorrente do processo de avaliação, de forma a contribuir para a melhoria das aprendizagens e para a promoção do sucesso educativo.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -303,9 +360,11 @@ b) No caso de iniciar uma nova língua estrangeira (LE II), esta não pode coinc
 
 6 - Do resultado da análise a que se refere o número anterior devem decorrer processos de planificação das atividades curriculares e extracurriculares que, sustentados pelos dados disponíveis, visem melhorar a qualidade das aprendizagens e a promoção do sucesso educativo, assegurando que as estratégias pedagógicas são ajustadas com base em evidências provenientes tanto da avaliação interna como externa.
 
-7 - Os resultados do processo mencionado nos n.<sup>os</sup>3, 4 e 5 são disponibilizados à comunidade escolar pelos meios considerados adequados, promovendo a transparência e o envolvimento de toda a comunidade educativa na melhoria das aprendizagens.
+7 - Os resultados do processo mencionado nos n.os3, 4 e 5 são disponibilizados à comunidade escolar pelos meios considerados adequados, promovendo a transparência e o envolvimento de toda a comunidade educativa na melhoria das aprendizagens.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A avaliação externa das aprendizagens no ensino básico, da responsabilidade dos serviços ou organismos do Ministério da Educação, Ciência e Educação, compreende:
 
@@ -325,7 +384,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 26.º — Provas de Monitorização da Aprendizagem
+Artigo 26.º
+
+Provas de Monitorização da Aprendizagem
 
 1 - As provas ModA destinam-se a avaliar a literacia dos alunos e respetivas dimensões nas áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória (PASEO).
 
@@ -361,7 +422,9 @@ d) Devem incluir uma classificação quantitativa para a globalidade da prova e 
 
 13 - As normas e os procedimentos relativos à realização das provas ModA são regulamentados por despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 27.º — Relatórios das provas de Monitorização da Aprendizagem
+Artigo 27.º
+
+Relatórios das provas de Monitorização da Aprendizagem
 
 1 - Os resultados e os desempenhos dos alunos e das escolas nas provas ModA são inscritos nos relatórios individuais das provas ModA e no relatório de escola das provas ModA, respetivamente.
 
@@ -377,7 +440,9 @@ d) Devem incluir uma classificação quantitativa para a globalidade da prova e 
 
 7 - Estão ainda previstos relatórios das provas ModA por concelho e um relatório nacional.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -407,11 +472,15 @@ c) Estejam nas condições referidas na alínea h) do n.º 2 do artigo 24.º
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Aos alunos abrangidos por medidas universais, seletivas ou adicionais, aplicadas no âmbito do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, que realizam provas ModA, provas finais do ensino básico e provas de equivalência à frequência, são garantidas, se necessário, adaptações no processo de realização das mesmas, incluindo a utilização de recursos tecnológicos e apoios específicos, de acordo com as necessidades individuais dos alunos.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -439,7 +508,7 @@ a) Ser considerada como classificação anual de frequência a classificação o
 
 b) Não ser atribuída classificação anual de frequência nessa disciplina;
 
-c) Realizar a PEA de acordo com os n.<sup>os</sup>4, 5 e 6.
+c) Realizar a PEA de acordo com os n.os4, 5 e 6.
 
 12 - Sempre que, por ingresso tardio no sistema de ensino português, apenas existirem em qualquer disciplina não sujeita a prova final do ensino básico elementos de avaliação respeitantes ao terceiro período letivo, o professor titular, ouvido o conselho de docentes, no 2.º, no 3.º e no 4.º anos do 1.º ciclo, e o conselho de turma, no 2.º e no 3.º ciclos, decide pela:
 
@@ -449,7 +518,9 @@ b) Transição do aluno, nos anos intermédios de ciclo, desde que este revele c
 
 13 - (Anterior n.º 12.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Em todos os anos do 1.º ciclo, as menções qualitativas e quantitativas atribuídas no final de cada período letivo, bem como as respetivas apreciações descritivas, incluindo as provenientes das provas ModA, são registadas nas fichas de registo de avaliação, a que se refere o n.º 1 do artigo 23.º
 
@@ -503,7 +574,7 @@ b) O [Despacho n.º 2044/2022](https://diariodarepublica.pt/dr/detalhe/despacho/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Educação, Manuel Alexandre Mateus Homem Cristo, em 5 de fevereiro de 2025.**
+O Secretário de Estado Adjunto e da Educação, Manuel Alexandre Mateus Homem Cristo, em 5 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -517,9 +588,9 @@ Tomando como referência a matriz curricular-base e as opções relativas à aut
 
 As escolas organizam os tempos letivos na unidade que considerem mais adequada.
 
-| Áreas disciplinares | 5.º ano | 6.º ano | Total do ciclo |
+| Componentes de currículo (c) | Carga horária semanal (a) (b) |  |  |
 | --- | --- | --- | --- |
-| Componentes de currículo (c) | Carga horária semanal (a) (b) | Carga horária semanal (a) (b) | Carga horária semanal (a) (b) |
+| Áreas disciplinares | 5.º ano | 6.º ano | Total do ciclo |
 | Línguas e Estudos Sociais | 550 | 550 | 1 100 |
 | Português |  |  |  |
 | Inglês |  |  |  |
@@ -555,3 +626,5 @@ As escolas organizam os tempos letivos na unidade que considerem mais adequada.
 (g) Se do somatório das cargas alocadas a cada disciplina resultar um tempo total inferior ao total constante na matriz, fica ao critério da escola a gestão do tempo sobrante, a utilizar no reforço das componentes do currículo, com exceção da componente de formação artística especializada.
 
 (h) Componente destinada à criação de nova(s) disciplina(s) para enriquecimento do currículo nos termos do n.º 9 do artigo 13.º do Decreto-Lei n.º 55/2018, de 6 de julho.»
+
+118657788

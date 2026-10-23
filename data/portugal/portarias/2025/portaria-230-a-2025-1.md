@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09801/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230-a/2025/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2025-919131527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b5b34a5d0407e25c91593c2fe5b791c946b710d919eaf2ad6e6f8737a85d3e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0428fc539df4d8b80b5897e95940ab4751d3d272dcd887cde173b95452ba6523
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Transporte Aéreo
-- Lisboa
-- Proteção do Ambiente
-- Poluição Sonora
-- Tráfego Aéreo
-- Desporto
 - Aeroporto Humberto Delgado
+- Desporto
+- Lisboa
+- Poluição Sonora
+- Proteção do Ambiente
+- Tráfego Aéreo
+- Transporte Aéreo
 relationships:
+- type: amends
+  target: pt:numero:portaria:303-A/2004
+  label: Derroga, entre as 00h00 m do dia 24 de maio de 2025 e as 06h00 m do dia 25 de maio de 2025, nos termos do artigo
+    2.º do presente diploma, as restrições previstas nos n.ºs 1, 2 e 3 do artigo 2.º da Portaria n.º 303-A/2004, de 22 de
+    março, Diário da República n.º 69/2004, 1º Suplemento, Série I-B
+  source: null
+  date: '2004-03-22'
 - type: cites
   target: celex:32002L0030
   label: null
@@ -107,6 +114,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/117/1998/09/19/p/dre
+- type: cites
+  target: pt:dre:122349224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216323589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872279532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913223443:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0030
   label: null
@@ -114,13 +157,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:32Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +174,11 @@ de 22 de maio
 
 O [Decreto-Lei n.º 293/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2003-445347), de 19 de novembro (Decreto-Lei), estabelece as regras e os procedimentos para a introdução de restrições de operação de aeronaves relacionadas com o ruído nos aeroportos, transpondo para a ordem jurídica interna a [Diretiva n.º 2002/30/CE](http://data.europa.eu/eli/dir/2002/30/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de março.
 
-Nos termos dos n.<sup>os</sup> 1, 3 e 5 do artigo 4.º do Decreto-Lei, devem ser fixadas, por portaria, medidas de gestão de ruído de aeronaves para cada aeroporto, as quais não devem ser mais restritivas que o necessário para atingir o objetivo ambiental fixado para cada aeroporto. Ademais, nos termos do disposto no n.º 6 do artigo 4.º do Decreto-Lei, as medidas referidas podem ser objeto de derrogação, atendendo aos custos e benefícios que as diferentes medidas aplicáveis são suscetíveis de gerar e às características específicas de cada aeroporto, a definir, igualmente, por portaria.
+Nos termos dos n.os 1, 3 e 5 do artigo 4.º do Decreto-Lei, devem ser fixadas, por portaria, medidas de gestão de ruído de aeronaves para cada aeroporto, as quais não devem ser mais restritivas que o necessário para atingir o objetivo ambiental fixado para cada aeroporto. Ademais, nos termos do disposto no n.º 6 do artigo 4.º do Decreto-Lei, as medidas referidas podem ser objeto de derrogação, atendendo aos custos e benefícios que as diferentes medidas aplicáveis são suscetíveis de gerar e às características específicas de cada aeroporto, a definir, igualmente, por portaria.
 
 Nesse sentido, foi aprovada a [Portaria n.º 303-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2004-644688), de 22 de março (Portaria) que, designadamente, introduziu restrições de operação de aeronaves relacionadas com o ruído no Aeroporto Humberto Delgado (AHD), durante o período noturno, entre as 00h00 m e as 06h00 m.
 
-A Portaria estabeleceu, desde logo, derrogações às medidas de gestão de ruído por força dos constrangimentos que previsivelmente seriam gerados pela realização do Campeonato Europeu de Futebol de 2004 em território nacional - cuja candidatura apresentada para o efeito pela Federação Portuguesa de Futebol à União das Associações Europeias de Futebol (UEFA) foi reconhecida como de interesse nacional, pela [Resolução do Conselho de Ministros n.º 117/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/117-1998-241455), de 19 de setembro. Subsequentemente, ocorreram outros eventos semelhantes que justificaram a derrogação das medidas de gestão de ruído do AHD, mediante portaria (cf., designadamente, as Portarias n.<sup>os</sup> [101/2014](https://diariodarepublica.pt/dr/detalhe/portaria/101-2014-25343686), de 12 de maio, [156/2019](https://diariodarepublica.pt/dr/detalhe/portaria/156-2019-122349224), de 21 de maio, e [236-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/236-a-2023-216323589), de 27 de julho).
+A Portaria estabeleceu, desde logo, derrogações às medidas de gestão de ruído por força dos constrangimentos que previsivelmente seriam gerados pela realização do Campeonato Europeu de Futebol de 2004 em território nacional - cuja candidatura apresentada para o efeito pela Federação Portuguesa de Futebol à União das Associações Europeias de Futebol (UEFA) foi reconhecida como de interesse nacional, pela [Resolução do Conselho de Ministros n.º 117/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/117-1998-241455), de 19 de setembro. Subsequentemente, ocorreram outros eventos semelhantes que justificaram a derrogação das medidas de gestão de ruído do AHD, mediante portaria (cf., designadamente, as Portarias n.os [101/2014](https://diariodarepublica.pt/dr/detalhe/portaria/101-2014-25343686), de 12 de maio, [156/2019](https://diariodarepublica.pt/dr/detalhe/portaria/156-2019-122349224), de 21 de maio, e [236-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/236-a-2023-216323589), de 27 de julho).
 
 No dia 28 de junho de 2023, o Comité Executivo da UEFA decidiu que a final da prova desportiva Liga dos Campeões Feminina de Futebol, agendada para o dia 24 de maio de 2025, sob a égide da UEFA, decorrerá no estádio José Alvalade, em Lisboa.
 
@@ -161,11 +204,11 @@ A presente portaria cria um regime excecional e temporário aplicável à opera�
 
 ###### Artigo 2.º — Norma derrogatória
 
-1 - Nos termos do n.º 6 do artigo 4.º do [Decreto-Lei n.º 293/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2003-445347), de 19 de novembro, na sua redação atual, as restrições previstas nos n.<sup>os</sup> 1 a 3 do artigo 2.º da [Portaria n.º 303-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2004-644688), de 22 de março, na sua redação atual, não são aplicáveis aos movimentos aéreos a realizar no AHD entre as 00h00 m do dia 24 de maio de 2025 e as 06h00 m do dia 25 de maio de 2025, que:
+1 - Nos termos do n.º 6 do artigo 4.º do [Decreto-Lei n.º 293/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2003-445347), de 19 de novembro, na sua redação atual, as restrições previstas nos n.os 1 a 3 do artigo 2.º da [Portaria n.º 303-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2004-644688), de 22 de março, na sua redação atual, não são aplicáveis aos movimentos aéreos a realizar no AHD entre as 00h00 m do dia 24 de maio de 2025 e as 06h00 m do dia 25 de maio de 2025, que:
 
 a) Estejam relacionados com o evento internacional mencionado no artigo anterior;
 
-b) Se encontrem abrangidos pelo disposto nos n.<sup>os</sup> 3 e 4.
+b) Se encontrem abrangidos pelo disposto nos n.os 3 e 4.
 
 2 - Os pedidos de faixa horária relativos aos movimentos aéreos referidos na alínea a) do número anterior devem fazer referência ao evento internacional mencionado no artigo anterior.
 
@@ -173,7 +216,7 @@ b) Se encontrem abrangidos pelo disposto nos n.<sup>os</sup> 3 e 4.
 
 4 - Os movimentos aéreos que não estejam relacionados com o evento internacional mencionado no artigo anterior podem ainda ser antecipados para o período compreendido entre as 05h30 m e as 06h00 m, desde que tenham faixa horária atribuída para o período compreendido entre as 06h00 m e as 07h00 m, nos dias mencionados no n.º 1.
 
-5 - No final do período previsto no n.º 1, voltam a vigorar os n.<sup>os</sup> 1 a 3 do artigo 2.º da [Portaria n.º 303-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2004-644688), de 22 de março, na sua redação atual.
+5 - No final do período previsto no n.º 1, voltam a vigorar os n.os 1 a 3 do artigo 2.º da [Portaria n.º 303-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2004-644688), de 22 de março, na sua redação atual.
 
 ###### Artigo 3.º — Medida de mitigação
 
@@ -185,4 +228,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 22 de maio de 2025.
 
-**O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo.**
+O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo.
+
+119092895

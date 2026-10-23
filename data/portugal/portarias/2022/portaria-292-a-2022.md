@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/2022, 1º Suplemento, Série I de 2022-12-09
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 89-(2) a 89-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292-a/2022/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-a-2022-204553292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43d016b672aaf85d1d9d00d98fcf552787b8fe3db71f7311ee196563c7e4b563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67e457edc5493dd7f44b2cf93ad04746130b0f27b595107775bc40fbfb31b0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Mecanismo Nacional Anticorrupção
 - Pessoal Dirigente
 - Pessoal Técnico Administrativo
 - Quadro de Pessoal
 - Remuneração
-- Mecanismo Nacional Anticorrupção
 relationships:
 - type: amended_by
   target: pt:dre:1073606545:por
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/164/2022/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/164/2022/06/23/p/dre
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185086767:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1073606545:por
+  label: Revogado, a partir de 19 de março de 2026, pelo(a) Portaria n.º 116/2026/1 - Diário da República n.º 54/2026, Série
+    I de 2026-03-18, nos termos do seu artigo 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-2026-1073606545
+  date: '2026-03-18'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:04Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +154,7 @@ A presente portaria cria o mapa de pessoal dirigente e o mapa de pessoal de apoi
 
 Em 7 de dezembro de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira.
 
 ## ANEXO — Mapa I
 
@@ -148,7 +162,7 @@ Mapa de pessoal dirigente
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
 
 Mapa II
 
@@ -156,8 +170,10 @@ Mapa de pessoal de apoio técnico e administrativo do MENAC
 
 Consultores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
 
 Pessoal de apoio técnico e administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23601/0000200003.pdf)
+
+115953812

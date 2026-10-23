@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/157/2023/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea5ab15088c9dce4f7fb5f626eb5419284bc78d416e4b3d84bd7d8164cc70eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a9c61160b59781a04eb75d87e119ff316401d8392194799cb1faac6d7a9a652
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Silvicultura
-- Regulamentação de Atos Legislativos
+- Agricultura
 - Arborização
+- Exploração Florestal
+- Financiamento
+- Investimento
+- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
+- PDR 2020
+- Programa de Desenvolvimento Rural
 - Proteção da Floresta
 - Reconversão da Produção
-- Investimento
-- Exploração Florestal
-- Agricultura
+- Regulamentação de Atos Legislativos
+- Silvicultura
 - Taxa
-- PDR 2020
-- Medida N.º 8 Proteção e Reabilitação dos Povoamentos Florestais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-l/2
@@ -121,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/76-a/2020/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/76-a/2020/03/18/p/dre
+- type: cites
+  target: pt:dre:115194818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119236552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123328901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130366458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70890759:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:36Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +213,7 @@ Os anexos i a iv da [Portaria n.º 394/2015](https://diariodarepublica.pt/dr/det
 
 Preparação mecânica do terreno e marcação e piquetagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -175,19 +227,23 @@ Notas
 
 5 - O valor da marcação e piquetagem foi determinado com base numa densidade de referência de 750 plantas por hectare, sendo reduzido proporcionalmente se o valor da densidade de plantação for inferior.
 
-## ANEXO II — (a que se referem os n.os 2 e 3 do artigo 1.º)
+ANEXO II
+
+(a que se referem os n.os 2 e 3 do artigo 1.º)
 
 Preparação do terreno - Outras operações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os valores da abertura das covas foram determinados com base numa densidade de referência de 1300 plantas/ha, sendo reduzidos proporcionalmente se o valor de densidade de plantação for inferior.
 
-## ANEXO III — (a que se referem os n.os 2 e 3 do artigo 1.º)
+ANEXO III
+
+(a que se referem os n.os 2 e 3 do artigo 1.º)
 
 Plantação, sementeira e aproveitamento de regeneração natural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -213,11 +269,13 @@ Pinheiro-manso - 850 plantas/ha;
 
 Outras resinosas - 1300 plantas/ha.
 
-## ANEXO IV — (a que se referem os n.os 2 e 3 do artigo 1.º)
+ANEXO IV
+
+(a que se referem os n.os 2 e 3 do artigo 1.º)
 
 I - Proteção de solo e das plantas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -227,13 +285,13 @@ Notas
 
 II - Infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os custos correspondentes à construção e manutenção de rede viária e à construção e manutenção de rede divisional têm uma majoração de 20 %, nos locais com declive igual ou superior a 25 %. A verificação do declive será feita preferencialmente recorrendo ao índice de qualificação fisiográfica da parcela (IQFP) existente no sistema de identificação parcelar (SIP).
 
 III - Outras intervenções nos povoamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -243,7 +301,7 @@ Notas
 
 IV - Rega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os valores unitários relativos à rega são elegíveis para as operações localizadas, após plantação, efetuadas com recurso a trator e cisterna, durante um período máximo de três anos civis, nas zonas em que o índice de aridez é elevado ou muito elevado, respetivamente (menor que) 0,5 IR (igual ou menor que) 0,65 e IR (igual ou menor que) 0,5.»
 
@@ -255,7 +313,7 @@ Nota. - Os valores unitários relativos à rega são elegíveis para as operaç�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 31 de maio de 2023.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -277,7 +335,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Preparação mecânica do terreno e marcação e piquetagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -295,7 +353,7 @@ Notas
 
 Preparação do terreno - Outras operações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os valores da abertura das covas foram determinados com base numa densidade de referência de 1300 plantas/ha, sendo reduzidos proporcionalmente se o valor de densidade de plantação for inferior.
 
@@ -303,7 +361,7 @@ Nota. - Os valores da abertura das covas foram determinados com base numa densid
 
 Plantação, sementeira e aproveitamento de regeneração natural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -333,7 +391,7 @@ Outras resinosas - 1300 plantas/ha.
 
 I - Proteção de solo e das plantas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -343,13 +401,13 @@ Notas
 
 II - Infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os custos correspondentes à construção e manutenção de rede viária e à construção e manutenção de rede divisional têm uma majoração de 20 %, nos locais com declive igual ou superior a 25 %. A verificação do declive será feita preferencialmente recorrendo ao índice de qualificação fisiográfica da parcela (IQFP) existente no sistema de identificação parcelar (SIP).
 
 III - Outras intervenções nos povoamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Notas
 
@@ -359,7 +417,7 @@ Notas
 
 IV - Rega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Os valores unitários relativos à rega são elegíveis para as operações localizadas, após plantação, efetuadas com recurso a trator e cisterna, durante um período máximo de três anos civis, nas zonas em que o índice de aridez é elevado ou muito elevado, respetivamente (menor que) 0,5 IR (igual ou menor que) 0,65 e IR (igual ou menor que) 0,5.
 
@@ -371,12 +429,14 @@ Por cada classe são considerados os valores unitários (euros por hectare) indi
 
 I - Elaboração e acompanhamento do projeto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Apenas haverá lugar ao pagamento dos montantes elegíveis aprovados caso no final da execução dos investimentos for apresentado um relatório, datado e assinado pelo técnico responsável, com a indicação do grau de execução das intervenções aprovadas, anexo à submissão do último pedido de pagamento.
 
 II - Elaboração do PGF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0002600036.pdf)
 
 Nota. - Apenas haverá lugar ao pagamento dos montantes elegíveis aprovados caso o PGF seja aprovado pelo Instituto de Conservação da Natureza e Florestas (ICNF, I. P.).
+
+116541118

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04900/0078200784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2016/03/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2016-73841183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7db144d16bd7851c0a7f1be56a316efbb1eed2c5d7dd60fdd1ff956d468b066b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b3a720f17ced5336bf1272a2d0ce732030f056a6d201d0ed8585aa2925d55b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bombeiro
 - Definição de Competências
 - Federação de Bombeiros
-- Bombeiro
 - Madeira.região Autónoma
 - Recenseamento
 - Regime Jurídico
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:117047303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117047303:por
+  label: Alterado o art.. 4.º do DLR 21/2010/M de 20-ago, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 21/2018/M - Diário da República n.º 225/2018, Série I de 2018-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2018-117047303
+  date: '2018-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/2007/06/21/p/dre
   label: null
@@ -119,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/
   label: null
   source: http://data.dre.pt/eli/lei/84/
+- type: cites
+  target: pt:dre:191076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:58Z'
   warnings: []
   errors: []
 ---
@@ -167,11 +225,15 @@ Os artigos 1.º a 4.º do [Decreto Legislativo Regional n.º 21/2010/M](https://
 
 O presente diploma adapta à Região Autónoma da Madeira o [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, alterado pela [Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), de 4 de agosto, e pelo [Decreto-Lei n.º 249/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), de 21 de novembro, que define o regime jurídico aplicável aos bombeiros portugueses.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O serviço regional competente, a que se refere o n.º 1 do artigo 1.º-A do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, alterado pela [Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), de 4 de agosto, e pelo [Decreto-Lei n.º 249/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), de 21 de novembro, para efetuar o recenseamento dos bombeiros na Região Autónoma da Madeira é o Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As referências feitas à Autoridade Nacional de Proteção Civil no n.º 1 do artigo 3.º, no n.º 6 do artigo 10.º, na alínea b) do n.º 1 do artigo 14.º, no n.º 2 do artigo 15.º, no n.º 6 do artigo 26.º, na alínea a) do n.º 3 e no n.º 4, ambos do artigo 27.º, no n.º 2 do artigo 30.º, na alínea d) do n.º 1 do artigo 32.º, no n.º 1 do artigo 33.º, no n.º 6 do artigo 34.º, no artigo 42.º e no n.º 3 do artigo 43.º, todos do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, alterado pela [Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), de 4 de agosto, e pelo [Decreto-Lei n.º 249/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), de 21 de novembro, consideram-se reportadas na Região Autónoma da Madeira ao Serviço Regional de Proteção Civil, IP-RAM.
 
@@ -185,7 +247,9 @@ O serviço regional competente, a que se refere o n.º 1 do artigo 1.º-A do [De
 
 6 - A referência feita ao Presidente da Autoridade Nacional de Proteção Civil no n.º 3 do artigo 41.º do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, alterado pela [Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), de 4 de agosto, e pelo [Decreto-Lei n.º 249/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), de 21 de novembro, considera-se reportada na Região Autónoma da Madeira ao Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 4.º — Regulamentação
+Artigo 4.º
+
+Regulamentação
 
 A Regulamentação do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, alterado pela [Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/lei/48-2009-493012), de 4 de agosto, e pelo [Decreto-Lei n.º 249/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076), de 21 de novembro, é aplicável à Região Autónoma da Madeira, em tudo o que não contrarie o disposto no presente diploma, e sem prejuízo da Região Autónoma da Madeira proceder à respetiva adaptação ou aprovação de regulamentação própria.»
 
@@ -203,11 +267,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de janeiro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 24 de fevereiro de 2016.**
+Assinado em 24 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

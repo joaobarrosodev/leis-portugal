@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24800/0006100062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2024/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2024-901014295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a016cad3673473ee72fc24e5fdd63b978bd5d443d06be5c0d2fd0215747917a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7dcb87988d6ddf00ea3ed49174abfd385cbbf589c7b27cea5b6ffeb5b175f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criação de Serviços
-- Comemoração
-- Equipa de Missão
 - Autonomia Política
+- Comemoração
+- Criação de Serviços
+- Equipa de Missão
+- Madeira.região Autónoma
 - Mandato
 - Moeda Comemorativa
-- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
@@ -94,16 +94,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:862566386:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:5/2024/M
+  label: Revoga, a partir de 24 de dezembro de 2024, o Decreto Legislativo Regional n.º 5/2024/M, de 22 de abril, Diário da
+    República n.º 79/2024, Série I
+  source: null
+  date: '2024-04-22'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:54Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +150,7 @@ A 12 de dezembro de 2024, foi a Assembleia Legislativa da Região Autónoma da M
 
 Assim sendo, por forma a evitar a duplicação de estruturas de missão com objeto e missão idênticas e tendo em conta que a estrutura a que se refere a Resolução do Conselho do Governo n.º 698/2024, de 10 de setembro, já se encontra em funcionamento, urge revogar, sem mais, o [Decreto Legislativo Regional n.º 5/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2024-862566386), de 22 de abril.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea vv) do artigo 40.º e n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea vv) do artigo 40.º e n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -140,10 +166,12 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 dedezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 19 de dezembro de 2024.**
+Assinado em 19 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118490651

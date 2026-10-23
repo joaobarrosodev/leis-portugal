@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 131/2009, 1º Suplemento, Série I de 2009-07-09
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4356-(2) a 4356-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13101/0000200004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/739-a/2009/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-a-2009-249854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 757fcde31ffd185baa29ef0a3bd47a7282b564c95628aa1a932ab9ea14ca5c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dfc3fc6b72b30bddb04ce59180707bc14f4b8bf01143e5b1e17b96ee9b96a27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
+- Apoio ao Investimento
+- Autoridade Florestal Nacional
 - Contrato de Investimento
 - Direcção Regional de Agricultura e Pescas
+- Exploração Florestal
 - Feader
+- Financiamento
 - Formulário Eletrónico
-- Apoio ao Investimento
-- Projeto de Investimento
 - Homologação
 - IFAP
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Plano de Gestão Florestal
 - Página na Internet
-- Exploração Florestal
-- Autoridade Florestal Nacional
+- Plano de Gestão Florestal
 - Plano Regional de Ordenamento do Território
+- Política Florestal
+- Proder
+- Projeto de Investimento
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
-- Política Florestal
 - ZONA de Intervenção Florestal
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 9º, 16º, 17º, 21º, 22º e 24º e o anexo II do Regulamento, aprovado pela Port 828/2008, de 08-Ago,\
+    \ na redacção do presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º, 22.º e 24.º e o anexo ii do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva\
+    \ dos Povoamentos», aprovado pela Portaria n.º 828/2008, de 08-Ago, na redacção do presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -100,16 +113,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/828/2008/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/828/2008/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.5 do ponto «despesas não elegíveis», do anexo II do Regulamento de Aplicação\
+    \ da Ação n.º 1.3.1, «Melhoria produtiva dos povoamentos» aprovado pela Port 828/2008 de 08-ago, alterado pelo presente\
+    \ diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art. 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:01Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +196,9 @@ s) ...
 
 t) 'Zonas de intervenção florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 a) ...
 
@@ -198,7 +220,9 @@ g) ...
 
 h) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 a) ...
 
@@ -218,7 +242,9 @@ h) ...
 
 i) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
 
@@ -240,7 +266,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no n.º 1 do artigo 14.º e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
@@ -254,13 +282,17 @@ h) ...
 
 6 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 4.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
 2 - Em casos excepcionais e devidamente justificados o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -280,7 +312,9 @@ h) ...
 
 9 - ...
 
-###### Artigo 22.º — Análise dos pedidos de pagamento
+Artigo 22.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -292,7 +326,9 @@ h) ...
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -300,7 +336,9 @@ h) ...
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -394,4 +432,4 @@ f) Qualquer investimento a realizar em espaços florestais integrados nos perím
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.

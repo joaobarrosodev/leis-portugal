@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/2010/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-2010-614152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 940214b41655980ba60c582315c3798cb8019133983c0ee7bf948a61543fd333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d79623b0fb2ff741c1c9c9abc716e2dc7121d80221eece00b7c396c895e14ae2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservação de Documentos
-- Universidade NOVA de Lisboa
 - Reitoria
+- Universidade NOVA de Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:09Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Em 18 de Dezembro de 2009.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas.
 
 ## ANEXO — Regulamento de Conservação Arquivística da Reitoria da Universidade Nova de Lisboa
 
@@ -235,10 +247,10 @@ Compete à DGARQ auditar a execução do disposto no presente Regulamento.
 
 ## ANEXO I — Tabela de selecção de documentos da Reitoria da Universidade Nova de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0144801454.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0254902553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/150/2012/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2012-552041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de957f726bff07f77812ba8ad2ab8e01fdfb56f8f2cd22d198e04e8fc48b545a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c10f4fc6b0ae4619857be4d96b193f1315c391e2664e69431ce56bbbbec71242
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Criação de Serviços
 - Definição de Competências
-- Secretaria Geral
 - Ministério da Educação e Ciência
 - Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:934278889:por
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:543909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:934278889:por
+  label: Revogada, nos termos do faseamento operacional definido no anexo IV ao Decreto-Lei n.º 43-B/2024, de 2 de julho (1
+    de janeiro de 2026), pelo(a) Decreto-Lei n.º 100/2025 - Diário da República n.º 171/2025, Série I de 2025-09-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2025-934278889
+  date: '2025-09-05'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:32Z'
   warnings: []
   errors: []
 ---
@@ -363,4 +377,4 @@ e) A Portaria n.º 572/2007, de 30 de abril.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 11 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 10 de maio de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 11 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 10 de maio de 2012.

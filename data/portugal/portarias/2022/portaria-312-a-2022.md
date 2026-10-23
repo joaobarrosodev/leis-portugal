@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 74-(23) a 74-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25101/0002300036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312-a/2022/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce6e27044131ebd1a4ce2db20d49000ecb3914040d4ff18f915f26b8e570e505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e400d59af18983d6b0501c5954847ed6e1e526af583e3ceeee6a9e63c45da78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Modernização Administrativa
-- Cartão de Cidadão
-- Certificação Electrónica
-- Instituto dos Registos e do Notariado
-- Correio Electrónico
-- Definição de Competências
-- Regulamentação de Atos Legislativos
 - Administração Pública
-- Gabinete Nacional de Segurança
-- Base de Dados
-- Segurança da Informação
-- Programa Simplex
-- Página na Internet
-- Prazo de Conservação
-- Confidencialidade
 - Agência para a Modernização Administrativa
 - Assinatura Digital
-- Regulamento CE
+- Base de Dados
+- Cartão de Cidadão
+- Certificação Electrónica
+- Chave Móvel Digital
+- Confidencialidade
+- Correio Electrónico
 - Dados Pessoais
+- Definição de Competências
+- Gabinete Nacional de Segurança
 - Identificação Civil
+- Instituto dos Registos e do Notariado
+- Modernização Administrativa
+- Página na Internet
+- Plataforma Eletrónica
+- Prazo de Conservação
+- Programa Simplex
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Regulamento Geral de Proteção de Dados
+- Segurança da Informação
 - Telemóvel
 - Titulo de Residência
-- Chave Móvel Digital
-- Plataforma Eletrónica
-- Regulamento Geral de Proteção de Dados
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -137,16 +137,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/77/2018/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/77/2018/03/16/p/dre
+- type: cites
+  target: pt:dre:107114304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114880292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122657687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:10Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +219,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º e 
 
 A presente portaria procede à regulamentação necessária ao desenvolvimento da Chave Móvel Digital (CMD), enquanto meio alternativo e voluntário de autenticação dos cidadãos em sistemas eletrónicos e sítios na Internet e de assinatura eletrónica qualificada ao abrigo da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, alterada e republicada pelo [Decreto-Lei n.º 88/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2021-173732850), de 3 de novembro.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O registo constitui a associação voluntária do número de identificação civil ou, no caso de cidadão estrangeiro, não titular de número de identificação civil português, do número de identificação fiscal ou do número de passaporte, a um único número de telemóvel ou a um endereço de correio eletrónico, sendo definida pelo cidadão uma palavra-chave permanente de quatro a oito dígitos.
 
@@ -187,7 +229,9 @@ A presente portaria procede à regulamentação necessária ao desenvolvimento d
 
 3 - Com a CMD o cidadão com idade igual ou superior a 16 anos que não se encontre sujeito a medidas de acompanhamento previstas no Código Civil que exijam a representação para o ato, pode também solicitar a emissão do certificado qualificado para assinatura eletrónica qualificada.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -199,13 +243,17 @@ A presente portaria procede à regulamentação necessária ao desenvolvimento d
 
 5 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O registo pode ser solicitado através da autenticação com cartão de cidadão, no sítio na Internet autenticacao.gov.pt.
 
 2 - O registo pode também ser solicitado, através de autenticação com cartão de cidadão, noutros locais, aplicações ou terminais eletrónicos, mediante acordo celebrado entre a AMA e as entidades interessadas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O registo pode ser igualmente solicitado eletronicamente através da autenticação no sítio na Internet do portal das finanças ou de outros sítios, aplicações ou terminais eletrónicos que celebrem protocolo com a AMA, solicitando o envio de carta, com a palavra-chave temporária gerada automaticamente e de forma aleatória, para a morada do titular do cartão de cidadão.
 
@@ -215,7 +263,9 @@ A presente portaria procede à regulamentação necessária ao desenvolvimento d
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O utilizador da CMD pode autenticar-se, de forma segura, em sistemas eletrónicos e sítios na Internet, através da sua palavra-chave permanente de autenticação e de um código numérico com seis dígitos, de utilização única e temporária.
 
@@ -237,7 +287,9 @@ d) [...]
 
 6 - A autenticação com CMD referida no presente artigo também pode ser utilizada em atendimento presencial, por videoconferência ou telefónico mediado.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O cidadão pode, a todo o tempo, alterar a sua palavra-chave permanente no sítio na Internet autenticacao.gov.pt ou na aplicação móvel prevista na alínea c) do n.º 2 do artigo anterior.
 
@@ -245,7 +297,9 @@ d) [...]
 
 3 - O cidadão pode também proceder à alteração do seu número de telemóvel ou endereço de correio eletrónico através dos meios mencionados no n.º 1.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Por motivos de segurança a palavra-chave permanente pode ser bloqueada após a introdução sucessiva de códigos alfanuméricos errados.
 
@@ -259,7 +313,9 @@ d) [...]
 
 6 - A revogação da CMD ou do certificado qualificado para assinatura eletrónica qualificada pode ser solicitada, a todo o tempo, por meio eletrónico ou por chamada para o centro de contacto gerido pela AMA através do número de telemóvel associado à CMD, implicando o respetivo cancelamento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +329,9 @@ c) Com a validade do título ou cartão de residência.
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -307,7 +365,9 @@ f) [...]
 
 10 - [...]
 
-###### Artigo 12.º — Segurança dos dados e prazos de conservação
+Artigo 12.º
+
+Segurança dos dados e prazos de conservação
 
 1 - No desenho e operação dos sistemas de informação nos quais se baseia a CMD a AMA, enquanto entidade responsável pelo tratamento de dados pessoais e pela gestão e segurança da infraestrutura tecnológica que suporta a CMD, nos termos e para os efeitos do n.º 8 do artigo 2.º da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, garante o cumprimento do disposto no n.º 9 do artigo 2.º daquele diploma, em especial, a adequada separação entre as diversas bases de dados utilizadas por aqueles sistemas de informação, sendo a informação das interações concretas realizadas entre os cidadãos e os serviços ou organismos da Administração Pública apenas guardada nos sistemas de informação desses serviços ou organismos.
 
@@ -329,7 +389,9 @@ f) [...]
 
 10 - (Anterior n.º 6.)
 
-###### Artigo 15.º — Entrada em vigor
+Artigo 15.º
+
+Entrada em vigor
 
 1 - A presente portaria entra em vigor no dia 2 de abril de 2018.
 
@@ -365,7 +427,9 @@ Solicitação eletrónica da CMD através da recolha de dados biométricos
 
 11 - O procedimento de registo é realizado em conformidade com as orientações do Gabinete Nacional de Segurança em matéria de identificação de pessoas físicas através de procedimentos de identificação à distância com recurso a sistemas biométricos automáticos de reconhecimento facial.
 
-###### Artigo 4.º-B — Solicitação da CMD através de videoconferência
+Artigo 4.º-B
+
+Solicitação da CMD através de videoconferência
 
 1 - O registo pode ser solicitado por videoconferência junto de Centro de Contacto gerido pela AMA.
 
@@ -411,7 +475,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 A presente portaria produz efeitos na data da sua entrada em vigor.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 21 de dezembro de 2022.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo, em 21 de dezembro de 2022.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -669,4 +733,6 @@ d) Nacionalidade.
 
 ## ANEXO — (a que se refere o n.º 4 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25101/0002300036.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25101/0002300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25101/0002300036.pdf)
+
+116012925

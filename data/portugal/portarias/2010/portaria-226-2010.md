@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/2010/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2010-613233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13e7161dda96b6ab28c203909e0906007ed9cfbc6c1cdb2007a738ae082d952d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aca07fe4d64268a0553d4918f4f6160fce97b94f52b8bf439b18b85c5fe2fc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Financiamento
-- Recursos Hídricos
-- Pesca
 - Aquicultura
+- Financiamento
 - Intervenção Operacional Pescas
+- Pesca
+- Recursos Hídricos
 - Regulamento
+- Regulamento do Regime de Apoio às Acções Colectivas
 relationships:
 - type: amended_by
   target: pt:dre:502865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671040:por
+  label: "Alterado o art. 11º do Regulamento do Regime de Apoio às Acções Colectivas, aprovado pela Port 719-C/2008, de 31-Jul,\
+    \ na redacção do presente diploma, pela PORT.271/2011.22.09.2011.MAMAOT, DR.IS [183] de 22.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2011-671040
+  date: '2011-09-22'
+- type: amended_by
+  target: pt:dre:502865:por
+  label: "Alterado o art. 9.º do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pela Port 719-C/2008, de 31-jul,\
+    \ na redação do presente diploma, pela PORT.315/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 9.º do Regulamento do Regime de Apoio às Ações Coletivas aprovado pela Port 719-C/2008 de 31-jul,\
+    \ na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
+- type: amends
+  target: pt:numero:portaria:719-C/2008
+  label: "Altera o n.º 1 do art. 9.º e o n.º 2 do art. 11.º, ambos do Regulamento do Regime de Apoio às Acções Colectivas,\
+    \ aprovado pela Portaria n.º 719-C/2008, de 31 de Julho, DR.IS [147]Supl, bem como os parâmetros constantes dos n.ºs 4\
+    \ (na redacção da Port 43/2009 de 19-Jan) e 6, do anexo ao citado regulamento, adita dois novos parâmetros, com os n.os\
+    \ 9) e 10), ao mesmo anexo, republicado pela Port 43/2009 de 19-Jan\0\0"
+  source: null
+  date: '2008-07-31'
 - type: cites
   target: celex:32000R0104
   label: null
@@ -87,15 +113,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/719-c/2008/07/31/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:07Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +164,9 @@ Candidaturas
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 11.º — Decisão e contratação
+Artigo 11.º
+
+Decisão e contratação
 
 1 - ...
 

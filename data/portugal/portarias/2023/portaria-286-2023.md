@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18300/0000400012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/2023/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2023-221846466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47a0aa48d786fb2b2f07cc6b72b3e6b26e96741e309b99169edf80c1a7a3f878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecbf90a4ea485c4cdd5a30dfc507fb06bd8cffaa99ac56efd74085e97763f7e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
 subjects:
 - Caderno de Recenseamento
 - Campanha Eleitoral
-- Eleição
 - Círculo Eleitoral
-- Ministério da Administração Interna
-- Igualdade de Tratamento
-- Recenseamento Eleitoral
 - Comunidades Portuguesas
+- Conselho das Comunidades Portuguesas
 - Definição de Competências
 - Difusão da Informação
-- Secretaria Geral
-- Publicitação
-- Sistema Eleitoral
-- Conselho das Comunidades Portuguesas
-- Secretário de Estado das Comunidades Portuguesas
+- Eleição
+- Igualdade de Tratamento
 - Internet
-- Reclamação
-- Regulamento Eleitoral
+- Ministério da Administração Interna
 - Ministério dos Negócios Estrangeiros
 - Plataforma Eletrónica
+- Publicitação
+- Recenseamento Eleitoral
+- Reclamação
+- Regulamento Eleitoral
+- Secretaria Geral
+- Secretário de Estado das Comunidades Portuguesas
+- Sistema Eleitoral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/29/2015/04/16/p/dre
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/197/2015/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/197/2015/07/03/p/dre
+- type: cites
+  target: pt:dre:150899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66997032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67664948:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:23Z'
   warnings: []
   errors: []
 ---
@@ -396,7 +408,7 @@ Os membros do Conselho são eleitos por círculos eleitorais de acordo com o ane
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Comunidades Portuguesas, Paulo Alexandre Nascimento Cafôfo, em 15 de setembro de 2023.**
+O Secretário de Estado das Comunidades Portuguesas, Paulo Alexandre Nascimento Cafôfo, em 15 de setembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 26.º)
 
@@ -404,41 +416,41 @@ Mapa dos círculos eleitorais
 
 | África do Sul ... | Joanesburgo e Pretória ... | 3 |
 | --- | --- | --- |
-| África do Sul ... | Cabo ... | 1 |
+| Cabo ... | 1 |  |
 | Alemanha ... | Dusseldorf, Hamburgo e Berlim ... | 2 |
-| Alemanha ... | Estugarda (Varsóvia, Praga, Bratislava) ... | 2 |
+| Estugarda (Varsóvia, Praga, Bratislava) ... | 2 |  |
 | Andorra ... | Andorra ... | 1 |
 | Angola ... | (Kinshasa, Malabo) ... | 1 |
 | Argentina ... | (Santiago do Chile, Lima) ... | 1 |
 | Austrália ... | Sidney e Camberra (Jacarta) ... | 1 |
-| Austrália ... | Melbourne ... | 1 |
+| Melbourne ... | 1 |  |
 | Bélgica ... |  | 1 |
 | Brasil ... | Brasília ... | 1 |
-| Brasil ... | Belém ... | 1 |
-| Brasil ... | Belo Horizonte ... | 1 |
-| Brasil ... | Curítiba e Porto Alegre ... | 1 |
-| Brasil ... | Recife e Salvador ... | 1 |
-| Brasil ... | Fortaleza ... | 1 |
-| Brasil ... | Rio de Janeiro ... | 3 |
-| Brasil ... | São Paulo ... | 4 |
-| Brasil ... | Santos ... | 1 |
+| Belém ... | 1 |  |
+| Belo Horizonte ... | 1 |  |
+| Curítiba e Porto Alegre ... | 1 |  |
+| Recife e Salvador ... | 1 |  |
+| Fortaleza ... | 1 |  |
+| Rio de Janeiro ... | 3 |  |
+| São Paulo ... | 4 |  |
+| Santos ... | 1 |  |
 | Cabo Verde ... |  | 1 |
 | Canadá ... | Toronto ... | 3 |
-| Canadá ... | Montreal e Otava ... | 1 |
-| Canadá ... | Vancouver ... | 1 |
+| Montreal e Otava ... | 1 |  |
+| Vancouver ... | 1 |  |
 | China ... | (Tóquio, Seul, Banguecoque, Singapura) ... | 3 |
 | Espanha ... |  | 1 |
 | Estados Unidos ... | Washington ... | 1 |
 |  | Miami e Orlando (Palm Coast) ... | 1 |
-|  | New Bedford, Boston e Providence ... | 2 |
-|  | Newark e Nova Iorque ... | 2 |
-|  | São Francisco (Cidade do México) ... | 1 |
+| New Bedford, Boston e Providence ... | 2 |  |
+| Newark e Nova Iorque ... | 2 |  |
+| São Francisco (Cidade do México) ... | 1 |  |
 | França ... | Paris ... | 7 |
-| França ... | Bordéus e Toulouse ... | 2 |
-| França ... | Lyon e Marselha ... | 3 |
-| França ... | Estrasburgo ... | 1 |
+| Bordéus e Toulouse ... | 2 |  |
+| Lyon e Marselha ... | 3 |  |
+| Estrasburgo ... | 1 |  |
 | Grã-Bretanha ... | Londres e Manchester (Dublin) ... | 6 |
-| Grã-Bretanha ... | Bermuda ... | 1 |
+| Bermuda ... | 1 |  |
 | Guiné-Bissau ... | (Abidjan, Argel, Cairo, Rabat, Abuja, Dakar, Túnis, Adis Abeba) ... | 1 |
 | Índia ... | (Islamabad, Astana, Teerão) ... | 1 |
 | Israel ... | (Riyadh, Abu Dhabi, Doha) ... | 1 |
@@ -454,5 +466,9 @@ Mapa dos círculos eleitorais
 | Turquia ... | (Ankara, Bucareste, Atenas, Sófia, Nicósia, Budapeste, Moscovo, Belgrado, Kiev, Zagrebe) ... | 1 |
 | Uruguai ... |  | 1 |
 | Venezuela ... | Caracas (Bogotá, Panamá, Havana) ... | 4 |
-| Venezuela ... | Valência ... | 2 |
+| Valência ... | 2 |  |
 | Total ... | 52 círculos ... | 90 membros |
+
+116860891
+
+.Tbl1 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl3 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl4 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl6 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; }

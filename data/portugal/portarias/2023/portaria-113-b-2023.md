@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 83/2023, 1º Suplemento, Série I de 2023-04-28
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 188-(4) a 188-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/08301/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113-b/2023/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-b-2023-212450608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45c42cc3c3521f68db7bac010be107711834b145f9ab400542ad66e8a5b725d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abcd13545b6821321b823ff32b2b8cbd4b24a292acb67989cece35c712eb9587
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Aquicultura
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Regulamentação de Atos Legislativos
-- Política Energética
-- Produto Petrolífero
 - Combustível
 - Fixação de Preços
-- Pesca
 - Gasóleo
 - Gasolina
-- Aquicultura
+- Imposto sobre Produtos Petrolíferos
+- Pesca
+- Política Energética
 - Preço
-- Agricultura
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
 relationships:
 - type: cites
@@ -120,16 +120,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38-c
   label: null
   source: http://data.dre.pt/eli/port/38-c
+- type: cites
+  target: pt:dre:117114258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184435188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184889254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185229613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185452474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200525834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201751346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203083725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204273361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207062802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208203165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211393118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211928288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:19Z'
   warnings: []
   errors: []
 ---
@@ -182,4 +250,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 28 de abril de 2023.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia.
+
+116420614

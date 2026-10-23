@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12500/0004300066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2021/06/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90571a6b1089725d288c971643ab74a13253cdbcbebf331bc0a95b606c3605a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420b5a60fd86e46ed65f9b657e6c0d54938dba1255b1ebdb7b999a0e4feb2166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,43 @@ subjects:
 - Accionista
 - Alienação de Participação Social
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano para Habitação
 - Assunção de Dívidas
 - Autonomia Administrativa
 - Autorização de Despesas
+- Cedência de Interesse Público
 - Comissão de Serviço
-- Gestão Financeira
 - Conselho de Administração
-- Governo Regional
 - Conselho Fiscal
 - Contrato Coletivo de Trabalho
 - Controlo Financeiro
 - Criação de Empresas
 - Definição de Competências
-- Regime Laboral
 - Despesas de Representação
 - Despesas Públicas
 - Dívida
-- Extinção de Empresas
-- Fusão de Empresas
 - Empresa Participada
 - Empresa Pública Regional
 - Estatuto
-- Sociedade de Responsabilidade Limitada
+- Extinção de Empresas
+- Fusão de Empresas
+- Gestão Financeira
 - Gestor Público Regional
+- Governo Regional
+- Habitação
 - Horas Extraordinárias
 - IHM
-- Publicitação
-- Tribunal de Contas
+- Madeira.região Autónoma
 - Membros do Governo
 - Oneração de Imóveis
 - Página na Internet
-- Madeira.região Autónoma
+- Publicitação
 - Regime Jurídico
-- Habitação
+- Regime Laboral
 - Remuneração
-- Cedência de Interesse Público
-- Arrendamento Urbano para Habitação
 - Sector Empresarial Regional
+- Sociedade de Responsabilidade Limitada
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -146,16 +146,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115288238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124134341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128114253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137703606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56305787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 69
+  article_count: 68
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:28Z'
   warnings: []
   errors: []
 ---
@@ -254,7 +382,9 @@ São alterados os artigos 31.º e 65.º do [Decreto Legislativo Regional n.º 18
 
 7 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Os encargos globais com contratos de aquisição de serviços, com exceção dos contratos cofinanciados, não podem ultrapassar os encargos globais pagos em 2020.
 
@@ -298,11 +428,11 @@ b) ...
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de maio de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 16 de junho de 2021.**
+Assinado em 16 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -903,3 +1033,5 @@ Quaisquer remissões para o regime jurídico do SERAM, aprovado pelo [Decreto Le
 2 - O disposto no presente diploma prevalece sobre os estatutos das entidades referidas no número anterior que, decorrido o prazo ali mencionado, não tenham sido revistos e adaptados.
 
 3 - As normas relativas à composição da administração e fiscalização das empresas públicas regionais a que se referem o n.º 2 do artigo 29.º e os n.os 1 e 2 do artigo 31.º aplicam-se a partir do mandato imediatamente seguinte ao que se encontre em curso no termo do prazo a que se refere o número anterior.
+
+114347599

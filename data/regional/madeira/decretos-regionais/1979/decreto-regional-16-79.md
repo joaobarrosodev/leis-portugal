@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1979-369990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb2e28871ab84a186e51067924e5b66523106fa9911f9d8cc0aa69eaec291014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3be5bbb146203117b46d5b83c2520c953513afed7ce045b2feddc4b5b5a36b1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Rural
+- Benfeitoria
+- Indemnização
+- Madeira.região Autónoma
+- Política Agrícola
+- Reforma Agrária
+- Regime de Colónia
+- Registo Predial
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:277085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:25Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +125,35 @@ Por outro lado, esta forma processual permitirá, com a intervenção de todos o
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do artigo 55.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1 - As inscrições registrais que tenham por objecto encargos sobre benfeitorias de colonia, seja qual for o valor, caducam decorridos que sejam cinco anos, a contar da data em que foram efectuadas, se não forem renovadas no prazo de seis meses.
+Artigo 1.º - 1 - As inscrições registrais que tenham por objecto encargos sobre benfeitorias de colonia, seja qual for o valor, caducam decorridos que sejam cinco anos, a contar da data em que foram efectuadas, se não forem renovadas no prazo de seis meses.
 
 2 - A renovação será feita gratuitamente, mediante simples requerimento dos respectivos titulares, por averbamento à inscrição.
 
-###### Art. 2.º - 1 - As demais inscrições que tenham por objecto direitos sobre benfeitorias de colonia caducam decorridos que sejam trinta anos, a contar da data em que foram efectuadas, se não forem renovadas, nos termos do artigo anterior, no prazo de um ano.
+Art. 2.º - 1 - As demais inscrições que tenham por objecto direitos sobre benfeitorias de colonia caducam decorridos que sejam trinta anos, a contar da data em que foram efectuadas, se não forem renovadas, nos termos do artigo anterior, no prazo de um ano.
 
 2 - Caducadas as inscrições, as benfeitorias que constituíam o seu objecto consideram-se, para todos os efeitos, como não descritas.
 
-###### Art. 3.º O disposto no n.º 1 do artigo 13.º do Código de Registo Predial não é aplicável aos registos de benfeitorias não descritas ou descritas, mas sem inscrição de aquisição, domínio ou posse.
+Art. 3.º O disposto no n.º 1 do artigo 13.º do Código de Registo Predial não é aplicável aos registos de benfeitorias não descritas ou descritas, mas sem inscrição de aquisição, domínio ou posse.
 
-###### Art. 4.º - 1 - O comproprietário de benfeitorias de colonia goza de legitimidade para requerer o registo não só da quota que lhe pertence, mas também da dos consortes.
+Art. 4.º - 1 - O comproprietário de benfeitorias de colonia goza de legitimidade para requerer o registo não só da quota que lhe pertence, mas também da dos consortes.
 
 2 - Igual legitimidade é reconhecida, com as necessárias adaptações, ao titular de qualquer comunhão de direitos.
 
-###### Art. 5.º A justificação para registo, regulada no artigo 12.º do [Decreto-Lei n.º 47937](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47937-1967-391001), de 15 de Setembro de 1967, é aplicável a todos os casos em que se pretenda obter título para se efectuar a primeira inscrição.
+Art. 5.º A justificação para registo, regulada no artigo 12.º do [Decreto-Lei n.º 47937](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47937-1967-391001), de 15 de Setembro de 1967, é aplicável a todos os casos em que se pretenda obter título para se efectuar a primeira inscrição.
 
-###### Art. 6.º - 1 - Para efeitos de registo, tem-se como justificada a propriedade de benfeitorias não descritas se no respectivo título de aquisição o adquirente se afirmar, com exclusão de outrem, dono delas e o transmitente e dois outros outorgantes confirmarem aquela afirmação.
+Art. 6.º - 1 - Para efeitos de registo, tem-se como justificada a propriedade de benfeitorias não descritas se no respectivo título de aquisição o adquirente se afirmar, com exclusão de outrem, dono delas e o transmitente e dois outros outorgantes confirmarem aquela afirmação.
 
 2 - Todos os intervenientes no título ficam sujeitos às sanções previstas no artigo 107.º do Código do Notariado, a quem deverá ser feita a advertência nele referida.
 
-###### Art. 7.º O registo das benfeitorias considera-se efectuado, face ao título referido no artigo anterior, por declaração feita na própria descrição ou em averbamento à mesma de que o prédio consta de terra com suas benfeitorias e da respectiva inscrição matricial, inscrevendo-se a aquisição de terreno como prédio livre.
+Art. 7.º O registo das benfeitorias considera-se efectuado, face ao título referido no artigo anterior, por declaração feita na própria descrição ou em averbamento à mesma de que o prédio consta de terra com suas benfeitorias e da respectiva inscrição matricial, inscrevendo-se a aquisição de terreno como prédio livre.
 
-###### Art. 8.º - 1 - É dispensada a discriminação matricial prévia para efeitos de transmissão de terra colonizada ou das respectivas benfeitorias.
+Art. 8.º - 1 - É dispensada a discriminação matricial prévia para efeitos de transmissão de terra colonizada ou das respectivas benfeitorias.
 
 2 - A discriminação far-se-á oficiosamente e com base nos elementos que forem comunicados às competentes repartições de finanças, sujeita a reclamação dos interessados.
 
 3 - As unidades prediais surgidas das transmissões constituirão uma inscrição matricial autónoma.
 
-###### Art. 9.º As remissões, quando não resultem de negócios titulados por escritura pública, devem ser feitas em acção judicial, que seguirá a forma do processo urgente regulada no Código das Expropriações por Utilidade Pública, com as necessárias adaptações e as modificações seguintes:
+Art. 9.º As remissões, quando não resultem de negócios titulados por escritura pública, devem ser feitas em acção judicial, que seguirá a forma do processo urgente regulada no Código das Expropriações por Utilidade Pública, com as necessárias adaptações e as modificações seguintes:
 
 a) A fase administrativa correrá perante a Secretaria Regional de Agricultura e Pescas do Governo Regional da Madeira;
 
@@ -142,20 +167,20 @@ e) O levantamento das quantias devidas aos interessados está isento de custas e
 
 f) As sentenças, depois de transitadas, serão notificadas àquela Secretaria.
 
-###### Art. 10.º A Secretaria Regional de Agricultura e Pescas comunicará às repartições de finanças dos concelhos da situação dos prédios as remissões efectuadas, por extracto, donde conste a identificação do objecto e dos sujeitos e o valor da operação.
+Art. 10.º A Secretaria Regional de Agricultura e Pescas comunicará às repartições de finanças dos concelhos da situação dos prédios as remissões efectuadas, por extracto, donde conste a identificação do objecto e dos sujeitos e o valor da operação.
 
-###### Art. 11.º Os casos omissos e as dúvidas que se verificarem na execução deste decreto serão resolvidos por diploma do Governo Regional da Madeira.
+Art. 11.º Os casos omissos e as dúvidas que se verificarem na execução deste decreto serão resolvidos por diploma do Governo Regional da Madeira.
 
-###### Art. 12.º Ficam revogados o n.º 2 do artigo 22.º e o artigo 24.º do Decreto Regional n.º 13/77-M, de 18 de Outubro.
+Art. 12.º Ficam revogados o n.º 2 do artigo 22.º e o artigo 24.º do Decreto Regional n.º 13/77-M, de 18 de Outubro.
 
-###### Art. 13.º Este diploma aplica-se aos processos pendentes em juízo, devendo estes transitar oficiosamente para a Secretaria Regional de Agricultura e Pescas.
+Art. 13.º Este diploma aplica-se aos processos pendentes em juízo, devendo estes transitar oficiosamente para a Secretaria Regional de Agricultura e Pescas.
 
-###### Art. 14.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 14.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 31 de Julho de 1979.
 
 O 1.º Vice-Presidente, António Gil Inácio da Silva.
 
-**Assinado em 16 de Agosto de 1979.**
+Assinado em 16 de Agosto de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

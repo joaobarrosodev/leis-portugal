@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10900/0001200021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2022/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d047567a490826844adab27eaa15eaa2acf9d4501f4ca278757b1c14c2782cc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3edd1be69c32514d5d96e4e4dcfb025838878e5029b0c1ecd0bf02e039f7d2d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Informação
-- Publicidade
 - Concurso Local de Acesso
+- Ensino Artístico
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
 - Licenciatura
+- Lisboa
 - Página na Internet
+- Publicidade
 - Regulamento
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -120,16 +120,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/794/2007/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/794/2007/07/23/p/dre
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636771:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:13Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +232,9 @@ c) Jazz;
 
 ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Requisitos gerais:
 
@@ -200,7 +250,9 @@ a) Prova específica;
 
 b) Prova de conhecimentos gerais de música (exclusiva para os candidatos à variante de Composição, Direção e Formação Musical e à variante de Execução).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A prova de conhecimentos gerais de música visa avaliar o nível de proficiência dos candidatos nas áreas sobre que incide e que são indispensáveis para uma sólida formação musical.
 
@@ -232,13 +284,17 @@ b) Terem concluído um curso profissional de Música;
 
 11 - A prova de conhecimentos gerais de música, tendo carácter eliminatório, não contribui para a classificação da avaliação da capacidade para a frequência. A avaliação final destas provas será a obtida na prova específica.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A candidatura é efetuada na plataforma de candidaturas online da Escola Superior de Música de Lisboa.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O processo de candidatura é instruído com:
 
@@ -248,7 +304,9 @@ b) Ficha ENES, que constitui o documento comprovativo da titularidade do curso d
 
 c) Outros documentos referidos no edital a que se refere o artigo 13.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A organização das provas do concurso é da responsabilidade do conselho pedagógico da Escola.
 
@@ -268,7 +326,9 @@ a) Dar execução às provas e proceder à sua apreciação;
 
 b) Proceder às operações de seleção e seriação dos candidatos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 No prazo fixado nos termos do artigo 25.º, o diretor procede à afixação, na Escola, de edital de abertura e no sítio da Internet da Escola Superior de Música de Lisboa, indicando, designadamente:
 
@@ -278,7 +338,9 @@ b) ...
 
 c) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Na variante de Composição, Direção e Formação Musical e na variante de Execução a seleção dos candidatos é realizada com base:
 
@@ -288,7 +350,9 @@ b) Em cada uma das duas partes que integram a prova de conhecimentos gerais de m
 
 2 - Na variante de Jazz a seleção dos candidatos é realizada com base na prova específica, onde deve ser obtida uma classificação igual ou superior a 10.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O resultado final é tornado público no sítio da Internet e afixado na Escola no prazo fixado nos termos do artigo 25.º do presente Regulamento.
 
@@ -300,7 +364,9 @@ b) ...
 
 c) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -310,11 +376,15 @@ c) ...
 
 4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de via eletrónica.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Findo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior uma lista de todos os candidatos que procederam à mesma, com indicação do número do cartão de cidadão.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo diretor da Escola Superior de Música de Lisboa, devendo ser tornados públicos no sítio da Internet e na Escola.»
 
@@ -346,7 +416,7 @@ São revogados o artigo 6.º e o n.º 3 do artigo 20.º do Regulamento.
 
 2 - As alterações aprovadas pela presente portaria produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022-2023, inclusive.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.
 
 ## ANEXO
 
@@ -619,3 +689,5 @@ Findo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do 
 ###### Artigo 25.º — Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo diretor da Escola Superior de Música de Lisboa, devendo ser tornados públicos no sítio da Internet e na Escola.
+
+115385857

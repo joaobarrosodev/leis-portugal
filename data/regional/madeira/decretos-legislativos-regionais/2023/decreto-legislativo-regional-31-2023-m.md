@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14700/0002400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2023/07/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2023-216406851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f9f5ba96630c31983833aadf15ebce5ed950ae3a969bb9681681310695d77e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5427a1ccebea47363dd683f2dad916cb65bcb5d496f9e62a38b8f145b8bed87d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Técnica
-- Sistema Retributivo
-- SIADAP
 - Lei Geral do Trabalho em Funções Públicas
 - Madeira.região Autónoma
 - Regime Jurídico
 - Remuneração
+- SIADAP
+- Sistema Retributivo
 - Tabela Salarial
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:116108109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:47Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +180,11 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 28 de julho de 2023.**
+Assinado em 28 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -174,4 +194,6 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 (a que se referem os artigos 17.º e 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14700/0002400026.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14700/0002400026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14700/0002400026.pdf)
+
+116727898

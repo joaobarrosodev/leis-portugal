@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2011/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-2011-485628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7423e81895e8c5206aee28a1ffd056bf290dad1cd2e94ed031fbf6f12ce17583
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cfeda48b35281189023ac58c17391375884ffdb31731a58c51fbea5f5b3f6b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Análise Laboratorial
 - Direção Geral de Veterinária
 - Isenção de Taxas e Emolumentos
-- Medicina Veterinária
 - Medicamento Veterinário
+- Medicina Veterinária
 - TAXA de Prestação de Serviços
 relationships:
 - type: cites
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:34Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +167,7 @@ Os valores das taxas previstos no artigo 1.º podem ser actualizados, anualmente
 
 É revogada a Portaria n.º 1444/2008, de 12 de Dezembro.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Dezembro de 2010. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 2 de Agosto de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Dezembro de 2010. - O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 2 de Agosto de 2010.
 
 ## ANEXO — Tabela a que se refere o artigo 1.º
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/2013/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43981009e12f78a0791d6d00cce714a2eec3b1963e325e7a3563623ffa8d7cc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 805eb95eb76c34ecbd89cc8ccdac8242bd61baa643e0df9ae4738303916778de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,27 @@ reuse:
 subjects:
 - Jogos de Fortuna e Azar
 - Lisboa
-- Santa Casa da Misericórdia
 - Regulamento
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:107761912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107761912:por
+  label: Alterado o art. 7.º do Regulamento da Lotaria Instantânea aprovado pela Port 552/2001, de 31-mai, na versão republicada
+    pelo presente diploma, e com a redação da Port 15/2014 23-jan, pelo(a) Portaria n.º 232/2017 - Diário da República n.º
+    144/2017, Série I de 2017-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2017-107761912
+  date: '2017-07-27'
+- type: amended_by
+  target: pt:dre:123324347:por
+  label: Alterado o art. 10.º do Regulamento da Lotaria Instantânea, aprovado pela Port 552/2001 de 31-mai, na versão alterada
+    e republicada pelo presente diploma, pelo(a) Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento,
+    Série I de 2019-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-a-2019-123324347
+  date: '2019-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
   label: null
@@ -102,16 +116,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:332247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632404:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:48Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +256,7 @@ Sem prejuízo do disposto nos n.os 1 e 4 do artigo 11.º, os bilhetes físicos q
 
 A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 10 de abril de 2013.**
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 10 de abril de 2013.
 
 ## ANEXO — REGULAMENTO DA LOTARIA INSTANTÂNEA
 

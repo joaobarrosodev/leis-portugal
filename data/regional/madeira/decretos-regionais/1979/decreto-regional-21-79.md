@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22400/25312534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1979-365279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ada97bffc64051d863185362334f3533ef5b99ef031527e7325dd2f898479b91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0f6f29d683296e043513af6ef637ffa807197beb00cbf614d180f7f6bb12ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Agrícola
+- Baldio
+- Comissão
+- Criação de Serviços
+- Definição de Competências
+- Exploração Florestal
+- Exploração Pecuária
+- GADO
+- Madeira.região Autónoma
+- Parque Natural da Madeira
+- Reserva Geologica
+- Reserva Natural
 relationships:
 - type: amended_by
   target: pt:dre:372074:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372074:por
+  label: "Revogado pelo DLR.7/88/M.06.06.1988.ARM, DR.IS [130] de 06.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1988-372074
+  date: '1988-06-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:28Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +137,7 @@ Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](h
 
 Das comissões de pastores
 
-###### Artigo 1.º - 1 - É dever dos pastores ou proprietários do gado, nas serras, criarem as suas próprias comissões, através das quais deverão expressar as suas atribuições e defender os seus interesses.
+Artigo 1.º - 1 - É dever dos pastores ou proprietários do gado, nas serras, criarem as suas próprias comissões, através das quais deverão expressar as suas atribuições e defender os seus interesses.
 
 2 - As comissões previstas no número anterior terão dois escalões: regional e concelhio, e a sua constituição e competência serão definidas em estatuto próprio.
 
@@ -120,17 +145,17 @@ Das comissões de pastores
 
 Das comissões do regime silvo-pastoril e suas atribuições
 
-###### Art. 2.º - 1 - As comissões do regime silvo-pastoril são órgãos que visam contribuir para o necessário equilíbrio entre as actividades agrícola, florestal e pecuária, tendo constantemente em vista a defesa do ambiente e a conservação dos recursos naturais.
+Art. 2.º - 1 - As comissões do regime silvo-pastoril são órgãos que visam contribuir para o necessário equilíbrio entre as actividades agrícola, florestal e pecuária, tendo constantemente em vista a defesa do ambiente e a conservação dos recursos naturais.
 
 2 - As comissões previstas no número anterior constituem-se a dois níveis: regional e concelhio.
 
-###### Art. 3.º - 1 - A comissão do regime silvo-pastoril a nível regional é constituída por um representante dos serviços florestais, um representante dos serviços agrícolas, um representante dos serviços veterinários, dois representantes das câmaras municipais (sendo um pelas da costa norte e um pelas da costa sul), dois representantes da comissão regional de pastores, um representante das associações de agricultores, dois utentes ou compartes dos baldios e será presidida por um representante do Governo Regional.
+Art. 3.º - 1 - A comissão do regime silvo-pastoril a nível regional é constituída por um representante dos serviços florestais, um representante dos serviços agrícolas, um representante dos serviços veterinários, dois representantes das câmaras municipais (sendo um pelas da costa norte e um pelas da costa sul), dois representantes da comissão regional de pastores, um representante das associações de agricultores, dois utentes ou compartes dos baldios e será presidida por um representante do Governo Regional.
 
 2 - A comissão referida no n.º 1 entrará em funcionamento no período máximo de noventa dias.
 
 3 - A comissão regional, supervisora das comissões concelhias do regime silvo-pastoril, trabalhará apoiada administrativamente nos serviços dependentes da Secretaria Regional de Agricultura e Pescas.
 
-###### Art. 4.º Compete à comissão do regime silvo-pastoril a nível regional, enquanto não for promulgada outra legislação, especialmente a que se refere ao Parque Natural da Madeira:
+Art. 4.º Compete à comissão do regime silvo-pastoril a nível regional, enquanto não for promulgada outra legislação, especialmente a que se refere ao Parque Natural da Madeira:
 
 a) Ouvidas as comissões concelhias, propor ao Governo Regional o estabelecimento das regras gerais de utilização de baldios;
 
@@ -150,11 +175,11 @@ h) Propor ao Governo, ouvidos os serviços da Secretaria Regional de Agricultura
 
 i) Divulgar as normas legais que o Governo Regional estabeleça sobre o regime silvo-pastoril ou que com ele tenham qualquer ligação.
 
-###### Art. 5.º - 1 - Cada comissão concelhia do regime silvo-pastoril será constituída por um representante da respectiva câmara municipal, que presidirá, um representante dos serviços florestais, um representante dos serviços veterinários, dois representantes dos compartes ou utentes dos baldios e dois representantes dos pastores da respectiva área.
+Art. 5.º - 1 - Cada comissão concelhia do regime silvo-pastoril será constituída por um representante da respectiva câmara municipal, que presidirá, um representante dos serviços florestais, um representante dos serviços veterinários, dois representantes dos compartes ou utentes dos baldios e dois representantes dos pastores da respectiva área.
 
 2 - A comissão prevista no número anterior apoiar-se-á administrativamente na respectiva câmara municipal.
 
-###### Art. 6.º Compete a cada comissão concelhia do regime silvo-pastoril, enquanto não for promulgada legislação adequada ao Parque Natural da Madeira:
+Art. 6.º Compete a cada comissão concelhia do regime silvo-pastoril, enquanto não for promulgada legislação adequada ao Parque Natural da Madeira:
 
 a) Colaborar com a comissão regional, dando parecer sobre regulamentação e disciplina do uso e fruição dos baldios;
 
@@ -170,7 +195,7 @@ f) Colaborar com os serviços públicos competentes no que se refere aos trabalh
 
 Das zonas interditas à apascentação ou simples entrada de gado
 
-###### Art. 7.º - 1 - O Governo Regional definirá e delimitará zonas onde não pode haver, sob qualquer pretexto, apascentação ou simples entrada de gados, como sejam as reservas naturais integrais e certas áreas de reserva geológica de altitude.
+Art. 7.º - 1 - O Governo Regional definirá e delimitará zonas onde não pode haver, sob qualquer pretexto, apascentação ou simples entrada de gados, como sejam as reservas naturais integrais e certas áreas de reserva geológica de altitude.
 
 2 - Ficam, no entanto, já estabelecidas as reservas naturais do Caldeirão Verde, do Montado dos Pessegueiros, da Fajã da Nogueira, das Moquinhas do pico Ferreiro e do pico Jorge, do Folhadal, do lombo do Barbinhas, da ribeira Funda, da margem leste da ribeira da Janela, da origem da ribeira da Ponta do Sol e da Ponta de S. Lourenço - a delimitar em regulamento próprio.
 
@@ -182,58 +207,58 @@ Partindo do pico Canário à cota 1500, em partilha com a reserva do Caldeirão 
 
 Disposições diversas
 
-###### Art. 8.º Os serviços florestais, agrícolas e veterinários prestarão o apoio necessário às comissões silvo-pastoris na conservação e melhoramento das matas naturais ou de exploração, na vigilância e defesa dos gados, no melhoramento e protecção sanitária dos animais e das pastagens.
+Art. 8.º Os serviços florestais, agrícolas e veterinários prestarão o apoio necessário às comissões silvo-pastoris na conservação e melhoramento das matas naturais ou de exploração, na vigilância e defesa dos gados, no melhoramento e protecção sanitária dos animais e das pastagens.
 
-###### Art. 9.º Sempre que nos baldios existam terrenos e áreas definidas como zonas de reserva, protecção ou predominantemente produtoras de serviços de interesse colectivo, será pago pelo Governo Regional ou pela câmara municipal da respectiva área às respectivas comissões concelhias do regime silvo-pastoril uma renda anual a acordar com estas entidades, enquanto não for definida, na Região, outra estrutura administrativa para os baldios.
+Art. 9.º Sempre que nos baldios existam terrenos e áreas definidas como zonas de reserva, protecção ou predominantemente produtoras de serviços de interesse colectivo, será pago pelo Governo Regional ou pela câmara municipal da respectiva área às respectivas comissões concelhias do regime silvo-pastoril uma renda anual a acordar com estas entidades, enquanto não for definida, na Região, outra estrutura administrativa para os baldios.
 
-###### Art. 10.º Sempre que nos baldios haja exploração devidamente autorizada de produtos ou explorações pecuárias por indivíduos ou entidades privadas, haverá lugar a pagamento de rendas ou taxas anuais que reverterão, por enquanto, a favor das comissões concelhias do regime silvo-pastoril.
+Art. 10.º Sempre que nos baldios haja exploração devidamente autorizada de produtos ou explorações pecuárias por indivíduos ou entidades privadas, haverá lugar a pagamento de rendas ou taxas anuais que reverterão, por enquanto, a favor das comissões concelhias do regime silvo-pastoril.
 
-###### Art. 11.º - 1 - O gado ovino e bovino cuja apascentação seja permitida deverá ser sempre arrebanhado, só se admitindo a livre apascentação a título excepcional e temporário (tempo a definir pelas comissões concelhias) ou em terrenos que estejam completamente vedados.
+Art. 11.º - 1 - O gado ovino e bovino cuja apascentação seja permitida deverá ser sempre arrebanhado, só se admitindo a livre apascentação a título excepcional e temporário (tempo a definir pelas comissões concelhias) ou em terrenos que estejam completamente vedados.
 
 2 - As comissões concelhias do regime silvo-pastoril poderão, sempre que entenderem, mandar fiscalizar o gado referido no número anterior para que o número excessivo de cabeças não venha a causar prejuízos a terceiros ou à conservação de solos.
 
-###### Art. 12.º - 1 - A apascentação ou simples entrada de gados caprino e suíno nos baldios, assim como nos terrenos e matas do Governo Regional e das câmaras municipais, é proibida; nas propriedades particulares a existência dos mesmos gados só é permitida em boas condições de encabeçamento e quando haja completa e perfeita vedação.
+Art. 12.º - 1 - A apascentação ou simples entrada de gados caprino e suíno nos baldios, assim como nos terrenos e matas do Governo Regional e das câmaras municipais, é proibida; nas propriedades particulares a existência dos mesmos gados só é permitida em boas condições de encabeçamento e quando haja completa e perfeita vedação.
 
 2 - Excepcionalmente poderão ser definidas, nos baldios, pela comissão regional do regime silvo-postoril, áreas ou zonas para manutenção de reservas do porco da serra e áreas para a criação de gado caprino.
 
 3 - As áreas ou zonas a que se refere o número anterior deverão ser eficientemente vedadas, a expensas dos respectivos proprietários, que para o efeito poderão solicitar colaboração e comparticipação da comissão regional ou das comissões concelhias. O gado caprino deverá ser arrebanhado sempre que a comissão concelhia o entender.
 
-###### Art. 13.º Quando os serviços públicos competentes reconheçam a necessidade de executar nos baldios trabalhos de manifesto interesse colectivo, as zonas afectadas poderão ser temporariamente vedadas.
+Art. 13.º Quando os serviços públicos competentes reconheçam a necessidade de executar nos baldios trabalhos de manifesto interesse colectivo, as zonas afectadas poderão ser temporariamente vedadas.
 
-###### Art. 14.º O proprietário do gado encontrado em contravenção das disposições anteriores ou de outras que se apliquem pagará uma multa de 1500$00 por cada cabeça de gado grosso e uma multa de 500$00 por cada cabeça de gado miúdo (ovino, suíno e caprino), até ao limite máximo de 10000$00.
+Art. 14.º O proprietário do gado encontrado em contravenção das disposições anteriores ou de outras que se apliquem pagará uma multa de 1500$00 por cada cabeça de gado grosso e uma multa de 500$00 por cada cabeça de gado miúdo (ovino, suíno e caprino), até ao limite máximo de 10000$00.
 
-###### Art. 15.º - 1 - Caberá aos serviços florestais a apreensão do gado encontrado em flagrante contravenção das disposições do presente diploma e de toda a legislação a publicar sobre o mesmo assunto, o qual só será entregue a seus donos quando estes paguem a importância da multa, o valor do dano causado e as despesas a que tal apreensão der causa ou prestem caução idónea.
+Art. 15.º - 1 - Caberá aos serviços florestais a apreensão do gado encontrado em flagrante contravenção das disposições do presente diploma e de toda a legislação a publicar sobre o mesmo assunto, o qual só será entregue a seus donos quando estes paguem a importância da multa, o valor do dano causado e as despesas a que tal apreensão der causa ou prestem caução idónea.
 
 2 - O gado referido no número anterior será abatido se se tornar difícil ou perigosa a sua captura, incorrendo ainda o proprietário do gado no pagamento da multa referida no artigo 14.º
 
 3 - O gado suíno e caprino que se introduza em terrenos privados com culturas susceptíveis de serem danificadas poderá ser abatido pelos proprietários desses terrenos, caso a sua captura seja impossível ou perigosa.
 
-###### Art. 16.º - 1 - A despesa diária com a guarda e sustento dos animais apreendidos, nos termos do artigo anterior, será arbitrada e publicada pela Secretaria Regional de Agricultura e Pescas, com o parecer da comissão regional silvo-pastoril.
+Art. 16.º - 1 - A despesa diária com a guarda e sustento dos animais apreendidos, nos termos do artigo anterior, será arbitrada e publicada pela Secretaria Regional de Agricultura e Pescas, com o parecer da comissão regional silvo-pastoril.
 
 2 - Cada fracção de dia será contada por dia completo.
 
 3 - Estas quantias não serão exigidas quando o dono do gado o retirar dentro de seis horas depois de efectuada a apreensão.
 
-###### Art. 17.º - 1 - Se não for conhecido o dono do gado, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão do gado, sua espécie e número de cabeças, o local onde está guardado e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
+Art. 17.º - 1 - Se não for conhecido o dono do gado, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão do gado, sua espécie e número de cabeças, o local onde está guardado e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
 
 2 - Se o dono do gado se apresentar a reclamá-lo, este ser-lhe-á entregue, nos termos do artigo 15.º, n.º 1.
 
 3 - Se o dono do gado apreendido, nos termos dos artigos 15.º e 16.º, não se apresentar a prestar caução ou a satisfazer a multa e mais despesas dentro de oito dias, contados da data da apreensão, proceder-se-á à venda dos animais em hasta pública, com prévia autorização superior.
 
-###### Art. 18.º O produto do pagamento voluntário das multas efectuadas antes do aviso dos respectivos autos de notícia a juízo, bem como o produto da venda do gado, depois de deduzidas as despesas da sua guarda e sustento, será entregue à comissão regional do regime silvo-pastoril, que o distribuirá pelas comissões concelhias.
+Art. 18.º O produto do pagamento voluntário das multas efectuadas antes do aviso dos respectivos autos de notícia a juízo, bem como o produto da venda do gado, depois de deduzidas as despesas da sua guarda e sustento, será entregue à comissão regional do regime silvo-pastoril, que o distribuirá pelas comissões concelhias.
 
-###### Art. 19.º - 1 - As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portarias da Secretaria Regional de Agricultura e Pescas.
+Art. 19.º - 1 - As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portarias da Secretaria Regional de Agricultura e Pescas.
 
 2 - As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional de Agricultura e Pescas.
 
-###### Art. 20.º O presente diploma será revisto quando for promulgada legislação sobre o Parque Natural da Madeira.
+Art. 20.º O presente diploma será revisto quando for promulgada legislação sobre o Parque Natural da Madeira.
 
-###### Art. 21.º O presente diploma entra em vigor trinta dias após a sua publicação.
+Art. 21.º O presente diploma entra em vigor trinta dias após a sua publicação.
 
 Aprovado em sessão plenária de 31 de Julho de 1979.
 
 O 1.º Vice-Presidente, António Gil Inácio da Silva.
 
-**Assinado em 22 de Agosto de 1979.**
+Assinado em 22 de Agosto de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

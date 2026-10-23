@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15900/0485304854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2017/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2017-108021184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a133521f6cc8da65577969c4e3ef1660febdffd99bc485de9f6b7060a37da0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d05aabb3c0be437001c86fd09d1929c2ab105993db71259b375b817da59fc94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Estradas
-- Remuneração Acessória
-- Subsídio de Risco
 - Madeira.região Autónoma
+- Remuneração Acessória
 - Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:135951165:por
@@ -116,16 +116,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106607301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56303285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75437528:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:135951165:por
+  label: Revogado, a partir de 01.07.2020, pelo(a) Decreto Legislativo Regional n.º 6/2020/M - Diário da República n.º 116/2020,
+    Série I de 2020-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2020-135951165
+  date: '2020-06-17'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:12Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +238,9 @@ a) As mencionadas na alínea a) quando desempenhadas em áreas adjacentes às es
 
 b) As mencionadas nas alíneas b), c), d) e e), quando desempenhadas nas estradas regionais, nas pedreiras, nas centrais de britagem e de betão betuminoso, ou nos paióis.
 
-###### Artigo 4.º — Montante do suplemento
+Artigo 4.º
+
+Montante do suplemento
 
 1 - Na situação a que se reportam as alíneas a) dos n.os 1 e 2 do artigo 2.º, o suplemento tem o valor de 7,50 (euro)/hora para as atividades de descida, sustentação e subida de taludes com posicionamento por cordas, desempenhadas pelos trabalhadores integrados na carreira de rocheiro e de 6,41 (euro)/hora nas restantes atividades, e é atribuído em função do número de horas efetivamente prestadas, sem poder exceder oitenta horas mensais.
 
@@ -196,10 +256,10 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 26 de julho de 2017.**
+Assinado em 26 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

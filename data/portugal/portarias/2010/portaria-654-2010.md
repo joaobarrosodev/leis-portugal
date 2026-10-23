@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/654/2010/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/654-2010-343095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05cd49305b49e3e6e5e07881f66e8c6830c85eabe2f18c662f17adba4a0e66f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0f4262e93508e8081ba7d8637b47f1665a1085a8266f76c4b0b6ad686b27029
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,29 @@ subjects:
 - Acesso ao Direito
 - Advogado
 - Ajuda Judicial
-- Protecção à Vítima
-- Região Autónoma
-- Ordem dos Advogados
-- Violência
 - Câmara dos Solicitadores
 - Consulta Jurídica
-- Ministério da Justiça
 - Direito à Justiça
-- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
 - Gabinete para a Resolução Alternativa de Litígios
+- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
+- Ministério da Justiça
+- Ordem dos Advogados
+- Protecção à Vítima
+- Região Autónoma
 - Solicitador
 - Taxa
+- Violência
 relationships:
 - type: amended_by
   target: pt:dre:145010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145010:por
+  label: Alterado o art. 28º da Port 10/2008 de 03-Jan, com a redação do presente diploma, pela PORT.319/2011.30.12.2011.MJ,
+    DR.IS [250] de 30.12.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-2011-145010
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/2009/09/16/p/dre
   label: null
@@ -114,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
+- type: cites
+  target: pt:dre:1508530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3520607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 49
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:37Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +216,9 @@ Os artigos 1.º, 7.º, 8.º, 10.º, 11.º, 20.º, 21.º, 27.º, 28.º e 32.º da
 
 9 - O Gabinete para a Resolução Alternativa de Litígios (GRAL) acompanha a actividade dos gabinetes de consulta jurídica e divulga publicamente informação acerca do seu funcionamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -186,7 +226,9 @@ Os artigos 1.º, 7.º, 8.º, 10.º, 11.º, 20.º, 21.º, 27.º, 28.º e 32.º da
 
 3 - Nos casos em que o profissional forense intente apenso ou incidente no processo para que tenha sido nomeado, informa o representado de tal facto, bem como do objectivo a atingir com a criação do apenso ou incidente, por carta registada, com aviso de recepção.
 
-###### Artigo 8.º — Encargos e despesas decorrentes da concessão de apoio judiciário
+Artigo 8.º
+
+Encargos e despesas decorrentes da concessão de apoio judiciário
 
 1 - (Anterior corpo do artigo.)
 
@@ -198,7 +240,9 @@ Os artigos 1.º, 7.º, 8.º, 10.º, 11.º, 20.º, 21.º, 27.º, 28.º e 32.º da
 
 5 - Só é assegurado o pagamento de deslocações quando na comarca de destino não houver profissional forense inscrito no sistema de acesso ao direito.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sem prejuízo do disposto no Estatuto da Ordem dos Advogados e no Estatuto da Câmara dos Solicitadores, a candidatura para participar no sistema de acesso ao direito é voluntária.
 
@@ -206,17 +250,23 @@ Os artigos 1.º, 7.º, 8.º, 10.º, 11.º, 20.º, 21.º, 27.º, 28.º e 32.º da
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A participação de solicitadores no sistema de acesso ao direito é efectuada de acordo com critérios definidos em protocolo celebrado entre a Câmara dos Solicitadores, a Ordem dos Advogados e o Ministério da Justiça, devendo constar do mesmo, designadamente, os termos de acesso ao sistema electrónico gerido pela Ordem dos Advogados e o modo como as comunicações entre os vários intervenientes se processam.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Compete à Ordem dos Advogados determinar o número de lotes de processos e de escalas de prevenção e a respectiva composição, bem como definir as circunscrições em que se justifica a sua existência.
 
 2 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -236,11 +286,15 @@ A participação de solicitadores no sistema de acesso ao direito é efectuada d
 
 9 - A Ordem dos Advogados disponibiliza electronicamente no seu sítio da Internet informação relativa ao preenchimento dos lotes.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Pela realização de uma consulta jurídica em escritório de advogado é devido o pagamento de (euro) 25, após a efectiva realização da consulta.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +314,9 @@ e) Na consulta jurídica realizada em escritório de advogado, a sua realizaçã
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -300,7 +356,9 @@ b) Quando necessário, alojamento de uma noite, em estabelecimento hoteleiro, cl
 
 3 - Sempre que a duração da diligência a realizar implique a permanência do patrono ou defensor nomeado por mais de 24 horas no local, o tempo de alojamento previsto na alínea b) do número anterior prolonga-se pelo tempo estritamente necessário.
 
-###### Artigo 8.º-B — Adiantamento do pagamento de despesas nas Regiões Autónomas
+Artigo 8.º-B
+
+Adiantamento do pagamento de despesas nas Regiões Autónomas
 
 1 - Compete à Ordem dos Advogados autorizar o adiantamento do pagamento dos custos inerentes à deslocação do patrono ou defensor nomeado, verificadas as condições previstas no n.º 1 do artigo anterior.
 
@@ -308,19 +366,25 @@ b) Quando necessário, alojamento de uma noite, em estabelecimento hoteleiro, cl
 
 3 - Não há lugar ao pagamento antecipado de despesas de deslocação que ocorram dentro de Portugal continental.
 
-###### Artigo 8.º-C — Comprovativo da realização de despesas nas Regiões Autónomas
+Artigo 8.º-C
+
+Comprovativo da realização de despesas nas Regiões Autónomas
 
 1 - No prazo máximo de 30 dias após a realização da despesa, o patrono ou defensor nomeado remete cópia dos documentos que comprovem a mesma para o IGFIJ, I. P.
 
 2 - O não cumprimento do disposto no número anterior implica a dedução do valor da despesa, previamente assegurado pelo IGFIJ, I. P., na compensação a receber pelo patrono ou defensor nomeado.
 
-###### Artigo 8.º-D — Reembolso de despesas
+Artigo 8.º-D
+
+Reembolso de despesas
 
 1 - O reembolso das despesas de deslocação realizadas dentro de Portugal continental, bem como de todas as despesas referentes ao processo, apresentadas pelos profissionais forenses participantes no sistema de acesso ao direito, fica dependente de homologação da Ordem dos Advogados.
 
 2 - Para efeitos do número anterior, o patrono ou defensor nomeado remete à Ordem dos Advogados, juntamente com o pedido de reembolso, os documentos originais que comprovem a realização da despesa, podendo esta exigir àquele a prestação de quaisquer informações e documentos de suporte que repute necessários para comprovar a sua efectiva realização.
 
-###### Artigo 28.º-A — Constituição de mandatário
+Artigo 28.º-A
+
+Constituição de mandatário
 
 Sempre que o beneficiário de apoio judiciário constitua mandatário após ter sido nomeado profissional forense é devido a este:
 
@@ -348,7 +412,7 @@ O disposto no n.º 3 do artigo 8.º da Portaria n.º 10/2008, de 3 de Janeiro, n
 
 A presente portaria entra em vigor em 1 de Setembro de 2010.
 
-**O Ministro da Justiça, Alberto de Sousa Martins, em 29 de Julho de 2010.**
+O Ministro da Justiça, Alberto de Sousa Martins, em 29 de Julho de 2010.
 
 ## ANEXO I — (a que faz referência o artigo 9.º da Portaria n.º 10/2008, de 3 de Janeiro)
 

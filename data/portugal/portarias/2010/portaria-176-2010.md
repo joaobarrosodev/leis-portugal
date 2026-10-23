@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05800/0091900922.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/176/2010/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-2010-611313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4092c98dbc85800205d61bc6d22b39c057f6c42a19d608a4eb22338460395591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aacf163cb4617fcb9e1f77d2265c4b2d2a0f34284251960eda792db8565c540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Definição de Competências
 - Gabinete de Planeamento e Políticas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 relationships:
 - type: amended_by
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/2007/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/2007/02/28/p/dre
+- type: cites
+  target: pt:dre:470051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178077:por
+  label: "Revogada, a partir de 01.06.2012, pela PORT.169/2012.24.05.2012.MF, DR.IS [101] de 24.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-2012-178077
+  date: '2012-05-24'
 article_structure:
-  article_count: 22
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:49Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +160,9 @@ g) Direcção de Serviços de Produção e Mercados Agrícolas;
 
 h) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -153,7 +172,9 @@ b) ...
 
 c) Coordenar, assegurar e dinamizar a participação do MADRP nas relações e acções de cooperação bilateral.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -167,7 +188,9 @@ d) ...
 
 e) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -189,7 +212,9 @@ h) Divulgar os programas e medidas de política da área de responsabilidade do 
 
 i) Coordenar a elaboração do orçamento de investimento do MADRP e acompanhar a sua execução, apoiando tecnicamente a elaboração de instrumentos de boa gestão e previsão orçamental, em articulação com outras entidades com competência neste domínio.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -205,7 +230,9 @@ e) ...
 
 f) Elaborar e coordenar estudos aplicados sobre os diversos domínios da competência do GPP.
 
-###### Artigo 8.º — Direcção de Serviços de Produção e Mercados Agrícolas
+Artigo 8.º
+
+Direcção de Serviços de Produção e Mercados Agrícolas
 
 À Direcção de Serviços de Produção e Mercados Agrícolas, abreviadamente designada por DSPMA, compete:
 
@@ -233,7 +260,9 @@ c) ...
 
 d) Acompanhar e propor as medidas de regulamentação dos regimes comunitários de apoio directo aos agricultores, nomeadamente as relativas ao regime de pagamento único e à condicionalidade.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -265,7 +294,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 15 de Fevereiro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano.
 
 ## ANEXO — Republicação da [Portaria n.º 219-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-2007-470051), de 28 de Fevereiro
 

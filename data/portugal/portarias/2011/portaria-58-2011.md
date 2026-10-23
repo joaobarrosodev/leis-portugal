@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/58/2011/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-2011-280186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4d2e8c600a6b0f8f382c3c1e495c28e774de20af1408389477491542051b3dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18e8b0ddcc074e46a2ec321ec8d10612607fd36670ac175db5542204abecf7de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Empreendedorismo
-- Financiamento
-- Instituto do Emprego e Formação Profissional
+- Apoio ao Investimento
 - Cooperativa António Sérgio
 - Crédito ao Investimento
+- Criação de Emprego
 - Criação de Empresas
 - Definição de Competências
 - Desempregado
-- Apoio ao Investimento
-- Projeto de Investimento
+- Desemprego
+- Empreendedorismo
+- Financiamento
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
 - Jovem
-- Pagamento
 - JURO Bonificado
 - Linha de Crédito
-- Criação de Emprego
 - Microcrédito Bancário
+- Pagamento
 - Prestações da Segurança Social
-- Desemprego
+- Projeto de Investimento
 - Proteção no Desemprego
 relationships:
 - type: amended_by
   target: pt:dre:554385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554385:por
+  label: "Alterados os art.s 11º-A, 11º-B e 11º-C da Port 985/2009, de 04-set, na redação da presente portaria, pela PORT.95/2012.04.04.2012.MEE,\
+    \ DR.IS [68] de 04.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-2012-554385
+  date: '2012-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -124,16 +130,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2010/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2010/03/04/p/dre
+- type: cites
+  target: pt:dre:265528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644358:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
+  article_count: 33
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:02Z'
   warnings: []
   errors: []
 ---
@@ -176,11 +210,15 @@ b) Programa Nacional de Microcrédito, no âmbito do Programa de Apoio ao Desenv
 
 c) [Anterior alínea b).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Os projectos beneficiários dos apoios previstos na alínea a) do artigo anterior são aprovados até ao limite dos montantes estabelecidos para o crédito a conceder através, designadamente, de linhas de crédito, e os projectos beneficiários dos apoios previstos na alínea b) do artigo anterior até ao limite das dotações previstas no orçamento do Instituto do Emprego e Formação Profissional, I. P. ou da CASES.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +234,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +258,9 @@ b) INVEST+, para operações de crédito de montante até (euro) 100 000 para fi
 
 8 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Há lugar ao pagamento, por uma só vez, do montante global das prestações de desemprego, deduzido das importâncias eventualmente já recebidas, ao abrigo do previsto no artigo 34.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de Novembro, sempre que o beneficiário das prestações de desemprego apresente um projecto ao abrigo da alínea c) do n.º 2 do artigo 1.º e que origine, pelo menos, a criação de emprego, a tempo inteiro, do promotor destinatário.
 
@@ -244,7 +286,9 @@ b)...
 
 10 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +298,9 @@ b)...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +314,9 @@ d) ...
 
 2 - A empresa beneficiária assegura todas as condições necessárias ao acompanhamento e verificação da sua actividade, até à extinção das obrigações associadas ao projecto, a realizar pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES, pelas entidades credenciadas referidas no artigo 11.º e no artigo 11.º-C ou por entidade indicada pelo Instituto do Emprego e Formação Profissional, I. P., ou pela CASES.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Não é permitido submeter a aprovação de um mesmo pedido de financiamento, ao abrigo do artigo 9.º ou do artigo 11.º-B, a mais de uma instituição bancária simultaneamente.
 
@@ -286,7 +334,9 @@ c) (Revogada.)
 
 5 - Os apoios previstos neste Programa são cumuláveis com apoios à contratação não integrados em programas de apoio à criação de empresas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Sem prejuízo das situações de vencimento antecipado do crédito estabelecidas nos protocolos referidos no n.º 2 do artigo 9.º e da participação criminal por indícios da prática de crime de fraude na obtenção de subsídio de natureza pública, o incumprimento de qualquer das condições ou obrigações previstas na lei, sua regulamentação, protocolos e contratos aplicáveis, tem como consequência, em caso de incumprimento imputável à entidade, a revogação dos benefícios já obtidos, assim como dos supervenientes, implicando:
 
@@ -296,7 +346,9 @@ b) ...
 
 c) ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Instituto do Emprego e Formação Profissional regulamenta os aspectos técnicos necessários para a execução da medida prevista na alínea a) do n.º 2 do artigo 1.º, nomeadamente, das linhas de crédito previstas no artigo 9.º, regulamentando igualmente os aspectos técnicos referentes à execução da medida prevista na alínea c) do n.º 2 do artigo 1.º
 
@@ -312,7 +364,9 @@ Destinatários
 
 São destinatários do Programa Nacional de Microcrédito todos aqueles que tenham especiais dificuldades de acesso ao mercado de trabalho e estejam em risco de exclusão social, possuam uma ideia de negócio viável e perfil de empreendedores, e formulem e apresentem projectos viáveis para criar e consolidar postos de trabalho sustentáveis.
 
-###### Artigo 11.º-B — Crédito ao investimento bonificado e garantido
+Artigo 11.º-B
+
+Crédito ao investimento bonificado e garantido
 
 1 - Os projectos apresentados no âmbito do Programa Nacional de Microcrédito beneficiam da tipologia MICROINVEST, referida na alínea a) do n.º 3 do artigo 9.º, com as especificidades constantes dos números seguintes.
 
@@ -320,7 +374,9 @@ São destinatários do Programa Nacional de Microcrédito todos aqueles que tenh
 
 3 - Aos projectos referidos no presente artigo são aplicáveis os artigos 5.º, 6.º, 7.º, 8.º e 9.º e os n.os 1 e 2 do artigo 10.º
 
-###### Artigo 11.º-C — Apoio técnico à criação e consolidação dos projectos
+Artigo 11.º-C
+
+Apoio técnico à criação e consolidação dos projectos
 
 Os projectos integrados no Programa Nacional de Microcrédito podem beneficiar de apoio técnico à sua criação e consolidação, sendo este assegurado pelas entidades representativas do sector cooperativo e da economia social que integram a CASES ou por entidades constituintes da rede de entidades privadas sem fins lucrativos ou autarquias locais que disponham de serviços de apoio ao empreendedorismo, para o efeito credenciadas pelo Instituto do Emprego e Formação Profissional, I. P., nos termos do artigo 11.º.»
 
@@ -378,7 +434,7 @@ c) A [Portaria n.º 1160/2000](https://diariodarepublica.pt/dr/detalhe/portaria/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 19 de Janeiro de 2011.**
+O Secretário de Estado do Emprego e da Formação Profissional, Valter Victorino Lemos, em 19 de Janeiro de 2011.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

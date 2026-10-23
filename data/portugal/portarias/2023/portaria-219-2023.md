@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13900/0005000052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219/2023/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432a83b64cf806ff2fc1f1364326d1fbdc607d83b1bf88f1098d21bb681bbca5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 719de139dde45660bacf2f05c87e1f3272db9d3159ddc07e56ad1ab7cf454300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca a Linha
-- Regulamentação de Atos Legislativos
-- Pesca
-- Licenciamento
 - Artes de Pesca
+- Licenciamento
+- Pesca
+- Pesca a Linha
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Regulamento
 relationships:
 - type: cites
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1102-c/2000/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1102-c/2000/11/22/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284920:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:57Z'
   warnings: []
   errors: []
 ---
@@ -173,4 +189,6 @@ Por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marí
 
 É revogada a [Portaria n.º 1102-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-c-2000-284920), de 22 de novembro.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 13 de julho de 2023.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 13 de julho de 2023.
+
+116676584

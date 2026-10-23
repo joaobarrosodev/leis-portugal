@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10600/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/149/2023/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efa140f2d6f10bdd5ae33075834695868b16ae623eeff38a20b4b2fb54592bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9467d93b51ffc44f63ee7ab8dff2d904d5ae8673111bf5fa8e21c1c517d5bc4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Cidadão
-- Instituto dos Registos e do Notariado
-- Regulamentação de Atos Legislativos
-- Prestação de Serviços
 - Identificação Civil
+- Instituto dos Registos e do Notariado
+- Prestação de Serviços
+- Regulamentação de Atos Legislativos
 - Taxa
 - TAXA de Prestação de Serviços
 relationships:
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/291/2017/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/291/2017/09/28/p/dre
+- type: cites
+  target: pt:dre:108228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:32Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +165,6 @@ O disposto no n.º 6 do artigo 7.º da [Portaria n.º 291/2017](https://diarioda
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 30 de maio de 2023.**
+O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 30 de maio de 2023.
+
+116527965

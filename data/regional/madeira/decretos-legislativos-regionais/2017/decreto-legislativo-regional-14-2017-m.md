@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10600/0273102732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2017/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2017-107114312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8bc9ff7b0948ce6764c9b091b24ea0888da052312356705e6ff0782a4b66aa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 164c515b72480fac7884d223f021ffb3617cf7dbc96fbd0c88705b550c874ec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Estatuto
 - IPSS
-- Prazo
 - Madeira.região Autónoma
+- Prazo
 - Segurança Social
 relationships:
 - type: cites
@@ -100,16 +100,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/76/2015/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/76/2015/07/28/p/dre
+- type: cites
+  target: pt:dre:178476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72791379:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:08Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +202,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de maio de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 18 de maio de 2017.**
+Assinado em 18 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

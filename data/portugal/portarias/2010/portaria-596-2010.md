@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/596/2010/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-2010-334076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0ec629ed1dfb36f945da50a7f4516acf78d6c3b63930ea4b8f5140efe6a2f37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bc7b8794ba2db2b9ab4b0ec73d296cb398763e7d0c2a21e3c40b825e07f2989
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+- type: cites
+  target: pt:dre:323075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:16Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +167,7 @@ São revogados os despachos n.os 13 615/99 (2.ª série), de 24 de Junho, e 10 3
 
 A presente portaria produz efeitos no 1.º dia do mês seguinte ao da data da sua publicação.
 
-**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 16 de Julho de 2010.**
+O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 16 de Julho de 2010.
 
 ## ANEXO I — REGULAMENTO DA REDE DE TRANSPORTE
 
@@ -383,7 +407,7 @@ b) Componente inversa da corrente, até 5 % da corrente nominal.
 
 Capacidade de suportar cavas de tensão na sequência de defeitos trifásicos, monofásicos e bifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Fig.1 - Curva tensão-tempo da capacidade exigida às instalações de produção eólicas para suportarem cavas de tensão
 
@@ -393,7 +417,7 @@ Após a eliminação do defeito e início da recuperação da tensão, no enrola
 
 O cumprimento desta curva de produção mínima de corrente reactiva durante afundamentos de tensão pelas instalações de produção eólica deve iniciar-se com um atraso máximo de 50 ms após a detecção da cava de tensão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Fig. 2 - Curva de fornecimento de reactiva pelas instalações de produção eólicas durante cavas de tensão
 
@@ -427,7 +451,7 @@ Os custos serão suportados pelo ORT, salvo se os estudos ou ensaios comprovarem
 
 3.8.1 - Todos os produtores em regime especial ligados à RNT devem, nas horas CP, fazer acompanhar, em regime normal de funcionamento, o fornecimento de energia activa, injectada no ponto de ligação, de uma quantidade de energia reactiva de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Relativamente aos valores fixados, no quadro anterior, para as quantidades de energia reactiva, admite-se uma tolerância de (mais ou menos) 5 % da energia activa no mesmo período.
 
@@ -749,7 +773,7 @@ TABELA N.º 1
 
 Condições de simulação do regime de contingência n-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 No critério proposto para a contingência n-1-1 admite-se que, após a primeira falta, a reposição do nível de segurança de funcionamento n-1 possa ser conseguida com recurso a medidas de redespacho ou de reconfiguração de rede.
 
@@ -763,7 +787,7 @@ Estabilidade da RNT - Critérios de simulação
 
 Funcionamento dos sistemas de protecção em 1.º nível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 A tabela n.º 2 comporta defeitos, trifásicos e fase-terra, eliminados por funcionamento dos sistemas de protecção em 1.º nível, isto é, no tempo de actuação mais rápido dos sistemas, e sem religação ou com religação mal sucedida, no caso de defeitos trifásicos ou de defeitos fase-terra, respectivamente.
 
@@ -783,7 +807,7 @@ Condições de simulação mais severas
 
 Funcionamento dos sistemas de protecção em 2.º nível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Nas condições explicitadas nas tabelas n.os 2 e 3 deverão ser cumpridos os seguintes critérios de aceitabilidade das simulações:
 
@@ -799,7 +823,7 @@ TABELA N.º 4
 
 Critérios de aceitabilidade para desvios de tensão, ângulo e frequência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 TABELA N.º 5
 
@@ -807,7 +831,7 @@ Critérios de aceitabilidade para sobrecargas temporárias
 
 Sobrecargas temporárias admissíveis [ %] (*)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 9.4.2 - Os valores indicativos das sobrecargas temporárias têm como referência as capacidades nominais dos transformadores e as máximas das linhas. No caso das linhas os valores de capacidade máxima de projecto são diferentes consoante a época sazonal, menores de Verão e mais elevados de Inverno.
 
@@ -887,7 +911,7 @@ c) Restantes meses do ano - de 20ºC a 25ºC.
 
 O mapa seguinte mostra as isotérmicas que definem a temperatura máxima de referência para a época sazonal de Verão, a utilizar nas instalações e linhas da RNT no âmbito deste documento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 9.5.4 - Planos de produção e de cargas:
 
@@ -1403,7 +1427,7 @@ De forma a evitar a auto-excitação dos geradores assíncronos, devem ser insta
 
 4.3.4 - A ligação de geradores síncronos só pode ser feita quando a tensão, a frequência e a fase do gerador a ligar estiverem compreendidas entre os seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Os geradores síncronos de potência não superior a 500 kVA podem ser ligados como assíncronos, desde que respeitadas as limitações impostas na secção 4.3.3 e a duração da marcha assíncrona não exceda dois segundos.
 
@@ -1441,7 +1465,7 @@ b) Componente inversa da corrente, até 5 % da corrente nominal.
 
 Capacidade de suportar cavas de tensão na sequência de defeitos trifásicos, monofásicos e bifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Fig. 1 - Curva tensão-tempo da capacidade exigida às instalações de produção eólica para suportarem cavas de tensão
 
@@ -1451,7 +1475,7 @@ Após a eliminação do defeito e início da recuperação da tensão na rede de
 
 O cumprimento desta curva de produção mínima de corrente reactiva durante cavas de tensão, pelas instalações de produção eólica, deve iniciar-se com um atraso máximo de 50 ms após a detecção da cava de tensão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Fig. 2 - Curva de fornecimento de reactiva pelas instalações de produção eólica durante cavas de tensão
 
@@ -1515,7 +1539,7 @@ Os produtores não devem, nas horas VS, fornecer energia reactiva à rede.
 
 4.5.2.1 - Todos os produtores em regime especial devem, nas horas CP, fazer acompanhar o fornecimento de energia activa de uma quantidade de energia reactiva, apurada em intervalos de sessenta minutos, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14700/0292302954.pdf)
 
 Relativamente aos valores fixados, no quadro anterior, para as quantidades de energia reactiva, admite-se uma tolerância de (mais ou menos) 5 % da energia activa no mesmo período.
 

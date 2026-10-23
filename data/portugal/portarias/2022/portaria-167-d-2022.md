@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/2022, 1º Suplemento, Série I de 2022-07-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(2) a 7-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/12601/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/167-d/2022/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-d-2022-185601678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b26565216ba5559629da34bc7bb605d3d9f2a0e09cc84a72ae1ac95a37a8064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c4a1743bee1cd9892b294c3a025d76b491f8735db6c18f60ebf13c6441e73f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Política Energética
-- Fixação de Preços
 - Direção Geral de Energia e Geologia
+- Fixação de Preços
 - Gasóleo
 - Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Política Energética
 - Preço de Venda
 - Taxa
 relationships:
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301-a/2018/11/23/p/dre
+- type: cites
+  target: pt:dre:117114258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184435188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185229613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:20Z'
   warnings: []
   errors: []
 ---
@@ -133,4 +157,6 @@ Nestes termos, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais 
 
 Em 1 de julho de 2022.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes. - O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba.
+
+115478342

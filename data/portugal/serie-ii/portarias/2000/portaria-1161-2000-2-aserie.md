@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2586071:por
-title: Portaria n.º 1161/2000(2.ªsérie)
+title: Portaria n.º 1161/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1161-2000-2586071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T16:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eae0c4ab6703f774635577959b788b85cd1ffa177adee3fba67a1b836396684f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00b9c6e950bbcdac01013347928ec3639ef3f80593ba3f6dfacddba66f8c56f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Concurso Público
+- Contrato
+- Direcção Geral do Património
+- Papel
+relationships:
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662116:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:06:26Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1161/2000(2.ªsérie)
+# Portaria n.º 1161/2000 (2.ª série)
 
 Portaria n.º 1161/2000 (2.ª série). - Decorrido um ano sobre a publicação da [Portaria n.º 906/99](https://diariodarepublica.pt/dr/detalhe/portaria/906-1999-662116), de 27 de Agosto, que homologou as condições de fornecimento ao Estado de produtos de papel e de higiene e respectivos acessórios, quando os houver, procede-se à prorrogação do prazo de validade dos contratos por ela homologados.
 

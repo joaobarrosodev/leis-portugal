@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/2023/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2023-214100367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d081f9352e3629296dc123e92513f3d6bc247a420990dfef276b63a3fde65f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4992c31757c8271ca6c07c46ee879602f683ab31a4812bc26d9152b8ef2e1e0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Atividade Agrícola
-- Programa de Desenvolvimento Rural
+- Desenvolvimento Local
+- Exploração Agrícola
 - Financiamento
-- Regulamentação de Atos Legislativos
 - Fundos CE
 - Investimento
-- Exploração Agrícola
-- Promoção de Produtos
-- Agricultura
-- Desenvolvimento Local
-- PDR 2020
 - Mercado Local de Produtores
+- PDR 2020
+- Programa de Desenvolvimento Rural
+- Promoção de Produtos
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32007R0834
@@ -184,16 +184,148 @@ relationships:
   target: eli:http://data.europa.
   label: null
   source: http://data.europa.
+- type: cites
+  target: pt:dre:107773653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115712244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125016448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170880299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58625348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66258481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70948238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74539108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75341997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 67
+  article_count: 66
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:36Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +406,9 @@ x) [Anterior alínea w).]
 
 y) [Anterior alínea x).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -292,7 +426,7 @@ y) [Anterior alínea x).]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 31 de maio de 2023.
 
-**O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.**
+O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues, em 1 de junho de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -1250,11 +1384,11 @@ Despesas elegíveis e não elegíveis do apoio «Pequenos investimentos nas expl
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 Despesas não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 ## ANEXO II
 
@@ -1262,7 +1396,7 @@ Níveis de apoio do apoio «Pequenos investimentos nas explorações agrícolas�
 
 (a que se refere o n.º 2 do artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 ## ANEXO III — (Revogado.)
 
@@ -1274,11 +1408,11 @@ Despesas elegíveis e não elegíveis do apoio «Pequenos investimentos na trans
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 Despesas não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 ## ANEXO V
 
@@ -1286,7 +1420,7 @@ Níveis do apoio «Pequenos investimentos na transformação e comercialização
 
 (a que se refere o n.º 2 do artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 ## ANEXO VI — Atividades económicas elegíveis CAE constantes do [Decreto-Lei n.º 381/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-2007-629150), de 14 de novembro
 
@@ -1340,7 +1474,7 @@ Níveis de apoio do apoio «Diversificação de atividades na exploração agrí
 
 (a que se refere o n.º 2 do artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 Considera-se que um posto de trabalho equivale à utilização de uma unidade de trabalho anual (UTA), equivalente a 1800 h/ano.
 
@@ -1352,7 +1486,7 @@ Despesas elegíveis e não elegíveis do apoio «Cadeias curtas e mercados locai
 
 Despesas elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 Despesas não elegíveis
 
@@ -1438,7 +1572,7 @@ Despesas não elegíveis
 
 1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 50.º da presente portaria e no artigo 24.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, alterado pelo [Decreto-Lei n.º 215/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2015-70462181), de 6 de outubro, determina a aplicação das seguintes reduções ou exclusões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11000/0003700071.pdf)
 
 2 - O disposto no número anterior não prejudica, designadamente, a aplicação:
 
@@ -1453,3 +1587,5 @@ d) Do artigo 63.º do [Regulamento de Execução (UE) n.º 809/2014](http://data
 e) De outras cominações, designadamente de natureza penal, que ao caso couberem.
 
 3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do [Regulamento Delegado (UE) n.º 640/2014](http://data.europa.eu/eli/reg/2014/640/oj?locale=pt), da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.
+
+116541159

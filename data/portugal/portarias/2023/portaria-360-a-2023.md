@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 220/2023, 1º Suplemento, Série I de 2023-11-14
   number: '220'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 66-(2) a 66-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360-a/2023/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-a-2023-224227443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb08a30177328171910df8a5f31045157857bf07f97c04dc8c4222ca6e2024d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10e6598beafa71e44c0fdb628e264e165ffac49e2215d5e28497583efd8a51b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
 - Certificação Electrónica
-- Sistema Judicial
-- Gestão Processual
 - Documento Eletrónico
+- Gestão Processual
 - Processo Administrativo
+- Processo Civil
 - Processo Judicial
+- Sistema Judicial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/325/2003/12/29/p/dre
@@ -114,16 +114,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/2023/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/2023/03/27/p/dre
+- type: cites
+  target: pt:dre:107078025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107684449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114380265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116433035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127970107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132244586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210982935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:50Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +260,9 @@ Os artigos 10.º e 10.º-A da [Portaria n.º 380/2017](https://diariodarepublica
 
 9 - [...]
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - [...]
 
@@ -240,4 +290,6 @@ A presente portaria aplica-se aos processos pendentes à data da sua entrada em 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 13 de novembro de 2023.**
+O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 13 de novembro de 2023.
+
+117058603

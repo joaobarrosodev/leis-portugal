@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/2011, 1º Suplemento, Série I de 2011-08-12
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4268-(4) a 4268-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/08/15501/0000400004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/260-d/2011/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-d-2011-140556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccafd8fd3378ce7ba155da67eac7b45e46333f1c21ea05167dcbf56a7cf9a887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1adfa8328da464a16dd2184b1750ce6aa941f1837764afee82cf9b0955afde80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/1999/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/1999/04/07/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642545:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:31Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +182,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 A presente portaria vigora até ao dia 15 de Setembro de 2011.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de Agosto de 2011.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de Agosto de 2011.

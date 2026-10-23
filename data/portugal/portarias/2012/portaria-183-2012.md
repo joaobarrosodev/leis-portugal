@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/2012/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2012-178775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea53ca09e1c22c21b829d5999a33ec3ae851e7701855ee6200fb828767c81478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcac6dd0f13ead80150b374969a8174fca4b3506a8dba8f0524dc352bf95bf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Penacova
-- Zona de Proteção
-- Águas Subterrâneas
 - Abastecimento de Água
+- Águas Subterrâneas
+- Penacova
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:42Z'
   warnings: []
   errors: []
 ---
@@ -221,13 +233,13 @@ As zonas de proteção respeitantes ao perímetro de proteção mencionado no ar
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 21 de maio de 2012.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 21 de maio de 2012.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Coordenadas da captação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -235,7 +247,7 @@ Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema
 
 Zona de proteção imediata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -243,7 +255,7 @@ Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema
 
 Zona de proteção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -251,7 +263,7 @@ Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema
 
 Zona de proteção alargada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas retangulares planas no sistema Gauss - Elipsoide Internacional - datum de Lisboa.
 
@@ -261,4 +273,4 @@ Planta de localização das zonas de proteção
 
 Extrato da Carta Militar de Portugal - 1:25 000 (IGeoE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11200/0297802981.pdf)

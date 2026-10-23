@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00600/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/2023/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-2023-205855981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2046ccc1b0cc624ad9a3353ea28e7e0a0cb1e4de57fbe954a68f8d3c76de945f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23a9fe3f7f4ce2366a2e200963379c50e193e174ebb5a982107c7b442d68ebc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Ensino Profissional
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Qualificação Profissional
-- Gestão de Recursos Humanos
-- Programa Qualifica
 - Centro Qualifica
 - Centro Qualifica AP
+- Definição de Competências
+- Ensino Profissional
+- Estabelecimento de Ensino
+- Gestão de Recursos Humanos
+- Pessoal não Docente
+- Programa Qualifica
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
@@ -92,16 +92,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/62/2022/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/62/2022/01/31/p/dre
+- type: cites
+  target: pt:dre:105808927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178394356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:00Z'
   warnings: []
   errors: []
 ---
@@ -182,4 +206,6 @@ A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
 
 Em 4 de janeiro de 2023.
 
-**O Secretário de Estado da Educação, António de Oliveira Leite. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes.**
+O Secretário de Estado da Educação, António de Oliveira Leite. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes.
+
+116036667

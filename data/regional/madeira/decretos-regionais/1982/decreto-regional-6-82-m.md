@@ -46,40 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/6-1982-607131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de781eece61a1d802dbb2f8293fb042f1da28ba69d299bf1659510a55ad07fca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89f43e59496742c511f3c8ed7647c5ee57d282697ff65d972f37f50816f75121
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:378279:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:50Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +102,16 @@ Assim sendo, e porque é intenção do Governo da Região Autónoma marcar a ép
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 299.º da Constituição, a Assembleia Regional delibera, para valer como lei:
 
-###### Artigo 1.º A superintendência no sector da cultura transita para a Presidência do Governo.
+Artigo 1.º A superintendência no sector da cultura transita para a Presidência do Governo.
 
-###### Art. 2.º A Secretaria Regional da Educação e Cultura passa a denominar-se Secretaria Regional de Educação, em abreviatura SRE.
+Art. 2.º A Secretaria Regional da Educação e Cultura passa a denominar-se Secretaria Regional de Educação, em abreviatura SRE.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária aos 16 de Março de 1982.
 
-**O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.
 
-**Assinado aos 26 de Março de 1982.**
+Assinado aos 26 de Março de 1982.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

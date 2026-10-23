@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17
   number: '223'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 67-(4) a 67-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22301/0000400013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/379-b/2023/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a64c71ae630000de0cc961ed40b4605309facb5972554e28f9c0de474f1bc19a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6361acb66706a41011ee98aaa59bfde333524463ee0ae2c06d9b5758ae4311
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Criação de Serviços
 - Definição de Competências
 - Orgânica
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:934502553:por
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83/2021/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83/2021/04/15/p/dre
+- type: cites
+  target: pt:dre:161433504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56479736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:55Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +217,9 @@ p) [Anterior alínea n)].
 
 6 - As unidades referidas nas alíneas n) a p) integram a unidade orgânica de logística e finanças.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +241,9 @@ g) [Anterior alínea e).]
 
 3 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Ao GAJ compete:
 
@@ -235,7 +263,9 @@ g) (Revogada.)
 
 h) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -275,7 +305,7 @@ l) Coordenar a estrutura de comando e controlo operacional da PSP, designadament
 
 m) Promover a gestão integrada e otimizada dos meios técnicos existentes na PSP e produzir normas técnicas para a sua utilização.
 
-###### Artigo 5.º
+Artigo 5.º
 
 [...]:
 
@@ -317,7 +347,9 @@ r) (Revogada.)
 
 s) Efetuar inspeções e prestar assessoria técnica no âmbito da segurança eletrónica no cumprimento das missões da PSP.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Ao DIC compete:
 
@@ -345,7 +377,9 @@ k) [Anterior alínea f).]
 
 l) Estabelecer os mecanismos de coordenação interna em matéria de polícia técnica e ciência forense, o apoio logístico às unidades e subunidades e a informação externa a outros organismos e entidades.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Ao DAE compete:
 
@@ -379,7 +413,9 @@ o) (Revogada.)
 
 p) (Revogada.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Ao DSP compete:
 
@@ -421,7 +457,9 @@ r) [Anterior alínea o).]
 
 s) [Anterior alínea q)].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -443,7 +481,9 @@ h) [...]
 
 i) [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]
 
@@ -499,7 +539,9 @@ j) No âmbito da respetiva área funcional, contribuir para a atividade de coope
 
 k) Assegurar o cumprimento de outras atribuições que lhes sejam superiormente cometidas.
 
-###### Artigo 9.º-A — Departamento de Segurança Aeroportuária
+Artigo 9.º-A
+
+Departamento de Segurança Aeroportuária
 
 Ao DSA compete:
 
@@ -527,7 +569,9 @@ h) Garantir a coordenação com as entidades nacionais e internacionais relevant
 
 i) Representar a PSP nas diferentes estruturas nacionais de coordenação, designadamente na Comissão Nacional de Facilitação e Segurança, e internacionais, relacionados com a segurança da aviação civil, nomeadamente na AIRPOL.
 
-###### Artigo 9.º-B — Departamento de Gestão Integrada de Fronteiras
+Artigo 9.º-B
+
+Departamento de Gestão Integrada de Fronteiras
 
 Ao DGIF compete:
 
@@ -571,7 +615,9 @@ s) Assegurar a ligação da PSP com os organismos de cooperação policial nacio
 
 t) Coordenar a participação da PSP nas operações da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX).
 
-###### Artigo 13.º-A — Departamento de Infraestruturas
+Artigo 13.º-A
+
+Departamento de Infraestruturas
 
 Ao DIE compete:
 
@@ -597,14 +643,16 @@ São revogados o n.º 3 do artigo 2.º, as alíneas d) a g) do artigo 3.º, a al
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, José Luís Pereira Carneiro, em 16 de novembro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 16 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 15 de novembro de 2023.**
+O Ministro da Administração Interna, José Luís Pereira Carneiro, em 16 de novembro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 16 de novembro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 15 de novembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
-|  |  |
-| --- | --- |
 | Pessoal dirigente | N.º de lugares |
+| --- | --- |
+|  |  |
 | Diretor nacional... | 1 |
 | Diretor nacional-adjunto... | 4 |
 | Inspetor nacional... | 1 |
 | Cargos de direção intermédia de 1.º grau... | 17 |
+
+117072113

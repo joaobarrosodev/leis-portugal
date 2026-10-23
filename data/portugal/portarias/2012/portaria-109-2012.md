@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/109/2012/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/109-2012-553036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b856acd3513182403d9cc58fbdd2d64b35b0fc892fd473f77a3607a7733b14e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab7b1ab87e8146ec42ec5fb8d882b0e4f30c13e6696118feeef5a39d3af6f2b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Armamento
 - Armas e Munições
 - Autoridade Nacional
-- Empresa
-- Ministério da Defesa Nacional
 - Certificado de Circulação de Mercadorias
+- Circulação de Mercadorias
+- Comércio de Armas
 - Comércio Internacional
 - Controlo dos Armamentos
-- Trafico de Armas
 - Definição de Competências
 - Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Documento Aduaneiro
+- Empresa
 - Equipamento Militar
-- Armamento
-- União Europeia
-- Segurança Pública
+- Exportação
 - Fiscalização
-- Política de Defesa
+- Forças Armadas
 - Importação
 - Indústria de Armamento
-- Transmissão da Propriedade
 - Licenciamento
-- Forças Armadas
-- Circulação de Mercadorias
+- Ministério da Defesa Nacional
 - Página na Internet
-- Exportação
+- Política de Defesa
+- Segurança Pública
+- Trafico de Armas
 - Transacção Intracomunitária
-- Comércio de Armas
+- Transmissão da Propriedade
+- União Europeia
 relationships:
 - type: cites
   target: celex:32009L0043
@@ -102,13 +102,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:21Z'
   warnings: []
   errors: []
 ---
@@ -159,40 +159,40 @@ A Direção-Geral de Armamento e Infraestruturas de Defesa (DGAIED) publica na r
 
 Os presentes modelos são válidos desde a data de publicação da presente portaria.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 12 de outubro de 2011.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 12 de outubro de 2011.
 
 ## ANEXO I — Licença de transferência de produtos relacionados com a defesa
 
 (a que se refere o n.º 3 do artigo 6.º da Lei n.º 37/2011, de 22 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
 
 ## ANEXO II — Licença de trânsito
 
 (a que se refere o n.º 3 do artigo 6.º da Lei n.º 37/2011, de 22 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
 
 ## ANEXO III
 
 Formulário n, também designado por modelo bis, que serve para complementar as licenças de transferência de produtos relacionados com a defesa e de trânsito no que respeita à casa 14, «Descrição dos produtos».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
 
 ## ANEXO IV — Certificado internacional de importação
 
 (a que se refere o n.º 5 do artigo 14.º da Lei n.º 37/2011, de 22 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
 
 ## ANEXO V — Certificado de garantia de entrega
 
 (a que se refere o n.º 5 do artigo 14.º da Lei n.º 37/2011, de 22 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
 
 ## ANEXO VI — Certificado de conformidade de empresa destinatária
 
 (a que se refere o n.º 5 do artigo 17.º da Lei n.º 37/2011, de 22 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08200/0229502301.pdf)

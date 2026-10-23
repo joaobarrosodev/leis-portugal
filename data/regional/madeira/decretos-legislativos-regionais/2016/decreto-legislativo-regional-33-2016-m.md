@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2016/07/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2016-74985443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24e88cf1bc62f74949db43e5b45c36c98f165ad18e3f4c7d5dee0b106dc8642f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d52350e56356ee0e4004f91812a6e3c115fcd8c8323d7559fc3ab0a4cd90cf76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRS
 - IRS
 - Madeira.região Autónoma
-- Benefícios Fiscais
 - Retenção na Fonte
 - Taxa
 relationships:
@@ -78,6 +78,48 @@ relationships:
   target: pt:dre:926481290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Alterado, com efeitos desde 01.01.2017, o art. 2.º do DLR 3/2001/M de 22-fev, na versão republicada pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série
+    I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 2.º do DLR 3/2001/M de 22-fev, na versão republicada pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterado, com efeitos desde 01.01.2019, o art. 2.º (na redação do DLR 42-A/2016/M de 30-dez e do DLR 2/2018/M de
+    09-jan) do DLR 3/2001/M de 22-fev DR.IS-A [45], na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do imposto aplicáveis aos sujeitos passivos de IRS residentes
+    na Região Autónoma da Madeira, previstas no art. 2.º (na redação dos DLR 42-A/2016/M de 30-dez, 2/2018/M de 09-jan e 26/2018/M
+    de 31-dez) do DLR 3/2001/M de 22-fev, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31e nos termos do art. 17.º do presente
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Alterado, a partir de 01.01.2021, o art. 2.º do DLR 3/2001/M de 22-fev, na versão republicada pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Alterado, a partir de 30.12.2022 e com efeitos a 01.01.2023, o art. 2.º do DLR 3/2001/M de 22-fev, na versão republicada
+    pelo presente diploma pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de
+    2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2010/08/05/m/dre
   label: null
@@ -118,16 +160,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:03Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +256,7 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf)
 
 2 - O quantitativo do rendimento coletável, quando superior a (euro) 7 035, é dividido em duas partes: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da col. (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da col. (A) respeitante ao escalão imediatamente superior.
 
@@ -176,11 +274,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de junho de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 4 de julho de 2016.**
+Assinado em 4 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -196,7 +294,7 @@ Este diploma tem por objeto a definição do regime de redução das taxas do im
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13800/0238502386.pdf)
 
 2 - O quantitativo do rendimento coletável, quando superior a (euro) 7 035, é dividido em duas partes: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da col. (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da col. (A) respeitante ao escalão imediatamente superior.
 

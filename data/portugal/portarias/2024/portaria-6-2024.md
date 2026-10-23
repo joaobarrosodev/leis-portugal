@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00300/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6/2024/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-2024-836105753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0feef57a211c709e1f0da8f310b679d09a88ee0a80e2f8f41809e89372d06e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d61184e50b5e9ada933ffc098c3c959b16d4fca1fcc7f2c794c99f264d909a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,19 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Advogado
-- Instituto Nacional de Estatística
 - Consulta Jurídica
-- Regulamentação de Atos Legislativos
+- Instituto Nacional de Estatística
 - Política Social
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Solicitador
 relationships:
+- type: amends
+  target: pt:numero:portaria:1386/2004
+  label: Atualiza, a partir de 1 de janeiro de 2024, o valor da unidade de referência constante da tabela anexa à Portaria
+    n.º 1386/2004 de 10 de novembro Diário da República n.º 264/2004 Série I-B
+  source: null
+  date: '2004-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/34/2004/07/29/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/200/2022/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/200/2022/08/01/p/dre
+- type: cites
+  target: pt:dre:136900601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186869050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548661:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:31Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +169,6 @@ A presente portaria entra em vigor no dia 1 de janeiro de 2024.
 
 Em 29 de dezembro de 2023.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.
+
+117212235

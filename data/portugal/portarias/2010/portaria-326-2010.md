@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11500/0206902070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326/2010/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-2010-335685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d20cca4ad4a3e3f7913dc6360c538df33b08fe6610bd928582a333012214079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 276a92d7c5dafff2b58489d9522dcbbdbb5f4384744767f8a8c77863f886650b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
 - Comparticipação do Estado
 - Comparticipações da Segurança Social
-- Serviço Nacional de Saúde
-- Preço
 - Cuidados Médicos
+- Preço
+- Rede
 - Segurança Social
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:673473:por
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1087-a/2007/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1087-a/2007/09/05/p/dre
+- type: cites
+  target: pt:dre:1310678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673473:por
+  label: "Revogada, a partir de 06.06.2011, pela PORT.220/2011.01.06.2011.MFAP, DR.IS [106] de 01.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-2011-673473
+  date: '2011-06-01'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:42Z'
   warnings: []
   errors: []
 ---
@@ -140,10 +161,10 @@ O n.º 5 do artigo 6.º do [Despacho Normativo n.º 34/2007](https://diariodarep
 
 A presente portaria produz efeitos a partir de 1 de Janeiro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Junho de 2010. - Pela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 28 de Maio de 2010. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 1 de Junho de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Junho de 2010. - Pela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 28 de Maio de 2010. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 1 de Junho de 2010.
 
 ## ANEXO — Tabela de preços RNCCI - Ano de 2010
 
 (anexos ii e iii da [Portaria n.º 1087-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1087-a-2007-406172), de 5 de Setembro, na redacção dada pela Portaria n.º 189/2008, de 19 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11500/0206902070.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11500/0206902070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11500/0206902070.pdf)

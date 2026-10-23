@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14100/14511458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1981-578305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bdf6dfae767405dc17fb76d37bdbf3a9b66245259db066a18a51775a7be4fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bad0b7185fa2d1c7d26b0f682512b2d0c20ac69d2884e1dd5a9ef76a687660be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais e da Saúde
 relationships:
 - type: amended_by
   target: pt:dre:569901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461862:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580090:por
+  label: Rectificado pela DECL.DD6531.01.07.1981.PCM, DR.IS [160] de 15.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-580090
+  date: '1981-07-01'
+- type: repealed_by
+  target: pt:dre:569901:por
+  label: "Revogado pelo DLR.8/86/M.26.05.1986.ALR-RAM, DR.IS [134]Supl de 14.06.1986, após a entrada em vigor dos diplomas\
+    \ referidos no n.º 4 do artigo 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1986-569901
+  date: '1986-05-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:41Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +152,13 @@ A Assembleia Regional da Madeira, usando da faculdade conferida pela alínea b) 
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º A Secretaria Regional dos Assuntos Sociais e da Saúde passa a designar-se por Secretaria Regional dos Assuntos Sociais.
+Artigo 1.º A Secretaria Regional dos Assuntos Sociais e da Saúde passa a designar-se por Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 2.º - 1 - Incumbe à Secretaria Regional dos Assuntos Sociais, dentro dos limites legalmente estabelecidos, a definição da política de saúde, segurança social e educação especial na área da Região Autónoma da Madeira, bem como o fomento das correspondentes actividades que expressamente não cumpram a outros departamentos dos Governos Regional ou Central.
+Art. 2.º - 1 - Incumbe à Secretaria Regional dos Assuntos Sociais, dentro dos limites legalmente estabelecidos, a definição da política de saúde, segurança social e educação especial na área da Região Autónoma da Madeira, bem como o fomento das correspondentes actividades que expressamente não cumpram a outros departamentos dos Governos Regional ou Central.
 
 2 - Na execução da sua política terá presente a importância da iniciativa particular e da cooperação das populações, devendo, nomeadamente, promover o interesse destas pela criação, manutenção e progresso de serviços apropriados.
 
-###### Art. 3.º A prossecução da sua política realiza-se por actividades de:
+Art. 3.º A prossecução da sua política realiza-se por actividades de:
 
 a) Promoção da saúde e prevenção da doença;
 
@@ -130,7 +168,7 @@ c) Protecção e defesa da família;
 
 d) Protecção ao indivíduo, física, intelectual e socialmente diminuído, da infância à terceira-idade.
 
-###### Art. 4.º São-lhe cometidas designadamente:
+Art. 4.º São-lhe cometidas designadamente:
 
 a) A acção directa e a superintendência sobre os serviços e instituições do âmbito da sua competência;
 
@@ -142,13 +180,13 @@ d) A administração das verbas que lhe forem atribuídas;
 
 e) A elaboração dos projectos e orçamentos correspondentes ao seu âmbito de actuação a inserir no orçamento da Região.
 
-###### Art. 5.º - 1 - O Secretário Regional dos Assuntos Sociais dirige a política de saúde, segurança social e educação especial, competindo-lhe promover, através dos serviços dele dependentes, a sua execução, assegurar o eficiente funcionamento desses serviços e orientar as actividades particulares, coordenando-as com o sector público.
+Art. 5.º - 1 - O Secretário Regional dos Assuntos Sociais dirige a política de saúde, segurança social e educação especial, competindo-lhe promover, através dos serviços dele dependentes, a sua execução, assegurar o eficiente funcionamento desses serviços e orientar as actividades particulares, coordenando-as com o sector público.
 
 2 - Compete ainda ao Secretário Regional incentivar a iniciativa privada nos domínios da saúde e solidariedade social e coordenar as suas actividades com o sector público, estabelecendo normas de cooperação e promovendo, sem prejuízo da lei vigente, a celebração de acordos de mútua colaboração.
 
 ### CAPÍTULO II — Estrutura
 
-###### Art. 6.º A Secretaria Regional dos Assuntos Sociais compreende os seguintes departamentos:
+Art. 6.º A Secretaria Regional dos Assuntos Sociais compreende os seguintes departamentos:
 
 a) Gabinete do Secretário Regional;
 
@@ -164,7 +202,7 @@ e) Direcção Regional de Educação Especial.
 
 #### SECÇÃO I — Gabinete do Secretário Regional
 
-###### Art. 7.º - 1 - O Gabinete do Secretário Regional integra o chefe de gabinete e compreende os seguintes sectores:
+Art. 7.º - 1 - O Gabinete do Secretário Regional integra o chefe de gabinete e compreende os seguintes sectores:
 
 a) Serviço de Estudos e Planeamento;
 
@@ -184,7 +222,7 @@ h) Serviços Administrativos.
 
 2 - Sempre que as circunstâncias o exijam, serão criadas valências técnicas de apoio, a título permanente ou transitório, recorrendo-se, para o efeito, a técnicos da própria Secretaria Regional ou à requisição de pessoal de outros departamentos do Governo Regional.
 
-###### Art. 8.º Compete ao chefe de gabinete:
+Art. 8.º Compete ao chefe de gabinete:
 
 a) Representar o Secretário Regional, mediante delegação, nos actos que não sejam da sua exclusiva competência;
 
@@ -198,7 +236,7 @@ e) Manter o controle interno dos documentos;
 
 f) Exercer as demais funções que lhe forem delegadas pelo Secretário Regional.
 
-###### Art. 9.º Compete ao Serviço de Estudos e Planeamento:
+Art. 9.º Compete ao Serviço de Estudos e Planeamento:
 
 a) Elaborar os planos de recolha de documentação e informações indispensáveis ao planeamento da política da Secretaria Regional;
 
@@ -218,7 +256,7 @@ h) Assegurar e coordenar a participação da Secretaria Regional no âmbito da c
 
 i) Assegurar trabalhos de que seja incumbido.
 
-###### Art. 10.º Compete ao Serviço de Gestão de Pessoal:
+Art. 10.º Compete ao Serviço de Gestão de Pessoal:
 
 a) Proceder aos estudos relativos aos sistemas integrados de gestão de pessoal da Secretaria Regional, propondo as medidas necessárias ao seu gradual estabelecimento e promover as respeitantes ao seu próprio pessoal;
 
@@ -236,7 +274,7 @@ g) Proceder à verificação dos requisitos habilitacionais para acesso aos quad
 
 h) Definir a estrutura dos quadros de pessoal e controlar o seu preenchimento em cooperação, quando necessário, com as direcções regionais.
 
-###### Art. 11.º Compete ao Serviço de Organização:
+Art. 11.º Compete ao Serviço de Organização:
 
 a) Promover o estudo e divulgação dos princípios e técnicas de organização;
 
@@ -246,7 +284,7 @@ c) Proceder aos estudos preparatórios relativos à utilização da informática
 
 d) Colaborar com as direcções regionais nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços.
 
-###### Art. 12.º - 1 - Compete ao Serviço de Contencioso:
+Art. 12.º - 1 - Compete ao Serviço de Contencioso:
 
 a) Exercer o patrocínio judiciário relativamente aos assuntos da Secretaria Regional;
 
@@ -256,13 +294,13 @@ c) Proceder aos estudos e emitir os pareceres de natureza jurídica que lhe seja
 
 2 - Para efeitos de representação em juízo, constituem prova suficiente os ofícios subscritos pelo Secretário Regional.
 
-###### Art. 13.º - 1 - Compete ao Serviço de Inspecção exercer as funções de inspecção administrativa das actividades de saúde, segurança social e educação especial dos serviços dependentes da Secretaria Regional dos Assuntos Sociais e das instituições sujeitas à sua tutela, bem como proceder a inquéritos disciplinares ou sindicâncias que lhe venham a ser cometidos pelo Secretário Regional, directamente ou sob proposta das direcções regionais.
+Art. 13.º - 1 - Compete ao Serviço de Inspecção exercer as funções de inspecção administrativa das actividades de saúde, segurança social e educação especial dos serviços dependentes da Secretaria Regional dos Assuntos Sociais e das instituições sujeitas à sua tutela, bem como proceder a inquéritos disciplinares ou sindicâncias que lhe venham a ser cometidos pelo Secretário Regional, directamente ou sob proposta das direcções regionais.
 
 2 - No desempenho das suas funções poderá requisitar a quaisquer serviços públicos ou particulares as informações ou diligencias que forem necessárias, salvo disposição em contrário.
 
 3 - Para o exercício de inspecção em matéria financeira ou de contabilidade poderá requisitar a qualquer sector público o pessoal técnico indispensável, de acordo com o departamento a que o mesmo pertença, ou contratar técnicos do sector privado.
 
-###### Art. 14.º Compete ao Serviço de Formação Permanente de Pessoal:
+Art. 14.º Compete ao Serviço de Formação Permanente de Pessoal:
 
 a) O acolhimento, orientação e integração dos novos funcionários;
 
@@ -272,7 +310,7 @@ c) A formação básica e individual do mesmo pessoal, por acções integradas c
 
 d) Informação técnico-profissional.
 
-###### Art. 15.º - 1 - Compete ao Serviço de Educação Sanitária:
+Art. 15.º - 1 - Compete ao Serviço de Educação Sanitária:
 
 a) Promover as acções tendentes à motivação do pessoal de saúde para o diálogo e abertura em relação à população;
 
@@ -284,21 +322,21 @@ d) Promover a difusão dos meios de educação para a saúde, nomeadamente atrav
 
 2 - As acções desenvolvidas terão como ponto de partida programas previamente elaborados, eventualmente com a participação das direcções regionais, sujeitos a aprovação prévia do Secretário Regional.
 
-###### Art. 16.º Compete aos Serviços Administrativos elaborar o expediente e arquivo, executar o serviço de economato e contabilidade da Secretaria Regional e as demais tarefas que lhes forem cometidas.
+Art. 16.º Compete aos Serviços Administrativos elaborar o expediente e arquivo, executar o serviço de economato e contabilidade da Secretaria Regional e as demais tarefas que lhes forem cometidas.
 
-###### Art. 17.º Compete às valências de apoio da Secretaria Regional prestar as informações e elaborar os estudos e pareceres que lhes forem solicitados nas suas áreas específicas, apoiar os serviços da mesma Secretaria e promover as acções externas de que forem incumbidas.
+Art. 17.º Compete às valências de apoio da Secretaria Regional prestar as informações e elaborar os estudos e pareceres que lhes forem solicitados nas suas áreas específicas, apoiar os serviços da mesma Secretaria e promover as acções externas de que forem incumbidas.
 
 #### SECÇÃO II — Direcções regionais
 
-###### Art. 18.º - 1 - As direcções regionais são departamentos da Secretaria Regional dos Assuntos Sociais a quem compete, dentro das respectivas áreas, a orientação das instituições, serviços e estabelecimentos de saúde, segurança social e educação especial, coordenar a sua actuação e fiscalizar as suas actividades.
+Art. 18.º - 1 - As direcções regionais são departamentos da Secretaria Regional dos Assuntos Sociais a quem compete, dentro das respectivas áreas, a orientação das instituições, serviços e estabelecimentos de saúde, segurança social e educação especial, coordenar a sua actuação e fiscalizar as suas actividades.
 
 2 - As Direcções Regionais de Saúde Pública e dos Hospitais deverão estabelecer formas de colaboração para complementar, sempre que necessário, as acções por cada uma delas desenvolvidas.
 
 3 - São cometidas também às direcções regionais acções de promoção, orientação, fiscalização e apoio às actividades de iniciativa privada que prossigam actividades afins, dentro dos limites que sejam fixados pelo Secretário Regional dos Assuntos Sociais ou decorram dos acordos referidos no n.º 2 do artigo 5.º
 
-###### Art. 19.º Cada direcção regional será dirigida por um director regional, que superintende a acção dos serviços e submete a despacho do Secretário Regional, perante quem é directamente responsável, os assuntos que careçam de apreciação ou decisão superiores.
+Art. 19.º Cada direcção regional será dirigida por um director regional, que superintende a acção dos serviços e submete a despacho do Secretário Regional, perante quem é directamente responsável, os assuntos que careçam de apreciação ou decisão superiores.
 
-###### Art. 20.º Haverá os seguintes órgãos de apoio ao director regional:
+Art. 20.º Haverá os seguintes órgãos de apoio ao director regional:
 
 a) Direcções técnicas;
 
@@ -306,7 +344,7 @@ b) Órgãos de acção consultiva;
 
 c) Direcções de serviços.
 
-###### Art. 21.º Compete aos órgãos de direcção técnica:
+Art. 21.º Compete aos órgãos de direcção técnica:
 
 a) Coordenar tecnicamente o pessoal que lhe diz respeito;
 
@@ -320,7 +358,7 @@ e) Propor ao director regional medidas de admissão, fixação e transferência 
 
 f) Fomentar a cooperação entre os serviços.
 
-###### Art. 22.º Compete aos órgãos de acção consultiva:
+Art. 22.º Compete aos órgãos de acção consultiva:
 
 a) Pronunciar-se sobre o rendimento dos serviços e propor as medidas julgadas úteis à sua melhoria;
 
@@ -338,7 +376,7 @@ g) Dar parecer, quando solicitado, sobre o plano de férias do pessoal;
 
 h) Apreciar as regras quanto à elaboração do relatório anual de actividades.
 
-###### Art. 23.º As direcções de serviços estão a cargo de um director de serviços ou de um funcionário responsável que exerce a efectiva direcção dos mesmos, competindo-lhe designadamente:
+Art. 23.º As direcções de serviços estão a cargo de um director de serviços ou de um funcionário responsável que exerce a efectiva direcção dos mesmos, competindo-lhe designadamente:
 
 a) Vigiar de forma permanente as medidas de execução em curso, assinalar os desvios que verificar e providenciar as correcções necessárias para o seu integral cumprimento;
 
@@ -362,19 +400,19 @@ j) Elaborar, até ao fim de Março de cada ano, o relatório do serviço e subme
 
 l) Exercer as demais funções que lhe sejam cometidas ou se mostrem necessárias.
 
-###### Art. 24.º Constarão dos orçamentos das direcções regionais as verbas destinadas às instituições de iniciativa privada que prossigam actividades afins às direcções regionais.
+Art. 24.º Constarão dos orçamentos das direcções regionais as verbas destinadas às instituições de iniciativa privada que prossigam actividades afins às direcções regionais.
 
-###### Art. 25.º As direcções regionais prestarão ao Gabinete do Secretário Regional e entre si a colaboração que se revele necessária para o desempenho das respectivas funções.
+Art. 25.º As direcções regionais prestarão ao Gabinete do Secretário Regional e entre si a colaboração que se revele necessária para o desempenho das respectivas funções.
 
-###### Art. 26.º As direcções regionais terão quadros de pessoal próprios, onde serão integrados os funcionários que transitam dos correspondentes centros regionais.
+Art. 26.º As direcções regionais terão quadros de pessoal próprios, onde serão integrados os funcionários que transitam dos correspondentes centros regionais.
 
-###### Art. 27.º As direcções regionais terão regulamento próprio, a definir por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 27.º As direcções regionais terão regulamento próprio, a definir por despacho do Secretário Regional dos Assuntos Sociais.
 
 ##### SUBSECÇÃO I — Direcção Regional de Saúde Pública
 
-###### Art. 28.º A Direcção Regional de Saúde Pública assegura, directamente e por intermédio dos serviços locais, a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde e prevenção da doença e ocupando-se da prestação dos cuidados médicos de base que, pela sua natureza, não careçam de ficar a cargo dos hospitais.
+Art. 28.º A Direcção Regional de Saúde Pública assegura, directamente e por intermédio dos serviços locais, a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde e prevenção da doença e ocupando-se da prestação dos cuidados médicos de base que, pela sua natureza, não careçam de ficar a cargo dos hospitais.
 
-###### Art. 29.º Compete à Direcção Regional de Saúde Pública:
+Art. 29.º Compete à Direcção Regional de Saúde Pública:
 
 a) Promover o saneamento do meio e a higiene da habitação e fiscalizar o cumprimento das disposições legais aplicáveis, emitindo pareceres vinculativos das instâncias decisórias;
 
@@ -406,7 +444,7 @@ o) Prestar socorros de urgência;
 
 p) Autorizar as despesas, designadamente com bens de consumo, aquisições de material ou equipamento até aos limites autorizados.
 
-###### Art. 30.º São órgãos de direcção técnica:
+Art. 30.º São órgãos de direcção técnica:
 
 a) Direcção Médica;
 
@@ -416,7 +454,7 @@ c) Direcção Técnica;
 
 d) Direcção Administrativa.
 
-###### Art. 31.º São órgãos de acção consultiva:
+Art. 31.º São órgãos de acção consultiva:
 
 a) Conselho médico;
 
@@ -426,7 +464,7 @@ c) Comissão técnica;
 
 d) Comissão de administração.
 
-###### Art. 32.º Haverá as seguintes direcções:
+Art. 32.º Haverá as seguintes direcções:
 
 a) Direcção de Serviços Administrativos;
 
@@ -434,19 +472,19 @@ b) Direcção de Serviços Financeiros;
 
 c) Direcção de Serviços Técnicos.
 
-###### Art. 33.º - 1 - Os centros de saúde são os serviços da Direcção Regional de Saúde Pública responsáveis pela integração e coordenação das actividades de saúde, bem como pelas valências referidas no artigo 35.º
+Art. 33.º - 1 - Os centros de saúde são os serviços da Direcção Regional de Saúde Pública responsáveis pela integração e coordenação das actividades de saúde, bem como pelas valências referidas no artigo 35.º
 
 2 - Trabalham em íntimo contacto com as populações, de modo a assegurar a efectiva promoção da saúde e prevenção da doença e a oportuna aplicação das medidas de tratamento dos doentes e reabilitação dos diminuídos.
 
 3 - Actuam em coordenação com as demais entidades públicas e privadas, designadamente com a Direcção Regional dos Hospitais, com vista à unidade de acção subordinada a directrizes de planeamento.
 
-###### Art. 34.º - 1 - Os centros do saúde, como unidade de orgânica integradora das actividades de saúde, compreendem as respectivas valências, bem como as actividades de apoio.
+Art. 34.º - 1 - Os centros do saúde, como unidade de orgânica integradora das actividades de saúde, compreendem as respectivas valências, bem como as actividades de apoio.
 
 2 - As valências dos centros de saúde serão determinadas em função da respectiva localização, área geográfica e número de habitantes, podendo ser estabelecidas zonas dentro das quais se desenvolvam funções de complementaridade.
 
 3 - A distribuição de valências e outras actividades dos centros de saúde pode ser alterada por despacho da Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 35.º Os centros de saúde têm genericamente as seguintes valências:
+Art. 35.º Os centros de saúde têm genericamente as seguintes valências:
 
 a) Higiene do meio ambiente, higiene do trabalho e medicina do trabalho;
 
@@ -474,15 +512,15 @@ m) Laboratório de saúde pública;
 
 n) Registos estatísticos.
 
-###### Art. 36.º - 1 - Os centros de saúde terão órgãos próprios de direcção, responsáveis pelo respectivo rendimento médico-social, podendo a sua acção ser extensiva a vários centros que funcionem em regime de complementaridade.
+Art. 36.º - 1 - Os centros de saúde terão órgãos próprios de direcção, responsáveis pelo respectivo rendimento médico-social, podendo a sua acção ser extensiva a vários centros que funcionem em regime de complementaridade.
 
 2 - A constituição dos órgãos de direcção referidos no número anterior rege-se por critérios de eficácia, sem discriminação de classes profissionais, e pode ser alterada pela Direcção Regional de Saúde Pública, cabendo recurso para o Secretário Regional dos Assuntos Sociais.
 
 ##### SUBSECÇÃO II — Direcção Regional dos Hospitais
 
-###### Art. 37.º A Direcção Regional dos Hospitais orienta e coordena as actividades dos estabelecimentos hospitalares da Região e presta o apoio que lhe seja solicitado pela Direcção Regional de Saúde Pública no domínio das atribuições de internamento que a esta competem.
+Art. 37.º A Direcção Regional dos Hospitais orienta e coordena as actividades dos estabelecimentos hospitalares da Região e presta o apoio que lhe seja solicitado pela Direcção Regional de Saúde Pública no domínio das atribuições de internamento que a esta competem.
 
-###### Art. 38.º Compete-lhe designadamente:
+Art. 38.º Compete-lhe designadamente:
 
 a) Orientar, coordenar e controlar o funcionamento dos serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada;
 
@@ -496,7 +534,7 @@ e) Praticar uma política de informação relativamente à população em geral 
 
 f) Autorizar as despesas, designadamente com bens de consumo, aquisição de material ou equipamento, até aos limites autorizados.
 
-###### Art. 39.º São órgãos de direcção técnica:
+Art. 39.º São órgãos de direcção técnica:
 
 a) Direcção Médica;
 
@@ -504,7 +542,7 @@ b) Direcção de Enfermagem;
 
 c) Direcção dos Serviços de Apoio Geral.
 
-###### Art. 40.º - 1 - São órgãos de acção consultiva:
+Art. 40.º - 1 - São órgãos de acção consultiva:
 
 a) Conselho médico;
 
@@ -516,13 +554,13 @@ d) Comissão de farmácia e terapêutica.
 
 2 - Sempre que se justifiquem, poderão ser criados outros órgãos de apoio consultivo, com carácter permanente ou provisório, por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 41.º Haverá as seguintes direcções de serviços:
+Art. 41.º Haverá as seguintes direcções de serviços:
 
 a) De assistência;
 
 b) De apoio geral.
 
-###### Art. 42.º As direcções dos serviços de assistência compreendem as seguintes valências:
+Art. 42.º As direcções dos serviços de assistência compreendem as seguintes valências:
 
 a) Tratamento e consulta;
 
@@ -532,7 +570,7 @@ c) Apoio técnico e auxiliar;
 
 d) Acção complementar.
 
-###### Art. 43.º As direcções dos serviços de apoio geral compreendem os seguintes sectores:
+Art. 43.º As direcções dos serviços de apoio geral compreendem os seguintes sectores:
 
 a) Secretaria e pessoal;
 
@@ -548,7 +586,7 @@ f) Instalações e equipamento;
 
 g) Serviços hoteleiros.
 
-###### Art. 44.º - 1 - Os Hospitais da Região Autónoma da Madeira exercem uma acção complementar e integrada sob a forma de centro hospitalar, desenvolvendo uma actividade predominantemente curativa e de reabilitação, competindo-lhe ainda acções de prevenção, ensino e investigação científica no campo da saúde.
+Art. 44.º - 1 - Os Hospitais da Região Autónoma da Madeira exercem uma acção complementar e integrada sob a forma de centro hospitalar, desenvolvendo uma actividade predominantemente curativa e de reabilitação, competindo-lhe ainda acções de prevenção, ensino e investigação científica no campo da saúde.
 
 2 - Compete-lhes designadamente:
 
@@ -560,7 +598,7 @@ c) Colaborar nos planos de ensino e investigação científica que caibam na sua
 
 ##### SUBSECÇÃO III — Direcção Regional de Segurança Social
 
-###### Art. 45.º - 1 - A Direcção Regional de Segurança Social assegura, directamente ou através dos seus serviços locais, as acções de resposta às situações abrangidas pelo sistema regional de segurança social.
+Art. 45.º - 1 - A Direcção Regional de Segurança Social assegura, directamente ou através dos seus serviços locais, as acções de resposta às situações abrangidas pelo sistema regional de segurança social.
 
 2 - Compete-lhe designadamente:
 
@@ -576,7 +614,7 @@ e) Executar as acções determinadas pelo funcionamento do sistema unificado de 
 
 f) Autorizar as despesas, designadamente com bens de consumo, aquisição de material ou equipamento, até aos limites autorizados.
 
-###### Art. 46.º - 1 - Actua especificamente nas seguintes áreas de acção do sector:
+Art. 46.º - 1 - Actua especificamente nas seguintes áreas de acção do sector:
 
 a) Infância e juventude;
 
@@ -588,23 +626,23 @@ d) Reabilitação e reintegração social.
 
 2 - São ainda atribuições da Direcção Regional de Segurança Social a coordenação das acções comuns às áreas específicas definidas no número anterior e a tutela das instituições privadas de solidariedade social, por forma a garantir a adequação das actividades aos fins do sistema.
 
-###### Art. 47.º Compete ao sector de infância e juventude promover as acções destinadas a crianças e jovens numa perspectiva de apoio à família com carácter supletivo, visando o desenvolvimento integral e a sua inserção na vida da comunidade e ainda cobrir as situações de carência económica.
+Art. 47.º Compete ao sector de infância e juventude promover as acções destinadas a crianças e jovens numa perspectiva de apoio à família com carácter supletivo, visando o desenvolvimento integral e a sua inserção na vida da comunidade e ainda cobrir as situações de carência económica.
 
-###### Art. 48.º Compete ao sector da população activa, família e comunidade assegurar o acolhimento, informação e orientação das pessoas e família, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico.
+Art. 48.º Compete ao sector da população activa, família e comunidade assegurar o acolhimento, informação e orientação das pessoas e família, o estudo e coordenação das actividades destinadas à valorização e ajuda do indivíduo e da família e ao desenvolvimento integral da comunidade, actuando ainda nas situações de desajustamento económico.
 
-###### Art. 49.º Competem ao sector da terceira-idade as acções destinadas ao correspondente grupo etário (60 anos) e todas as pessoas que, pelo seu estado de diminuição, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar ou comunitária, visando ainda cobrir situações de carência económica.
+Art. 49.º Competem ao sector da terceira-idade as acções destinadas ao correspondente grupo etário (60 anos) e todas as pessoas que, pelo seu estado de diminuição, se lhes possam comparar, criando e desenvolvendo condições que favoreçam a autonomia dos idosos e permitam evitar a sua desinserção social, familiar ou comunitária, visando ainda cobrir situações de carência económica.
 
-###### Art. 50.º Compete ao sector de reabilitação e reintegração social as acções relativas a menores inadaptados compreendidas nos limites etários até aos 18 anos.
+Art. 50.º Compete ao sector de reabilitação e reintegração social as acções relativas a menores inadaptados compreendidas nos limites etários até aos 18 anos.
 
-###### Art. 51.º São órgãos de direcção técnica:
+Art. 51.º São órgãos de direcção técnica:
 
 a) Conselho administrativo;
 
 b) Conselho técnico.
 
-###### Art. 52.º A Direcção Regional terá como órgão de acção consultiva a comissão regional de segurança social, que integra representação das associações sindicais.
+Art. 52.º A Direcção Regional terá como órgão de acção consultiva a comissão regional de segurança social, que integra representação das associações sindicais.
 
-###### Art. 53.º Haverá as seguintes direcções:
+Art. 53.º Haverá as seguintes direcções:
 
 a) Direcção de Serviço de Acção Social;
 
@@ -614,13 +652,13 @@ c) Direcção de Serviços Administrativos;
 
 d) Direcção de Serviços Financeiros.
 
-###### Art. 54.º - 1 - A estrutura orgânica local é integrada pelos serviços do sector e pelas instituições e estabelecimentos oficiais dependentes da Direcção Regional de Segurança Social.
+Art. 54.º - 1 - A estrutura orgânica local é integrada pelos serviços do sector e pelas instituições e estabelecimentos oficiais dependentes da Direcção Regional de Segurança Social.
 
 2 - Sem prejuízo da dependência referida, poderá, em casos determinados, ser atribuída às instituições e estabelecimentos oficiais a autonomia necessária à maior eficácia da acção a desenvolver.
 
 3 - Os estabelecimentos dependentes das autarquias locais ou das instituições de utilidade pública inserem-se na estrutura do sistema de segurança social através da sua vinculação aos objectivos que o enformam.
 
-###### Art. 55.º São atribuições dos serviços, instituições e estabelecimentos locais:
+Art. 55.º São atribuições dos serviços, instituições e estabelecimentos locais:
 
 a) Assegurar, em interacção directa com as populações, a efectiva realização do direito às prestações do sistema;
 
@@ -628,9 +666,9 @@ b) Contribuir para o planeamento e programação, através do levantamento das s
 
 ##### SUBSECÇÃO IV — Direcção Regional de Educação Especial
 
-###### Art. 56.º A Direcção Regional de Educação Especial orienta e coordena as actividades dos estabelecimentos e serviços oficiais que, na área da Região Autónoma da Madeira, prosseguem actividades inseridas no seu âmbito de acção.
+Art. 56.º A Direcção Regional de Educação Especial orienta e coordena as actividades dos estabelecimentos e serviços oficiais que, na área da Região Autónoma da Madeira, prosseguem actividades inseridas no seu âmbito de acção.
 
-###### Art. 57.º Tem as seguintes atribuições:
+Art. 57.º Tem as seguintes atribuições:
 
 a) Assegurar a educação e integração familiar e social de crianças e adolescentes com deficiências auditivas, visuais, intelectuais, motoras e outras que exijam métodos especiais de acção;
 
@@ -642,17 +680,17 @@ d) Preparar os planos gerais de actividades, incluindo os orçamentos, e submet�
 
 e) Autorizar as despesas designadamente com bens de consumo, aquisição de material ou equipamento, até aos limites autorizados.
 
-###### Art. 58.º No âmbito da sua competência, assegura a coordenação da iniciativa privada comparticipada, designadamente a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos meios disponíveis.
+Art. 58.º No âmbito da sua competência, assegura a coordenação da iniciativa privada comparticipada, designadamente a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos meios disponíveis.
 
-###### Art. 59.º São órgãos de direcção:
+Art. 59.º São órgãos de direcção:
 
 a) Conselho administrativo;
 
 b) Conselho técnico.
 
-###### Art. 60.º São órgãos de acção consultiva os conselhos técnicos internos dos estabelecimentos dependentes da Direcção Regional.
+Art. 60.º São órgãos de acção consultiva os conselhos técnicos internos dos estabelecimentos dependentes da Direcção Regional.
 
-###### Art. 61.º Haverá as seguintes direcções de serviços, sem prejuízo do futuro desenvolvimento desta Direcção Regional:
+Art. 61.º Haverá as seguintes direcções de serviços, sem prejuízo do futuro desenvolvimento desta Direcção Regional:
 
 a) Deficientes auditivos;
 
@@ -660,23 +698,23 @@ b) Deficientes intelectuais;
 
 c) Deficientes visuais.
 
-###### Art. 62.º Aos estabelecimentos inseridos na área da Direcção Regional é reconhecida autonomia técnica, nas condições a regulamentar.
+Art. 62.º Aos estabelecimentos inseridos na área da Direcção Regional é reconhecida autonomia técnica, nas condições a regulamentar.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 63.º - 1 - As condições de ingresso, acesso e carreiras profissionais, quer regionais, quer de âmbito nacional, são as estabelecidas pela legislação em vigor.
+Art. 63.º - 1 - As condições de ingresso, acesso e carreiras profissionais, quer regionais, quer de âmbito nacional, são as estabelecidas pela legislação em vigor.
 
 2 - Sempre que tais condições não estejam estabelecidas, serão elaborados programas de concurso de forma a seleccionar criteriosamente os mais aptos e competentes para o preenchimento dos lugares dos quadros.
 
 3 - Os programas de concurso referidos no número precedente são da responsabilidade do Secretário Regional dos Assuntos Sociais, salvo delegação nas direcções regionais respectivas.
 
-###### Art. 64.º As admissões de pessoal, mesmo em regime eventual, promoções, exonerações ou quaisquer outras alterações da situação dos funcionários dependem de autorização do Secretário Regional dos Assuntos Sociais.
+Art. 64.º As admissões de pessoal, mesmo em regime eventual, promoções, exonerações ou quaisquer outras alterações da situação dos funcionários dependem de autorização do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 65.º Mantém-se em vigor o quadro já aprovado da Secretaria Regional dos Assuntos Sociais.
+Art. 65.º Mantém-se em vigor o quadro já aprovado da Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 66.º Os quadros já aprovados dos Centros Regionais de Saúde Pública, Hospitalar, Segurança Social e Educação Especial mantêm-se em vigor no âmbito das correspondentes direcções regionais, ficando, porém, extintos os respectivos conselhos de gerência e directivo.
+Art. 66.º Os quadros já aprovados dos Centros Regionais de Saúde Pública, Hospitalar, Segurança Social e Educação Especial mantêm-se em vigor no âmbito das correspondentes direcções regionais, ficando, porém, extintos os respectivos conselhos de gerência e directivo.
 
-###### Art. 67.º - 1 - Os funcionários públicos ou equiparados dependentes da SRAS ficam abrangidos pelo Estatuto da Função Pública e em estrita igualdade, observação e regime de trabalho que estiver estabelecido para as correspondentes categorias dos demais funcionários do Governo Regional.
+Art. 67.º - 1 - Os funcionários públicos ou equiparados dependentes da SRAS ficam abrangidos pelo Estatuto da Função Pública e em estrita igualdade, observação e regime de trabalho que estiver estabelecido para as correspondentes categorias dos demais funcionários do Governo Regional.
 
 2 - O pessoal da Direcção Regional de Segurança Social que, por ter optado pelo regime da função pública, foi integrado no mapa nominativo do quadro aprovado mantém a situação que lhe foi atribuída, sendo-lhe aplicado o regime previsto no [Decreto-Lei n.º 124/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1979-383206), de 10 de Maio, designadamente o artigo 8.º, com as necessárias adaptações.
 
@@ -684,14 +722,14 @@ c) Deficientes visuais.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 68.º Ficam revogados os Decretos Regionais n.os 3/77/M, de 23 de Março, 3/78/M, de 13 de Fevereiro, 5/78/M, de 24 de Fevereiro, e [Decreto Regulamentar Regional n.º 10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1979-383617), de 28 de Maio de 1979.
+Art. 68.º Ficam revogados os Decretos Regionais n.os 3/77/M, de 23 de Março, 3/78/M, de 13 de Fevereiro, 5/78/M, de 24 de Fevereiro, e [Decreto Regulamentar Regional n.º 10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1979-383617), de 28 de Maio de 1979.
 
-###### Art. 69.º As dúvidas resultantes e omissões decorrentes do presente diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 69.º As dúvidas resultantes e omissões decorrentes do presente diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 70.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 70.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Assembleia Regional, 7 de Abril de 1981. - O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 24 de Abril de 1981.**
+Assinado em 24 de Abril de 1981.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

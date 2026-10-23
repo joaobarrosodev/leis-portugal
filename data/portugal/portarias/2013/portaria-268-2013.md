@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268/2013/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-2013-499238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80d64a4dc299b453348971f0cba06036567d557f55f660ae9da0c2023421ada3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7acdff7ad14363b1d0f8f575eb9bc1823fc033439eea190558252584d24fe6e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,26 +71,26 @@ subjects:
 - Ajuda Comunitária
 - Assistência Técnica
 - Auditoria
-- Financiamento
 - Beneficiário
-- Inspeção Geral de Finanças
-- Ministério da Administração Interna
-- Gestão Financeira
+- Comissão CE
 - Comissão Mista
 - Definição de Competências
 - Despesas Públicas
-- Gestão Administrativa
-- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
-- Comissão CE
-- Pagamento
-- Instituto Financeiro para o Desenvolvimento Regional
 - Direcção Geral de Administração Interna
-- Tesouraria
-- Internet
-- Prazo
+- Financiamento
 - Fundo Europeu de Regresso
+- Gestão Administrativa
+- Gestão Financeira
+- Inspeção Geral de Finanças
+- Instituto Financeiro para o Desenvolvimento Regional
+- Internet
+- Ministério da Administração Interna
+- Pagamento
+- Prazo
+- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
 - Reembolso
 - Subsídio não Reembolsável
+- Tesouraria
 relationships:
 - type: cites
   target: celex:32007D0575
@@ -107,13 +107,13 @@ relationships:
 article_structure:
   article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:28Z'
   warnings: []
   errors: []
 ---
@@ -588,4 +588,4 @@ Em matérias não especialmente reguladas na presente Portaria, são aplicáveis
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 9 de agosto de 2013. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 13 de agosto de 2013. - O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 12 de agosto de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 9 de agosto de 2013. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 13 de agosto de 2013. - O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 12 de agosto de 2013.

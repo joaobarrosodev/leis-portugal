@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 6/2023, 1º Suplemento, Série I de 2023-01-09
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(12) a 31-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24-c/2023/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-c-2023-205928631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ba92b54fb05f2a68357e7c573eb7d7b87920ac3027e5dd073ba9705b4032ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbc20cfe45ef0cb9f29c25759821fb040dc3343dc6df49ce8e1d6df32b8503f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cálculo de Pensões
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Coeficiente de Actualização
+- Complemento Solidário para Idosos
 - Contribuições da Segurança Social
 - Dívidas à Segurança Social
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Pensionista
 - Pensões
-- Quotização
 - Proteção Social
+- Quotização
 - Reembolso
 - Reembolso de Contribuições
 - Regime Contributivo da Segurança Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Regime de Protecção Social Convergente
 - Remuneração
 - Segurança Social
 - Sistema Previdencial
-- Complemento Solidário para Idosos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
@@ -111,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/169/2021/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/169/2021/08/05/p/dre
+- type: cites
+  target: pt:dre:169132316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:05Z'
   warnings: []
   errors: []
 ---
@@ -171,16 +195,18 @@ d) Atualização dos rendimentos para efeitos de atribuição e renovação do c
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos de 1 de janeiro a 31 de dezembro de 2022.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 10 de novembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 10 de novembro de 2022.
 
 ## ANEXO I — Tabela aplicável em 2022
 
 (n.º 1 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf)
 
 ## ANEXO II — Tabela aplicável em 2022
 
 (n.os 2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0001200015.pdf)
+
+116045739

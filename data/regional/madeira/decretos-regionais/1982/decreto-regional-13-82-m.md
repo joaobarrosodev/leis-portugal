@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9c71b41fb199e7575ee89c0961f288981d63a4aab92da1d3b2ef4bcd02c2d93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a716890efce5ea284c35510878371fbee49e1c8459cf0cd0cff21ec6c5a33cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aumento de Produção
+- Madeira.região Autónoma
+- Pesca
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:48Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +99,7 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, para valer como lei o seguinte:
 
-###### Artigo 1.º - 1 - O Governo Regional poderá auxiliar financeiramente os projectos de investimento considerados de interesse para a modernização e reconversão da frota de pesca da Região.
+Artigo 1.º - 1 - O Governo Regional poderá auxiliar financeiramente os projectos de investimento considerados de interesse para a modernização e reconversão da frota de pesca da Região.
 
 2 - Para efeitos do disposto no número anterior, consideram-se de interesse para a Região os seguintes projectos de investimento:
 
@@ -104,9 +111,9 @@ c) Transformação e reconversão de embarcações de pesca;
 
 d) Aquisição de artes e apetrechos de pesca.
 
-###### Art. 2.º Os auxílios referidos no artigo anterior serão exclusivamente concedidos a pessoas singulares ou colectivas que exerçam, ou pretendam exercer, a actividade de pesca nos mares da Região e que nesta tenham o seu domicílio ou a sua sede.
+Art. 2.º Os auxílios referidos no artigo anterior serão exclusivamente concedidos a pessoas singulares ou colectivas que exerçam, ou pretendam exercer, a actividade de pesca nos mares da Região e que nesta tenham o seu domicílio ou a sua sede.
 
-###### Art. 3.º - 1 - As embarcações a que respeitam os projectos de investimento de que trata o presente diploma deverão, obrigatoriamente:
+Art. 3.º - 1 - As embarcações a que respeitam os projectos de investimento de que trata o presente diploma deverão, obrigatoriamente:
 
 a) Ser ou estar registadas em portos da Região Autónoma da Madeira;
 
@@ -116,18 +123,18 @@ c) Empregar a bordo marítimos inscritos e residentes na Região, em quantidade 
 
 2 - O Secretário Regional da Agricultura e Pescas poderá autorizar que sejam contratados marítimos em proporção menor que a referida na alínea c) do número anterior, em casos devidamente fundamentados.
 
-###### Art. 4.º O encargos resultantes da execução do presente diploma serão suportados por conta de dotações inscritas no Orçamento.
+Art. 4.º O encargos resultantes da execução do presente diploma serão suportados por conta de dotações inscritas no Orçamento.
 
-###### Art. 5.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos, caso a caso, por despacho dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
+Art. 5.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos, caso a caso, por despacho dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 6.º O presente diploma será, no prazo de 30 dias, a contar da data da sua publicação, regulamentado pelo Governo Regional.
+Art. 6.º O presente diploma será, no prazo de 30 dias, a contar da data da sua publicação, regulamentado pelo Governo Regional.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 30 de Julho de 1982.
 
-**O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.
 
-**Assinado em 18 de Agosto de 1982.**
+Assinado em 18 de Agosto de 1982.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

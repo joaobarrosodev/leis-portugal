@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decminrepram/1/1996/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica-para-regiao-autonoma-madeira/1-1996-165850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd30df5d4f20ae1a004a55795ea84b5f3cc0ea3fcd07d399ad10c06897e5f196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b740c37d8c9eed961a4be9461d3b44d8da97d5b057d8a4c8bb9ba2e26b8d421
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ reuse:
 subjects:
 - Exoneração
 - Governo Regional
-- Presidente do Governo Regional
 - Madeira.região Autónoma
+- Presidente do Governo Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:05Z'
   warnings: []
   errors: []
 ---
@@ -95,8 +99,8 @@ de 11 de Novembro
 
 Ao abrigo do n.º 3 do artigo 233.º da Constituição e do n.º 1 do artigo 39.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, exonero do cargo de Presidente do Governo Regional da Região Autónoma da Madeira o Dr. Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Novembro de 1996.**
+Assinado em 11 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

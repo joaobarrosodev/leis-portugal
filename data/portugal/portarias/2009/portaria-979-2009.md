@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/979/2009/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/979-2009-488511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 372d8a4e8868e273212522e2be63e172d62d73f45582f88f2b42ff4821764f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dfbb0126aa58da4884f777974497d8baa23bc058c5bb52d4c7d802ecf6d51ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
-- Definição de Competências
-- Conselho Consultivo
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Autoridade Florestal Nacional
-- Instituto da Conservação da Natureza e da Biodiversidade
-- Transferência de Competências
 - Autarquia Local
+- Autoridade Florestal Nacional
+- CAÇA
+- Conselho Consultivo
+- Definição de Competências
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Transferência de Competências
 - ZONA de CAÇA
 relationships:
 - type: cites
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/191/2009/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/191/2009/02/20/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:24Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +134,9 @@ Os artigos 1.º, 2.º, 5.º e 6.º da Portaria n.º 191/2009, de 20 de Fevereiro
 
 A presente portaria regulamenta os procedimentos de transferência de gestão das zonas de caça nacionais, adiante designadas por ZCN, para as autarquias locais ou para entidades colectivas integradas por estas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -134,7 +144,9 @@ A presente portaria regulamenta os procedimentos de transferência de gestão da
 
 3 - O protocolo referido no número anterior deve ser estabelecido ainda com o Instituto de Conservação da Natureza e Biodiversidade quando a ZCN se integre em áreas protegidas ou classificadas, em respeito pelo disposto no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A autarquia local, ou a entidade colectiva integrada por esta, deve constituir um conselho consultivo que assegure a participação da sociedade civil na política cinegética da ZCN.
 
@@ -148,7 +160,9 @@ A presente portaria regulamenta os procedimentos de transferência de gestão da
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O requerimento para a transferência de gestão é dirigido ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, contendo a identificação da ou das autarquias locais, ou da entidade colectiva integrada por estas, e da ZCN cuja gestão se pretende transferir.»
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/237/2011/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d5a9e0ab7be94287a2fcff4a71a6ef0e68d1c9cf37aa6bf9e1be3bc43871bd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b7662047f6a085e02b0730d0b07db2b394cbc707a3cbc2843bdba5c34962f45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Classificação de Espectáculos
-- Inspecção Geral das Actividades Culturais
 - Etiquetagem
 - Impresso
+- Inspecção Geral das Actividades Culturais
 - Material Audiovisual
 - Preço
 - Taxa
@@ -79,20 +79,39 @@ relationships:
   target: pt:dre:145257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566624:por
+  label: "Suspensa pelo prazo de 45 dias (até 26.11.2011) a produção de efeitos do presente diploma pela PORT.277-A/2011.13.10.2011.PCM,\
+    \ DR.IS [197-Supl] de 13.10.2011, a contar da sua data de publicação (13.10.2011).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-a-2011-566624
+  date: '2011-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145257:por
+  label: "Revogada pela PORT.304/2011.07.12.2011.PCM, DR.IS [234] de 07.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-2011-145257
+  date: '2011-12-07'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:22Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +160,7 @@ Por cada etiqueta a Inspecção-Geral das Actividades Culturais cobra a importâ
 
 A presente portaria entra em vigor 120 dias após a sua publicação.
 
-**A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 1 de Junho de 2011.**
+A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas, em 1 de Junho de 2011.
 
 ## ANEXO — Modelos descritos no artigo 2.º
 
@@ -151,11 +170,11 @@ Referência cromática - pantone n.º 3115
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Maiores de 6
 
@@ -163,11 +182,11 @@ Referência cromática - pantone n.º 3385
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Maiores de 12
 
@@ -175,11 +194,11 @@ Referência cromática - pantone n.º 109
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Maiores de 16
 
@@ -187,11 +206,11 @@ Referência cromática - pantone n.º 151
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Maiores de 18
 
@@ -199,11 +218,11 @@ Referência cromática - pantone Warm Red
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Maiores de 18P
 
@@ -211,8 +230,8 @@ Referência cromática - pantone Reed 032
 
 Aluguer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
 
 Venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11400/0316903170.pdf)

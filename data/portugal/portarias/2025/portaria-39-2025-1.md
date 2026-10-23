@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03200/0001100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/2025/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-2025-907471182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e94542c1d3c126db19c5fcad35e3c2cf53e454e5273de5ee8180e0e83d5503cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da7f631620d6e5cf1ddd666cf901003c7f80e5cb63ee2ff1fe7b252a9d86960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Prestações da Segurança Social
+- Regulamentação de Atos Legislativos
 - Rendimento Social de Inserção
 - Segurança Social
 relationships:
+- type: amends
+  target: pt:numero:portaria:257/2012
+  label: Altera, a partir de 15 de fevereiro de 2025, com efeitos a partir de 1 de janeiro de 2025, o artigo 31.º da Portaria
+    n.º 257/2012, de 27 de agosto, Diário da República n.º 165/2012, Série I
+  source: null
+  date: '2012-08-27'
 - type: cites
   target: 'eli:http:'
   label: null
@@ -114,16 +120,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/2021/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/65/2021/03/17/p/dre
+- type: cites
+  target: pt:dre:105687068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107976097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114738297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117942335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159614842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206350930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229857696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73017523:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:29Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +194,7 @@ Nos termos do artigo 9.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/
 
 ###### Artigo 1.º — Âmbito
 
-A presente portaria procede à 10.ª alteração da [Portaria n.º 257/2012](https://diariodarepublica.pt/dr/detalhe/portaria/257-2012-174554), de 27 de agosto, alterada pelos Decretos-Leis n.<sup>os</sup>[13/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986), de 25 de janeiro, e [1/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2016-73017523), de 6 de janeiro, e pelas Portarias n.<sup>os</sup>[5/2017](https://diariodarepublica.pt/dr/detalhe/portaria/5-2017-105687068), de 3 de janeiro, [253/2017](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), de 8 de agosto, [52/2018](https://diariodarepublica.pt/dr/detalhe/portaria/52-2018-114738297), de 21 de fevereiro, [22/2019](https://diariodarepublica.pt/dr/detalhe/portaria/22-2019-117942335), de 17 de janeiro, [65/2021](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), de 17 de março, [32/2023](https://diariodarepublica.pt/dr/detalhe/portaria/32-2023-206350930), de 20 de janeiro, e [420/2023](https://diariodarepublica.pt/dr/detalhe/portaria/420-2023-229857696), de 11 de dezembro.
+A presente portaria procede à 10.ª alteração da [Portaria n.º 257/2012](https://diariodarepublica.pt/dr/detalhe/portaria/257-2012-174554), de 27 de agosto, alterada pelos Decretos-Leis n.os[13/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986), de 25 de janeiro, e [1/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2016-73017523), de 6 de janeiro, e pelas Portarias n.os[5/2017](https://diariodarepublica.pt/dr/detalhe/portaria/5-2017-105687068), de 3 de janeiro, [253/2017](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), de 8 de agosto, [52/2018](https://diariodarepublica.pt/dr/detalhe/portaria/52-2018-114738297), de 21 de fevereiro, [22/2019](https://diariodarepublica.pt/dr/detalhe/portaria/22-2019-117942335), de 17 de janeiro, [65/2021](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), de 17 de março, [32/2023](https://diariodarepublica.pt/dr/detalhe/portaria/32-2023-206350930), de 20 de janeiro, e [420/2023](https://diariodarepublica.pt/dr/detalhe/portaria/420-2023-229857696), de 11 de dezembro.
 
 ###### Artigo 2.º — Alteração da [Portaria n.º 257/2012](https://diariodarepublica.pt/dr/detalhe/portaria/257-2012-174554), de 27 de agosto
 
@@ -162,4 +212,6 @@ O artigo 31.º da [Portaria n.º 257/2012](https://diariodarepublica.pt/dr/detal
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 10 de fevereiro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 6 de fevereiro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 10 de fevereiro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 6 de fevereiro de 2025.
+
+118681771

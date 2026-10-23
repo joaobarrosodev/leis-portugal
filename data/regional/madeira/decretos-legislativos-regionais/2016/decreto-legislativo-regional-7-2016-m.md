@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03400/0051400521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2016/02/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2016-73643064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 585a17bb0e88957daabca20af47bfa5581e14885bb4c911afd3c39fc2f7a6f0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b046bc9d46ff1e283166625904605a22f95432dfeb96dcccfa9396cdbb6b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Equipamento de Elevação
-- Multa
 - Contra-ordenação
-- Especificação Técnica
-- Segurança Pública
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Publicitação
+- Direção Regional da Economia e Transportes
+- Elevador
+- Equipamento de Elevação
+- Especificação Técnica
+- Fiscalização
+- Madeira.região Autónoma
+- Multa
 - Normas de Segurança
 - Página na Internet
 - Pessoal de Inspecção
 - Pessoal Técnico
+- Publicitação
 - Qualificação Profissional
-- Madeira.região Autónoma
 - Regime Jurídico
 - Sanção
 - Segurança das Instalações
-- Elevador
+- Segurança Pública
 - Taxa
-- Direção Regional da Economia e Transportes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2008/08/26/p/dre
@@ -128,16 +128,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/65/2013/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/2013/08/27/p/dre
+- type: cites
+  target: pt:dre:147794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:07Z'
   warnings: []
   errors: []
 ---
@@ -436,11 +492,11 @@ O presente diploma entra em vigor noventa dias após sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de dezembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 27 de janeiro de 2016.**
+Assinado em 27 de janeiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

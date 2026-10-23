@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23700/0002300027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2024/12/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-899204487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 160e397286de8e07b9bb439d2ae62b1299ec61eb20244fc4ff14fd9c35e2675f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f82d7f770a19e0a9e42393f0b5e8d9a35876fee25e4a89861e949b4e2ec836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Ordenamento do Território
+- Baldio
 - Contrato Programa
-- Regulamentação de Atos Legislativos
+- Incêndio
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Prevenção de Incêndios
+- Projeto
 - Proteção da Floresta
 - Reconversão da Produção
-- Baldio
-- Madeira.região Autónoma
-- Projeto
-- Sistema Nacional do Cadastro Predial
+- Regulamentação de Atos Legislativos
 - Sistema de Informação Cadastral Simplificada
+- Sistema Nacional do Cadastro Predial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/72/2023/08/23/p/dre
@@ -118,16 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206269671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220219335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:52Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +190,7 @@ Foi ouvida a Associação de Municípios da Região Autónoma da Madeira.
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto no n.º 1 do artigo 36.º do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelo [Decreto Legislativo Regional n.º 13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e pelo [Decreto Legislativo Regional n.º 34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, na alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º e na alínea i) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto no n.º 1 do artigo 36.º do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelo [Decreto Legislativo Regional n.º 13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e pelo [Decreto Legislativo Regional n.º 34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, na alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º e na alínea i) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -268,10 +308,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 3 de dezembro de 2024.**
+Assinado em 3 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118423907

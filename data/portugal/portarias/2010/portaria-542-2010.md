@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/542/2010/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-2010-334126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3749528137d50fd8855d341afc429ab64d1f75e8e40f4d86c1b6117e91c9860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 611b5cbffc5136405bc740df4526509441010ed854fbbd363c971a5433c64599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ reuse:
 subjects:
 - Comissão Arbitral
 - Contrato de Compra e Venda
-- Energia Hidroelétrica
 - Direcção Geral de Geologia e Energia
+- Energia Hidroelétrica
 - Produtor
 - Rede Nacional de Transporte de Energia Elétrica
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:426741:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426741:por
+  label: "Alterado o art. 6.º da Port 96/2004, de 23-jan, na redação do presente diploma, pela PORT.301-A/2013.14.10.2013.MAOTE,\
+    \ DR.IS [198-Supl] de 14.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-a-2013-426741
+  date: '2013-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/2003/09/02/p/dre
   label: null
@@ -91,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/96/2004/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/96/2004/01/23/p/dre
+- type: cites
+  target: pt:dre:509786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608927:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:57Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +151,9 @@ O n.º 4 do artigo 6.º e o n.º 2 do anexo ii da [Portaria n.º 96/2004](https:
 
 4 - A remuneração anual deve ser calculada à taxa swap interbancária de prazo mais próximo ao horizonte de amortização legal dos terrenos em causa, verificada no 1.º dia de cada período, divulgada pela Reuters, acrescida de 50 basis points.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -155,4 +171,4 @@ O n.º 4 do artigo 6.º e o n.º 2 do anexo ii da [Portaria n.º 96/2004](https:
 
 A presente portaria produz efeitos a partir de 1 de Janeiro de 2011.
 
-**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 2 de Julho de 2010.**
+O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 2 de Julho de 2010.

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1203577:por
-title: Portaria n.º 771/2000(2.ªsérie)
+title: Portaria n.º 771/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-2000-1203577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T16:13:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a83a3b95ae88c8ba7a2764f545a6ef3d51bf243873be6c1bae23dea2a15f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5bb1fd5724113c73afc8d530a0db55ae965467168bbdccfc7bfb17a52dbbb32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:13:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Financeira do Estado
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Aquisição de Equipamento
+- Contrato
+- Equipamento Informático
+relationships:
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:13:36Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 771/2000(2.ªsérie)
+# Portaria n.º 771/2000 (2.ª série)
 
 Portaria n.º 771/2000 (2.ª série). - Através da portaria n.º 567/99, de 27 de Maio, procedeu-se à prorrogação, pelo período de um ano, da validade dos contratos públicos de aprovisionamento para o apetrechamento dos serviços e organismos da Administração Pública com os equipamentos e serviços adequados ao processamento das aplicações informáticas desenvolvidas no âmbito da reforma da administração financeira do Estado, homologados pela portaria n.º 369/98, de 24 de Março.
 

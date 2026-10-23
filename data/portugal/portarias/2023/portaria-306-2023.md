@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0017500177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/306/2023/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-2023-222583138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74def6d963a2c922930228844c571560c5a4c89744e259404ad55f8d13ab23fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98b07222e07df9bad999ec35ed3418b8b0682d1f62d81baa78112bca69bf900f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,37 @@ reuse:
 subjects:
 - Água
 - Água Mineral
-- Recursos Hídricos
-- Zona de Proteção
 - Águas Subterrâneas
+- Recursos Hídricos
 - Viseu
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:31Z'
   warnings: []
   errors: []
 ---
@@ -127,13 +139,14 @@ c) «Zona alargada», delimitada pelo polígono F-G-H-I-J-K, cujos vértices tê
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de setembro de 2023.**
+A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 25 de setembro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Base cartográfica do Centro de Informação Geoespacial do Exército
 
-![](https://files.diariodarepublica.pt/images/222583138/222590881.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222583138/222590881.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -141,18 +154,18 @@ TABELA I
 
 Coordenadas do vértice da zona imediata
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Vértice | X (m) | Y (m) | Raio da circunferência (m) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Captação F5... | 24 758,05 | 145 779,24 | 60 |
 
 TABELA II
 
 Coordenadas dos vértices da zona intermédia
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | A... | 24 659 | 146 325 |
 | B... | 25 271 | 145 803 |
 | C... | 24 888 | 145 415 |
@@ -163,12 +176,16 @@ TABELA III
 
 Coordenadas dos vértices da zona alargada
 
-|  |  |  |
-| --- | --- | --- |
 | Vértice | X (m) | Y (m) |
+| --- | --- | --- |
+|  |  |  |
 | F... | 24 849 | 146 727 |
 | G... | 25 583 | 146 369 |
 | H... | 25 958 | 145 450 |
 | I... | 25 041 | 144 054 |
 | J... | 23 027 | 145 200 |
 | K... | 23 331 | 146 013 |
+
+116924532
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

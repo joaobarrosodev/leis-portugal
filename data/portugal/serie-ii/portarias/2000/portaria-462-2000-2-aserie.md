@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1162299:por
-title: Portaria n.º 462/2000(2.ªsérie)
+title: Portaria n.º 462/2000 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-2000-1162299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T16:12:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7de9ff23fdd0ea7de194d74958d2ca312e13c37d404bdab431236bfacaf16e73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8446b8add6ef1f259935fa8241e71666ef6d1ee12abcbc7dedb23457382a6ec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:12:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Água
+- ÁGUA Potável
+- ÁGUA Superficial
+- Controlo de Qualidade
+- Controlo Sanitário
+- Gestão dos Recursos
+- Recursos Hídricos
+- Saúde Pública
+- Tratamento de ÁGUA
 relationships:
 - type: cites
   target: celex:31975L0440
   label: null
   source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:12:32Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 462/2000(2.ªsérie)
+# Portaria n.º 462/2000 (2.ª série)
 
 Portaria n.º 462/2000 (2.ª série). - A Directiva n.º 75/440/CEE, do Conselho, de 16 de Junho, transposta para o direito interno pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, estipula no n.º 2 do artigo 4.º que os Estados membros deverão estabelecer um plano de acção orgânico, de âmbito nacional, que contemple a calendarização das medidas necessárias à protecção e melhoria da qualidade das águas doces superficiais destinadas à produção de água para consumo humano.
 
@@ -128,10 +142,10 @@ e) Intensificação e melhoramento da monitorização da qualidade das águas.
 
 Classificação da qualidade da água nas origens superficiais que servem populações superiores a 10 000 habitantes (com base nos parâmetros com VMA do anexo I do [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto) (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf))](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf)
 
 (nota 1) Classificação relativa ao valor imperativo sem considerar o parâmetro temperatura, por se assumir que os seus valores elevados são devidos a causas naturais.
 
 ## ANEXO II — Calendário da realização das medidas e acções
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf))](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/03/072000000/0566405674.pdf)

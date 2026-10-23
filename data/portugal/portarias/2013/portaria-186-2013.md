@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/186/2013/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-2013-261123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fa537520bcc5c340b72dfc8df06b1450eda2e14925e3e4da91e4de81f518b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d8a2cea347fd038bf14ab0a837bf283c77b3588d4362341e05d9c48bc6888cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
-- Gestão dos Recursos
-- Recursos do Mar
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Quota de Pesca
-- Regulamento CE
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32005R2166
@@ -91,15 +91,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/187/2009/02/20/p/dre
 article_structure:
-  article_count: 16
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:01Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +156,9 @@ iii) Zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António
 
 10 - A repartição das quotas prevista nos n.º 1 e n.º 2 é divulgada na página da Internet da DGRM em www.dgrm.min-agricultura.pt.
 
-###### Artigo 2.º — Transferência de quota
+Artigo 2.º
+
+Transferência de quota
 
 1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, e a cedência de quotas a favor das embarcações a que se refere o n.º 7 do artigo 1.º, até ao limite definido no despacho referido no n.º 1 do mesmo artigo.
 
@@ -170,13 +172,17 @@ iii) Zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António
 
 6 - As capturas efetuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis.
 
-###### Artigo 3.º — Gestão das capturas
+Artigo 3.º
+
+Gestão das capturas
 
 1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º é responsável pela gestão das quotas atribuídas ou das quantidades disponíveis por via da transferência de quotas.
 
 2 - ...
 
-###### Artigo 4.º — Esforço de pesca
+Artigo 4.º
+
+Esforço de pesca
 
 1 - É obrigatória a comunicação prévia à DGRM, por telecópia ou correio eletrónico, através dos endereços indicados para o efeito no sítio da Internet da DGRM, por parte dos armadores ou dos mestres das embarcações de pesca referidas nos n.º 2 e n.º 7 do artigo 1.º:
 
@@ -204,7 +210,9 @@ c) Das situações de trânsito entre portos ou atravessamento de área regulame
 
 10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objeto de redistribuição, por despacho do diretor-geral da DGRM, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.
 
-###### Artigo 5.º — Proibição de pesca
+Artigo 5.º
+
+Proibição de pesca
 
 1 - ...
 
@@ -228,7 +236,7 @@ A Portaria n.º 187/2009, de 20 de fevereiro, alterada e republicada pela Portar
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 9 de maio de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 9 de maio de 2013.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

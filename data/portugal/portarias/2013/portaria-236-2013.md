@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/236/2013/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2013-498767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 092dd42d019f77335374ffa6eef8f51d9e18c539d4184587607f9a405f489259
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 186bdd384b3229775c48f51ef49ddf8461a4b04d22d17bd99b6adcfa673ab752
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
+- Apoio ao Investimento
 - Associação Comercial
-- Financiamento
-- Empresa
-- Estabelecimento Comercial
+- Comércio
 - Contrato
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
+- Estabelecimento Comercial
+- Financiamento
 - Fundo de Modernização do Comércio
+- IAPMEI
+- Investimento Privado
+- Projeto de Investimento
+- QREN
 - Regime de Apoio
 - Regulamento
-- Investimento Privado
-- IAPMEI
 - Subsídio não Reembolsável
-- Comércio
 relationships:
 - type: cites
   target: celex:32006R1998
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:19Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +131,7 @@ Ao abrigo do n.º 1 do artigo 6.º do Decreto-Lei n.º 287/2007, de 17 de agosto
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 8 de julho de 2013.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 8 de julho de 2013.
 
 ## ANEXO — REGULAMENTO DA MEDIDA "COMÉRCIO INVESTE"
 
@@ -293,7 +293,7 @@ a) Critério A - grau de integração do projeto face às áreas de investimento
 
 i) Pontuação correspondente às áreas de investimento com despesa elegível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
 
 ii) As áreas de investimento definidas nas alíneas a) e b) do n.º 1 do artigo 6.º apenas são consideradas para este efeito, caso cada uma delas corresponda a pelo menos 10 % do investimento elegível do projeto;
 
@@ -303,7 +303,7 @@ b) Critério B - criação líquida de postos de trabalho, classificada da segui
 
 i) Pontuação correspondente ao número de postos de trabalho criados pela empresa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
 
 ii) A criação líquida de postos de trabalho na empresa é calculada através da diferença entre o valor de postos de trabalho existente no final do segundo mês após a conclusão do projeto, e o valor de postos de trabalho existente no final do mês anterior ao da data de abertura da fase de candidaturas.
 
@@ -335,7 +335,7 @@ i) Na candidatura os promotores devem, demonstrar o enquadramento do projeto nas
 
 ii) Pontuação correspondente ao número de prioridades abrangidas pelo projeto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
 
 2 - A pontuação final (PF) do projeto é calculada através da seguinte fórmula:
 
@@ -535,7 +535,7 @@ a) Critério A - grau de abrangência do projeto na criação de novos serviços
 
 i) Pontuação correspondente às ações de investimento com despesa elegível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
 
 Para efeitos deste indicador não serão consideradas como ações de investimento as que não sejam consideradas relevantes no âmbito dos objetivos subjacentes ao projeto.
 
@@ -577,7 +577,7 @@ i) Na candidatura os promotores devem evidenciar o enquadramento do projeto nas 
 
 ii) Pontuação correspondente ao número de prioridades abrangidas pelo projeto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0434204352.pdf)
 
 2 - A pontuação final (PF) do projeto conjunto é calculada através da seguinte fórmula:
 

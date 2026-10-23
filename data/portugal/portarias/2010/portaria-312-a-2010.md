@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 112/2010, 1º Suplemento, Série I de 2010-06-11
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1994-(2) a 1994-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11201/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312-a/2010/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2010-207801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a50d82e4570a11219b1eeda5cff279ed9cfcc772599be482d40d54f6227ec2c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4abec34eddddf9b075c67190f1d8c0f157a5068f86d65b539bbe1e2061fd5913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Fixação de Preços
+- Indústria Farmacêutica
+- Infarmed
 - Medicamento
 - Preço
 - Preço de Venda
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:477133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642687:por
+  label: "Alterados os art.s 5º e 11º, pela PORT.337-A/2010.16.06.2010.MEID, DR.IS [115-Supl] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-a-2010-642687
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:671941:por
+  label: "Alterado o art. 10º, pela PORT.1041-A/2010.07.10.2010.MEID, DR.IS [195-Supl] de 07.10.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1041-a-2010-671941
+  date: '2010-10-07'
+- type: amended_by
+  target: pt:dre:374643:por
+  label: "Adiados, por um período de três meses, renovável automaticamente por igual período, no ano de 2011, os prazos fixados\
+    \ no nº 2 do art. 5º e no nº 3 do art. 6º do presente diploma, pela PORT.112-B/2011.22.03.2011.MEID, DR.IS [57-Supl] de\
+    \ 22.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/112-b-2011-374643
+  date: '2011-03-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/2008/09/05/p/dre
   label: null
@@ -95,16 +112,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/300-a/2007/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/300-a/2007/03/19/p/dre
+- type: cites
+  target: pt:dre:180982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:477133:por
+  label: "Revogado o presente diploma, a partir de 03.01.2012, alterada pelas Port 337-A/2010 de 16-Jun e 1041-A/2010 de 07-Out,\
+    \ pela PORT.4/2012.02.01.2012.MEE, DR.IS [1] de 02.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2012-477133
+  date: '2012-01-02'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:37Z'
   warnings: []
   errors: []
 ---
@@ -259,4 +298,4 @@ São revogadas as Portarias n.º 300-A/2007, de 19 de Março, e n.º 154-A/2010,
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva, em 1 de Junho de 2010. - Pela Ministra da Saúde, Óscar Manuel de Oliveira Gaspar, Secretário de Estado da Saúde, em 2 de Junho de 2010.**
+O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva, em 1 de Junho de 2010. - Pela Ministra da Saúde, Óscar Manuel de Oliveira Gaspar, Secretário de Estado da Saúde, em 2 de Junho de 2010.

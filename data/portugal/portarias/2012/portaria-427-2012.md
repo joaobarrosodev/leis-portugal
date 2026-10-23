@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25200/0731907321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2012-189507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191d893b38dd31efee1523f09a618ea814aab962852b6534bc065831e151c571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f28dd2f0f8ca8b823c4268763d1b5398bc7470edf6336e016d4857e0fa0803dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Agricultura
 - Apoio à Criação do Próprio Emprego
-- Empreendedorismo
-- Empresa
-- Impulso Jovem
-- Programa Portugal Empreendedor
-- FEDER
 - Apoio ao Investimento
-- Jovem
+- Cultura
+- Desporto
+- Economia Social
+- Empreendedorismo
+- Emprego
+- Empresa
+- FEDER
+- IAPMEI
+- Impulso Jovem
 - Instituto Português do Desporto e Juventude
 - Investimento
-- Cultura
-- Economia Social
-- Emprego
+- Jovem
 - Jovem Empresário
-- Agricultura
-- IAPMEI
-- Desporto
+- Programa Portugal Empreendedor
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
@@ -93,16 +93,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70386132:por
+  label: Revogada (a partir de 26.09.2015) pelo(a) Portaria n.º 308/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2015-70386132
+  date: '2015-09-25'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:10Z'
   warnings: []
   errors: []
 ---
@@ -263,4 +276,4 @@ A presente Portaria entra em vigor no dia 1 de Janeiro de 2013.
 
 No prazo máximo de 30 dias a contar da data de entrada em vigor da presente Portaria, o Instituto Português do Desporto e Juventude, I.P. regulamenta os aspectos técnicos e operativos necessários à execução da RPGN.
 
-**O Secretário de Estado do Desporto e Juventude, Alexandre Miguel Cavaco Picanço Mestre, em 20 de dezembro de 2012. - O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de dezembro de 2012. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira, em 21 de dezembro de 2012.**
+O Secretário de Estado do Desporto e Juventude, Alexandre Miguel Cavaco Picanço Mestre, em 20 de dezembro de 2012. - O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de dezembro de 2012. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira, em 21 de dezembro de 2012.

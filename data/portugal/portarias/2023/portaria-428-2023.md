@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23800/0007600094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/428/2023/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83e3d1607b86d097fab20fad117ce08125096575cfa2cce574d5ce60262cc2ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0387b4d5902a3b59769f96df6476de2c3912d29235c2686583093f5a6840da0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exclusão Social
-- Programa CLDS
-- Contrato Local de Desenvolvimento Social
-- Regulamentação de Atos Legislativos
-- Política Social
-- Inserção Social
 - Autarquia Local
+- Contrato Local de Desenvolvimento Social
+- Exclusão Social
+- Inserção Social
+- Política Social
+- Programa CLDS
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:64/2021
+  label: Altera, a partir de 13 de dezembro de 2023, os artigos 1.º, 3.º e 4.º e o anexo e republica a Portaria n.º 64/2021,
+    de 17 de março, Diário da República n.º 53/2021, Série I
+  source: null
+  date: '2021-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2020/08/12/p/dre
   label: null
@@ -90,16 +96,28 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2021/1004/oj
   label: null
   source: http://data.europa.eu/eli/reco/2021/1004/oj
+- type: cites
+  target: pt:dre:116043539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159614841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 28
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:13Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +166,15 @@ Os artigos 1.º, 3.º e 4.º da [Portaria n.º 64/2021](https://diariodarepublic
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O programa CLDS é passível de financiamento da União Europeia, sendo-lhe aplicáveis as respetivas disposições comunitárias e nacionais.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As disposições previstas na [Portaria n.º 229/2018](https://diariodarepublica.pt/dr/detalhe/portaria/229-2018-116043539), de 14 de agosto, são aplicáveis aos CLDS 4G aprovados ao abrigo das mesmas, até à conclusão dos respetivos processos.
 
@@ -168,9 +190,13 @@ O anexo, a que se refere o artigo 2.º da [Portaria n.º 64/2021](https://diario
 
 REGULAMENTO DO 'PROGRAMA DE CONTRATOS LOCAIS DE DESENVOLVIMENTO SOCIAL'
 
-### CAPÍTULO I — [...]
+CAPÍTULO I
 
-###### Artigo 2.º — [...]
+[...]
+
+Artigo 2.º
+
+[...]
 
 1 - A identificação dos territórios de intervenção do CLDS inicia-se com a definição de uma lista de concelhos, tendo por base as suas características em termos de vulnerabilidade social e em função dos valores de um conjunto de indicadores.
 
@@ -192,11 +218,15 @@ d) [...]
 
 e) Territórios vulneráveis a contextos de emergência social e ou cenários de exceção.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 É apresentada uma candidatura por cada um dos territórios constantes da lista referida no n.º 2 do artigo 2.º e pela duração referida no artigo anterior, sem prejuízo do que for definido no aviso de abertura de candidaturas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -218,7 +248,9 @@ d) Eixo 4: Desenvolvimento social, capacitação comunitária e intervenção em
 
 6 - Através de despacho conjunto dos membros de governo responsáveis pelas áreas das finanças, autarquias locais e do trabalho, solidariedade e segurança social podem ser definidos novos eixos de intervenção, para além daqueles a que se refere o n.º 1.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -230,7 +262,9 @@ d) Eixo 4: Desenvolvimento social, capacitação comunitária e intervenção em
 
 5 - O plano de ação deve ter metas alinhadas com os instrumentos referidos no n.º 2.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Consideram-se inseridas no âmbito do eixo 1, as seguintes ações:
 
@@ -250,7 +284,9 @@ c) Desenvolver ações de apoio à capacitação, empregabilidade e integração
 
 d) Desenvolver ações que estimulem as capacidades empreendedoras e de inovação social de jovens e de outras pessoas em idade ativa, numa perspetiva de reforço da iniciativa, inovação e criatividade, que constituam uma abordagem à atividade empresarial.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Consideram-se inseridas no âmbito do eixo 2, as seguintes ações, prioritariamente dirigidas aos agregados familiares de baixos rendimentos e com crianças:
 
@@ -266,7 +302,9 @@ e) Ações dirigidas à promoção da inclusão e ao combate à discriminação 
 
 f) Desenvolvimento de iniciativas que favoreçam o acesso das crianças e jovens à informação e conhecimento sobre os seus direitos e promovam o associativismo, a participação e a intervenção cívica das crianças, dos jovens e das suas famílias.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Consideram-se inseridas no âmbito do eixo 3, as seguintes ações, as quais visam promover a autonomia, envelhecimento ativo e longevidade:
 
@@ -294,7 +332,9 @@ h) Promoção de projetos de voluntariado intra e intergeracional vocacionados p
 
 i) Atividades de âmbito local e ou regionais em complementaridade com as atividades definidas no Plano de Ação para o Envelhecimento Ativo ou Saudável.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Consideram-se inseridas no âmbito do eixo 4, as seguintes ações, preferencialmente dirigidas ao combate à pobreza de agregados familiares ou grupos com baixos rendimentos, em situação de pobreza ou vulnerabilidade, e ações enquadradas no âmbito dos cenários de exceção ou emergência:
 
@@ -316,9 +356,13 @@ h) Desenvolvimento de ações integradas que promovam o enquadramento e acompanh
 
 i) Promoção de ações de informação e formação e outras iniciativas que visem uma melhor consciência coletiva dos contextos de emergência social.
 
-### CAPÍTULO II — [...]
+CAPÍTULO II
 
-###### Artigo 11.º — [...]
+[...]
+
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -356,7 +400,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 13.º — Constituição de Equipas Técnicas do CLDS
+Artigo 13.º
+
+Constituição de Equipas Técnicas do CLDS
 
 1 - As equipas dos CLDS, são constituídas por um coordenador e técnicos superiores para o desenvolvimento das ações.
 
@@ -412,9 +458,13 @@ f) Identificar necessidades específicas em termos da implementação das açõe
 
 14 - Para complemento da intervenção prevista no n.º 8, podem ser contratados recursos externos, para desenvolvimento de ações de natureza específica e com caráter pontual, desde que essa contratação tenha um caráter complementar e não se sobreponha às ações desenvolvidas pelos técnicos.
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
 
-###### Artigo 15.º — [...]
+[...]
+
+Artigo 15.º
+
+[...]
 
 1 - O plano de ação é elaborado para o período previsto no despacho referido no n.º 2 do artigo 2.º, sendo constituído pelas ações descritas no n.º 3 do artigo 5.º, organizadas por eixo de intervenção, e deve conter:
 
@@ -444,7 +494,9 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 18.º — Condições específicas de implementação
+Artigo 18.º
+
+Condições específicas de implementação
 
 1 - [...]
 
@@ -462,7 +514,7 @@ h) [...]
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 24 de novembro de 2023. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão, em 29 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 24 de novembro de 2023. - A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão, em 29 de novembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -855,3 +907,5 @@ d) Enviar os relatórios de execução anual ao CLAS, para conhecimento.
 3 - A seleção dos técnicos a afetar às ações deve ser efetuada pela ELEA e pelo coordenador técnico do CLDS.
 
 4 - As ELEA podem reafetar técnicos com quem têm contratos de trabalho sem termo, desde que cumpram os critérios estabelecidos no n.º 2 e fiquem afetos às ações a desenvolver a tempo completo.
+
+117141652

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/362/2012/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-2012-191515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59d778bcf7abc31098d9c18257cae507e3af326da0ae694d5d962e8d1d908d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5248da1b44ad4c25cf4ff729da243bb9088ed879778d8f5f7e301728bbd9963
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Castro Marim
 - Comissão de Protecção de Crianças e Jovens
 - Criação de Serviços
@@ -72,7 +73,6 @@ subjects:
 - Instalação de Serviços
 - Menoridade
 - Tutela de Menores
-- Câmara Municipal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/332-b/2000/12/30/p/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:315502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:46Z'
   warnings: []
   errors: []
 ---
@@ -178,4 +194,4 @@ O apoio logístico necessário ao funcionamento da Comissão de Proteção é as
 
 O disposto na presente portaria produz efeitos a partir de 30 de junho de 2010, data do início de funções da Comissão de Proteção de Crianças e Jovens de Castro Marim.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.

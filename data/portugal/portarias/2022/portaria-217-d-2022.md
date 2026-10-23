@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 168/2022, 1º Suplemento, Série I de 2022-08-31
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5-(5) a 5-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16801/0000500013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217-d/2022/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-d-2022-200525836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b241773c8c803a00b03ee9d794b99d98989ac361cfc3933f573ab9824b8b97f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94c8b4430917dac60bafe92d43e8ae9064207cb8421ed883bc283b2273678603
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - ÁGUA de REGA
 - Ajuda Comunitária
-- Recursos Hídricos
 - Algarve
-- Investimento
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Regulamento
-- Agricultura
-- Fundo Ambiental
-- Plano de Recuperação e Resiliência
 - Estrutura de Missão Recuperar Portugal
+- Fundo Ambiental
+- Gestão do Ambiente
+- Investimento
+- Plano de Recuperação e Resiliência
+- Proteção do Ambiente
+- Recursos Hídricos
+- Regulamento
 - Regulamento Específico para Apoio à Submedida SM2-Reduzir Perdas de Água e Aumentar a Eficiência no Setor Agrícola-Aumento
   do Nível de Proteção do Ambiente
 relationships:
@@ -118,16 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:39Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +186,7 @@ Manda o Governo, pelo Ministro do Ambiente e da Ação Climática, nos termos do
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 30 de agosto de 2022.**
+O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 30 de agosto de 2022.
 
 ## ANEXO — Regulamento Específico para Apoio à Submedida SM2 - Reduzir Perdas de Água e Aumentar a Eficiência no Setor Agrícola - Aumento do Nível de Proteção do Ambiente
 
@@ -445,3 +465,5 @@ c) Candidaturas que apresentem recurso a tecnologias de precisão, incluindo con
 ###### Artigo 22.º — Enquadramento europeu de auxílios de Estado
 
 O presente Regulamento respeita o regime de auxílios do Estado previsto no [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão Europeia, sendo os incentivos concedidos em particular ao abrigo do respetivo artigo 36.º e capítulos i (Disposições comuns) e ii (Monitorização).
+
+115654647

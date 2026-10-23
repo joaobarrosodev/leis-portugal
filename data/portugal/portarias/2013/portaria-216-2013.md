@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216/2013/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-2013-497454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f4da9a5d65463dad9b18cefd25b8c788dca7e4c3e24a50ffaf63a3c814a60d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41ce7ae1267eb7447eb9207271ed8a90fa384c6df75e29bb763320b7645a83d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
@@ -86,16 +86,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626443:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:12Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +154,9 @@ A referida planta e a memória descritiva do presente processo podem ser consult
 
 A presente portaria produz os seus efeitos com a entrada em vigor da revisão do Plano Diretor Municipal da Lousã.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 31 de maio de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 31 de maio de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf)
 
 QUADRO ANEXO
 
@@ -140,4 +164,4 @@ Delimitação da Reserva Ecológica Nacional do concelho da Lousã
 
 PROPOSTA DE EXCLUSÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12500/0385603881.pdf)

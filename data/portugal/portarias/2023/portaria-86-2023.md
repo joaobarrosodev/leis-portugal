@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06100/0000600011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/86/2023/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9b33908c56293d4cedf02739bb2bd9a3a3ae95b9a19113146d90cd822f75623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f166ea25b5d03efb3f96123ebc203c8fc03f58fb125b4baa7b5de2264bd16d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificação Electrónica
+- Código da Execução das Penas e das Medidas Privativas da Liberdade
 - Código do Processo Civil
 - Comunicações Eletrónicas
 - Conselho Superior da Magistratura
 - Conselho Superior dos Tribunais Administrativos e Fiscais
-- Sistema Judicial
+- Direito Penal
+- Distribuição Digital
 - Documentação
+- Documento Eletrónico
 - Formulário Eletrónico
 - Gestão Processual
-- Ministério da Justiça
 - Horário de Funcionamento
-- Publicitação
-- Documento Eletrónico
+- Ministério da Justiça
 - Página na Internet
+- Plataforma Eletrónica
 - Processo Administrativo
 - Processo Judicial
-- Direito Penal
-- Código da Execução das Penas e das Medidas Privativas da Liberdade
+- Publicitação
+- SISTEMA INFORMÁTICO DE SUPORTE À ATIVIDADE DOS TRIBUNAIS
+- Sistema Judicial
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo de Círculo
 - Tribunal Administrativo e Fiscal
@@ -91,9 +94,6 @@ subjects:
 - Tribunal da Relação
 - Tribunal Judicial
 - Tribunal Tributário
-- SISTEMA INFORMÁTICO DE SUPORTE À ATIVIDADE DOS TRIBUNAIS
-- Plataforma Eletrónica
-- Distribuição Digital
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -139,16 +139,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/280/2013/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/280/2013/08/26/p/dre
+- type: cites
+  target: pt:dre:107078025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114380265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116433035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127970107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132244586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169529624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169602018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:39Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +263,9 @@ Os artigos 1.º, 16.º, 17.º e 18.º da [Portaria n.º 280/2013](https://diario
 
 7 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A distribuição dos atos processuais é efetuada de forma eletrónica, através do sistema informático de suporte à atividade dos tribunais.
 
@@ -241,7 +303,9 @@ b) Se verificar alguma irregularidade ou erro.
 
 12 - Cabe ao juiz que preside declarar a conclusão das operações de distribuição.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Tendo sido efetuada a distribuição eletrónica ou tendo sido os atos processuais praticados e apresentados eletronicamente, deve a unidade de processos verificar a ocorrência dos fundamentos de recusa previstos nas alíneas f) e h) do artigo 558.º do Código de Processo Civil.
 
@@ -251,7 +315,9 @@ b) Se verificar alguma irregularidade ou erro.
 
 4 - [...]
 
-###### Artigo 18.º — Pauta e ata
+Artigo 18.º
+
+Pauta e ata
 
 1 - A publicação dos resultados da distribuição por meio de pauta é efetuada, às 17 horas de Portugal continental, na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt, durante um período de seis meses.
 
@@ -317,7 +383,9 @@ b) Se verificar alguma irregularidade ou erro.
 
 11 - Cabe ao juiz que preside declarar a conclusão das operações de distribuição.
 
-###### Artigo 15.º — Pauta e ata
+Artigo 15.º
+
+Pauta e ata
 
 1 - A publicação dos resultados da distribuição por meio de pauta é efetuada, às 17 horas de Portugal continental, na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt, durante um período de seis meses.
 
@@ -361,4 +429,6 @@ A aplicação prática do presente regime é objeto de avaliação por uma entid
 
 2 - O disposto no artigo 4.º produz efeitos 4 meses após a data de entrada em vigor da presente portaria.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 23 de março de 2023.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 23 de março de 2023.
+
+116307458

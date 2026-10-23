@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/318/2012/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/318-2012-176361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bc260eb25ea5349c486210adff35b5e01217a5ff98eda9a68a6c8955ea0281b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3807b8938bd2f4c470d0735880ddf394e2049171caf1f5d51615935ea1ae24f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Acesso à Informação
 - Aquisição de Bens e Serviços
 - Caderno de Encargos
-- Serviço Universal de Telecomunicações
 - Comunicações Eletrónicas
 - Concurso
+- Documento Eletrónico
 - Instituto das Comunicações de Portugal
 - Publicitação
-- Documento Eletrónico
 - Serviço Público
+- Serviço Universal de Telecomunicações
 relationships:
 - type: cites
   target: celex:31991L0308
@@ -96,13 +96,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:32Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +183,7 @@ c) Programa do concurso, convite à apresentação das propostas e caderno de en
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 28 de setembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 27 de setembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 28 de setembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 27 de setembro de 2012.
 
 ## ANEXO I — PROGRAMA DO CONCURSO
 
@@ -317,7 +317,7 @@ iv. ISO 20000 - Gestão de Serviços de Tecnologias de Informação.
 
 a) Requisito de capacidade financeira traduzido de acordo com a seguinte expressão matemática, que consta do Anexo IV do CCP, aplicável por força do n.º 2 do artigo 165.º do mesmo diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 b) Em alternativa ao requisito de capacidade financeira descrito na alínea anterior, os candidatos podem apresentar declaração bancária de acordo com o modelo constante do Anexo VI do CCP (Anexo 2 do presente Programa do Concurso).
 
@@ -525,7 +525,7 @@ A adjudicação das prestações do serviço universal objeto do concurso está 
 
 ## Anexo 1 — Mapa das zonas para as quais são admitidas propostas para a prestação dos serviços, nos termos descritos nos números 1.5. e 1.6. do Programa do Concurso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 ## Anexo 2 — Modelo de declaração bancária prevista no número 12.1. b) do Programa do Concurso
 
@@ -851,11 +851,11 @@ Anexos
 
 Fazem parte integrante do Caderno de Encargos os seguintes anexos:
 
-## Anexo 1: Especificações de Serviço;
+Anexo 1: Especificações de Serviço;
 
-## Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
+Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
 
-## Anexo 3: Informação a remeter ao ICP-ANACOM;
+Anexo 3: Informação a remeter ao ICP-ANACOM;
 
 ## Anexo 4: Projeto Técnico. — Cláusula 3.ª
 
@@ -1037,7 +1037,7 @@ multiplicados pelo fator D/M, em que "D" corresponde ao número de dias de prest
 
 4. Até ao termo do prazo referido no número anterior, o cocontratante recebe a título de compensação pelos custos líquidos da prestação do serviço universal:
 
-a) Na Componente 1: [([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf) do valor do financiamento global associado à prestação desta componente, indicado como tal na proposta adjudicada, em que "D" corresponde ao número de dias de prestação do serviço no ano civil a que se reportam os custos líquidos e "M" corresponde ao número total de dias daquele ano civil;
+a) Na Componente 1: [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf) do valor do financiamento global associado à prestação desta componente, indicado como tal na proposta adjudicada, em que "D" corresponde ao número de dias de prestação do serviço no ano civil a que se reportam os custos líquidos e "M" corresponde ao número total de dias daquele ano civil;
 
 b) Na Componente 2: o valor que resultar da aplicação da fórmula seguinte: Vu x Ms, em que "Vu" corresponde ao valor unitário constante da proposta adjudicada, correspondente ao financiamento por mensalidade, e "Ms" corresponde ao número de mensalidades efetivamente objeto de desconto em cada ano civil a que se reportam os custos a compensar, observados os limites definidos no n.º 2.
 
@@ -1509,7 +1509,7 @@ O PQS6 deve ser calculado obtendo a percentagem de faturas reclamadas relativame
 
 3. Métodos de medição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 4. Objetivos de desempenho
 
@@ -1517,25 +1517,25 @@ Prazo de fornecimento da ligação inicial (PQS1)
 
 Os objetivos de desempenho aplicáveis ao PQS1 devem ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 Taxa de avarias por linha de acesso (PQS2)
 
 Os objetivos de desempenho aplicáveis ao PQS2 devem ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 Tempo de reparação de avarias (PQS3)
 
 Os objetivos de desempenho aplicáveis ao PQS3 devem ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 Queixas sobre incorreções nas facturas (PQS6)
 
 Os objetivos de desempenho aplicáveis ao PQS6 devem ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 5. Informações a prestar pelo cocontratante aos consumidores
 
@@ -1761,7 +1761,7 @@ iv. ISO 20000 - Gestão de Serviços de Tecnologias de Informação.
 
 a) Requisito de capacidade financeira traduzido de acordo com a seguinte expressão matemática, que consta do Anexo IV do CCP, aplicável por força do n.º 2 do artigo 165.º do mesmo diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 b) Em alternativa ao requisito de capacidade financeira descrito na alínea anterior, os candidatos podem apresentar declaração bancária de acordo com o modelo constante do Anexo VI do CCP (Anexo 2 do Programa do Concurso).
 
@@ -1943,7 +1943,7 @@ A adjudicação das prestações do serviço universal objeto do concurso está 
 
 ## Anexo 1 — Mapa das zonas para as quais são admitidas propostas para a prestação dos serviços, nos termos descritos nos números 1.5. e 1.6. do Programa do Concurso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 ## Anexo 2 — Modelo de declaração bancária prevista no número 12.1.b) do Programa do Concurso
 
@@ -2257,11 +2257,11 @@ Anexos
 
 Fazem parte integrante do Caderno de Encargos os seguintes anexos:
 
-## Anexo 1: Especificações de Serviço;
+Anexo 1: Especificações de Serviço;
 
-## Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
+Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
 
-## Anexo 3: Informação a remeter ao ICP-ANACOM;
+Anexo 3: Informação a remeter ao ICP-ANACOM;
 
 ## Anexo 4: Projeto Técnico. — Cláusula 3.ª
 
@@ -2413,7 +2413,7 @@ Financiamento pela prestação do Serviço Universal
 
 2. A compensação dos custos líquidos do serviço universal é efetuada no prazo de 15 meses após o termo do ano civil a que se reportam os custos líquidos, sendo apurada nos termos do n.º 3.
 
-3. Até ao termo do prazo referido no número anterior, o cocontratante recebe, a título de compensação pelos custos líquidos da prestação do serviço universal, [([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf) do valor do financiamento global associado à prestação daquele serviço, indicado como tal na proposta adjudicada, em que "D" corresponde ao número de dias de prestação do serviço no ano civil a que se reportam os custos líquidos e "M" corresponde ao número total de dias daquele ano civil.
+3. Até ao termo do prazo referido no número anterior, o cocontratante recebe, a título de compensação pelos custos líquidos da prestação do serviço universal, [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf) do valor do financiamento global associado à prestação daquele serviço, indicado como tal na proposta adjudicada, em que "D" corresponde ao número de dias de prestação do serviço no ano civil a que se reportam os custos líquidos e "M" corresponde ao número total de dias daquele ano civil.
 
 4. A compensação a receber pelo cocontratante não prejudica a obrigação que eventualmente sobre si recaia de contribuir para o fundo de compensação do serviço universal de comunicações eletrónicas, nos termos a definir em diploma próprio, em conformidade com o disposto no artigo 97.º da LCE.
 
@@ -2657,7 +2657,7 @@ O parque de postos públicos a instalar e a manter anualmente pelo cocontratante
 
 Para efeitos do cumprimento da presente obrigação, durante a vigência do contrato, a instalação de postos públicos deve ser feita com base nos limites administrativos das freguesias constantes da CAOP - Carta Administrativa Oficial de Portugal de 2010, no número total de 4.260 freguesias (considerando-se o Município do "Corvo", para estes efeitos, como uma freguesia).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 O cocontratante deve assegurar que uma parte do parque total de postos públicos a instalar seja adaptado a deficientes com cadeiras de rodas. O número de postos públicos adaptados a deficientes com cadeiras de rodas que o cocontratante deve instalar em cada zona geográfica deve ser de 5 por cento do total do parque a instalar, competindo ao cocontratante determinar a sua localização mais adequada.
 
@@ -2747,7 +2747,7 @@ O PQS deve ser calculado dividindo o número de dias completos durante o qual os
 
 3. Método de medição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 4. Objetivo de desempenho
 
@@ -2755,7 +2755,7 @@ Percentagem de postos públicos de moedas e cartão em boas condições de funci
 
 O objetivo de desempenho aplicável ao PQS é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 5. Informações a prestar pelo cocontratante aos consumidores
 
@@ -2961,7 +2961,7 @@ iv. ISO 20000 - Gestão de Serviços de Tecnologias de Informação.
 
 a) Requisito de capacidade financeira traduzido de acordo com a seguinte expressão matemática, que consta do Anexo IV do CCP, aplicável por força do n.º 2 do artigo 165.º do mesmo diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 b) Em alternativa ao requisito de capacidade financeira descrito na alínea anterior, os candidatos podem apresentar declaração bancária de acordo com o modelo constante do Anexo VI do CCP (Anexo 1 do Programa do Concurso).
 
@@ -3425,11 +3425,11 @@ Anexos
 
 Fazem parte integrante do Caderno de Encargos os seguintes anexos:
 
-## Anexo 1: Especificações de Serviço;
+Anexo 1: Especificações de Serviço;
 
-## Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
+Anexo 2: Parâmetros de Qualidade de Serviço e Objetivos de Desempenho;
 
-## Anexo 3: Informação a remeter ao ICP-ANACOM;
+Anexo 3: Informação a remeter ao ICP-ANACOM;
 
 ## Anexo 4: Projeto Técnico. — Cláusula 3.ª
 
@@ -3939,7 +3939,7 @@ Para efeitos da medição deste PQS, deve ser considerada a totalidade das chama
 
 3. Métodos de medição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 4. Objetivos de desempenho
 
@@ -3947,7 +3947,7 @@ Tempos de resposta para os serviços informativos (PQS)
 
 Os objetivos de desempenho aplicáveis ao PQS são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19800/0565705845.pdf)
 
 5. Informações a prestar pelo cocontratante aos consumidores
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 106/2012, 1º Suplemento, Série I de 2012-05-31
   number: '106'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2878-(2) a 2878-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10601/0000200003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/178-a/2012/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-a-2012-606319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f30fb2ae75dd0804a6079f5ea648109b1ceb1616d82037740b1ef9999cb76edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9afd1cc276756ffa8e677736c63cee3c70d1a017c1e6a14f09dbdd93a8604bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Alteração Climática
+- Apicultura
+- Catástrofe
 - Contribuições da Segurança Social
 - Direcção Regional de Agricultura e Pescas
 - Dívidas à Segurança Social
-- Exploração Pecuária
-- Catástrofe
-- SECA
 - Exploração Agrícola
-- Apicultura
+- Exploração Pecuária
+- Instituto da Segurança Social
 - Produção Agrícola
-- Alteração Climática
+- SECA
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:194660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178560:por
+  label: "Alterados os arts. 3.º e 7.º, pela PORT.203/2012.04.07.2012.MAMAOT, DR.IS [128] de 04.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-2012-178560
+  date: '2012-07-04'
+- type: amended_by
+  target: pt:dre:194660:por
+  label: "Alterado o art. 7º do presente diploma, na redação da Port 203/2012, de 04-jul, pela PORT.226-A/2012.01.08.2012.MAMAOT,\
+    \ DR.IS [148-Supl] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-a-2012-194660
+  date: '2012-08-01'
 - type: cites
   target: celex:32006R1857
   label: null
@@ -94,13 +105,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:40Z'
   warnings: []
   errors: []
 ---
@@ -215,4 +226,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 31 de maio de 2012.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.

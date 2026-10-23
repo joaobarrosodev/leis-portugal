@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/691/2009/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-2009-491967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a79eacd26e1dadbd794a05011d20dfc88ea27ebf0747556c89a6157203e7ab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa4c6f70d448dd61f0ef7f39a9caa5f34b2c93a45b22f44c45f319d445f33d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Administração do Ensino
-- Bailado
-- Plano de Estudos
-- Diploma
-- Horário Escolar
 - Agência Nacional para a Qualificação
-- Ensino Secundário
-- Música
-- Estabelecimento de Ensino
+- Bailado
+- Diploma
+- Ensino Artístico
 - Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Horário Escolar
+- Música
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:179304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485648:por
+  label: "Clarificado o nível de qualificação decorrente da conclusão com aproveitamento e da certificação dos cursos básicos\
+    \ criados pelo presente diploma, rectificada pela Decl Rect 59/2009, de 07-Ago, pela PORT.36/2011.13.01.2011.ME, DR.IS\
+    \ [9] de 13.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-2011-485648
+  date: '2011-01-13'
+- type: amended_by
+  target: pt:dre:671009:por
+  label: "Alterados os arts. 2.º e 9 e os anexos 1, 2, 3, 4, 5 e 6 e revogados os arts. 4º e 5º e o anexo 10, pela PORT.267/2011.15.09.2011.MECI,\
+    \ DR.IS [178] de 15.09.2011, que procede à republicação do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2011-671009
+  date: '2011-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre
   label: null
@@ -121,16 +134,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/
   label: null
   source: http://data.dre.pt/eli/port/45/
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644686:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494004:por
+  label: "Rectificados os n.ºs 5 e 8 do artigo 6.º, o n.º 12 do artigo 8.º, a alínea a) do n.º 1 e n.º 2 do artigo 11.º (produção\
+    \ de efeitos), pela DECL-RECT.59/2009.07.08.2009.PCM, DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-2009-494004
+  date: '2009-08-07'
+- type: repealed_by
+  target: pt:dre:179304:por
+  label: "Revogado, a partir de 04.08.2012, o presente diploma, na redação da Port 267/2011, de 15-set, pela PORT.225/2012.30.07.2012.MECI,\
+    \ DR.IS [146] de 30.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-2012-179304
+  date: '2012-07-30'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:44Z'
   warnings: []
   errors: []
 ---
@@ -385,43 +474,43 @@ j) O despacho n.º 75/SERE/90, de 9 de Novembro, publicado no Diário da Repúbl
 
 l) O despacho n.º 10 288/2003, de 23 de Maio.
 
-**O Secretário de Estado da Educação, Valter Vitorino Lemos, em 15 de Junho de 2009.**
+O Secretário de Estado da Educação, Valter Vitorino Lemos, em 15 de Junho de 2009.
 
 ## ANEXO N.º 1 — Curso Básico de Dança
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 2 — Curso Básico de Dança
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 3 — Curso Básico de Música
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 4 — Curso Básico de Música
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 5 — Curso Básico de Canto Gregoriano
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 6 — Curso Básico de Canto Gregoriano
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 7 — Instrumentos que podem ser ministrados
 
@@ -481,10 +570,10 @@ Violoncelo.
 
 ## ANEXO N.º 8 — Tabela de disciplinas afins na área da dança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
 ## ANEXO N.º 9 — Tabela de disciplinas afins na área da música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
 
-## ANEXO N.º 10 — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)
+## ANEXO N.º 10 — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12100/0414704156.pdf)

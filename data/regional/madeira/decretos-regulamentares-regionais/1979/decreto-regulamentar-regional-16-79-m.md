@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1979-381984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a04578c44434a22e5d3ff3a2e1b850db294dba84fd8767b93c050f08a916f85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b9159c66f0c0541f9a7d83ee26cb7eef3fe55d2ce8e3b4304c79e6518a03f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional do Trabalho
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448509:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:57Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +106,7 @@ validation:
 
 O Governo Regional da Madeira, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição e artigo 33.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 10.º, 30.º, 34.º, 35.º e 37.º do [Decreto Regulamentar Regional n.º 5/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1979-382789), de 24 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 10.º, 30.º, 34.º, 35.º e 37.º do [Decreto Regulamentar Regional n.º 5/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1979-382789), de 24 de Maio, passam a ter a seguinte redacção:
 
 ###### ARTIGO 7.º — (Assessoria Jurídica)
 
@@ -157,12 +178,12 @@ b) O lugar de adjunto do Centro de Formação Profissional será provido por nom
 
 ...
 
-###### Art. 2.º As referencias feitas ao [Decreto Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-448509) no texto do [Decreto Regulamentar Regional n.º 5/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1979-382789), de 24 de Maio, reportam-se ao [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+Art. 2.º As referencias feitas ao [Decreto Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-448509) no texto do [Decreto Regulamentar Regional n.º 5/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1979-382789), de 24 de Maio, reportam-se ao [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Junho de 1979.**
+Assinado em 30 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

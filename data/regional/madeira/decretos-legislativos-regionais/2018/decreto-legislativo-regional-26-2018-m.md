@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2018/12/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d89c984a68f60ec6539dde2def04741c5a6ca0804d4338b552be4e4a4300c349
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73d333942e00618b0364b67591eb8e4763c082302cd58fe13638eb863da0d889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
+- Agricultor
 - Ajudas de Custo
 - Alienação de Imóveis
 - Alienação de Participação Social
 - Alteração Orçamental
-- Rede
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Jogos de Fortuna e Azar
-- Médico
 - Cativação de Verba
+- Cedência de Interesse Público
+- Cessação do Contrato de Trabalho
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Código do IRC
 - Código do IRS
-- Gestão Financeira
+- Código Fiscal do Investimento
 - Concurso
-- Governo Regional
-- Obras de Conservação e Restauro
+- Conselho do Governo Regional
+- Conservador de Registos
 - Conta de Gerência
-- Arrendamento Urbano não Habitacional
+- Contabilidade Pública
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contrato Programa
+- Contribuições e Impostos
 - Controlo Financeiro
 - Cooperação Financeira
 - Cooperação Técnica
+- Cuidados Médicos
 - Definição de Competências
 - Derrama
-- Renovação Urbana
 - Deslocação em Serviço
 - Despesas Públicas
+- Desporto
+- Direção Regional do Património e Informática
 - Diretor Regional
 - Dívida Pública
 - Dívidas ao Estado
@@ -111,92 +116,133 @@ subjects:
 - Dotação Orçamental
 - Empresa Pública Regional
 - Empréstimo Obrigacionista
-- Gestão Administrativa
-- Administração Pública
-- Registos e Notariado
-- Sistema Retributivo
 - Execução do Orçamento
 - Finanças Públicas
+- Financiamento
+- Função Pública
+- Funcionário Público
 - Fundo Escolar
-- Projeto de Investimento
 - Fundos CE
 - Gabinete Governamental
-- Presidente do Governo Regional
-- Mobilidade Elétrica
-- Recrutamento de Pessoal
+- Garantia
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Orçamental
 - Gestor Público Regional
-- Conselho do Governo Regional
-- Remuneração Acessória
+- Governo Regional
+- Habitação
 - Horas Extraordinárias
 - IHM
-- Contribuições e Impostos
-- IRS
 - Incentivo Profissional
 - Indemnização Compensatória
+- Inserção Social
 - Inspecção Regional de Finanças
+- Instituto de Segurança Social da Madeira
 - Integração de Trabalhadores
+- IRC
+- IRS
+- Jogos de Fortuna e Azar
 - Locação Financeira
-- Patriram
-- Veículo Elétrico
-- Sistema de Normalização Contabilística
+- Madeira.região Autónoma
+- Médico
+- Mobilidade de Pessoal
+- Mobilidade Elétrica
+- Obras de Conservação e Restauro
 - Oneração de Imóveis
 - Operações de Tesouraria
-- Radiodifusão
+- Orçamento Participativo da Região Autónoma da Madeira
 - Orçamento Regional
 - Órgãos de Gestão
 - Passe Social
+- Patriram
 - Pessoal de Gabinete
-- Plano de Actividades
-- IRC
 - Pessoal Docente
+- Plano de Ação de Combate ao Desperdício Alimentar
+- Plano de Actividades
+- Presidente do Governo Regional
 - Produto Agro-alimentar
-- Agricultor
-- Inserção Social
-- Cuidados Médicos
-- Madeira.região Autónoma
-- Código Fiscal do Investimento
+- Projeto de Investimento
 - Prorrogação de Prazo
+- Radiodifusão
 - Receita Pública
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
+- Rede
 - Reembolso
-- Contrato de Trabalho
-- Habitação
+- Regime do Contrato de Trabalho em Funções Públicas
+- Registos e Notariado
 - Remuneração
-- Subsídio de Renda de CASA
-- Cedência de Interesse Público
-- Mobilidade de Pessoal
+- Remuneração Acessória
+- Renovação Urbana
 - Retenção na Fonte
-- Cessação do Contrato de Trabalho
 - Secretário Regional
 - Sesaram
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
-- Contabilidade Pública
+- Sistema de Normalização Contabilística
+- Sistema Retributivo
 - Subsídio
 - Subsídio de Fixação
 - Subsídio de Insularidade
+- Subsídio de Renda de CASA
 - TAXA Contributiva
 - Técnico Especialista de Gabinete
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Transferência de Verbas
 - Transporte de Passageiros
 - Transporte Público
-- Desporto
-- Autarquia Local
 - Tributação
+- Veículo Elétrico
 - Vice-presidente do Governo Regional
-- Instituto de Segurança Social da Madeira
-- Plano de Ação de Combate ao Desperdício Alimentar
-- Direção Regional do Património e Informática
-- Orçamento Participativo da Região Autónoma da Madeira
-- Conservador de Registos
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:926481290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126318034:por
+  label: Determinado que se mantenha, até à aprovação do Orçamento da Região Autónoma da Madeira para 2020, a expressão orçamental
+    da organização e funcionamento do Governo Regional, aprovada pelo presente diploma, bem como foi determinado que, até
+    à constituição formal de novas unidades de gestão, as atribuições constantes dos n.ºs 2 e 3 do art. 59.º deste diploma,
+    continuem a ser asseguradas pelas unidades que até à data as desempenham, pelo(a) Decreto Regulamentar Regional n.º 8-A/2019/M
+    - Diário da República n.º 222/2019, 1º Suplemento, Série I de 2019-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-a-2019-126318034
+  date: '2019-11-19'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do imposto aplicáveis aos sujeitos passivos de IRS residentes
+    na Região Autónoma da Madeira, previstas no art. 2.º, na redação do presente diploma, do DLR 3/2001/M de 22-fev, na versão
+    republicada pelo DLR 33/2016/M de 20-jul, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º
+    22/2020, 1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Mantido em execução o Programa de Incentivo à Mobilidade Elétrica na Região Autónoma da Madeira (PRIME-RAM) criado
+    pelo art. 63.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020,
+    Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:176800365:por
+  label: Mantido, a partir de 31.12.2021, com efeitos a 01.01,2022, em execução o Programa de Incentivo à Mobilidade Elétrica
+    na Região Autónoma da Madeira (PRIME-RAM), criado pelo art. 63.º do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-a-2021-176800365
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Mantido em execução o Programa de Incentivo à Mobilidade Elétrica na Região Autónoma da Madeira, criado pelo art.
+    63.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série
+    I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Mantido em vigor, a partir de 30 de julho de 2024, com efeitos a 01 de janeiro de 2024, a execução do Programa de
+    Incentivo à Mobilidade Elétrica na Região Autónoma da Madeira, criado pelo art. 63.º do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29, nos termos da sua alínea
+    a) do n.º 1 do artigo 88.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
 - type: cites
   target: celex:31994L0062
   label: null
@@ -249,16 +295,400 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106579666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114157368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114582931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115933862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115933868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116654091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55028878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58986482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74811912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74953322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74985443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 95
+  article_count: 81
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:19Z'
   warnings: []
   errors: []
 ---
@@ -443,7 +873,7 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodare
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf))](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
 
 2 - ...
 
@@ -487,7 +917,7 @@ O artigo 2.º do [Decreto Legislativo Regional n.º 2/2001/M](https://diariodare
 
 2 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf))](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
 
 3 - ...
 
@@ -1241,7 +1671,9 @@ Contribuição regional sobre os sacos de plástico
 
 Pelo presente decreto legislativo regional é criado e aprovado o regime jurídico da contribuição regional sobre os sacos de plástico, o qual se rege pelo disposto nos artigos seguintes.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A contribuição regional criada pelo presente diploma incide sobre os sacos de plástico produzidos, importados ou adquiridos na Região Autónoma da Madeira, bem como sobre os mesmos sacos que sejam expedidos para esta Região.
 
@@ -1261,27 +1693,37 @@ b) 3923 29 10, sacos de quaisquer dimensões de policloreto de vinilo;
 
 c) 3923 29 90, sacos de quaisquer dimensões, de outros plásticos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 São sujeitos passivos da contribuição regional criada pelo presente diploma os produtores ou importadores de sacos de plástico, com sede ou estabelecimento estável na Região Autónoma da Madeira, bem como os adquirentes de sacos de plástico a fornecedores com sede ou estabelecimento estável noutro Estado-Membro da União Europeia, no território continental ou na Região Autónoma dos Açores.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Constitui facto gerador da contribuição a produção, a importação e a aquisição intracomunitária de sacos de plástico.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A contribuição regional sobre os sacos de plástico é exigível no momento da sua introdução no consumo.
 
 2 - Considera-se introdução no consumo a alienação de sacos de plástico pelos sujeitos passivos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - A introdução no consumo processada através de DIC é regulamentada pela portaria prevista no artigo 4.º do presente diploma.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Estão isentos da contribuição regional os sacos de plástico que:
 
@@ -1295,11 +1737,15 @@ d) Não tendo alças ou pegas, e com uma parede de espessura inferior a 50 micr�
 
 e) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Sobre cada saco de plástico com alças e sobre cada saco de plástico de caixa incidirá uma contribuição no valor de (euro) 0,12 ou de (euro) 0,04, consoante se trate ou não de um saco de plástico leve, conforme definido na alínea c) do n.º 2 do artigo 2.º do presente regime jurídico.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A contribuição sobre os sacos de plástico constitui encargo do adquirente final, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da contribuição, para o seu adquirente, a título de preço.
 
@@ -1307,11 +1753,15 @@ Sobre cada saco de plástico com alças e sobre cada saco de plástico de caixa 
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Os sujeitos passivos devem comunicar, até ao final do mês de janeiro de cada ano, à AT os dados estatísticos referentes às quantidades de sacos de plástico adquiridos e distribuídos no ano anterior, a qual reportará essa informação, até ao fim do mês subsequente, ao departamento regional com a tutela do ambiente.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os montantes gerados pela contribuição regional sobre sacos de plástico constituem receita própria da Região Autónoma da Madeira, devendo a sua afetação repartir-se da seguinte forma:
 
@@ -1321,11 +1771,15 @@ b) 24 % para o Instituto das Florestas e Conservação da Natureza, IP-RAM;
 
 c) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Os produtores ou importadores de sacos de plástico com sede ou estabelecimento estável na Região Autónoma da Madeira, bem como os adquirentes de sacos de plástico a fornecedores com sede ou estabelecimento estável noutro Estado-Membro da União Europeia, no território continental ou na Região Autónoma dos Açores, devem proceder à marcação dos sacos de plástico com a indicação da sua compatibilidade com as diferentes operações de gestão de resíduos, nomeadamente, reciclagem e compostagem, de forma a facilitar a sua separação e valorização nos processos de triagem e tratamento.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente regime jurídico compete à AT, ao departamento regional com a tutela do ambiente e a outras entidades competentes em razão da matéria, nos termos da lei.
 
@@ -1347,11 +1801,15 @@ b) Em 40 % para o Instituto das Florestas e Conservação da Natureza, IP-RAM.
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 A contribuição sobre os sacos de plástico não é considerada um gasto dedutível para efeitos de determinação do lucro tributável ou rendimento tributável das entidades a que se refere o n.º 1 do artigo 10.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Compete aos membros do Governo Regional responsáveis pelas áreas das finanças e do ambiente aprovar, no prazo máximo de 30 dias a contar da publicação do presente decreto legislativo regional, a regulamentação necessária ao disposto no presente regime jurídico.»
 
@@ -1473,14 +1931,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de dezembro de 2018.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 21 de dezembro de 2018.**
+Assinado em 21 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — (a que se refere o artigo 66.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf))](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/25100/0626006367.pdf)
+
+111940934

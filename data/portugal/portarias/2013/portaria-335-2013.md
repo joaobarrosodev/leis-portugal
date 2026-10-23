@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/335/2013/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-2013-504130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76b3678baecf97f8973d237a7b72b34a0a21e76c066a4cb2d46c373c25ff0c29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1aa97736cab9b0f16da7bd9f797e83b8d5193eb215a0cfb3e1052ea1ddd92e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Câmbio
-- Instituição de Crédito
 - Capital Social
-- Sociedade Financeira de Microcrédito
+- Instituição de Crédito
 - Instituição Financeira
 - Sociedade Administradora de Compras em Grupo
 - Sociedade de Desenvolvimento Regional
@@ -77,11 +76,19 @@ subjects:
 - Sociedade de Garantia Mútua
 - Sociedade de Investimento
 - Sociedade de Locação Financeira
+- Sociedade Financeira de Microcrédito
 - Sociedade Gestora de Cartões de Crédito
 - Sociedade Gestora de Fundos de Investimento Imobiliário
 - Sociedade Gestora de Fundos de Investimento Mobiliário
 - Sociedade Gestora de Patrimónios
 relationships:
+- type: amended_by
+  target: pt:dre:70693922:por
+  label: Alterado, a partir de 16.10.2015, o art. 1.º e revogadas as als g) e m) do mesmo art 1.º da Port 95/94 de 09-fev,
+    na versão republicada pelo presente diploma, pelo(a) Portaria n.º 362/2015 - Diário da República n.º 202/2015, Série I
+    de 2015-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-2015-70693922
+  date: '2015-10-15'
 - type: cites
   target: celex:32009L0065
   label: null
@@ -97,13 +104,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:52Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +197,7 @@ São revogadas as Portarias n.os 28/94, de 11 de janeiro, 1403/2002 (2.ª série
 
 É republicada, em anexo, que faz parte integrante da presente portaria, a Portaria n.º 95/94, de 9 de fevereiro, com a redação atual.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 1 de novembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 1 de novembro de 2013.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17700/0519905200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/2012/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-2012-175996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 971591a6e042e2a053e69d1fdf73b7775d87fe24fae2a60fee571a86f0fed348
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5493f9b50f27509be6f1c4a80234f85308c8775c9ed36c2f5496b97096e30ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,26 @@ subjects:
 - Centro Hospitalar
 - Centro Hospitalar de Torres Vedras
 - Centro Hospitalar do Oeste
+- Centro Hospitalar do Oeste Norte
 - Comissão de Serviço
 - Criação de Serviços
-- Serviço Nacional de Saúde
-- Centro Hospitalar do Oeste Norte
+- Estabelecimento Hospitalar
 - Integração de Serviços
 - Integração de Trabalhadores
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:115524263:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115524263:por
+  label: Extinto, a partir de 01.07.2018, por integração no ora criado Centro Hospitalar do Oeste, E.P.E., o Centro Hospitalar
+    do Oeste, no âmbito do setor público administrativo, criado pelo presente diploma, que é revogado, a partir de 01.07.2018,
+    pelo(a) Decreto-Lei n.º 44/2018 - Diário da República n.º 115/2018, Série I de 2018-06-18, e determinada a sucessão do
+    Centro Hospitalar do Oeste, E.P.E. em todos os direitos e obrigações do Centro Hospitalar a extinguir.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2018-115524263
+  date: '2018-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -122,16 +130,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654680:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:18Z'
   warnings: []
   errors: []
 ---
@@ -200,4 +276,4 @@ O regulamento interno do CHO deve ser elaborado pelo respetivo conselho de admin
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 30 de agosto de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 31 de julho de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 30 de agosto de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 31 de julho de 2012.

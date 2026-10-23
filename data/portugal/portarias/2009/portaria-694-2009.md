@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/694/2009/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2009-491934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bd2b3b41aa5ada4321a8fd6f122dcfd9b16c434be1da94b3eba7151ac1a0dd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6bd815bb7d6f69d5343336255c308c9fe08eeba72f7a7c0e541aa98cb47de33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662-j/2007/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662-j/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:340434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:46Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +150,9 @@ Os artigos 1.º, 2.º, 4.º, 9.º e 11.º dos Estatutos do Instituto Português 
 
 6 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os departamentos são dirigidos por directores e os gabinetes, ou núcleos, por chefes de divisão, respectivamente cargos de direcção intermédia dos 1.º e 2.º graus.
 
@@ -144,7 +162,9 @@ Os artigos 1.º, 2.º, 4.º, 9.º e 11.º dos Estatutos do Instituto Português 
 
 4 - Ao pessoal dirigente do IPJ, I. P., é aplicável o regime definido na Lei Quadro dos Institutos Públicos e, subsidiariamente, o fixado no Estatuto do Pessoal Dirigente da Administração Pública.
 
-###### Artigo 4.º — Departamento de Recursos Humanos, Financeiros e Patrimoniais
+Artigo 4.º
+
+Departamento de Recursos Humanos, Financeiros e Patrimoniais
 
 1 - O Departamento de Recursos Humanos, Financeiros e Patrimoniais assegura o apoio administrativo e financeiro aos órgãos e serviços do IPJ, I. P., a gestão dos recursos humanos, bem como o planeamento, organização e coordenação do serviço cívico dos objectores de consciência.
 
@@ -192,7 +212,9 @@ u) Emitir o cartão de identificação e a caderneta civil de objector de consci
 
 v) [Anterior alínea i).]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +238,9 @@ h) Acompanhar e organizar o processo de licenciamento de campos de férias e man
 
 i) Assegurar as demais funções que lhes sejam cometidas pelo presidente.
 
-###### Artigo 11.º — Equipas de projecto
+Artigo 11.º
+
+Equipas de projecto
 
 1 - ...
 
@@ -234,4 +258,4 @@ A presente portaria entra em vigor no dia a seguir ao da sua publicação.
 
 Em 24 de Março de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.

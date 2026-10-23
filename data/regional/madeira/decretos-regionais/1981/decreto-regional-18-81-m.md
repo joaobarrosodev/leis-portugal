@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1981-564243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ecef64588004e2a2ed6102be9348b2615571cf346dee8f534aacd992955d2e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 296460b8e97eb079b2c3e139ce98f8c789878a691dbd21643c679329dd6c5dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Regional de Publicidade
+- Madeira.região Autónoma
+- Publicidade
+relationships:
+- type: cites
+  target: pt:dre:461621:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:42Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +97,11 @@ Mostrando-se conveniente estender à Região, com as devidas adaptações, aquel
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621), de 30 de Setembro, aplica-se à Região Autónoma da Madeira com as modificações constantes dos artigos seguintes.
+Artigo 1.º O [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621), de 30 de Setembro, aplica-se à Região Autónoma da Madeira com as modificações constantes dos artigos seguintes.
 
-###### Art. 2.º A concessão da autorização a que se refere o artigo 31.º incumbe ao director Regional da Saúde Pública, havendo recurso para o Secretário Regional dos Assuntos Sociais dos despachos de indeferimento.
+Art. 2.º A concessão da autorização a que se refere o artigo 31.º incumbe ao director Regional da Saúde Pública, havendo recurso para o Secretário Regional dos Assuntos Sociais dos despachos de indeferimento.
 
-###### Art. 3.º - 1 - criado o Conselho Regional de Publicidade com a seguinte constituição:
+Art. 3.º - 1 - criado o Conselho Regional de Publicidade com a seguinte constituição:
 
 a) 2 representantes da Presidência do Governo;
 
@@ -126,22 +133,22 @@ l) 3 representantes dos meios de comunicação regionais, sendo 1 da imprensa, 1
 
 4 - Ao Conselho Regional de Publicidade pertencem, com as necessárias adaptações, as atribuições e competência do Conselho de Publicidade.
 
-###### Art. 4.º A aplicação das multas previstas no [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621) é na Região Autónoma da competência do membro do Governo Regional que superintender na comunicação social, ouvido o Conselho Regional de Publicidade, cabendo recurso contencioso nos termos gerais de direito.
+Art. 4.º A aplicação das multas previstas no [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621) é na Região Autónoma da competência do membro do Governo Regional que superintender na comunicação social, ouvido o Conselho Regional de Publicidade, cabendo recurso contencioso nos termos gerais de direito.
 
-###### Art. 5.º As disposições regulamentares adequadas à boa execução deste decreto serão aprovadas por decreto regulamentar do Governo Regional, que poderá determinar a extensão à Região Autónoma dos diplomas a que alude o artigo 47.º do [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621).
+Art. 5.º As disposições regulamentares adequadas à boa execução deste decreto serão aprovadas por decreto regulamentar do Governo Regional, que poderá determinar a extensão à Região Autónoma dos diplomas a que alude o artigo 47.º do [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621).
 
-###### Art. 6.º As despesas resultantes da execução deste decreto serão satisfeitas por conta das dotações orçamentais da Secretaria-Geral da Presidência do Governo, que prestará ao Conselho Regional de Publicidade o necessário apoio jurídico e administrativo.
+Art. 6.º As despesas resultantes da execução deste decreto serão satisfeitas por conta das dotações orçamentais da Secretaria-Geral da Presidência do Governo, que prestará ao Conselho Regional de Publicidade o necessário apoio jurídico e administrativo.
 
-###### Art. 7.º As dúvidas acerca da interpretação do presente decreto serão resolvidas por despacho do Presidente do Governo Regional.
+Art. 7.º As dúvidas acerca da interpretação do presente decreto serão resolvidas por despacho do Presidente do Governo Regional.
 
-###### Art. 8.º Nenhum membro do Conselho auferirá vencimento, senha de presença ou qualquer outra remuneração.
+Art. 8.º Nenhum membro do Conselho auferirá vencimento, senha de presença ou qualquer outra remuneração.
 
-###### Art. 9.º O presente decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 31 de Julho de 1981.
 
-**O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional em exercício, António Gil Inácio da Silva.
 
-**Assinado em 24 de Agosto de 1981.**
+Assinado em 24 de Agosto de 1981.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

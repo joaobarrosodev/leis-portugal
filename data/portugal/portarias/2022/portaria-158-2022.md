@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11000/0001300021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/2022/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86412706ca02e74901b8684dfc567ab02deb2f2aa31a73f252bd974bb357fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c36d71e3a9ed47d98d391fe39219d3afb04a216585c4b08483f4998775222e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Informação
-- Publicidade
 - Concurso Local de Acesso
+- Ensino Artístico
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Escola Superior de Música
-- Lisboa
 - Licenciatura
+- Lisboa
 - Música
 - Página na Internet
+- Publicidade
 - Regulamento
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -121,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/854/2010/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/854/2010/09/06/p/dre
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:14Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +217,9 @@ b) Prova específica, no âmbito do concurso local.
 
 2 - Candidatos dos Regimes Especiais, Concursos Especiais, Concurso Especial de Acesso Para Estudantes Internacionais e candidatos a mudança de par instituição/curso: a avaliação da capacidade para a frequência do ciclo de estudos é feita através da realização de prova específica, no âmbito do concurso local.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -183,17 +237,23 @@ e) [Anterior alínea d).]
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A matrícula e inscrição no ciclo de estudos está sujeita a limitações quantitativas fixadas anualmente, segundo a legislação em vigor.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - O prazo para entrega do requerimento da candidatura é fixado no edital de abertura do concurso, previsto no artigo 12.º do presente Regulamento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 No prazo fixado nos termos do artigo 25.º, o presidente do júri procede à afixação, no sítio eletrónico da Escola Superior de Educação de Lisboa, de edital indicando, designadamente:
 
@@ -203,11 +263,15 @@ b) ...
 
 c) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 São selecionados os candidatos com menção de 'apto' na prova específica.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O resultado final é tornado público através de aviso publicado no sítio eletrónico da Escola Superior de Educação de Lisboa no prazo fixado nos termos do artigo 25.º
 
@@ -221,13 +285,17 @@ c) ...
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
 2 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Quando se verifique a disponibilidade de vagas, os órgãos legal e estatutariamente competentes das Escolas podem decidir, conjuntamente, a realização de outras fases do concurso.
 
@@ -235,11 +303,15 @@ c) ...
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Findo o prazo de matrícula e inscrição, as Escolas enviam à Direção-Geral do Ensino Superior uma lista de onde constem todos os candidatos que procederem à mesma, com indicação do nome e número do documento de identificação.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico de Lisboa, devendo ser tornados públicos através de aviso publicado no sítio eletrónico da Escola Superior de Educação de Lisboa.»
 
@@ -257,7 +329,7 @@ São revogados a alínea d) do artigo 9.º, o n.º 2 do artigo 10.º e os n.os 3
 
 2 - As alterações aprovadas pela presente portaria produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022-2023, inclusive.
 
-**A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.**
+A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 30 de maio de 2022.
 
 ## ANEXO
 
@@ -478,3 +550,5 @@ Findo o prazo de matrícula e inscrição, as Escolas enviam à Direção-Geral 
 ###### Artigo 25.º — Prazos
 
 Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico de Lisboa, devendo ser tornados públicos através de aviso publicado no sítio eletrónico da Escola Superior de Educação de Lisboa.
+
+115385849

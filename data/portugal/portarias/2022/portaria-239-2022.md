@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18000/0000300011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2022/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40c1627fd8d98325182e9580f159ffe119c0d5423140b6cc3f7bed13b0d8aa5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58aeed7767891dc18eca760f8ca4115a93243e6841946a5706201953a675fc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Financiamento
-- Doença Animal
-- Gado Caprino
-- Direção Geral de Veterinária
-- Definição de Competências
 - Controlo Sanitário
-- PNSA
+- Definição de Competências
+- Direção Geral de Veterinária
+- Doença Animal
 - Exploração Pecuária
+- Financiamento
 - Gado Bovino
-- Organização de Produtores
+- Gado Caprino
 - Gado Ovino
-- Produto Veterinário
+- Organização de Produtores
 - Pecuária
+- PNSA
+- Produção Animal
+- Produto Veterinário
 relationships:
 - type: cites
   target: celex:32016R0429
@@ -118,16 +118,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/96/2011/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/96/2011/03/08/p/dre
+- type: cites
+  target: pt:dre:185667613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66536462:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:46Z'
   warnings: []
   errors: []
 ---
@@ -436,4 +460,6 @@ c) Acerto final até 31 de março do ano seguinte, após a conclusão do program
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 6 de setembro de 2022.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 6 de setembro de 2022.
+
+115679044

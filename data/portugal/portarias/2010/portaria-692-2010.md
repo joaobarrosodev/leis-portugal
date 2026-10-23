@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/692/2010/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-2010-343170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acfdefed55f93cb56c1d24e64e57a752a8fbc8e0b4acc49f28429eaac12a2cdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5acfa38a26561c326878fdb7add2752fe5dd67fe9f88cb8ffd8284bcbd4a743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Indústria da Panificação
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Remuneração
 - Tabela Salarial
@@ -78,13 +78,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:54Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +139,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais, de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de quatro.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 30 de Julho de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 30 de Julho de 2010.

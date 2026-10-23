@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/228/2011/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 355d66275ec4b4030c31fcbec1d6d01334dcdedc5ac760f3de7afaf4c39352aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f874111c3cc713e52d7e5aa5565ab50294721ada2dab2c4884019fb1a51d2d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Atividade Agrícola
+- Financiamento
 - Proder
 - Programa de Desenvolvimento Rural
-- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
-- Financiamento
-- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
 - Projeto de Investimento
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
-- Agricultor
 - Regulamento
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Regulamento de Aplicação da Acção 4.2.2-redes Tematicas de Informação e Divulgação
 - Regulamento de Aplicação da Acção 4.3.2-serviços de Apoio às Empresas
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
@@ -86,22 +84,63 @@ subjects:
 - Regulamento de Aplicação da Acção N.º 2.3.1-mimimização de Riscos
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Acção N.º 4.2.1-formação Especializada
+- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
 - Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 - Regulamento de Aplicação da Acção Nº 1.4.2- Informação e Promoção de Produtos de Qualidade
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Regulamento de Aplicação da Medida N.º 3.6-implantação de Redes de Banda Larga de NOVA Geração em Zonas Rurais
+- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
 - Regulamento de Aplicação da Subacção N.º 2.2.3.1-componente Vegetal
 - Regulamento de Aplicação da Subacção N.º 2.2.3.2-componente Animal
 - Regulamento de Aplicação das Acções 3.4.1-cooperação Interterritorial e 3.4.2-cooperação Transnacional
 - Regulamento de Aplicação dos Investimentos não Produtivos da Medida 2.4-intervenções Territoriais Integradas
-- Agricultura
 - Subsídio não Reembolsável
-- Regulamento de Aplicação da Medida N.º 3.6-implantação de Redes de Banda Larga de NOVA Geração em Zonas Rurais
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260437:por
+  label: "Alterados o art. 8º e os anexos I e III o do Regulamento de Aplicação das Ações n.os 3.1.1, «Diversificação de Atividades\
+    \ na Exploração Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Atividades\
+    \ Turísticas e de Lazer» aprovado pela Port 520/2009, de 14-mai, na redação do presente diploma, pela PORT.149/2013.15.04.2013.MAMAOT,\
+    \ DR.IS [73] de 15.04.2013\0.2013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2013-260437
+  date: '2013-04-15'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo III do Regulamento de Aplicação das Ações n.º 3.1.1, «Diversificação de Atividades na\
+    \ Exploração Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Atividades Turísticas\
+    \ e de Lazer», aprovado pela Port 520/2009 de 14-mai, alterado pelo presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
+- type: amends
+  target: pt:numero:portaria:828/2008
+  label: "Altera os arts. 9.º, 22.º e 24.º ( os três na redacção das portarias 739-A/2009, de 09-Jul e 814/2010, de 27-Ago\
+    \ ) e 25.º e os anexos ii ( redacção das portarias 739-A/2009, de 09-Jul e 814/2010, de 27-Ago ) e iv ( na redacção da\
+    \ Port. 814/2010, de 27-Ago ) do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva dos Povoamentos», aprovado\
+    \ pela Portaria n.º 828/2008, de 08-Ago, DR IS [153]\03]\0"
+  source: null
+  date: '2008-08-08'
+- type: amends
+  target: pt:numero:portaria:1137-C/2008
+  label: "Altera os arts. 9.º ( na redacção da Port. 814/2010, de 27-Ago ), 21.º e 23.º ( ambos na redacção da Port. 739-B/2009,\
+    \ de 09-Jul ) e 24.º e os anexos i ( na redacção das portarias 739-B/2009, de 09-Jul e 814/2010, de 27-Ago ) e iii e revoga\
+    \ os n.os 2 e 3 do art. 7.º do Regulamento de Aplicação da Acção n.º 2.3.1, «Minimização de Riscos», aprovado pela Portaria\
+    \ n.º 1137-C/2008, de 09-Out, DR IS [196] Supl\0\0"
+  source: null
+  date: '2008-10-09'
+- type: amends
+  target: pt:numero:portaria:745/2009
+  label: "Altera os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º do Regulamento de Aplicação\
+    \ da Acção n.º 4.2.2, «Redes Temáticas de Informação e Divulgação», aprovado pela Portaria n.º 745/2009, de 13-Jul, DR\
+    \ IS [133]\0\0"
+  source: null
+  date: '2009-07-13'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -118,16 +157,24 @@ relationships:
   target: celex:32011R0065
   label: null
   source: http://data.europa.eu/eli/reg/2011/65/oj
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.4 do ponto «Despesas não elegíveis» do anexo III do Regulamento de Aplicação\
+    \ da Ação n.º 2.3.2, «Ordenamento e Recuperação de Povoamentos», aprovado pela Port 1137-B/2008 de 09-out, alterado pelo\
+    \ presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art.\
+    \ 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
-  article_count: 120
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:20Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +227,9 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 7 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -192,13 +241,17 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -224,13 +277,17 @@ Os artigos 20.º, 22.º e 23.º do Regulamento de Aplicação das Medidas n.os 3
 
 5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos GAL as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -256,13 +313,17 @@ Os artigos 15.º, 17.º e 18.º do Regulamento de Aplicação da Acção n.º 2.
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Em caso de incumprimento ou irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -282,7 +343,9 @@ Os artigos 8.º, 19.º, 21.º e 22.º do Regulamento de Aplicação dos Investim
 
 2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -296,13 +359,17 @@ Os artigos 8.º, 19.º, 21.º e 22.º do Regulamento de Aplicação dos Investim
 
 6 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -326,13 +393,17 @@ Os artigos 18.º, 20.º e 21.º do Regulamento de Aplicação da Acção n.º 4.
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis às entidades promotoras as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -366,7 +437,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -378,13 +451,17 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
@@ -404,7 +481,9 @@ Os artigos 9.º, 21.º, 23.º e 24.º e os anexos i, ii e iii do Regulamento de 
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -416,17 +495,23 @@ Os artigos 9.º, 21.º, 23.º e 24.º e os anexos i, ii e iii do Regulamento de 
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 I - [...]
 
@@ -446,11 +531,15 @@ II - [...]
 
 7 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 9.º, são elegíveis as despesas relativas à elaboração do projecto, desde que realizadas até três meses antes da apresentação dos pedidos de apoio.
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+[...]
 
-## ANEXO III — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+
+ANEXO III
+
+[...]
 
 O limite máximo de apoio é de (euro) 500 000 por beneficiário.»
 
@@ -470,7 +559,9 @@ Os artigos 9.º, 22.º, 24.º e 25.º e os anexos ii e iv do Regulamento de Apli
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -482,17 +573,23 @@ Os artigos 9.º, 22.º, 24.º e 25.º e os anexos ii e iv do Regulamento de Apli
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -510,15 +607,19 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 2.6 - [...]
 
-## ANEXO IV — [...]
+ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+[...]
 
-### CAPÍTULO X
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+
+CAPÍTULO X
 
 Alteração ao Regulamento de Aplicação da Acção n.º 1.3.3, «Modernização e Capacitação das Empresas Florestais», aprovado pela Portaria n.º 846/2008, de 12 de Agosto.
 
-###### Artigo 10.º — Alteração ao Regulamento aprovado pela Portaria n.º 846/2008, de 12 de Agosto
+Artigo 10.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 846/2008, de 12 de Agosto
 
 Os artigos 8.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n.º 1.3.3, «Modernização e Capacitação das Empresas Florestais», aprovado pela Portaria n.º 846/2008, de 12 de Agosto, passam a ter a seguinte redacção:
 
@@ -532,7 +633,9 @@ Os artigos 8.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -544,19 +647,27 @@ Os artigos 8.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Sempre que seja detectado um incumprimento ou qualquer irregularidade pelo beneficiário, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XI — Alteração ao Regulamento de Aplicação da Acção n.º 1.6.1, «Desenvolvimento do Regadio», aprovado pela Portaria n.º 964/2008, de 28 de Agosto
+CAPÍTULO XI
 
-###### Artigo 11.º — Alteração ao Regulamento aprovado pela Portaria n.º 964/2008, de 28 de Agosto
+Alteração ao Regulamento de Aplicação da Acção n.º 1.6.1, «Desenvolvimento do Regadio», aprovado pela Portaria n.º 964/2008, de 28 de Agosto
+
+Artigo 11.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 964/2008, de 28 de Agosto
 
 Os artigos 7.º, 21.º, 23.º e 24.º do Regulamento de Aplicação da Acção n.º 1.6.1, «Desenvolvimento do Regadio», aprovado pela Portaria n.º 964/2008, de 28 de Agosto, passam a ter a seguinte redacção:
 
@@ -572,7 +683,9 @@ Os artigos 7.º, 21.º, 23.º e 24.º do Regulamento de Aplicação da Acção n
 
 4 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -584,21 +697,25 @@ Os artigos 7.º, 21.º, 23.º e 24.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 24.º
+Artigo 24.º
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XII
+CAPÍTULO XII
 
 Alteração ao Regulamento de Aplicação da Acção n.º 1.6.3, «Sustentabilidade dos Regadios Públicos», aprovado pela Portaria n.º 1137-A/2008, de 9 de Outubro.
 
-###### Artigo 12.º — Alteração ao Regulamento aprovado pela Portaria n.º 1137-A/2008, de 9 de Outubro
+Artigo 12.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1137-A/2008, de 9 de Outubro
 
 Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n.º 1.6.3, «Sustentabilidade dos Regadios Públicos», aprovado pela Portaria n.º 1137-A/2008, de 9 de Outubro, passam a ter a seguinte redacção:
 
@@ -616,7 +733,9 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -628,21 +747,27 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XIII
+CAPÍTULO XIII
 
 Alteração ao Regulamento de Aplicação da Acção n.º 2.3.2, «Ordenamento e Recuperação de Povoamentos», aprovado pela Portaria n.º 1137-B/2008, de 9 de Outubro.
 
-###### Artigo 13.º — Alteração ao Regulamento aprovado pela Portaria n.º 1137-B/2008, de 9 de Outubro
+Artigo 13.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1137-B/2008, de 9 de Outubro
 
 Os artigos 4.º, 8.º, 10.º, 24.º, 27.º e 28.º e os anexos iii e ix do Regulamento de Aplicação da Acção n.º 2.3.2, «Ordenamento e Recuperação de Povoamentos», aprovado pela Portaria n.º 1137-B/2008, de 9 de Outubro, passam a ter a seguinte redacção:
 
@@ -688,7 +813,9 @@ s) ...
 
 t) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -716,7 +843,9 @@ j) Entidades participadas pelo Estado.
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -738,7 +867,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -750,17 +881,23 @@ g) ...
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 [...]
 
@@ -776,7 +913,9 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 2.4 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 10.º, as despesas realizadas antes da data de apresentação dos pedidos de apoio, sendo, no entanto, admitidas como elegíveis as relativas à elaboração do projecto, desde que realizadas até três meses antes da presentação dos pedidos de apoio.
 
-## ANEXO IX — [...]
+ANEXO IX
+
+[...]
 
 1 - O limite máximo de apoio ao investimento por subacção e por beneficiário é de (euro) 2 500 000.
 
@@ -784,9 +923,13 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 3 - [...]»
 
-### CAPÍTULO XIV — Alteração ao Regulamento de Aplicação da Acção n.º 2.3.1, «Minimização de Riscos», aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro
+CAPÍTULO XIV
 
-###### Artigo 14.º — Alteração ao Regulamento aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro
+Alteração ao Regulamento de Aplicação da Acção n.º 2.3.1, «Minimização de Riscos», aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro
+
+Artigo 14.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro
 
 Os artigos 9.º, 21.º, 23.º e 24.º e os anexos i e iii do Regulamento de Aplicação da Acção n.º 2.3.1, «Minimização de Riscos», aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro, passam a ter a seguinte redacção:
 
@@ -802,7 +945,9 @@ Os artigos 9.º, 21.º, 23.º e 24.º e os anexos i e iii do Regulamento de Apli
 
 4 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -814,17 +959,23 @@ Os artigos 9.º, 21.º, 23.º e 24.º e os anexos i e iii do Regulamento de Apli
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -834,15 +985,19 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 2.4 - Sem prejuízo do disposto nos n.os 3 e 4 do artigo 9.º, são elegíveis as despesas relativas à elaboração do projecto, desde que realizadas até três meses antes da apresentação dos pedidos de apoio.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 O limite máximo de apoio por subacção e por beneficiá-rio é de (euro) 5 000 000 para os organismos da administração central e de (euro) 1 500 000 para os restantes beneficiários.»
 
-### CAPÍTULO XV
+CAPÍTULO XV
 
 Alteração ao Regulamento de Aplicação da Acção n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pela Portaria n.º 1137-D/2008, de 9 de Outubro.
 
-###### Artigo 15.º — Alteração ao Regulamento aprovado pela Portaria n.º 1137-D/2008, de 9 de Outubro
+Artigo 15.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1137-D/2008, de 9 de Outubro
 
 Os artigos 9.º, 22.º, 24.º e 25.º e os anexos i e iv do Regulamento de Aplicação da Acção n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pela Portaria n.º 1137-D/2008, de 9 de Outubro, passam a ter a seguinte redacção:
 
@@ -856,7 +1011,9 @@ Os artigos 9.º, 22.º, 24.º e 25.º e os anexos i e iv do Regulamento de Aplic
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -868,17 +1025,23 @@ Os artigos 9.º, 22.º, 24.º e 25.º e os anexos i e iv do Regulamento de Aplic
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -898,7 +1061,9 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 2.6 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 9.º, são elegíveis as despesas relativas à elaboração do projecto, desde que realizadas até três meses antes da apresentação dos pedidos de apoio.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - Para a subacção n.º 2.3.3.1 o limite máximo de apoio por beneficiário é de (euro) 100 000, com excepção dos seguintes casos:
 
@@ -910,11 +1075,13 @@ b) Por ZIF, fundo de investimento imobiliário florestal, organismo da administr
 
 3 - (Revogado.)»
 
-### CAPÍTULO XVI
+CAPÍTULO XVI
 
 Alteração ao Regulamento de Aplicação da Medida n.º 1.2, «Redimensionamento e Cooperação Empresarial», aprovado pela Portaria n.º 1238/2008, de 30 de Outubro.
 
-###### Artigo 16.º — Alteração ao Regulamento aprovado pela Portaria n.º 1238/2008, de 30 de Outubro
+Artigo 16.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1238/2008, de 30 de Outubro
 
 Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Medida n.º 1.2, «Redimensionamento e Cooperação Empresarial», aprovada pela Portaria n.º 1238/2008, de 30 de Outubro, passam a ter a seguinte redacção:
 
@@ -928,7 +1095,9 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Medida n.
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -940,21 +1109,27 @@ Os artigos 7.º, 20.º, 22.º e 23.º do Regulamento de Aplicação da Medida n.
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XVII
+CAPÍTULO XVII
 
 Alteração ao Regulamento de Aplicação da Acção n.º 1.4.2, «Informação e Promoção de Produtos de Qualidade», aprovado pela Portaria n.º 346/2009, de 3 de Abril.
 
-###### Artigo 17.º — Alteração ao Regulamento aprovado pela Portaria n.º 346/2009, de 3 de Abril
+Artigo 17.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 346/2009, de 3 de Abril
 
 Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação da Acção n.º 1.4.2, «Informação e Promoção de Produtos de Qualidade», aprovado pela Portaria n.º 346/2009, de 3 de Abril, passam a ter a seguinte redacção:
 
@@ -978,7 +1153,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação
 
 8 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -990,25 +1167,35 @@ Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
-
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
-
-## ANEXO II — [...]
+Artigo 22.º
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-### CAPÍTULO XVIII — Alteração ao Regulamento de Aplicação da Acção n.º 4.3.1, «Serviços de Aconselhamento Agrícola», aprovado pela Portaria n.º 481/2009, de 6 de Maio
+ANEXO II
 
-###### Artigo 18.º — Alteração ao Regulamento aprovado pela Portaria n.º 481/2009, de 6 de Maio
+[...]
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+
+CAPÍTULO XVIII
+
+Alteração ao Regulamento de Aplicação da Acção n.º 4.3.1, «Serviços de Aconselhamento Agrícola», aprovado pela Portaria n.º 481/2009, de 6 de Maio
+
+Artigo 18.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 481/2009, de 6 de Maio
 
 Os artigos 8.º, 19.º, 29.º e 30.º do Regulamento de Aplicação da Acção n.º 4.3.1, «Serviços de Aconselhamento Agrícola», aprovado pela Portaria n.º 481/2009, de 6 de Maio, passam a ter a seguinte redacção:
 
@@ -1022,7 +1209,9 @@ Os artigos 8.º, 19.º, 29.º e 30.º do Regulamento de Aplicação da Acção n
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1034,19 +1223,27 @@ Os artigos 8.º, 19.º, 29.º e 30.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro de 2005.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XIX — Alteração ao Regulamento de Aplicação da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», aprovado pela Portaria n.º 482/2009, de 6 de Maio
+CAPÍTULO XIX
 
-###### Artigo 19.º — Alteração ao Regulamento aprovado pela Portaria n.º 482/2009, de 6 de Maio
+Alteração ao Regulamento de Aplicação da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», aprovado pela Portaria n.º 482/2009, de 6 de Maio
+
+Artigo 19.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 482/2009, de 6 de Maio
 
 Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», aprovado pela Portaria n.º 482/2009, de 6 de Maio, passam a ter a seguinte redacção:
 
@@ -1064,7 +1261,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1076,21 +1275,27 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XX
+CAPÍTULO XX
 
 Alteração ao Regulamento de Aplicação das Acções n.os 3.1.1, «Diversificação de Actividades na Exploração Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Actividades Turísticas e de Lazer», aprovado pela Portaria n.º 520/2009, de 14 de Maio.
 
-###### Artigo 20.º — Alteração ao Regulamento aprovado pela Portaria n.º 520/2009, de 14 de Maio
+Artigo 20.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 520/2009, de 14 de Maio
 
 Os artigos 8.º, 21.º, 21.º-A, 23.º e 24.º e os anexos i e iii do Regulamento de Aplicação das Acções n.os 3.1.1, «Diversificação de Actividades na Exploração Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Actividades Turísticas e de Lazer», aprovado pela Portaria n.º 520/2009, de 14 de Maio, passam a ter a seguinte redacção:
 
@@ -1108,7 +1313,9 @@ Os artigos 8.º, 21.º, 21.º-A, 23.º e 24.º e os anexos i e iii do Regulament
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -1120,7 +1327,9 @@ Os artigos 8.º, 21.º, 21.º-A, 23.º e 24.º e os anexos i e iii do Regulament
 
 5 - (Revogado.)
 
-###### Artigo 21.º-A — [...]
+Artigo 21.º-A
+
+[...]
 
 1 - ...
 
@@ -1130,17 +1339,23 @@ Os artigos 8.º, 21.º, 21.º-A, 23.º e 24.º e os anexos i e iii do Regulament
 
 4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 Acção n.º 3.1.1
 
@@ -1154,7 +1369,9 @@ Todas as actividades económicas, excepto as que se inserem nas CAE relativas à
 
 [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - [...]
 
@@ -1182,11 +1399,13 @@ Actividades de transformação e comercialização
 
 [...]»
 
-### CAPÍTULO XXI
+CAPÍTULO XXI
 
 Alteração ao Regulamento de Aplicação das Acções n.os 3.2.1, «Conservação e Valorização do Património Rural», e 3.2.2, «Serviços Básicos para a População Rural», aprovado pela Portaria n.º 521/2009, de 14 de Maio.
 
-###### Artigo 21.º — Alteração ao Regulamento aprovado pela Portaria n.º 521/2009, de 14 de Maio
+Artigo 21.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 521/2009, de 14 de Maio
 
 Os artigos 8.º, 22.º, 23.º, 25.º e 26.º do Regulamento de Aplicação das Acções n.os 3.2.1, «Conservação e Valorização do Património Rural», e 3.2.2, «Serviços Básicos para a População Rural», aprovado pela Portaria n.º 521/2009, de 14 de Maio, passam a ter a seguinte redacção:
 
@@ -1204,7 +1423,9 @@ Os artigos 8.º, 22.º, 23.º, 25.º e 26.º do Regulamento de Aplicação das A
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -1216,7 +1437,9 @@ Os artigos 8.º, 22.º, 23.º, 25.º e 26.º do Regulamento de Aplicação das A
 
 5 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -1228,19 +1451,27 @@ Os artigos 8.º, 22.º, 23.º, 25.º e 26.º do Regulamento de Aplicação das A
 
 5 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro de 2011.»
 
-### CAPÍTULO XXII — Alteração ao Regulamento de Aplicação da Medida n.º 4.1, «Cooperação para a Inovação», aprovado pela Portaria n.º 596/2009, de 3 de Junho
+CAPÍTULO XXII
 
-###### Artigo 22.º — Alteração ao Regulamento aprovado pela Portaria n.º 596/2009, de 3 de Junho
+Alteração ao Regulamento de Aplicação da Medida n.º 4.1, «Cooperação para a Inovação», aprovado pela Portaria n.º 596/2009, de 3 de Junho
+
+Artigo 22.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 596/2009, de 3 de Junho
 
 Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação da Medida n.º 4.1, «Cooperação para a Inovação», aprovado pela Portaria n.º 596/2009, de 3 de Junho, passam a ter a seguinte redacção:
 
@@ -1258,7 +1489,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1270,25 +1503,33 @@ Os artigos 7.º, 19.º, 21.º e 22.º e o anexo ii do Regulamento de Aplicação
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+[...]
 
-### CAPÍTULO XXIII
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
+
+CAPÍTULO XXIII
 
 Alteração ao Regulamento de Aplicação da Acção n.º 4.2.2, «Redes Temáticas de Informação e Divulgação», aprovado pela Portaria n.º 745/2009, de 13 de Julho.
 
-###### Artigo 23.º — Alteração ao Regulamento aprovado pela Portaria n.º 745/2009, de 13 de Julho
+Artigo 23.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 745/2009, de 13 de Julho
 
 Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n.º 4.2.2, «Redes Temáticas de Informação e Divulgação», aprovado pela Portaria n.º 745/2009, de 13 de Julho, passam a ter a seguinte redacção:
 
@@ -1302,7 +1543,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1314,21 +1557,27 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou de qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXIV
+CAPÍTULO XXIV
 
 Alteração ao Regulamento de Aplicação das Acções n.os 3.4.1, «Cooperação Interterritorial», e 3.4.2, «Cooperação Transnacional», aprovado pela Portaria n.º 786/2009, de 27 de Julho.
 
-###### Artigo 24.º — Alteração ao Regulamento aprovado pela Portaria n.º 786/2009, de 27 de Julho
+Artigo 24.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 786/2009, de 27 de Julho
 
 Os artigos 6.º, 17.º, 19.º e 20.º do Regulamento de Aplicação das Acções n.os 3.4.1, «Cooperação Interterritorial», e 3.4.2, «Cooperação Transnacional», aprovado pela Portaria n.º 786/2009, de 27 de Julho, passam a ter a seguinte redacção:
 
@@ -1346,7 +1595,9 @@ Os artigos 6.º, 17.º, 19.º e 20.º do Regulamento de Aplicação das Acções
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -1358,19 +1609,27 @@ Os artigos 6.º, 17.º, 19.º e 20.º do Regulamento de Aplicação das Acções
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXV — Alteração ao Regulamento de Aplicação da Acção n.º 4.3.2, «Serviços de Apoio às Empresas», aprovado pela Portaria n.º 813/2009, de 28 de Julho
+CAPÍTULO XXV
 
-###### Artigo 25.º — Alteração ao Regulamento aprovado pela Portaria n.º 813/2009, de 28 de Julho
+Alteração ao Regulamento de Aplicação da Acção n.º 4.3.2, «Serviços de Apoio às Empresas», aprovado pela Portaria n.º 813/2009, de 28 de Julho
+
+Artigo 25.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 813/2009, de 28 de Julho
 
 Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n.º 4.3.2, «Serviços de Apoio às Empresas», aprovado pela Portaria n.º 813/2009, de 28 de Julho, passam a ter a seguinte redacção:
 
@@ -1386,7 +1645,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1398,21 +1659,27 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXVI
+CAPÍTULO XXVI
 
 Alteração ao Regulamento de Aplicação da Acção n.º 1.6.4, «Modernização dos Regadios Colectivos Tradicionais», aprovado pela Portaria n.º 842/2009, de 4 de Agosto.
 
-###### Artigo 26.º — Alteração ao Regulamento aprovado pela Portaria n.º 842/2009, de 4 de Agosto
+Artigo 26.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 842/2009, de 4 de Agosto
 
 Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n.º 1.6.4, «Modernização dos Regadios Colectivos Tradicionais», aprovado pela Portaria n.º 842/2009, de 4 de Agosto, passam a ter a seguinte redacção:
 
@@ -1428,7 +1695,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1440,19 +1709,27 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXVII — Alteração ao Regulamento de Aplicação da Acção n.º 1.6.5 «Projectos Estruturantes», aprovado pela Portaria n.º 1037/2009, de 11 de Setembro
+CAPÍTULO XXVII
 
-###### Artigo 27.º — Alteração ao Regulamento aprovado pela Portaria n.º 1037/2009, de 11 de Setembro
+Alteração ao Regulamento de Aplicação da Acção n.º 1.6.5 «Projectos Estruturantes», aprovado pela Portaria n.º 1037/2009, de 11 de Setembro
+
+Artigo 27.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1037/2009, de 11 de Setembro
 
 Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n.º 1.6.5, «Projectos Estruturantes», aprovado pela Portaria n.º 1037/2009, de 11 de Setembro, passam a ter a seguinte redacção:
 
@@ -1472,7 +1749,9 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -1484,21 +1763,27 @@ Os artigos 7.º, 19.º, 21.º e 22.º do Regulamento de Aplicação da Acção n
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXVIII
+CAPÍTULO XXVIII
 
 Alteração ao Regulamento de Aplicação da Subacção n.º 2.2.3.1, «Componente Vegetal», da Acção n.º 2.2.3, «Conservação e Melhoramento de Recursos Genéticos», aprovado pela Portaria n.º 1268/2009, de 16 de Outubro.
 
-###### Artigo 28.º — Alteração ao Regulamento aprovado pela Portaria n.º 1268/2009, de 16 de Outubro
+Artigo 28.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 1268/2009, de 16 de Outubro
 
 Os artigos 7.º, 18.º, 20.º e 21.º do Regulamento de Aplicação da Subacção n.º 2.2.3.1, «Componente Vegetal», da Acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», aprovado pela Portaria n.º 1268/2009, de 16 de Outubro, passam a ter a seguinte redacção:
 
@@ -1516,7 +1801,9 @@ Os artigos 7.º, 18.º, 20.º e 21.º do Regulamento de Aplicação da Subacçã
 
 5 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -1530,21 +1817,27 @@ Os artigos 7.º, 18.º, 20.º e 21.º do Regulamento de Aplicação da Subacçã
 
 6 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXIX
+CAPÍTULO XXIX
 
 Alteração do Regulamento de Aplicação da Medida n.º 3.6, «Implantação de Redes de Banda Larga de Nova Geração em Zonas Rurais», aprovado pela Portaria n.º 829/2010, de 31 de Agosto.
 
-###### Artigo 29.º — Alteração ao Regulamento aprovado pela Portaria n.º 829/2010, de 31 de Agosto
+Artigo 29.º
+
+Alteração ao Regulamento aprovado pela Portaria n.º 829/2010, de 31 de Agosto
 
 Os artigos 20.º, 22.º e 23.º do Regulamento de Aplicação da Medida n.º 3.6, «Implantação de Redes de Banda Larga de Nova Geração em Zonas Rurais», aprovado pela Portaria n.º 829/2010, de 31 de Agosto, passam a ter a seguinte redacção:
 
@@ -1560,21 +1853,27 @@ Os artigos 20.º, 22.º e 23.º do Regulamento de Aplicação da Medida n.º 3.6
 
 4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXX
+CAPÍTULO XXX
 
 Alteração do Regulamento de Aplicação da Acção n.º 2.4.2, «Instrumentos de Programação e Gestão para Intervenções Territoriais Integradas», aprovado pela Portaria n.º 1245/2010, de 14 de Dezembro.
 
-###### Artigo 30.º — Alteração do Regulamento aprovado pela Portaria n.º 1245/2010, de 14 de Dezembro
+Artigo 30.º
+
+Alteração do Regulamento aprovado pela Portaria n.º 1245/2010, de 14 de Dezembro
 
 Os artigos 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n.º 2.4.2, «Instrumentos de Programação e Gestão para Intervenções Territoriais Integradas», aprovado pela Portaria n.º 1245/2010, de 14 de Dezembro, passam a ter a seguinte redacção:
 
@@ -1592,35 +1891,51 @@ Os artigos 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n.º 2.
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.»
 
-### CAPÍTULO XXXI — Disposição transitória
+CAPÍTULO XXXI
 
-###### Artigo 31.º — Norma de direito transitório
+Disposição transitória
+
+Artigo 31.º
+
+Norma de direito transitório
 
 Até ao início da vigência da presente portaria, são elegíveis, desde a data de entrada em vigor das portarias que aprovam os regulamentos de aplicação das medidas, acções e subacções do PRODER, as despesas relativas às operações concluídas antes da aprovação dos respectivos pedidos de apoio, sem prejuízo dos limites temporais aplicáveis a cada pedido.
 
-### CAPÍTULO XXXII — Disposições finais
+CAPÍTULO XXXII
 
-###### Artigo 32.º — Norma revogatória
+Disposições finais
+
+Artigo 32.º
+
+Norma revogatória
 
 1 - É revogado o segundo parágrafo da nota do anexo viii do Regulamento aprovado pela Portaria n.º 1137-B/2008, de 9 de Outubro.
 
 2 - São revogados os n.os 2 e 3 do artigo 7.º do Regulamento aprovado pela Portaria n.º 1137-C/2008, de 9 de Outubro.
 
-###### Artigo 33.º — Produção de efeitos
+Artigo 33.º
+
+Produção de efeitos
 
 As alterações ao anexo ii do Regulamento aprovado pela Portaria n.º 821/2008, de 8 de Agosto, e ao anexo iv do Regulamento aprovado pela Portaria n.º 828/2008, de 8 de Agosto, produzem efeitos a partir de 22 de Março de 2011.
 
-###### Artigo 34.º — Entrada em vigor
+Artigo 34.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 92/2012, 1º Suplemento, Série I de 2012-05-11
   number: '92'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2478-(2) a 2478-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137-a/2012/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-a-2012-668307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89751d96a147cbbf3343550e24a10c2cd587621ab75cdc35fc8fa390e010546d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b77f7c7ff5d37f7cdb5f789a9f12218b092ca560f3a368cf48640e6f86bfce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Assistência Medicamentosa
 - Associação Nacional de Farmácias
-- Ordem dos Médicos Dentistas
-- Infarmed
 - Comparticipação do Estado
 - Definição de Competências
-- Formulário Eletrónico
-- Impresso
-- Medicamento
-- Informatização
 - Documento Eletrónico
-- Medicamento Manipulado
-- Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
 - Droga
+- Formulário Eletrónico
+- Guia de Tratamento
+- Impresso
+- Infarmed
+- Informatização
+- Medicamento
+- Medicamento Manipulado
 - Ordem dos Médicos
+- Ordem dos Médicos Dentistas
 - Produto Farmacêutico
 - Receita Médica
 - Regime Jurídico
+- Serviços Partilhados do Ministério da Saúde
 - Utente
-- Guia de Tratamento
 relationships:
 - type: amended_by
   target: pt:dre:69879391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615982:por
+  label: "Alterado e revogado o n.º 5 e a al. b) do n.º 6 do art. 6º, pela PORT.224-A/2013.09.07.2013.MS, DR.IS [130-Supl]\
+    \ de 09.07.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-a-2013-615982
+  date: '2013-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
   label: null
@@ -120,16 +126,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1471/2004/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1471/2004/12/21/p/dre
+- type: cites
+  target: pt:dre:219566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:178788:por
+  label: "Retificados o nº 3 do art. 8º, a al. d) do nº 1 do art. 11º e o nº 1 do art. 16, pela DECL-RECT.29/2012.14.06.2012.PCM,\
+    \ DR.IS [114] de 14.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/29-2012-178788
+  date: '2012-06-14'
+- type: repealed_by
+  target: pt:dre:69879391:por
+  label: Revogada, a partir de 01.08.2015, a presente Portaria, pelo(a) Portaria n.º 224/2015 - Diário da República n.º 144/2015,
+    Série I de 2015-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-2015-69879391
+  date: '2015-07-27'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:30Z'
   warnings: []
   errors: []
 ---
@@ -476,7 +522,7 @@ c) O despacho n.º 9187/2011, de 15 de Julho.
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de maio de 2012.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de maio de 2012.
 
 ## ANEXO I — Especificações técnicas das vinhetas
 
@@ -500,7 +546,7 @@ Vinhetas do prescritor
 
 Pantone 305 U
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)
 
 ## ANEXO III — Modelo de vinheta de identificação do local de prescrição
 
@@ -508,10 +554,10 @@ Pantone 305 U
 
 Referência cromática - Pantone 305 U
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)
 
 2 - Vinhetas de local de prescrição - Regime especial de comparticipação de medicamentos para pensionistas
 
 Referência cromática - Pantone 374 U
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09201/0000200007.pdf)

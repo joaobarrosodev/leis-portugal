@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 24/2024, 1º Suplemento, Série I de 2024-02-02
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 56-(2) a 56-(199)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02401/0000200199.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39-b/2024/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-b-2024-840061965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d34a95c12eb7437e1d94ba4c9546bc0fda162ee6278930a16c94b98df6482316
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9a61fa804ce537ae3427d942193ce6844e0f847efa62b3bf52a4928765d2235
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,60 @@ subjects:
 - Certificação Electrónica
 - Cobrança de Impostos
 - Código do IRS
-- Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
-- Formulário Eletrónico
 - Contribuições e Impostos
-- Instruções de Utilização
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Formulário Eletrónico
+- Instruções de Utilização
+- Regulamentação de Atos Legislativos
 - Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:1080481246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:909384934:por
+  label: Mantidos em vigor os modelos do Anexo A (rendimentos do trabalho dependente e de pensões), do Anexo E (rendimentos
+    de capitais) e do Anexo I (rendimentos de herança indivisa), e aprovadas novas instruções de preenchimento, pelo(a) Portaria
+    n.º 72-B/2025/1 - Diário da República n.º 42/2025, Suplemento, Série I de 2025-02-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-b-2025-909384934
+  date: '2025-02-28'
+- type: amended_by
+  target: pt:dre:1066993467:por
+  label: Mantidos em vigor os Anexos E (rendimentos de capitais) e I, aprovados pelo presente diploma pelo(a) Portaria n.º
+    104/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/104-2026-1066993467
+  date: '2026-03-05'
+- type: amended_by
+  target: pt:dre:1080481246:por
+  label: Mantidos em vigor, a partir de 1 de abril de 2026 e com efeitos a 1 de janeiro de 2026, os Anexos E (rendimentos
+    de capitais) e I, aprovados pela presente portaria, pelo(a) Portaria n.º 136-C/2026/1 - Diário da República n.º 63/2026,
+    Suplemento, Série I de 2026-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-c-2026-1080481246
+  date: '2026-03-31'
+- type: amends
+  target: pt:numero:portaria:366/2015
+  label: Mantêm-se em vigor, nos termos do n.º 3 do artigo 2.º do presente diploma, os modelos aprovados pela Portaria n.º
+    366/2015, de 16 de outubro, Diário da República n.º 203/2015, Série I, bem como as respetivas instruções de preenchimento
+  source: null
+  date: '2015-10-16'
+- type: amends
+  target: pt:numero:portaria:8/2021
+  label: Mantém em vigor, nos termos do n.º 4 do artigo 1.º do presente diploma, o modelo Anexo H - benefícios fiscais e deduções,
+    e aprova as respetivas instruções de preenchimento, bem como mantém em vigor o modelo Anexo L - rendimentos obtidos por
+    residentes não habituais - e respetivas instruções de preenchimento, todos aprovados pela Portaria n.º 8/2021, de 7 de
+    janeiro, Diário da República n.º 4/2021, Série I
+  source: null
+  date: '2021-01-07'
+- type: amends
+  target: pt:numero:portaria:47/2023
+  label: Mantém em vigor, nos termos do n.º 4 do artigo 1.º do presente diploma, o modelo Anexo D - imputação de rendimentos
+    de entidades sujeitas ao regime de transparência fiscal e de herança indivisa, aprovado pela Portaria n.º 47/2023, de
+    15 de fevereiro, Diário da República n.º 33/2023, Série I, bem como aprova novas instruções de preenchimento do referido
+    modelo
+  source: null
+  date: '2023-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
   label: null
@@ -114,16 +156,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/2021/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/2021/01/07/p/dre
+- type: cites
+  target: pt:dre:153138213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202455960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207485804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213498830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716381:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:25Z'
   warnings: []
   errors: []
 ---
@@ -208,6 +286,8 @@ b) Efetuar o envio de acordo com os procedimentos indicados no referido portal.
 
 A presente portaria entra em vigor no dia seguinte à sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 31 de janeiro de 2024.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 31 de janeiro de 2024.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/02/02401/0000200199.pdf))](https://files.diariodarepublica.pt/1s/2024/02/02401/0000200199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/02/02401/0000200199.pdf)
+
+117314077

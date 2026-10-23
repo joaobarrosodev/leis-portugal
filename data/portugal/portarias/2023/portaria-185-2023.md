@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12700/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/185/2023/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-2023-215086000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46c40ece3d3a719011d968bb4a86c8f89bb3a0f671258159accf3b4bbf725adb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03b3b1d35ff8d42a0df66d7cd48fc00cef8278b0f16734755401ce6545fc6160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Empreendedorismo
 - Emprego
 - Regulamento
-- Sistema de Apoio ao Emprego e Empreendedorismo-+ CO3SO Emprego
 - Regulamento do Sistema de Apoio ao Emprego e Empreendedorismo
+- Sistema de Apoio ao Emprego e Empreendedorismo-+ CO3SO Emprego
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97-a/2015/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97-a/2015/03/30/p/dre
+- type: cites
+  target: pt:dre:129643758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134505608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66888645:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:45Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +145,7 @@ Nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 32/2022](https://diari
 
 3 - Determinar que a presente alteração ao Regulamento do Sistema de Apoios ao Emprego e ao Empreendedorismo - +CO3SO Emprego entra em vigor no dia seguinte ao da publicação da presente Portaria e produz efeitos relativamente às operações que se encontram em curso.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 23 de junho de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 23 de junho de 2023.
 
 ## ANEXO — (a que se refere o n.º 2)
 
@@ -153,7 +173,9 @@ f) Criação de postos de trabalho para pessoas que não tenham registos na segu
 
 3 - [...]
 
-###### Artigo 21.º — Incumprimento e restituição do apoio
+Artigo 21.º
+
+Incumprimento e restituição do apoio
 
 1 - [...]
 
@@ -166,3 +188,5 @@ f) Criação de postos de trabalho para pessoas que não tenham registos na segu
 5 - [...]
 
 6 - [...]»
+
+116618085

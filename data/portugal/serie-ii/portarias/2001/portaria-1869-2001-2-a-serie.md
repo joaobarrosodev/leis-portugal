@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1869-2001-1649212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T16:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 847ded07a8e36b9af74505c9cf977217bb736cb9eebb061f86d957891ae4dfc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bc85fda0a540cf4d3e2eb50abb6ea1a8ef50444b65c5c0b10c4fee118135e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Ílhavo
+relationships:
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:19:49Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +108,4 @@ Manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
 
 10 de Outubro de 2001. - O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2001/11/269000000/1919719197.pdf))](https://files.diariodarepublica.pt/2s/2001/11/269000000/1919719197.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/11/269000000/1919719197.pdf)

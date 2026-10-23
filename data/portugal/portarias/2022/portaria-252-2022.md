@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/252/2022/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/252-2022-201899421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60d6f4186b18512990c24d31cb7dad13a4ebd201dee8a785ab431543170a7ddf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d5273118ae569be4f937c5529cabcf98d40a0ec7da5d99edf8d5976861d2577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Informação Médica
-- Pessoa em Situação de Dependência
+- Cuidador Informal
 - Estatuto
-- Incapacidade Psíquica
-- Processo Judicial
 - Incapacidade Física
+- Incapacidade Psíquica
+- Informação Médica
+- Instituto da Segurança Social
+- Maior Acompanhado
+- Pessoa em Situação de Dependência
+- Processo Judicial
 - Prorrogação de Prazo
 - Prova
-- Cuidador Informal
-- Maior Acompanhado
 relationships:
 - type: amended_by
   target: pt:dre:210982938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:205758497:por
+  label: Prorrogado, com efeitos a 01.01.2023, o prazo previsto no art. 1.º pelo(a) Portaria n.º 17/2023 - Diário da República
+    n.º 4/2023, Série I de 2023-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-2023-205758497
+  date: '2023-01-05'
+- type: amended_by
+  target: pt:dre:210982938:por
+  label: Prorrogado, com efeitos a 01.04.2023, o prazo previsto no art. 1.º pelo(a) Portaria n.º 89/2023 - Diário da República
+    n.º 61/2023, Série I de 2023-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-2023-210982938
+  date: '2023-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/170/2022/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/170/2022/07/05/p/dre
+- type: cites
+  target: pt:dre:185669165:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:51Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +131,6 @@ A presente portaria procede à prorrogação do prazo previsto no artigo 1.º da
 
 A presente portaria entra em vigor na data da sua assinatura e produz efeitos desde o dia 1 de outubro de 2022.
 
-**A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes, em 3 de outubro de 2022.**
+A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes, em 3 de outubro de 2022.
+
+115746096

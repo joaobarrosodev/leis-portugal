@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2014/07/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-55021038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 763a8cf17313eb5d34f010a1fb47fbf8233b4bb45a7ebf1c680d4dd953d99784
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07c665ae9f4e97de149ffe5c96712e063e178fab21c0b1c6cb1615674e5d24e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Educação Especial
 - Colocação de Professores
 - Concurso
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Trabalho a Termo
+- Deficiente
 - Direito de Preferência
 - Disciplina de Educação Moral e Religiosa
+- Educação Especial
 - Educação Física
-- Educador de Infância
-- Sistema Retributivo
-- Informática
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Ensino Secundário
-- Licença sem Vencimento
-- Contratação de Pessoal
-- Período Experimental
-- Proteção ao Deficiente
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
-- Quadro de Pessoal
-- Remuneração
-- Mobilidade de Pessoal
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Habilitações Literárias
+- Informática
+- Licença sem Vencimento
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
+- Período Experimental
+- Pessoal Docente
+- Proteção ao Deficiente
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Remuneração
+- Sistema Retributivo
 - ZONA Pedagógica
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:74953321:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69782195:por
+  label: Alterados, a partir de 13.07.2015, os arts. 4.º, 6.º, 8.º, 9.º, 22.º, 35.º, 36.º, 42.º e 44.º do DLR 25/2013/M de
+    17-jul, na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 5/2015/M - Diário da República n.º 133/2015,
+    Série I de 2015-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2015-69782195
+  date: '2015-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre
   label: null
@@ -142,16 +149,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:158035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74953321:por
+  label: Revogado, a partir de 16.07.2016, o DLR 25/2013/M de 17-jul, alterado pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 28/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15, sem prejuízo do disposto no n.º 2 art.
+    53.º daquele diploma, e determinada a cessação, à data da entrada em vigor do DLR 28/2016/M (16.07.2016), das continuidades
+    previstas no n.º 4 do art. 31.º do DLR 25/2013/M.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2016-74953321
+  date: '2016-07-15'
 article_structure:
-  article_count: 86
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 63
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:52Z'
   warnings: []
   errors: []
 ---
@@ -206,9 +373,13 @@ c) ...
 
 8 - (Anterior n.º 7.)
 
-#### SECÇÃO III — Procedimentos dos concursos
+SECÇÃO III
 
-###### Artigo 5.º — [...]
+Procedimentos dos concursos
+
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a abertura dos concursos de seleção e recrutamento de pessoal docente obedece à seguinte periodicidade:
 
@@ -254,7 +425,9 @@ g) ...
 
 h) ...
 
-###### Artigo 6.º — Candidatura
+Artigo 6.º
+
+Candidatura
 
 1 - ...
 
@@ -294,7 +467,9 @@ c) ...
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 7.º — Âmbito das candidaturas
+Artigo 7.º
+
+Âmbito das candidaturas
 
 1 - ...
 
@@ -302,7 +477,9 @@ c) ...
 
 3 - Os candidatos aos concursos previstos nas alíneas b) e c) do n.º 2 do artigo 5.º são obrigatoriamente opositores ao concurso externo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +503,9 @@ b) Contratos de duração anual e contratos de duração temporária.
 
 7 - Os candidatos que reúnam as condições de renovação de contrato nos termos do artigo 42.º do presente diploma têm de manifestar, obrigatoriamente, como primeira preferência a escola do grupo de recrutamento a que se encontram vinculados no último contrato, ou a escola do grupo de recrutamento a que respeita o exercício de funções no ano escolar anterior a que se reporta o concurso, desde que titulares de habilitação profissional para o mesmo, sem prejuízo da indicação das demais preferências, que serão observadas caso se verifique a situação prevista no n.º 6 do artigo 42.º
 
-###### Artigo 9.º — Prioridades na ordenação dos candidatos
+Artigo 9.º
+
+Prioridades na ordenação dos candidatos
 
 1 - Os candidatos ao concurso interno são ordenados de acordo com as seguintes prioridades e posições:
 
@@ -352,7 +531,9 @@ b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de 
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +557,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 12.º — Ordenação de candidatos
+Artigo 12.º
+
+Ordenação de candidatos
 
 1 - A ordenação de candidatos para a docência faz-se, dentro dos critérios de prioridade e posições fixados no artigo 9.º, por ordem decrescente da respetiva graduação nos termos dos artigos 10.º e 11.º
 
@@ -394,7 +577,9 @@ d) ...
 
 e) ...
 
-###### Artigo 20.º — Apresentação
+Artigo 20.º
+
+Apresentação
 
 1 - ...
 
@@ -406,7 +591,9 @@ e) ...
 
 5 - Aos docentes de carreira dos quadros de zona pedagógica e de vinculação que aguardam colocação é-lhes aplicável o disposto no número anterior.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 20.º, o não cumprimento dos deveres de aceitação e apresentação é considerado, para todos os efeitos legais, como não aceitação da colocação e determina a:
 
@@ -416,13 +603,17 @@ b) ...
 
 c) Impossibilidade dos docentes não integrados na carreira serem colocados em exercício de funções docentes nesse ano através dos procedimentos concursais regulados no presente diploma.
 
-###### Artigo 22.º — Dotação das vagas
+Artigo 22.º
+
+Dotação das vagas
 
 1 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação, é fixada a dotação das vagas das escolas e das zonas pedagógicas.
 
 2 - As vagas das escolas e zonas pedagógicas não ocupadas, bem como as vagas que excedam as necessidades permanentes, são publicitadas em anexo ao aviso de abertura, referido no n.º 5 do artigo 5.º
 
-###### Artigo 23.º — Recuperação de vagas
+Artigo 23.º
+
+Recuperação de vagas
 
 1 - ...
 
@@ -432,7 +623,9 @@ c) Impossibilidade dos docentes não integrados na carreira serem colocados em e
 
 4 - Os candidatos aos concursos interno e externo podem indicar, de entre as suas preferências, as escolas ou zonas pedagógicas em que pretendem ser colocados, independentemente de naquelas existirem vagas a ocupar à data de abertura do concurso.
 
-###### Artigo 25.º — Candidatos
+Artigo 25.º
+
+Candidatos
 
 1 - ...
 
@@ -446,9 +639,13 @@ b) ...
 
 4 - (Anterior n.º 3.)
 
-#### SECÇÃO III — Concurso externo
+SECÇÃO III
 
-###### Artigo 26.º — Vagas a concurso
+Concurso externo
+
+Artigo 26.º
+
+Vagas a concurso
 
 Para efeitos do concurso externo, são consideradas:
 
@@ -458,7 +655,9 @@ b) As vagas correspondentes às necessidades dos quadros de zona pedagógica;
 
 c) As vagas não preenchidas pelo concurso interno.
 
-###### Artigo 29.º — Ordenação das necessidades temporárias
+Artigo 29.º
+
+Ordenação das necessidades temporárias
 
 a) ...
 
@@ -472,7 +671,9 @@ e) Candidatos não colocados no concurso externo;
 
 f) ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -500,9 +701,13 @@ d) 4.ª prioridade - docentes de carreira de escola do Continente e das escolas 
 
 9 - (Anterior n.º 8.)
 
-#### SECÇÃO III — Contratação inicial
+SECÇÃO III
 
-###### Artigo 35.º — [...]
+Contratação inicial
+
+Artigo 35.º
+
+[...]
 
 1 - As necessidades temporárias não satisfeitas por docentes de carreira são preenchidas por recrutamento de indivíduos detentores de habilitação profissional para a docência, mediante celebração de contrato de trabalho a termo resolutivo, nos termos do número seguinte.
 
@@ -520,7 +725,9 @@ a) 1.ª prioridade - docentes que reúnam as condições de renovação de contr
 
 b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de recrutamento a que se candidatam.
 
-###### Artigo 36.º — Procedimento
+Artigo 36.º
+
+Procedimento
 
 1 - ...
 
@@ -536,7 +743,9 @@ b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de 
 
 7 - O disposto nos n.os 2 a 7 do artigo 17.º é aplicável, com as devidas adaptações, a este concurso.
 
-###### Artigo 37.º — Listas de contratação inicial
+Artigo 37.º
+
+Listas de contratação inicial
 
 1 - A lista de colocação para efeitos da contratação inicial é homologada pelo diretor regional dos Recursos Humanos e da Administração Educativa.
 
@@ -544,15 +753,21 @@ b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de 
 
 3 - (Revogado.)
 
-#### SECÇÃO IV — Reserva de recrutamento
+SECÇÃO IV
 
-###### Artigo 38.º — [...]
+Reserva de recrutamento
+
+Artigo 38.º
+
+[...]
 
 1 - Os candidatos indicados nas alíneas a) e b) do n.º 1 do artigo 31.º e nos n.os 1 e 5 do artigo 35.º integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários, surgidos após a contratação inicial.
 
 2 - Aos docentes de carreira colocados ao abrigo do concurso de reserva de recrutamento é aplicado o disposto nos n.os 4 e 6 do artigo 31.º
 
-###### Artigo 39.º — Procedimento
+Artigo 39.º
+
+Procedimento
 
 1 - ...
 
@@ -574,9 +789,13 @@ b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de 
 
 10 - ...
 
-#### SECÇÃO VI — Contrato
+SECÇÃO VI
 
-###### Artigo 42.º — [...]
+Contrato
+
+Artigo 42.º
+
+[...]
 
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima um ano escolar.
 
@@ -618,7 +837,9 @@ e) Manifestação pelos candidatos das preferências por escola nos termos do n.
 
 15 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela Direção Regional dos Recursos Humanos e da Administração Educativa que os disponibilizará na sua página eletrónica da internet em www.madeira-edu.pt/drrhae.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os docentes contratados a termo resolutivo são remunerados pelo índice 167 da escala indiciária constante em anexo ao Estatuto, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
 
@@ -634,7 +855,9 @@ b) Frequência, com aproveitamento, de formação contínua no mínimo de 50 hor
 
 5 - Aos professores contratados a termo resolutivo não detentores de habilitação profissional com licenciatura é aplicada a tabela anexa.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano escolar.
 
@@ -668,17 +891,17 @@ O presente diploma entra em vigor no primeiro dia útil subsequente ao da sua pu
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 17 de julho de 2014**
+Assinado em 17 de julho de 2014
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — (a que se refere o n.º 5 artigo 43.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf)
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -1468,4 +1691,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e é ap
 
 ## ANEXO — (a que se refere o n.º 5 artigo 43.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf))](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/14200/0395803976.pdf)

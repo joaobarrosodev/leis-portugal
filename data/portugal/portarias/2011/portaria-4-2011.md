@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/4/2011/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2011-485596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e670e55c174815e600f9efa6dcd556df95e698d456d3423528574d13886dcc05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e0552e40a2c8143a4d7f99293301fadecde17c9da932b23f52ee8a6600133cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Atividade Agrícola
-- Turismo
 - Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Évora
+- Exploração Florestal
 - Grândola
 - Indústria Agrícola
 - Indústria Agro-alimentar
-- Indústria Hoteleira
-- Portalegre
-- Exploração Florestal
-- Agricultor
-- Contrato de Trabalho
-- Pecuária
-- Regulamento de Extensão
 - Indústria Alimentar
+- Indústria Hoteleira
+- Pecuária
+- Portalegre
+- Regulamento de Extensão
 - Remuneração
-- Évora
 - Trabalhador por Conta de Outrem
+- Turismo
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:56Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +134,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 28 de Dezembro de 2010.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 28 de Dezembro de 2010.

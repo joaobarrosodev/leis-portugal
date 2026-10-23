@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/437-a/2025/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-a-2025-979302884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b9485c1993b728be1ef6cb00b08a924c8fc88683f34a6ed6c2d14db363ed39f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f02028e993f84d809810161edf22dc74bd5d1639d0dc504a13a5902f8027c261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Apoio ao Investimento
 - Beneficiário
 - Competitividade Empresarial
-- Apoio ao Investimento
+- Empresa
+- Financiamento
 - Fundos CE
-- Pagamento
-- Subsídio não Reembolsável
-- Plano de Recuperação e Resiliência
 - Instrumento Financeiro para a Inovação e Competitividade
+- Pagamento
+- Plano de Recuperação e Resiliência
+- Subsídio não Reembolsável
 relationships:
+- type: amends
+  target: pt:numero:portaria:286/2025
+  label: Altera, a partir de 12 de dezembro de 2025, os artigos 5.º, 12.º, 13.º e o anexo ii do Regulamento do Sistema de
+    Incentivos «Instrumento Financeiro para a Inovação e Competitividade», aprovado pela Portaria n.º 286/2025/1, de 14 de
+    agosto, Diário da República n.º 156/2025, Série I
+  source: null
+  date: '2025-08-14'
 - type: cites
   target: celex:32021R0241
   label: null
@@ -93,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/286/2025/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/286/2025/08/14/p/dre
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:46Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +180,9 @@ m) [...]
 
 n) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O sistema de incentivos ‘Instrumento Financeiro para a Inovação e Competitividade’ tem como âmbito de aplicação todas as regiões do território nacional com o seguinte enquadramento específico ao nível da tipologia de operação:
 
@@ -173,7 +190,9 @@ a) A tipologia de operação da linha ‘Reindustrializar’ tem aplicação em 
 
 b) As tipologias de operação da linha ‘Economia de Defesa e Segurança’ e linha ‘IA nas PME’ têm aplicação em todas as regiões NUTS II do território nacional.
 
-###### Artigo 13.º — Âmbito setorial
+Artigo 13.º
+
+Âmbito setorial
 
 São elegíveis as operações inseridas em qualquer atividade económica, desde que respeitem as restrições setoriais previstas nos enquadramentos europeus em matéria de auxílios de Estado previstos no artigo 24.º e no anexo ii do presente Regulamento.»
 
@@ -195,4 +214,8 @@ Categorias de auxílios de Estado potencialmente aplicáveis às tipologias de o
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 10 de dezembro de 2025.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 10 de dezembro de 2025.
+
+119872544
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:68px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:28px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:37px; }

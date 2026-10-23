@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/73/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-2025-909469971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29df6110e3413b23fb429c3b0b484664d849ad568a81605683db8853d4fe050f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 934d01b256022637ae95dc78a3424bec5dcb8ffabc98a2c3b35825f314637f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,20 @@ subjects:
 - Chefe do Estado Maior da Armada
 - Concurso
 - Curso de Formação Militar Complementar de Oficiais
-- Marinha
 - Escola Naval
+- Marinha
+- Militar
 - Oficial do Quadro Permanente
 - Regulamento
-- Militar
 relationships:
+- type: amends
+  target: pt:numero:portaria:215/2023
+  label: Altera, a partir de 4 de março de 2025, os artigos 2.º e 4.º da Portaria n.º 215/2023, de 19 de julho, Diário da
+    República n.º 139/2023, Série I bem como os artigos 2.º, 3.º, 6.º, 7.º, 8.º, 11.º, 12.º e 13.º do regulamento do concurso
+    de admissão ao CFMCO-TS, publicado em anexo à portaria e revoga a alínea d) do artigo 2.º e a alínea e) do artigo 3.º
+    do regulamento que republica
+  source: null
+  date: '2023-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/76/2018/10/11/p/dre
   label: null
@@ -97,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301/2016/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301/2016/11/30/p/dre
+- type: cites
+  target: pt:dre:105283926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215874582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868547581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:14Z'
   warnings: []
   errors: []
 ---
@@ -145,13 +177,15 @@ Ingresso na classe de TS e frequência do CFMCO-TS
 
 4 - Os militares do Exército e da Força Aérea, durante a frequência do CFMCO-TS, usam os uniformes previstos no Regulamento de Uniformes dos Militares da Marinha.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
-2 - A admissão ao CFMCO-TS é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+2 - A admissão ao CFMCO-TS é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
 
-3 - A admissão ao CFMCO-TS é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.»
+3 - A admissão ao CFMCO-TS é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.»
 
 ###### Artigo 3.º — Alteração do regulamento do concurso de admissão ao CFMCO-TS
 
@@ -163,7 +197,7 @@ Condições de admissão ao concurso interno limitado
 
 1 - Constituem condições gerais de admissão ao concurso interno limitado:
 
-a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) [...]
 
@@ -177,11 +211,13 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 3.º — Condições de admissão ao concurso interno geral
+Artigo 3.º
+
+Condições de admissão ao concurso interno geral
 
 1 - Constituem condições gerais de admissão ao concurso interno geral:
 
-a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) [...]
 
@@ -197,7 +233,9 @@ a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura 
 
 b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +253,9 @@ e) Entrevista profissional.
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -229,19 +269,25 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
-2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
-2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
 
-###### Artigo 12.º — Entrevista profissional
+Artigo 12.º
+
+Entrevista profissional
 
 1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de TS.
 
@@ -249,7 +295,9 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os candidatos aprovados para cada uma das áreas definidas no concurso são ordenados de acordo com a Classificação Final (CF) que obtiverem, através da aplicação da seguinte fórmula (arredondada às centésimas):
 
@@ -289,7 +337,7 @@ São revogadas a alínea d) do artigo 2.º e a alínea e) do artigo 3.º do regu
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.**
+O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -307,7 +355,7 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFMCO-TS
 
 1 - Constituem condições gerais de admissão ao concurso interno limitado:
 
-a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) Estar habilitado, à data de abertura do concurso, com o 1.º Ciclo de Estudos do Ensino Superior em enfermagem ou em técnico superior de diagnóstico e terapêutica, constante no respetivo aviso de abertura, obtido em estabelecimento de ensino nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
 
@@ -323,7 +371,7 @@ b) No aplicável, ser detentor de título profissional, emitido pela respetiva O
 
 1 - Constituem condições gerais de admissão ao concurso interno geral:
 
-a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
 
 b) Estar habilitado, à data de abertura do concurso, com o 1.º Ciclo de Estudos do Ensino Superior em enfermagem ou em técnico superior de diagnóstico e terapêutica, constante no respetivo aviso de abertura, obtido em estabelecimento de ensino nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
 
@@ -389,7 +437,7 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos quadros permanentes, na classe de TS, de acordo com os critérios fixados por despacho do CEMA.
 
-2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM.
 
 ###### Artigo 9.º — Inspeções médicas
 
@@ -411,7 +459,7 @@ b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
 
 1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de TS.
 
-2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.os1 e 5 do artigo 25.º do RIPSM, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
 
 ###### Artigo 12.º — Entrevista profissional
 
@@ -460,3 +508,5 @@ Decorrido o período de audiência dos interessados e a tramitação das eventua
 ###### Artigo 16.º — Impugnação administrativa
 
 Sem prejuízo da impugnação junto dos tribunais administrativos, dos atos de exclusão do candidato do procedimento concursal e de homologação da lista de ordenação final cabe recurso hierárquico nos termos do EMFAR e do CPA.
+
+118725065

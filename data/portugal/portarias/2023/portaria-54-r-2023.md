@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28
   number: '42'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20-(2) a 20-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04201/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54-r/2023/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b8428bc74092ace39cde77357d3d0a6be39042f7c5af6de40ce89da7bfe363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2c98620212facb94fced6515fd75355607a926ada112cb9d69502dce6b03613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Transporte Rodoviário
-- Regime Laboral
+- Condutor
 - Direito do Trabalho
+- Duração do Trabalho
 - Entidade Patronal
+- Gestão de Recursos Humanos
+- Horário de Trabalho
 - Informática
 - Informatização
-- Publicitação
-- Condutor
-- Transporte de Mercadorias
 - Profissão Independente
-- Duração do Trabalho
-- Horário de Trabalho
-- Gestão de Recursos Humanos
+- Publicitação
+- Regime Laboral
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
+- Transporte Rodoviário
 - Veículo de Aluguer
 relationships:
 - type: cites
@@ -108,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/983/2007/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/983/2007/08/27/p/dre
+- type: cites
+  target: pt:dre:177088817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178264071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200360559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:28Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +186,9 @@ d) [...]
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -176,13 +202,17 @@ d) [...]
 
 6 - Ficam excecionados da obrigação de efetuar os registos previstos no n.º 1 do presente artigo, os empregadores que publicitem os horários de trabalho, nas formas previstas, nas alíneas a) e b) do n.º 1 do artigo 4.º da presente portaria.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Até 90 dias após entrada em vigor da presente portaria, o empregador pode optar por efetuar a publicidade dos horários de trabalho por recurso a qualquer uma das modalidades previstas no n.º 1 do artigo 3.º e nas alíneas a), c) e d) do artigo 4.º ou pela utilização do livrete individual de controlo previsto na [Portaria n.º 983/2007](https://diariodarepublica.pt/dr/detalhe/portaria/983-2007-640938), de 27 de agosto, sendo dispensada a autenticação.
 
 2 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -192,7 +222,7 @@ d) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 27 de fevereiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 28 de fevereiro de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 27 de fevereiro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 28 de fevereiro de 2023.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 27 de fevereiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 28 de fevereiro de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro, em 27 de fevereiro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba, em 28 de fevereiro de 2023.
 
 ## ANEXO — [a que se refere a alínea b) do n.º 1 do artigo 4.º]
 
@@ -229,3 +259,5 @@ Acessibilidade
 Os dados diários registados e os respetivos relatórios devem estar permanentemente acessíveis para o empregador ou dador de trabalho e para as autoridades de fiscalização. O sistema deve permitir a descarga de dados para dispositivos externos do empregador ou do dador de trabalho.
 
 As entidades de fiscalização devem poder aceder de forma imediata aos registos de tempos de trabalho efetuados pelo trabalhador, bem como a todos os demais elementos registados. A descarga e recolha de dados e respetivos ficheiros para as autoridades de fiscalização pode ser providenciada para endereço eletrónico indicado pelo agente de controlo.
+
+116215993

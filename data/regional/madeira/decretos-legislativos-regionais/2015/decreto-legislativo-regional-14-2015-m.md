@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24900/0981909820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2015/12/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2015-72934427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d856e1b4bba63ad247aa04bb3c07b4963b365d73c02d8f49c6ea99be14f0f8af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df00e0798d3e3347dcf145b8ae671488e453eaf5f4e8cc7a51e9160512d3105d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Certificado de Aptidão Profissional
+- Autoridade para as Condições do Trabalho
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Certificação Profissional
+- Certificado de Aptidão Profissional
 - Definição de Competências
-- Direcção Regional do Trabalho
-- Formação Regulamentada
-- Sistema Nacional de Qualificações
 - Direcção Geral do Emprego e das Relações de Trabalho
+- Direcção Regional de Qualificação Profissional
+- Direcção Regional do Trabalho
+- Formação Profissional
+- Formação Regulamentada
+- Inspecção Regional do Trabalho
+- Madeira.região Autónoma
 - Prazo
 - Profissão Regulamentada
 - Qualificação Profissional
-- Madeira.região Autónoma
 - Regime Jurídico
-- Direcção Regional de Qualificação Profissional
-- Inspecção Regional do Trabalho
-- Autoridade para as Condições do Trabalho
+- Sistema Nacional de Qualificações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37/2015/03/10/p/dre
@@ -101,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66702119:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:54Z'
   warnings: []
   errors: []
 ---
@@ -169,10 +185,10 @@ O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da s
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Madeira em 11 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 30 de novembro de 2015.**
+Assinado em 30 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22700/0003400040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/388/2023/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-2023-224661313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efffa457c74c51f8dfcd5afd6a824a755f26802c6276c6270cafa080c787802b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ff505017cfc36e2c7fc215c0a84344bc5e4f9d935a618f9fea40b79e7f1356a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Estatuto
-- Património Cultural
 - Orgânica
+- Património Cultural
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/
@@ -110,16 +110,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2021/05/11/p/dre
+- type: cites
+  target: pt:dre:124171140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163092607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164712109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186995873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:223/2012
+  label: Revoga, a partir de 1 de janeiro de 2024, a Portaria n.º 223/2012, de 24 de julho, Diário da República n.º 142/2012,
+    Série I
+  source: null
+  date: '2012-07-24'
+- type: repeals
+  target: pt:numero:portaria:227/2012
+  label: Revoga, a partir de 1 de janeiro de 2024, a Portaria n.º 227/2012, de 3 de agosto, Diário da República n.º 150/2012,
+    Série I
+  source: null
+  date: '2012-08-03'
+- type: repeals
+  target: pt:numero:portaria:265/2019
+  label: Revoga, a partir de 1 de janeiro de 2024, a Portaria n.º 265/2019, de 26 de agosto, Diário da República n.º 162/2019,
+    Série I
+  source: null
+  date: '2019-08-26'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:59Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +216,7 @@ A presente portaria entra em vigor no dia 1 de janeiro de 2024.
 
 Em 16 de novembro de 2023.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira.
 
 ## ANEXO — ESTATUTOS DO PATRIMÓNIO CULTURAL, I. P.
 
@@ -361,3 +427,5 @@ n) Em matéria de índole jurídica, preparar, desenvolver e acompanhar, em arti
 2 - As unidades referidas no número anterior são dirigidas por titulares de cargos de direção intermédia de 2.º grau.
 
 3 - O número de unidades orgânicas flexíveis não pode exceder, em cada momento, o limite máximo de 12.
+
+117074147

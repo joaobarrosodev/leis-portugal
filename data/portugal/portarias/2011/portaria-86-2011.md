@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/86/2011/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2011-278913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3c382e51ef0c10fd1c2174fa4c3c404bdc73ae51f2e85aa3eec53716ca8fa30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5680190f819a644266c040508bdbec2b056890bf9faee940adee738f091e7137
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
+- Açores
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
-- Produção Animal
-- GADO
-- Financiamento
-- Gado Caprino
 - Definição de Competências
-- Feader
-- Feaga
-- Gado Bovino
-- IFAP
 - Documento Eletrónico
 - Exploração Agrícola
+- Feader
+- Feaga
+- Financiamento
+- GADO
+- Gado Bovino
+- Gado Caprino
 - Gado Ovino
+- IFAP
+- Internet
+- Madeira.região Autónoma
 - Página na Internet
 - Política Agrícola Comum
-- Internet
 - Prémio aos Produtores de Vacas Aleitantes
+- Proder
 - Proderam
-- Produção Leiteira
-- Agricultor
-- Madeira.região Autónoma
 - Produção Agrícola
+- Produção Animal
+- Produção Leiteira
+- Produto Agrícola
 - Regulamento
 - Regulamento CE
-- Agricultura
-- Açores
 - Sistema de Financiamento a Agricultura e Pescas
 - Snira
 - Subsídio
-- Produto Agrícola
 - Vinha
 relationships:
 - type: cites
@@ -131,16 +131,23 @@ relationships:
   target: celex:32011R0065
   label: null
   source: http://data.europa.eu/eli/reg/2011/65/oj
+- type: repealed_by
+  target: pt:dre:106401323:por
+  label: Revogado, a partir de 07.02.2017, e com efeitos a 01.01.2017 o Regulamento Geral de Procedimentos de Acesso às Ajudas
+    e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado em anexo ao presente diploma, pelo(a) Portaria n.º 58/2017 - Diário
+    da República n.º 26/2017, Série I de 2017-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-2017-106401323
+  date: '2017-02-06'
 article_structure:
   article_count: 27
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:12Z'
   warnings: []
   errors: []
 ---

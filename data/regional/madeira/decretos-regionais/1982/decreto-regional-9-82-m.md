@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1982-397488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583a1bf45ea629136012efad3fb4a744d087607fa14149e0b3109f36f4a33055
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f20b35fe1e513bfe511f523f17e302d21e43bc120bee342806c08298f8c2f5a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- AVAL do Estado
+- Governo Regional
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:52Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +101,16 @@ Nestes termos:
 
 A Assembleia Regional, ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º O limite máximo anual de avales a prestar pelo Governo Regional em 1982 é de 1,5 milhões de contos.
+Artigo 1.º O limite máximo anual de avales a prestar pelo Governo Regional em 1982 é de 1,5 milhões de contos.
 
-###### Art. 2.º No montante referido no artigo anterior não estão abrangidas as revalidações dos avales já prestados.
+Art. 2.º No montante referido no artigo anterior não estão abrangidas as revalidações dos avales já prestados.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 20 de Julho de 1982.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 27 de Julho de 1982.**
+Assinado em 27 de Julho de 1982.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

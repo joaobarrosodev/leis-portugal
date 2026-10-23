@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23700/0000300019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293/2022/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-2022-204552591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b35be3508e4514900bdc4b6ee23ca1bee1f229a2d489b9685338c5efb8793571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3758db0c54ce65390308afb335b5f8e4148b293467c67d505958271b75be46d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Desempregado
-- Regulamentação de Atos Legislativos
-- Refugiado
-- Jovem
-- Inserção Profissional
+- Contrato de Trabalho
 - Criação de Emprego
-- Prémio
+- Desempregado
 - Desemprego
 - Emprego
 - Estágio de Formação
-- Promoção de Emprego
+- Formação Profissional
+- Inserção Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Medida Empreende XXI
 - Política de Emprego
+- Prémio
+- Promoção de Emprego
 - Protecção Temporária
 - Reconversão Profissional
-- Contrato de Trabalho
-- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
-- Medida Empreende XXI
+- Refugiado
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -127,16 +127,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/2009/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/2009/07/23/p/dre
+- type: cites
+  target: pt:dre:106844789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106938485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107541408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164955365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66818377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66818379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67507927:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
+  article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:04Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +335,9 @@ o) Pessoa a quem tenha sido aplicada medida de promoção e proteção de acolhi
 
 10 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +367,9 @@ c) Conste do acordo escrito a intenção de celebração e a data de início efe
 
 11 - (Anterior n.º 7.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O estágio tem a duração de nove meses, não prorrogáveis, sem prejuízo do disposto no n.º 6 do artigo 6.º e nos números seguintes.
 
@@ -265,7 +377,9 @@ c) Conste do acordo escrito a intenção de celebração e a data de início efe
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O estagiário tem direito a:
 
@@ -285,13 +399,17 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os destinatários previstos nas alíneas d) a j), l), m) e o) do n.º 1 do artigo 3.º, bem como os estagiários integrados em projetos de estágio em território do interior, têm direito a que a entidade promotora assegure o respetivo transporte entre a sua residência habitual e o local do estágio.
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +429,9 @@ b) [...]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - À entidade promotora que inicie com o estagiário um contrato de trabalho sem termo, no prazo máximo de 20 dias úteis a contar da data de conclusão do estágio, é concedido um prémio ao emprego de valor equivalente a duas vezes a retribuição base mensal nele prevista, até ao limite de cinco vezes o valor do IAS.
 
@@ -343,7 +463,9 @@ b) [...]
 
 15 - (Anterior n.º 14.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -355,7 +477,9 @@ a) [...]
 
 b) A segunda prestação é paga no 13.º mês após o início de vigência do contrato de trabalho sem termo, verificada a manutenção do contrato de trabalho e a manutenção do nível de emprego observado à data de início do contrato, nos termos previstos no artigo 17.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -391,7 +515,9 @@ d) [...]
 
 13 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -421,7 +547,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 É republicada, em anexo à presente portaria, da qual faz parte integrante, a [Portaria n.º 206/2020](https://diariodarepublica.pt/dr/detalhe/portaria/206-2020-141259624), de 27 de agosto, na sua atual redação, com as alterações agora introduzidas.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 7 de dezembro de 2022.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 7 de dezembro de 2022.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -886,3 +1012,5 @@ Com a entrada em vigor da presente portaria é revogada a [Portaria n.º 131/201
 ###### Artigo 27.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+115952208

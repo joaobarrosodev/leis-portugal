@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/379-a/2025/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2025-945116939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:04:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2da9242e3f1d5371ad841bb2c3a9fe0a1fa6f05a1b2c09c8da1bac4c829553
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d87f83c688c99a1993665cb232d938de9e19409fdc8e34bb55f42c60873fe3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:04:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
-- Regulamentação de Atos Legislativos
-- Recrutamento de Pessoal
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:945460847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:365-A/2025
+  label: Altera, a partir de 08 de novembro de 2025, o anexo à Portaria n.º 365-A/2025/1, de 23 de outubro, Diário da República
+    n.º 205/2025, Suplemento, Série I
+  source: null
+  date: '2025-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2025/09/19/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/365-a/2025/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/365-a/2025/10/23/p/dre
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935913495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941852920:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:04:25Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +146,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 7 de novembro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -147,3 +165,7 @@ Vagas de quadro de zona pedagógica
 | 61 | 1 | 7 | 1 | 4 | 0 | 3 | 1 | 3 | 1 | 1 | 8 | 0 | 1 | 1 | 6 | 1 | 5 | 2 | 5 | 3 | 2 | 0 | 0 | 9 | 2 | 5 | 0 | 1 | 73 |
 | 62 | 1 | 9 | 0 | 2 | 0 | 2 | 1 | 0 | 1 | 2 | 7 | 1 | 1 | 0 | 3 | 1 | 3 | 1 | 3 | 0 | 0 | 0 | 1 | 5 | 2 | 8 | 0 | 2 | 56 |
 | Total geral | 33 | 215 | 45 | 58 | 20 | 81 | 49 | 17 | 16 | 9 | 257 | 47 | 60 | 34 | 96 | 15 | 100 | 29 | 142 | 47 | 54 | 11 | 10 | 180 | 23 | 139 | 4 | 9 | 1 800 |
+
+119748363
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { text-align:right; margin-right:6px; } .Tbl11 { text-align:right; margin-right:3px; } .Tbl12 { text-align:right; margin-right:4px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { text-align:right; margin-right:22px; }

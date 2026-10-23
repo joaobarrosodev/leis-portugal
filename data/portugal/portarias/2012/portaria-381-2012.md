@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22600/0671506718.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/381/2012/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/381-2012-191080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd59575572bee5d160959894aff0fac819b0b4466058c5ff9800ca69b2b3777
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c371d2ee5f3a03386f2a0ab7bd02b6356392b2f3f657811d151cfbfe0b9ffe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Assistência Médica
 - Assistência Medicamentosa
+- Cirurgia
 - Consulta Médica
 - Contrato Programa
-- Definição de Competências
-- Serviço Nacional de Saúde
-- Administração Central do Sistema de Saúde
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
-- Preço
 - Cuidados Médicos
-- Regulamento
-- Cirurgia
+- Definição de Competências
 - Doença
+- Preço
+- Regulamento
+- Serviço Nacional de Saúde
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 - Transporte de Doentes
 relationships:
 - type: cites
@@ -93,16 +93,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1454/2009/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1454/2009/12/29/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116307676:por
+  label: Revogada a Port 1454/2009 de 29-dez, na redação da presente Portaria, pelo(a) Portaria n.º 245/2018 - Diário da República
+    n.º 169/2018, Série I de 2018-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-2018-116307676
+  date: '2018-09-03'
 article_structure:
-  article_count: 17
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:52Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +153,15 @@ O Regulamento do Programa de Tratamento Cirúrgico da Obesidade (PTCO), aprovado
 
 Regulamento do Programa de Tratamento Cirúrgico da Obesidade
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente Regulamento estabelece as regras sob as quais se rege o Programa de Tratamento Cirúrgico da obesidade (PTCO).
 
-###### Artigo 2.º — Âmbito de aplicação subjetivo
+Artigo 2.º
+
+Âmbito de aplicação subjetivo
 
 1 - São abrangidas pelo presente Regulamento as entidades integradas no Serviço Nacional de Saúde (SNS).
 
@@ -145,7 +171,9 @@ O presente Regulamento estabelece as regras sob as quais se rege o Programa de T
 
 4 - Apenas as entidades reconhecidas pela Direção-Geral da Saúde como centro de tratamento (CT) ou centro de elevada diferenciação (CED) da obesidade podem efetuar tratamento cirúrgico da obesidade.
 
-###### Artigo 3.º — Eventos e procedimentos no âmbito do tratamento cirúrgico da obesidade
+Artigo 3.º
+
+Eventos e procedimentos no âmbito do tratamento cirúrgico da obesidade
 
 1 - As entidades previstas no artigo anterior apenas podem realizar os procedimentos da CID-9-MC 44.69 - Reconstrução do estômago NCOP, 44.95 - Procedimento restritivo gástrico laparoscópico, 44.31 - Bypass gástrico alto, 44.38 - Gastroenterostomialaparoscópica, 44.39 - Gastroenterostomia NCOP e 44.68 - Gastroplastia laparoscópica.
 
@@ -155,7 +183,9 @@ O presente Regulamento estabelece as regras sob as quais se rege o Programa de T
 
 4 - Encontram-se ainda no âmbito deste programa todos os eventos clínicos e administrativos, necessários à adequada avaliação, tratamento e catamnese, enquadrados no episódio terapêutico relativo a doentes propostos para tratamento cirúrgico da obesidade.
 
-###### Artigo 4.º — Definições
+Artigo 4.º
+
+Definições
 
 1 - Para efeitos da presente portaria entende-se por:
 
@@ -173,7 +203,9 @@ f) 'Eventos clínicos e administrativos' - ações institucionais, físicas ou v
 
 g) 'Episódio terapêutico' - conjunto coerente de eventos e correspondentes registos que ocorrem num período temporal e que respondem a um plano de cuidados. Traduz a resposta institucional aos problemas apresentados e é valorizado através da faturação.
 
-###### Artigo 5.º — Faseamento e designação das fases de tratamento
+Artigo 5.º
+
+Faseamento e designação das fases de tratamento
 
 1 - Ao conjunto de cuidados correspondentes a cada fase do episódio terapêutico, no âmbito do PTCO, atribuem -se as seguintes designações:
 
@@ -187,7 +219,9 @@ d) PTCO - 3.º ano de follow-up.
 
 2 - As fases de tratamento descritas no número anterior obedecem àquela ordem sequencial e de precedência, considerando-se apenas como concluída cada fase de tratamento após realização de todos os atos clínicos nela compreendidos.
 
-###### Artigo 6.º — Prestações de saúde a realizar no âmbito do PTCO
+Artigo 6.º
+
+Prestações de saúde a realizar no âmbito do PTCO
 
 1 - O conjunto de cuidados mínimos a prestar na fase PTCO - pré-avaliação e cirurgia bariátrica são os seguintes:
 
@@ -221,7 +255,9 @@ c) Os meios complementares de diagnóstico e terapêutica prescritos no âmbito 
 
 5 - A definição e listagem do conjunto dos atos clínicos que impliquem a utilização das novas técnicas e procedimentos a que se refere o n.º 2 do artigo 3.º, incluindo os meios complementares de diagnóstico e terapêutica, que, no mínimo, devem ser realizados no âmbito de cada uma das fases de tratamento do PTCO, em função dos procedimentos realizados, é da competência da Direção-Geral da Saúde.
 
-###### Artigo 7.º — Tempos de acesso
+Artigo 7.º
+
+Tempos de acesso
 
 1 - Os tempos de acesso aplicáveis às consultas hospitalares e a cirurgia bariátrica, no âmbito do PTCO, são regulados pelo Programa Consulta a Tempo e Horas e pelo SIGIC, devendo ser respeitada a ordem cronológica de referenciação, sem prejuízo da prioridade clínica estabelecida.
 
@@ -229,7 +265,9 @@ c) Os meios complementares de diagnóstico e terapêutica prescritos no âmbito 
 
 3 - O procedimento de cirurgia bariátrica deve ocorrer de acordo com as prioridades estabelecidas e os respetivos tempos máximos definidos na portaria dos TMRG, garantindo-se que não é ultrapassado o prazo máximo de nove meses, a contar da inscrição do doente em lista de inscritos para cirurgia efetuada na consulta de AMTCO.
 
-###### Artigo 8.º — Transferência
+Artigo 8.º
+
+Transferência
 
 1 - Os encargos referentes a transporte que ocorram no âmbito do PTCO, até à realização da cirurgia, são da responsabilidade do hospital de origem.
 
@@ -239,7 +277,9 @@ c) Os meios complementares de diagnóstico e terapêutica prescritos no âmbito 
 
 4 - Fora das situações previstas nos artigos anteriores, aplicam-se as regras gerais sobre transporte de doentes não urgentes, nomeadamente no que respeita à responsabilidade sobre os encargos.
 
-###### Artigo 9.º — Pagamentos
+Artigo 9.º
+
+Pagamentos
 
 1 - O pagamento às entidades integradas no SNS no âmbito do PTCO é realizado nos seguintes termos:
 
@@ -249,7 +289,9 @@ b) No caso de beneficiários de subsistemas de saúde ou terceiros legal ou cont
 
 2 - Para a produção adicional no tratamento cirúrgico da obesidade realizada por entidades integradas no Serviço Nacional de Saúde e unidades prestadoras de cuidados de saúde privadas ou sociais em sede de convenções estabelecidas no âmbito do SIGIC aplica-se os preços do regulamento das tabelas de preços a praticar para a produção adicional realizada no SIGIC, estabelecidos no artigo seguinte.
 
-###### Artigo 10.º — Preços
+Artigo 10.º
+
+Preços
 
 1 - O preço compreensivo a faturar faseadamente, por cada doente intervencionado, mediante cirurgia de banda gástrica, é de:
 
@@ -273,7 +315,9 @@ d) (euro) 1431,66, para pagamento da fase PTCO - 3.º ano de follow-up.
 
 3 - As novas técnicas e procedimentos a que se refere o n.º 2 do artigo 3.º são pagos, pelo valor do preço compreensivo em vigor para a cirurgia de banda gástrica, aplicando-se-lhes em tudo o demais as regras constantes do presente Regulamento e do SIGIC.
 
-###### Artigo 11.º — Recurso a Unidades de Cuidados Intensivos em instituições convencionadas
+Artigo 11.º
+
+Recurso a Unidades de Cuidados Intensivos em instituições convencionadas
 
 1 - Se no âmbito de um internamento para rea-lização da cirurgia ou resolução de complicação ou intercorrência numa entidade convencionada, for necessária a utilização de uma unidade de cuidados intensivos (UCI), a entidade convencionada é responsável por providenciar o internamento neste nível de cuidados.
 
@@ -283,13 +327,17 @@ d) (euro) 1431,66, para pagamento da fase PTCO - 3.º ano de follow-up.
 
 4 - Na impossibilidade da transferência referida no número anterior, por falta de vagas, a entidade convencionada fatura à administração regional de saúde todo o período de internamento na UCI, de acordo com os preços constantes da tabela do SNS, no caso de se encontrar devidamente justificado as tentativas de transferência.
 
-###### Artigo 12.º — Faturação
+Artigo 12.º
+
+Faturação
 
 1 - A faturação dos tratamentos de obesidade está dependente do cumprimento das regras estabelecidas no presente Regulamento, bem como das orientações e diretrizes emanadas pela Direção-Geral da Saúde e pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), nesta matéria.
 
 2 - As condições e procedimentos de pagamento dos tratamentos de obesidade são definidos através de circular normativa da ACSS, I. P.
 
-###### Artigo 13.º — Disposição final
+Artigo 13.º
+
+Disposição final
 
 O PTCO rege-se pelas regras do SIGIC, sendo em todas as matérias não especificadas no âmbito da presente portaria aplicável o Regulamento do SIGIC em vigor.»
 
@@ -307,4 +355,4 @@ O PTCO rege-se pelas regras do SIGIC, sendo em todas as matérias não especific
 
 A presente portaria produz efeitos desde 1 de janeiro de 2012.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 8 de novembro de 2012.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 8 de novembro de 2012.

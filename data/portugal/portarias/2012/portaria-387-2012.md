@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/387/2012/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2012-190607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54bbccca5ad3a98912c3273cce1266c39e2dc65a85141626c429c9f6d6c22d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e891a4442e3dfffef856963aa6ddf7e7955d3716107e9d17ac296a3efbce883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto dos Registos e do Notariado
 - Definição de Competências
 - Estatuto
+- Instituto dos Registos e do Notariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/2012/07/12/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/520/2007/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/520/2007/04/30/p/dre
+- type: cites
+  target: pt:dre:179775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:54Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +125,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 9 de novembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 9 de novembro de 2012.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DOS REGISTOS E DO NOTARIADO, I. P.
 

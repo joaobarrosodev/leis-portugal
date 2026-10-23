@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/99/2025/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2025-910517160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b73dac2768fce9dbe75f9418d94bd575dc4b0ba9731c39d8daf29582c13e8e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 887371a101e7916244aeba1b9adbcc199146fbe89373e7d22d2eb66a513643a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metrologia
-- Regulamentação de Atos Legislativos
+- Certificado de Qualidade
 - Combustível
 - Fiscalização
 - Gás
-- Veículo
-- Certificado de Qualidade
 - Instituto Português da Qualidade
+- Metrologia
 - Organização Internacional de Metrologia Legal
+- Regulamentação de Atos Legislativos
 - Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:32015L1535
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/211/2022/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/211/2022/08/23/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200139611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:22Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +141,7 @@ Ao abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 26 de fevereiro de 2025.**
+O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 26 de fevereiro de 2025.
 
 ## ANEXO — Regulamento do Controlo Metrológico Legal dos Sistemas de Medição de Combustível Gasoso Comprimido para Veículos
 
@@ -200,3 +212,5 @@ O controlo metrológico legal dos Sistemas de Medição de Combustível Gasoso C
 ###### Artigo 12.º — Disposição final
 
 O disposto nos artigos anteriores não impedem a comercialização, nem a utilização posterior dos Sistemas de Medição de Combustível Gasoso Comprimido para Veículos acompanhados de certificados de avaliação da conformidade emitidos por organismos reconhecidos, ao abrigo da legislação da União Europeia aplicável, no âmbito da atividade de metrologia legal, com base em especificações e procedimentos que assegurem uma qualidade metrológica à visada pelo presente Regulamento, sendo a equivalência avaliada pelo IPQ, I. P.
+
+118792425

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 146/2023, 3º Suplemento, Série I de 2023-07-28
   number: '146'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 114-(2) a 114-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14603/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244-c/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-c-2023-216406867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d29a568c178cc0157dd5be66cf8dd351d2da2b5cc60ccd6bd6f855f5b4262b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a3871c65dbd9c86aee7088f7481fc0b2451682bc7c90d303a9d6ecc90b57174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- GADO
 - Beneficiário
-- Silvicultura
+- GADO
 - IFAP
 - Instituto da Conservação da Natureza e das Florestas
 - Página na Internet
@@ -79,14 +79,14 @@ subjects:
 - Parque Natural do Douro Internacional
 - Parque Natural do Vale do Guadiana
 - Pastagens
+- Plano Estratégico da Política Agrícola Comum para Portugal
 - Plano Zonal do Parque Nacional da Peneda Gerês
 - Plano Zonal do Parque Natural da Peneda Gerês
 - Plano Zonal do Parque Natural de Montesinho
 - Plano Zonal do Parque Natural do Douro Internacional
 - Programa Zonal de Castro Verde
-- Agricultura
+- Silvicultura
 - Vinha
-- Plano Estratégico da Política Agrícola Comum para Portugal
 relationships:
 - type: cites
   target: celex:32021R2115
@@ -108,16 +108,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-a/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-a/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215375646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:08Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +172,9 @@ b) [...]
 
 2 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Para efeitos do ano de 2023, o compromisso de partilha de dados previsto na alínea c) do n.º 3 do artigo 14.º, na alínea e) do n.º 3 do artigo 16.º, na alínea d) do n.º 1 do artigo 18.º, na alínea c) do n.º 1 do artigo 20.º e na alínea c) do n.º 1 do artigo 22.º é cumprido através da detenção dos dados em formato eletrónico.
 
@@ -190,4 +204,6 @@ A presente portaria entra em vigor no dia útil seguinte ao da sua publicação 
 
 Em 28 de julho de 2023.
 
-**O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.**
+O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.
+
+116730797

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0005800059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/425/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/425-2023-229857701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8f5764b03b57af3f5a831a3358ca3d02d56977a0fffdf06d4a4e16cb66dabfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c49aae1e8c878b30bccbc9ba985615bba321f854276566ebcf72be99aa5533
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acumulação de Prestações Sociais
-- Regulamentação de Atos Legislativos
+- Deficiente
 - Pessoa em Situação de Dependência
+- Prestação Social para a Inclusão
 - Prestações da Segurança Social
 - Proteção Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Valor de Referência
-- Prestação Social para a Inclusão
 relationships:
 - type: amended_by
   target: pt:dre:910888301:por
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/31-b/2023/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/31-b/2023/01/19/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206347149:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:910888301:por
+  label: Revogada, a partir de 15 de março de 2025, com efeitos a partir de 1 de janeiro de 2025, pelo(a) Portaria n.º 113/2025/1
+    - Diário da República n.º 52/2025, Série I de 2025-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2025-910888301
+  date: '2025-03-14'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:12Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +166,6 @@ O limite máximo anual de acumulação da componente base da prestação social 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.
+
+117137002

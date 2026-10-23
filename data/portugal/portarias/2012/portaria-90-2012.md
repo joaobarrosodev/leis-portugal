@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/2012/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-2012-553886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b293aaba7961bbf0539bbe2dddc638e43bd3afd3a023da661e25a34ce0109728
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06f23b025718e192ac8985fd81fe153bb5489b86930864dab0eef6238a73cb8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agência Portuguesa do Ambiente
+- Agricultura
 - Arquitecto
-- Ordem dos Biólogos
+- Autoridade Florestal Nacional
 - Autoridade Nacional
-- Direção Geral de Agricultura e Desenvolvimento Rural
 - Biólogo
-- Marinha Mercante
-- Pessoal do MAR
-- Ordenamento do Território
-- Direcção Regional de Agricultura e Pescas
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direção Geral de Alimentação e Veterinária
-- União Europeia
-- Pesca
-- Direito de Estabelecimento
-- Livre Circulação de Pessoas
-- Direção Geral do Território
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direção Geral do Território
+- Direcção Regional de Agricultura e Pescas
+- Direito de Estabelecimento
+- Equivalência de Diplomas
+- Exploração Florestal
 - Instituto Português de Acreditação
+- Livre Circulação de Pessoas
+- Marinha Mercante
 - Ordem dos Arquitectos
+- Ordem dos Biólogos
 - Ordem dos Médicos Veterinários
+- Ordenamento do Território
+- Pesca
+- Pessoal do MAR
 - Pessoal Técnico
 - Prestação de Serviços
-- Exploração Florestal
 - Profissão Independente
 - Qualificação Profissional
-- Autoridade Florestal Nacional
-- Equivalência de Diplomas
-- Agricultura
 - Trabalhador Comunitário
-- Agência Portuguesa do Ambiente
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:138571583:por
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:28Z'
   warnings: []
   errors: []
 ---
@@ -328,4 +328,4 @@ e) A Agência Portuguesa do Ambiente, I. P., relativamente às profissões refer
 
 A presente portaria entra em vigor em 1 de abril de 2012.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 28 de março de 2012.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 28 de março de 2012.

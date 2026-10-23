@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/10300/0182901832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/287/2010/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/287-2010-332698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d26e5fba4bf4e17962d36da5b31da6e043d4e0a3aa217718b9afc6e6871bc64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 662a2b136e058aa8f70ec9a4bf057a984ad331f5d44ef5af3992e8463a59e82e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
 - Crédito Bonificado
 - Definição de Competências
+- Financiamento
 - Fundo Florestal Permanente
+- Garantia
+- Ifadap
 - Prémio de Seguro
 - Regulamento
-- Ifadap
 - Seguro Florestal
 - Subsídio
 - Subsídio a Agricultores
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:496763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496763:por
+  label: "Prorroga por mais seis meses, o prazo de execução das ações abrangidas nos protocolos celebrados ao abrigo da presente\
+    \ Portaria, pela PORT.204/2013.17.06.2013.MAMAOT, DR.IS [114] de 17.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-2013-496763
+  date: '2013-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
   label: null
@@ -123,16 +129,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
+- type: cites
+  target: pt:dre:1141332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3075921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659156:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278772:por
+  label: "Revogada, pela PORT.113/2011.23.03.2011.MADRP, DR.IS [58] de 23.03.2011, sem prejuízo do disposto no art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2011-278772
+  date: '2011-03-23'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:27Z'
   warnings: []
   errors: []
 ---

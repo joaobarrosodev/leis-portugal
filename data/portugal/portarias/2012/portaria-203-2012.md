@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/2012/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 253023b7eacb9fe6fb2bbf3b7266ed35d5461777a63d94a59f2a49eba11f558b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e88e3e87941c1b75eeac07107bf06c9f5e9d0c072f4ca3f500043f068e819d65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Alteração Climática
+- Apicultura
+- Catástrofe
 - Contribuições da Segurança Social
 - Direcção Regional de Agricultura e Pescas
 - Dívidas à Segurança Social
-- Exploração Pecuária
-- Catástrofe
-- SECA
 - Exploração Agrícola
+- Exploração Pecuária
+- Instituto da Segurança Social
 - Prazo
-- Apicultura
 - Produção Agrícola
-- Alteração Climática
+- SECA
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:194660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194660:por
+  label: "Alterado o art. 7º da Port 178-A/2012, de 31-maio, na redação do presente diploma, pela PORT.226-A/2012.01.08.2012.MAMAOT,\
+    \ DR.IS [148-Supl] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-a-2012-194660
+  date: '2012-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/178-a/2012/05/31/p/dre
   label: null
@@ -92,16 +98,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/2012/03/27/p/dre
+- type: cites
+  target: pt:dre:606319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:49Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +146,9 @@ Os artigos 3.º e 7.º da [Portaria n.º 178-A/2012](https://diariodarepublica.p
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)
 
@@ -148,4 +160,4 @@ Os artigos 3.º e 7.º da [Portaria n.º 178-A/2012](https://diariodarepublica.p
 
 O disposto na presente portaria produz efeitos desde a data de entrada em vigor da [Portaria n.º 178-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/178-a-2012-606319), de 31 de maio.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 29 de junho de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de junho de 2012.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 29 de junho de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de junho de 2012.

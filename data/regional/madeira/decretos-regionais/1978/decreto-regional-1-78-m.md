@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1978-447908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 403ed2aee7deaa16c43a54729391204a6c94ec4fde6b1b4e436567a88b482e80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 238f0312fd699792315dd5d5f2d839192ec1e748f74b6150196f8624062812a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão
+- Comissão de Informação Pública sobre Espectáculos de Cinema e Teatro Realizados na Região da Madeira
+- Criação de Serviços
+- Madeira.região Autónoma
+- Secretaria Regional da Educação e Cultura
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:14Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +97,11 @@ A legislação em vigor sobre espectáculos, nomeadamente de cinema e teatro, n�
 
 Deste modo, usando da faculdade conferida nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º - É criada a Comissão de Informação Pública sobre Espectáculos de Cinema e Teatro Realizados na Região da Madeira.
+Artigo 1.º - É criada a Comissão de Informação Pública sobre Espectáculos de Cinema e Teatro Realizados na Região da Madeira.
 
-###### Art. 2.º A Secretaria Regional de Educação e Cultura nomeará a Comissão referida no artigo anterior e aprovará o seu regulamento.
+Art. 2.º A Secretaria Regional de Educação e Cultura nomeará a Comissão referida no artigo anterior e aprovará o seu regulamento.
 
-###### Art. 3.º - 1 - A qualificação e o número dos elementos da Comissão ficam ao critério da Secretaria Regional de Educação e Cultura.
+Art. 3.º - 1 - A qualificação e o número dos elementos da Comissão ficam ao critério da Secretaria Regional de Educação e Cultura.
 
 2 - Da Comissão deverão, no entanto, e sempre que possível, fazer parte:
 
@@ -110,22 +119,22 @@ f) Um representante da juventude;
 
 g) Um representante dos órgãos de comunicação social.
 
-###### Art. 4.º A Comissão exercerá funções pelo período de um ano, podendo os seus membros ser reconduzidos por igual período de tempo ou substituídos em qualquer momento, segundo critérios de assiduidade e eficiência a definir no seu regulamento interno.
+Art. 4.º A Comissão exercerá funções pelo período de um ano, podendo os seus membros ser reconduzidos por igual período de tempo ou substituídos em qualquer momento, segundo critérios de assiduidade e eficiência a definir no seu regulamento interno.
 
-###### Art. 5.º A Comissão será subsidiada para o eficaz exercício da sua missão, e os seus componentes, quando no exercício de funções relacionadas com esta missão, ficam dispensados de outras funções públicas.
+Art. 5.º A Comissão será subsidiada para o eficaz exercício da sua missão, e os seus componentes, quando no exercício de funções relacionadas com esta missão, ficam dispensados de outras funções públicas.
 
-###### Art. 6.º Os empresários ou outros responsáveis pela realização de espectáculos de cinema ou teatro na Região comunicarão à Comissão de Informação os respectivos programas com antecedência útil, constando desta comunicação os seus conteúdos e fichas de apreciação crítica, bem como deverão facilitar às suas sub-comissões a assistência a antestreias.
+Art. 6.º Os empresários ou outros responsáveis pela realização de espectáculos de cinema ou teatro na Região comunicarão à Comissão de Informação os respectivos programas com antecedência útil, constando desta comunicação os seus conteúdos e fichas de apreciação crítica, bem como deverão facilitar às suas sub-comissões a assistência a antestreias.
 
-###### Art. 7.º A Comissão de Informação enviará os seus pareceres para divulgação aos órgãos de comunicação social.
+Art. 7.º A Comissão de Informação enviará os seus pareceres para divulgação aos órgãos de comunicação social.
 
-###### Art. 8.º A actividade da Comissão de Informação deverá exercer-se com prioridade relativamente aos filmes classificados «para maiores de 18 anos» e, bem assim, aos que por sua qualidade se tornem aconselháveis.
+Art. 8.º A actividade da Comissão de Informação deverá exercer-se com prioridade relativamente aos filmes classificados «para maiores de 18 anos» e, bem assim, aos que por sua qualidade se tornem aconselháveis.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 13 de Dezembro de 1977.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 30 de Dezembro de 1977.**
+Assinado em 30 de Dezembro de 1977.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

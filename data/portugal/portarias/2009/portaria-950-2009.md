@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/950/2009/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/950-2009-488287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26adbd2542bae914216b4251eb2dbeed6ff03b0cda05816d8b1a24c5944163d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556957f436d435dd916c20f5aa53e3f6a6f50c9a7c82424ff07d81c5ce1839a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:343462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343462:por
+  label: "Anexados vários prédios rústicos e renovada a concessão, por um período de seis anos, da zona de caça criada pela\
+    \ Port 816/98, de 26-Set, na redacção da presente portaria, pela PORT.783/2010.20.08.2010.MADRP, DR.IS [162] de 20.08.2010\0\
+    010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/783-2010-343462
+  date: '2010-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -87,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/1998/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/1998/09/26/p/dre
+- type: cites
+  target: pt:dre:245556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626382:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:15Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +142,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 5 de Agosto de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Agosto de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0551405515.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0551405515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0551405515.pdf)

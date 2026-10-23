@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/382/2012/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2012-191170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efb10deba0379666ec5a13288a21a40d7a1f07ad297d6d76267c25570221e6a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 316849962f2fae0c655b0e10eb946ef39a9e70131184206f7e026ec7f49f3642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,26 @@ reuse:
 subjects:
 - Atividade Agrícola
 - Atividade Industrial
-- Ficheiro Informático
-- Empresa
-- Contabilidade
 - Código do IRC
-- Inspecção Tributária
-- Sistema de Normalização Contabilística
-- IRC
 - Comércio
+- Contabilidade
+- Empresa
+- Ficheiro Informático
+- Inspecção Tributária
+- IRC
+- Sistema de Normalização Contabilística
 relationships:
 - type: amended_by
   target: pt:dre:260384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260384:por
+  label: "Determinado que o ficheiro a que se refere o nº 1 da Port 321-A/2007, de 26-mar, na redação do presente diploma,\
+    \ passa a ter a estrutura de dados (que entra em vigor em 01.07.2013) constante do anexo à PORT.160/2013.23.04.2013.MF,\
+    \ DR.IS [79] de 23.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2013-260384
+  date: '2013-04-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
   label: null
@@ -101,16 +108,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260384:por
+  label: "Revogada, a partir de 28.04.2013, a presente Portaria, pela PORT.160/2013.23.04.2013.MF, DR.IS [79] de 23.04.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2013-260384
+  date: '2013-04-23'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:52Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +172,7 @@ O ficheiro a que se refere o n.º 1 da [Portaria n.º 321-A/2007](https://diario
 
 A estrutura de dados a que se refere o artigo anterior entra em vigor em 1 de maio de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de novembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 14 de novembro de 2012.
 
 ## ANEXO — (a que se refere o artigo 1.º da presente portaria)
 
@@ -247,7 +280,7 @@ l) Na exportação dos valores não são aceites valores negativos. Quando exist
 
 1 - * Cabeçalho (Header). - Esta tabela contém informação geral alusiva ao sujeito passivo a que respeita o SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 2 - * Tabelas mestres (Masterfiles). - As tabelas mestres 2.1, 2.2, 2.3, 2.4 e 2.5 do ponto 1 desta estrutura de dados são obrigatórias, devendo ainda observar as condições referidas nas alíneas f), g), h) e i), quando aplicáveis.
 
@@ -255,15 +288,15 @@ l) Na exportação dos valores não são aceites valores negativos. Quando exist
 
 No caso de contas agregadoras que contenham subcontas com saldos devedores e subcontas com saldos credores, devem ser evidenciados esses saldos devedores e credores na conta agregadora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 2.2 - Tabela de clientes (Customer). - Esta tabela deve conter todos os registos movimentados no exercício no respetivo ficheiro de clientes, bem como aqueles que sejam implícitos nos movimentos e não constem do respetivo ficheiro. Se, por exemplo, existir uma fatura com o registo do número de contribuinte e morada do cliente, que não conste no ficheiro de clientes da aplicação, este deverá ser exportado como cliente no SAF-T (PT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 2.3 - Tabela de fornecedores (Supplier). - Esta tabela deve conter todos os registos movimentados no exercício na respetiva base de dados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 2.4 - Tabela de produtos/serviços (Product). - Nesta tabela deve constar o catálogo de produtos e tipos de serviços utilizados no sistema de faturação, que foram objeto de movimentação, e ainda os registos que sejam implícitos nos movimentos e que não existam na tabela de Produtos/Serviços da aplicação.
 
@@ -271,15 +304,15 @@ Se, por exemplo, existir uma fatura com uma linha de portes que não conste no f
 
 Devem constar ainda os impostos, taxas, ecotaxas e encargos parafiscais que aparecem mencionados na fatura e que contribuam ou não para a base tributável do IVA ou IS - exceto o IVA e o IS, os quais deverão ser refletidos na 2.5 - Tabela de impostos (TaxTable).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 2.5 - Tabela de impostos (TaxTable). - Nesta tabela registam-se os regimes fiscais de IVA, praticados em cada espaço fiscal e as rubricas do imposto do selo a liquidar, aplicáveis nas linhas dos documentos, registados na tabela 4 - Documentos comerciais (SourceDocuments).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 3 - Movimentos contabilísticos (GeneralLedgerEntries). - Nesta tabela registam-se os movimentos contabilísticos correspondentes ao período de exportação a que diz respeito o SAF-T (PT), não devendo os movimentos de abertura ser objeto de exportação, na medida em que estes são apenas refletidos ao nível da tabela de código de contas (GeneralLedger) nos campos saldo de abertura a débito da conta do plano de contas (OpeningDebitBalance) e saldo de abertura a crédito da conta do plano de contas (OpeningCreditBalance).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 4 - Documentos comerciais (SourceDocuments):
 
@@ -291,11 +324,11 @@ Para registos até 2012-12-31 e para não duplicar o montante das vendas ou anul
 
 Não devem ser exportadas linhas sem relevância fiscal, designadamente descrições técnicas, instruções de montagem e condições de garantia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods). - Não devem ser exportadas linhas sem relevância fiscal, designadamente descrições técnicas, instruções de montagem e condições de garantia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
 
 4.3 - Documentos de conferência de entrega de mercadorias ou da prestação de serviços (WorkingDocuments). - Nesta tabela devem ser exportados quaisquer outros documentos emitidos, independentemente da sua designação, suscetíveis de apresentação ao cliente para conferência de entrega de mercadorias ou da prestação de serviços, mesmo que objeto de faturação posterior.
 
@@ -303,4 +336,4 @@ Não devem ser exportados nesta tabela os documentos que devam constar nas tabel
 
 Não devem ser exportadas meras descrições técnicas, instruções de montagem e condições de garantia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22700/0672406740.pdf)

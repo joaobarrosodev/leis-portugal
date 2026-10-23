@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1982-375811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d21f5d61b0c3f5ec3fb0aa15ebfa617f94c39fa267d51957198a7f4c2e26540f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a305ab61a3b72a440ec229b84293570d0fd96ed8346fa71de8cac4265f1f4cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Informática
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Secretaria Regional do Planeamento e Finanças
+relationships:
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:12Z'
   warnings: []
   errors: []
 ---
@@ -95,42 +123,42 @@ Considerando, com fundamento nos motivos já assinalados, da maior oportunidade 
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os trabalhadores da Empresa de Electricidade da Madeira, E. P., adiante designada por EEM, E. P., que desempenham funções no Centro de Informática da EEM, E. P., transitam, por força do presente diploma, para os Serviços de Informática, integrados na Secretaria Regional do Planeamento e Finanças nos artigos seguintes.
+Artigo 1.º Os trabalhadores da Empresa de Electricidade da Madeira, E. P., adiante designada por EEM, E. P., que desempenham funções no Centro de Informática da EEM, E. P., transitam, por força do presente diploma, para os Serviços de Informática, integrados na Secretaria Regional do Planeamento e Finanças nos artigos seguintes.
 
-###### Art. 2.º Aos trabalhadores mencionados no artigo anterior é conferido o direito de optar, no prazo de 60 dias, a contar da data da publicação do presente diploma, entre a permanência no quadro da EEM, E. P., ou o ingresso nos Serviços de Informática do Governo Regional, ficando desse modo abrangido pelo estatuto em vigor para a função pública.
+Art. 2.º Aos trabalhadores mencionados no artigo anterior é conferido o direito de optar, no prazo de 60 dias, a contar da data da publicação do presente diploma, entre a permanência no quadro da EEM, E. P., ou o ingresso nos Serviços de Informática do Governo Regional, ficando desse modo abrangido pelo estatuto em vigor para a função pública.
 
-###### Art. 3.º Os trabalhadores que optarem pelo ingresso nos Serviços de Informática serão integrados nas carreiras e categorias previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e no [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de harmonia com as habilitações literárias, currículo e demais requisitos exigidos naqueles diplomas legais.
+Art. 3.º Os trabalhadores que optarem pelo ingresso nos Serviços de Informática serão integrados nas carreiras e categorias previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e no [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de harmonia com as habilitações literárias, currículo e demais requisitos exigidos naqueles diplomas legais.
 
-###### Art. 4.º Na integração do pessoal mencionado no artigo anterior no quadro dos Serviços de Informática da Secretaria Regional do Planeamento e Finanças serão observadas as disposições dos Decretos Regulamentares Regionais n.os [11/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-457425), de 10 de Novembro, e [3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e demais legislação que for subsidiariamente aplicável.
+Art. 4.º Na integração do pessoal mencionado no artigo anterior no quadro dos Serviços de Informática da Secretaria Regional do Planeamento e Finanças serão observadas as disposições dos Decretos Regulamentares Regionais n.os [11/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-457425), de 10 de Novembro, e [3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e demais legislação que for subsidiariamente aplicável.
 
-###### Art. 5.º Em nenhum caso, aos trabalhadores da EEM, E. P., que optarem pelo estatuto em vigor na função pública, nos termos previstos no artigo 2.º deste diploma, poderá ser atribuída categoria da qual resulte remuneração líquida inferior à auferida na EEM, E. P., a partir da data de entrada em vigor do presente diploma.
+Art. 5.º Em nenhum caso, aos trabalhadores da EEM, E. P., que optarem pelo estatuto em vigor na função pública, nos termos previstos no artigo 2.º deste diploma, poderá ser atribuída categoria da qual resulte remuneração líquida inferior à auferida na EEM, E. P., a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 6.º Sempre que, por força do disposto no artigo anterior, o vencimento a atribuir seja inferior ao fixado para a respectiva letra da função pública, a diferença será compensada, sendo anualmente fixada por despacho do Secretário Regional do Planeamento e Finanças.
+Art. 6.º Sempre que, por força do disposto no artigo anterior, o vencimento a atribuir seja inferior ao fixado para a respectiva letra da função pública, a diferença será compensada, sendo anualmente fixada por despacho do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 7.º O pessoal que, nos termos do presente diploma, for integrado efectivamente nos Serviços de Informática da Secretaria Regional do Planeamento e Finanças, fica abrangido pelo estatuto da aposentação e de pensão de sobrevivência em vigor na função pública, sendo-lhes para o efeito contado o tempo de serviço prestado na EEM, E. P.
+Art. 7.º O pessoal que, nos termos do presente diploma, for integrado efectivamente nos Serviços de Informática da Secretaria Regional do Planeamento e Finanças, fica abrangido pelo estatuto da aposentação e de pensão de sobrevivência em vigor na função pública, sendo-lhes para o efeito contado o tempo de serviço prestado na EEM, E. P.
 
-###### Art. 8.º - 1 - As pensões globais que forem devidas serão pagas pela Caixa Geral de Aposentações ou pelo Montepio dos Servidores do Estado, que receberá do Centro Nacional de Pensões e ainda do organismo a quem tiver sido cometido o encargo com as pensões complementares a quota-parte da pensão da responsabilidade desta última instituição e do mesmo organismo, de harmonia com a repartição estabelecida pelo [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos artigos 3.º, 6.º e 9.º
+Art. 8.º - 1 - As pensões globais que forem devidas serão pagas pela Caixa Geral de Aposentações ou pelo Montepio dos Servidores do Estado, que receberá do Centro Nacional de Pensões e ainda do organismo a quem tiver sido cometido o encargo com as pensões complementares a quota-parte da pensão da responsabilidade desta última instituição e do mesmo organismo, de harmonia com a repartição estabelecida pelo [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos artigos 3.º, 6.º e 9.º
 
 2 - A entrega das importâncias referidas no número anterior far-se-á através da conta corrente a abrir na Caixa Nacional de Previdência entre a Caixa Geral de Aposentações ou o Montepio dos Servidores do Estado, por um lado, e o Centro Nacional de Pensões e o organismo que responder pelas prestações complementares, pelo outro.
 
 3 - Ao subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo artigo 7.º
 
-###### Art. 9.º Até que as pensões de aposentação passem a ser pagas pela Caixa Geral de Aposentações, nos termos da lei aplicável, caberá à Secretaria Regional do Planeamento e Finanças o encargo com o pagamento das pensões provisórias e complementares a que houver entretanto lugar, devendo proceder-se aos necessários ajustamentos logo que o seu pagamento seja assumido pela Caixa Geral de Aposentações.
+Art. 9.º Até que as pensões de aposentação passem a ser pagas pela Caixa Geral de Aposentações, nos termos da lei aplicável, caberá à Secretaria Regional do Planeamento e Finanças o encargo com o pagamento das pensões provisórias e complementares a que houver entretanto lugar, devendo proceder-se aos necessários ajustamentos logo que o seu pagamento seja assumido pela Caixa Geral de Aposentações.
 
-###### Art. 10.º Os bens e direitos de natureza patrimonial afectos ao Centro de Informática da EEM, E. P., transitam para o património da Região Autónoma da Madeira, revertendo à posse e usufruição dos Serviços de Informática da Secretaria Regional do Planeamento e Finanças, com dispensa de quaisquer formalidades.
+Art. 10.º Os bens e direitos de natureza patrimonial afectos ao Centro de Informática da EEM, E. P., transitam para o património da Região Autónoma da Madeira, revertendo à posse e usufruição dos Serviços de Informática da Secretaria Regional do Planeamento e Finanças, com dispensa de quaisquer formalidades.
 
-###### Art. 11.º Os bens referidos no artigo anterior constarão, no entanto, de relações de cadastro devidamente discriminadas e autenticadas por representantes do conselho de gerência da EEM, E. P., e da Secretaria Regional do Planeamento e Finanças.
+Art. 11.º Os bens referidos no artigo anterior constarão, no entanto, de relações de cadastro devidamente discriminadas e autenticadas por representantes do conselho de gerência da EEM, E. P., e da Secretaria Regional do Planeamento e Finanças.
 
-###### Art. 12.º As dúvidas que suscitem na execução do presente diploma serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças, ouvida a Direcção Regional da Administração Pública e, em assuntos em que sejam aplicáveis os Estatutos da Aposentação e de Pensões de Sobrevivência, as dúvidas serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano, ouvida a Caixa Nacional de Previdência.
+Art. 12.º As dúvidas que suscitem na execução do presente diploma serão resolvidas por despacho do Secretário Regional do Planeamento e Finanças, ouvida a Direcção Regional da Administração Pública e, em assuntos em que sejam aplicáveis os Estatutos da Aposentação e de Pensões de Sobrevivência, as dúvidas serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano, ouvida a Caixa Nacional de Previdência.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado no Plenário do Governo Regional em 7 de Julho de 1982.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 26 de Agosto de 1982.**
+Assinado em 26 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

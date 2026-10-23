@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01600/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2024/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2024-838512863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a447302f4b493601f2d8dcc07f2cced92c60175ce319648e7d609813f4337a19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 354b104330e7b7992885fb92be3454bd6e52f850c41ce55a3b3ba21cb505f810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Contrato
-- Regulamentação de Atos Legislativos
 - Estatuto
-- Habitação Social
 - GNR
+- Habitação Social
 - Prazo
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Renda Apoiada
 - Serviços Sociais
-- Arrendamento Urbano para Habitação
 relationships:
+- type: amends
+  target: pt:numero:portaria:167/2017
+  label: Altera, a partir de 24 de janeiro de 2024, os artigos 11.º, 13.º e 17.º do Regulamento Geral de Atribuição de Casas
+    de Habitação Social dos Serviços Sociais da Guarda Nacional Republicana, aprovado em anexo à Portaria n.º 167/2017, de
+    22 de maio, Diário da República n.º 98/2017, Série I
+  source: null
+  date: '2017-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/262/1999/07/08/p/dre
   label: null
@@ -85,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/167/2017/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/167/2017/05/22/p/dre
+- type: cites
+  target: pt:dre:107047289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374995:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:57Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +146,7 @@ Os artigos 11.º, 13.º e 17.º do Regulamento Geral de Atribuição de Casas de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Administração Interna, Maria Isabel Solnado Porto Oneto, em 17 de janeiro de 2024.**
+A Secretária de Estado da Administração Interna, Maria Isabel Solnado Porto Oneto, em 17 de janeiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -143,7 +162,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 4 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -159,7 +180,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 7 - O valor a pagar aos SSGNR ou a estornar ao arrendatário, nos termos do número anterior, é devido até ao final do mês seguinte ao do início da aplicação do novo valor da renda.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -188,3 +211,5 @@ j) [...]
 3 - [...]
 
 4 - [...]»
+
+117265518

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03000/0067600678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/43/2012/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-2012-543069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d20655fe8047c28c0366f3f8b3b14e695eaccc342320c4cbe5dc6a248f9c8c82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48ec3dbf893d2e1c31e21728d0ad2fff9cc70bc1dbf795a85c9c07c5af4f14dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Publicidade
 - Campanha Vinícola
-- Vinho
+- Comércio
 - Concurso
 - Definição de Competências
-- Instituto da Vinha e do Vinho
+- Financiamento
 - IFAP
+- Instituto da Vinha e do Vinho
 - Países Terceiros
 - Promoção de Produtos
+- Publicidade
 - Regime de Apoio
 - Regulamento
-- Comércio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:499213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191538:por
+  label: "Alargado, para 31.12.2012, o prazo para apresentação dos pedidos de adiantamento previsto no nº 1 do art. 18º do\
+    \ Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado pela Port 1384-B/2008, de 02-dez,\
+    \ na redação do presente diploma, pela PORT.351/2012.30.10.2012.MAMAOT, DR.IS [210] de 30.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2012-191538
+  date: '2012-10-30'
 - type: cites
   target: celex:32007R1234
   label: null
@@ -106,16 +113,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1384-b/2008/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1384-b/2008/12/02/p/dre
+- type: repealed_by
+  target: pt:dre:499213:por
+  label: "Revogada, a partir de 14.08.2013, a Port 1384-B/2008, de 02-dez, que aprova o Regulamento do Apoio à Promoção de\
+    \ Vinhos em Mercados de Países Terceiros, na redação da presente portaria, pela PORT.257/2013.13.08.2013.MAGM, DR.IS [155]\
+    \ de 13.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-2013-499213
+  date: '2013-08-13'
 article_structure:
-  article_count: 12
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:10Z'
   warnings: []
   errors: []
 ---
@@ -174,13 +188,17 @@ e) ...
 
 5 - As entidades intervenientes promovem o intercâmbio dos dados e informação sobre esta medida de apoio, para um desempenho eficaz das funções atribuídas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A duração do apoio não pode ultrapassar três anos a contar da data limite para entrega do projeto, fixada no aviso de abertura de concurso.
 
 2 - O apoio concedido a um projeto no mercado de país terceiro por um período de três anos pode ser renovado, uma única vez, pelo período máximo de dois anos, devendo, para o efeito, o beneficiário apresentar um novo projeto que deve incluir a avaliação dos resultados obtidos anteriormente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São elegíveis as despesas diretamente relacionadas com a execução do projeto aprovado, relativas a determinada fase de execução, que sejam realizadas, pagas pelo beneficiário e apresentadas até ao pedido de saldo da fase a que respeitam, as quais incluem:
 
@@ -202,7 +220,9 @@ f) Despesas relativas às garantias constituídas para efeitos de pedidos de pag
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +230,9 @@ f) Despesas relativas às garantias constituídas para efeitos de pedidos de pag
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +242,9 @@ f) Despesas relativas às garantias constituídas para efeitos de pedidos de pag
 
 4 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto não excede a dotação orçamental comunitária, prevista no aviso de abertura, a decisão da EG sobre cada candidatura pode ser tomada isoladamente e comunicada ao respetivo candidato.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O beneficiário pode apresentar junto do IFAP, I. P., em cada fase de execução do projeto e o mais tardar até 15 de setembro, um pedido de adiantamento até ao montante correspondente a 100 % do apoio a conceder na fase em causa, descontado, se for caso disso, do montante já pago a título de pagamentos intermédios, mediante a entrega de uma garantia constituída a favor daquele organismo, de montante correspondente a 110 % do adiantamento solicitado.
 
@@ -230,7 +254,9 @@ f) Despesas relativas às garantias constituídas para efeitos de pedidos de pag
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O beneficiário deve apresentar ao IFAP, I. P., no prazo máximo de quatro meses após a conclusão de cada fase do projeto, um pedido de pagamento de saldo referente à fase em causa.
 
@@ -258,10 +284,12 @@ São revogados o n.º 4 do artigo 2.º e a alínea c) do n.º 1 do artigo 9.º d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 7 de fevereiro de 2012.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 7 de fevereiro de 2012.
 
-## ANEXO — ANEXO III
+## ANEXO
+
+## ANEXO III
 
 (a que se refere o n.º 2 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03000/0067600678.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03000/0067600678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03000/0067600678.pdf)

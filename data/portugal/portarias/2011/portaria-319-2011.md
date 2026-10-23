@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/319/2011/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/319-2011-145010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0232d02b4485e5229ece1202b2ba25781771c7640476733964e656bc88014f06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98e8c2f43e642dab7f2f98e39371ba84b48225ad7b73d1672c8f430b1990aaea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ subjects:
 - Acesso ao Direito
 - Advogado
 - Ajuda Judicial
-- Ordem dos Advogados
 - Consulta Jurídica
 - Definição de Competências
-- Pagamento
 - Direito à Justiça
 - Instituto de Gestão Financeira e de Infra-estruturas da Justiça
+- Ordem dos Advogados
+- Pagamento
 - Secretaria Judicial
 relationships:
 - type: cites
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/10/2008/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/10/2008/01/03/p/dre
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:52Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +166,4 @@ A presente portaria aplica-se aos pedidos de pagamento efectuados pelos profissi
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 12 de Dezembro de 2011.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 12 de Dezembro de 2011.

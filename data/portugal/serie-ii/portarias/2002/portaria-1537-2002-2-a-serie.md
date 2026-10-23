@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1537-2002-892988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49224132d638d4865499208c438ebd28fce7cc3ebc2d5b5919b8c485ac6328f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1e604ef2606e5768360f39319f76b1ef1d24fb9ae2d48bd8ae79eefebe204a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Castelo de VIDE
+- Conselho Cinegético
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:3227985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3610066:por
+  label: "Alterada a composição do Conselho pela PORT.415/2006(2ªSérie).10.02.2006.MADRP, DR.IIS [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-2006-3610066
+  date: '2006-02-10'
+- type: amended_by
+  target: pt:dre:3227985:por
+  label: "Alterado o nº 1 do presente diploma, alterada pela Port 415/2006 (2.ª Série), de 27-Fev, pela PORT.1060/2009.23.10.2009.MADRP,\
+    \ DR.IIS [206] de 23.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1060-2009-3227985
+  date: '2009-10-23'
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:28:49Z'
   warnings: []
   errors: []
 ---

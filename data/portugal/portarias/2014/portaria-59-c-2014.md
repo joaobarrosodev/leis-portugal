@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07
   number: '47'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1788-(3) a 1788-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/04701/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59-c/2014/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31a2b0a0d7b427a88707150d26900e003acd9d665024f80c79940de74b2daec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f642ebe2caddc77e8afb67dfe8881ee761f406e7097d109d17dda487c9b8afb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,28 @@ reuse:
 subjects:
 - Acesso à Educação
 - Aprendizagem Profissional
+- Avaliação de Conhecimentos
 - Certificado de Aptidão Profissional
-- Formação Profissional
 - Diploma
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Profissional
-- Qualificação Profissional
-- Avaliação de Conhecimentos
 - Ensino Superior
+- Formação Profissional
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:116154369:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67401231:por
+  label: Alterado, a partir de 04.06.2015, o art. 29.º e revogados os n.ºs 4 e 5 do mesmo art. 29.º da Port 74-A/2013 de 15-fev,
+    na redação do presente diploma, pelo(a) Portaria n.º 165-B/2015 - Diário da República n.º 107/2015, 1º Suplemento, Série
+    I de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-b-2015-67401231
+  date: '2015-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -100,16 +107,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/74-a/2013/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/74-a/2013/02/15/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116154369:por
+  label: Revogada a Port 74-A/2013, de 15-fev, na redação do presente diploma pelo(a) Portaria n.º 235-A/2018 - Diário da
+    República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/235-a-2018-116154369
+  date: '2018-08-23'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:48Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +183,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 7 de março de 2014.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho. - O Secretário de Estado do Emprego, Octávio Félix de Oliveira.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho. - O Secretário de Estado do Emprego, Octávio Félix de Oliveira.

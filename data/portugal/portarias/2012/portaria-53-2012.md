@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/04600/0094200942.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/2012/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-2012-542398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1a466e531af8b795ef8dfb27308d475d31e9a1f980f79ce917c947a04cbae92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 383203b7e517cf868488e72e20d7bf176d8a0aadfdcdbf1192916e4ae0919922
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
-- SELO de Garantia
 - Definição de Competências
-- SELO Fiscal
 - Fabrico Industrial
-- Imprensa Nacional-Casa da Moeda
 - Importação
+- Imprensa Nacional-Casa da Moeda
+- SELO de Garantia
+- SELO Fiscal
 - Tabaco
 relationships:
 - type: cites
@@ -92,16 +92,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/250-a/2010/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/250-a/2010/05/03/p/dre
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122145254:por
+  label: Revogada a Port 1295/2007 de 01-out, na redação da presente portaria, pelo(a) Portaria n.º 119/2019 - Diário da República
+    n.º 78/2019, Série I de 2019-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-2019-122145254
+  date: '2019-04-22'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:16Z'
   warnings: []
   errors: []
 ---
@@ -140,13 +162,13 @@ As inutilizações de estampilhas, ocorridas durante o processo de fabrico nos e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 23 de fevereiro de 2012.
 
 ## ANEXO — Estampilha especial para tabacos manufaturados
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04600/0094200942.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04600/0094200942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04600/0094200942.pdf)
 
 Especificações do modelo
 

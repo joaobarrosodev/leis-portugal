@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/743/2009/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-2009-492401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cda93a70ec14fa71e9fc91bcb61a568eb869defc47ffd9b1a1eedf272ef77706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8c6370cc0585421f7d3a2de9316ae75d330d3152c07fda4e1774b4aef9a46c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Apoio ao Investimento
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
-- Pagamento
-- Instituto da Vinha e do Vinho
+- Financiamento
 - IFAP
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Regime de Apoio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491195:por
+  label: "Alterado o art. 3.º [relativo ao prazo de apresentação e decisão das candidaturas], pela PORT.1154/2009.02.10.2009.MADRP,\
+    \ DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1154-2009-491195
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:611340:por
+  label: "Alterado o art. 14º da Port 1144/2008 de 10-Out, com a redacção constante deste diploma, pela PORT.171/2010.22.03.2010.MADRP,\
+    \ DR.IS [56] de 22.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-2010-611340
+  date: '2010-03-22'
+- type: amended_by
+  target: pt:dre:522987:por
+  label: "Alterados os arts. 3.º, 8.º e 14.º e os anexos II e III da Port 1144/2008, de 10-Out, na redacção do presente diploma,\
+    \ pela PORT.495-A/2010.13.07.2010.MADRP, DR.IS [134-Supl] de 13.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-a-2010-522987
+  date: '2010-07-13'
+- type: amended_by
+  target: pt:dre:668537:por
+  label: "Alterado o art. 14º da Port 1144/2008, de 10-Out, pela PORT.281/2011.17.10.2011.MAMAOT, DR.IS [199] de 17.10.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2011-668537
+  date: '2011-10-17'
+- type: amended_by
+  target: pt:dre:175775:por
+  label: "Alterados os anexo II e III da Port 1144/2008, de 10-Out, na redação do presente diploma, pela PORT.313/2012.10.10.2012.MAMAOT,\
+    \ DR.IS [196] de 10.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2012-175775
+  date: '2012-10-10'
 - type: cites
   target: celex:31999R1493
   label: null
@@ -104,16 +134,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 1144/2008 de 10-out, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013, sem prejuízo do disposto no n.º 1 do art. 21.º desta\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:02Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +194,9 @@ d) Aos direitos de plantação atribuídos a partir da reserva do território do
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -170,13 +208,17 @@ d) Aos direitos de plantação atribuídos a partir da reserva do território do
 
 5 - (Revogado.)
 
-###### Artigo 9.º — Elegibilidade
+Artigo 9.º
+
+Elegibilidade
 
 1 - São elegíveis os investimentos executados a partir de 1 de Agosto de 2008.
 
 2 - A opção pela compensação financeira nos termos do artigo anterior exige o arranque da vinha velha antes do início da colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respectiva enxertia, desde que o arranque tenha ocorrido a partir de 1 de Agosto de 2008.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +236,9 @@ a) Encontrar-se integralmente executadas até 31 de Julho do ano seguinte ao da 
 
 b) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 31 de Julho do ano seguinte ao da apresentação da candidatura, mediante a prestação de uma garantia, sem prazo, a favor do IFAP, I. P., de montante igual a 120 % do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrarem-se integralmente executadas até ao termo da segunda campanha vitivinícola após o pagamento do adiantamento
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Compete ao IFAP, I. P.:
 
@@ -212,7 +256,9 @@ f) Exercer as funções de organismo pagador das despesas financiadas no âmbito
 
 g) Assegurar a interlocução com a Comissão Europeia, prestando contas relativas às despesas efectuadas, centralizando e conferindo a informação e os processos necessários para o efeito.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Compete às DRAP:
 
@@ -226,7 +272,7 @@ d) ...
 
 e) (Revogado.)
 
-## ANEXO II
+ANEXO II
 
 1.1 - Drenagem superficial do terreno, quando, em função da geometria e do declive da parcela, se justificar a correcção do percurso de pequenas linhas de água, a execução de valas artificiais, de valetas em meias manilhas e colocação de manilhas ou de tubos em PVC em passagens de acesso a parcelas e entre parcelas e para atravessar caminhos no interior das superfícies a reestruturar:
 
@@ -240,7 +286,7 @@ iv) Colocação de manilhas ou de tubos em PVC - (euro) 8,07/m.
 
 2.1 - Os valores unitários da ajuda correspondentes à acção 'Plantação da vinha' são reduzidos em 5 % relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência ou por direitos de plantação atribuídos a partir da reserva do território do continente.
 
-## ANEXO III
+ANEXO III
 
 1.1 - Drenagem superficial do terreno, quando, em função da geometria e do declive da parcela, se justificar a correcção do percurso de pequenas linhas de água, a execução de valas artificiais, de valetas em meias manilhas e colocação de manilhas ou de tubos em PVC em passagens de acesso a parcelas e entre parcelas e para atravessar caminhos no interior das superfícies a reestruturar:
 

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/17-1978-447112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7f0d96cc565d36e42d9fc773aa50bed74527ccc411e0ace05f023ed8e4cd9b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3cd735f1d2e442770de40f530272baca64d3fcb5ad2d86c91253916491df02c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Nota Oficiosa
+- Publicação
+- Sanção
+relationships:
+- type: amended_by
+  target: pt:dre:173759:por
+  label: "Determinada a inconstitucionalidade, com força obrigatória geral, das normas dos arts. 1º e 2ºdo presente diploma,\
+    \ pelo AC.242/2002.2002.05.29.TCS, DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/242-2002-173759
+  date: '2002-05-29'
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:17Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +109,18 @@ O presente diploma insere-se no espírito do artigo 15.º da Lei de Imprensa, pr
 
 Assim, nos termos do preceito constitucional acima enumerado, a Assembleia Regional da Madeira determina, para valer como lei:
 
-###### Artigo 1.º As publicações informativas diárias da Região Autónoma da Madeira não poderão recusar a inserção, na íntegra e num dos dois números publicados após a recepção, de notas oficiosas com o máximo de mil e quinhentas palavras que lhes sejam enviadas pelo Governo Regional.
+Artigo 1.º As publicações informativas diárias da Região Autónoma da Madeira não poderão recusar a inserção, na íntegra e num dos dois números publicados após a recepção, de notas oficiosas com o máximo de mil e quinhentas palavras que lhes sejam enviadas pelo Governo Regional.
 
-###### Art. 2.º As publicações informativas não diárias não poderão recusar a inserção, nos termos previstos no número anterior, das notas oficiosas com o máximo de quinhentas palavras que expressamente lhes sejam enviadas pelo Governo Regional para publicação.
+Art. 2.º As publicações informativas não diárias não poderão recusar a inserção, nos termos previstos no número anterior, das notas oficiosas com o máximo de quinhentas palavras que expressamente lhes sejam enviadas pelo Governo Regional para publicação.
 
-###### Art. 3.º O regime de sanções pela violação do disposto neste diploma é o da Lei de Imprensa.
+Art. 3.º O regime de sanções pela violação do disposto neste diploma é o da Lei de Imprensa.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 9 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 27 de Fevereiro de 1978.**
+Assinado em 27 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

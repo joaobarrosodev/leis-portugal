@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/2012/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2012-179277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 553c3009a12ca48edb0e7166c342a9c6c2460ac1b193c6779815daf5ce842929
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb97f8328889058369deb6b6ac08e2b38b92189444d83a030c469964dd2b7bb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,20 @@ relationships:
   target: pt:dre:502863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502863:por
+  label: "Alterado o art 12.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais, aprovado pela Port 719-B/2008, de 31-jul, na redação do presente diploma, pela PORT.313/2013.22.10.2013.MAGM,\
+    \ DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2013-502863
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 9.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais aprovado pela Port 719-B/2008 de 31-jul, na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM,\
+    \ DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:32006R0510
   label: null
@@ -82,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/719-b/2008/07/31/p/dre
 article_structure:
-  article_count: 26
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:57Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +151,9 @@ b) Organizações de produtores e associações sem fins lucrativos;
 
 c)...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Sem prejuízo das condições gerais de acesso previstas no artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de maio, são condições específicas de acesso dos projetos ao presente regime:
 
@@ -149,7 +165,9 @@ c) O investimento elegível ser de valor superior a (euro) 5000;
 
 d) Preverem uma parceria com organização de produtores, associação ou organismo científico ligados ao sector, quando o promotor seja uma associação sem atividade económica na área da pesca.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas ao presente regime são apresentadas nas direções regionais de agricultura e pescas, adiante designadas por DRAP.
 
@@ -157,7 +175,9 @@ d) Preverem uma parceria com organização de produtores, associação ou organi
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +187,9 @@ d) Preverem uma parceria com organização de produtores, associação ou organi
 
 4 - O IFAP, após a receção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +197,9 @@ d) Preverem uma parceria com organização de produtores, associação ou organi
 
 3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10 % desse apoio.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50 % do valor do apoio, no prazo de seis meses a contar da data da receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -189,7 +213,9 @@ d) Preverem uma parceria com organização de produtores, associação ou organi
 
 6 - ...
 
-###### Artigo 13.º — Obrigações dos beneficiários
+Artigo 13.º
+
+Obrigações dos beneficiários
 
 1 - Sem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de maio, quando aplicáveis, constituem obrigações do beneficiário:
 
@@ -207,7 +233,9 @@ f)...
 
 2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução do projeto, previstos na alínea b) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de maio, delas não podendo resultar o aumento do apoio público.»
 
@@ -227,7 +255,7 @@ Podem ser admitidas alterações técnicas, desde que se mantenha a conceção e
 
 É republicado em anexo o Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos Mercados e Campanhas Promocionais, aprovado pela Portaria n.º 719-B/2008, de 31 de julho.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 18 de julho de 2012.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 18 de julho de 2012.
 
 REGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS NOS DOMÍNIOS DO DESENVOLVIMENTO DE NOVOS MERCADOS E CAMPANHAS PROMOCIONAIS
 
@@ -433,4 +461,4 @@ Os encargos com o pagamento dos apoios públicos previstos neste diploma são su
 
 A pontuação da apreciação estratégica é obtida através de soma dos pontos obtidos por cada um dos parâmetros da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0402504030.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0402504030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/14800/0402504030.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0004300043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/421/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-2023-229857697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0676190bee7a25e868f2ca11827c59d371cd9dd14e0606bdf7ec7609529c243
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bce2b35aad87d6ac3e074535e85c027d8bbc3005a7dd4ef13172ac81c380eb66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Coeficiente de Actualização
-- Regulamentação de Atos Legislativos
 - IAS
 - Prestações da Segurança Social
 - Proteção Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 relationships:
 - type: amended_by
@@ -108,16 +108,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/298/2022/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/298/2022/12/16/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158316443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204841038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72997147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:902111932:por
+  label: Revogada com efeitos a 1 de janeiro de 2025 pelo(a) Portaria n.º 6-B/2025/1 - Diário da República n.º 3/2025, Suplemento,
+    Série I de 2025-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-b-2025-902111932
+  date: '2025-01-06'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:11Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +188,6 @@ O valor do IAS para o ano de 2024 é de (euro) 509,26.
 
 A presente portaria produz efeitos a partir de 1 de janeiro de 2024.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de dezembro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 30 de novembro de 2023.
+
+117136825

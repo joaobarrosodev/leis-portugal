@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18300/0412704128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/927/2010/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/927-2010-341867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab5f1ac73f142845788db9d55436be38331b4a251a708a443c075dd12ccb317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13fbc9d623ac79562a93ad013e33953ddcb8b3263baf2619f48835937ba133fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Humanitária dos Bombeiros Voluntários
-- Segurança Pública
 - Bombeiro
 - Programa de Apoio Infra Estrutural
 - Segurança dos Edifícios
+- Segurança Pública
 - Socorrismo
 relationships:
 - type: amended_by
@@ -85,16 +85,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1562/2007/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1562/2007/12/11/p/dre
+- type: cites
+  target: pt:dre:628797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636956:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74454606:por
+  label: Revogada a Port 1562/2007 de 11-dez, na redação do presente diploma pelo(a) Portaria n.º 143-A/2016 - Diário da República
+    n.º 94/2016, 1º Suplemento, Série I de 2016-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-a-2016-74454606
+  date: '2016-05-16'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:14Z'
   warnings: []
   errors: []
 ---
@@ -155,4 +169,4 @@ c) O montante dos apoios concedidos pelo Estado para obras de beneficiação est
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Protecção Civil, Vasco Seixas Duarte Franco, em 13 de Setembro de 2010.**
+O Secretário de Estado da Protecção Civil, Vasco Seixas Duarte Franco, em 13 de Setembro de 2010.

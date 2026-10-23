@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21300/0002600031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/333/2023/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-2023-223700468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38bd6c3cc364638246fb5f79ec160a8fb060bbc4d1335423bda617402aca8e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e31982757c227d3c384e55a0b66561b5f3c2cfa43ab764385ccf2799ff22beae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Certificação Profissional
-- Regulamentação de Atos Legislativos
 - Educação dos Adultos
-- Sistema Nacional de Qualificações
-- Qualificação Profissional
 - Ensino Básico
-- Quadro Nacional de Qualificações
+- Formação Profissional
 - Plano de Recuperação e Resiliência
+- Quadro Nacional de Qualificações
+- Qualificação Profissional
+- Regulamentação de Atos Legislativos
+- Sistema Nacional de Qualificações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/66/2022/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/66/2022/02/01/p/dre
+- type: cites
+  target: pt:dre:105808927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178394356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178478636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:41Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +163,9 @@ Os artigos 1.º e 8.º da [Portaria n.º 66/2022](https://diariodarepublica.pt/d
 
 4 - As formações modulares certificadas são capitalizáveis para a obtenção do 1.º ciclo do ensino básico ou de uma, ou mais do que uma, qualificação de nível 1, 2, 3, 4 ou 5 do Quadro Nacional de Qualificações (QNQ) que integre o CNQ.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -161,20 +187,27 @@ O anexo da [Portaria n.º 66/2022](https://diariodarepublica.pt/dr/detalhe/porta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, António de Oliveira Leite, em 19 de outubro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 23 de outubro de 2023.**
+O Secretário de Estado da Educação, António de Oliveira Leite, em 19 de outubro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 23 de outubro de 2023.
 
 ## ANEXO — «ANEXO
 
 Modelo de certificados de qualificações a que se refere o artigo 8.º - UC e ou UFCD integradas no Catálogo Nacional de Qualificações
 
-![](https://files.diariodarepublica.pt/images/223700468/223740435.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700468/223740435.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700468/223740436.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700468/223740436.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700468/223740437.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700468/223740437.png) |
+| --- |
 
 Modelo de certificado de qualificações a que se refere o artigo 8.º - Percurso de curta ou média duração
 
-![](https://files.diariodarepublica.pt/images/223700468/223740438.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700468/223740438.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223700468/223740439.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223700468/223740439.png) |
+| --- |
+
+117015924

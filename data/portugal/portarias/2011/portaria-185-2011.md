@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/185/2011/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-2011-286875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40d25d5db8ec90ccf1116c852b31c383ae5a25875661098d72819f328bdb262c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de302a52983e955920ad750eeaa466fa11922b180c3d6c88d095c845464660aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:06Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +135,6 @@ b) Na face nacional, no campo central, é utilizada uma composição dos element
 
 O limite da emissão comemorativa de moeda corrente a que se refere o artigo 1.º é de (euro) 1 040 000 e a INCM, dentro deste limite, é autorizada a cunhar até 12 500 moedas com acabamento BNC e até 7500 moedas com acabamento proof.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Abril de 2011.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Abril de 2011.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08800/0258302584.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08800/0258302584.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08800/0258302584.pdf)

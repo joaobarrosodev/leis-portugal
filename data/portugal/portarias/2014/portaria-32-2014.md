@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/2014/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 073545a5187164a7ac36dafb4557973091bc230982b7cf46bbe6f283100521f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf06836c980ae2d38057eb43db7ce55a9dde523cd55d332bfae1def9d0badb87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Arborização
 - Atividade Agrícola
 - Desenvolvimento Rural
-- Feader
-- Arborização
-- Apoio ao Investimento
-- Pagamento
-- IFAP
-- Ruris
 - Exploração Florestal
+- Feader
+- IFAP
+- Pagamento
 - Regulamento de Aplicação da Intervenção Florestação de Terras Agrícolas
+- Ruris
 - Sistema Integrado de Gestão e Controlo
 relationships:
 - type: cites
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:38Z'
   warnings: []
   errors: []
 ---
@@ -253,4 +253,4 @@ a) Campanha de 2013, para os projetos em curso aprovados no âmbito da interven�
 
 b) Campanha de 2014, para os projetos em curso aprovados no âmbito das medidas florestais na agricultura instituídas pelo Regulamento (CEE) n.º [2080/92](https://data.europa.eu/eli/reg/1992/2080/oj?locale=pt), do Conselho, de 30 de junho, e das medidas florestais nas explorações agrícolas do Regulamento (CEE) n.º [2328/91](https://data.europa.eu/eli/reg/1991/2328/oj?locale=pt), do Conselho, de 15 de julho.
 
-**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 31 de janeiro de 2014.**
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 31 de janeiro de 2014.

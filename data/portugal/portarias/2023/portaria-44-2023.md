@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03000/0023900253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/44/2023/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 796f65c6619eddea0dec7a1698049d31ef75e0dbb693fd32bfe234cc0bafec3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad5ca1e67e87e75d60783032dd91bcf145e04b2c6e6a85fdfa240cee967426f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio à Criação do Próprio Emprego
-- Empreendedorismo
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
+- Criação de Emprego
 - Criação de Empresas
 - Desempregado
-- Regulamentação de Atos Legislativos
-- Empréstimo
-- Jovem
-- Criação de Emprego
 - Desemprego
+- Empreendedorismo
 - Emprego
-- Programa de Emprego
+- Empréstimo
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Jovem Empresário
-- Promoção de Emprego
-- Subsídio não Reembolsável
-- Startup Portugal-Associação Portuguesa para a Promoção do Empreendedorismo
-- Programa de Estabilização Económica e Social
-- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
 - Medida Empreende XXI
+- Programa de Emprego
+- Programa de Estabilização Económica e Social
+- Promoção de Emprego
+- Regulamentação de Atos Legislativos
+- Startup Portugal-Associação Portuguesa para a Promoção do Empreendedorismo
+- Subsídio não Reembolsável
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -127,16 +127,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122960401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1294299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177363477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55032403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:17Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +223,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 12.º, 13.º, 14.º, 
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +243,9 @@ e) [...]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São destinatários da medida as pessoas que apresentem uma ideia de negócio económico financeiramente viável, inscritas no IEFP, I. P.
 
@@ -203,7 +255,9 @@ e) [...]
 
 4 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +277,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +295,9 @@ d) Que ultrapassem no seu conjunto o valor de (euro) 200 000,00.
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A nova empresa, em qualquer das formas previstas no n.º 1 do artigo 5.º, pode iniciar a atividade nos seguintes termos:
 
@@ -263,7 +321,9 @@ f) [...]
 
 g) Estar registada na plataforma de mapeamento do ecossistema de startups disponibilizada pela Startup Portugal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Aos projetos de criação de empresas elegíveis é atribuído, pelo IEFP, I. P., um apoio financeiro, até 85 % do total do investimento elegível, nas componentes de subsídio não reembolsável e respetivas majorações e empréstimo sem juros.
 
@@ -293,7 +353,9 @@ e) Em 2,5 % por posto de trabalho criado para contratos de trabalho sem termo e 
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Aos projetos de criação de empresas que cumpram o previsto no artigo 5.º é atribuído, pelo IEFP, I. P., um apoio financeiro, sob a forma de subsídio não reembolsável, até ao montante de 15 vezes o valor do IAS por destinatário promotor que crie o seu posto de trabalho a tempo inteiro, até ao limite de cinco postos de trabalho objeto de apoio.
 
@@ -303,7 +365,9 @@ e) Em 2,5 % por posto de trabalho criado para contratos de trabalho sem termo e 
 
 4 - O apoio previsto no presente artigo não é considerado para efeitos de verificação do disposto no n.º 5 do artigo anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -323,7 +387,9 @@ iii) [...]
 
 4 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os períodos de abertura e encerramento de candidaturas à presente medida são definidos por deliberação do conselho diretivo do IEFP, I. P., e divulgados nos sítios eletrónicos www.iefp.pt e startupportugal.com.
 
@@ -333,7 +399,9 @@ iii) [...]
 
 4 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A candidatura à presente medida é apresentada ao IEFP, I. P., no sistema de submissão de candidaturas da medida Empreende XXI, cujo acesso é disponibilizado nos sítios eletrónicos www.iefp.pt e startupportugal.com, nas condições a definir no regulamento previsto no artigo 23.º
 
@@ -353,7 +421,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -369,7 +439,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -383,7 +455,9 @@ d) [Anterior alínea c).]
 
 2 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -403,7 +477,7 @@ São revogados o n.º 2 do artigo 4.º, a alínea a) do n.º 2 do artigo 5.º, o
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Mar, António José da Costa Silva, em 6 de fevereiro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 30 de janeiro de 2023.**
+O Ministro da Economia e do Mar, António José da Costa Silva, em 6 de fevereiro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 30 de janeiro de 2023.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -776,3 +850,5 @@ As remissões legais ou regulamentares efetuadas para a [Portaria n.º 151/2014]
 ###### Artigo 29.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+116147418

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/906/2009/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-2009-493705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8f11235d32940cc67a880801c2d78e91644b25f4b159f4c918ffb37c8fe2f33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbe5d6f63a76154adc087bdf46212ec8cfd0968f631946f1d0e29b2b4a158ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Ajuda Comunitária
 - Beneficiário
 - Investimento
-- Região Rural
+- Proder
 - Qualidade de VIDA
+- Região Rural
 - Regulamento
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
 relationships:
@@ -79,6 +79,35 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 4º, 8º e 13º e o anexo II do Regulamento, aprovado pela Port 521/2009, de 14-Maio, na redacção\
+    \ do presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterado o art. 8.º do Regulamento de Aplicação das Acções n.os 3.2.1, «Conservação e Valorização do Património\
+    \ Rural», e 3.2.2, «Serviços Básicos para a População Rural», aprovado pela Port. n.º 521/2009, de 14-Mai,na redacção\
+    \ do presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:260437:por
+  label: "Alterado o anexo II do Regulamento de Aplicação das Ações n.os 3.2.1, «Conservação e Valorização do Património Rural»,\
+    \ e 3.2.2, «Serviços Básicos para a População Rural», da Medida n.º 3.2, «Melhoria da Qualidade de Vida», integrada no\
+    \ subprograma n.º 3, «Dinamização das zonas rurais», do Programa de Desenvolvimento Rural do Continente, abreviadamente\
+    \ designado por PRODER, aprovado pela Port 521/2009, de 14-mai, na redação do presente diploma, pela PORT.149/2013.15.04.2013.MAMAOT,\
+    \ DR.IS [73] de 15.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2013-260437
+  date: '2013-04-15'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II do Regulamento de Aplicação das Ações n.º 3.2.1, «Conservação e Valorização do Património\
+    \ Rural», e 3.2.2, «Serviços Básicos para a População Rural», aprovado pela Port 521/2009 de 14-mai, alterado pelo presente\
+    \ diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -87,16 +116,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/521/2009/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/521/2009/05/14/p/dre
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:00Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +192,9 @@ p) ...
 
 q) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +210,9 @@ c) ...
 
 d) Apresentarem, no caso de pedidos de apoio relativos a respostas sociais, parecer social emitido pelo Instituto da Segurança Social, I. P., ou da entidade tutelar competente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -263,17 +300,21 @@ Acção n.º 3.2.2
 
 4 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 Acção n.º 3.2.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf)
 
 Acção n.º 3.2.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15700/0531105312.pdf)
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 VGO = x VTE + y VE + z VB
 
@@ -331,4 +372,4 @@ r) 'Respostas sociais' serviços ou equipamentos sociais destinados às criança
 
 A presente portaria produz efeitos a partir da data de entrada em vigor da Portaria n.º 521/2009, de 14 de Maio.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 5 de Agosto de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 5 de Agosto de 2009.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/2010/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-2010-344391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef2645b0a7739369817fac7c080df469fc046b1c85f1bab2f22595073fcd759
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f180c7956deeac00977702c8d0808141b1c92a2c4b6d43e0d2d88a91194d995e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:141658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:43Z'
   warnings: []
   errors: []
 ---
@@ -148,6 +172,6 @@ Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
 São revogadas as Portarias n.os 760/98, de 14 de Setembro, alterada pela [Portaria n.º 202/99](https://diariodarepublica.pt/dr/detalhe/portaria/202-1999-141658), de 24 de Março, e 368/2001, de 10 de Abril.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 24 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 17 de Agosto de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 24 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 17 de Agosto de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/17000/0383703838.pdf))](https://files.diariodarepublica.pt/1s/2010/09/17000/0383703838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/17000/0383703838.pdf)

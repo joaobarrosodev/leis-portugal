@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/383/2012/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-2012-191165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f80fc506d3b4877352942bdc8f83c4330cfb6f0a0a7d5aa76035f8872b94c156
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b1d062ae93b8562ffc2e89c1d7fe497f142ea3ef304c44fafee54b41589cf86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade da Concorrência
-- Instituto da Construção e do Imobiliário
-- Instituto Nacional de Aviação Civil
 - Concorrência
-- Instituto das Comunicações de Portugal
-- Instituto da Mobilidade e dos Transportes
-- Instituto de Seguros de Portugal
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Entidade Reguladora dos Serviços Energéticos
+- Instituto da Construção e do Imobiliário
+- Instituto da Mobilidade e dos Transportes
+- Instituto das Comunicações de Portugal
+- Instituto de Seguros de Portugal
+- Instituto Nacional de Aviação Civil
 - Prestação de Serviços
 - Receita Própria
 - Taxa
@@ -116,16 +116,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2002/04/12/p/dre
+- type: cites
+  target: pt:dre:176336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:53Z'
   warnings: []
   errors: []
 ---
@@ -178,4 +214,4 @@ d) No caso do INAC, no início de junho e de setembro, até ao dia 15 de cada m�
 
 2 - A presente portaria mantém-se em vigor até à publicação de portaria que lhe suceda, relativa ao ano de 2013, nos termos e para os efeitos do disposto no n.º 2 do artigo 1.º e do artigo 2.º do [Decreto-Lei n.º 30/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2004-582013), de 6 de fevereiro, quanto aos valores devidos e às respetivas datas de vencimento, sendo os eventuais ajustamentos, decorrentes da aprovação de nova portaria, efetuados na primeira transferência que ocorrer após o início de vigência da mesma.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 16 de novembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 16 de novembro de 2012.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 16 de novembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 16 de novembro de 2012.

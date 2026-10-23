@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/2011/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2011-670039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 882a08c3d39bc68d644f28130f1e8719a0e73a7fd0626cf192fa48b1a900b128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e965ee71ed0aaeab89a8403c22c25af1fb1e24cd4a1b925575c7b50eb416db6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:19Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +137,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 5 de Maio de 2011.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
 
 REGULAMENTO DO CURSO DE FORMAÇÃO ESPECÍFICO PARA INTEGRAÇÃO DE TRABALHADORES NA CARREIRA ESPECIAL DE INSPECÇÃO APLICÁVEL À INSPECÇÃO-GERAL DA DEFESA NACIONAL.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00100/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/4/2012/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2012-477133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677c45fb28af48c38d04a3ebfc29ea0e034649cf739f62f6b144801dff4c5af2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 675e1132ba42ff655f7a0b857f80b60686bd1447a643079f55318164a0e177d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Avaliação Económica de Medicamentos
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Indústria Farmacêutica
+- Infarmed
 - Medicamento
 - Preço
 - Preço de Venda
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:67644326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145786:por
+  label: "Suspensa, no que se refere aos prazos, a aplicação do disposto nos n.º 1 do art. 5.º e n.º 1 do art. 6.º pela PORT.411-A/2012.14.12.2012.MS,\
+    \ DR.IS [242-Supl] de 14.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-a-2012-145786
+  date: '2012-12-14'
+- type: amended_by
+  target: pt:dre:600359:por
+  label: "Dada nova redação ao art. 10º pela PORT.335-A/2013.15.11.2013.MS, DR.IS [222-2ºSupl] de 15.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-a-2013-600359
+  date: '2013-11-15'
+- type: amended_by
+  target: pt:dre:483925:por
+  label: "Determinada a suspensão, em 2014, da aplicação do art. 6.º, pela PORT.367/2013.23.12.2013.MS, DR.IS [248] de 23.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-2013-483925
+  date: '2013-12-23'
+- type: amended_by
+  target: pt:dre:58849150:por
+  label: Determinada a suspensão no ano de 2015 da aplicação do art. 6.º pelo(a) Portaria n.º 231-A/2014 - Diário da República
+    n.º 219/2014, 1º Suplemento, Série I de 2014-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-a-2014-58849150
+  date: '2014-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2011/11/29/p/dre
   label: null
@@ -100,16 +123,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/337-a/2010/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/337-a/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67644326:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma, na redação da Port 335-A/2013 de 15-nov, pelo(a) Portaria n.º
+    195-C/2015 - Diário da República n.º 125/2015, 1º Suplemento, Série I de 2015-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-c-2015-67644326
+  date: '2015-06-30'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:58Z'
   warnings: []
   errors: []
 ---
@@ -264,4 +313,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 27 de Dezembro de 2011.
 
-**O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.**
+O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Carlos Nuno Alves de Oliveira. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.

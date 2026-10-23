@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6295e6a20d173dea262b88f4714efb4c991cc219cb3f93614fc844caffea5aff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f67c351b73cb663edb92c60d3c659f394fd1dab92d44d90cd882b59acb515df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Despesas de Representação
+- Governo Regional
+- Madeira.região Autónoma
+- Membros do Governo
+- Orgânica
+- Pessoal de Gabinete
+- Presidente do Governo Regional
+- Remuneração
+- Secretaria Regional da Agricultura e Pescas
+- Secretaria Regional da Agricultura Indústria e Pescas
+- Secretaria Regional da Economia
+- Secretaria Regional da Educação e Cultura
+- Secretaria Regional do Equipamento Social
+- Secretaria Regional do Planeamento e Finanças
+- Secretaria Regional do Planeamento Finanças e Comércio
+- Secretaria Regional do Trabalho
+- Secretaria Regional dos Assuntos Sociais e da Saúde
 relationships:
 - type: amended_by
   target: pt:dre:378279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381313:por
+  label: "Dada nova redacção ao artigo 3.º do presente diploma, pelo DRG.11/79/M.26.07.1979.ARM, DR.IS [171] de 26.07.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/11-1979-381313
+  date: '1979-07-26'
+- type: amended_by
+  target: pt:dre:364926:por
+  label: "Integrado na Secretaria Regional da Coordenação Económica todo o âmbito de competência atribuído à Secretaria Regional\
+    \ de Agricultura e Pescas e extintas a Secretaria Regional de Agricultura e Pescas e a Secretaria Regional de Economia\
+    \ criadas pelo presente diploma, pelo DRG.24/79/M.16.10.1979.ARM, DR.IS [239] de 16.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/24-1979-364926
+  date: '1979-10-16'
+- type: amended_by
+  target: pt:dre:565190:por
+  label: "Dada nova redacção ao nº 1 do art. 3º pelo DRG.15/81/M.03.09.1981.ARM, DR.IS [202] de 03.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/15-1981-565190
+  date: '1981-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:15Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +134,9 @@ O presente diploma reformula o Governo Regional, criando mais uma secretaria reg
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira delibera, para valer como lei:
 
-###### Artigo 1.º O Governo Regional compõe-se de um Presidente e sete Secretários Regionais.
+Artigo 1.º O Governo Regional compõe-se de um Presidente e sete Secretários Regionais.
 
-###### Art. 2.º - 1 - O Presidente do Governo Regional terá a seu cargo os seguintes sectores de actividade: comunicação social, administração regional e local, função pública, organização e gestão administrativa, documentação, gabinete de informação, assessoria jurídica e emigração.
+Art. 2.º - 1 - O Presidente do Governo Regional terá a seu cargo os seguintes sectores de actividade: comunicação social, administração regional e local, função pública, organização e gestão administrativa, documentação, gabinete de informação, assessoria jurídica e emigração.
 
 2 - As Secretarias Regionais integram os seguintes sectores de actividades:
 
@@ -118,7 +154,7 @@ f) Educação e Cultura - Ensino, cultura, acção social escolar e desportos;
 
 g) Economia - Comércio interno e externo, abastecimentos, turismo, indústria, recursos naturais, energia e transportes terrestres, marítimos e aéreos.
 
-###### Art. 3.º - 1 - Os membros do Governo Regional vencerão:
+Art. 3.º - 1 - Os membros do Governo Regional vencerão:
 
 a) O Presidente do Governo, 30000$00 mensais;
 
@@ -140,14 +176,14 @@ b) Os Secretários Regionais, as correspondentes a Secretário de Estado.
 
 7 - As pessoas mencionadas neste artigo que sejam funcionários do Estado ou de outras pessoas colectivas públicas podem optar pelos respectivos vencimentos e subsídios.
 
-###### Art. 4.º Mantém-se em vigor o disposto nos Decretos Regionais n.os 1/76, 2/76 e 4/76 que não contrarie o constante do presente diploma.
+Art. 4.º Mantém-se em vigor o disposto nos Decretos Regionais n.os 1/76, 2/76 e 4/76 que não contrarie o constante do presente diploma.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Aprovado em 21 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 28 de Fevereiro de 1978.**
+Assinado em 28 de Fevereiro de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

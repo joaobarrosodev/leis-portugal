@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16700/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/270/2023/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/270-2023-221029891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 134ead2dcb8004e5681e6fa0d38c97e675e6221cd4b899963adc23d140cf4a78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5db53544f07f6e89892d3ea05eed61d86c8bcfdc0624952111c7969805148628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Gestão de Resíduos
+- Alimentação
+- Alimento Preparado
 - Bebida
 - BENS de Consumo
-- Matéria Plástica
+- Bens Não Duradouros
+- Circulação de Mercadorias
+- Comércio
 - Consumidor
+- Contribuições e Impostos
+- Eliminação de Resíduos
+- Embalagem
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Factura
-- Contribuições e Impostos
-- Embalagem
-- Metal não Ferroso
-- Circulação de Mercadorias
-- Pagamento de Contribuições
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Gestão do Ambiente
-- Alimentação
+- Matéria Plástica
+- Metal não Ferroso
+- Pagamento de Contribuições
+- Produto Alimentar
+- Proteção do Ambiente
 - Receita Pública
-- Eliminação de Resíduos
-- Comércio
-- Bens Não Duradouros
-- Alimento Preparado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/78/2021/09/24/p/dre
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-e/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-e/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176908210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208087601:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:18Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +172,6 @@ O n.º 2 do artigo 23.º da [Portaria n.º 331-E/2021](https://diariodarepublica
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 14 de agosto de 2023. - O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 15 de agosto de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 14 de agosto de 2023. - O Secretário de Estado do Ambiente, Hugo Alexandre Polido Pires, em 15 de agosto de 2023.
+
+116798846

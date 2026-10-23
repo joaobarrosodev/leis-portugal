@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00700/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/2023/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2023-205928637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62b1a343357f28b948d65f238380fb4bca225301e8a9333482c12036f0084bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c73559990d3f9be0c2d49cafaff28b6976c530e10be0f2979009a5bdf16782a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Comércio
 - Comércio a Retalho
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
 - Entidade Patronal
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Produto Alimentar
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
 - Sitese
 - Tabela Salarial
-- Comércio
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:13Z'
   warnings: []
   errors: []
 ---
@@ -149,4 +157,6 @@ b) Empregadores filiados na Associação Portuguesa de Empresas de Distribuiçã
 
 2 - A tabela salarial e cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de julho de 2022.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de dezembro de 2022.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de dezembro de 2022.
+
+116043373

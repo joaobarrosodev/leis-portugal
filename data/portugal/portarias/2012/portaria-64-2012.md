@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64/2012/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2012-553628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b90e9cf568566dabc7940206bfd8656e4822258788e7aced46238f380d42e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 948f91c14b87193f1bde74fbfc70c8c2487d97f7a43c8a7e9bbb93cf27ec5339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Alienação de BENS
 - Aquisição de Imóveis
+- Autarquia Local
 - Habitação Social
-- Instituto de Gestão Financeira da Segurança Social
 - Instituto da Habitação e da Reabilitação Urbana
+- Instituto de Gestão Financeira da Segurança Social
 - Preço
 - Preço de Venda
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
@@ -91,16 +91,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:21Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +231,7 @@ Vt = determinável nos termos da alínea b) do n.º 2 do artigo 5.º do [Decreto
 
 Em 9 de março de 2012.
 
-**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.**
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
 
 QUADRO ANEXO
 

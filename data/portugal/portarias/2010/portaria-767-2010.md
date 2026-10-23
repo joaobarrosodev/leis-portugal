@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/767/2010/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-2010-343440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e32151134ca93bf5ca909433201cb4273065a7d505fb2f5b7e82670226f7260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b012ed884f6879e50f32252431a71109fc611e1d01fc16b0b58fdd3692f90f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:20Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +126,4 @@ Pela presente portaria a concessão da zona de caça turística da Herdade da Ba
 
 Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010.

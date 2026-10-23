@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 41/2024, 1º Suplemento, Série I de 2024-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(25) a 6-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04101/0002500048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71-b/2024/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2024-853867972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9484e33e189eee4970024bf25bc20a3c337bbf218808b7933db16a940e49b7c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0875153425bc3d93740a6c8f2bee06360192167adde2c05322fc27a7780f357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Urbanização
-- Regulamentação de Atos Legislativos
-- Publicitação
-- Licenciamento de Obras
 - Licença de Construção
 - Licença de Loteamento
-- Urbanismo
+- Licenciamento de Obras
+- Publicitação
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Urbanismo
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:917839840:por
@@ -112,16 +112,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/228/2015/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/228/2015/08/03/p/dre
+- type: cites
+  target: pt:dre:184052515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1153698591:por
+  label: Revogada a partir de 03 de agosto de 2026, pelo(a) Portaria n.º 320/2026/1 - Diário da República n.º 147/2026, Série
+    I de 2026-07-31, nos termos do seu artigo 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2026-1153698591
+  date: '2026-07-30'
+- type: repeals
+  target: pt:numero:portaria:1106/2001
+  label: Revoga, a partir de 4 de março de 2024, a Portaria n.º 1106/2001, de 18 de setembro, Diário da República n.º 217/2001,
+    Série I-B
+  source: null
+  date: '2001-09-18'
+- type: repeals
+  target: pt:numero:portaria:1107/2001
+  label: Revoga, a partir de 4 de março de 2024, a Portaria n.º 1107/2001, de 18 de setembro, Diário da República n.º 217/2001,
+    Série I-B
+  source: null
+  date: '2001-09-18'
+- type: repeals
+  target: pt:numero:portaria:216-E/2008
+  label: Revoga, a partir de 4 de março de 2024, a Portaria n.º 216-E/2008, de 3 de março, Diário da República n.º 44/2008,
+    1º Suplemento, Série I
+  source: null
+  date: '2008-03-03'
+- type: repeals
+  target: pt:numero:portaria:228/2015
+  label: Revoga, a partir de 4 de março de 2024, a Portaria n.º 228/2015, de 3 de agosto, Diário da República n.º 149/2015,
+    Série I
+  source: null
+  date: '2015-08-03'
+- type: repeals
+  target: pt:numero:portaria:1108/2001
+  label: Revoga, a partir de 4 de março de 2024, a Portaria n.º 1108/2001, de 18 de setembro, Diário da República n.º 217/2001,
+    Série I-B
+  source: null
+  date: '2024-09-18'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:37Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +276,7 @@ A presente portaria entra em vigor a 4 de março de 2024, data da entrada em vig
 
 Em 26 de fevereiro de 2024.
 
-**O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.**
+O Secretário de Estado da Digitalização e da Modernização Administrativa, Mário Filipe Campolargo. - A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues. - O Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Manuel Soares Miguel.
 
 ## ANEXO I
 
@@ -1274,7 +1350,7 @@ Instruções de preenchimento:
 
 ## ANEXO XIX — Aviso de pedido de licenciamento de operações urbanísticas (*)
 
-| AVISO Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, torna-se público que deu entrada na Câmara Municipal de ___ (a), em___ (b) um PEDIDO DE LICENCIAMENTO para ___ (c) Proc.º camarário n.º___ A OPERAÇÃO URBANÍSTICA ___ (d) Data de emissão da licença ___ (e) Prazo para conclusão das obras ___ (f) |
+| AVISO<br>Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual,<br>torna-se público que deu entrada na<br>Câmara Municipal de ___ (a), em___ (b) um<br>PEDIDO DE LICENCIAMENTO para<br>___ (c)<br>Proc.º camarário n.º___<br>A OPERAÇÃO URBANÍSTICA ___ (d)<br>Data de emissão da licença ___ (e)<br>Prazo para conclusão das obras ___ (f) |
 | --- |
 
 (*) Quando a operação urbanística se encontrar titulada, o aviso deve permanecer no local até à conclusão da obra.
@@ -1295,7 +1371,7 @@ Instruções de preenchimento:
 
 ## ANEXO XX — Aviso de apresentação de comunicação prévia de operações urbanísticas (*)
 
-| AVISO Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, torna-se público que deu entrada na Câmara Municipal de ___ (a), em___ (b) uma COMUNICAÇÃO PRÉVIA para ___ (c) Processo camarário n.º___ A OPERAÇÃO URBANÍSTICA NÃO SE ENCONTRA TITULADA |
+| AVISO<br>Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual,<br>torna-se público que deu entrada na<br>Câmara Municipal de ___ (a), em___ (b) uma<br>COMUNICAÇÃO PRÉVIA para<br>___ (c)<br>Processo camarário n.º___<br>A OPERAÇÃO URBANÍSTICA NÃO SE ENCONTRA TITULADA |
 | --- |
 
 (*) Se, no prazo indicado no artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, a comunicação prévia já se encontrar titulada, o modelo de aviso é o constante do anexo xxi.
@@ -1310,7 +1386,7 @@ Instruções de preenchimento:
 
 ## ANEXO XXI — Aviso de apresentação de comunicação prévia de operações urbanísticas (*)(**)
 
-| AVISO Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, torna-se público que deu entrada na Câmara Municipal de ___ (a), em___ (b) uma COMUNICAÇÃO PRÉVIA para ___ (c) Processo camarário n.º___ A OPERAÇÃO URBANÍSTICA ENCONTRA-SE TITULADA Data do título ___ (d) Prazo para conclusão das obras ___ (e) |
+| AVISO<br>Nos termos do artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual,<br>torna-se público que deu entrada na<br>Câmara Municipal de ___ (a), em___ (b) uma<br>COMUNICAÇÃO PRÉVIA para<br>___ (c)<br>Processo camarário n.º___<br>A OPERAÇÃO URBANÍSTICA ENCONTRA-SE TITULADA<br>Data do título ___ (d)<br>Prazo para conclusão das obras ___ (e) |
 | --- |
 
 (*) Se, no prazo indicado no artigo 12.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, a comunicação prévia ainda não se encontrar titulada, o modelo de aviso é o constante do anexo xx.
@@ -1333,7 +1409,7 @@ Instruções de preenchimento:
 
 [n.º 7 do artigo 7.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual]
 
-| AVISO Nos termos do n.º 7 do artigo 7.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, torna-se público que a ___ (a), vai realizar ___ (b) no prédio sito em ___ descrito na Conservatória do Registo Predial de___ (c) sob o n.º___ (d), e inscrito na matriz sob o artigo___ (e), da freguesia de ___ (f). Características da operação urbanística: (g) Operação de loteamento: Área do prédio a lotear ___ Área total de implantação ___ Área total de construção ___ Volume total de construção ___ N.º de lotes ___ com a área de ___ m2 a ___m2 (h) N.º máximo de pisos acima da cota de soleira ___ N.º máximo de pisos abaixo da cota de soleira ___ N.º de fogos total ___ N.º de lotes para habitação ___ N.º de lotes para serviços ___ N.º de lotes para comércio ___ N.º de lotes para indústria ___ N.º de lotes para ___ (i) Área(s) de cedência para o domínio municipal ___ Finalidade da(s) cedência(s)___ (j) Parcelas a integrar no domínio municipal ___ (k) Prazo para a conclusão das obras de urbanização ___ (l) Prazo para a conclusão das obras de edificação ___ (l) Obras de urbanização destinadas a ___ (m) Operação de edificação: Área total de construção ___ (n) Volumetria da edificação ___ (n) Altura da fachada___ (n) N.º de pisos acima da cota de soleira ___ (n) N.º de pisos abaixo da cota de soleira ___ (n) Uso a que se destina a edificação ___ (n) Área abrangida pelo Plano ___ (o) Área abrangida pelo loteamento ___ (p) Condições de execução ___ (q) Data do início da operação urbanística: ___ (r) Data de conclusão da operação urbanística: ___ (s) O dirigente máximo ou o presidente do órgão executivo da entidade da Administração Pública promotora da operação ___ |
+| AVISO<br>Nos termos do n.º 7 do artigo 7.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, torna-se público que a ___ (a), vai realizar ___ (b) no prédio sito em ___ descrito na Conservatória do Registo Predial de___ (c) sob o n.º___ (d), e inscrito na matriz sob o artigo___ (e), da freguesia de ___ (f).<br>Características da operação urbanística: (g)<br>Operação de loteamento:<br>Área do prédio a lotear ___<br>Área total de implantação ___<br>Área total de construção ___<br>Volume total de construção ___<br>N.º de lotes ___ com a área de ___ m2 a ___m2 (h)<br>N.º máximo de pisos acima da cota de soleira ___<br>N.º máximo de pisos abaixo da cota de soleira ___<br>N.º de fogos total ___<br>N.º de lotes para habitação ___<br>N.º de lotes para serviços ___<br>N.º de lotes para comércio ___<br>N.º de lotes para indústria ___<br>N.º de lotes para ___ (i)<br>Área(s) de cedência para o domínio municipal ___<br>Finalidade da(s) cedência(s)___ (j)<br>Parcelas a integrar no domínio municipal ___ (k)<br>Prazo para a conclusão das obras de urbanização ___ (l)<br>Prazo para a conclusão das obras de edificação ___ (l)<br>Obras de urbanização destinadas a ___ (m)<br>Operação de edificação:<br>Área total de construção ___ (n)<br>Volumetria da edificação ___ (n)<br>Altura da fachada___ (n)<br>N.º de pisos acima da cota de soleira ___ (n)<br>N.º de pisos abaixo da cota de soleira ___ (n)<br>Uso a que se destina a edificação ___ (n)<br>Área abrangida pelo Plano ___ (o)<br>Área abrangida pelo loteamento ___ (p)<br>Condições de execução ___ (q)<br>Data do início da operação urbanística: ___ (r)<br>Data de conclusão da operação urbanística: ___ (s)<br>O dirigente máximo ou o presidente do órgão executivo da entidade da Administração Pública promotora da operação<br>___ |
 | --- |
 
 Instruções de preenchimento:
@@ -1375,3 +1451,7 @@ Instruções de preenchimento:
 (r) Indicar a data prevista para o início da operação.
 
 (s) Indicar a data prevista para a conclusão da operação.
+
+117405542
+
+.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:top; }

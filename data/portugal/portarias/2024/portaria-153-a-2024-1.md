@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/08901/0000200041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/153-a/2024/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-a-2024-864256812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T16:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08571f5869bf4b94735886aa7ad3bad087296704331ffe649cbace09b67aaceb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98568bf8caa896d63675c2aa322a69942e866e505c8ce46d0294aa3f461fdf32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamentação de Atos Legislativos
+- Auxílio de Minimis
 - Equipamento Social
 - FEDER
-- Auxílio de Minimis
-- Investimento
 - FSE
-- Taxa
+- Investimento
 - Portugal 2030
+- Regulamentação de Atos Legislativos
 - Regulamento Específico da Área Temática Valorização do Território e Infraestruturas Sociais
+- Taxa
 relationships:
 - type: cites
   target: celex:32001L0077
@@ -141,16 +141,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2019/786/oj
   label: null
   source: http://data.europa.eu/eli/reco/2019/786/oj
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124642991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
 article_structure:
   article_count: 129
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:01:03Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +207,7 @@ Manda o Governo, pelo Ministro Adjunto e da Coesão Territorial, o seguinte:
 
 2 - Determinar que o Regulamento Específico entra em vigor no dia seguinte ao da publicação da presente portaria.
 
-**O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 8 de maio de 2024.**
+O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 8 de maio de 2024.
 
 ## ANEXO — (a que se refere o n.º 1)
 
@@ -251,7 +279,7 @@ Para efeitos do disposto no presente regulamento, e sem prejuízo das definiçõ
 
 a) "Auditoria energética", o procedimento sistemático através do qual se obtêm conhecimentos adequados sobre o perfil atual de consumo de energia de um edifício ou de um conjunto de edifícios, de uma atividade e/ou instalação industrial ou de serviços públicos ou privados, se identificam e quantificam as oportunidades de economias de energia com boa relação custo-eficácia e se dão a conhecer os resultados;
 
-b) "Certificado de desempenho energético", o documento que contem informação sobre a classe energética do edifício, identificação das medidas orientadas para a melhoria do desempenho energético, para a redução das necessidades de energia e otimização dos níveis de saúde, conforto e qualidade do ar interior, bem como indicadores do consumo energético do edifício e emissões de CO<sub>2</sub> estimadas devido ao consumo de energia nos termos do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, na sua redação atual;
+b) "Certificado de desempenho energético", o documento que contem informação sobre a classe energética do edifício, identificação das medidas orientadas para a melhoria do desempenho energético, para a redução das necessidades de energia e otimização dos níveis de saúde, conforto e qualidade do ar interior, bem como indicadores do consumo energético do edifício e emissões de CO2 estimadas devido ao consumo de energia nos termos do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, na sua redação atual;
 
 c) "Economia de energia", a quantidade de energia economizada determinada pela medição e ou estimativa do consumo antes e após a aplicação de uma ou mais medidas de melhoria da eficiência energética, garantindo simultaneamente a normalização das condições externas que afetam o consumo de energia;
 
@@ -281,7 +309,7 @@ n) "Transition pathway for tourism", plano criado em conjunto com os intervenien
 
 1 - Aos pareceres previstos nos artigos 29.º, 37.º, 57.º, 65.º, 73.º, 88.º, 98.º e 106.º, do capítulo III aplica-se, no que respeita aos prazos para a respetiva emissão e na ausência de disposição legal específica, o disposto no n.º 3 do artigo 92.º do Código do Procedimento Administrativo (CPA).
 
-2 - Aos pareceres previstos no número anterior é aplicável, na ausência da referida emissão, o regime estabelecido nos n.<sup>os</sup>5 e 7 do artigo 92.º do CPA.
+2 - Aos pareceres previstos no número anterior é aplicável, na ausência da referida emissão, o regime estabelecido nos n.os5 e 7 do artigo 92.º do CPA.
 
 3 - Os pareceres previstos nos artigos 21.º, 47.º, 81.º, 88.º, no que diz respeito à tipologia prevista na alínea b) do artigo 85.º e 124.º podem ser obrigatórios ou facultativos, nos termos a especificar no aviso para apresentação de candidaturas.
 
@@ -349,7 +377,7 @@ k) Assegurar condições de igualdade de acesso, inclusão, não discriminação
 
 a) Realização de estudos, planos, projetos e outras atividades preparatórias e assessorias diretamente ligados à operação, incluindo a elaboração da análise custo-benefício, quando aplicável;
 
-b) Aquisição de terrenos e constituição de servidões indispensáveis à realização da operação, por expropriação ou negociação direta, bem como eventuais indemnizações a arrendatários, de acordo com os limites e condições fixados nos n.<sup>os</sup>2 e 3;
+b) Aquisição de terrenos e constituição de servidões indispensáveis à realização da operação, por expropriação ou negociação direta, bem como eventuais indemnizações a arrendatários, de acordo com os limites e condições fixados nos n.os2 e 3;
 
 c) Trabalhos de construção civil e outros trabalhos de engenharia;
 
@@ -389,7 +417,7 @@ b) O valor atribuído às contribuições em espécie não exceder os custos de 
 
 c) O valor e a execução das contribuições podem ser avaliados e verificados de forma independente;
 
-d) No caso do contributo em terrenos ou em imóveis, ser avaliado por um perito independente qualificado ou por um organismo oficial devidamente autorizado, não excedendo os limites estabelecidos nos n.<sup>os</sup>2 e 3;
+d) No caso do contributo em terrenos ou em imóveis, ser avaliado por um perito independente qualificado ou por um organismo oficial devidamente autorizado, não excedendo os limites estabelecidos nos n.os2 e 3;
 
 e) No caso de contribuições em espécie sob a forma de trabalho não remunerado, o valor desse trabalho ser determinado em função do tempo efetivamente despendido e da taxa de remuneração aplicável a um trabalho equivalente.
 
@@ -473,7 +501,7 @@ h) Respeitar o princípio de DNSH, nos termos do previsto no artigo 10.º, de ac
 
 i) Realizar as ações previstas no plano de comunicação da operação, com especial enfoque nas Operações de Importância Estratégica, com o objetivo de proceder a uma ampla divulgação do apoio dos fundos da União Europeia junto dos potenciais beneficiários e utilizadores e do público em geral;
 
-j) Apresentar, até ao limite de 90 dias a contar da data de conclusão da operação, o pedido de pagamento do saldo final da operação, em conformidade com os n.<sup>os</sup>12 do artigo 28.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março;
+j) Apresentar, até ao limite de 90 dias a contar da data de conclusão da operação, o pedido de pagamento do saldo final da operação, em conformidade com os n.os12 do artigo 28.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março;
 
 k) Apresentar, até ao limite de 90 dias a contar da data de conclusão da operação:
 
@@ -543,7 +571,7 @@ c) Em alternativa ao previsto na alínea a), podem as autoridades de gestão, su
 
 2 - Os avisos para apresentação de candidaturas podem determinar o nível mínimo de cumprimento dos resultados contratualizados, abaixo do qual pode existir fundamento para a revogação do financiamento, nos termos da alínea b) do n.º 4 do artigo 33.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março.
 
-3 - Os avisos para apresentação de candidaturas concretizam os mecanismos de bonificação e/ou de penalização referidos no n.º 1, aplicando-se-lhes, supletivamente, as regras previstas nos n.<sup>os</sup>5 a 9, ou os mecanismos de autoavaliação a que se refere o n.º 11, podendo os avisos, apenas em casos excecionais devidamente fundamentados, determinar a não aplicação de qualquer desses mecanismos ou adotar regras diferentes de concretização dos mesmos.
+3 - Os avisos para apresentação de candidaturas concretizam os mecanismos de bonificação e/ou de penalização referidos no n.º 1, aplicando-se-lhes, supletivamente, as regras previstas nos n.os5 a 9, ou os mecanismos de autoavaliação a que se refere o n.º 11, podendo os avisos, apenas em casos excecionais devidamente fundamentados, determinar a não aplicação de qualquer desses mecanismos ou adotar regras diferentes de concretização dos mesmos.
 
 4 - A identificação dos casos excecionais referidos no número anterior, bem como a respetiva fundamentação são objeto de prévia aprovação pela CIC Portugal 2030, tendo em consideração, nomeadamente, a natureza e ou as caraterísticas das tipologias de operação em causa.
 
@@ -1442,3 +1470,5 @@ c) Estar afeto à operação a tempo completo ou parcial.
 ###### Artigo 129.º — Enquadramento europeu de auxílios de Estado
 
 As operações apoiadas no âmbito da presente secção que consubstanciem auxílios estatais são enquadradas no artigo 53.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 17 de junho, ou no [Regulamento (UE) n.º 2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativo aos auxílios de minimis.
+
+117679931

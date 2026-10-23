@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/341/2023/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-2023-224017935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16f1808b2c476721c537f99f41f10207e651941e2f4d63bdd9969f08d315b909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1881273202e2c9f76f56617714b5d582f9f8abf53a5a0133b5f9f74fc6609220
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aljezur
-- Incêndio
-- Turismo
 - Auxílio de Minimis
+- Castelo Branco
 - Gestão Orçamental
+- Incêndio
 - Monchique
 - Odemira
-- Castelo Branco
 - Proença-a-nova
 - Regulamento Específico da Linha de Apoio à Tesouraria e ao Investimento de Reposição das Empresas Turísticas Afetadas pelos
   Incêndios – 2023
+- Turismo
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/136/2023/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/136/2023/11/03/p/dre
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223700463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:44Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +152,7 @@ Assim, ao abrigo da [Resolução do Conselho de Ministros n.º 136/2023](https:/
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e cessa a sua vigência após se esgotar o orçamento definido no artigo 2.º do regulamento anexo à presente portaria.
 
-**O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 3 de novembro de 2023.**
+O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 3 de novembro de 2023.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -479,3 +499,5 @@ Notas
 (1) Enquadrável desde que pelo menos 50 % da atividade diga respeito a transporte de turistas.
 
 (2) Atividades enquadráveis desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+
+117027386

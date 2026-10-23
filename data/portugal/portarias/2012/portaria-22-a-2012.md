@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 448-(2) a 448-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01701/0000200005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22-a/2012/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d288919959cb61843e7c13806890724587914b98d53ba92574463fe7904e7fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb7aa379ec05a39ce316ae06cdf776fdd6d1e7d3e0ecc090c236c6227390d860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,37 @@ reuse:
 subjects:
 - Acreditação
 - Autoridade Tributária e Aduaneira
-- Empresa
+- Comércio
 - Contabilidade
+- Contribuições e Impostos
+- Documento Eletrónico
+- Empresa
+- Evasão Fiscal
 - Fiscalização
 - Fraude Fiscal
-- Contribuições e Impostos
+- Informatização
+- IRC
 - IRS
 - IVA
-- Informatização
-- Documento Eletrónico
 - Sistema de Informação
-- Evasão Fiscal
-- IRC
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:503842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260384:por
+  label: "Alterados os art.s 1.º, 2.º, 3.º (as alterações ao sistema de identificação a que se refere esta norma entram em\
+    \ vigor em 01.07.2013) 6.º, 7.º e 9.º da Port 363/2010, de 23-jun, na redação renumerada e republicada pelo presente diploma,\
+    \ pela PORT.160/2013.23.04.2013.MF, DR.IS [79] de 23.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2013-260384
+  date: '2013-04-23'
+- type: amended_by
+  target: pt:dre:503842:por
+  label: "Alterado a partir de 01.01.2014, o art. 2.º da Port. 363/2010, de 23-jun, na redação do presente diploma, pela PORT.340/2013.22.11.2013.MF,\
+    \ DR.IS [227] de 22.11.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-2013-503842
+  date: '2013-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
   label: null
@@ -98,16 +111,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/363/2010/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/363/2010/06/23/p/dre
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:56Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +175,9 @@ b) Regulamenta a emissão de documentos por equipamentos ou programas não certi
 
 c) Altera a estrutura de dados constante do anexo à Portaria n.º 1192/2009, de 8 de outubro.
 
-###### Artigo 2.º — Utilização de programas de faturação
+Artigo 2.º
+
+Utilização de programas de faturação
 
 1 - Os sujeitos passivos de imposto sobre o rendimento das pessoas singulares (IRS) ou de imposto sobre o rendimento das pessoas coletivas (IRC), para emissão de faturas ou documentos equivalentes e talões de venda, nos termos dos artigos 36.º e 40.º do Código do Imposto sobre o Valor Acrescentado (IVA), estão obrigados a utilizar, exclusivamente, programas informáticos de faturação que tenham sido objeto de prévia certificação pela Autoridade Tributária e Aduaneira (AT).
 
@@ -170,7 +197,9 @@ a) Os sujeitos passivos referidos no n.º 1, ainda que abrangidos por qualquer d
 
 b) Os sujeitos passivos que utilizem programa de faturação multiempresa.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A certificação dos programas de faturação depende da verificação cumulativa dos seguintes requisitos:
 
@@ -184,7 +213,9 @@ d) ...
 
 e) Observar os demais requisitos técnicos aprovados por despacho do diretor-geral da Autoridade Tributária e Aduaneira (AT).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -212,11 +243,15 @@ a) Os documentos, nomeadamente, guias de transporte ou de remessa, que sirvam de
 
 b) Quaisquer outros documentos, independentemente da sua designação, suscetíveis de apresentação ao cliente para conferência de entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa.
 
-###### Artigo 6.º-B — Utilização de faturas impressas em tipografias
+Artigo 6.º-B
+
+Utilização de faturas impressas em tipografias
 
 Os sujeitos passivos referidos no artigo 2.º só podem emitir faturas impressas em tipografias autorizadas em caso de inoperacionalidade do programa de faturação, devendo ser posteriormente recuperadas para o programa.
 
-###### Artigo 6.º-C — Documentos emitidos por máquinas registadoras
+Artigo 6.º-C
+
+Documentos emitidos por máquinas registadoras
 
 1 - Os equipamentos ou programas de faturação não certificados que, para além dos talões de venda, emitam quaisquer outros documentos suscetíveis de apresentação aos clientes como comprovativo da transmissão de bens ou da prestação de serviços, nomeadamente as designadas consultas de mesa, devem:
 
@@ -262,7 +297,7 @@ Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais S
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01701/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01701/0000200005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01701/0000200005.pdf)
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 

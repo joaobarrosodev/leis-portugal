@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/124/2012/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-2012-553052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b032bf7ea169712e17dc0b6e31fd1a6bc1e2c862748c4efbd64ad6989e89ec2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5daf027cde4e0fbf8415fc4c0d3443935aa896ddc69e5e871395ffefc24a8ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Contrato Coletivo de Trabalho
 - Indústria Agro-alimentar
+- Indústria Alimentar
 - Indústria da Panificação
 - Indústria Hoteleira
 - Indústria Pasteleira
 - Regulamento de Extensão
-- Indústria Alimentar
 - Relações de Trabalho
 - Remuneração
 - Trabalhador por Conta de Outrem
@@ -81,13 +81,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:25Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +138,4 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 2 - A tabela salarial e o valor do subsídio de refeição produzem efeitos desde 1 de abril de 2012.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 20 de abril de 2012.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 20 de abril de 2012.

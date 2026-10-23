@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11800/0363203638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/242/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-2011-670283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e389ec9d1d28472bc45346f2dba8a6e35c5e9513faa91acd453e6a6d0992371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d8d5080aaddc02718453c8fe7aea06fe8df74645e0fc6ef5ac1d3bafd87388e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Instituto da Droga e da Toxicodependência
-- Serviço Nacional de Saúde
-- SIADAP
-- Pessoal de Enfermagem
-- Serviço Regional de Saúde
 - Avaliação do Pessoal
+- Instituto da Droga e da Toxicodependência
+- Pessoal de Enfermagem
+- Pessoal Dirigente
+- Serviço Nacional de Saúde
+- Serviço Regional de Saúde
+- SIADAP
 relationships:
 - type: amended_by
   target: pt:dre:1140341460:por
@@ -102,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:150899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1140341460:por
+  label: Revogada, a partir de 1 de julho de 2026, pelo(a) Portaria n.º 282-A/2026/1 - Diário da República n.º 124/2026, Suplemento,
+    Série I de 2026-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-a-2026-1140341460
+  date: '2026-06-30'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:25Z'
   warnings: []
   errors: []
 ---
@@ -540,4 +570,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 3 de Junho de 2011.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra da Saúde, Ana Maria Teodoro Jorge.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra da Saúde, Ana Maria Teodoro Jorge.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04501/0000700022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/80-c/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad6ee5441613f34e4b2040375d3ce5368adf6fa9a68ca890daedfe4146bb420d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b76c8b7ff3bc03c5658e99a892907bd85df16fd9488357d9d8d89d3f9c6e66c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Agricultura Biológica
-- IFAP
 - Exploração Agrícola
+- IFAP
+- Plano Estratégico da Política Agrícola Comum de Portugal
 - Política Agrícola Comum
 - Política do Ambiente
-- Plano Estratégico da Política Agrícola Comum de Portugal
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:54-D/2023
+  label: Altera, a partir de 5 de março de 2024, com efeitos a 1 de janeiro de 2024, o artigo 5.º da Portaria n.º 54-D/2023,
+    de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-E/2023
+  label: Altera, a partir de 5 de março de 2024, com efeitos a 1 de janeiro de 2024, os artigos 19.º, 30.º, 33.º, 48.º, 51.º
+    e 57.º e os anexos ii, iii, iv, vi, x, xi, xii e xiii, e revoga o n.º 2 do artigo 19.º e o n.º 5 do artigo 57.º da Portaria
+    n.º 54-E/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-I/2023
+  label: Altera, a partir de 5 de março de 2024, com efeitos a 1 de janeiro de 2024, os artigos 5.º, 11.º, 22.º e 31.º e os
+    anexos i e iv, e revoga o n.º 1 do artigo 39.º da Portaria n.º 54-I/2023, de 27 de fevereiro, Diário da República n.º
+    41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-Q/2023
+  label: Altera, a partir de 5 de março de 2024, com efeitos a 1 de janeiro de 2024, os artigos 2.º e 7.º e os anexos iii
+    e iv da Portaria n.º 54-Q/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -114,16 +140,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215338992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215375646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477732:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:41Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +216,11 @@ Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da a
 
 A presente portaria procede à alteração das seguintes portarias:
 
-a) À terceira alteração da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>147-A/2023, de 30 de maio, e 314/2023, de 19 de outubro, que estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação dos domínios "A.1 - Rendimento e resiliência" e "A.2 - Equidade" do eixo "A - Rendimento e sustentabilidade" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
+a) À terceira alteração da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, alterada pelas Portarias n.os147-A/2023, de 30 de maio, e 314/2023, de 19 de outubro, que estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação dos domínios "A.1 - Rendimento e resiliência" e "A.2 - Equidade" do eixo "A - Rendimento e sustentabilidade" do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
 
-b) À quinta alteração à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios previstos no domínio "Sustentabilidade - Ecorregime" do eixo "A - Rendimento e sustentabilidade" do PEPAC Portugal, no continente;
+b) À quinta alteração à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, alterada pelas Portarias n.os175/2023, de 23 de junho, [194-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), de 7 de julho, [303-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), de 6 de outubro, e 314/2023, de 19 de outubro, que estabelece o regime de aplicação dos apoios previstos no domínio "Sustentabilidade - Ecorregime" do eixo "A - Rendimento e sustentabilidade" do PEPAC Portugal, no continente;
 
-c) À terceira alteração da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>147­-A/2023, de 30 de maio, e 314/2023, de 19 de outubro, que estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio "A.1 - Rendimento e resiliência" do eixo "A - Rendimento e Sustentabilidade" do PEPAC Portugal, no continente;
+c) À terceira alteração da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, alterada pelas Portarias n.os147­-A/2023, de 30 de maio, e 314/2023, de 19 de outubro, que estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio "A.1 - Rendimento e resiliência" do eixo "A - Rendimento e Sustentabilidade" do PEPAC Portugal, no continente;
 
 d) À segunda alteração da [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, alterada pela [Portaria n.º 194/2023](https://diariodarepublica.pt/dr/detalhe/portaria/194-2023-215338992), de 7 de julho, que estabelece a nomenclatura das ocupações culturais, os elementos lineares e de paisagem a integrar na área útil da subparcela agrícola, as regras de elegibilidade da superfície agrícola, os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras.
 
@@ -278,7 +336,7 @@ ii) [...]
 
 Requisitos mínimos obrigatórios aplicáveis às intervenções da presente portaria
 
-| Intervenção | Legislação nacional (na sua redação atual) |
+| Intervenção | Legislação nacional<br>(na sua redação atual) |
 | --- | --- |
 | Agricultura biológica | [...] |
 | Produção integrada (PRODI) - culturas agrícolas | [...] |
@@ -385,7 +443,7 @@ O cumprimento do critério de formação pode ainda ser assegurado desde que a e
 
 Procedimento para classificação em escalões, por anos de implementação, espécies e categorias elegíveis.
 
-| Espécies e categorias elegíveis | 1.º ano de implementação (ano 2023) | 2.º ano de implementação e seguintes (ano 2024 e seguintes) |
+| Espécies e categorias elegíveis | 1.º ano de implementação<br>(ano 2023) | 2.º ano de implementação e seguintes<br>(ano 2024 e seguintes) |
 | --- | --- | --- |
 | Vacas leiteiras | • 1.º escalão[...] | • 1.º escalãoA exploração deve apresentar uma redução de utilização de consumo de antimicrobianos intramamários, igual ou superior a 5 % relativamente à utilização de consumo de antimicrobianos intramamários do ano anterior (*). |
 |  |  | A redução acima referida não é exigida se se verificar uma utilização de consumo de antimicrobianos intramamários, correspondente a uma utilização de, no máximo, 70 % do valor da média nacional para o período relativo aos valores do quadriénio mais recente.No caso das novas explorações pecuárias que não tenham informação na base de dados, o valor mínimo de base a considerar para efeitos do cálculo da redução de utilização de consumo de antimicrobianos intramamários é o correspondente a 90 % do valor da média nacional de utilização de consumo de antimicrobianos intramamários para o período relativo aos valores do quadriénio mais recente. |
@@ -419,7 +477,7 @@ Instruções/Orientações para Avaliação dos Requisitos - Suínos
 
 |  | Valores a cumprir |
 | --- | --- |
-| Porcas e marrãs em grupo | Área livre disponível/animal nos parques: >=2,5 m<sup>2</sup>/porca. |
+| Porcas e marrãs em grupo | Área livre disponível/animal nos parques: >=2,5 m2/porca. |
 | (Revogado.) | (Revogado.) |
 
 [...]
@@ -639,15 +697,15 @@ RLG 5 - [...]
 
 [...]
 
-(<sup>1</sup>) [...]
+(1) [...]
 
-(<sup>2</sup>) [...]
+(2) [...]
 
-(<sup>3</sup>) [...]
+(3) [...]
 
-(<sup>4</sup>) [...]
+(4) [...]
 
-(<sup>5</sup>) [...]
+(5) [...]
 
 1 - [...]
 
@@ -667,15 +725,15 @@ RLG 5 - [...]
 
 9 - [...]
 
-(<sup>6</sup>) [...]
+(6) [...]
 
-(<sup>7</sup>) [...]
+(7) [...]
 
-(<sup>8</sup>) [...]
+(8) [...]
 
-(<sup>9</sup>) [...]
+(9) [...]
 
-(<sup>10</sup>) [...]
+(10) [...]
 
 RLG 6 - [...]
 
@@ -767,4 +825,6 @@ São revogados o n.º 2 do artigo 19.º e o n.º 5 do artigo 57.º da [Portaria 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.
+
+117428011

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2020/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2020-152512128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48cd78ad743e3108950bb3c9e10abae20f6d406f8ae6996fa2d440dbc3bbf0e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08650cc78568a70ac0c26683ce5d4e3fd9b41a4eff20d2fdd68c56a1e85a01b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
-- Plano de Desenvolvimento Económico e Social
-- Desenvolvimento Económico
 - Madeira.região Autónoma
+- Plano de Desenvolvimento Económico e Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2018/08/20/m/dre
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/104/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:116108111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655971:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:26Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +181,11 @@ A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do d
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de novembro de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 9 de dezembro de 2020.**
+Assinado em 9 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -161,7 +193,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 SUMÁRIO EXECUTIVO
 
-# PARTE A - ESTRATÉGIA E PRIORIDADES DE ATUAÇÃO
+PARTE A - ESTRATÉGIA E PRIORIDADES DE ATUAÇÃO
 
 A.1 - DESAFIOS E ESTRATÉGIA DE DESENVOLVIMENTO REGIONAL
 
@@ -233,7 +265,7 @@ A.3 - NECESSIDADES DE INVESTIMENTO E FINANCIAMENTO DO PDES 2030
 
 A.4 - MONITORIZAÇÃO E AVALIAÇÃO DO PLANO
 
-# PARTE B - DIAGNÓSTICO PROSPETIVO REGIONAL
+PARTE B - DIAGNÓSTICO PROSPETIVO REGIONAL
 
 B.1 - POSICIONAMENTO DA MADEIRA NO CONTEXTO NACIONAL E EUROPEU
 
@@ -303,7 +335,7 @@ B.2.4 - Sustentabilidade e valorização dos recursos endógenos
 
 (i) Gestão ambiental integrada
 
-## Anexo 1 - Impacto COVID-19 na RAM
+Anexo 1 - Impacto COVID-19 na RAM
 
 1 - A crise mundial provocada pelo COVID-19 e o impacto da RAM
 
@@ -325,7 +357,7 @@ B.2.4 - Sustentabilidade e valorização dos recursos endógenos
 
 2 - Análise SWOT
 
-## Anexo 2 - Lista de entidades que participaram no processo de programação do Desenvolvimento Regional Madeira, 2030
+Anexo 2 - Lista de entidades que participaram no processo de programação do Desenvolvimento Regional Madeira, 2030
 
 FIGURAS:
 
@@ -525,7 +557,7 @@ As alterações de contexto de partida resultantes da crise pandémica tiveram e
 
 Arquitetura estratégica do PDES Madeira 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 A solução encontrada em face das alterações com que a Região se confronta, absorve não só os desafios estratégicos pré-identificados, como acolhe uma nova dimensão/preocupação transversal. Assim, a nova arquitetura assenta nas seguintes apostas estratégicas da Região no horizonte 2030:
 
@@ -545,7 +577,7 @@ Necessidades de investimento e financiamento do PDES 2030
 
 Tendo presente a Arquitetura de Desafios/Objetivos estratégicos do PDES Madeira 2030, a repartição financeira do PDES deverá evoluir dentro da seguinte estimativa (preços constantes):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 B - Diagnóstico Prospetivo Regional
 
@@ -553,7 +585,7 @@ O Diagnóstico faz uma análise da trajetória do desenvolvimento da Região no 
 
 A matriz de Oportunidades e Ameaças seguinte sistematiza os principais elementos de síntese que fundamentam a identificação de um conjunto de Desafios/Objetivos Estratégicos que constituem a Arquitetura estratégica do PDES Madeira 2030, apresentada na Parte A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 ## ANEXO 1 — Impacto COVID-19 na RAM
 
@@ -563,7 +595,7 @@ As medidas adotadas pelo Governo Regional da Madeira para controlar esta pandemi
 
 Assim, apresenta-se em anexo um capítulo com a avaliação do Impacto da COVID-19 na Região, no qual se destaca os efeitos da paralisação da atividade económica, ao atingir de modo profundo as atividades de especialização regional, expondo a vulnerabilidade da Região aos mercados externos, com efeitos imediatos no setor do turismo e a incerteza relativa às condições de retoma, aconselharam uma reconsideração do quadro de trabalho.
 
-# PARTE A - ESTRATÉGIA E PRIORIDADES DE ATUAÇÃO
+PARTE A - ESTRATÉGIA E PRIORIDADES DE ATUAÇÃO
 
 A.1 - DESAFIOS E ESTRATÉGIA DE DESENVOLVIMENTO REGIONAL
 
@@ -613,7 +645,7 @@ Figura n.º 1
 
 Diamante estratégico da Madeira no horizonte 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Os desafios colocados pelo DE relevam, sobretudo, da constatação segundo a qual, mais do que um conjunto estático de 5 blocos de aposta estratégica, a sua capacidade de resposta aos constrangimentos estruturais do modelo de especialização regional depende do seu entendimento como um sistema de interligações e dinâmicas de complementaridade. Como ponto de partida de todas essas complementaridades destaca-se a especialização turística, sobre a qual se pretendia construir uma base de conhecimento e inovação capaz de induzir e disseminar inovação no tecido económico regional e atrair investimento em serviços intensivos em conhecimento.
 
@@ -639,7 +671,7 @@ Figura n.º 2
 
 RIS 3 Madeira 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: ARDITI, PIDT&I - Plano de Ação para a Investigação, Desenvolvimento Tecnológico e Inovação.
 
@@ -797,7 +829,7 @@ Figura n.º 3
 
 Quadro de referência das incertezas cruciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 No contexto do presente exercício de planeamento a linha estratégica axial das Incertezas cruciais será a que liga a reconfiguração do Cluster de atividades predominantes na RAM com as restrições que o Governo Regional enfrentará, em face da necessidade de aumentar a margem orçamental de base fiscal de que possa vir a dispor para fazer face às inevitáveis oscilações dos ciclos económicos e à, agora muito evidente, emergência de fenómenos gerados por uma incerteza radical que sendo, imprevisível por definição, está em linha com o quadro de ameaças estruturais (IPCC) imposto pelas alterações climáticas. A composição climática da Ilha da Madeira torna-a especialmente propícia para a residenciação de doenças tropicais e a atual crise pandémica tornou latente as ameaças inerentes a este risco, o que incute a necessidade de respostas estruturais musculadas e diferenciadoras em relação ao conjunto da Macaronésia.
 
@@ -905,7 +937,7 @@ Figura n.º 4
 
 Arquitetura estratégica Madeira 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Tendo presente os termos desta reflexão, sistematiza-se nas entradas seguintes os Desafios estratégicos de suporte ao compromisso Madeira 2030:
 
@@ -1007,7 +1039,7 @@ TABELA 1
 
 Matriz de relação entre a Arquitetura Estratégica Madeira 2030 e os Objetivos Operacionais na ótica do Desafio da Recuperação e Resiliência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Para a construção de respostas a esta arquitetura renovada de Desafios Estratégicos deverão convergir atuações das políticas públicas regionais (apresentadas na Secção B), mas, também, a capacidade de iniciativa e mobilização de recursos de financiamento de entidades públicas e privadas em investimentos e ações-tipo comportadas nos campos de intervenção dos diversos Desafios.
 
@@ -1043,7 +1075,7 @@ TABELA 2
 
 Matriz de relação entre a Arquitetura Estratégica Madeira 2030 e os Referenciais-chave da Política de Coesão para 2021-2027
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 A combinação de Desafios Estratégicos delineada mostra-se também bastante coerente com dois documentos de referência da programação no horizonte 2030: os 17 Objetivos de Desenvolvimento Sustentável da Agenda 2030 das Nações Unidas) e o Pilar Europeu dos Direitos Sociais da União Europeia, importando sinalizar os Objetivos/Princípios em que essa coerência se expressa com maior relevância estratégica para a Região:
 
@@ -1113,7 +1145,7 @@ TABELA 3
 
 Matriz de relação entre a Arquitetura Estratégica Madeira 2030 e os Domínios de Política Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Nesta abordagem importa ter presente as orientações estratégicas, eixos de intervenção e medidas de um vasto conjunto de instrumentos de planeamento setorial, ordenamento e agendas temáticas (regionais e nacionais) que constituem referenciais estratégicos e operacionais das políticas públicas que vão enquadrar o próximo período de programação. Ou seja, interessa assegurar que essas diferentes dimensões da intervenção do Governo Regional possam ser compaginadas à luz do referencial estratégico definitivo da programação 2021-2027 pois, caso isso seja possível, estaremos perante um significativo incremento da fundamentação estratégica de projetos e intervenções estruturantes. Com efeito, trata-se de instrumentos setoriais relevantes à luz da fundamentação apresentada que são, simultaneamente, orientadores da política pública e do aproveitamento de oportunidades de investimento e de outras intervenções por parte de entidades associativas e privadas, e que devem ser encarados numa ótica de exigência de qualidade na conceção de projetos, ações e iniciativas futuras e na gestão mais eficaz e eficiente dos recursos públicos.
 
@@ -2071,7 +2103,7 @@ Para a quantificação desta estratégia de desenvolvimento foram tidas em conta
 
 Tendo presente a Arquitetura de Desafios/Objetivos estratégicos do PDES Madeira 2030, e considerando uma sobredeterminação da Recuperação Económica e Resiliência concentrada no período 2021-2026 (horizonte de execução), bem como o que foi explanado, a repartição de investimentos proposta seria a seguinte (preços constantes):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Desafios I a V - Quantificação VP; Desafio VI - PIDDAR 2020 suplementar.
 
@@ -2097,7 +2129,7 @@ Assim, no campo da monitorização do PDES podemos identificar as seguintes inic
 
 De dois em dois anos será produzido um relatório de acompanhamento, tanto com a informação financeira e das estratégias setoriais, mas pretende-se também, que tenha uma avaliação mais geral e qualitativa.
 
-# PARTE B - DIAGNÓSTICO PROSPETIVO REGIONAL
+PARTE B - DIAGNÓSTICO PROSPETIVO REGIONAL
 
 B.1 - POSICIONAMENTO DA MADEIRA NO CONTEXTO NACIONAL E EUROPEU
 
@@ -2127,7 +2159,7 @@ TABELA 4
 
 Indicadores de desenvolvimento económico e emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fontes: UE28 (Eurostat), Portugal e RAM (INE, Estimativas da população residente, 2018 e Estatísticas do Emprego).
 
@@ -2141,7 +2173,7 @@ TABELA 5
 
 Evolução do Índice Sintético de Desenvolvimento Regional (2013-2018)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Índice Sintético de Desenvolvimento Regional.
 
@@ -2153,7 +2185,7 @@ TABELA 6
 
 Indicadores-chave da RAM - Evolução pós-2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Sistema de Contas Integradas das Empresas, Inquérito ao Emprego; DREM (2018), Contas Regionais 1995-2018P.
 
@@ -2177,7 +2209,7 @@ GRÁFICO 1
 
 Evolução do indicador regional de atividade económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DREM.
 
@@ -2191,7 +2223,7 @@ O PAEF foi celebrado em 27 de janeiro de 2012 que, em paralelo com o Memorando d
 
 Este procedimento, concluído em dezembro de 2016 e indispensável dado o estado de necessidade então reconhecido, promoveu uma alteração drástica na política orçamental da RAM, limitando severamente a capacidade de intervenção através da despesa pública, corrente e de investimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Direção Regional de Estatísticas da Madeira: Procedimento dos Défices excessivos da Região Autónoma da Madeira 2010-2019; Boletim da Dívida da Região Autónoma da Madeira (BDRAM), n.º 3, março de 2020.
 
@@ -2225,7 +2257,7 @@ TABELA 7
 
 População residente, segundo o escalão etário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Recenseamento da População e Habitação - Censos 2011 e Estimativas Anuais da População Residente.
 
@@ -2249,7 +2281,7 @@ TABELA 8
 
 Projeções demográficas RAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Projeções da População Residente.
 
@@ -2267,7 +2299,7 @@ TABELA 9
 
 Evolução trimestral do emprego - Total e por setor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -2277,7 +2309,7 @@ TABELA 10
 
 Evolução dos principais indicadores de atividade, emprego e desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -2289,7 +2321,7 @@ TABELA 11
 
 Taxa de emprego dos 20 aos 64 anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE (extraído do Data Centro).
 
@@ -2301,7 +2333,7 @@ TABELA 12
 
 Número de trabalhadores por conta de outrem, segundo a CAE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DRIRTA - Direção de Serviços de Estatísticas do Trabalho, Quadros de Pessoal.
 
@@ -2321,7 +2353,7 @@ TABELA 13
 
 Taxa de desemprego jovem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE/DREM.
 
@@ -2331,7 +2363,7 @@ TABELA 14
 
 Taxa de jovens NEET com idade entre 15 e 34 anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -2341,7 +2373,7 @@ TABELA 15
 
 Evolução dos indicadores do mercado de emprego (desemprego registado)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Instituto de Emprego da Madeira (www.iem.gov-madeira.pt).
 
@@ -2381,7 +2413,7 @@ TABELA 16
 
 Taxa de jovens NEET com 15-24 anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2409,7 +2441,7 @@ TABELA 17
 
 Iniciativa Garantia Jovem/RAM - Principais indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Emprego e Coesão Social: Breve balanço, 2016 e 2017 (IEM, 2017 e 2018); dados relativos a 2018 fornecidos pelo IEM.
 
@@ -2431,7 +2463,7 @@ TABELA 18
 
 Rendimento salarial médio mensal líquido da população empregada por conta de outrem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -2449,7 +2481,7 @@ TABELA 19
 
 Beneficiários do Rendimento Social de Inserção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Ministério da Solidariedade e da Segurança Social, Instituto de Informática, I. P.
 
@@ -2461,7 +2493,7 @@ TABELA 20
 
 Indicadores de desigualdade na distribuição dos rendimentos (2018)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, EU-SILC: Inquérito às Condições de Vida e Rendimento.
 
@@ -2471,7 +2503,7 @@ TABELA 21
 
 Indicadores de pobreza (2018)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, EU-SILC: Inquérito às Condições de Vida e Rendimento.
 
@@ -2511,7 +2543,7 @@ TABELA 22
 
 Investimento em I&D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Ministério da Educação e Ciência - Direção-Geral de Estatísticas de Educação e Ciência (extraído do Data Centro).
 
@@ -2521,7 +2553,7 @@ GRÁFICO 4
 
 Despesa em I&D em percentagem do PIB, por Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Extraído de PIDT&I, e atualizado com informação DGEEC, Potencial científico e tecnológico nacional - setor institucional e setor empresas (extraído do INE).
 
@@ -2537,7 +2569,7 @@ TABELA 23
 
 Principais indicadores de inovação empresarial na RAM (2014-2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: GPEARI (2016), Sumários Estatísticos CIS, 2018 - Inquérito Comunitário à Inovação.
 
@@ -2553,7 +2585,7 @@ TABELA 24
 
 Doutorados por ano nas instituições de ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Ministério da Educação e Ciência - Direção-Geral de Estatísticas de Educação e Ciência (extraído do Data Centro).
 
@@ -2563,7 +2595,7 @@ TABELA 25
 
 Doutorados do ensino superior por 1000 habitantes (n.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Ministério da Educação e Ciência - Direção-Geral de Estatísticas de Educação e Ciência (extraído do Data Centro).
 
@@ -2577,7 +2609,7 @@ GRÁFICO 5
 
 Padrões de execução de despesa em I&D, por NUT III (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2593,7 +2625,7 @@ TABELA 26
 
 Posicionamento das Regiões Portuguesas no Regional Innovation Scoreboard
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Regional Innovation Scoreboard.
 
@@ -2613,7 +2645,7 @@ TABELA 27
 
 Projetos aprovados no Eixo 1 do PO Madeira 14-20, por Tipologia de Operação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: IDR (data de reporte 31-07-2020).
 
@@ -2703,7 +2735,7 @@ TABELA 28
 
 Taxa de pré-escolarização por ano letivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 2 - Taxa de abandono precoce de educação e formação
 
@@ -2713,7 +2745,7 @@ TABELA 29
 
 Taxa de abandono precoce de educação e formação, por ano letivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat; DREM.
 
@@ -2731,7 +2763,7 @@ TABELA 30
 
 Taxa de retenção e desistência, segundo o nível de ensino e ciclo de estudo, por ano letivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DREM - Direção Regional de Estatística da Madeira.
 
@@ -2743,7 +2775,7 @@ TABELA 31
 
 Taxa de jovens com 20-24 anos que concluíram, pelo menos, o ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fontes: Eurostat e OSERAM, Observatório de Educação da Região Autónoma da Madeira.
 
@@ -2755,7 +2787,7 @@ TABELA 32
 
 Taxa de estudantes do ensino secundário profissional (CITE 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2769,7 +2801,7 @@ TABELA 33
 
 Taxa de diplomados do ensino superior com 30 a 34 anos (CITE 5-8)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2779,7 +2811,7 @@ TABELA 34
 
 Taxa de diplomados do ensino superior com 25 a 64 anos (CITE 5-8)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2799,7 +2831,7 @@ TABELA 35
 
 Taxa de emprego de recém-diplomados (CITE 3-8)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2821,7 +2853,7 @@ TABELA 36
 
 Taxa de participação de adultos com 25 a 64 anos em ações de educação e formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Eurostat.
 
@@ -2835,7 +2867,7 @@ TABELA 37
 
 População ativa, por nível de escolaridade completo (2017)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Anuário Estatístico da Região Autónoma da Madeira 2017.
 
@@ -2845,7 +2877,7 @@ TABELA 38
 
 Trabalhadores por conta de outrem, segundo as habilitações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DRIRTA - Direção de Serviços de Estatísticas do Trabalho, Quadros de Pessoal.
 
@@ -2931,7 +2963,7 @@ TABELA 39
 
 Quociente de localização dos estabelecimentos e do pessoal ao serviço nos estabelecimentos, entre a RAM e o Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Nota. - QLrj é o quociente de localização da atividade j na região r (R.A. Madeira), face ao espaço padrão (Continente); QLrj=(Xrj/Xr)/(Xpj/Xp); Xrj é o valor da variável x para a atividade j na região r (R.A. Madeira); Xr é o valor da variável x para o conjunto de atividades na região r (R.A. Madeira); Xpj é o valor da variável x para a atividade j no espaço padrão (Continente); Xp é o valor da variável x para o conjunto de atividades no espaço padrão (Continente).
 
@@ -2963,7 +2995,7 @@ TABELA 40
 
 Indicadores das sociedades não financeiras (RAM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Sistema de Contas Integradas das Empresas (SCIE).
 
@@ -2987,7 +3019,7 @@ TABELA 41
 
 Evolução dos Indicadores de turismo, no período 2013-2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos.
 
@@ -3043,7 +3075,7 @@ TABELA 42
 
 Principais indicadores do alojamento local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Estatísticas do Turismo da RAM, DREM.
 
@@ -3109,7 +3141,7 @@ TABELA 43
 
 Indicadores de realização da Medida 4 - Investimentos em ativos físicos do PRODERAM 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Relatório de Execução de 2019, PRODERAM 2020.
 
@@ -3141,7 +3173,7 @@ TABELA 44
 
 Indicadores socioeconómicos das pescas e da aquicultura da RAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Direção Regional de Pescas e INE.
 
@@ -3241,7 +3273,7 @@ TABELA 45
 
 Distribuição das cinco atividades mais representativas, no VAB e no volume de negócio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Nota. - Utilizadas as cinco atividades com maior peso em 2018; existem quebras de série em algumas atividades, conforme o ano em análise.
 
@@ -3261,7 +3293,7 @@ TABELA 46
 
 Evolução da população residente (2001-2018)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Estimativas Anuais da população residente.
 
@@ -3357,7 +3389,7 @@ TABELA 47
 
 Dinâmicas de ocupação dos parques empresariais (2012-2019)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: MPE - Madeira Parques Empresariais, S. A.
 
@@ -3697,7 +3729,7 @@ TABELA 48
 
 Indicadores de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, Estatísticas dos Resíduos Urbanos.
 
@@ -3733,7 +3765,7 @@ TABELA 49
 
 Indicadores de águas residuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE, ERSAR, ERSARA, DREM, Sistemas públicos urbanos de serviços de águas (vertente física e de funcionamento).
 
@@ -3815,7 +3847,7 @@ GRÁFICO 6
 
 Resultados do inquérito excecional às empresas no âmbito da pandemia para a RAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DREM.
 
@@ -3825,7 +3857,7 @@ GRÁFICO 7
 
 Indicador regional de atividade económica (média móvel de três meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DREM.
 
@@ -3845,7 +3877,7 @@ GRÁFICO 8
 
 Evolução do número de dormidas em 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: DREM.
 
@@ -3893,7 +3925,7 @@ GRÁFICO 9
 
 Evolução anual da população em risco de pobreza na RAM, em Portugal e na Zona Euro (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: INE.
 
@@ -3909,7 +3941,7 @@ As consequências económicas e sociais do COVID-19 exigiram respostas urgentes 
 
 Assim, de modo a apoiar a população, a reforçar as capacidades do sistema de saúde e a estimular a economia, antecipando os futuros desafios, os Governos Nacional e Regionais estabeleceram medidas de apoio imediato. As medidas de cariz regional de apoio de curto prazo (previstas para 2020 e 2021), que complementam as medidas nacionais, totalizavam 496 milhões de euros, abarcando o setor da saúde, da educação, apoios sociais, setor empresarial e de estímulo à economia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Ao nível dos cuidados de saúde, a RAM tem investido no setor ao nível do reforço dos recursos disponíveis (nomeadamente, pessoal de saúde, equipamento médico e viaturas), assim como na adaptação de infraestruturas, tendo preparado uma ala no Hospital Dr. Nélio Mendonça para o COVID-19, aquisição de materiais e equipamentos de proteção, realização de testes
 
@@ -3927,7 +3959,7 @@ TABELA 50
 
 Principais medidas de apoio regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Governo Regional da Região Autónoma da Madeira.
 
@@ -3943,7 +3975,7 @@ TABELA 51
 
 Impactos anuais na RAM em 2020 e 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Estudo do Impacto Económico-Financeiro do COVID-19 na Região Autónoma da Madeira, pwc.
 
@@ -3953,7 +3985,7 @@ GRÁFICO 10
 
 Impacto por setor no VAB da Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Estudo do Impacto Económico-Financeiro do COVID-19 na Região Autónoma da Madeira.
 
@@ -3967,7 +3999,7 @@ GRÁFICO 11
 
 Saldo orçamental previsto para 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 Fonte: Estudo do Impacto Económico-Financeiro do COVID-19 na Região Autónoma da Madeira.
 
@@ -3979,7 +4011,7 @@ Concluindo, a recuperação económica da RAM continua a estar associada à ince
 
 2 - Análise SWOT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
 
 ## ANEXO 2 — Lista de entidades que participaram no processo de programação do Desenvolvimento Regional Madeira, 2030
 
@@ -4003,4 +4035,6 @@ Os conteúdos resultantes do preenchimento da Grelha (pontos 1, 2, 3 e 5) foram 
 
 Contributos elaborados no âmbito da participação aberta de suporte ao processo de programação do Desenvolvimento Regional Madeira 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25200/0002100166.pdf)
+
+113826103

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/84/2025/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2025-909595554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f147e298ac4087184d844238989d55a11a1878ec0860061d6373ccd004333e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b01dda413323736a3db34f012f78b1988d53d179be0779ab6e147062338dd93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Armazenagem
-- Metrologia
-- Regulamentação de Atos Legislativos
 - Aparelho de Medição
-- Instituto Português da Qualidade
-- Transporte de Mercadorias
-- Produto Congelado
-- Regulamento
+- Armazenagem
 - Controlo Metrológico
+- Instituto Português da Qualidade
+- Metrologia
+- Produto Congelado
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: celex:32015L1535
@@ -91,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/211/2022/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/211/2022/08/23/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200139611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890791839:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1129/2009
+  label: Revoga, a partir de 6 de março de 2025, a Portaria n.º 1129/2009, de 1 de outubro, Diário da República n.º 191/2009,
+    Série I
+  source: null
+  date: '2009-10-01'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:17Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +157,7 @@ Ao abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 28 de fevereiro de 2025.**
+O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 28 de fevereiro de 2025.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -202,3 +224,5 @@ Os registadores de temperatura cujos modelos tenham sido objeto de autorização
 ###### Artigo 12.º — Disposição final
 
 O disposto nos artigos anteriores não impede a comercialização, nem a utilização posterior dos registadores de temperatura acompanhados de certificados de avaliação da conformidade emitidos por organismos reconhecidos ao abrigo da legislação da União Europeia aplicável, no âmbito da atividade de metrologia legal, com base em especificações e procedimentos que assegurem uma qualidade metrológica à visada pelo presente Regulamento.
+
+118760851

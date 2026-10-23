@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24900/0003400046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/310/2022/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3718af021f7b7f95189eabc3d07ed3b9b709c36c60e575d3ec5bf8f63e061a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993244daeb9ba7a409e61e5d1976efa3f611d1f1c160b94836de37977f1840fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Estatuto
-- Instituto Público
 - Direção Geral de Estatísticas da Educação e Ciência
-- Orgânica
+- Estatuto
 - Instituto de Gestão Financeira da Educação
+- Instituto Público
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2022/05/30/p/dre
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/336/2012/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/336/2012/10/24/p/dre
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70054438:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:09Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +174,9 @@ m) Apoiar os utilizadores de instrumentos de suporte à produção de estatísti
 
 n) Apoiar os processos de recolha e tratamento de dados estatísticos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O número máximo de unidades orgânicas flexíveis da DGEEC é fixado em três.»
 
@@ -182,13 +208,17 @@ h) Departamento de Gestão de Infraestruturas Tecnológicas;
 
 i) Departamento de Sistemas de Informação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
 2 - Por deliberação do conselho diretivo, podem ser criadas unidades flexíveis designadas por núcleos, até ao limite de 12, dirigidas por coordenadores de núcleo, cargos de direção intermédia de 2.º grau.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -212,7 +242,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 6.º — Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior
+Artigo 6.º
+
+Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior
 
 Ao Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior, abreviadamente designado por DOCTES, compete:
 
@@ -230,7 +262,9 @@ f) Desenvolver as ações necessárias ao exercício das competências do IGeFE,
 
 g) [...]
 
-###### Artigo 8.º — Departamento de Administração Geral
+Artigo 8.º
+
+Departamento de Administração Geral
 
 Ao Departamento de Administração Geral, abreviadamente designado por DAG, compete:
 
@@ -262,7 +296,9 @@ m) [...]
 
 n) [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -306,7 +342,9 @@ s) Elaborar o balanço social do IGeFE, I. P.;
 
 t) Desenvolver as ações necessárias, no âmbito da gestão e conservação das instalações e equipamentos, de forma a garantir boas condições de trabalho aos trabalhadores do IGeFE, I. P., em articulação com o Departamento de Administração Geral.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A organização interna do IGeFE, I. P., pode incluir até três equipas multidisciplinares criadas por deliberação do conselho diretivo, que define os seus objetivos, duração e composição.
 
@@ -342,7 +380,9 @@ i) Promover e monitorizar a gestão da qualidade dos processos e procedimentos i
 
 j) Gerir e coordenar os projetos transversais que lhe sejam atribuídos, em articulação com os demais departamentos.
 
-###### Artigo 9.º-B — Departamento de Gestão de Infraestruturas Tecnológicas
+Artigo 9.º-B
+
+Departamento de Gestão de Infraestruturas Tecnológicas
 
 Ao Departamento de Gestão de Infraestruturas Tecnológicas, abreviadamente designado por DGIT, compete:
 
@@ -374,7 +414,9 @@ m) Assegurar a articulação com outras áreas governativas, tendo em vista o re
 
 n) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.
 
-###### Artigo 9.º-C — Departamento de Sistemas de Informação
+Artigo 9.º-C
+
+Departamento de Sistemas de Informação
 
 Ao Departamento de Sistemas de Informação, abreviadamente designado por DSI, compete:
 
@@ -432,7 +474,7 @@ São republicados, no anexo à presente portaria, da qual faz parte integrante, 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos na data de produção de efeitos do [Decreto-Lei n.º 38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 21 de dezembro de 2022. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 6 de dezembro de 2022. - O Ministro da Educação, João Miguel Marques da Costa, em 30 de novembro de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 29 de novembro de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 21 de dezembro de 2022. - A Ministra da Ciência, Tecnologia e Ensino Superior, Elvira Maria Correia Fortunato, em 6 de dezembro de 2022. - O Ministro da Educação, João Miguel Marques da Costa, em 30 de novembro de 2022. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 29 de novembro de 2022.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -703,3 +745,5 @@ s) Disponibilizar informação para a elaboração dos instrumentos de gestão, 
 1 - A organização interna do IGeFE, I. P., pode incluir até três equipas multidisciplinares criadas por deliberação do conselho diretivo, que define os seus objetivos, duração e composição.
 
 2 - O chefe de equipa multidisciplinar é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.
+
+116003026

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23801/0000200026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/295-a/2022/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96a32b364b41203dff7605e85764caeadfb76e97c95ea6c90353d34c14051003
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e75d40c8902ae9ec2f2912c1c01721728577f0a0d27c7f97a20a1f2a93d0d02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Financiamento
-- Empresa
-- Turismo
-- Contrato de Liquidez
-- Regulamentação de Atos Legislativos
-- Estabelecimento de Restauração
 - Auxílio de Minimis
+- Contrato de Liquidez
+- Empresa
+- Estabelecimento de Restauração
+- Financiamento
 - Formulário Eletrónico
 - Fundos CE
-- Instituto do Turismo de Portugal
-- Regime de Apoio
-- Regulamento
 - IAPMEI
-- Subsídio não Reembolsável
+- Instituto do Turismo de Portugal
 - PORTUGAL 2020
-- Programa Operacional Temático Competitividade e Internacionalização
 - Programa APOIAR
+- Programa Operacional Temático Competitividade e Internacionalização
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -137,16 +137,100 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:147412974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149104781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149532792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151904698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153341303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160149402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160195066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174278983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176519579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 36
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:05Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +285,9 @@ e) 'APOIAR TURISMO'.
 
 4 - No âmbito do Programa APOIAR, as decisões de concessão de incentivo por parte da autoridade de gestão (AG) do Programa Operacional Temático Competitividade e Internacionalização são adotadas até 30 de junho de 2022, com exceção da medida 'APOIAR TURISMO'.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas (AAC) publicado pela AG do Programa Operacional Temático Competitividade e Internacionalização e submetidas através de formulário eletrónico simplificado disponível no Balcão 2020, no sítio na Internet https://balcao.portugal2020.pt, com exceção da medida 'APOIAR TURISMO' em que os pedidos de apoio são formalizados nos termos previstos no artigo 13.º-L.
 
@@ -223,7 +309,9 @@ e) 'APOIAR TURISMO'.
 
 10 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +345,9 @@ l) [...]
 
 4 - O disposto nas alíneas e), g), h) e j) do anterior n.º 1 aplica-se retroativamente às candidaturas já submetidas, nos termos a definir nos avisos para apresentação de candidatura, quando aplicável.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -297,7 +387,9 @@ n) [...]
 
 5 - O disposto nas alíneas g) e m) do anterior n.º 1 aplica-se retroativamente às candidaturas já submetidas, nos termos a definir nos avisos para apresentação de candidatura quando aplicável.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -311,13 +403,17 @@ n) [...]
 
 APOIAR TURISMO
 
-###### Artigo 13.º-I — Beneficiários e dotação no 'APOIAR TURISMO'
+Artigo 13.º-I
+
+Beneficiários e dotação no 'APOIAR TURISMO'
 
 1 - São beneficiárias no 'APOIAR TURISMO' as empresas que, cumprindo as condições de elegibilidade previstas no artigo seguinte, desenvolvam atividade económica principal inserida na lista de CAE prevista no anexo C à presente portaria e tenham tido uma candidatura aprovada ao abrigo do Programa APOIAR, nas medidas 'APOIAR.PT', 'APOIAR + SIMPLES' ou 'APOIAR RESTAURAÇÃO'.
 
 2 - A dotação para financiamento de operações ao abrigo da medida 'APOIAR TURISMO' é de 70 milhões de euros, a transferir do subsetor Estado para o Turismo de Portugal, I. P.
 
-###### Artigo 13.º-J — Critérios de elegibilidade dos beneficiários e condições de acesso ao 'APOIAR TURISMO'
+Artigo 13.º-J
+
+Critérios de elegibilidade dos beneficiários e condições de acesso ao 'APOIAR TURISMO'
 
 1 - No âmbito da medida 'APOIAR TURISMO' são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários, a cumprir à data da formalização do pedido:
 
@@ -335,7 +431,9 @@ f) Não ter sido objeto de um processo de insolvência, nos termos do Código da
 
 2 - A comprovação das condições previstas nas alíneas c) e f) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através de procedimentos automáticos do Balcão 2020.
 
-###### Artigo 13.º-K — Taxa de financiamento e forma de apoio no 'APOIAR TURISMO'
+Artigo 13.º-K
+
+Taxa de financiamento e forma de apoio no 'APOIAR TURISMO'
 
 1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
 
@@ -343,7 +441,9 @@ f) Não ter sido objeto de um processo de insolvência, nos termos do Código da
 
 3 - Se, da aplicação do disposto no número anterior e do número de pedidos de apoio apresentados nos termos do artigo seguinte, a dotação orçamental prevista para a medida 'APOIAR TURISMO' não for integralmente comprometida, o valor não utilizado é redistribuído de forma proporcional pelas empresas beneficiárias em função do apoio inicialmente apurado, não podendo, contudo, cada uma receber, no final, um valor de apoio superior a 50 % do valor do apoio final pago e recebido, cumulativamente, no âmbito das medidas 'APOIAR.PT', 'APOIAR + SIMPLES' e 'APOIAR RESTAURAÇÃO'.
 
-###### Artigo 13.º-L — Pedido de apoio e pagamentos aos beneficiários no 'APOIAR TURISMO'
+Artigo 13.º-L
+
+Pedido de apoio e pagamentos aos beneficiários no 'APOIAR TURISMO'
 
 1 - O pedido de apoio ao abrigo da medida APOIAR TURISMO, único por cada empresa beneficiária, é apresentado através de formulário eletrónico simplificado disponível no Balcão dos Fundos, até sete dias úteis após a entrada em vigor do presente diploma.
 
@@ -389,19 +489,19 @@ b) O capítulo vii passa a denominar-se «Disposições comuns».
 
 Em 12 de dezembro de 2022.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Ministro da Economia e do Mar, António José da Costa Silva.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Ministro da Economia e do Mar, António José da Costa Silva.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 3.º)
 
 ## ANEXO C — Lista de Códigos de Atividade Elegíveis no APOIAR TURISMO
 
-#### Secção I - Alojamento, restauração e similares
+Secção I - Alojamento, restauração e similares
 
 55: Alojamento.
 
 56: Restauração e similares.
 
-#### Secção II - Outras atividades turísticas
+Secção II - Outras atividades turísticas
 
 77: Atividades de aluguer.
 
@@ -423,13 +523,13 @@ Em 12 de dezembro de 2022.
 
 93295: Outras atividades de diversão itinerantes.
 
-#### Secção III - Outras atividades culturais
+Secção III - Outras atividades culturais
 
 90: Atividades de teatro, de música, de dança e outras atividades artísticas e literárias.
 
 91: Atividades das bibliotecas, arquivos, museus e outras atividades culturais.
 
-#### Secção IV - Atividades de serviços
+Secção IV - Atividades de serviços
 
 93110: Gestão de instalações desportivas.
 
@@ -989,7 +1089,7 @@ Os apoios atribuídos ao abrigo do Programa APOIAR são acumuláveis entre si, s
 
 ## ANEXO A — Lista de Códigos de Atividades Elegíveis
 
-#### Secção G - Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos, exceto combustíveis
+Secção G - Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos, exceto combustíveis
 
 45: Comércio, manutenção e reparação, de veículos automóveis e motociclos.
 
@@ -1087,13 +1187,13 @@ Atividades de serviços mais afetadas pelas medidas de combate à pandemia:
 
 ## ANEXO C — Lista de Códigos de Atividade Elegíveis no APOIAR TURISMO
 
-#### Secção I - Alojamento, restauração e similares
+Secção I - Alojamento, restauração e similares
 
 55: Alojamento.
 
 56: Restauração e similares.
 
-#### Secção II - Outras atividades turísticas
+Secção II - Outras atividades turísticas
 
 77: Atividades de aluguer.
 
@@ -1115,14 +1215,16 @@ Atividades de serviços mais afetadas pelas medidas de combate à pandemia:
 
 93295: Outras atividades de diversão itinerantes.
 
-#### Secção III - Outras atividades culturais
+Secção III - Outras atividades culturais
 
 90: Atividades de teatro, de música, de dança e outras atividades artísticas e literárias.
 
 91: Atividades das bibliotecas, arquivos, museus e outras atividades culturais.
 
-#### Secção IV - Atividades de serviços
+Secção IV - Atividades de serviços
 
 93110: Gestão de instalações desportivas.
 
 93192: Outras atividades desportivas, n. e.
+
+115963524

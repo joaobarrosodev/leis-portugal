@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2013/12/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a727cc9a7e0b627b8a62be029c39ebad6e7f1f2c44c3d4c7caf7c901728bf12c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faafc698ca590119608930832e8a05b109afdcd9ec7ae8b1a71dce5004053038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,8 +74,8 @@ subjects:
 - Gestor Público
 - Incompatibilidades
 - Instituto Público
-- Prémio de Desempenho
 - Madeira.região Autónoma
+- Prémio de Desempenho
 - Remuneração
 - Subsídio de Refeição
 - Trabalhador
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:70007184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70007184:por
+  label: Alterados os arts.9.º, 11.º e 23.º do DLR 12/2010/M, de 05-ago, na redação do presente diploma pelo(a) Decreto Legislativo
+    Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2015-70007184
+  date: '2015-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
@@ -124,16 +130,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
+  article_count: 44
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:44Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +218,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º,
 
 O presente diploma estabelece o estatuto do gestor público das empresas públicas da Região Autónoma da Madeira, definidas no artigo 3.º do regime jurídico do setor empresarial da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -174,11 +230,15 @@ O presente diploma estabelece o estatuto do gestor público das empresas públic
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Na gestão das empresas públicas da Região Autónoma da Madeira são observadas as orientações e recomendações fixadas nos termos do artigo 11.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, bem como outras orientações que sejam fixadas ao abrigo de lei especial.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -200,7 +260,9 @@ h) ...
 
 i) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O desempenho das funções de gestão deve ser objeto de avaliação sistemática, tendo por parâmetros:
 
@@ -222,11 +284,15 @@ b) Nas restantes empresas, à assembleia geral, mediante apresentação de propo
 
 3 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Observado o disposto nas orientações fixadas ao abrigo da lei, designadamente as previstas no artigo 11.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, e no contrato de gestão, o órgão de gestão ou administração goza de autonomia de gestão.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os gestores públicos são designados por nomeação ou por eleição.
 
@@ -240,7 +306,9 @@ Observado o disposto nas orientações fixadas ao abrigo da lei, designadamente 
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +316,9 @@ Observado o disposto nas orientações fixadas ao abrigo da lei, designadamente 
 
 3 - Na falta de disposição legal ou estatutária, é aplicável o número de mandatos previstos no número anterior.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para o exercício das funções de gestor público podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam direta ou indiretamente influência dominante, nos termos do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro.
 
@@ -264,7 +334,9 @@ b) Trabalhadores de outras empresas públicas ou privadas, mediante acordo de ce
 
 5 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Nas empresas públicas da Região Autónoma da Madeira, é obrigatória a celebração de um contrato de gestão.
 
@@ -286,7 +358,9 @@ d) Os elementos referidos no n.º 2 do artigo 24.º
 
 6 - O contrato de gestão deve expressamente prever a demissão quando a avaliação de desempenho seja negativa, designadamente, por incumprimento devido a motivos individualmente imputáveis dos objetivos referidos nas orientações fixadas nos termos do artigo 11.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +378,9 @@ e) ...
 
 f) (Revogada.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - É incompatível com as funções de gestor executivo e de gestor não executivo o exercício de cargos de direção da administração direta e indireta do Estado ou da Região Autónoma da Madeira, ou das autoridades reguladoras independentes, sem prejuízo do exercício de funções por inerência.
 
@@ -328,7 +404,9 @@ b) Excecionalmente e sujeita a especial fundamentação, atendendo à respetiva 
 
 9 - Os membros das mesas de assembleias gerais não podem exercer quaisquer outras atividades temporárias ou permanentes em empresas privadas concorrentes no mesmo setor.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 As funções de gestor público cessam:
 
@@ -340,7 +418,9 @@ c) ...
 
 d) ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +436,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 21.º — Demissão e dissolução por mera conveniência
+Artigo 21.º
+
+Demissão e dissolução por mera conveniência
 
 1 - ...
 
@@ -366,7 +448,9 @@ d) ...
 
 4 - O disposto nos n.os 2 e 3 é aplicado no caso de dissolução por mera conveniência, previsto no n.º 4 do artigo 28.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A remuneração dos gestores integra um vencimento mensal que não pode ultrapassar o vencimento do Presidente do Governo Regional da Região Autónoma da Madeira.
 
@@ -390,7 +474,9 @@ d) ...
 
 11 - (Revogado.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A remuneração dos gestores públicos é fixada:
 
@@ -416,15 +502,21 @@ c) Outras regalias ou benefícios aplicáveis aos demais colaboradores da empres
 
 7 - A remuneração, regalias ou benefícios dos gestores públicos são fixados com observância dos princípios estabelecidos no artigo anterior e em conformidade com os critérios estabelecidos nas orientações a que se refere a alínea c) do n.º 2 do artigo 11.º do [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de agosto, alterado pelo [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os gestores públicos gozam dos benefícios sociais conferidos aos trabalhadores da empresa em que exerçam funções, nos termos que venham a ser concretizados pelas respetivas comissões de fixação de remunerações, pela assembleia geral ou pelos membros do Governo Regional responsáveis pelo setor de atividade e pela área das finanças, consoante o caso, com exceção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Os gestores públicos beneficiam do regime geral de segurança social, se não optarem por outro que os abranja.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Quem, tendo exercido funções de gestor público, auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas, tem o direito de optar entre a remuneração nesta empresa ou entidade e aqueles benefícios.»
 
@@ -442,7 +534,9 @@ Requisitos
 
 3 - É competência da Comissão de Recrutamento e Seleção para a Administração Regional da Madeira a definição, por regulamento, dos critérios aplicáveis na avaliação de candidatos a cargos de gestor público das empresas públicas da Região Autónoma da Madeira, designadamente as competências de liderança, colaboração, motivação, orientação estratégica, orientação para os resultados, orientação para o cidadão e serviço de interesse público, gestão da mudança e da inovação, sensibilidade social, experiência profissional, formação académica e formação profissional.
 
-###### Artigo 24.º-A — Utilização de cartões de crédito, comunicações e de viaturas
+Artigo 24.º-A
+
+Utilização de cartões de crédito, comunicações e de viaturas
 
 1 - Não é permitida a utilização de cartões de crédito e outros instrumentos de pagamento por gestores públicos tendo por objeto a realização de despesas ao serviço da empresa.
 
@@ -462,7 +556,9 @@ b) Por despacho do membro do Governo Regional responsável pela área das finan�
 
 7 - O disposto no n.º 5 do presente artigo exerce-se em conformidade com as demais normas legais e regulamentares relativas à utilização de viaturas.
 
-###### Artigo 24.º-B — Subsídio de refeição e abono de ajudas de custo e transporte
+Artigo 24.º-B
+
+Subsídio de refeição e abono de ajudas de custo e transporte
 
 É aplicável aos gestores públicos os regimes do subsídio de refeição e do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro aplicável à generalidade dos trabalhadores em funções públicas.»
 
@@ -494,11 +590,11 @@ O presente diploma entra em vigor no 1.º dia do 2.º mês seguinte ao da sua pu
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 10 de dezembro de 2013.**
+Assinado em 10 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

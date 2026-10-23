@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/375/2013/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-2013-483674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07c7e21e2788a96295c87778f087a770fd0ccbe585142162a5f05e530dd0f2f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaa806b390af05bb3f27d9e81df171a082828c7bcf6794ee9bf944315229e952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desempregado
-- Jovem
 - Emprego
-- Programa de Emprego
 - Estágio de Formação
-- Promoção de Emprego
+- Financiamento
+- Jovem
 - Política de Emprego
+- Programa de Emprego
+- Promoção de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:106844789:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:398489:por
+  label: "Dada nova redação aos arts. 3.º e 15.º da Port 204-B/2013 de 18-jun, alterada pelo presente diploma, pela PORT.20-A/2014.30.01.2014.MSESS,\
+    \ DR.IS [21-Supl] de 30.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-a-2014-398489
+  date: '2014-01-30'
+- type: amended_by
+  target: pt:dre:55021052:por
+  label: Dada nova redação aos arts. 3.º e 15º da Port 204-B/2013 de 18-jun, alterada pelo presente diploma, pelo(a) Portaria
+    n.º 149-B/2014 - Diário da República n.º 141/2014, 1º Suplemento, Série I de 2014-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-b-2014-55021052
+  date: '2014-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -90,16 +102,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/204-b/2013/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/204-b/2013/06/18/p/dre
+- type: cites
+  target: pt:dre:481477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106844789:por
+  label: Revogada a Port 204-B/2013 de 18-jun, na redação do presente diploma, pela Portaria n.º 131/2017 - Diário da República
+    n.º 70/2017, Série I de 2017-04-07, sem prejuízo do art. 26.º desta última
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2017-106844789
+  date: '2017-04-07'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:06Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +190,9 @@ b) Obtida uma qualificação em área diferente e o novo estágio seja nessa ár
 
 9 - Consideram-se ainda elegíveis os destinatários identificados pela entidade promotora que reúnam condições à data da apresentação da candidatura, salvo se a não elegibilidade, na data referida no número anterior, decorrer de incumprimento imputável ao destinatário.
 
-###### Artigo 15.º — Comparticipação financeira
+Artigo 15.º
+
+Comparticipação financeira
 
 1 - O pagamento do valor correspondente às bolsas de estágio referidas no artigo 12.º é comparticipado pelo IEFP integralmente nas seguintes situações:
 
@@ -200,4 +232,4 @@ A nova redação do artigo 3.º da [Portaria n.º 204-B/2013](https://diariodare
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2014.
 
-**O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 20 de dezembro de 2013.**
+O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 20 de dezembro de 2013.

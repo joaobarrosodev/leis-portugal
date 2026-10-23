@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15000/0408804089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229/2012/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2012-179034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e74a55d076e20555c676bcccc6480ecd2b210e77237a0ece5b52ac6c49c78e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 983a0e5be56963fc7f48da48dae550a899df22e7aeb02ff7b9f117a4b3655b3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Desempregado
-- Entidade Patronal
-- Jovem
-- Instituto de Informática
 - Contratação de Pessoal
-- Desemprego
-- Estágio de Formação
-- Reembolso
 - Contrato de Trabalho
+- Desempregado
+- Desemprego
+- Entidade Patronal
+- Estágio de Formação
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Jovem
+- Reembolso
 relationships:
 - type: amended_by
   target: pt:dre:546030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483100:por
+  label: "Alterados os art.s 1º, 3.º, 4º, 7º, 8.º, 9º e 10º e republicada a presente portaria, pela PORT.65-A/2013.13.02.2013.MEE,\
+    \ DR.IS [31-Supl] de 13.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-a-2013-483100
+  date: '2013-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -88,16 +94,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51-a/2012/06/14/p/dre
+- type: cites
+  target: pt:dre:411607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546030:por
+  label: "Revogada, a partir de 19.07.2013, o presente diploma, alterado e republicado pela Port 65-A/2013 de 13-fev, pela\
+    \ PORT.204-A/2013.18.06.2013.MEE, DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma,\
+    \ nos termos do disposto no nº 2 do seu art. 13º, as remissões legais ou regulamentares efetuadas para o presente\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-a-2013-546030
+  date: '2013-06-18'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:58Z'
   warnings: []
   errors: []
 ---
@@ -230,4 +251,4 @@ A Medida inclui financiamento comunitário, sendo-lhe aplicáveis as respetivas 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigora durante o período de vigência da [Resolução do Conselho de Ministros n.º 51-A/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-a-2012-411607), de 14 de junho.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 2 de agosto de 2012.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 2 de agosto de 2012.

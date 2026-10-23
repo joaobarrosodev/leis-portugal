@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6084-(2) a 6084-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25201/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1329-b/2010/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1329-b-2010-617132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95751080a1a564977c46a3c3a4b777d5280a3bd7b92f5df814b557f7e32eef0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07cd0cde5a6b062601a2c0adf8024d0d3cb88830b9a37baba20f6c4d5aebf8f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Pessoal Dirigente
 - Coordenador
 - Definição de Competências
 - Diretor
 - Estatuto
 - Formas de Provimento
+- Instituto da Segurança Social
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:553395:por
@@ -98,16 +98,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/638/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/638/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:233709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638526:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553395:por
+  label: "Revogada a Port 638/2007, de 30-maio, na redacção da presente portaria, pela PORT.135/2012.08.05.2012.MF, DR.IS\
+    \ [89] de 08.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2012-553395
+  date: '2012-05-08'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:30Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +168,9 @@ Os artigos 3.º-A, 4.º-A, 7.º, 29.º-B e 30.º-A dos Estatutos do Instituto da
 
 7 - Os titulares dos cargos de director de segurança social e de director de departamento podem ter apoio de secretariado nos termos legalmente previstos para os cargos de direcção superior de 1.º grau, em número não superior a um por titular.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - Os directores de estabelecimento são cargos de direcção intermédia de 3.º grau.
 
@@ -164,7 +188,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +226,9 @@ o) ...
 
 p) ...
 
-###### Artigo 29.º-B — [...]
+Artigo 29.º-B
+
+[...]
 
 1 - ...
 
@@ -220,7 +248,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 30.º-A — [...]
+Artigo 30.º-A
+
+[...]
 
 1 - Os cargos de chefe de sector e de chefe de equipa são, respectivamente, cargos de direcção intermédia de 4.º e de 5.º grau, tendo os titulares direito a uma remuneração base mensal de, respectivamente, 60 % e 35 % da remuneração base mensal do cargo de director de segurança social, a que acrescem despesas de representação correspondentes a 10 % e 7 % da remuneração base mensal do cargo de director de segurança social.
 
@@ -234,4 +264,4 @@ e) ...
 
 A presente portaria produz efeitos a 1 de Janeiro de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2010. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 22 de Dezembro de 2010.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2010. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 22 de Dezembro de 2010.

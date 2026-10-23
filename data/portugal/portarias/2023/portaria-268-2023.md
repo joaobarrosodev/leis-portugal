@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16300/0005400071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268/2023/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-2023-220219337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a461096777d7017e570fbce78beee2a8741a6db0aef19c97ba89337aa93c7b10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed396f9d4ca0f296001fe245ac75ae57c67a33a1f8951240a09de2608514b4a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Financiamento
+- Arrendamento Urbano para Habitação
 - Casa Degradada
 - Cidadão Estrangeiro
 - Cidadão Nacional
 - Comparticipação do Estado
 - Definição de Competências
-- Realojamento
-- Renovação Urbana
 - Difusão da Informação
+- Financiamento
+- Habitação
 - Habitação Social
 - Iniciativa Porta 65
 - Instituto da Habitação e da Reabilitação Urbana
 - Notificação
 - Pessoa Singular
-- Habitação
-- Sem-abrigo
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Plataforma Eletrónica
-- Programa de Apoio ao Acesso à Habitação-1.º Direito
 - Plano de Recuperação e Resiliência
+- Plataforma Eletrónica
+- Pobreza
+- Prédio Urbano
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Realojamento
+- Renovação Urbana
+- Sem-abrigo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
@@ -129,16 +129,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/41/2021/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/41/2021/02/22/p/dre
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116090203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158052101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159174076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166158055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202552707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213650805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:16Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +265,9 @@ e) A demonstração do enquadramento da estratégia local de habitação nos pri
 
 9 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +291,9 @@ e) A demonstração do enquadramento da estratégia local de habitação nos pri
 
 11 - No caso de apoio à elaboração das estratégias locais de habitação ou para a preparação e gestão de candidaturas, as prestações de serviços a contratar podem ser de âmbito mais amplo, desde que, para efeitos do disposto no n.º 4, a parte do preço relativa a estas prestações de serviços esteja devidamente discriminado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As candidaturas relativas aos pedidos que forem considerados elegíveis pelo município, nos termos dos n.os 1 e 3 do artigo 4.º, são por este preparadas e remetidas ao IHRU, I. P., instruídas com os elementos necessários à tomada de decisão sobre a concessão dos financiamentos.
 
@@ -235,7 +307,9 @@ e) A demonstração do enquadramento da estratégia local de habitação nos pri
 
 6 - No caso específico de soluções habitacionais que tenham por objeto a reabilitação de frações ou prédios habitacionais cujas habitações estejam arrendadas, não se aplica o disposto no n.º 2, sendo a elegibilidade dos arrendatários evidenciada mediante cópia dos respetivos contratos de arrendamento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -267,7 +341,9 @@ vi) À fundamentação da não aplicação, à construção de edifícios destin
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -293,7 +369,9 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +389,9 @@ f) [...]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -335,7 +415,9 @@ d) Realizar o procedimento concursal referido no artigo 64.º do [Decreto-Lei n.
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -349,7 +431,9 @@ d) Realizar o procedimento concursal referido no artigo 64.º do [Decreto-Lei n.
 
 6 - Com vista a conferir eficácia e celeridade ao processo de decisão sobre a concessão dos apoios, o IHRU, I. P., deve proceder preferencialmente às necessárias consultas para confirmação de informação e ou obtenção de dados, declarações, atestados, certidões e outros elementos indispensáveis já detidos pela Administração Pública, designadamente pela AT, no que respeita aos rendimentos e à titularidade de imóveis por parte dos candidatos, nos termos previstos nos n.os 2 e 6 do artigo 22.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, na sua redação atual.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -383,7 +467,7 @@ O disposto no artigo 3.º e na [Portaria n.º 230/2018](https://diariodarepublic
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Habitação, Marina Sola Gonçalves, em 18 de agosto de 2023.**
+A Ministra da Habitação, Marina Sola Gonçalves, em 18 de agosto de 2023.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -756,3 +840,5 @@ Os pedidos de habitação existentes à data da entrada em vigor do [Decreto-Lei
 ###### Artigo 20.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+116785691

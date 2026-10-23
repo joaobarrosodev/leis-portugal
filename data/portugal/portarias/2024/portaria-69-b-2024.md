@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23
   number: '39'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 66-(5) a 66-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03901/0000500011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/69-b/2024/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc062a45bcc53ad60ec22fb0ee02dc92907517594a6f092d7c201460af95bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018a8b1d98291c4c25220546226c32aa57cea25939d739de566b889c2ee44543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Renda
+- Arrendamento Urbano para Habitação
+- Benefícios Fiscais
 - Construção Civil
 - Crédito à Habitação
 - Custo da Construção
-- Renovação Urbana
+- Habitação
 - Habitação Social
 - Instituto da Habitação e da Reabilitação Urbana
 - Preço de Venda
-- Habitação
 - Renda Limite
-- Benefícios Fiscais
-- Arrendamento Urbano para Habitação
+- Renovação Urbana
 relationships:
+- type: amends
+  target: pt:numero:portaria:65/2019
+  label: Altera, a partir de 24 de fevereiro de 2024, os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 12.º, 15.º,
+    15.º-A, 16.º, 16.º-A, 17.º, 18.º e 21.º e o anexo, adita o artigo 12.º-A e revoga os pontos 3 e 4 do capítulo A e o capítulo
+    B do anexo à Portaria n.º 65/2019, de 19 de fevereiro, Diário da República n.º 35/2019, Série I
+  source: null
+  date: '2019-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
   label: null
@@ -111,16 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/2019/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/65/2019/02/19/p/dre
+- type: cites
+  target: pt:dre:117658784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175336202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2229906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:36Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +210,7 @@ b) As habitações construídas ou reabilitadas para arrendamento acessível nos
 
 c) As habitações construídas ou reabilitadas para arrendamento acessível com recurso à linha de financiamento prevista na alínea a) do n.º 1 do artigo 5.º da [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Para efeitos do disposto na presente portaria entende-se por:
 
@@ -191,17 +238,17 @@ k) [...]
 
 l) [...]
 
-###### Artigo 3.º
+Artigo 3.º
 
 No respeito pela legislação aplicável em função das matérias, a construção e as intervenções de grande reabilitação das habitações de custos controlados referidas nas alíneas a) e c) do artigo 1.º obedecem às Recomendações Técnicas para Habitação de Custos Controlados (RTHCC) constantes do anexo à presente portaria, que desta faz parte integrante.
 
-###### Artigo 4.º
+Artigo 4.º
 
 As habitações construídas ou reabilitadas previstas nas alíneas a) e c) do artigo 1.º têm como referência os seguintes limites máximos da área bruta, de acordo com a respetiva tipologia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/02/03901/0000500011.pdf))](https://files.diariodarepublica.pt/1s/2024/02/03901/0000500011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/02/03901/0000500011.pdf)
 
-###### Artigo 5.º
+Artigo 5.º
 
 Os limites máximos definidos no artigo anterior podem ser alterados:
 
@@ -211,15 +258,15 @@ b) [...]; ou
 
 c) [...]
 
-###### Artigo 6.º
+Artigo 6.º
 
 A área bruta habitacional de um empreendimento de custos controlados não pode ser superior em 6 % nos empreendimentos multifamiliares e 3 % nos empreendimentos unifamiliares à área que resultar da aplicação dos limites máximos previstos no artigo 4.º às diversas tipologias das habitações que constituem o empreendimento.
 
-###### Artigo 7.º
+Artigo 7.º
 
 As habitações construídas ou reabilitadas previstas nas alíneas a) e c) do artigo 1.º têm limites máximos fixados, com base no respetivo custo de promoção (CP), de acordo com o disposto nos artigos seguintes.
 
-###### Artigo 8.º
+Artigo 8.º
 
 O CP por metro quadrado de área bruta das habitações de custos controlados previstas nas alíneas a) e c) do artigo 1.º é calculado de acordo com a seguinte fórmula:
 
@@ -241,19 +288,19 @@ CL - é o coeficiente de localização definido no artigo 42.º do Código do Im
 
 CA - é o coeficiente de atualização do valor do terreno, sendo igual ao Índice de Preços da Habitação para Portugal, divulgado pelo Instituto Nacional de Estatística.
 
-###### Artigo 9.º
+Artigo 9.º
 
 O CS é atualizado mensalmente com base no índice de custo de construção de habitação nova (Base - 2021), divulgado pelo Instituto Nacional de Estatística, correspondendo a base 100 a 785 euros.
 
-###### Artigo 12.º
+Artigo 12.º
 
 O preço máximo de venda das habitações construídas ou reabilitadas nos termos previstos nas alíneas a) e c) do artigo 1.º corresponde ao produto do CP e CPa, respetivamente, pela área bruta da habitação e das suas partes acessórias, com uma majoração, no caso de promoção cooperativa, de 2,5 % e, no caso de promoção privada, de 6 %.
 
-###### Artigo 15.º
+Artigo 15.º
 
 As habitações construídas ou reabilitadas para arrendamento cujos limites de área e de custo de promoção sejam certificados nos termos da presente portaria estão sujeitas aos preços máximos de renda estabelecidos nos termos do [Decreto-Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682), de 22 de maio, sendo, porém, o respetivo CP aplicado apenas à área construída ou reabilitada.
 
-###### Artigo 15.º-A
+Artigo 15.º-A
 
 As habitações construídas ou reabilitadas para destinar a arrendamento acessível, nos termos da alínea b) do artigo 1.º, abrangidas pelo apoio do Estado resultante da aplicação conjugada do n.º 1 do artigo 3.º da [Lei n.º 3/2019](https://diariodarepublica.pt/dr/detalhe/lei/3-2019-117658784), de 9 de janeiro, e da verba 2.18 da lista i anexa ao Código do IVA, e sem prejuízo da existência de apoios adicionais a promover diretamente pelos municípios, não estão sujeitas aos limites a que se referem os artigos 3.º a 7.º e a certificação da correspondente empreitada como de custos controlados obedece aos seguintes requisitos:
 
@@ -261,11 +308,11 @@ a) Envio de comunicação do promotor ao IHRU, I. P., para efeito de emissão de
 
 b) Enquadramento dos contratos de arrendamento no [Decreto-Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682), de 22 de maio.
 
-###### Artigo 16.º
+Artigo 16.º
 
 A afetação e os limites de preço das habitações definidos nos artigos anteriores vigoram por um período mínimo de 25 ou 90 anos, consoante os casos, a contar da data de conclusão das obras de construção ou de reabilitação, sem prejuízo de, dentro desse período, as habitações afetas a venda poderem ser destinadas a arrendamento.
 
-###### Artigo 16.º-A
+Artigo 16.º-A
 
 A certificação como empreitada de reabilitação ou construção a custos controlados nos termos do artigo 15.º-A caduca se:
 
@@ -275,15 +322,15 @@ b) Às habitações for dado destino diferente daquele em que assentou a certifi
 
 c) As habitações forem desafetadas do regime de arrendamento aplicado nos termos do artigo 15.º-A antes do termo do período estabelecido no artigo anterior.
 
-###### Artigo 17.º
+Artigo 17.º
 
 O disposto no artigo anterior implica a igual não aplicação de quaisquer benefícios fiscais que a respetiva empreitada de construção tenha beneficiado, designadamente a taxa reduzida do IVA decorrente da verba 2.18 da lista i anexa ao Código do IVA, pelo que a entidade promotora responsável pelo programa ou, em caso de concessão, o concessionário, são responsáveis pelo pagamento dos montantes de imposto não liquidados, ao que poderão acrescer as demais penalidades que se mostrem devidas ao abrigo da legislação fiscal em vigor.
 
-###### Artigo 18.º
+Artigo 18.º
 
 O disposto no artigo 16.º não é aplicável às habitações de custos controlados sujeitas a ónus ou regimes especiais de afetação ou de alienação ao abrigo de regimes especiais de financiamento.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - [...]
 
@@ -309,7 +356,7 @@ São revogados os pontos 3 e 4 do capítulo A e o capítulo B do anexo à [Porta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 22 de fevereiro de 2024.**
+A Secretária de Estado da Habitação, Maria Fernanda da Silva Rodrigues, em 22 de fevereiro de 2024.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -360,3 +407,5 @@ Os edifícios que constituam unidades residenciais em regime de habitação de c
 6.2 - A definição dos fins e das dimensões das áreas destinadas a espaços complementares de utilização comum dos moradores deve ser efetuada de forma a dar uma resposta adequada às características específicas das pessoas a que se destinam as habitações.
 
 B. (Revogado.)
+
+117394754

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 55/2022, 3º Suplemento, Série I de 2022-03-18
   number: '55'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 105-(2) a 105-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05503/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/116-a/2022/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/116-a-2022-180720369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f2e43d5c50c69a7e2ea02efe5c0378dd6ea09da0b181f93d509578c7dd36368
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca14e5cfd3f3954ab5a44783fd973539ca211f53331dacab430a7a80dad347a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Transporte Rodoviário
-- Regulamentação de Atos Legislativos
-- Produto Petrolífero
 - Combustível
+- Contribuições e Impostos
+- Energia
 - Fixação de Preços
 - Gasóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - IVA
-- Energia
 - Preço de Venda
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
 - Taxa
+- Transporte Rodoviário
 - Tributação
 relationships:
 - type: cites
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/111-a/2022/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/111-a/2022/03/11/p/dre
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:57Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +135,6 @@ Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro do Ambi
 
 Em 18 de março de 2022.
 
-**O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - O Ministro do Ambiente e da Ação Climática, João Pedro Soeiro de Matos Fernandes.**
+O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - O Ministro do Ambiente e da Ação Climática, João Pedro Soeiro de Matos Fernandes.
+
+100000345

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06300/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/132/2022/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-2022-181368696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c9397974adc8c6580fa0ace64193930354514cb681513f8bb143246cf2461f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f309df613b61064167637569bd85ef3e74af1083e4ec5d1205d28d00cd00919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Regulamentação de Atos Legislativos
+- Centro Qualifica
 - Educação dos Adultos
 - Prazo
 - Programa Qualifica
-- Centro Qualifica
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
@@ -89,16 +89,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/2022/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/2022/01/31/p/dre
+- type: cites
+  target: pt:dre:128154291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128366524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178394355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216372:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:02Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +161,9 @@ Os artigos 17.º e 18.º da [Portaria n.º 61/2022](https://diariodarepublica.pt
 
 2 - O disposto no número anterior é ainda aplicável aos adultos que, no âmbito do RVCC, tenham obtido uma certificação escolar ou profissional ao abrigo da [Portaria n.º 232/2016](https://diariodarepublica.pt/dr/detalhe/portaria/232-2016-75216372), de 29 de agosto, entre 1 de janeiro de 2021 e a entrada em vigor do presente artigo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -157,4 +183,6 @@ A presente portaria entra em vigor no dia útil seguinte ao da sua publicação,
 
 Em 25 de março de 2022.
 
-**O Secretário de Estado Adjunto e da Educação, João Miguel Marques da Costa. - O Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita.**
+O Secretário de Estado Adjunto e da Educação, João Miguel Marques da Costa. - O Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita.
+
+115163949

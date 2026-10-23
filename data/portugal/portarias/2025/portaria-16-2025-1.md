@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01300/0001800018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/2025/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-2025-904270776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ed980072fb9eaab685fc00cb1a4dd441443ed480ad83546971bfdbd8bf5ae10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e8ef184a312a533ad5053e869d9a3523ffd7e8014ca8e9a9658a3016fc91fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Comparticipação do Estado
-- Regulamentação de Atos Legislativos
-- Atividade Ocupacional
 - Ação Social
+- Atividade Ocupacional
 - Centro de Actividades Ocupacionais
-- Proteção ao Deficiente
+- Centro de Atividades e Capacitação para a Inclusão
+- Comparticipação do Estado
+- Deficiente
 - Desenvolvimento Pessoal e Social
 - Prorrogação de Prazo
+- Proteção ao Deficiente
 - Reabilitação
 - Regime Jurídico
-- Centro de Atividades e Capacitação para a Inclusão
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:946246036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:946246036:por
+  label: Prorrogado, a partir de 15 de novembro de 2025, o prazo previsto no artigo 1.º da presente portaria, pelo(a) Portaria
+    n.º 395/2025/1 - Diário da República n.º 221/2025, Série I de 2025-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-2025-946246036
+  date: '2025-11-14'
+- type: amends
+  target: pt:numero:portaria:78/2024
+  label: Prorroga, a partir de 21 de janeiro de 2025, o prazo previsto no artigo 1.º da Portaria n.º 78/2024/1, de 4 de março,
+    Diário da República n.º 45/2024, Série I
+  source: null
+  date: '2024-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2007/03/14/p/dre
   label: null
@@ -98,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92-a/2023/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92-a/2023/03/28/p/dre
+- type: cites
+  target: pt:dre:160316760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211131306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854054397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194121:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:06Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +166,6 @@ A presente portaria procede à prorrogação do prazo previsto no artigo 1.º da
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Ação Social e da Inclusão, Maria Clara Gonçalves Marques Mendes, em 14 de janeiro de 2025.**
+A Secretária de Estado da Ação Social e da Inclusão, Maria Clara Gonçalves Marques Mendes, em 14 de janeiro de 2025.
+
+118569205

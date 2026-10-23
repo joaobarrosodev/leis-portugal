@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123/2011/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-2011-277600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88939d0e806d9e113380df106f12839a86e7cc7e216ef508a31a4c5e7252ff31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 286d771dbc73714df7b6ed5639b3ac53b043852fed69e2924e58897b7e53ba82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Norma Protocolar
+- PSP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/299/2009/10/14/p/dre
@@ -80,16 +80,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666521:por
+  label: null
+  source: null
 article_structure:
   article_count: 87
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:49Z'
   warnings: []
   errors: []
 ---
@@ -1030,21 +1054,21 @@ Os capítulos iii, vi e x do presente Regulamento são aplicáveis às Polícias
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
 
 QUADRO IV
 
 Honras a prestar às diferentes entidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
 
 QUADRO V
 
@@ -1062,4 +1086,4 @@ QUADRO VI
 
 Honras fúnebres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06300/0173201746.pdf)

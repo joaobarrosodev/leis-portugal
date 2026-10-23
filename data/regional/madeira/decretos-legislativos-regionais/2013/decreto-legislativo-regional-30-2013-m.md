@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2013/12/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2013-484141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f5bed9970b6ef9f62af40ef008450c6099b908ec09de905b582ca1e5ef17151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d080e02b5f99b8164e0e852237a4c40f734ec174256fd7408992fdfd9038635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,95 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Garantia
+- Código dos Contratos Públicos
+- Contratação Pública
 - Contrato
 - Empreitada de Obras Públicas
-- Obras Públicas
-- Código dos Contratos Públicos
+- Garantia
 - Madeira.região Autónoma
-- Contratação Pública
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:993031451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Prorrogado, com efeitos desde 01.01.2017 e até 31.12.2017, o regime excecional a que se refere o n.º 4 do art. 2.º,
+    pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Prorrogado, com efeitos desde 01.01.2018 e até 31.12.2018, o regime excecional a que se refere o n.º 4 do art. 2.º
+    pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Prorrogado, com efeitos a 01.01.2019 e até 31.12.2019, o regime excecional a que se refere o n.º 4 do art. 2.º deste
+    diploma, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Determinada a prorrogação, com efeitos desde 01.01.2020 e até 31.12.2020, o regime excecional a que se refere o n.º
+    4 do art. 2.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020,
+    1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 78.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Prorrogado, a partir de 01.01.2021, o regime excecional a que se refere o n.º 4 do art. 2.º e alterado o prazo estabelecido
+    nos n.ºs 1, 4 e 5 do art. 3.º (alteração só aplicável aos pedidos formulados a partir de 01.01.2021) do presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:176800365:por
+  label: Prorrogado, a partir de 31.12.2021, com efeitos a 01.01.2022, nos termos do art.100.º do presente diploma, o regime
+    excecional a que se refere o n.º 4 do art. 2.º e alterado o prazo estabelecido nos n.ºs 1, 4 e 5 do art. 3.º (alteração
+    só aplicável aos pedidos formulados a partir de 01.01.2022) do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-a-2021-176800365
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Prorrogado, até 31.12.2023, o regime excecional a que se refere o n.º 4 do art. 2.º e alterado o prazo estabelecido
+    nos n.ºs 1, 4 e 5 do art. 3.º (alteração só aplicável aos pedidos formulados a partir de 01.01.2023) do presente diploma
+    pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Prorrogado, até 31 de dezembro de 2024, a partir de 30 de julho de 2024, com efeitos a 01 de janeiro de 2024, o regime
+    excecional a que se refere o n.º 4 do artigo 2.º e alterado o prazo para dois anos estabelecido nos n.ºs 1, 4 e 5 do art.
+    3.º (alteração só aplicável aos pedidos formulados a partir de 30.07.2024) do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29, nos termos do seu artigo 119.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: amended_by
+  target: pt:dre:923290710:por
+  label: Prorrogado, até 31 de dezembro de 2025, o regime excecional, previsto no n.º 4 do artigo 2.º, pelo(a) Decreto Legislativo
+    Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2025-923290710
+  date: '2025-07-02'
+- type: amended_by
+  target: pt:dre:993031451:por
+  label: Prorrogado, até 31 de dezembro de 2026, o regime excecional a que se refere o n.º 4 do artigo 2.º, pelo(a) Decreto
+    Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2025-993031451
+  date: '2025-12-30'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:44Z'
   warnings: []
   errors: []
 ---
@@ -191,8 +258,8 @@ São revogados os Decretos Legislativos Regionais nºs 12/2011/M, de 29 de julho
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 13 de novembro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 28 de novembro de 2013.**
+Assinado em 28 de novembro de 2013.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

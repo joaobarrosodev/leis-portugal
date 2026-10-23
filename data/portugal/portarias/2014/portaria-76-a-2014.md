@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 58/2014, 1º Suplemento, Série I de 2014-03-24
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2164-(2) a 2164-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/76-a/2014/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-a-2014-577558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 693c172f6a0f42ce3d7c3ec48c7cb417354c63a7b0416282228b346b4e3de8d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0916a3a8104ce9b41ccf4275d78d91cf81e3ca71a2636a082559f748dd8f7d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo Português de Apoio ao Investimento em Moçambique
-- Financiamento
-- Cooperação Financeira
-- Moçambique
 - Apoio ao Investimento
-- Projeto de Investimento
+- Cooperação Financeira
+- Financiamento
+- Fundo Português de Apoio ao Investimento em Moçambique
+- Moçambique
 - Prazo
+- Projeto de Investimento
 - Regulamento
 - Regulamento de Gestão
 relationships:
+- type: amended_by
+  target: pt:dre:115276179:por
+  label: Alterado, a partir de 16.05.2018, o art. 3.º do Regulamento anexo à Port 815/2010 de 30-ago, na redação do presente
+    diploma, pelo(a) Portaria n.º 132/2018 - Diário da República n.º 91/2018, Série I de 2018-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2018-115276179
+  date: '2018-05-11'
+- type: amended_by
+  target: pt:dre:124750738:por
+  label: Alterado o art. 3.º do Regulamento de Gestão do Fundo Português de Apoio ao Investimento em Moçambique aprovado em
+    anexo à Port 815/2010, de 30-ago, na redação do presente diploma pelo(a) Portaria n.º 310/2019 - Diário da República n.º
+    178/2019, Série I de 2019-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-2019-124750738
+  date: '2019-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2010/04/30/p/dre
   label: null
@@ -84,16 +97,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/815/2010/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/815/2010/08/30/p/dre
+- type: cites
+  target: pt:dre:614290:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:53Z'
   warnings: []
   errors: []
 ---
@@ -136,4 +153,4 @@ O artigo 3.º do Regulamento de Gestão do Fundo Português de Apoio ao Investim
 
 7- (...)."
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 20 de março de 2014.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 20 de março de 2014.

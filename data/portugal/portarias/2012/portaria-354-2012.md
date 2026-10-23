@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/354/2012/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/354-2012-191568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b09d3b8d503f0e0babc577993c50f482beae2a149fa827e0e384257355d1c204
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a188cb11673454ab616d3dcb9e5c1d322084009b5c28bf2318cdfe9fc5ffdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Comissão de Protecção de Crianças e Jovens
 - Jovem
 - Juiz Social
-- Tribunal de Comarca
 - Nomeação
-- Proteção à Infância
 - Processo Tutelar Educativo
+- Proteção à Infância
+- Tribunal de Comarca
 - VILA NOVA de GAIA
 relationships:
 - type: cites
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:315502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:43Z'
   warnings: []
   errors: []
 ---
@@ -182,4 +198,4 @@ Com a publicação da presente portaria, bem como daquela que cria a Comissão d
 
 O disposto na presente portaria produz efeitos a partir de 25 de novembro de 2010, data do início de funções da Comissão de Proteção de Crianças e Jovens de Vila Nova de Gaia Norte.
 
-**A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.**
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 19 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de outubro de 2012.

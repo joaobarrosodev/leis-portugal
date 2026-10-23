@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/2010/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aaa47fdbd078ed256fd0b52ffbcc15e9c5458e183209183d4a07af3ef48bbb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0366d3b0ff918099dd34d25b966777ad3590f3d93f44f45459499bd639ab4f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,23 +71,22 @@ subjects:
 - Baião
 - Braga
 - Castelo de Paiva
+- Certificado de Qualidade
 - Cinfães
-- Vinho
+- Comércio
 - Comissão de Viticultura da Região dos Vinhos Verdes
-- Indicação Geográfica
-- Denominação de Origem
-- Entidade Certificadora
 - Controlo de Qualidade
 - Controlo Técnico
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Entidade Certificadora
 - Etiquetagem
 - Felgueiras
 - Fiscalização
 - Gondomar
+- Indicação Geográfica
 - Lousada
 - MAIA
-- Certificado de Qualidade
 - Marco de Canaveses
 - Matosinhos
 - Mondim de Basto
@@ -95,21 +94,34 @@ subjects:
 - Paços de Ferreira
 - Paredes
 - Penafiel
-- VILA do Conde
+- Produto Vitivinícola
 - Qualidade do Produto
+- Região Demarcada
 - Região Demarcada dos Vinhos Verdes
 - Resende
 - Ribeira de PENA
 - Santo Tirso
-- Comércio
 - Trofa
 - VALE de Cambra
 - Valongo
 - Viana do Castelo
-- Produto Vitivinícola
-- Vinho Verde
+- VILA do Conde
 - Vinha
+- Vinho
+- Vinho Verde
 relationships:
+- type: amended_by
+  target: pt:dre:58388707:por
+  label: Alterados, a partir de 18.10.2014, os arts. 8.º e 13.º e o anexo I da Port 668/2010 de 11-ago, na redação do presente
+    diploma, pelo(a) Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-2014-58388707
+  date: '2014-10-17'
+- type: amended_by
+  target: pt:dre:67289947:por
+  label: Alterado o art. 8.º da Port n.º 668/2010 de 11-ago, na redação do presente diploma, pelo(a) Portaria n.º 152/2015
+    - Diário da República n.º 101/2015, Série I de 2015-05-26 que a republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2015-67289947
+  date: '2015-05-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
   label: null
@@ -118,16 +130,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/668/2010/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/668/2010/08/11/p/dre
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:58851818:por
+  label: Retificado o n.º 1 do art. 2.º da Port 216/2014 der 17-out (na parte em que alterou o n.º 2 do art. 8.º da Port 668/2010
+    de 11-ago, com a redação introduzida pelo presente diploma) pelo(a) Declaração de Retificação n.º 47/2014 - Diário da
+    República n.º 220/2014, Série I de 2014-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/47-2014-58851818
+  date: '2014-11-13'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:21Z'
   warnings: []
   errors: []
 ---
@@ -168,13 +191,17 @@ b) 7500 kg para as restantes vinhas.
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Na elaboração dos vinhos verdes e produtos vitivinícolas com direito à DO 'vinho verde' devem ser seguidas as práticas e tratamentos enológicos definidos na legislação aplicável sobre a matéria.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -182,11 +209,15 @@ b) 7500 kg para as restantes vinhas.
 
 3 - Do ponto de vista organoléptico, os vinhos objecto da presente portaria devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, nos termos a definir pela entidade certificadora.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Os produtores e comerciantes dos vinhos e dos produtos vitivinícolas com direito à DO 'vinho verde', com excepção dos retalhistas ou outros agentes económicos que só comercializem produtos já embalados, são obrigados a efectuar a sua inscrição, bem como das respectivas instalações, na entidade certificadora, em registo apropriado.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Compete à Comissão de Viticultura da Região dos Vinhos Verdes as funções de controlo da produção e comércio e de certificação dos vinhos e produtos vitivinícolas com direito à DO 'vinho verde', nos termos do n.º 1º da Portaria n.º 297/2008, de 17 de Abril.
 
@@ -214,7 +245,9 @@ São aditados os artigos 1.º-A e 21.º-A à Portaria n.º 668/2010, de 11 de Ag
 
 Além da protecção constante do artigo 5.º do [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), de 23 de Agosto, e sem prejuízo das marcas já inscritas na entidade certificadora, são proibidas as marcas compostas por palavras ou partes de palavras que sejam susceptíveis de, no espírito das pessoas a que se destinam, ser confundidas com a totalidade ou parte da DO 'vinho verde' e das denominações das respectivas sub-regiões, de forma a evitar que as mesmas se tornem genéricas em conformidade com o regime de protecção e controlo das denominações de origem.
 
-###### Artigo 21.º-A — Sancionamento das infracções
+Artigo 21.º-A
+
+Sancionamento das infracções
 
 Em caso de infracção ao disposto no presente regulamento, demais legislação aplicável, regulamentos internos ou outras directivas dimanadas pela entidade certificadora, pode esta entidade proceder disciplinarmente em relação aos agentes económicos infractores nela inscritos de acordo com o respectivo regulamento disciplinar, sem prejuízo do direito de participação e cooperação que lhe assiste relativamente às autoridades competentes, caso a infracção se configure também como crime ou contra-ordenação.»
 
@@ -224,7 +257,7 @@ No anexo i da Portaria n.º 668/2010, de 11 de Agosto, o quadro referente à sub
 
 Sub-região de Baião
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18500/0416204163.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18500/0416204163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18500/0416204163.pdf)
 
 ###### Artigo 4.º — Produção de efeitos
 

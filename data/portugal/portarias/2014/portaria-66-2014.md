@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05000/0184001844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/66/2014/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-2014-571898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ccbd05f7b76509cfc8a4707daaeaf24f43ea4a73281efbfaebdfb64c7ada7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e688b83bda18bfe034de642acbd6e2996aa74b201b6fb7e4975737354b82b07d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - Acreditação
 - Agência para a Energia
-- Certificado de Aptidão Profissional
-- Formação Profissional
-- Definição de Competências
-- Sistema de Certificação Energética
-- Direção Geral de Energia e Geologia
-- Certificação Energética dos Edifícios
-- Pessoal Técnico
-- Qualificação Profissional
 - Avaliação de Conhecimentos
-- Regime Jurídico
-- Prédio Urbano
+- Certificação Energética dos Edifícios
+- Certificado de Aptidão Profissional
+- Definição de Competências
+- Direção Geral de Energia e Geologia
 - Eficiência Energética
+- Formação Profissional
+- Pessoal Técnico
+- Prédio Urbano
+- Qualificação Profissional
+- Regime Jurídico
+- Sistema de Certificação Energética
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -94,16 +94,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/851/2010/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/851/2010/09/06/p/dre
+- type: repealed_by
+  target: pt:dre:174614573:por
+  label: Revogada, a partir de 20.11.2021, pelo(a) Decreto-Lei n.º 102/2021 - Diário da República n.º 225/2021, Série I de
+    2021-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2021-174614573
+  date: '2021-11-19'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:49Z'
   warnings: []
   errors: []
 ---
@@ -322,7 +328,7 @@ Verificação e elaboração de planos de manutenção.
 
 Os exames teóricos e práticos para profissionais das categorias TIM-II e TIM-III têm os seguintes conteúdos programáticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05000/0184001844.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05000/0184001844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05000/0184001844.pdf)
 
 ###### Artigo 4.º — Realização dos exames para PQe TIM
 
@@ -380,4 +386,4 @@ c) Indicação do método de avaliação dos formandos.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 27 de fevereiro de 2014.**
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 27 de fevereiro de 2014.

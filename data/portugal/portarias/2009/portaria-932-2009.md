@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/932/2009/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/932-2009-488111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dc8a6c18f65435c92ab6197d0a239123ff08cdf644a823043c502e2c9705d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0531900d7dc0fdf788d42b240419879c6739d696e237d0f71eabff1000e68adf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
-- Instituto da Segurança Social
 - Definição de Competências
-- Pagamento
 - Instituições de Segurança Social
+- Instituto da Segurança Social
 - Isenção Contributiva Temporária
+- Pagamento
 - Prestações da Segurança Social
 - Segurança Social
 - TIR
@@ -85,16 +85,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/199/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/199/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:286317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614672:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:08Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +157,9 @@ Assim:
 
 Nos termos do disposto na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 199/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1999-311258), de 8 de Junho, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - A presente portaria prevê uma medida excepcional de apoio ao emprego aplicável ao sector do transporte rodoviário internacional no âmbito da segurança social.
 
@@ -141,11 +167,15 @@ Nos termos do disposto na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.
 
 3 - Para efeitos do número anterior, a totalidade do montante das «ajudas de custo TIR» de montante fixo, mensal e atribuído ao trabalhador, independentemente do número de dias efectivos de deslocação no estrangeiro, constitui base de incidência contributiva para efeitos do sistema previdencial de segurança social.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 As entidades empregadoras beneficiam de isenção contributiva para a segurança social a seu cargo relativas a «ajuda de custo TIR», prevista nos anexos às convenções colectivas de trabalho para o sector, referentes ao período máximo de 60 meses anteriores a 1 de Março de 2009, nos termos do disposto nos artigos seguintes.
 
-###### Artigo 3.º — Isenção contributiva
+Artigo 3.º
+
+Isenção contributiva
 
 1 - A isenção prevista no artigo anterior é concedida:
 
@@ -159,7 +189,9 @@ b) Relativamente a contribuições que integrem o objecto de processo administra
 
 4 - Com a aplicação do presente regime extingue-se a eventual responsabilidade contra-ordenacional em processos pendentes referentes exclusivamente à matéria regulada pela presente portaria.
 
-###### Artigo 4.º — Condições de atribuição
+Artigo 4.º
+
+Condições de atribuição
 
 1 - O direito à isenção depende da apresentação de requerimento e está sujeita, cumulativamente, às seguintes condições:
 
@@ -173,11 +205,15 @@ b) A entidade empregadora ter a sua situação contributiva regularizada perante
 
 4 - Não são computadas, para efeitos do número anterior, as situações de acesso a pensão de velhice ou de invalidez ou de falecimento ocorridas no período a considerar, a cessação de contratos de trabalho durante o período experimental, a cessação por justa causa e a cessação por denúncia unilateral do trabalhador.
 
-###### Artigo 5.º — Incumprimento das condições de atribuição
+Artigo 5.º
+
+Incumprimento das condições de atribuição
 
 A falta do cumprimento da condição prevista na alínea a) do n.º 1 do artigo anterior, em 31 de Dezembro de 2009, determina a cessação da isenção, procedendo os serviços competentes à anulação do valor do crédito remanescente.
 
-###### Artigo 6.º — Procedimento
+Artigo 6.º
+
+Procedimento
 
 1 - O requerimento de pedido de isenção é entregue pela entidade empregadora interessada nos serviços competentes do Instituto de Segurança Social, I. P., no prazo de 30 dias úteis após a entrada em vigor da presente portaria.
 
@@ -191,8 +227,10 @@ b) Relativamente a cada um dos trabalhadores, os períodos de pagamento de contr
 
 4 - O requerimento pressupõe o consentimento expresso dos requerentes para a consulta da respectiva situação tributária pelos serviços competentes do Instituto de Segurança Social, nos termos previstos no n.º 1 do artigo 4.º do [Decreto-Lei n.º 114/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2007-519402), de 19 de Abril.
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 6 de Agosto de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 6 de Agosto de 2009.

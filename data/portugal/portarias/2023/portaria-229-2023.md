@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229/2023/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ce68d4f5bcdc6453c1601bc540b87e84b1aa3c01414725770d23292e2eb898c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8831ad8870fac7ebe9b91ee329e39628f17838e295ac6df794cba98034012b3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pesca
-- Licenciamento
-- Licença de Apanhador
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Cartão de Apanhador
-- Regulamento da Apanha
-- Regime Jurídico
 - Balcão Eletrónico do Mar
+- Cartão de Apanhador
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- Licença de Apanhador
+- Licenciamento
+- Pesca
+- Regime Jurídico
+- Regulamento da Apanha
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
@@ -104,16 +104,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/197/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/197/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3088781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676643:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:00Z'
   warnings: []
   errors: []
 ---
@@ -288,7 +328,7 @@ e) Estabelecer o número máximo de apanhadores por capitania ou por espécie, s
 
 É revogada a [Portaria n.º 1102-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-b-2000-284919), de 22 de novembro, na sua atual redação, a [Portaria n.º 919/80](https://diariodarepublica.pt/dr/detalhe/portaria/919-1980-457794), de 3 de novembro, e o [Despacho n.º 18216/2008](https://diariodarepublica.pt/dr/detalhe/despacho/18216-2008-3088781), de 18 de junho.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 14 de julho de 2023.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 14 de julho de 2023.
 
 ## ANEXO I — [a que se referem o n.º 1 do artigo 5.º, a alínea c) do n.º 1 do artigo 7.º e a alínea a) do n.º 2 do artigo 10.º]
 
@@ -360,10 +400,12 @@ h) Santola (Maja squinado).
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf)
 
 ## ANEXO III — [a que se referem o n.º 1 e a alínea b) do n.º 2 do artigo 10.º]
 
 Períodos de defeso aplicáveis no continente, por espécies ou grupos de espécies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14200/0004300050.pdf)
+
+116679719

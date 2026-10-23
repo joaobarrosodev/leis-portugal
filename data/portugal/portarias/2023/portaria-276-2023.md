@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17300/0001400017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/2023/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-2023-221327586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 962dec54e5076712918919009983a98f8f4bd995cf42b0214a112ccd1eaf6e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bfef11e12062d655ba8cbae910d7506363e1d175b775e2326d705c368d586df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ subjects:
 - Alvaiázere
 - Ansião
 - Conselho dos Julgados de Paz
-- Julgado de Paz
 - Criação de Serviços
-- Regulamentação de Atos Legislativos
 - Figueiró dos Vinhos
-- Serviço de Mediação
+- Julgado de Paz
 - Pedrógão Grande
 - Penela
+- Regulamentação de Atos Legislativos
 - Regulamento Interno
+- Serviço de Mediação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/289/2009/10/08/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639130:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:19Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +164,7 @@ A presente portaria procede à instalação do Julgado de Paz do Agrupamento dos
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Justiça, Jorge Albino Alves Costa, em 1 de setembro de 2023.**
+O Secretário de Estado Adjunto e da Justiça, Jorge Albino Alves Costa, em 1 de setembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -233,3 +253,5 @@ O juiz de paz pode designar um coordenador responsável pela coordenação dos s
 ###### Artigo 8.º — Competências do Ministério da Justiça e dos Municípios de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela
 
 As competências do Ministério da Justiça e dos Municípios de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela são definidas no protocolo celebrado entre as partes, em 27 de maio de 2021.
+
+116824798

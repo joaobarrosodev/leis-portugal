@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06000/0095300955.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/181/2010/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2010-612791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8febf774c1ca7414be6759a0834efe8c2964691815f821415c91c36c8dfd84e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca736b033d92f79cbb1a66610d7203d1b4d89f789db784e539bf84536d0be113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coordenador
 - Espetáculos e Divertimentos Públicos
 - Formação Profissional
-- Coordenador
-- Segurança Pública
 - Regime Jurídico
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:504989:por
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39/2009/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39/2009/07/30/p/dre
+- type: cites
+  target: pt:dre:455125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504989:por
+  label: "Revogada a partir de 15.11.2013, pela PORT.324/2013.31.10.2013.PCM, DR.IS [211] de 31.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2013-504989
+  date: '2013-10-31'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:52Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +176,7 @@ Os coordenadores de segurança que demonstrem desempenhar a função há mais de
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 19 de Março de 2010. - O Ministro da Administração Interna, Rui Carlos Pereira, em 12 de Março de 2010.**
+O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 19 de Março de 2010. - O Ministro da Administração Interna, Rui Carlos Pereira, em 12 de Março de 2010.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

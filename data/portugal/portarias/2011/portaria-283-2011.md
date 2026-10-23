@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/2011/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2011-146928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2226da79044535b6a76905f3843dd86c8f647e31d8290571721c059263f30e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be8803a6b5886c496d8aef26e7913671956cd654ab4372b6b21172f629da0d54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Certificado de Aptidão Profissional
-- Formação Profissional
-- Certificação Profissional
-- Plano de Estudos
-- Diploma
-- Curso de Educação e Formação de Adultos
-- Ensino Tecnológico
-- Habilitações Literárias
 - Agência Nacional para a Qualificação
+- Certificação Profissional
+- Certificado de Aptidão Profissional
+- Curso de Educação e Formação de Adultos
+- Diploma
 - Educação dos Adultos
-- Estabelecimento de Ensino
-- Qualificação Profissional
 - Ensino Básico
+- Ensino Tecnológico
+- Estabelecimento de Ensino
+- Formação Profissional
+- Habilitações Literárias
+- Plano de Estudos
+- Qualificação Profissional
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:276436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276436:por
+  label: "Determinado que passem a ser assumidas pelos Centros para a Qualificação e o Ensino Profissional (CQEP), de acordo\
+    \ com regulamento a definir pela ANQEP, I.P. a publicar, as competências das Comissões Técnicas a funcionar no âmbito\
+    \ dos Centros Novas Oportunidades, relativas aos processos de validação e certificação previstas nos arts. 43º e 45º da\
+    \ Port 230/2008 de 07-mar, alterada pelo presente diploma, pela PORT.135-A/2013.28.03.2013.MEE, DR.IS [62-Supl] de 28.03.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-a-2013-276436
+  date: '2013-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
   label: null
@@ -114,16 +123,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/1997/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/1997/08/29/p/dre
+- type: cites
+  target: pt:dre:197297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
+  article_count: 59
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:39Z'
   warnings: []
   errors: []
 ---
@@ -168,13 +205,17 @@ Os artigos 1.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 19.º, 33.º, 3
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O plano curricular e o referencial de formação dos cursos EFA relativos aos percursos formativos B1, B2, B1+B2, B3 e B2+B3 são organizados em conformidade com os anexos n.os 1 e 2 do anexo i da presente portaria, da qual faz parte integrante, consoante o percurso adoptado e de acordo com os artigos seguintes.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os cursos EFA relativos aos percursos formativos B1, B2, B1+B2, B3 e B2+B3 compreendem uma formação de base que integra as quatro áreas de competências chave constantes do referencial de competências chave para a educação e formação de adultos de nível básico.
 
@@ -184,7 +225,9 @@ Os artigos 1.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 19.º, 33.º, 3
 
 4 - Os cursos EFA relativos aos percursos formativos B1, B2, B1+B2, B3 e B2+B3 que não integrem os temas de vida agregadores das aprendizagens na formação tecnológica ou na formação prática em contexto de trabalho, quando esta for exigida, devem contemplar temáticas directamente relacionadas com a dimensão da profissionalidade, designadamente a orientação ou o desenvolvimento profissional, o empreendedorismo ou outras que se manifestem mais relevantes para o grupo de formandos do curso.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -202,11 +245,15 @@ c) ...
 
 d) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O processo formativo dos cursos EFA relativo aos percursos formativos B1, B2, B1+B2, B3 e B2+B3 inclui ainda o módulo Aprender com Autonomia, organizado em três unidades de competência, centradas no recurso a metodologias que proporcionem aos formandos as técnicas e os instrumentos de autoformação assistida e facilitem a integração e o desenvolvimento de hábitos de trabalho de grupo, bem como a definição de compromissos individuais e colectivos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O plano curricular e o referencial de formação dos cursos EFA relativos aos percursos formativos S e S3, tipos A, B e C, são organizados em conformidade com os anexos n.os 3 e 5 do anexo i da presente portaria, da qual faz parte integrante, consoante o percurso adoptado e de acordo com os artigos seguintes.
 
@@ -214,7 +261,9 @@ O processo formativo dos cursos EFA relativo aos percursos formativos B1, B2, B1
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os cursos EFA relativos aos percursos formativos S e S3, tipos A, B e C, compreendem uma formação de base que integra, de forma articulada, as três áreas de competências chave constantes do respectivo referencial de competências chave para a educação e formação de adultos de nível secundário.
 
@@ -226,7 +275,9 @@ O processo formativo dos cursos EFA relativo aos percursos formativos B1, B2, B1
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Aos cursos EFA relativos aos percursos S3, tipos A, B e C, é aplicável o disposto nos n.os 1 e 4 do artigo 11.º com as necessárias adaptações.
 
@@ -234,7 +285,9 @@ O processo formativo dos cursos EFA relativo aos percursos formativos B1, B2, B1
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, os grupos de formação são constituídos por:
 
@@ -248,7 +301,9 @@ c) Um número mínimo de 15 e um número máximo de 30 formandos, nos casos prev
 
 3 - Pode ser autorizada, a título excepcional, pelos membros do Governo competentes, a constituição de grupos de formação com um número de formandos superior ou inferior aos limites previstos nos números anteriores.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A conclusão com aproveitamento de um curso EFA correspondente a um qualquer percurso formativo dá lugar à emissão de um certificado de qualificações, respectivamente:
 
@@ -270,7 +325,9 @@ e) S3, tipos A, B ou C, obtendo o ensino secundário e certificação profission
 
 5 - Os modelos de certificado e diploma são os aprovados pela Portaria n.º 199/2011, de 19 de Maio.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os grupos de formação são constituídos por um número mínimo de 15 e um número máximo de 30 formandos.
 
@@ -278,7 +335,9 @@ e) S3, tipos A, B ou C, obtendo o ensino secundário e certificação profission
 
 3 - Pode ser autorizada, a título excepcional, pelos membros do Governo competentes, a constituição de grupos de formação com um número de formandos superior ou inferior aos limites previstos nos números anteriores.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +345,9 @@ e) S3, tipos A, B ou C, obtendo o ensino secundário e certificação profission
 
 3 - Os modelos de certificado e diploma são os aprovados pela Portaria n.º 199/2011, de 19 de Maio.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O acompanhamento do funcionamento das ofertas formativas reguladas pela presente portaria é realizado, de forma articulada, a nível nacional e regional, pelos serviços e estruturas competentes dos Ministérios da Economia e do Emprego e da Educação e Ciência, de acordo com o modelo definido e divulgado pela Agência Nacional para a Qualificação, I. P., nos termos da legislação em vigor.
 
@@ -310,15 +371,17 @@ A presente portaria produz efeitos a partir de 3 de Outubro de 2011.
 
 A Portaria n.º 230/2008, de 7 de Março, alterada pela Portaria n.º 711/2010, de 17 de Agosto, é republicada, na sua versão actual, no anexo ii da presente portaria, da qual faz parte integrante.
 
-**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 13 de Outubro de 2011. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 12 de Outubro de 2011.**
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 13 de Outubro de 2011. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 12 de Outubro de 2011.
 
-## ANEXO I — ANEXO N.º 1
+## ANEXO I
+
+## ANEXO N.º 1
 
 Planos curriculares dos cursos de educação e formação de adultos - Percursos formativos B1, B2, B1+B2, B3 e B2+B3
 
 Durações máximas de referência (em horas) (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 2 — Referencial de formação dos cursos de educação e formação de adultos
 
@@ -326,25 +389,25 @@ Percursos formativos B1, B2, B1+B2, B3 e B2+B3
 
 Referencial geral de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 3 — Planos curriculares dos cursos de educação e formação de adultos - Percursos formativos S3, tipos A, B ou C
 
 Durações máximas de referência (em horas) (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 4 — Planos curriculares dos cursos de educação e formação de adultos - Percursos formativos S, tipos A, B ou C
 
 Durações máximas de referência (em horas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 5 — Referencial de formação dos cursos de educação e formação de adultos - Percursos formativos S e S3, tipos A, B ou C
 
 Referencial geral de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 UFCD da componente de formação de base: unidades de formação de curta duração que correspondem às unidades de competência do referencial de competências chave de nível secundário, que integram quatro competências, de acordo com os diversos domínios de referência para a acção considerados.
 
@@ -912,31 +975,31 @@ Com a entrada em vigor da presente portaria é revogada a Portaria n.º 817/2007
 
 Durações máximas de referência (em horas) (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 2 — Referencial de formação dos cursos de educação e formação de adultos - Percursos formativos B1, B2, B1+B2, B3 e B2+B3
 
 Referencial geral de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 3 — Planos curriculares dos cursos de educação e formação de adultos - Percursos formativos S3, tipos A, B ou C
 
 Durações máximas de referência (em horas) (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 4 — Planos curriculares dos cursos de educação e formação de adultos - Percursos formativos S, tipos A, B ou C
 
 Durações máximas de referência (em horas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 ## ANEXO N.º 5 — Referencial de formação dos cursos de educação e formação de adultos - Percursos formativos S e S3, tipos A, B ou C
 
 Referencial geral de formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf))](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/20400/0469504712.pdf)
 
 UFCD da componente de formação de base: unidades de formação de curta duração que correspondem às unidades de competência do referencial de competências chave de nível secundário, que integram quatro competências, de acordo com os diversos domínios de referência para a acção considerados.
 

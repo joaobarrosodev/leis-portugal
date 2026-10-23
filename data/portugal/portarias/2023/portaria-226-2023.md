@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/2023/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2023-215980343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86c9c5dca23bb487a4f2342f7ba3f6e47b8a7249951fc7a41e34eb177314e013
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4243640118346b83ea748cbf075dd4167c35223bd32177475b0f61a098aa848
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Fardamento
 - Força Aérea
 - Regulamentação de Atos Legislativos
 - Regulamento
-- Fardamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1995/09/21/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1054/1997/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1054/1997/10/16/p/dre
+- type: cites
+  target: pt:dre:493238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 191
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:59Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +146,7 @@ Manda o Governo, pela Ministra da Defesa Nacional, nos termos do disposto no art
 
 2 - Sem prejuízo do disposto no número anterior e no n.º 13 do artigo 4.º do RUFA, por despacho do Chefe do Estado-Maior da Força Aérea é fixado um período de transição, correspondente ao prazo de duração dos artigos, a contar da data da entrada em vigor da presente portaria, durante o qual é permitido o uso de artigos de uniforme e artigos complementares previstos no regulamento aprovado pela [Portaria n.º 1054/97](https://diariodarepublica.pt/dr/detalhe/portaria/1054-1997-668148), de 16 de outubro.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 5 de julho de 2023.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 5 de julho de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -2172,63 +2188,63 @@ Quadros resumo por uniforme
 
 Uniforme de gala
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de cerimónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Grande-uniforme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme n.º 1 - Variantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme n.º 1 pré-natal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme n.º 2 pré-natal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de serviço interno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de instrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de campanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme do tripulante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de exibição da Banda de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de cerimónia da Banda de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Uniforme de desporto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 18.º)
 
@@ -2236,14 +2252,16 @@ Mapas de distintivos
 
 Distintivos por uniforme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 Especialidades por distintivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
 
 ## ANEXO III — Figuras dos Artigos de Uniforme
 
 (a que se refere o n.º 2 do artigo 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14100/0003400180.pdf)
+
+116652501

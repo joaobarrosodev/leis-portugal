@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22800/0001000015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/2023/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-2023-224728398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93e8407fa1dace5911f032fd7347f4cbad984eee4fa0345c7220d3286a0aa933
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c1aaab7cd36f98f899e14b803aa685bece3c9f7c205608099cf1f4fe8c70b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Criação Literária
 - Código do Direito de Autor e dos Direitos Conexos
-- Regulamentação de Atos Legislativos
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
-- Regulamento
 - Estrutura de Missão para as Comemorações do Quinquagésimo Aniversário da Revolução de 25 de Abril de 1974
+- Financiamento
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2021/12/14/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70/2021/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2021/06/04/p/dre
+- type: cites
+  target: pt:dre:106657701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175865936:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:00Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +135,7 @@ Nos termos do artigo 4.º do [Decreto-Lei n.º 111/2021](https://diariodarepubli
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 14 de novembro de 2023.**
+O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 14 de novembro de 2023.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -316,3 +328,5 @@ Os direitos de autor da obra literária serão regulados pelo Código do Direito
 ###### Artigo 24.º — Falsas declarações
 
 A falsidade das informações ou declarações prestadas para efeitos de concessão da bolsa ou de qualquer outra documentação determina o cancelamento da bolsa, sem prejuízo da responsabilidade civil e penal que ao caso se aplique.
+
+117067408

@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1982-391980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4793f6e8a2b324f991feb21264008de174ff6601361392ba5f074e5ec62194c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7822734d0c8dec70cec04d6b310aca20a22f447160314ca7c2b2656a47cd7cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estrada
+- Madeira.região Autónoma
+- Medidas Preventivas
+- Segurança Rodoviária
 relationships:
 - type: amended_by
   target: pt:dre:385062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385062:por
+  label: "Prorrogado, por 1 ano, o prazo de vigência das medidas preventivas estabelecidas no presente diploma, pelo DRR.9/84/M.09.05.1984.GR-RAM,\
+    \ DR.IS [107] de 09.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1984-385062
+  date: '1984-05-09'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502601:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:14Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ Considerando que o [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/det
 
 Nestes termos, ao abrigo do artigo 229.º da Constituição, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-###### Artigo 1.º As faixas de terreno marginais às estradas regionais, consideradas por um limite distante 50 m, medidos a partir do eixo da estrada regional, para ambos os lados, ficam sujeitas a medidas preventivas.
+Artigo 1.º As faixas de terreno marginais às estradas regionais, consideradas por um limite distante 50 m, medidos a partir do eixo da estrada regional, para ambos os lados, ficam sujeitas a medidas preventivas.
 
-###### Art. 2.º - 1 - As medidas preventivas previstas no artigo anterior consistem na sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades seguintes:
+Art. 2.º - 1 - As medidas preventivas previstas no artigo anterior consistem na sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -116,32 +134,32 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - Para cumprimento do disposto no número anterior, todos os requerimentos respeitantes às acções no âmbito destas medidas preventivas serão remetidos à SRES, em 2 exemplares, pela câmara municipal do concelho respeitante.
 
-###### Art. 3.º Ficam isentas da necessidade de parecer e autorização por parte da SRES as faixas definidas no artigo 1.º deste decreto que se localizem dentro do perímetro dos planos de urbanização aprovados.
+Art. 3.º Ficam isentas da necessidade de parecer e autorização por parte da SRES as faixas definidas no artigo 1.º deste decreto que se localizem dentro do perímetro dos planos de urbanização aprovados.
 
-###### Art. 4.º - 1 - O prazo de vigência destas medidas preventivas fica estabelecido em 2 anos, a partir da data da publicação deste diploma.
+Art. 4.º - 1 - O prazo de vigência destas medidas preventivas fica estabelecido em 2 anos, a partir da data da publicação deste diploma.
 
 2 - Este prazo poderá, no entanto, ser encurtado logo que se torne executório o plano de ocupação das margens das estradas regionais.
 
-###### Art. 5.º A imposição das medidas preventivas a que se refere o presente decreto não confere direito a qualquer indemnização, nos termos do artigo 11.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Dezembro.
+Art. 5.º A imposição das medidas preventivas a que se refere o presente decreto não confere direito a qualquer indemnização, nos termos do artigo 11.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Dezembro.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril, as obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas poderão ser embargados e demolidos, à custa dos proprietários e sem direito a qualquer indemnização, por despacho do Secretário Regional do Equipamento Social.
+Art. 6.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril, as obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas poderão ser embargados e demolidos, à custa dos proprietários e sem direito a qualquer indemnização, por despacho do Secretário Regional do Equipamento Social.
 
 2 - Os aterros e escavações efectuados nas mesmas condições implicam o dever de reposição da configuração do terreno e de recuperação do coberto vegetal pelo proprietário, segundo projecto aprovado pela Administração, no prazo estabelecido em cada caso, podendo esta, a expensas do proprietário, substituir-se àquele se os trabalhos não forem atempadamente concluídos.
 
-###### Art. 7.º - 1 - Todas as acções licenciadas no âmbito deste decreto deverão exibir permanentemente, no local da obra, o correspondente documento e projecto aprovado, quando for caso disso.
+Art. 7.º - 1 - Todas as acções licenciadas no âmbito deste decreto deverão exibir permanentemente, no local da obra, o correspondente documento e projecto aprovado, quando for caso disso.
 
 2 - A fiscalização prevista para as acções nas áreas definidas no artigo 1.º fica a cargo da SRES, não se dispensando, para o efeito, a boa colaboração das câmaras municipais.
 
-###### Art. 8.º Os municípios deverão dar publicidade ao início e termo das medidas preventivas por editais afixados nos paços dos concelhos e nas sedes das juntas de freguesia a que respeitem as áreas abrangidas.
+Art. 8.º Os municípios deverão dar publicidade ao início e termo das medidas preventivas por editais afixados nos paços dos concelhos e nas sedes das juntas de freguesia a que respeitem as áreas abrangidas.
 
-###### Art. 9.º O presente diploma entra imediatamente em vigor.
+Art. 9.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em plenário do Governo Regional em 1 de Abril de 1982.
 
-**O Presidente do Governo Regional em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 29 de Abril de 1982.**
+Assinado em 29 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

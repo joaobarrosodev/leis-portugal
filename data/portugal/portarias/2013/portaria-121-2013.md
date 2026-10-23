@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/2013/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2013-260081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc72aaa90e590055d6ec08af45fc2e8c7cfb9ec690c97220d79bedcb01bb20ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be35f51843fdd84b29f1dc90731911a4c3e74ba268c5d8891eec7634761de2b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assinatura Digital
 - Certificado de Origem
-- Energia Elétrica
-- Instalação de Co-geração
+- Co-geração
 - Definição de Competências
 - Direção Geral de Energia e Geologia
-- Co-geração
-- Licenciamento
 - Documento Eletrónico
+- Energia Elétrica
+- Instalação de Co-geração
 - Internet
+- Licenciamento
 - Produção de Energia Elétrica
-- Assinatura Digital
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:39Z'
   warnings: []
   errors: []
 ---
@@ -184,4 +184,4 @@ Até à completa operacionalidade dos meios eletrónicos referidos no artigo 2.�
 
 A presente portaria entra em vigor no prazo de 30 dias após a data da sua publicação.
 
-**O Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares, Feliciano José Barreiras Duarte, em 4 de março de 2013. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Franquelim Fernando Garcia Alves, em 27 de fevereiro de 2013. - O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 26 de fevereiro de 2013.**
+O Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares, Feliciano José Barreiras Duarte, em 4 de março de 2013. - O Secretário de Estado do Empreendedorismo, Competitividade e Inovação, Franquelim Fernando Garcia Alves, em 27 de fevereiro de 2013. - O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 26 de fevereiro de 2013.

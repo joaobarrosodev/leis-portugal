@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/2010/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-2010-611289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afcfabb19442784bedf96fa262503cd24bb11cb276f5c78a6b227cf2815ee9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3393d9edc3b89aebb86a730dd5fa3fde63433dfdf2a494d69b2bacd0bc3348dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Curso de Especialização
 - Enfermagem
 - Escola Superior de Enfermagem
+- Formação Profissional
 - Lisboa
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:335223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335223:por
+  label: "Alterado, a partir de 28.06.2010, o art. 6º do presente diploma, pela PORT.371/2010.23.06.2010.MCTES, DR.IS [120]\
+    \ de 23.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-2010-335223
+  date: '2010-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
   label: null
@@ -86,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2002/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2002/03/13/p/dre
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:21Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +162,7 @@ O número de créditos, segundo o sistema europeu de transferência e acumulaç�
 
 As condições de acesso ao curso são as fixadas nos termos da lei.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 19 de Fevereiro de 2010.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 19 de Fevereiro de 2010.
 
 ## ANEXO — Escola Superior de Enfermagem de Lisboa
 
@@ -158,10 +172,10 @@ QUADRO N.º 1
 
 1.º e 2.º semestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf))](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)
 
 QUADRO N.º 2
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf))](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)

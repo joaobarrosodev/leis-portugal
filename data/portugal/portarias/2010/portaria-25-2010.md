@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/25/2010/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-2010-459921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd5d0bc99d64c535c4dbf74e6322765d172a3cecb85cccc997dbf411bd6d25ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 784b135e1e28d5ed08fb3789f57175b67412955190c2bb8f199c8abff3ac0e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Convenção Coletiva de Trabalho
 - Ensino Cooperativo
 - Ensino Particular
-- Pessoal não Docente
 - Pessoal Docente
-- Condições de Higiene e Segurança no Trabalho
+- Pessoal não Docente
 - Regulamento de Extensão
 - Remuneração
 relationships:
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1483/2007/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1483/2007/11/19/p/dre
+- type: cites
+  target: pt:dre:628373:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:16Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +143,4 @@ b) Às relações de trabalho entre estabelecimentos de ensino particular e coop
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009.

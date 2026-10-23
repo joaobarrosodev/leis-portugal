@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00200/0001500017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3/2023/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-2023-205644584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eb3502d8ffd830ee389a3263bf95dc9c316be7e7223d25d96ec7b1739fdc942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f7fb4716dd3a07866f9f3b3c2d8453dc747723f123e39ece065e7501974e57b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Portuguesa das Empresas do Sector Eléctrico e Electrónico
+- Comunicações
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
+- Energia
 - Entidade Patronal
 - Equipamento Eletrónico
+- Federação dos Sindicatos da Indústria e Serviços
 - Material Eléctrico e Electrónico
-- Energia
-- Comunicações
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
 - Tabela Salarial
 - Trabalhador por Conta de Outrem
-- Federação dos Sindicatos da Indústria e Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:28Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +158,6 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 2 - A tabela salarial e cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de julho de 2022.
 
-**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de dezembro de 2022.**
+O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de dezembro de 2022.
+
+116020693

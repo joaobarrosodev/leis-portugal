@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24000/0000900011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/437/2023/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-2023-230090188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8481824fbfc3545c9663ce4cca8116356945b578eec3df19bf55f738b5be9ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f5c00ddbe930cd0dcc85a86883ee804c1726c79de93722efdae408e1ba1c34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
-- Regulamentação de Atos Legislativos
-- Pesca
-- Licença de Pesca
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação de Pesca
+- Licença de Pesca
 - Molusco
 - Período de Defeso
+- Pesca
 - Pesca Desportiva
 - Pesca Profissional
-- Embarcação de Pesca
+- Regulamentação de Atos Legislativos
 - Ria de Aveiro
 relationships:
 - type: cites
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/51/2022/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/51/2022/01/20/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177875734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210536879:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:16Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +142,9 @@ Os artigos 3.º, 4.º e 6.º da [Portaria n.º 51/2022](https://diariodarepublic
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +188,9 @@ q) Camaroeiro - arte de pesca de levantar dirigida à pesca do caranguejo, const
 
 2 - Podem ainda ser usados como auxiliares de pesca o bicheiro, para recolha ou elevação de exemplares capturados de grandes dimensões e o xalavar, também designado por camaroeiro, constituído por uma rede simples, com uma malhagem mínima de 20 mm, sendo, em ambos os casos, permitido o uso de duas unidades por embarcação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -218,4 +234,6 @@ d) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 7 de dezembro de 2023.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 7 de dezembro de 2023.
+
+117148165

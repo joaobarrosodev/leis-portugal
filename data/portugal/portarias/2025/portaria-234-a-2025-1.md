@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/10001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234-a/2025/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-a-2025-919561891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ede1342eb4bcfb7cef749fac653833a0f46d70d63b0bb023f68fd0a1d8507d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0523dab6d2438c33ebbf68e296b8d8e20f2e676ea7954caf502324d326923028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direção Geral do Tesouro e Finanças
 - Empréstimo
-- União Europeia
-- Fundos CE
-- Pagamento
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Residência de Estudantes
-- Plano de Recuperação e Resiliência
-- Mecanismo de Recuperação e Resiliência da União Europeia
 - Estrutura de Missão Recuperar Portugal
+- Financiamento
+- Fundos CE
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Pagamento
+- Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
+- Residência de Estudantes
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:portaria:193/2021
+  label: Altera, a partir de 27 de maio de 2025, o artigo 3.º e o anexo da Portaria n.º 193/2021, de 15 de setembro, Diário
+    da República n.º 180/2021, Série I
+  source: null
+  date: '2021-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
   label: null
@@ -97,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53-a/2022/01/24/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171362456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178050263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835663443:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:03:33Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +189,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 12 de maio de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida.
 
 ## ANEXO
 
@@ -202,3 +224,7 @@ Em 12 de maio de 2025.
 | C10-i07 | Green Shipping | Beneficiário Intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |
 | C15-i07 | Expansão da Rede de Metro de Lisboa - Linha Vermelha até Alcântara | Beneficiário Direto | Metropolitano de Lisboa, E. P. E. |
 | C15-i08 | Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio | Beneficiário Direto | Metro do Porto S. A. |
+
+119104688
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:18px; } .Tbl13 { min-height:47px; } .Tbl14 { min-height:37px; }

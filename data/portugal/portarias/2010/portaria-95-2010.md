@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2010/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2010-610215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b9d505bca68fc3d50358c4a5a5cce677dfb24f15cf692d86c851af5f8b28214
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05c99a1628ed49eb4acd07641ae70b6622e40e3a4eafd3b2efa4f37993e7e5e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:21Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +134,6 @@ As restantes condições de transferência de gestão encontram-se definidas no 
 
 A zona de caça criada por esta portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 28 de Janeiro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 28 de Janeiro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03000/0043400435.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03000/0043400435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03000/0043400435.pdf)

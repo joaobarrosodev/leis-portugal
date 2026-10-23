@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/267/2013/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-2013-499233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64b0a49a30fdcbded53ad82130b081ffa6fdabfc4cd8c4cba2487e07b27cb721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4543068e1fc7891be363d6e014aa699af3b7b63391bd2a80515b98c85e122ef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Aprendizagem Profissional
 - Autonomia Pedagógica
-- Formação Profissional
-- Plano de Estudos
 - Curso Tecnológico do Ensino Secundario
 - Direcção Geral da Educação
 - Ensino Particular
 - Ensino Profissional
-- Ensino Tecnológico
 - Ensino Secundário
-- Qualificação Profissional
+- Ensino Tecnológico
+- Formação Profissional
+- Plano de Estudos
 - Porto
+- Qualificação Profissional
 relationships:
+- type: amended_by
+  target: pt:dre:107745749:por
+  label: Prorrogado por mais um ciclo de estudos a iniciar no ano letivo de 2017/2018, o funcionamento dos cursos Científico-Tecnológico
+    de Produção Gráfica; Científico-Tecnológico de Energias Renováveis; Científico-Tecnológico de Património e Restauro, de
+    nível secundário de educação, no Colégio Salesianos Porto, pelo(a) Portaria n.º 228/2017 - Diário da República n.º 142/2017,
+    Série I de 2017-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2017-107745749
+  date: '2017-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -88,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124220740:por
+  label: Revogada pelo(a) Portaria n.º 268/2019 - Diário da República n.º 163/2019, Série I de 2019-08-27, nos termos do art.
+    48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2019-124220740
+  date: '2019-08-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:28Z'
   warnings: []
   errors: []
 ---
@@ -380,16 +406,16 @@ c) No ano letivo de 2015/2016 no 12.º ano de escolaridade.
 
 É revogada a Portaria n.º 815/2009, de 28 de julho, de acordo com o calendário de produção de efeitos definido no artigo 15.º do presente diploma.
 
-**O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.**
+O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho, em 1 de agosto de 2013.
 
 ## ANEXO I — Curso Científico-Tecnológico de Produção Gráfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)
 
 ## ANEXO II — Curso Científico-Tecnológico de Energias Renováveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)
 
 ## ANEXO III — Curso Científico-Tecnológico de Património e Restauro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15800/0491404919.pdf)

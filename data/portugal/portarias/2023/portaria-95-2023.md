@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/95/2023/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-2023-211172320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 000fb75ae70643f74f78e4293e12de12fa8e148779c6edc6ed387b346fc6bc85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 691c69ad800c85762e0dc927ba87adabaa41ca0cf8168b68d34bb8cdeeb71c75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
+- Inspecção Geral dos Serviços de Justiça
+- Livre Trânsito
+- Pessoal de Inspecção
 - Pessoal Dirigente
 - Regulamentação de Atos Legislativos
-- Livre Trânsito
-- Inspecção Geral dos Serviços de Justiça
-- Pessoal de Inspecção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/489/2001/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/489/2001/05/11/p/dre
+- type: cites
+  target: pt:dre:179297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:42Z'
   warnings: []
   errors: []
 ---
@@ -209,16 +221,18 @@ Após a distribuição dos cartões de livre-trânsito e de identificação prof
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 27 de março de 2023.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 27 de março de 2023.
 
 ## ANEXO I — Cartão de identificação profissional e de livre-trânsito para uso do pessoal dirigente e da carreira especial de inspeção da IGSJ
 
 (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf)
 
 ## ANEXO II — Cartão de identificação profissional do restante pessoal da IGSJ
 
 (a que se refere o n.º 2 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06400/0001000014.pdf)
+
+116318263

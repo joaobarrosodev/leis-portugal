@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/2011/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-2011-277587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7398b52987ea816d5d1b100483ccf2e9e1305d7a94dbe30aca93505a3b48c45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a168c1f0ccd2c21f8d4fd2e3565fb1163293098d772852010d2de25cd1d75b66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
+- Apostas Mútuas Desportivas
 - Concurso
 - Euromilhões
+- Jogos de Fortuna e Azar
 - Lisboa
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
 - Regulamento
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:571049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243739:por
+  label: "Dada nova redaçcão ao art. 10º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004 de 01-Out, alterado pelo\
+    \ presente diploma, pela PORT.320-F/2011.30.12.2011.MSSSOC, DR.IS [250]3ºSupl de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-f-2011-243739
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:259419:por
+  label: "Alterados os art.s 9.º, 13.º, 20.º e 22.º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004, de 01-out,\
+    \ na redação da presente Portaria, e republicado, pela PORT.113/2013.21.03.2013.MSSSOC, DR.IS [57] de 21.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2013-259419
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: "Dada nova redação, a partir de 26.01.2014, ao art. 18.º do Regulamento do EUROMILHÕES, aprovado pela Port 1267/2004\
+    \ de 01-out, alterado pelo presente diploma, pela PORT.15/2014.23.01.2014.MSESS, DR.IS [16] de 23.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-2014-571049
+  date: '2014-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/2004/08/20/p/dre
   label: null
@@ -117,16 +135,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:236921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676813:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:50Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +213,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.�
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -169,19 +229,25 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.�
 
 6 - Para participar no EUROMILHÕES apenas podem ser utilizados os suportes autorizados pelo Departamento de Jogos, nos termos do presente Regulamento, sem prejuízo do disposto no [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), de 8 de Novembro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os prognósticos fazem-se pela marcação de cruzes (X), cujos pontos de intersecção devem estar dentro de cada um dos rectângulos das grelhas dos conjuntos existentes no bilhete.
 
 2 - Os prognósticos podem também ser gerados aleatoriamente ou ser escolhidos pelos jogadores, mediante solicitação de digitação e impressão no terminal de jogo por mediador dos jogos sociais do Estado, através do sítio da Internet www.jogossantacasa.pt ou noutros canais, nos termos regulados pelo Departamento de Jogos, cujo acesso é disponibilizado através da sua plataforma de acesso multicanal.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - O preenchimento das apostas simples faz-se, cumulativamente, pela marcação de 5 dos 50 números inscritos na grelha de números e de 2 dos 11 números inscritos na grelha de estrelas de cada conjunto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +257,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.�
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +339,9 @@ n) Ao 13.º, as que tenham prognosticado apenas dois dos cinco números extraíd
 
 12 - Sem prejuízo do disposto nos n.os 5, 9, 10 e 11, podem realizar-se concursos nos quais o montante do 1.º prémio, caso não haja vencedores nessa categoria, acresce ao montante do 2.º prémio ou, caso este não seja atribuído, ao montante do prémio da categoria imediatamente inferior em que haja, pelo menos, uma aposta premiada, a publicitar pelo Departamento de Jogos antes do início da aceitação de apostas para esses concursos.
 
-###### Artigo 11.º — Mediadores dos jogos sociais do Estado
+Artigo 11.º
+
+Mediadores dos jogos sociais do Estado
 
 1 - Os mediadores dos jogos sociais do Estado são representantes dos jogadores junto do Departamento de Jogos e agem exclusivamente nessa qualidade, não representando em caso algum o Departamento de Jogos junto dos jogadores.
 
@@ -279,7 +349,9 @@ n) Ao 13.º, as que tenham prognosticado apenas dois dos cinco números extraíd
 
 3 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas nos termos do n.º 2 do artigo 9.º e que não tenham sido anuladas, nos termos do regulamento respectivo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O registo de apostas no sistema de registo e validação informático processa-se mediante:
 
@@ -297,7 +369,9 @@ d) A utilização do cartão de jogador nos outros canais da plataforma de acess
 
 4 - Os dados referentes às apostas apresentadas nos terminais dos mediadores dos jogos sociais do Estado e nos outros canais da plataforma de acesso multicanal são transmitidos ao sistema central para registo e validação.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As apostas só participam no respectivo concurso após o registo e validação no sistema central dos dados apresentados nos termos do artigo anterior.
 
@@ -327,7 +401,9 @@ d) A utilização do cartão de jogador nos outros canais da plataforma de acess
 
 14 - Se as apostas não puderem, por qualquer motivo, participar no concurso, cabe ao Departamento de Jogos decidir se os apostadores têm direito à devolução dos montantes que tiverem pago ou ao montante dos prémios a que teriam direito se as apostas tivessem validamente participado no concurso, ouvido o júri de reclamações.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo dos órgãos de controlo e fiscalização estabelecidos pelos diversos exploradores de jogos participantes no EUROMILHÕES, nomeadamente o LOI português, órgão independente constituído por um representante da Inspecção-Geral de Finanças, ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de Dezembro, compete também:
 
@@ -337,7 +413,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +433,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios em cada concurso.
 
@@ -367,13 +447,17 @@ b) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O número provisório das apostas premiadas em cada concurso e o valor dos respectivos quinhões é divulgado através do sítio da Internet www.jogossantacasa.pt, pelos órgãos de comunicação social de âmbito nacional e consta de um cartaz informativo do Departamento de Jogos afixado nos estabelecimentos onde se exerce a actividade de mediação dos jogos sociais do Estado.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os prémios são pagos pelos mediadores dos jogos sociais do Estado ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.
 
@@ -415,7 +499,9 @@ g) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode
 
 13 - Os prémios resultantes de apostas registadas através do sistema de registo e validação informático do Departamento de Jogos só por este podem ser pagos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático do Departamento de Jogos que, tendo apresentado o mesmo para pagamento num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento tem o direito de reclamar.
 
@@ -429,7 +515,9 @@ g) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode
 
 6 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As reclamações são julgadas por um júri constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de Dezembro.
 
@@ -437,19 +525,27 @@ g) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Os casos omissos e os duvidosos são resolvidos pelo Departamento de Jogos, ouvido o júri de reclamações.
 
-## ANEXO I — Tabela de apostas múltiplas
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
+Tabela de apostas múltiplas
 
-## ANEXO II — Tabela de prémios de apostas múltiplas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
+ANEXO II
 
-###### Artigo 2.º — Aditamento ao Regulamento do EUROMILHÕES, aprovado pela [Portaria n.º 1267/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1267-2004-583067), de 1 de Outubro
+Tabela de prémios de apostas múltiplas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
+
+Artigo 2.º
+
+Aditamento ao Regulamento do EUROMILHÕES, aprovado pela [Portaria n.º 1267/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1267-2004-583067), de 1 de Outubro
 
 É aditado o artigo 13.º-A ao Regulamento do EUROMILHÕES, aprovado pela [Portaria n.º 1267/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1267-2004-583067), de 1 de Outubro, e alterado pelas Portarias n.os [1528/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1528-2004-350143), de 31 de Dezembro, [147/2006](https://diariodarepublica.pt/dr/detalhe/portaria/147-2006-676813), de 20 de Fevereiro, [867/2006](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), de 28 de Agosto, [8-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/8-a-2007-236921), de 3 de Janeiro, 93/2009, de 28 de Janeiro, 699/2009, de 2 de Julho, e 65/2011, de 4 de Fevereiro, com a seguinte redacção:
 
@@ -463,33 +559,47 @@ Cartão de jogador
 
 3 - Os montantes referidos no número anterior, bem como as respectivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela Internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão.»
 
-###### Artigo 3.º — Disposição transitória
+Artigo 3.º
+
+Disposição transitória
 
 Se não forem escrutinadas apostas com direito ao 1.º prémio no concurso do EUROMILHÕES, cujo sorteio se realiza no dia 6 de Maio de 2011, o montante a ele destinado acresce ao valor do 1.º prémio do concurso imediatamente seguinte.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, no anexo à presente portaria, da qual faz parte integrante, o Regulamento do EUROMILHÕES, aprovado pela [Portaria n.º 1267/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1267-2004-583067), de 1 de Outubro, com a redacção actual.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia 7 de Maio de 2011, produzindo efeitos relativamente às apostas registadas desde esse dia para o concurso do EUROMILHÕES a realizar em 10 de Maio de 2011.
 
 Pela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 30 de Março de 2011.
 
-## ANEXO — REGULAMENTO DO EUROMILHÕES
+ANEXO
 
-###### Artigo 1.º — Objecto
+REGULAMENTO DO EUROMILHÕES
+
+Artigo 1.º
+
+Objecto
 
 O presente Regulamento estabelece as normas de participação no jogo social do Estado denominado «EUROMILHÕES», que consiste em concursos de apostas mútuas sobre sorteios de números, do tipo loto, organizado, nos termos da lei, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, adiante designado abreviadamente por Departamento de Jogos.
 
-###### Artigo 2.º — Concursos
+Artigo 2.º
+
+Concursos
 
 1 - O EUROMILHÕES tem dois concursos semanais, cujos sorteios, realizados nos termos do artigo 15.º, ocorrem em dia, hora e local fixados pelo Departamento de Jogos, e com a devida publicitação.
 
 2 - A data de cada concurso é a do dia dos respectivos sorteios.
 
-###### Artigo 3.º — Condições gerais de participação
+Artigo 3.º
+
+Condições gerais de participação
 
 1 - A participação no jogo EUROMILHÕES inicia-se com o registo e validação das apostas pelo sistema central do Departamento de Jogos e o pagamento do respectivo preço, nos termos da lei e do presente Regulamento.
 
@@ -503,17 +613,23 @@ O presente Regulamento estabelece as normas de participação no jogo social do 
 
 6 - Para participar no EUROMILHÕES apenas podem ser utilizados os suportes autorizados pelo Departamento de Jogos, nos termos do presente Regulamento, sem prejuízo do disposto no [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), de 8 de Novembro.
 
-###### Artigo 4.º — Preço da aposta
+Artigo 4.º
+
+Preço da aposta
 
 O preço de cada aposta é de (euro) 2.
 
-###### Artigo 5.º — Prognósticos
+Artigo 5.º
+
+Prognósticos
 
 1 - Os prognósticos fazem-se pela marcação de cruzes (X), cujos pontos de intersecção devem estar dentro de cada um dos rectângulos das grelhas dos conjuntos existentes no bilhete.
 
 2 - Os prognósticos podem também ser gerados aleatoriamente ou ser escolhidos pelos jogadores, mediante solicitação de digitação e impressão no terminal de jogo por mediador dos jogos sociais do Estado, através do sítio da Internet www.jogossantacasa.pt ou noutros canais, nos termos regulados pelo Departamento de Jogos, cujo acesso é disponibilizado através da sua plataforma de acesso multicanal.
 
-###### Artigo 6.º — Apostas
+Artigo 6.º
+
+Apostas
 
 1 - Os prognósticos inscritos num conjunto do bilhete composto por duas grelhas, a primeira denominada «grelha de números» e a segunda denominada «grelha de estrelas», ao qual corresponde um preço, constituem uma aposta.
 
@@ -523,13 +639,17 @@ O preço de cada aposta é de (euro) 2.
 
 4 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador, nos termos do regulamento respectivo.
 
-###### Artigo 7.º — Apostas simples
+Artigo 7.º
+
+Apostas simples
 
 1 - As apostas simples são inscritas nos conjuntos existentes no bilhete, começando obrigatoriamente no primeiro.
 
 2 - O preenchimento das apostas simples faz-se, cumulativamente, pela marcação de 5 dos 50 números inscritos na grelha de números e de 2 dos 11 números inscritos na grelha de estrelas de cada conjunto.
 
-###### Artigo 8.º — Apostas múltiplas
+Artigo 8.º
+
+Apostas múltiplas
 
 1 - As apostas múltiplas são inscritas obrigatoriamente no primeiro conjunto do bilhete, sendo consideradas como apostas simples as inscritas em mais de um conjunto além do primeiro.
 
@@ -539,13 +659,17 @@ O preço de cada aposta é de (euro) 2.
 
 4 - A tabela de combinações possíveis de apostas múltiplas na grelha de números e na grelha de estrelas bem como os respectivos preços constam do verso do bilhete.
 
-###### Artigo 9.º — Registo e validação das apostas
+Artigo 9.º
+
+Registo e validação das apostas
 
 1 - Existe um único sistema de registo e validação de apostas, que é o sistema de registo e validação informático.
 
 2 - O sistema referido no número anterior apenas pode operar nos mediadores autorizados pelo Departamento de Jogos para efectuar a aceitação de apostas, através dos terminais de jogo ou da plataforma de acesso multicanal, sem prejuízo da possibilidade de disponibilização directa pelo Departamento de Jogos.
 
-###### Artigo 10.º — Distribuição das receitas para prémios
+Artigo 10.º
+
+Distribuição das receitas para prémios
 
 1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50 %, conforme previsto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 210/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2004-480286), de 20 de Agosto.
 
@@ -625,7 +749,9 @@ n) Ao 13.º, as que tenham prognosticado apenas dois dos cinco números extraíd
 
 12 - Sem prejuízo do disposto nos n.os 5, 9, 10 e 11, podem realizar-se concursos nos quais o montante do 1.º prémio, caso não haja vencedores nessa categoria, acresce ao montante do 2.º prémio ou, caso este não seja atribuído, ao montante do prémio da categoria imediatamente inferior em que haja, pelo menos, uma aposta premiada, a publicitar pelo Departamento de Jogos antes do início da aceitação de apostas para esses concursos.
 
-###### Artigo 11.º — Mediadores dos jogos sociais do Estado
+Artigo 11.º
+
+Mediadores dos jogos sociais do Estado
 
 1 - Os mediadores dos jogos sociais do Estado são representantes dos jogadores junto do Departamento de Jogos e agem exclusivamente nessa qualidade, não representando em caso algum o Departamento de Jogos junto dos jogadores.
 
@@ -633,7 +759,9 @@ n) Ao 13.º, as que tenham prognosticado apenas dois dos cinco números extraíd
 
 3 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas nos termos do n.º 2 do artigo 9.º e que não tenham sido anuladas, nos termos do regulamento respectivo.
 
-###### Artigo 12.º — Realização das apostas
+Artigo 12.º
+
+Realização das apostas
 
 1 - O registo de apostas no sistema de registo e validação informático processa-se mediante:
 
@@ -651,7 +779,9 @@ d) A utilização do cartão de jogador nos outros canais da plataforma de acess
 
 4 - Os dados referentes às apostas apresentadas nos terminais dos mediadores dos jogos sociais do Estado e nos outros canais da plataforma de acesso multicanal são transmitidos ao sistema central para registo e validação.
 
-###### Artigo 13.º — Registo e validação das apostas no sistema central
+Artigo 13.º
+
+Registo e validação das apostas no sistema central
 
 1 - As apostas só participam no respectivo concurso após o registo e validação no sistema central dos dados apresentados nos termos do artigo anterior.
 
@@ -701,7 +831,9 @@ b) A cópia de segurança dos ditos suportes tenha sido enviada pelo órgão de 
 
 14 - Se as apostas não puderem, por qualquer motivo, participar no concurso, cabe ao Departamento de Jogos decidir se os apostadores têm direito à devolução dos montantes que tiverem pago ou ao montante dos prémios a que teriam direito se as apostas tivessem validamente participado no concurso, ouvido o júri de reclamações.
 
-###### Artigo 13.º-A — Cartão de jogador
+Artigo 13.º-A
+
+Cartão de jogador
 
 1 - Para efectuar os pagamentos e receber os prémios do EUROMILHÕES, através do sistema de registo e validação informático, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.
 
@@ -709,7 +841,9 @@ b) A cópia de segurança dos ditos suportes tenha sido enviada pelo órgão de 
 
 3 - Os montantes referidos no número anterior, bem como as respectivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela Internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão.
 
-###### Artigo 14.º — Júri dos concursos
+Artigo 14.º
+
+Júri dos concursos
 
 1 - Sem prejuízo dos órgãos de controlo e fiscalização estabelecidos pelos diversos exploradores de jogos participantes no EUROMILHÕES, nomeadamente o LOI português, órgão independente constituído por um representante da Inspecção-Geral de Finanças, ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de Dezembro, compete também:
 
@@ -719,7 +853,9 @@ b) A comprovação do direito a prémio, a qual tem lugar através da leitura da
 
 2 - Das operações previstas no número anterior é lavrada acta.
 
-###### Artigo 15.º — Sorteios de números
+Artigo 15.º
+
+Sorteios de números
 
 1 - O 1.º sorteio de números de cada concurso do EUROMILHÕES, denominado «Sorteio A», efectua-se mediante a extracção de 5 bolas, de uma esfera contendo 50 bolas homogéneas, iguais em material, volume e peso, numeradas de 1 a 50.
 
@@ -737,7 +873,9 @@ b) A comprovação do direito a prémio, a qual tem lugar através da leitura da
 
 8 - A extracção de um número só se concretiza quando a respectiva bola sair completamente fora da esfera, não existindo antes desse momento.
 
-###### Artigo 16.º — Escrutínio
+Artigo 16.º
+
+Escrutínio
 
 1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios em cada concurso.
 
@@ -749,13 +887,17 @@ b) A comprovação do direito a prémio, a qual tem lugar através da leitura da
 
 5 - O controlo dos prémios relativos a apostas efectuadas no sistema de registo e validação informático é efectuado pelo júri dos concursos, por comparação com a cópia de segurança prevista no artigo 13.º, n.º 10, alínea b), prevalecendo esta em caso de dúvida.
 
-###### Artigo 17.º — Divulgação das apostas premiadas
+Artigo 17.º
+
+Divulgação das apostas premiadas
 
 1 - O número provisório das apostas premiadas em cada concurso e o valor dos respectivos quinhões é divulgado através do sítio da Internet www.jogossantacasa.pt, pelos órgãos de comunicação social de âmbito nacional e consta de um cartaz informativo do Departamento de Jogos afixado nos estabelecimentos onde se exerce a actividade de mediação dos jogos sociais do Estado.
 
 2 - Quando haja alteração dos resultados provisórios, o número definitivo das apostas premiadas bem como o valor dos respectivos quinhões são tornados públicos através do cartaz referido no número anterior, após o julgamento das reclamações nos termos do artigo 19.º
 
-###### Artigo 18.º — Pagamento dos prémios
+Artigo 18.º
+
+Pagamento dos prémios
 
 1 - Os prémios são pagos pelos mediadores dos jogos sociais do Estado ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.
 
@@ -797,7 +939,9 @@ g) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode
 
 13 - Os prémios resultantes de apostas registadas através do sistema de registo e validação informático do Departamento de Jogos só por este podem ser pagos.
 
-###### Artigo 19.º — Reclamações
+Artigo 19.º
+
+Reclamações
 
 1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático do Departamento de Jogos que, tendo apresentado o mesmo para pagamento num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento tem o direito de reclamar.
 
@@ -821,7 +965,9 @@ e) Motivo da reclamação.
 
 6 - O prazo é de caducidade, não sendo considerada qualquer reclamação que entre no Departamento de Jogos fora do prazo.
 
-###### Artigo 20.º — Júri de reclamações
+Artigo 20.º
+
+Júri de reclamações
 
 1 - As reclamações são julgadas por um júri constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de Dezembro.
 
@@ -829,22 +975,32 @@ e) Motivo da reclamação.
 
 3 - Das deliberações do júri de reclamações cabe recurso contencioso de anulação para o Tribunal Administrativo de Círculo de Lisboa, nos termos da legislação geral aplicável.
 
-###### Artigo 21.º — Fraudes
+Artigo 21.º
+
+Fraudes
 
 A prática de actos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação dos recibos emitidos através do terminal no sistema de registo e validação informático, é objecto de participação para efeitos de procedimento criminal, nos termos da lei.
 
-###### Artigo 22.º — Casos omissos
+Artigo 22.º
+
+Casos omissos
 
 Os casos omissos e os duvidosos são resolvidos pelo Departamento de Jogos, ouvido o júri de reclamações.
 
-###### Artigo 23.º — Tabelas
+Artigo 23.º
+
+Tabelas
 
 São publicadas as tabelas constantes dos anexos i e ii, relativas, respectivamente, aos sistemas de apostas múltiplas e aos prémios em apostas múltiplas, as quais fazem parte integrante do presente Regulamento.
 
-## ANEXO I — Tabela de apostas múltiplas
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
+Tabela de apostas múltiplas
 
-## ANEXO II — Tabela de prémios de apostas múltiplas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)
+ANEXO II
+
+Tabela de prémios de apostas múltiplas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0181501850.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22000/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/2023/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-2023-224203155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c942bdc463bd91cf713d9fe63a68bfd813b352f70971ab656e29cddc16d522ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3f0ca355df81e11285d9265331e9132b130d84b092fcf21dc1a70b13fdfb626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Conformidade
-- Regulamentação de Atos Legislativos
-- Especificação Técnica
 - Aparelho de Medição
-- Instituto Português da Qualidade
+- Certificado de Conformidade
 - Controlo Metrológico
+- Especificação Técnica
+- Instituto Português da Qualidade
+- Regulamentação de Atos Legislativos
 - Regulamento do Controlo Metrológico dos Cinemometros-radar
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/211/2022/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/211/2022/08/23/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200139611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628557:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:48Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +135,7 @@ Ao abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º d
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 9 de novembro de 2023.**
+O Secretário de Estado da Economia, Pedro Miguel Ferreira Jorge Cilínio, em 9 de novembro de 2023.
 
 ## ANEXO — REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS CINEMÓMETROS
 
@@ -243,26 +255,28 @@ O disposto nos artigos anteriores não impede a comercialização, nem a utiliza
 
 Erros máximos admissíveis (EMA)
 
-|  |  |  |  |  |
+| Tipo de Cinemómetro | Velocidade, v/(km/h) | EMA |  |  |
 | --- | --- | --- | --- | --- |
-| Tipo de Cinemómetro | Velocidade, v/(km/h) | EMA | EMA | EMA |
-| Tipo de Cinemómetro | Velocidade, v/(km/h) | Primeira verificação | Primeira verificação | Verificação periódica |
-| Tipo de Cinemómetro | Velocidade, v/(km/h) | Laboratório | Estrada | Estrada |
+| Primeira verificação | Verificação periódica |  |  |  |
+| Laboratório | Estrada | Estrada |  |  |
+|  |  |  |  |  |
 | Radar fixo... | (igual ou menor que) 100 | (mais ou menos) 1 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| Radar fixo... | (maior que) 100 | (mais ou menos) 1 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 1 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
 | Radar em movimento... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 5 km/h | (mais ou menos) 7 km/h |
-| Radar em movimento... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 5 % | (mais ou menos) 7 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 5 % | (mais ou menos) 7 % |  |
 | De sensores estáticos... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| De sensores estáticos... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
 | Lidar fixo... | (igual ou menor que) 100 | (mais ou menos) 1 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| Lidar fixo... | (maior que) 100 | (mais ou menos) 1 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 1 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
 | Lidar em movimento... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 5 km/h | (mais ou menos) 7 km/h |
-| Lidar em movimento... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 5 % | (mais ou menos) 7 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 5 % | (mais ou menos) 7 % |  |
 | De perseguição... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| De perseguição... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
 | Em aeronave... | (igual ou menor que) 100 | (mais ou menos) 5 km/h | (mais ou menos) 7 km/h | (mais ou menos) 10 km/h |
-| Em aeronave... | (maior que) 100 | (mais ou menos) 5 % | (mais ou menos) 7 % | (mais ou menos) 10 % |
+| (maior que) 100 | (mais ou menos) 5 % | (mais ou menos) 7 % | (mais ou menos) 10 % |  |
 | Vídeo por secção... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| Vídeo por secção... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
 | Por tratamento de imagem... | (igual ou menor que) 100 | (mais ou menos) 2 km/h | (mais ou menos) 3 km/h | (mais ou menos) 5 km/h |
-| Por tratamento de imagem... | (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |
+| (maior que) 100 | (mais ou menos) 2 % | (mais ou menos) 3 % | (mais ou menos) 5 % |  |
+
+117047255

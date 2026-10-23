@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21900/0004300044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/2022/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-2022-203338168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08748c23dac6203baf54b2e9c4c14d48af2e75f02000e52ea5d953a94cc95bba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c53ee4920778f99747d073f84db93335d8f286197f686acdee34599579df58d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+- type: cites
+  target: pt:dre:184687797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:58Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +146,6 @@ O limite de emissão da moeda de coleção referida no artigo 1.º é fixado em 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Tesouro, João Nuno Marques de Carvalho Mendes, em 8 de novembro de 2022.**
+O Secretário de Estado do Tesouro, João Nuno Marques de Carvalho Mendes, em 8 de novembro de 2022.
+
+115863027

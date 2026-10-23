@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/28-1978-299037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42e265bae99f8bf39eb5d2406015cbb6810ad1ad63cefefc7defd6112dfaf1b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27323541eb92d4c6a551769a7374d99bdc738d670c7fde4f607fe81170eb26de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Faltas
+- Fiscalização
+- Junta de Freguesia
+- Madeira.região Autónoma
+- Pessoal Docente
+- REDE Escolar
+- Sistema de Ensino
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:19Z'
   warnings: []
   errors: []
 ---
@@ -102,24 +110,24 @@ Assim:
 
 A Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Independentemente da acção exercida pela direcção escolar, pelos serviços de orientação e inspecção, bem como pelos delegados escolares, as juntas de freguesia colaborarão no contrôle do absentismo do professorado e na detecção das carências das escolas nos aspectos de conservação, condições elementares de higiene e de ordem à volta das instalações escolares.
+Artigo 1.º - 1 - Independentemente da acção exercida pela direcção escolar, pelos serviços de orientação e inspecção, bem como pelos delegados escolares, as juntas de freguesia colaborarão no contrôle do absentismo do professorado e na detecção das carências das escolas nos aspectos de conservação, condições elementares de higiene e de ordem à volta das instalações escolares.
 
 2 - A colaboração referida no número anterior processar-se-á sem quaisquer interferências de carácter pedagógico.
 
-###### Art. 2.º - 1 - As juntas de freguesia informarão a entidade competente sobre os casos manifestos de ausências frequentes de professores dos seus postos de trabalho e sobre as deficiências encontradas nas instalações, dando conhecimento das ocorrências e da situação às respectivas câmaras municipais ou delegações escolares, conforme os casos.
+Art. 2.º - 1 - As juntas de freguesia informarão a entidade competente sobre os casos manifestos de ausências frequentes de professores dos seus postos de trabalho e sobre as deficiências encontradas nas instalações, dando conhecimento das ocorrências e da situação às respectivas câmaras municipais ou delegações escolares, conforme os casos.
 
 2 - A comunicação deverá ser assinada por três membros da junta de freguesia, sendo um deles o presidente, os quais deverão comprovar e fundamentar os factos expostos.
 
 3 - No caso de existir associação de pais na área a que está afecta a escola, deverão os seus elementos colaborar com as autarquias locais, dentro do mesmo espírito e prosseguindo os visados intentos, de modo a intervir na determinação das irregularidades e estado das instalações.
 
-###### Art. 3.º As dúvidas surgidas na aplicação do presente diploma serão objecto de resolução do Governo Regional e o seu cumprimento é cometido à Secretaria Regional de Educação e Cultura, que regulamentará o presente diploma.
+Art. 3.º As dúvidas surgidas na aplicação do presente diploma serão objecto de resolução do Governo Regional e o seu cumprimento é cometido à Secretaria Regional de Educação e Cultura, que regulamentará o presente diploma.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 29 de Junho de 1978.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 17 de Julho de 1978.**
+Assinado em 17 de Julho de 1978.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

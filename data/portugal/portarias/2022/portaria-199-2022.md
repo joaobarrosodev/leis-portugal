@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14600/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/199/2022/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-2022-186831379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7c951521b25ad483ec6f200d06565f6677babaf96dfcc85c5c6f96e868aabc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af4003853f586619bd7d701507ae4454e1c96d8bbe4be3a4a09db32755ce8b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Grupo Desfavorecido
+- Comunidade de Inserção
 - Contrato de Prestação de Serviços
-- Realojamento
-- Regulamentação de Atos Legislativos
 - Equipamento Social
+- Grupo Desfavorecido
 - Política de Habitação
 - Política Social
+- Realojamento
+- Regulamentação de Atos Legislativos
 - Regulamento Geral das Edificações Urbanas
 - Sem-abrigo
-- Comunidade de Inserção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2014/03/04/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/324/2021/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/324/2021/12/29/p/dre
+- type: cites
+  target: pt:dre:176714558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572157:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:32Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +147,17 @@ b) [...]
 
 c) CI na modalidade com alojamento, em unidades funcionais autónomas, capacidade máxima de 10 utentes, a qual poderá ser diferente desde que devidamente fundamentada, não podendo ultrapassar o limite máximo de 12 utentes.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As unidades funcionais autónomas são constituídas por um conjunto de unidades de alojamento, que podem revestir a natureza de apartamentos ou moradias/bungalow, de diferentes tipologias de T0 a T2, que se destinam a proporcionar alojamento individual ou partilhado, podendo possuir uma unidade comum de serviços partilhados.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -229,4 +245,6 @@ c) [...]»
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
 
-**A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 26 de julho de 2022.**
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 26 de julho de 2022.
+
+115559634

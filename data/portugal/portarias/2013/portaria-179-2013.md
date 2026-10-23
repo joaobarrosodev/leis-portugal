@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-2013-261152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79fb9cd87ca065cfd58af3c41dce56f524ef0d32c80dc5984284e325114a9bc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6844f691491ec88fd5c7a4ab8c2d9012a086b7a90b3d62b169a849df3ecbb42b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
 - Política de Solos
+- Reserva Ecológica Nacional
 - Vouzela
 relationships:
 - type: cites
@@ -90,16 +90,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679470:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:58Z'
   warnings: []
   errors: []
 ---
@@ -134,9 +162,9 @@ A referida planta e a memória descritiva do presente processo podem ser consult
 
 A presente portaria entra em vigor no dia seguinte ao da respetiva publicação em Diário da República.
 
-**O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.**
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 16 de abril de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf)
 
 QUADRO ANEXO
 
@@ -144,4 +172,4 @@ Delimitação da Reserva Ecológica Nacional do município de Vouzela
 
 PROPOSTA DE EXCLUSÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09100/0284402847.pdf)

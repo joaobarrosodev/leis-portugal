@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/2011/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2011-278740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6027601d2d48990149c7ed0bbcdce2737b1d64f9bd1d8fc78958c5937a636b54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 603dabd0d4909112bc3ca36b7684e95026dfc4e846140f651a73c2920c88da68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Carreira Médica
-- Formação Profissional
-- Ensino Médico
-- Saúde Pública
-- Férias
-- Internato Médico
-- Programa de Formação
-- Horário de Trabalho
 - Avaliação do Pessoal
+- Carreira Médica
+- Ensino Médico
+- Férias
+- Formação Profissional
+- Horário de Trabalho
+- Internato Médico
+- Médico
+- Programa de Formação
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:116460405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257857:por
+  label: "Alterados os art.s 4º, 5º e 15º da Port 1499/2004, de 28-dez, na redação do presente diploma, pela PORT.53/2013.05.02.2013.MS,\
+    \ DR.IS [25] de 05.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-2013-257857
+  date: '2013-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -105,16 +111,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:348921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116460405:por
+  label: Revogada, a partir de 24.09.2018, a presente portaria, pelo(a) Portaria n.º 268/2018 - Diário da República n.º 183/2018,
+    Série I de 2018-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-2018-116460405
+  date: '2018-09-21'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:44Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +193,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 4.º — Duração dos blocos formativos
+Artigo 4.º
+
+Duração dos blocos formativos
 
 ...
 
@@ -171,7 +209,9 @@ d) ...
 
 e) ...
 
-###### Artigo 5.º — Locais de formação
+Artigo 5.º
+
+Locais de formação
 
 1 - ...
 
@@ -197,7 +237,9 @@ b) Participar na execução de partos;
 
 c) Adquirir treino na interpretação de exames complementares de diagnóstico.
 
-###### Artigo 8.º — Formação opcional
+Artigo 8.º
+
+Formação opcional
 
 1 - A formação opcional tem como objectivos gerais de desempenho e conhecimento o contacto com área médica ou cirúrgica do interesse do médico interno e o aprofundamento de conceitos técnicos relacionados com a mesma.
 
@@ -207,7 +249,9 @@ c) Adquirir treino na interpretação de exames complementares de diagnóstico.
 
 4 - A formação opcional não pode constituir encargo acrescido para a instituição de colocação ou de destino do médico interno.
 
-###### Artigo 15.º — Responsável de estágio
+Artigo 15.º
+
+Responsável de estágio
 
 1 - ...
 
@@ -229,7 +273,9 @@ c) Adquirir treino na interpretação de exames complementares de diagnóstico.
 
 10 - ...
 
-###### Artigo 16.º — Regime de trabalho
+Artigo 16.º
+
+Regime de trabalho
 
 1 - ...
 
@@ -247,4 +293,4 @@ c) Adquirir treino na interpretação de exames complementares de diagnóstico.
 
 3 - A entrada em vigor da presente portaria não deve, sob algum pretexto, prolongar a formação total legalmente determinada para o ano comum.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Março de 2011.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Março de 2011.

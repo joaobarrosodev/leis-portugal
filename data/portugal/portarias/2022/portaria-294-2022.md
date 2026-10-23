@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/294/2022/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/294-2022-204552592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64811f9a73a7854962a1ad4bddcd0fc25aaab3356b8a7882552ef57071d3e95f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47f3e1c90537e9dc73bd9ef35270fd60273e9aff2a422ad36c5db25c4a08745a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
+- Agricultor
 - Ajuda Comunitária
-- Produção Animal
-- Gado Caprino
-- Feader
-- Reconversão da Produção
+- Atividade Agrícola
+- Exploração Agrícola
 - Exploração Pecuária
+- Feader
 - Fiscalização
 - Fundos CE
 - Gado Bovino
-- IFAP
+- Gado Caprino
+- Gado Ovino
 - Guerra
+- IFAP
 - Mercado Agrícola
 - Mercado de Cereais
-- Exploração Agrícola
 - Organização de Produtores
-- Gado Ovino
 - Página na Internet
+- PDR 2020
+- Pequenas e Médias Empresas
+- Política Agrícola
 - Prazo
 - Prémio
-- Agricultor
-- Programa Operacional
-- Política Agrícola
-- Pequenas e Médias Empresas
-- Regime Jurídico
+- Produção Animal
 - Produção Vegetal
+- Programa Operacional
+- Reconversão da Produção
+- Regime Jurídico
 - Regulamento CE
 - Subsídio não Reembolsável
 - Ucrânia
 - Vegetais
-- PDR 2020
 relationships:
 - type: cites
   target: celex:32013R1306
@@ -146,16 +146,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/58/2017/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
+- type: cites
+  target: pt:dre:106401323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186040423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73576680:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:04Z'
   warnings: []
   errors: []
 ---
@@ -452,19 +488,19 @@ As candidaturas aos apoios previstos na presente portaria estão sujeitas a aç�
 
 A presente portaria entra em vigor na data da sua assinatura.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de dezembro de 2022.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 7 de dezembro de 2022.
 
 ## ANEXO I — Escalões de efetivo com base nos animais elegíveis ao prémio por vaca aleitante e respetivo valor do apoio
 
 (a que se refere o n.º 2 do artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 ## ANEXO II — Escalões de efetivo com base nos animais elegíveis ao prémio ovinos e caprinos e respetivo valor do apoio
 
 (a que se refere o n.º 2 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 ## ANEXO III — Produtos
 
@@ -538,13 +574,13 @@ Morango.
 
 (a que se refere o n.º 2 do artigo 15.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 ## ANEXO V — Escalões de quantidades comercializadas de milho e de arroz e respetivo valor do apoio
 
 (a que se refere o n.º 2 do artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 ## ANEXO VI — Lista de agregação de culturas
 
@@ -826,28 +862,30 @@ Olival.
 
 Culturas arvenses
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Hortícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Pomares (e outras permanentes) de regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Pomares (e outras permanentes) de sequeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Vinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Olival de regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
 
 Olival de sequeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23700/0002000034.pdf)
+
+115951106

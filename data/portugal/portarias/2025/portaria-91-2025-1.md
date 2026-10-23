@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04800/0000900017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/91/2025/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2025-910130846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05dc3e74846a0cca3617070058cb3ea8a5061867f4ae07bc46f760e42a41cd04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c05b94884ed83ebd1621c7f345fc2ba685292345d956e22b23b91b389aed0382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
+- Embaixada
 - Emolumento Consular
 - Ministério dos Negócios Estrangeiros
 relationships:
+- type: amends
+  target: pt:numero:portaria:229/2021
+  label: Altera, a partir de 11 de março de 2025, os artigos 15.º e 22.º do anexo I e anexo II da Portaria n.º 229/2021, de
+    28 de outubro, Diário da República n.º 210/2021, Série I
+  source: null
+  date: '2021-10-28'
 - type: cites
   target: celex:32009R0810
   label: null
@@ -90,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/434/2023/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/434/2023/12/13/p/dre
+- type: cites
+  target: pt:dre:173509616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230006497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243736:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:20Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +134,7 @@ A alteração ao Código de Vistos, de 20 de junho de 2019, prevê que o valor a
 
 Atendendo a que o valor dos vistos de residência (90 euros) não é atualizado desde 2011 ([Portaria n.º 320-C/2011](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2011-243736), de 30 de dezembro), torna-se pertinente uma reavaliação desse valor.
 
-Verificou-se ainda ser necessário alterar dois números de ordem da lista de atos pagos que consta do anexo ii da portaria, a saber, os n.<sup>os</sup>9 e 28, e adicionar alguns atos a essa mesma lista.
+Verificou-se ainda ser necessário alterar dois números de ordem da lista de atos pagos que consta do anexo ii da portaria, a saber, os n.os9 e 28, e adicionar alguns atos a essa mesma lista.
 
 Assim:
 
@@ -144,7 +162,9 @@ Os artigos 15.º e 22.º do anexo à [Portaria n.º 229/2021](https://diariodare
 
 6 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -218,51 +238,51 @@ I - Atos pagos
 | 2 | Cartão de cidadão - pedido normal - entrega em território nacional - validade até 10 anos | 18,00 € |
 | 3 | Cartão de cidadão - pedido normal - entrega no estrangeiro - validade até 5 anos | 20,00 € |
 | 4 | Cartão de cidadão - pedido normal - entrega no estrangeiro - validade até 10 anos | 23,00 € |
-| 4 | Cartão de cidadão - alteração prioridade normal (entrega território nacional) para urgente | 15,00 € |
-| 4 | Cartão de cidadão - alteração prioridade normal (entrega no estrangeiro) para urgente | 25,00 € |
-| 4 | Cartão de cidadão - alteração prioridade normal (entrega em território nacional) para extremo urgente | 35,00 € |
-| 4 | Cartão de cidadão - alteração prioridade normal (entrega no estrangeiro) para extremo urgente | 30,00 € |
-| 4 | Cartão de cidadão - pedido normal online - entrega em território nacional - validade até 10 anos | 16,20 € |
-| 4 | Cartão de cidadão - pedido normal online - entrega no estrangeiro - validade até 10 anos | 20,70 € |
+| Cartão de cidadão - alteração prioridade normal (entrega território nacional) para urgente | 15,00 € |  |
+| Cartão de cidadão - alteração prioridade normal (entrega no estrangeiro) para urgente | 25,00 € |  |
+| Cartão de cidadão - alteração prioridade normal (entrega em território nacional) para extremo urgente | 35,00 € |  |
+| Cartão de cidadão - alteração prioridade normal (entrega no estrangeiro) para extremo urgente | 30,00 € |  |
+| Cartão de cidadão - pedido normal online - entrega em território nacional - validade até 10 anos | 16,20 € |  |
+| Cartão de cidadão - pedido normal online - entrega no estrangeiro - validade até 10 anos | 20,70 € |  |
 | 5 | Cartão de cidadão - pedido urgente - entrega em território nacional - validade até 5 anos | 30,00 € |
 | 6 | Cartão de cidadão - pedido urgente - entrega em território nacional - validade até 10 anos | 33,00 € |
 | 7 | Cartão de cidadão - pedido urgente - entrega no estrangeiro - validade até 5 anos | 45,00 € |
 | 8 | Cartão de cidadão - pedido urgente - entrega no estrangeiro - validade até 10 anos | 48,00 € |
-| 8 | Cartão de cidadão - alteração de prioridade urgente (entrega território nacional) para extremo urgente | 20,00 € |
-| 8 | Cartão de cidadão - alteração de pedido urgente (entrega no estrangeiro) para extremo urgente | 5,00 € |
-| 8 | Cartão de cidadão - pedido urgente online - entrega em território nacional - validade até 10 anos | 29,70 € |
-| 8 | Cartão de cidadão - pedido urgente online - entrega no estrangeiro - validade até 10 anos | 43,20 € |
+| Cartão de cidadão - alteração de prioridade urgente (entrega território nacional) para extremo urgente | 20,00 € |  |
+| Cartão de cidadão - alteração de pedido urgente (entrega no estrangeiro) para extremo urgente | 5,00 € |  |
+| Cartão de cidadão - pedido urgente online - entrega em território nacional - validade até 10 anos | 29,70 € |  |
+| Cartão de cidadão - pedido urgente online - entrega no estrangeiro - validade até 10 anos | 43,20 € |  |
 | 9 | Cartão de cidadão - pedido extremo urgente - entrega no IRN - validade até 5 anos | 50,00 € |
-| 9 | Cartão de cidadão - pedido extremo urgente - entrega no IRN - validade até 10 anos | 53,00 € |
-| 9 | Cartão de cidadão - pedido extremo urgente online - entrega no IRN - validade até 10 anos | 47,70 € |
+| Cartão de cidadão - pedido extremo urgente - entrega no IRN - validade até 10 anos | 53,00 € |  |
+| Cartão de cidadão - pedido extremo urgente online - entrega no IRN - validade até 10 anos | 47,70 € |  |
 | 10 | Cartão de cidadão - pedido normal para menor até 1 ano de idade | 0,00 € |
 | 11 | Cartão de cidadão provisório | 70,00 € |
-| 11 | Cartão de cidadão provisório online | 63,00 € |
+| Cartão de cidadão provisório online | 63,00 € |  |
 | 12 | Cartão de cidadão - alteração de morada | 3,00 € |
 | 13 | Cartão de cidadão - alteração do local de entrega do cartão de cidadão dentro do mesmo território (nacional ou estrangeiro) | 6,00 € |
 | 14 | Cartão de cidadão - alteração do local de entrega do cartão de cidadão de/para território estrangeiro | 8,00 € |
 | 15 | Cartão de cidadão - recuperação do PUK | 5,00 € |
 | 16 | Passaporte - pedido normal - entregue no posto | 75,00 € |
-| 16 | Passaporte - pedido normal - entregue em morada em território nacional | 85,00 € |
+| Passaporte - pedido normal - entregue em morada em território nacional | 85,00 € |  |
 | 17 | Passaporte - pedido normal para passageiro frequente, entregue no posto | 115,00 € |
-| 17 | Passaporte - pedido normal - passageiro frequente, entregue em morada em território nacional | 125,00 € |
-| 17 | Passaporte - pedido normal para passageiro frequente, entregue em morada no estrangeiro | 145,00 € |
+| Passaporte - pedido normal - passageiro frequente, entregue em morada em território nacional | 125,00 € |  |
+| Passaporte - pedido normal para passageiro frequente, entregue em morada no estrangeiro | 145,00 € |  |
 | 18 | Passaporte - pedido expresso entregue no posto ou em morada no estrangeiro | 110,00 € |
-| 18 | Passaporte - pedido expresso entregue em morada em território nacional | 95,00 € |
+| Passaporte - pedido expresso entregue em morada em território nacional | 95,00 € |  |
 | 19 | Passaporte - pedido expresso - passageiro frequente, entregue no posto ou em morada no estrangeiro | 150,00 € |
-| 19 | Passaporte - pedido expresso - passageiro frequente, entregue em morada em território nacional | 135,00 € |
+| Passaporte - pedido expresso - passageiro frequente, entregue em morada em território nacional | 135,00 € |  |
 | 20 | Passaporte - pedido urgente, entregue no posto ou em morada no estrangeiro | 120,00 € |
-| 20 | Passaporte - pedido urgente, entregue em morada em território nacional | 105,00 € |
-| 20 | Passaporte - pedido urgente - passageiro frequente, entregue em morada em território nacional | 145,00 € |
+| Passaporte - pedido urgente, entregue em morada em território nacional | 105,00 € |  |
+| Passaporte - pedido urgente - passageiro frequente, entregue em morada em território nacional | 145,00 € |  |
 | 21 | Passaporte - pedido urgente - passageiro frequente, entregue no posto ou em morada no estrangeiro | 160,00 € |
 | 22 | Passaporte - pedido urgente entregue no Aeroporto de Lisboa | 110,00 € |
 | 23 | Passaporte - pedido urgente - passageiro frequente - entregue no Aeroporto de Lisboa | 150,00 € |
 | 24 | Passaporte - pedido normal - entregue em morada no estrangeiro | 105,00 € |
 | 25 | Passaporte - concessão e emissão de novo passaporte para titular de passaporte válido, mantendo-se o que se visa substituir na posse do titular | 40,00 € |
 | 26 | Segundo passaporte - pedido normal, entregue no posto | 85,00 € |
-| 26 | Segundo passaporte - demais pedidos - a acrescer ao pedido normal, expresso ou urgente | 10,00 € |
+| Segundo passaporte - demais pedidos - a acrescer ao pedido normal, expresso ou urgente | 10,00 € |  |
 | 27 | Título individual de viagem única | 30,00 € |
-| 27 | Título de viagem provisório da União Europeia | 30,00 € |
+| Título de viagem provisório da União Europeia | 30,00 € |  |
 | 28 | Passaporte para estrangeiros | 111,00 € |
 | 29 | Passaporte temporário | 150,00 € |
 | 30 | Autos de declaração de parentalidade ou de perfilhação, autos de redução a escrito de declarações verbais prestadas no posto, ou qualquer ato processual ou instrutório no âmbito de processo privativo de registo civil ou para o qual o posto consular não tenha competência para lavrar o respetivo assento | 50,00 € |
@@ -310,17 +330,17 @@ I - Atos pagos
 | 72 (*) | Presenças consulares (acresce à taxa definida para o ato) | 20 % |
 | 73 (*) | Utilização de mecanismos de pagamento eletrónico | Variável por país |
 | 74 (*) | Serviços de atendimento digital assistido | Variável |
-| 74 (*) | Espaço Cidadão - 2.ª via da carta condução, idade igual ou superior a 70 anos | 15,00 € |
-| 74 (*) | Espaço Cidadão - certificado do registo criminal | 5,00 € |
-| 74 (*) | Espaço Cidadão - certificado do registo criminal - envio por correio para o estrangeiro | 8,25 € |
-| 74 (*) | Espaço Cidadão - certificado do registo criminal - estatuto de igualdade de direitos/prestação de serviço efetivo FA | 3,35 € |
-| 74 (*) | Espaço Cidadão - 2.ª via da carta condução, idade inferior a 70 anos | 30,00 € |
-| 74 (*) | Espaço Cidadão - alteração de morada da carta condução | 15,00 € |
-| 74 (*) | Espaço Cidadão - certificado de contumácia | 4,00 € |
-| 74 (*) | Espaço Cidadão - revalidação da carta condução, idade igual ou superior a 70 anos - com/sem alteração morada e/ou grupo ii | 15,00 € |
-| 74 (*) | Espaço Cidadão - revalidação da carta condução, idade inferior a 70 anos - com/sem alteração de morada e/ou grupo ii + com/sem alteração dados | 30,00 € |
-| 74 (*) | Espaço Cidadão - revalidação do grupo ii (revalidar restrição 997) | 30,00 € |
-| 74 (*) | Espaço Cidadão - substituição da carta condução - alteração de morada/elementos/restrições | 30,00 € |
+| Espaço Cidadão - 2.ª via da carta condução, idade igual ou superior a 70 anos | 15,00 € |  |
+| Espaço Cidadão - certificado do registo criminal | 5,00 € |  |
+| Espaço Cidadão - certificado do registo criminal - envio por correio para o estrangeiro | 8,25 € |  |
+| Espaço Cidadão - certificado do registo criminal - estatuto de igualdade de direitos/prestação de serviço efetivo FA | 3,35 € |  |
+| Espaço Cidadão - 2.ª via da carta condução, idade inferior a 70 anos | 30,00 € |  |
+| Espaço Cidadão - alteração de morada da carta condução | 15,00 € |  |
+| Espaço Cidadão - certificado de contumácia | 4,00 € |  |
+| Espaço Cidadão - revalidação da carta condução, idade igual ou superior a 70 anos - com/sem alteração morada e/ou grupo ii | 15,00 € |  |
+| Espaço Cidadão - revalidação da carta condução, idade inferior a 70 anos - com/sem alteração de morada e/ou grupo ii + com/sem alteração dados | 30,00 € |  |
+| Espaço Cidadão - revalidação do grupo ii (revalidar restrição 997) | 30,00 € |  |
+| Espaço Cidadão - substituição da carta condução - alteração de morada/elementos/restrições | 30,00 € |  |
 
 (*) Valores finais variáveis.
 
@@ -357,7 +377,7 @@ II - Atos isentos, gratuitos ou com redução
 | 96 | Registo civil - assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a português | Gratuito |
 | 97 | Registo civil - reconstituição de ato ou de processo | Gratuito |
 | 98 | Registo civil - registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14 de junho, bem como os documentos e processos a ele respeitantes | Gratuito |
-| 99 | Registo civil - certidões a que se refere o artigo 215.º, n.<sup>os</sup>5 e 6, do CRC, bem como certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no referido código e legislação avulsa aplicável que não devam entrar em regra de custas | Gratuito |
+| 99 | Registo civil - certidões a que se refere o artigo 215.º, n.os5 e 6, do CRC, bem como certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no referido código e legislação avulsa aplicável que não devam entrar em regra de custas | Gratuito |
 | 100 | Registo civil - certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais | Gratuito |
 | 101 | Registo civil - conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de março | Gratuito |
 | 102 | Registo civil - atos, declarações, certificados, ou outros a favor de quem prove a sua insuficiência económica por documento original emitido pela competente autoridade local | Gratuito |
@@ -382,8 +402,8 @@ II - Atos isentos, gratuitos ou com redução
 | 121 | Vistos - isenção dos custos administrativos a titulares de passaportes diplomáticos, de serviço, oficiais e especiais ou documentos de viagem emitidos por organizações internacionais | Isento (**) |
 | 122 | Vistos - isenção dos custos administrativos a participantes, até aos 25 anos de idade, em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos | Isento (**) |
 | 123 | Vistos - isenção de emolumentos de vistos de curta duração no quadro de acordos celebrados pela Comissão Europeia | Isento |
-| 123 | Vistos - redução de emolumentos de vistos de curta duração no quadro de acordos celebrados pela Comissão Europeia | 35,00 € |
-| 123 | Vistos - redução de emolumentos de vistos de curta duração no quadro de acordos celebrados pela Comissão Europeia - pedido urgente | 70,00 € |
+| Vistos - redução de emolumentos de vistos de curta duração no quadro de acordos celebrados pela Comissão Europeia | 35,00 € |  |
+| Vistos - redução de emolumentos de vistos de curta duração no quadro de acordos celebrados pela Comissão Europeia - pedido urgente | 70,00 € |  |
 
 (**) Quando aplicável.
 
@@ -392,3 +412,5 @@ Notas
 Atos gratuitos ou isentos são aqueles em que não cabe ao utente pagar qualquer valor pelo ato.
 
 Atos com redução FRI são os previstos no n.º 16 do artigo 21.º da tabela dos emolumentos consulares.»
+
+118758624

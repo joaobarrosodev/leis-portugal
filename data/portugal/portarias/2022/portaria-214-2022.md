@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/214/2022/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b865b9c0ed4d4388a1705659b020b841581c196c1fa910f0be5ebc056adb1d25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a6ea888ae5c6ef5add5319c732b4e875047f24888ca4e932b3c7b8505037f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pescador
-- Energia Elétrica
-- Compensação Financeira
-- Formulário Eletrónico
-- Pesca
-- Fundos CE
-- IFAP
-- Guerra
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Aquicultura
-- Pesca Profissional
+- Compensação Financeira
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação de Pesca
 - Energia
+- Energia Elétrica
+- Formulário Eletrónico
+- Fundos CE
+- Guerra
+- IFAP
+- Pesca
+- Pesca Profissional
+- Pescador
 - Preço
 - Produto de Aquicultura
 - Produtos de Pesca
+- Programa Operacional Mar 2020
 - Regime de Apoio
 - Regulamento
-- Embarcação de Pesca
 - Rússia
 - Subsídio não Reembolsável
 - Ucrânia
-- Programa Operacional Mar 2020
 relationships:
 - type: cites
   target: celex:32013R1303
@@ -114,16 +114,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/160-a/2022/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/160-a/2022/06/17/p/dre
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184876721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:37Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +184,9 @@ a) Período compreendido entre 24 de fevereiro e 30 de junho de 2022;
 
 b) Período compreendido entre 1 de julho e 31 de agosto de 2022.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 São elegíveis as empresas que:
 
@@ -192,7 +210,9 @@ g) ...
 
 h) Não se encontrem nas situações previstas na regulamentação europeia aplicável determinantes da inadmissibilidade dos apoios, designadamente as previstas no artigo 10.º do [Regulamento (UE) 508/2014](http://data.europa.eu/eli/reg/2014/508/oj?locale=pt), de 15 de maio de 2014, que cria o FEAMP.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os apoios previstos no presente regime revestem a forma de subvenção não reembolsável, na modalidade de montantes fixos, tal como consta no anexo ii ao presente Regulamento, ou de um montante apurado com base numa taxa fixa de 30 % dos custos médios mensais de energia de 2019, nos termos previstos no artigo 96.º do [Regulamento (UE) 508/2014](http://data.europa.eu/eli/reg/2014/508/oj?locale=pt), de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP.
 
@@ -212,7 +232,9 @@ c) ...
 
 6 - No caso de as operações que reúnem condições de aprovação envolverem pedidos de apoio que, no cômputo geral, ultrapassam as disponibilidades financeiras existentes, procede-se ao respetivo rateio, com recurso à modelação do montante do apoio.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +244,9 @@ c) ...
 
 4 - A candidatura que vise a compensação pelos custos adicionais de energia no período a que se refere a alínea b) do artigo 4.º pode igualmente incluir o período a que se refere a alínea a) do mesmo artigo, caso o beneficiário não se tenha já candidatado ao abrigo deste regime de apoio para esse período.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +260,9 @@ c) ...
 
 3 - A dotação orçamental prevista no n.º 1 pode ser objeto de reforço, por decisão do gestor, em função da procura de apoios, caso exista disponibilidade financeira no Programa.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -244,11 +270,15 @@ a) ...
 
 b) Manter as condições que determinaram a admissibilidade do pedido de apoio, designadamente as previstas no artigo 10.º do [Regulamento (UE) 508/2014](http://data.europa.eu/eli/reg/2014/508/oj?locale=pt), de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, por prazo não inferior a cinco anos após o pagamento do apoio.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do [Regulamento (UE) n.º 1303/2013](http://data.europa.eu/eli/reg/2013/1303/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, designadamente quando ocorra alguma das seguintes situações:
 
@@ -258,18 +288,24 @@ b) ...
 
 2 - Se se verificar alguma das situações referidas no artigo 10.º do [Regulamento (UE) 508/2014](http://data.europa.eu/eli/reg/2014/508/oj?locale=pt), de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, durante o período que decorre entre a aprovação do pedido de apoio e cinco anos após o pagamento, a integralidade do apoio pago é recuperado pelo IFAP, I. P., junto do beneficiário.
 
-## ANEXO II — (a que se refere o n.º 1 do artigo 6.º)
+ANEXO II
+
+(a que se refere o n.º 1 do artigo 6.º)
 
 Compensação por embarcação no período de 24 de fevereiro a 30 de junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf)
 
 Compensação por embarcação no período de 1 de julho a 31 de agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16400/0014000144.pdf)
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 19 de agosto de 2022.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 19 de agosto de 2022.
+
+115634501

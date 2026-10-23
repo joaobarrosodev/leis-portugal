@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2023/01/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2023-205855985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6348e765f72c60e64359a8bf4fd0af8432cc9f11c7971dbedb6dd8b3286c0141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 068da41950d303a7175dc5b7771ec746f3e6bc26f716c8acd2611d7a0c8a94f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,45 +68,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
+- Agência Portuguesa do Ambiente
 - Água
 - Águas Públicas
 - Aproximação das Legislações
-- Governo Regional
-- Direcção Regional das Pescas
+- Aquicultura
+- Autoridade Marítima Nacional
+- Balcão do Empreendedor
+- Balcão Eletrónico do Mar
+- Capitania
+- Conselho Diretivo
 - Contra-ordenação
-- Recursos Hídricos
 - Curso de Recursos Marinhos
 - Definição de Competências
-- Autoridade Marítima Nacional
+- Direção Regional do Ambiente e Alterações Climáticas
+- Direção Regional do Mar
+- Direcção Regional das Pescas
 - Direcção Regional de Agricultura
 - Direcção Regional do Ordenamento do Território
 - Diretor Regional
+- Diversidade Biológica
 - Domínio Privado do Estado
-- Domínio Público Marítimo
 - Domínio Público do Estado
+- Domínio Público Marítimo
 - Fiscalização
 - Fundo de Protecção dos Recursos Hídricos
-- Conselho Diretivo
-- Recursos do Mar
-- Aquicultura
-- Diversidade Biológica
-- Zona de Proteção
+- Governo Regional
+- Instituto das Florestas e Conservação da Natureza
+- Madeira.região Autónoma
 - Política do Ambiente
-- Capitania
 - Porto do Funchal
 - Presidente
-- Madeira.região Autónoma
+- Programa de Monitorização Ambiental para pisciculturas marinhas
+- Recursos do Mar
+- Recursos Hídricos
 - Recursos Naturais
+- Região Autónoma da Madeira
 - Regime Jurídico
 - Taxa
-- Balcão do Empreendedor
-- Instituto das Florestas e Conservação da Natureza
-- Balcão Eletrónico do Mar
-- Direção Regional do Ambiente e Alterações Climáticas
-- Direção Regional do Mar
-- Agência Portuguesa do Ambiente
-- Programa de Monitorização Ambiental para pisciculturas marinhas
-- Região Autónoma da Madeira
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31976L0160
@@ -172,16 +172,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
+- type: cites
+  target: pt:dre:105371715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127659203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128277508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130829773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164258742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:48Z'
   warnings: []
   errors: []
 ---
@@ -262,7 +330,9 @@ f) A Direção Regional de Pescas, na área da inspeção da atividade da pesca 
 
 g) Outras entidades que devam pronunciar-se sobre servidões administrativas ou outras condicionantes existentes na área sujeita a permissão administrativa.
 
-### CAPÍTULO II — Título de Atividade Aquícola
+### CAPÍTULO II
+
+## Título de Atividade Aquícola
 
 ###### Artigo 6.º — Taxa Aquícola
 
@@ -350,11 +420,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 4 de janeiro de 2023.**
+Assinado em 4 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -566,7 +636,7 @@ Transectos b.4 e b.5:
 
 Orientação: transecto b.4, no limite da * área concessionada será perpendicular à orientação das estruturas de cultura, iniciando-se a Norte (lado de costa) do lado nascente das estruturas de instalação; transecto b.5 fora da * área concessionada iniciando-se a Norte, seguindo a orientação do transecto b.4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
 
 A figura apresentada é meramente indicativa. Deve ser acordado entre a entidade gestora de licenciamento e o proponente/produtor, a localização exata das zonas de amostragem.
 
@@ -698,7 +768,7 @@ a.4) Zona de menor influência das estruturas flutuantes - esta zona deverá loc
 
 a.5) Zona sem influência direta das estruturas flutuantes - esta zona deverá localizar-se fora da área concessionada, a uma distância mínima das estruturas flutuantes de 500 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
 
 A figura apresentada é meramente indicativa. Deverá ser acordado entre a entidade gestora de licenciamento e o proponente/produtor, a localização exata das zonas de amostragem.
 
@@ -708,7 +778,7 @@ Em cada umas das zonas deverão ser recolhidas 3 amostras individuais (réplicas
 
 Parâmetros a monitorizar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
 
 2.2 - Realização da inspeção físico-química e biológica em ambiente bentónico
 
@@ -726,7 +796,7 @@ Número de amostras em cada zona de amostragem:
 
 Parâmetros a monitorizar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00600/0001600030.pdf)
 
 Observações
 
@@ -801,3 +871,5 @@ Yucel-Gier, G., Kucuksezgin, F., and Kocak, F. (2007). «Effects of fish farming
 * Biomassa deve ser calculada como o volume (t) de produção numa base anual. Para unidades de produção ativas entende-se biomassa total por biomassa em produção (armazenada) no final do ano + biomassa capturada no ano - biomassa em produção no início do ano.
 
 * Área concessionada - área definida no Título de Utilização de Recursos Hídricos.
+
+116034406

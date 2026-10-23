@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/2014/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-2014-572586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cb5b731ee7715771963909e8e56df59ddbbb7b9e3196e5587927fc67c513114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e06d0d59899ad774cc830a89d3418a3ac17ff036a72908bcb542511691e1aa12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
-- Medicina Privada
-- Radioprotecção
+- Condições de Higiene e Segurança no Trabalho
 - Conservação de Documentos
 - Director Clínico
 - Especificação Técnica
+- Gestão de Recursos Humanos
 - Gestão Processual
+- Informação de Saúde
+- Informação do Consumidor
 - Instalação de Serviços
 - Licenciamento
+- Localização de Empresas
 - Medicina Nuclear
+- Medicina Privada
 - Normas de Construção
 - Normas de Segurança
-- Informação do Consumidor
+- Radioprotecção
 - Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
-- Informação de Saúde
 - Regulamento Interno
 - Segurança das Instalações
 - Seguro Obrigatório de Responsabilidade Civil
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:854635723:por
@@ -115,16 +115,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:854635723:por
+  label: Revogada, a partir de 12 de março de 2024, pelo(a) Portaria n.º 93/2024/1 - Diário da República n.º 50/2024, Série
+    I de 2024-03-11, nos termos do seu artigo 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/93-2024-854635723
+  date: '2024-03-11'
 article_structure:
   article_count: 20
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:39Z'
   warnings: []
   errors: []
 ---
@@ -463,7 +493,9 @@ São aprovadas especificações técnicas no que diz respeito aos compartimentos
 
 Sempre que a unidade de saúde dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.
 
-###### Artigo 19.º — Livro de reclamações
+###### Artigo 19.º
+
+## Livro de reclamações
 
 As unidades de medicina nuclear estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -471,7 +503,7 @@ As unidades de medicina nuclear estão sujeitas à obrigatoriedade de existênci
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 29 de janeiro de 2014.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 29 de janeiro de 2014.
 
 ## ANEXO I — (previsto no artigo 16.º)
 
@@ -479,7 +511,7 @@ Unidades de medicina nuclear
 
 Compartimentos a considerar, sem prejuízo do disposto no [Decreto-Lei n.º 180/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2002-185096), de 8 de agosto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 ## ANEXO II — (previsto no artigo 16.º)
 
@@ -491,11 +523,11 @@ A. Condições internas e caraterização das unidades de tratamento de ar
 
 Zona de entrada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 Setor de apoios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 B. Condições de extração de ar noutras salas de apoio aos diversos serviços
 
@@ -519,7 +551,7 @@ Gases medicinais e aspiração
 
 Requisitos mínimos a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 Requisitos especiais:
 
@@ -573,7 +605,7 @@ Instalações e equipamentos elétricos
 
 As instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis, os requisitos específicos constantes do [Decreto-Lei n.º 180/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2002-185096), de 8 de agosto e os seguintes requisitos mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 1. Os compartimentos assinalados no quadro anterior deverão dispor de um sistema de sinalização acústico - luminoso que assegure a chamada de pessoal em serviço pelos utentes. Este sistema deve satisfazer às seguintes condições:
 
@@ -595,7 +627,7 @@ Equipamento sanitário
 
 Os requisitos mínimos a considerar incluem os requisitos específicos constantes do [Decreto-Lei n.º 180/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2002-185096), de 8 de agosto e ainda os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
 
 ## ANEXO VII — (previsto no artigo 16.º)
 
@@ -603,4 +635,4 @@ Equipamento médico e equipamento geral
 
 Equipamentos médico e geral a considerar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03000/0133601345.pdf)

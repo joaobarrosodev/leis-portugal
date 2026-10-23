@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/2010/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2010-611293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69e0faab78f20c0c3ed4f08589fd41590fdba711ed1d37a9a1b920ee81456bcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03b1b55777d5abbb84bde26214193a7b0c11a072e162903e7e0714ac1f825b72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:49Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +116,6 @@ São anexados à zona de caça associativa das Herdades de São Martinho, Abadin
 
 A anexação referida no artigo 1.º desta portaria só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 2 de Janeiro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 2 de Janeiro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/04100/0056300564.pdf))](https://files.diariodarepublica.pt/1s/2010/03/04100/0056300564.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04100/0056300564.pdf)

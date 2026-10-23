@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/942/2010/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/942-2010-342090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc7e5f528e4bb6503c969d225c66db887750abcba4cf48e79f376b73480da66c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e9941eececa3bd1839b7bd25f673000162d28e6bf1b2146fe4a5964f896bc0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Campo Maior
 - CAÇA
+- Campo Maior
 - ZONA de CAÇA
 relationships:
 - type: cites
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/143/2004/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/143/2004/02/12/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578876:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:19Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +132,4 @@ Cumpridos os preceitos legais e com fundamento no disposto no artigo 21.º em co
 
 Esta portaria produz efeitos a partir do dia 13 de Fevereiro de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 14 de Setembro de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 8 de Setembro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 14 de Setembro de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 8 de Setembro de 2010.

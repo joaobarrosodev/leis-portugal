@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/16900/0580405805.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/978/2009/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/978-2009-488510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 635a574197df01b9210ee9cb48fca0c6ac4245d946255e8451224982c194ea41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3502127ecb4f9315de8b176ccec16c330dfa8bfd7a2ce22774414928c817019
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,22 @@ relationships:
   target: celex:32004L0022
   label: null
   source: http://data.europa.eu/eli/dir/2004/22/oj
+- type: repealed_by
+  target: pt:dre:224268557:por
+  label: Revogada, a partir de 16.11.2023, pelo(a) Portaria n.º 363/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15
+    nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-2023-224268557
+  date: '2023-11-15'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:23Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +119,7 @@ Manda o Governo, pelo Secretário de Estado Adjunto da Indústria e da Inovaçã
 
 2.º É revogada a Portaria n.º 710/89, de 22 de Agosto, e a Portaria n.º 565/92, de 24 de Junho.
 
-**O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra, em 24 de Agosto de 2009.**
+O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra, em 24 de Agosto de 2009.
 
 ## ANEXO — REGULAMENTO DO CONTROLO METROLÓGICO DOS CONTADORES DE TEMPO
 
@@ -211,4 +217,4 @@ Os contadores de tempo, cujos modelos tenham sido objecto de autorização de us
 
 O disposto nos artigos anteriores não impede a comercialização, nem a utilização posterior, dos contadores de tempo, acompanhados de certificados referentes aos diferentes controlos metrológicos emitidos, seja por entidades oficiais de qualquer Estado membro da União Europeia, da Turquia ou de um Estado subscritor do Acordo sobre o Espaço Económico Europeu, seja por organismos europeus reconhecidos segundo critérios equivalentes às normas europeias aplicáveis, com base em especificações e procedimentos que assegurem uma qualidade metrológica equivalente à visada pelo presente Regulamento.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/16900/0580405805.pdf))](https://files.diariodarepublica.pt/1s/2009/09/16900/0580405805.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/16900/0580405805.pdf)

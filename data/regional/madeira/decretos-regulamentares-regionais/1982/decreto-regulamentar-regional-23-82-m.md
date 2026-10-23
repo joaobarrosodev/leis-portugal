@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24200/34503454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1982-376178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d6e1170a555ae7de4a5eabfd8f911ef58c778194694616e159724bbe458053c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57cedfae17e09ff9a8ad25e22bb43b42a0f9a112cbb1da236c4d641f49461e1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional da Administração Pública
+- Inspecção Administrativa Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Administração
 relationships:
 - type: amended_by
   target: pt:dre:547809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454304:por
+  label: "Alterados os artigos 5.º, 9.º, 16.º e o mapa anexo, pelo DRR.13/83/M.27.07.1983.GR-RAM, DR.IS [171] de 27.07.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1983-454304
+  date: '1983-07-27'
+- type: repealed_by
+  target: pt:dre:547809:por
+  label: "Revogado pelo DRR.19/89/M.20.09.1989.GR-RAM, DR.IS [217] de 20.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1989-547809
+  date: '1989-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:13Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +116,9 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da 
 
 ### CAPÍTULO I — Organização e competência
 
-###### Artigo 1.º É criada, na dependência do director regional da Administração Pública, a Inspecção Administrativa, incumbindo-lhe preparar e executar as acções necessárias ao exercício da tutela inspectiva sobre as autarquias locais da competência do Presidente do Governo Regional.
+Artigo 1.º É criada, na dependência do director regional da Administração Pública, a Inspecção Administrativa, incumbindo-lhe preparar e executar as acções necessárias ao exercício da tutela inspectiva sobre as autarquias locais da competência do Presidente do Governo Regional.
 
-###### Art. 2.º - 1 - No desempenho das suas funções, compete à Inspecção Administrativa contribuir para o prestígio, dignidade, autonomia e aperfeiçoamento dos serviços de administração autárquica e, designadamente:
+Art. 2.º - 1 - No desempenho das suas funções, compete à Inspecção Administrativa contribuir para o prestígio, dignidade, autonomia e aperfeiçoamento dos serviços de administração autárquica e, designadamente:
 
 a) Averiguar do cumprimento das obrigações impostas por lei às autarquias locais;
 
@@ -124,15 +140,15 @@ i) Estudar e propor, em colaboração com os serviços competentes da Secretaria
 
 2 - As faltas disciplinares detectadas no decurso das visitas de inspecção ou de inquéritos e sindicâncias por funcionários da Inspecção Administrativa devem ser de imediato objecto do processo respectivo, sem prejuízo do cumprimento dos planos e prazos estabelecidos.
 
-###### Art. 3.º Compete ao Presidente do Governo Regional despachar os processos instaurados pela Inspecção Administrativa e ordenar as inspecções extraordinárias, as sindicâncias, os inquéritos e os processos disciplinares que hajam de ser instruídos pela mesma.
+Art. 3.º Compete ao Presidente do Governo Regional despachar os processos instaurados pela Inspecção Administrativa e ordenar as inspecções extraordinárias, as sindicâncias, os inquéritos e os processos disciplinares que hajam de ser instruídos pela mesma.
 
 ### CAPÍTULO II — Dos funcionários e serviços em geral
 
 #### SECÇÃO I — Da chefia da Inspecção
 
-###### Art. 4.º A Inspecção Administrativa é chefiada pelo director regional da Administração Pública.
+Art. 4.º A Inspecção Administrativa é chefiada pelo director regional da Administração Pública.
 
-###### Art. 5.º - 1 - Na sua função de superintendência nos serviços da Inspecção, compete especialmente ao director regional:
+Art. 5.º - 1 - Na sua função de superintendência nos serviços da Inspecção, compete especialmente ao director regional:
 
 a) Organizar e dirigir os serviços de inspecção, orientando e fiscalizando a acção dos seus subordinados;
 
@@ -158,11 +174,11 @@ i) Fixar e prorrogar os prazos para conclusão dos serviços e apresentação do
 
 #### SECÇÃO II — Competência e direitos do pessoal de inspecção
 
-###### Art. 6.º - 1 - Aos inspectores compete, em geral, a execução de todas as tarefas inerentes ao exercício das actividades cometidas à Inspecção Administrativa pelo presente diploma, designadamente a organização e instrução dos processos de inspecção, sindicância, inquérito, disciplinares ou relativos a serviços de averiguação ou esclarecimento e ainda a realização, na sede da Inspecção, de trabalhos que lhes forem especialmente confiados.
+Art. 6.º - 1 - Aos inspectores compete, em geral, a execução de todas as tarefas inerentes ao exercício das actividades cometidas à Inspecção Administrativa pelo presente diploma, designadamente a organização e instrução dos processos de inspecção, sindicância, inquérito, disciplinares ou relativos a serviços de averiguação ou esclarecimento e ainda a realização, na sede da Inspecção, de trabalhos que lhes forem especialmente confiados.
 
 2 - Os trabalhos externos que visem especialmente conhecer da actividade dos órgãos dos municípios serão de preferência confiados à chefia e responsabilidade de inspector de categoria não inferior à de inspector principal.
 
-###### Art. 7.º Os inspectores gozam, para além dos enunciados noutros diplomas legais, dos direitos e prerrogativas seguintes:
+Art. 7.º Os inspectores gozam, para além dos enunciados noutros diplomas legais, dos direitos e prerrogativas seguintes:
 
 a) Utilizam nos locais de trabalho, por cedência das respectivas entidades inspeccionadas, instalações servidas das indispensáveis condições para o eficaz desempenho das suas funções;
 
@@ -170,7 +186,7 @@ b) Correspondem-se, quando em serviço fora da sede da Inspecção, com todas as
 
 c) Acesso e livre trânsito em todos os serviços e instalações das entidades inspeccionadas, sempre que necessário ao desempenho das suas funções.
 
-###### Art. 8.º - 1 - O pessoal de inspecção, sempre que por motivo de serviço se desloque da sua residência oficial, tem direito a ajudas de custo e à utilização de transportes, podendo ainda fazer uso de automóvel de sua propriedade, nas condições estabelecidas na lei geral aplicável.
+Art. 8.º - 1 - O pessoal de inspecção, sempre que por motivo de serviço se desloque da sua residência oficial, tem direito a ajudas de custo e à utilização de transportes, podendo ainda fazer uso de automóvel de sua propriedade, nas condições estabelecidas na lei geral aplicável.
 
 2 - Nos casos em que não consiga obter alojamento condigno na localidade onde deva prestar serviço, poderá o pessoal de inspecção escolhê-lo em localidade vizinha, dando do facto conhecimento e justificação ao director regional.
 
@@ -178,15 +194,15 @@ c) Acesso e livre trânsito em todos os serviços e instalações das entidades 
 
 4 - Tendo em conta a natureza específica das suas funções, quando numa mesma localidade se encontrem deslocados inspectores de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao inspector de maior categoria.
 
-###### Art. 9.º Enquanto não for publicado o regime geral da função inspectiva, o pessoal da Inspecção tem direito às gratificações que são atribuídas às categorias correspondentes da Inspecção-Geral da Administração Interna.
+Art. 9.º Enquanto não for publicado o regime geral da função inspectiva, o pessoal da Inspecção tem direito às gratificações que são atribuídas às categorias correspondentes da Inspecção-Geral da Administração Interna.
 
 #### SECÇÃO III — Funcionamento do serviço
 
-###### Art. 10.º - 1 - Os planos a que se refere a alínea b) do n.º 1 do artigo 2.º devem ser elaborados de forma que cada município seja, em princípio, objecto de uma visita de inspecção pelo menos uma vez durante o período normal de mandato dos seus órgãos.
+Art. 10.º - 1 - Os planos a que se refere a alínea b) do n.º 1 do artigo 2.º devem ser elaborados de forma que cada município seja, em princípio, objecto de uma visita de inspecção pelo menos uma vez durante o período normal de mandato dos seus órgãos.
 
 2 - As visitas de inspecção deverão guiar-se por um questionário sistemático que abranja os aspectos essenciais à averiguação da actuação dos órgãos e serviços autárquicos.
 
-###### Art. 11.º - 1 - A comparência para prestação de declarações ou depoimentos em processos de inquérito, sindicância ou disciplinares, de funcionários ou agentes da administração central, regional e local, bem como de trabalhadores do sector público ou nacionalizado, deverá ser requisitada à entidade a cujo serviço se encontrem, a qual poderá recusar a respectiva satisfação uma só vez, por motivo de serviço inadiável.
+Art. 11.º - 1 - A comparência para prestação de declarações ou depoimentos em processos de inquérito, sindicância ou disciplinares, de funcionários ou agentes da administração central, regional e local, bem como de trabalhadores do sector público ou nacionalizado, deverá ser requisitada à entidade a cujo serviço se encontrem, a qual poderá recusar a respectiva satisfação uma só vez, por motivo de serviço inadiável.
 
 2 - A notificação para comparência de quaisquer outras pessoas, para os efeitos referidos no número anterior e observadas as disposições aplicáveis do Código de Processo Penal, poderá ser requisitada às autoridades policiais.
 
@@ -194,11 +210,11 @@ c) Acesso e livre trânsito em todos os serviços e instalações das entidades 
 
 4 - Toda a pessoa notificada ou avisada que não compareça no dia, hora e local designados, nem justifique a falta, será punida nos termos da lei, sem prejuízo do procedimento disciplinar a que haja lugar, tratando-se de funcionários e agentes.
 
-###### Art. 12.º Nas visitas de inspecção não devem, em regra, ser ouvidas testemunhas ou tomadas declarações.
+Art. 12.º Nas visitas de inspecção não devem, em regra, ser ouvidas testemunhas ou tomadas declarações.
 
-###### Art. 13.º Os funcionários de inspecção, quando assim o exigirem os trabalhos que estejam a executar, podem determinar a interrupção, pelo menor período de tempo possível, do gozo da licença para férias de qualquer funcionário dos serviços visitados cuja imediata presença se torne imprescindível, com conhecimento ao respectivo superior hierárquico.
+Art. 13.º Os funcionários de inspecção, quando assim o exigirem os trabalhos que estejam a executar, podem determinar a interrupção, pelo menor período de tempo possível, do gozo da licença para férias de qualquer funcionário dos serviços visitados cuja imediata presença se torne imprescindível, com conhecimento ao respectivo superior hierárquico.
 
-###### Art. 14.º - 1 - Os serviços externos deverão ser iniciados e concluídos dentro do prazo que para cada caso for superiormente fixado.
+Art. 14.º - 1 - Os serviços externos deverão ser iniciados e concluídos dentro do prazo que para cada caso for superiormente fixado.
 
 2 - Só com autorização do Presidente do Governo Regional pode a duração de qualquer serviço exceder o prazo de 90 dias.
 
@@ -208,13 +224,13 @@ c) Acesso e livre trânsito em todos os serviços e instalações das entidades 
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 15.º - 1 - O quadro do pessoal da Inspecção Administrativa é o constante do mapa anexo a este diploma e pode ser alterado por portaria conjunta do Presidente do Governo Regional e do Secretário Regional do Planeamento e Finanças.
+Art. 15.º - 1 - O quadro do pessoal da Inspecção Administrativa é o constante do mapa anexo a este diploma e pode ser alterado por portaria conjunta do Presidente do Governo Regional e do Secretário Regional do Planeamento e Finanças.
 
 2 - A secretaria da Direcção Regional da Administração Pública assegura à Inspecção o pessoal indispensável à realização das tarefas administrativas e de expediente.
 
 3 - Quando a natureza do serviço o exigir, será obtido o concurso de técnicos ou profissionais especializados de departamentos das administrações central, regional ou local e de institutos públicos, em regime de requisição, ou do sector privado na forma que for acordada.
 
-###### Art. 16.º - 1 - O lugar de inspector superior administrativo será provido mediante avaliação curricular, que incluirá a discussão de trabalho apresentado para o efeito, de entre inspectores administrativos-coordenadores da administração central ou regional, licenciados, com a classificação de serviço de Muito bom e com um mínimo de 3 anos de bom e efectivo serviço na categoria e de 9 anos na carreira.
+Art. 16.º - 1 - O lugar de inspector superior administrativo será provido mediante avaliação curricular, que incluirá a discussão de trabalho apresentado para o efeito, de entre inspectores administrativos-coordenadores da administração central ou regional, licenciados, com a classificação de serviço de Muito bom e com um mínimo de 3 anos de bom e efectivo serviço na categoria e de 9 anos na carreira.
 
 2 - Os lugares de inspector administrativo-coordenador serão providos por concurso documental e avaliação curricular de entre:
 
@@ -294,20 +310,20 @@ p) Chefe de secção.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 17.º O Secretário Regional do Planeamento e Finanças mandará introduzir no orçamento da Região as alterações necessárias à execução do presente diploma.
+Art. 17.º O Secretário Regional do Planeamento e Finanças mandará introduzir no orçamento da Região as alterações necessárias à execução do presente diploma.
 
-###### Art. 18.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Presidente do Governo Regional.
+Art. 18.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Presidente do Governo Regional.
 
 Aprovado em plenário do Governo Regional em 16 de Julho de 1982.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Agosto de 1982.**
+Assinado em 20 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o n.º 1 do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24200/34503454.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24200/34503454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24200/34503454.pdf)

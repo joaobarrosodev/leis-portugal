@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 187/2012, 1º Suplemento, Série I de 2012-09-26
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5442-(2) a 5442-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292-a/2012/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-a-2012-234349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1708d1be2e5a40e5949450a489573182027001f1b10d391aa1b1532db8b2fcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa56ed30bc45e7d27a076d7e4d439a5f5b691e5ced09198fb546d653bc677b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,44 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Aprendizagem
-- Língua Portuguesa
-- Plano de Estudos
-- Diploma
+- Avaliação de Conhecimentos
 - Curso Profissional
+- Diploma
+- Ensino Básico
 - Ensino Tecnológico
 - Escolaridade Obrigatória
+- Estabelecimento de Ensino
 - Gestão Escolar
 - Grupo de Trabalho
-- TIC
 - Língua Estrangeira
-- Estabelecimento de Ensino
+- Língua Portuguesa
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Básico
-- Avaliação de Conhecimentos
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70497208:por
+  label: Revogada pelo(a) Portaria n.º 341/2015 - Diário da República n.º 198/2015, Série I de 2015-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-2015-70497208
+  date: '2015-10-09'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:23Z'
   warnings: []
   errors: []
 ---
@@ -247,14 +256,14 @@ A experiência-piloto é coordenada por um grupo trabalho, a ser designado por d
 
 A presente portaria produz efeitos a partir do ano letivo de 2012-2013.
 
-**O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de setembro de 2012.**
+O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de setembro de 2012.
 
 ## ANEXO I — Matriz
 
 2.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf)
 
 3.º ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18701/0000200004.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00600/0001200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2023/01/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2023-205855983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5202be2678374216ed90b7fd0288f43c841169e760550bf9b3c4afc86ff6531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b023064c5e82d7ba77e18556e00ddcffc1587f1acde0475fc34594bb486dd8b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Actividades de Complemento Curricular
 - Diploma
+- Ensino Secundário
 - Estatuto do Aluno e Ética Escolar
 - Estudante
-- Ensino Secundário
 - Madeira.região Autónoma
 relationships:
 - type: cites
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139052181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74377024:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:45Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +209,7 @@ O presente diploma procede à primeira alteração do [Decreto Legislativo Regio
 
 «Artigo 22.º-A
 
-## Anexo aos diplomas e certificados
+Anexo aos diplomas e certificados
 
 1 - A requerimento dos interessados, pode ser emitida, em anexo aos diplomas e certificados emitidos em conformidade com o disposto no artigo 31.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelo [Decreto-Lei n.º 70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, ou com o disposto no artigo 30.º do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, alterado pela [Lei n.º 116/2019](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), de 13 de setembro, uma nota de toda a atividade do aluno, registada e comprovada, em representação dos pares em órgãos da escola e em atividades e projetos, designadamente, culturais, artísticos, desportivos, científicos e de cidadania e desenvolvimento, entre outros de relevante interesse social desenvolvidos no âmbito da escola.
 
@@ -183,10 +223,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de novembro de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 4 de janeiro de 2023.**
+Assinado em 4 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116034317

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0013200132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2013/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2013-588808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6204edcae4e49c8af36dde0a2cc997f327b84a78e37f3df4b8393d2081c7349d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abfef67720a2f125b623194cdb7f89cc795c48e860a411f92cff504140df926d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Balcão Nacional do Arrendamento
-- Quadro de Pessoal
 - Direcção Geral da Administração da Justiça
+- Quadro de Pessoal
 - Secretaria Judicial
 relationships:
 - type: cites
@@ -86,16 +86,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+- type: cites
+  target: pt:dre:175305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:173909860:por
+  label: Revogada, a presente portaria, pelo(a) Portaria n.º 236/2021 - Diário da República n.º 215/2021, Série I de 2021-11-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2021-173909860
+  date: '2021-11-05'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:20Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +151,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 8 de janeiro de 2013.
 
-**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz.**
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz.
 
 ## ANEXO — Secretaria do Balcão Nacional do Arrendamento
 

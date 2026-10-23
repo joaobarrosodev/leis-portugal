@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/2023, 1º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 342-(33) a 342-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25001/0003300038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455-d/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-d-2023-835896488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86427e75e32fc39621b24e44ca9b01a5c2ac96ad0e5c5f7ec382b92c5a12f037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dd7bbc7690099b387e8d236179c1675bb019c910b1ce78fa9781b2453a90cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Autoridade Tributária e Aduaneira
 - CE Países
 - Cobrança de Impostos
-- Política Fiscal
 - Documento Eletrónico
 - Página na Internet
 - Plataforma Eletrónica
+- Política Fiscal
 relationships:
 - type: cites
   target: celex:32011L0016
@@ -90,6 +90,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/36/2023/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/36/2023/07/26/p/dre
+- type: cites
+  target: pt:dre:216188321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261156:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0016
   label: null
@@ -101,13 +109,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:25Z'
   warnings: []
   errors: []
 ---
@@ -154,12 +162,18 @@ Um operador de plataforma reportante que reúna qualquer das condições previst
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de dezembro de 2023.**
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 27 de dezembro de 2023.
 
-![](https://files.diariodarepublica.pt/images/835896488/835863719.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835896488/835863719.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835896488/835863720.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835896488/835863720.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835896488/835863721.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835896488/835863721.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835896488/835863722.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835896488/835863722.png) |
+| --- |
+
+117203317

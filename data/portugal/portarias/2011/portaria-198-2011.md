@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/198/2011/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-2011-287801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beb606283390bc124b9a2990f0beecd0e04a23173109ada2b4fe5c581ca91bc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a9e3360d0c5b98516944ceed13390cfa2f7b6c4e8a7c9e51af39312098d3257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Assistência Medicamentosa
 - Associação Nacional de Farmácias
-- Ordem dos Médicos Dentistas
-- Infarmed
 - Comparticipação do Estado
 - Definição de Competências
+- Documento Eletrónico
+- Droga
 - Formulário Eletrónico
 - Impresso
-- Medicamento
+- Infarmed
 - Informatização
-- Documento Eletrónico
+- Medicamento
 - Medicamento Manipulado
-- Administração Central do Sistema de Saúde
-- Droga
 - Ordem dos Médicos
+- Ordem dos Médicos Dentistas
 - Produto Farmacêutico
 - Receita Médica
 - Regime Jurídico
@@ -89,6 +89,18 @@ relationships:
   target: pt:dre:668307:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543047:por
+  label: "Alterado o nº 6 do art. 9º e aditados os art.s 7º-A e 7º-B, pela PORT.46/2012.13.02.2012.MS, DR.IS [31] de 13.02.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-2012-543047
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:542271:por
+  label: "Mantido em vigor o modelo de receita médica aprovado pela presente portaria, na redacção da Port 46/2012, de 13-fev,\
+    \ pela LEI.11/2012.08.03.2012.AR, DR.IS [49] de 08.03.2012, nos termos do seu art. 6º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2012-542271
+  date: '2012-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
   label: null
@@ -125,16 +137,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/981/1998/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/981/1998/11/24/p/dre
+- type: cites
+  target: pt:dre:216315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668307:por
+  label: "Revogada, a partir de 01.06.2012, a presente portaria, na redação da Port 46/2012, de 13-fev.PORT.137-A/2012.11.05.2012.MS,\
+    \ DR.IS [92-Supl] de 11.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-a-2012-668307
+  date: '2012-05-11'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:11Z'
   warnings: []
   errors: []
 ---
@@ -325,14 +379,14 @@ d) N.º 1 da Portaria n.º 1193/99, de 29 de Setembro.
 
 A presente portaria entra em vigor em 1 de Julho de 2011, com excepção do artigo 10.º que entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Saúde, Manuel Francisco Pizarro Sampaio e Castro, em 5 de Maio de 2011.**
+O Secretário de Estado Adjunto e da Saúde, Manuel Francisco Pizarro Sampaio e Castro, em 5 de Maio de 2011.
 
 ## ANEXO I — Receita electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf)
 
 ## ANEXO II — Receita manual de medicamentos
 
 Em tamanho A5 com impressão na frente e verso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09600/0279202796.pdf)

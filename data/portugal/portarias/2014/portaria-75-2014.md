@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/2014/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2014-571948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 906317a8a7c26e1b3a6168a61a78e2a35a5c2f4846b5e4b043357165be4cd664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81773c16bbf5978fcf632fb668fc622b84e06fcf87992288b134321542f0db55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autoridade Nacional de Resíduos
-- Gestão de Resíduos
-- Campanha de Sensibilização
-- Material de Ensino
-- Comissão de Acompanhamento da Gestão de Resíduos
-- Transporte de Resíduos
-- Material Audiovisual
-- Material Eléctrico e Electrónico
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Política do Ambiente
-- Eliminação de Resíduos
 - Agência Portuguesa do Ambiente
+- Autoridade Nacional de Resíduos
+- Campanha de Sensibilização
+- Comissão de Acompanhamento da Gestão de Resíduos
+- Eliminação de Resíduos
+- Gestão de Resíduos
+- Material Audiovisual
+- Material de Ensino
+- Material Eléctrico e Electrónico
+- Política do Ambiente
+- Proteção do Ambiente
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/178/2006/09/05/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2011/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2011/06/17/p/dre
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670034:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:52Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +166,4 @@ As pessoas singulares ou coletivas que participem na Campanha estão dispensadas
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 14 de março de 2014.**
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 14 de março de 2014.

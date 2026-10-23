@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16000/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/2023/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-2023-220076075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c9fa2bddfc26adac94e8bf394266506b93fdbfcc54993a30cd1fedb9eda6f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73d92e7511284372bda1893bc8a5d9b7e340d44d10257f0fb9fb43167444f858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Certidão
+- Certidão de Óbito
 - Código do Registo Civil
-- Regulamentação de Atos Legislativos
-- Emolumento
 - Documento Eletrónico
+- Emolumento
+- Modernização Administrativa
 - Página na Internet
+- Plataforma Eletrónica
 - Prazo
 - Prazo de Validade
 - Registo Civil
-- Certidão de Óbito
-- Plataforma Eletrónica
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/181/2017/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/181/2017/05/31/p/dre
+- type: cites
+  target: pt:dre:107106262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:15Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +153,6 @@ A alteração efetuada ao artigo 1.º da [Portaria n.º 181/2017](https://diario
 
 A presente portaria entra em vigor em 1 de setembro de 2023.
 
-**O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 16 de agosto de 2023.**
+O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares, em 16 de agosto de 2023.
+
+116781073

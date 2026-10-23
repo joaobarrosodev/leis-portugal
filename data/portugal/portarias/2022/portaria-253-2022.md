@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20300/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2022/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2022-202455880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 209733d6d602dd7ebfd2290da7ecf8b6fcd6dba61a063c884da8ecd83f5f291a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c071a308afaa8752b48687a9e8719c4e49dd9bc3a05efdbd6afdda6cd5929944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,12 +72,12 @@ subjects:
 - Coeficiente de Actualização
 - Coeficiente de Correcção
 - Desvalorização da Moeda
-- Regulamentação de Atos Legislativos
 - Imposto de Mais-Valias
-- IRS
-- Moeda
 - IRC
+- IRS
 - Mais-Valias
+- Moeda
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2014/01/16/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022085:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:51Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +135,10 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 Os coeficientes de desvalorização da moeda a aplicar aos bens e direitos alienados durante o ano de 2022, cujo valor deva ser atualizado nos termos dos artigos 47.º do Código do IRC e 50.º do Código do IRS, para efeitos de determinação da matéria coletável dos referidos impostos, são os constantes do quadro anexo.
 
-**O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 11 de outubro de 2022.**
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 11 de outubro de 2022.
 
 ## ANEXO — Quadro de atualização dos coeficientes de desvalorização da moeda a que se referem os artigos 47.º do Código do IRC e 50.º do Código do IRS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/10/20300/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2022/10/20300/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/10/20300/0000200003.pdf)
+
+115778383

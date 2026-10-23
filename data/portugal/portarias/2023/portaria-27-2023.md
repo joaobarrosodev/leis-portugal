@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00800/0001200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2023/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-2023-205994957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87e47c832d7ebc094914b6be1f731343eda654632649f950b9e56ca7240f39d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab51012071d66a4a7d4e3a26b55e4a195f22f47f7eea7f936b15fa9eabf086a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Acesso à Informação
 - Carreira Médica
-- Regulamentação de Atos Legislativos
-- Exame Médico-forense
 - Conselho Diretivo
+- Contratação de Pessoal
+- Exame Médico-forense
 - Instituto Nacional de Medicina Legal e Ciências Forenses
 - Medicina Legal
-- Contratação de Pessoal
 - Quadro de Pessoal
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Serviços Médico-legais
 - Sistema Integrado de Gestão de Perícias
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/685/2005/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/685/2005/08/18/p/dre
+- type: cites
+  target: pt:dre:165228577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480519:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:18Z'
   warnings: []
   errors: []
 ---
@@ -189,4 +201,6 @@ Os atuais contratos de prestação de serviços celebrados com os médicos do IN
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 9 de janeiro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de janeiro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 9 de janeiro de 2023.**
+A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 9 de janeiro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 5 de janeiro de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 9 de janeiro de 2023.
+
+116050152

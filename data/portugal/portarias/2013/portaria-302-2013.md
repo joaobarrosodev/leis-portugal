@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20000/0610406110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/302/2013/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-2013-502994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0a9544e546db31b5c0297f108d5c212ebef1d833110f3f1fe4ad3700fef00e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8a1a14bc197f15a5bfa374364f46bb1d7104d8db643386389de01a9897a6873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agência para a Modernização Administrativa
 - Atividade Industrial
 - Cadastro Industrial
 - Desenvolvimento Industrial
 - Estabelecimento Industrial
 - Formulário Eletrónico
-- Agência para a Modernização Administrativa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2013/08/30/p/dre
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/169/2012/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/169/2012/08/01/p/dre
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1899219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70280718:por
+  label: Revogada a partir de 06.10.2015 pelo(a) Portaria n.º 279/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/279-2015-70280718
+  date: '2015-09-14'
 article_structure:
   article_count: 13
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:41Z'
   warnings: []
   errors: []
 ---
@@ -492,7 +509,7 @@ Formulário devidamente preenchido de registo nacional para as emissões de comp
 
 F - Recursos hídricos
 
-## Título ou requerimento do pedido de utilização dos recursos hídricos, nos termos do regime jurídico de utilização dos recursos hídricos, quando exigível nos termos da legislação respetiva, exceto no caso de instalação em ZER que dele já disponha.
+Título ou requerimento do pedido de utilização dos recursos hídricos, nos termos do regime jurídico de utilização dos recursos hídricos, quando exigível nos termos da legislação respetiva, exceto no caso de instalação em ZER que dele já disponha.
 
 G - Operações de gestão de resíduos
 
@@ -630,4 +647,4 @@ b) Descrição detalhada da alteração a efetuar, acompanhada dos elementos ins
 
 3 - Caso a alteração proposta implique a reclassificação do estabelecimento como tipo 1 ou 2, a descrição detalhada da alteração a efetuar deverá ser acompanhada dos elementos instrutórios do pedido de autorização prévia, ou do procedimento de comunicação prévia com prazo, consoante aplicável.
 
-**O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 3 de outubro de 2013. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 3 de outubro de 2013. - O Secretário de Estado da Inovação, Investimento e Competitividade, Pedro Pereira Gonçalves, em 2 de outubro de 2013. - O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 3 de outubro de 2013.**
+O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 3 de outubro de 2013. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 3 de outubro de 2013. - O Secretário de Estado da Inovação, Investimento e Competitividade, Pedro Pereira Gonçalves, em 2 de outubro de 2013. - O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 3 de outubro de 2013.

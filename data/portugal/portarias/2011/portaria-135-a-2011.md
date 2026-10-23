@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 66/2011, 1º Suplemento, Série I de 2011-04-04
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1994-(2) a 1994-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/06601/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135-a/2011/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64d637e33883025ff4fc225176a87a514c470bb173b2aa4ae245abec676721d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b19b4c21139d110ecd45aa8d96469051562ef7d1b9868f006f26b77dc5f24a77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,37 @@ reuse:
 subjects:
 - Acreditação
 - Certificado de Conformidade
+- Confidencialidade
 - Contrato
 - Controlo Técnico
 - Definição de Competências
 - Dispositivo de Detecção e Identificação Electrónica
 - Dispositivo Electrónico de Matrícula
+- Equipamento de Veículo
 - Equipamento Eletrónico
 - Especificação Técnica
-- Pagamento
-- Segurança da Informação
 - Isenção de Portagem
-- Veículo
 - Locação Financeira
-- Equipamento de Veículo
+- Pagamento
 - Portagem
-- Sistema de Informação
 - Preço
-- Confidencialidade
+- Segurança da Informação
+- SIEV
+- Sistema de Informação
 - Taxa
 - TAXA de Prestação de Serviços
-- SIEV
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115552673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192439:por
+  label: "Alterados os arts. 18º, 18º-A e 21º da Port.314-B/2010, de 14-jun, na redação do presente diploma, pela PORT.343/2012.26.10.2012.MEE,\
+    \ DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-2012-192439
+  date: '2012-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2009/05/18/p/dre
   label: null
@@ -130,16 +136,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314-b/2010/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314-b/2010/06/14/p/dre
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:52Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +264,9 @@ c) O preço do título pré-pago, no caso de adesão à modalidade prevista na a
 
 19 - Os custos administrativos devidos no caso da opção pela modalidade prevista na alínea c) do n.º 13 já se encontram incluídos no valor previsto naquela disposição legal.
 
-###### Artigo 18.º-A — Veículos em regime de aluguer sem condutor
+Artigo 18.º-A
+
+Veículos em regime de aluguer sem condutor
 
 1 - O valor das taxas de portagem devidas pelos clientes de empresas de aluguer de veículos sem condutor, equipados com um DECP, é cobrado por aquelas empresas aos seus clientes.
 
@@ -236,7 +280,9 @@ c) O preço do título pré-pago, no caso de adesão à modalidade prevista na a
 
 6 - Os termos e as condições relativos à operacionalização do previsto nos números anteriores constam de protocolo a celebrar entre as concessionárias, as ECP e a associação representativa das empresas de aluguer de veículos sem condutor.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 

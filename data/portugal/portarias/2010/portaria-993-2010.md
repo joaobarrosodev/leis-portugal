@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/19000/0432904330.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/993/2010/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-2010-342639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ec71cfa7a82396a2af256420dd4defaec15e3108edafd101359a3cb98b79a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67e606bd422a6ada5748d42ec71ab7c6ea0f60ae089f6b0cfc8dfcfbdd153e5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Português de Licenças de Emissão
+- Agência Portuguesa do Ambiente
 - Efeito de Estufa
 - Ministro do Ambiente e do Ordenamento do Território
+- Registo Português de Licenças de Emissão
 - Taxa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32003L0087
@@ -84,16 +84,21 @@ relationships:
   target: celex:32008R0994
   label: null
   source: http://data.europa.eu/eli/reg/2008/994/oj
+- type: repealed_by
+  target: pt:dre:67590380:por
+  label: Revogada, a partir de 26.06.2015, pelo(a) Portaria n.º 188/2015 - Diário da República n.º 122/2015, Série I de 2015-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2015-67590380
+  date: '2015-06-25'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:36Z'
   warnings: []
   errors: []
 ---
@@ -156,4 +161,4 @@ A primeira actualização do valor da taxa a que se refere o n.º 7 do artigo 19
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 23 de Setembro de 2010.**
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 23 de Setembro de 2010.

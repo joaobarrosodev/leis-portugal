@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22400/0002700081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/380/2023/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bcbe7bb7574a6a94776764409868591d036a857204317b9d21619e001a16eac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99ccb7657b62cf5de4b501688a684dbc1bba4937d53fccb28b625841ac588342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
+- Documentos do Veículo
+- Equipamento de Veículo
 - Especificação Técnica
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
+- Regulamentação de Atos Legislativos
 - Veículo
-- Documentos do Veículo
-- Equipamento de Veículo
 relationships:
 - type: cites
   target: celex:31970L0220
@@ -126,6 +126,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210519672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212591472:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0045
   label: null
@@ -133,13 +149,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:57Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +186,7 @@ Assim, ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 32/2022](https
 
 A presente portaria entra em vigor 30 dias após a publicação.
 
-**O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 9 de outubro de 2023.**
+O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 9 de outubro de 2023.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual)
 
@@ -240,34 +256,34 @@ Os certificados da inspeção emitidos ao abrigo da inspeção periódica obriga
 
 A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-se as normas e métodos constantes dos quadros seguintes, sendo as razões de reprovação indicadas, exemplos de deficiências possíveis de ser detetadas.
 
-|  |  |  |  |  |  |
+| Item | Método | Razões de reprovação | Avaliação das deficiências |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Item | Método | Razões de reprovação | Avaliação das deficiências | Avaliação das deficiências | Avaliação das deficiências |
-| Item | Método | Razões de reprovação | Tipo 1 | Tipo 2 | Tipo 3 |
-| 0. Identificação do veículo | 0. Identificação do veículo | 0. Identificação do veículo | 0. Identificação do veículo | 0. Identificação do veículo | 0. Identificação do veículo |
+| Tipo 1 | Tipo 2 | Tipo 3 |  |  |  |
+|  |  |  |  |  |  |
+| 0. Identificação do veículo |  |  |  |  |  |
 | 0.1. Placas de matrícula [se os requisitos o exigirem (a)]. | Inspeção visual. | (a) Chapa(s) de matrícula inexistente(s) ou mal fixada(s) em risco de cair. |  | X |  |
 |  |  | (b) Inscrição inexistente ou ilegível. |  | X |  |
 |  |  | (c) Não conforme com os documentos ou registos do veículo. |  | X |  |
 | 0.2. Número do quadro/de série de identificação do veículo. | Inspeção visual. | (a) Inexistente ou não localizável. |  | X |  |
-| 0.2. Número do quadro/de série de identificação do veículo. |  | (b) Incompleta, ilegível, obviamente falsificada ou que não corresponde aos documentos do veículo. |  | X |  |
+|  | (b) Incompleta, ilegível, obviamente falsificada ou que não corresponde aos documentos do veículo. |  | X |  |  |
 |  |  | (c) Documentos do veículo ilegíveis ou com imprecisões materiais. | X |  |  |
-| 1. Equipamento de travagem | 1. Equipamento de travagem | 1. Equipamento de travagem | 1. Equipamento de travagem | 1. Equipamento de travagem | 1. Equipamento de travagem |
-| 1.1. Estado mecânico e funcionamento | 1.1. Estado mecânico e funcionamento | 1.1. Estado mecânico e funcionamento | 1.1. Estado mecânico e funcionamento | 1.1. Estado mecânico e funcionamento | 1.1. Estado mecânico e funcionamento |
-| 1.1.1. Sistema de articulação do pedal/do manípulo dos travões de serviço. | Inspeção visual dos componentes enquanto se aciona o sistema de travagem. Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (a) Articulação demasiado apertada. |  | X |  |
-| 1.1.1. Sistema de articulação do pedal/do manípulo dos travões de serviço. | Inspeção visual dos componentes enquanto se aciona o sistema de travagem. Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (b) Desgaste ou folga excessivos. |  | X |  |
-| 1.1.2. Estado do pedal/do manípulo e curso do dispositivo de acionamento do travão. | Inspeção visual dos componentes enquanto se acionam. Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (a) Curso excessivo ou curso de reserva insuficiente. |  | X |  |
-| 1.1.2. Estado do pedal/do manípulo e curso do dispositivo de acionamento do travão. | Inspeção visual dos componentes enquanto se acionam. Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (b) O comando do travão não se liberta corretamente. | X |  |  |
-| 1.1.2. Estado do pedal/do manípulo e curso do dispositivo de acionamento do travão. | Inspeção visual dos componentes enquanto se acionam. Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | Se o funcionamento estiver afetado. |  | X |  |
+| 1. Equipamento de travagem |  |  |  |  |  |
+| 1.1. Estado mecânico e funcionamento |  |  |  |  |  |
+| 1.1.1. Sistema de articulação do pedal/do manípulo dos travões de serviço. | Inspeção visual dos componentes enquanto se aciona o sistema de travagem.<br>Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (a) Articulação demasiado apertada. |  | X |  |
+| (b) Desgaste ou folga excessivos. |  | X |  |  |  |
+| 1.1.2. Estado do pedal/do manípulo e curso do dispositivo de acionamento do travão. | Inspeção visual dos componentes enquanto se acionam.<br>Nota. - Os veículos com sistema de travagem assistida devem ser inspecionados com o motor desligado. | (a) Curso excessivo ou curso de reserva insuficiente. |  | X |  |
+| (b) O comando do travão não se liberta corretamente. | X |  |  |  |  |
+| Se o funcionamento estiver afetado. |  | X |  |  |  |
 |  |  | (c) Elemento antiderrapante do pedal do travão inexistente, mal fixado ou gasto. |  | X |  |
-| 1.1.3. Bomba de vácuo ou compressor e reservatórios. | Inspeção visual dos componentes à pressão de funcionamento normal. Verificar o tempo necessário para o vácuo ou a pressão de ar atingir valores de funcionamento seguros e o funcionamento do dispositivo avisador, da válvula de proteção multicircuitos e da válvula de escape da pressão. | (a) Pressão de ar/vácuo insuficiente para assegurar, pelo menos, quatro aplicações do travão após o dispositivo avisador ter funcionado (ou o manómetro indicar um valor inseguro). |  | X |  |
-|  | Inspeção visual dos componentes à pressão de funcionamento normal. Verificar o tempo necessário para o vácuo ou a pressão de ar atingir valores de funcionamento seguros e o funcionamento do dispositivo avisador, da válvula de proteção multicircuitos e da válvula de escape da pressão. | Pelo menos duas aplicações do travão após o dispositivo avisador ter funcionado (ou o manómetro indicar um valor inseguro). |  |  | X |
+| 1.1.3. Bomba de vácuo ou compressor e reservatórios. | Inspeção visual dos componentes à pressão de funcionamento normal.<br>Verificar o tempo necessário para o vácuo ou a pressão de ar atingir valores de funcionamento seguros e o funcionamento do dispositivo avisador, da válvula de proteção multicircuitos e da válvula de escape da pressão. | (a) Pressão de ar/vácuo insuficiente para assegurar, pelo menos, quatro aplicações do travão após o dispositivo avisador ter funcionado (ou o manómetro indicar um valor inseguro). |  | X |  |
+|  | Pelo menos duas aplicações do travão após o dispositivo avisador ter funcionado (ou o manómetro indicar um valor inseguro). |  |  | X |  |
 |  |  | (b) Tempo necessário para criar pressão de ar/vácuo e atingir valores de funcionamento seguros demasiado longo de acordo com os requisitos (a). |  | X |  |
 |  |  | (c) Válvula de proteção multicircuitos ou válvula de escape da pressão inoperativa. |  | X |  |
 |  |  | (d) Fuga de ar causadora de queda de pressão significativa ou fugas de ar audíveis. |  | X |  |
 |  |  | (e) Dano externo passível de afetar o funcionamento do sistema de travagem. | X |  |  |
 |  |  | Travagem de emergência ineficaz. |  |  | X |
 | 1.1.4. Manómetro ou indicador de pressão baixa. | Verificação do funcionamento. | Manómetro ou indicador a funcionar mal ou defeituoso. | X |  |  |
-| 1.1.4. Manómetro ou indicador de pressão baixa. |  | Pressão baixa indetetável. |  | X |  |
+|  | Pressão baixa indetetável. |  | X |  |  |
 | 1.1.5. Válvula manual de comando do travão. | Inspeção visual dos componentes o acionar o sistema de travagem. | (a) Comando fissurado, danificado ou com desgaste excessivo. |  | X |  |
 |  |  | (b) Comando mal fixado na válvula ou válvula mal fixada. |  | X |  |
 |  |  | (c) Ligações mal fixadas ou fugas no sistema. |  | X |  |
@@ -279,13 +295,13 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) Acionador inexistente, danificado ou inoperacional. |  | X |  |
 |  |  | (e) Mau funcionamento, avisador indica avaria. |  | X |  |
 | 1.1.7. Válvulas de travagem (válvulas de pé, válvulas de descarga, reguladores). | Inspeção visual dos componentes ao acionar o sistema de travagem. | (a) Válvula danificada ou fuga de ar excessiva. |  | X |  |
-| 1.1.7. Válvulas de travagem (válvulas de pé, válvulas de descarga, reguladores). | Inspeção visual dos componentes ao acionar o sistema de travagem. | Se o funcionamento estiver afetado. |  |  | X |
-| 1.1.7. Válvulas de travagem (válvulas de pé, válvulas de descarga, reguladores). | Inspeção visual dos componentes ao acionar o sistema de travagem. | (b) Perda excessiva de óleo do compressor. | X |  |  |
+| Se o funcionamento estiver afetado. |  |  | X |  |  |
+| (b) Perda excessiva de óleo do compressor. | X |  |  |  |  |
 |  |  | (c) Válvula mal fixada ou mal montada. |  | X |  |
 |  |  | (d) Perda ou fuga de óleo. |  | X |  |
 |  |  | Se o funcionamento estiver afetado. |  |  | X |
 | 1.1.8. Conexões dos travões do reboque (elétricas e pneumáticas). | Desligar e voltar a ligar a conexão do sistema de travagem entre o veículo trator e o reboque. | (a) Cabeçote de ligação ou válvula autovedante defeituosos. | X |  |  |
-| 1.1.8. Conexões dos travões do reboque (elétricas e pneumáticas). | Desligar e voltar a ligar a conexão do sistema de travagem entre o veículo trator e o reboque. | Se o funcionamento estiver afetado. |  | X |  |
+| Se o funcionamento estiver afetado. |  | X |  |  |  |
 |  |  | (b) Cabeçote de ligação ou válvula mal fixada ou mal montada. | X |  |  |
 |  |  | Se o funcionamento estiver afetado. |  | X |  |
 |  |  | (c) Fugas excessivas. |  | X |  |
@@ -298,8 +314,8 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Dispositivo de purga inoperacional. |  | X |  |
 |  |  | (c) Depósito mal fixado ou incorretamente montado. |  | X |  |
 | 1.1.10. Unidades de assistência dos travões, cilindro principal (sistemas hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Unidade de assistência defeituosa ou ineficaz. |  | X |  |
-| 1.1.10. Unidades de assistência dos travões, cilindro principal (sistemas hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | Se não funcionar. |  |  | X |
-| 1.1.10. Unidades de assistência dos travões, cilindro principal (sistemas hidráulicos). |  | (b) Cilindro principal defeituoso, mas travões ainda a funcionar. |  | X |  |
+| Se não funcionar. |  |  | X |  |  |
+|  | (b) Cilindro principal defeituoso, mas travões ainda a funcionar. |  | X |  |  |
 |  |  | Cilindro principal defeituoso ou com fugas. |  |  | X |
 |  |  | (c) Cilindro principal mal fixado, mas travões ainda a funcionar. |  | X |  |
 |  |  | Cilindro principal mal fixado. |  |  | X |
@@ -310,14 +326,14 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (f) Luz avisadora do óleo dos travões acesa ou defeituosa. | X |  |  |
 |  |  | (g) Mau funcionamento do dispositivo avisador do nível do óleo dos travões. | X |  |  |
 | 1.1.11. Tubagens rígidas dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Risco iminente de falha ou fratura. |  |  | X |
-| 1.1.11. Tubagens rígidas dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (b) Fugas nas tubagens ou nas ligações (sistemas de travagem pneumáticos). |  | X |  |
+| (b) Fugas nas tubagens ou nas ligações (sistemas de travagem pneumáticos). |  | X |  |  |  |
 |  |  | Fugas nas tubagens ou nas ligações (sistemas de travagem hidráulicos). |  |  | X |
 |  |  | (c) Tubagens danificadas ou excessivamente corroídas. |  | X |  |
 |  |  | Funcionamento dos travões afetado por bloqueio ou fuga iminente. |  |  | X |
 |  |  | (d) Tubagens mal colocadas. | X |  |  |
 |  |  | Risco de danos. |  | X |  |
 | 1.1.12. Tubagens flexíveis dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Risco iminente de falha ou fratura. |  |  | X |
-| 1.1.12. Tubagens flexíveis dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (b) Tubagens danificadas, esfoladas, torcidas ou demasiado curtas. | X |  |  |
+| (b) Tubagens danificadas, esfoladas, torcidas ou demasiado curtas. | X |  |  |  |  |
 |  |  | Tubagens danificadas ou esfoladas. |  | X |  |
 |  |  | (c) Fugas nas tubagens ou nas ligações (sistemas de travagem pneumáticos). |  | X |  |
 |  |  | Fugas nas tubagens ou nas ligações (sistemas de travagem hidráulicos). |  |  | X |
@@ -330,23 +346,23 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Eficácia da travagem afetada. |  |  | X |
 |  |  | (c) Cinta ou calço inexistente ou mal montado. |  |  | X |
 | 1.1.14. Tambores e discos dos travões. | Inspeção visual. | (a) Tambor ou disco com desgaste. |  | X |  |
-| 1.1.14. Tambores e discos dos travões. | Inspeção visual. | Tambor ou disco com desgaste excessivo, excessivamente riscado, fendido, mal fixado ou fraturado. |  |  | X |
+| Tambor ou disco com desgaste excessivo, excessivamente riscado, fendido, mal fixado ou fraturado. |  |  | X |  |  |
 |  |  | (b) Tambor ou disco atacado (com óleo, massa lubrificante, etc.). |  | X |  |
 |  |  | Eficácia da travagem afetada. |  |  | X |
 |  |  | (c) Tambor ou disco inexistente. |  |  | X |
 |  |  | (d) Chapa de apoio mal fixada. |  | X |  |
 | 1.1.15. Cabos, tirantes, alavancas e articulações dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Cabo danificado ou com nós. |  | X |  |
-| 1.1.15. Cabos, tirantes, alavancas e articulações dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | Eficácia da travagem afetada. |  |  | X |
-| 1.1.15. Cabos, tirantes, alavancas e articulações dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (b) Componentes com corrosão ou desgaste excessivo. |  | X |  |
-| 1.1.15. Cabos, tirantes, alavancas e articulações dos travões. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | Eficácia da travagem afetada. |  |  | X |
+| Eficácia da travagem afetada. |  |  | X |  |  |
+| (b) Componentes com corrosão ou desgaste excessivo. |  | X |  |  |  |
+| Eficácia da travagem afetada. |  |  | X |  |  |
 |  |  | (c) Cabo, tirante ou junta mal fixado. |  | X |  |
 |  |  | (d) Guia de cabos defeituosa. |  | X |  |
 |  |  | (e) Entrave ao livre movimento do sistema de travagem. |  | X |  |
 |  |  | (f) Movimento anormal das alavancas/articulações, indicativo de afinação deficiente ou de desgaste excessivo. |  | X |  |
 | 1.1.16. Atuadores dos travões (incluindo travões de mola e cilindros hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Atuador fissurado ou danificado. |  | X |  |
-| 1.1.16. Atuadores dos travões (incluindo travões de mola e cilindros hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | Eficácia da travagem afetada. |  |  | X |
-| 1.1.16. Atuadores dos travões (incluindo travões de mola e cilindros hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (b) Atuador com fugas. |  | X |  |
-| 1.1.16. Atuadores dos travões (incluindo travões de mola e cilindros hidráulicos). | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | Eficácia da travagem afetada. |  |  | X |
+| Eficácia da travagem afetada. |  |  | X |  |  |
+| (b) Atuador com fugas. |  | X |  |  |  |
+| Eficácia da travagem afetada. |  |  | X |  |  |
 |  |  | (c) Atuador mal fixado ou mal montado. |  | X |  |
 |  |  | Eficácia da travagem afetada. |  |  | X |
 |  |  | (d) Atuador excessivamente corroído. |  | X |  |
@@ -356,7 +372,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (f) Tampa de proteção contra o pó danificada. | X |  |  |
 |  |  | Tampa de proteção contra o pó inexistente ou excessivamente danificada. |  | X |  |
 | 1.1.17. Válvula sensora de carga. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (a) Articulação defeituosa. |  | X |  |
-| 1.1.17. Válvula sensora de carga. | Inspeção visual dos componentes ao acionar o sistema de travagem, se possível. | (b) Articulação mal afinada. |  | X |  |
+| (b) Articulação mal afinada. |  | X |  |  |  |
 |  |  | (c) Válvula gripada ou inoperacional (ABS a funcionar). |  | X |  |
 |  |  | Válvula gripada ou inoperacional. |  |  | X |
 |  |  | (d) Válvula inexistente (se exigida). |  |  | X |
@@ -366,7 +382,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (b) Ajustador defeituoso. |  | X |  |
 |  |  | (c) Instalação ou substituição incorreta. |  | X |  |
 | 1.1.19. Sistema de travagem auxiliar (se montado ou exigido). | Inspeção visual. | (a) Conexões ou montagens mal fixadas. | X |  |  |
-| 1.1.19. Sistema de travagem auxiliar (se montado ou exigido). |  | Se o funcionamento estiver afetado. |  | X |  |
+|  | Se o funcionamento estiver afetado. |  | X |  |  |
 |  |  | (b) Ou inexistente. |  | X |  |
 | 1.1.20. Funcionamento automático dos travões do reboque. | Desligar a conexão do sistema de travagem entre o veículo trator e o reboque. | Travão do reboque não atua automaticamente. Sistema claramente defeituoso ao desligar-se a conexão. |  |  | X |
 | 1.1.21. Sistema de travagem completo. | Inspeção visual. | (a) Outros dispositivos do sistema (por exemplo bomba de líquido anticongelante, secador de ar, etc.) com danos externos ou excessivamente corroídos, de um modo que afeta negativamente o sistema de travagem. |  | X |  |
@@ -377,35 +393,35 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) Alteração inadequada de componentes (c). |  | X |  |
 |  |  | Eficácia da travagem afetada. |  |  | X |
 | 1.1.22. Tomadas de pressão (se montadas ou exigidas). | Inspeção visual. | (a) Inexistente. |  | X |  |
-| 1.1.22. Tomadas de pressão (se montadas ou exigidas). | Inspeção visual. | (b) Danificadas. | X |  |  |
+| (b) Danificadas. | X |  |  |  |  |
 |  |  | Inutilizáveis ou com fugas. |  | X |  |
 | 1.1.23. Travão de inércia. | Inspeção visual e em funcionamento. | Insuficiente eficiência. |  | X |  |
-| 1.2. Comportamento funcional e eficiência dos travões de serviço | 1.2. Comportamento funcional e eficiência dos travões de serviço | 1.2. Comportamento funcional e eficiência dos travões de serviço | 1.2. Comportamento funcional e eficiência dos travões de serviço | 1.2. Comportamento funcional e eficiência dos travões de serviço | 1.2. Comportamento funcional e eficiência dos travões de serviço |
+| 1.2. Comportamento funcional e eficiência dos travões de serviço |  |  |  |  |  |
 | 1.2.1. Comportamento funcional. | Num ensaio efetuado num frenómetro em condições estáticas ou, caso isso seja impossível, num ensaio realizado em estrada, aplicar gradualmente os travões até atingir o esforço máximo. | (a) Esforço de travagem inadequado numa ou mais rodas. |  | X |  |
-| 1.2.1. Comportamento funcional. | Num ensaio efetuado num frenómetro em condições estáticas ou, caso isso seja impossível, num ensaio realizado em estrada, aplicar gradualmente os travões até atingir o esforço máximo. | Nenhum esforço de travagem numa ou mais rodas. |  |  | X |
-| 1.2.1. Comportamento funcional. | Num ensaio efetuado num frenómetro em condições estáticas ou, caso isso seja impossível, num ensaio realizado em estrada, aplicar gradualmente os travões até atingir o esforço máximo. | (b) Esforço de travagem em qualquer roda inferior a 70 % do esforço máximo registado na outra roda do mesmo eixo (no caso de o ensaio ser realizado em estrada, desvio excessivo do veículo em relação a uma linha reta. |  | X |  |
+| Nenhum esforço de travagem numa ou mais rodas. |  |  | X |  |  |
+| (b) Esforço de travagem em qualquer roda inferior a 70 % do esforço máximo registado na outra roda do mesmo eixo (no caso de o ensaio ser realizado em estrada, desvio excessivo do veículo em relação a uma linha reta. |  | X |  |  |  |
 |  |  | Esforço de travagem em qualquer roda inferior a 50 % do esforço máximo registado na outra roda do mesmo eixo (no caso de eixos direcionais). |  |  | X |
 |  |  | (c) Inexistência de variação gradual do esforço de travagem (trepidação). |  | X |  |
 |  |  | (d) Tempo de resposta anormal na travagem de qualquer roda. |  | X |  |
 |  |  | (e) Flutuação excessiva da força de travagem durante a rotação completa da roda. |  | X |  |
-| 1.2.2. Eficiência. | Ensaio com frenómetro ou, se não for possível utilizá-la por motivos técnicos, ensaio em estrada com um desacelerógrafo com registo, a fim de determinar a relação de travagem correspondente à massa máxima autorizada ou, no caso dos semirreboques, correspondente à soma das cargas autorizadas por eixo. Os veículos ou reboques com massa máxima autorizada superior a 3,5 t têm de ser inspecionados segundo a norma ISO 21069 ou métodos equivalentes. Os ensaios realizados em estrada devem decorrer num piso seco, plano e em linha reta. | Não se observa, pelo menos, o valor mínimo seguinte: 1. Veículos matriculados pela primeira vez após 1/01/2012: - Categoria M1: 58 % - Categorias M2 e M3: 50 % - Categoria N1: 50 % - Categorias N2 e N3: 50 % - Categorias O2, O3 e O4: - Semirreboques: 45 % (1) - Reboques: 50 % |  | X |  |
-| 1.2.2. Eficiência. | Ensaio com frenómetro ou, se não for possível utilizá-la por motivos técnicos, ensaio em estrada com um desacelerógrafo com registo, a fim de determinar a relação de travagem correspondente à massa máxima autorizada ou, no caso dos semirreboques, correspondente à soma das cargas autorizadas por eixo. Os veículos ou reboques com massa máxima autorizada superior a 3,5 t têm de ser inspecionados segundo a norma ISO 21069 ou métodos equivalentes. Os ensaios realizados em estrada devem decorrer num piso seco, plano e em linha reta. | 2. Veículos matriculados pela primeira vez antes de 1/01/2012: - Categorias M1, M2 e M3: 50 % (2) - Categoria N1: 45 % - Categorias N2 e N3: 43 % (3) - Categorias O2, O3 e O4: 40 % (4) |  | X |  |
-|  |  | 3. Outras categorias Categorias L (ambos os travões em conjunto): - Categoria L6e: 40 % - Categoria L3e: 50 % - Categoria L4e: 46 % - Categorias L5e e L7e: 44 % Categorias L (travões das rodas traseiras): 25 % da massa total do veículo. Atingidos menos de 50 % dos valores acima indicados. |  |  | X |
-| 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) | 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) | 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) | 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) | 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) | 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) |
+| 1.2.2. Eficiência. | Ensaio com frenómetro ou, se não for possível utilizá-la por motivos técnicos, ensaio em estrada com um desacelerógrafo com registo, a fim de determinar a relação de travagem correspondente à massa máxima autorizada ou, no caso dos semirreboques, correspondente à soma das cargas autorizadas por eixo.<br>Os veículos ou reboques com massa máxima autorizada superior a 3,5 t têm de ser inspecionados segundo a norma ISO 21069 ou métodos equivalentes.<br>Os ensaios realizados em estrada devem decorrer num piso seco, plano e em linha reta. | Não se observa, pelo menos, o valor mínimo seguinte:<br>1. Veículos matriculados pela primeira vez após 1/01/2012:<br>- Categoria M1: 58 %<br>- Categorias M2 e M3: 50 %<br>- Categoria N1: 50 %<br>- Categorias N2 e N3: 50 %<br>- Categorias O2, O3 e O4:<br>- Semirreboques: 45 % (1)<br>- Reboques: 50 % |  | X |  |
+| 2. Veículos matriculados pela primeira vez antes de 1/01/2012:<br>- Categorias M1, M2 e M3: 50 % (2)<br>- Categoria N1: 45 %<br>- Categorias N2 e N3: 43 % (3)<br>- Categorias O2, O3 e O4: 40 % (4) |  | X |  |  |  |
+|  |  | 3. Outras categorias<br>Categorias L (ambos os travões em conjunto):<br>- Categoria L6e: 40 %<br>- Categoria L3e: 50 %<br>- Categoria L4e: 46 %<br>- Categorias L5e e L7e: 44 %<br>Categorias L (travões das rodas traseiras): 25 % da massa total do veículo.<br>Atingidos menos de 50 % dos valores acima indicados. |  |  | X |
+| 1.3. Comportamento funcional e eficiência dos travões de emergência (secundários) (se constituírem um dispositivo separado) |  |  |  |  |  |
 | 1.3.1. Comportamento funcional. | Se o sistema de travagem secundário estiver separado do sistema de travagem de serviço, aplicar o método descrito em 1.2.1. | (a) Esforço de travagem inadequado numa ou mais rodas. |  | X |  |
-| 1.3.1. Comportamento funcional. | Se o sistema de travagem secundário estiver separado do sistema de travagem de serviço, aplicar o método descrito em 1.2.1. | Nenhum esforço de travagem numa ou mais rodas. |  |  | X |
-| 1.3.1. Comportamento funcional. | Se o sistema de travagem secundário estiver separado do sistema de travagem de serviço, aplicar o método descrito em 1.2.1. | (b) Esforço de travagem em qualquer roda inferior a 70 % do esforço máximo registado noutra roda do mesmo eixo. No caso de o ensaio ser realizado em estrada, desvio excessivo do veículo em relação a uma linha reta. |  | X |  |
+| Nenhum esforço de travagem numa ou mais rodas. |  |  | X |  |  |
+| (b) Esforço de travagem em qualquer roda inferior a 70 % do esforço máximo registado noutra roda do mesmo eixo. No caso de o ensaio ser realizado em estrada, desvio excessivo do veículo em relação a uma linha reta. |  | X |  |  |  |
 |  |  | Esforço de travagem em qualquer roda inferior a 50 % do esforço máximo registado na outra roda do mesmo eixo (no caso de eixos direcionais. |  |  | X |
 |  |  | (c) Inexistência de variação gradual do esforço de travagem (trepidação). |  | X |  |
 | 1.3.2. Eficiência. | Se o sistema de travagem secundário estiver separado do sistema de travagem de serviço, aplicar o método descrito em 1.2.2. | Esforço de travagem inferior a 50 %(5) do comportamento funcional dos travões de serviço definido no ponto 1.2.2 em relação à massa máxima autorizada. |  | X |  |
 |  |  | Atingidos menos de 50 % dos valores de esforço de travagem acima indicados. |  |  | X |
-| 1.4. Comportamento funcional e eficiência do travão de estacionamento | 1.4. Comportamento funcional e eficiência do travão de estacionamento | 1.4. Comportamento funcional e eficiência do travão de estacionamento | 1.4. Comportamento funcional e eficiência do travão de estacionamento | 1.4. Comportamento funcional e eficiência do travão de estacionamento | 1.4. Comportamento funcional e eficiência do travão de estacionamento |
+| 1.4. Comportamento funcional e eficiência do travão de estacionamento |  |  |  |  |  |
 | 1.4.1. Comportamento funcional. | Aplicar o travão durante uma inspeção num frenómetro. | Travão inativo num dos lados ou, num ensaio realizado em estrada, desvio excessivo do veículo em relação a uma linha reta. |  | X |  |
 |  |  | Atingidos menos de 50 % dos valores de esforço de travagem indicados no ponto 1.4.2, relativamente à massa do veículo durante a inspeção. |  |  | X |
 | 1.4.2. Eficiência. | Ensaio com frenómetro. Se não for possível, ensaio em estrada com um desacelerógrafo com registo, ou com o veículo num declive de gradiente conhecido. | Não se observa, para todos os veículos, uma relação de travagem de, pelo menos, 16 %, relativamente à massa máxima autorizada, ou, para os veículos a motor, uma relação de travagem de, pelo menos, 12 %, relativamente à massa máxima combinada autorizada do veículo, conforme o valor que for mais elevado. |  | X |  |
 |  |  | Atingidos menos de 50 % dos valores de esforço de travagem acima indicados. |  |  | X |
 | 1.5. Comportamento funcional do sistema de travagem auxiliar. | Inspeção visual e, se possível, ensaio de verificação do funcionamento do sistema. | (a) Inexistência de variação gradual da eficiência (não aplicável a sistemas de travagem acionados pelo escape). |  | X |  |
-| 1.5. Comportamento funcional do sistema de travagem auxiliar. | Inspeção visual e, se possível, ensaio de verificação do funcionamento do sistema. | (b) Sistema não funciona. |  | X |  |
+| (b) Sistema não funciona. |  | X |  |  |  |
 | 1.6. Sistema antibloqueio de travagem (ABS). | Inspeção visual e inspeção do dispositivo avisador e/ou utilizando o interface eletrónico do veículo (OBD). | (a) Mau funcionamento do dispositivo avisador. |  | X |  |
 |  |  | (b) Dispositivo avisador indica mau funcionamento do sistema. |  | X |  |
 |  |  | (c) Sensores de velocidade das rodas inexistentes ou danificadas. |  | X |  |
@@ -413,33 +429,33 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (e) Outros componentes inexistentes ou danificados. |  | X |  |
 |  |  | (f) O sistema indica a falha através do interface eletrónico do veículo (OBD). |  | X |  |
 | 1.7 Sistema de travagem eletrónico (EBS). | inspeção visual e inspeção do dispositivo avisador e/ou utilizando o interface eletrónico do veículo (OBD). | (a) Mau funcionamento do dispositivo avisador. |  | X |  |
-| 1.7 Sistema de travagem eletrónico (EBS). | inspeção visual e inspeção do dispositivo avisador e/ou utilizando o interface eletrónico do veículo (OBD). | (b) Dispositivo avisador indica mau funcionamento do sistema. |  | X |  |
+| (b) Dispositivo avisador indica mau funcionamento do sistema. |  | X |  |  |  |
 |  |  | (c) O sistema indica a falha através do interface eletrónico do veículo (OBD). |  | X |  |
 | 1.8. Óleo dos travões. | Inspeção visual. | Óleo dos travões contaminado ou sedimentado. |  | X |  |
 |  |  | Risco iminente de falha. |  |  | X |
-| 2. Direção | 2. Direção | 2. Direção | 2. Direção | 2. Direção | 2. Direção |
-| 2.1. Estado mecânico | 2.1. Estado mecânico | 2.1. Estado mecânico | 2.1. Estado mecânico | 2.1. Estado mecânico | 2.1. Estado mecânico |
+| 2. Direção |  |  |  |  |  |
+| 2.1. Estado mecânico |  |  |  |  |  |
 | 2.1.1. Estado da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas suspensas ou assentes em placas giratórias, rodar o volante de batente a batente. Inspeção visual do funcionamento da direção. | (a) Funcionamento irregular da direção. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas suspensas ou assentes em placas giratórias, rodar o volante de batente a batente. Inspeção visual do funcionamento da direção. | (b) Veio da barra da direção torcido ou estrias desgastadas. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas suspensas ou assentes em placas giratórias, rodar o volante de batente a batente. Inspeção visual do funcionamento da direção. | Funcionamento afetado. |  |  | X |
+|  | (b) Veio da barra da direção torcido ou estrias desgastadas. |  | X |  |  |
+|  | Funcionamento afetado. |  |  | X |  |
 |  |  | (c) Desgaste excessivo do veio da barra da direção. |  | X |  |
 |  |  | Funcionamento afetado. |  |  | X |
 |  |  | (d) Movimento excessivo do veio da barra da direção. |  | X |  |
 |  |  | Funcionamento afetado. |  |  | X |
 |  |  | (e) Com fugas. | X |  |  |
 |  |  | Formação de pingos. |  | X |  |
-| 2.1.2. Fixação da caixa da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo totalmente aplicada sobre as rodas assentes no chão, rodar o volante ou guiador no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual da fixação da caixa da direção ao quadro. | (a) Caixa da direção mal fixada. |  | X |  |
-| 2.1.2. Fixação da caixa da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo totalmente aplicada sobre as rodas assentes no chão, rodar o volante ou guiador no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual da fixação da caixa da direção ao quadro. | Fixações perigosamente soltas ou movimento visível em relação ao quadro. |  |  | X |
-| 2.1.2. Fixação da caixa da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo totalmente aplicada sobre as rodas assentes no chão, rodar o volante ou guiador no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual da fixação da caixa da direção ao quadro. | (b) Orifícios de fixação ao quadro ovalizados. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo totalmente aplicada sobre as rodas assentes no chão, rodar o volante ou guiador no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual da fixação da caixa da direção ao quadro. | Fixações seriamente afetadas. |  |  | X |
+| 2.1.2. Fixação da caixa da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo totalmente aplicada sobre as rodas assentes no chão, rodar o volante ou guiador no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado.<br>Inspeção visual da fixação da caixa da direção ao quadro. | (a) Caixa da direção mal fixada. |  | X |  |
+| Fixações perigosamente soltas ou movimento visível em relação ao quadro. |  |  | X |  |  |
+| (b) Orifícios de fixação ao quadro ovalizados. |  | X |  |  |  |
+|  | Fixações seriamente afetadas. |  |  | X |  |
 |  |  | (c) Parafusos de fixação inexistentes ou fraturados. |  | X |  |
 |  |  | Fixações seriamente afetadas. |  |  | X |
 |  |  | (d) Caixa da direção fraturada. |  | X |  |
 |  |  | Estabilidade ou fixação da caixa afetada. |  |  | X |
 | 2.1.3. Estado das barras e articulações da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | (a) Movimento relativo de componentes que deviam estar fixos. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | Movimento excessivo ou risco de se soltarem. |  |  | X |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | (b) Desgaste excessivo nas juntas. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | Sério risco de se soltarem. |  |  | X |
+|  | Movimento excessivo ou risco de se soltarem. |  |  | X |  |
+|  | (b) Desgaste excessivo nas juntas. |  | X |  |  |
+|  | Sério risco de se soltarem. |  |  | X |  |
 |  |  | (c) Componentes fraturados ou deformados. |  | X |  |
 |  |  | Funcionamento afetado. |  |  | X |
 |  |  | (d) Ausência de dispositivos de imobilização. |  | X |  |
@@ -449,10 +465,10 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (g) Guarda-pó danificado ou deteriorado. | X |  |  |
 |  |  | Guarda-pó inexistente ou muito deteriorado. |  | X |  |
 | 2.1.4. Funcionamento das barras e articulações da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | (a) Articulação/barra da direção bate numa peça fixa do quadro. |  | X |  |
-| 2.1.4. Funcionamento das barras e articulações da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com as rodas assentes no chão, rodar o volante no sentido dos ponteiros do relógio e no sentido inverso ou utilizar um detetor de folgas especialmente adaptado. Inspeção visual ao desgaste, a fraturas e à segurança dos componentes da direção. | (b) Batentes da direção não funcionam ou inexistentes. |  | X |  |
+| (b) Batentes da direção não funcionam ou inexistentes. |  | X |  |  |  |
 | 2.1.5. Direção assistida. | Inspecionar o sistema de direção em busca de fugas e para verificar o nível do depósito de fluído hidráulico (se for visível). Com as rodas do veículo assentes no chão e o motor a trabalhar, verificar se o sistema de direção assistida funciona. | (a) Fuga de óleo ou funções afetadas. |  | X |  |
-|  | Inspecionar o sistema de direção em busca de fugas e para verificar o nível do depósito de fluído hidráulico (se for visível). Com as rodas do veículo assentes no chão e o motor a trabalhar, verificar se o sistema de direção assistida funciona. | (b) Óleo insuficiente (abaixo da marca MIN). | X |  |  |
-|  | Inspecionar o sistema de direção em busca de fugas e para verificar o nível do depósito de fluído hidráulico (se for visível). Com as rodas do veículo assentes no chão e o motor a trabalhar, verificar se o sistema de direção assistida funciona. | Reservatório insuficiente. |  | X |  |
+|  | (b) Óleo insuficiente (abaixo da marca MIN). | X |  |  |  |
+|  | Reservatório insuficiente. |  | X |  |  |
 |  |  | (c) Mecanismo não funciona. |  | X |  |
 |  |  | Direção afetada. |  |  | X |
 |  |  | (d) Mecanismo fraturado ou mal fixado. |  | X |  |
@@ -463,35 +479,35 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Direção afetada. |  |  | X |
 |  |  | (g) Cabos/tubagens danificados ou excessivamente corroídos. |  | X |  |
 |  |  | Direção afetada. |  |  | X |
-| 2.2. Volante, coluna da direção e guiador | 2.2. Volante, coluna da direção e guiador | 2.2. Volante, coluna da direção e guiador | 2.2. Volante, coluna da direção e guiador | 2.2. Volante, coluna da direção e guiador | 2.2. Volante, coluna da direção e guiador |
+| 2.2. Volante, coluna da direção e guiador |  |  |  |  |  |
 | 2.2.1. Estado do volante/guiador. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | (a) Movimento relativo do volante e da coluna da direção, indicativo de má fixação. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | Risco muito sério de se soltar. |  |  | X |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | (b) Ausência de dispositivo de retenção no cubo do volante. |  | X |  |
+|  | Risco muito sério de se soltar. |  |  | X |  |
+|  | (b) Ausência de dispositivo de retenção no cubo do volante. |  | X |  |  |
 |  |  | Risco muito sério de se soltar. |  |  | X |
 |  |  | (c) Fratura ou má fixação do cubo, do aro ou dos raios do volante. |  | X |  |
 |  |  | Risco muito sério de se soltar. |  |  | X |
 | 2.2.2. Coluna/forquilhas e amortecedores da direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | (a) Movimento excessivo, para cima ou para baixo, do centro do volante. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | (b) Movimento radial excessivo do topo da coluna da direção, a partir do eixo da coluna. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação e com o peso do veículo assente no chão, pressionar e puxar o volante segundo o eixo da coluna da direção e empurrar o volante/guiador em várias direções num plano perpendicular à(s) coluna/forquilhas da direção. Inspeção visual da folga e do estado das ligações flexíveis e das juntas universais. | (c) Ligação flexível deteriorada. |  | X |  |
+|  | (b) Movimento radial excessivo do topo da coluna da direção, a partir do eixo da coluna. |  | X |  |  |
+|  | (c) Ligação flexível deteriorada. |  | X |  |  |
 |  |  | (d) Má fixação. |  | X |  |
 |  |  | Risco muito sério de se soltar. |  |  | X |
 |  |  | (e) Modificação insegura (c). |  |  | X |
-| 2.3. Folgas na direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação, e com o peso do veículo assente nas rodas, o motor, se possível, a trabalhar (veículo com direção assistida) e as rodas direitas, rodar ligeiramente o volante, o máximo possível, no sentido dos ponteiros do relógio e no sentido inverso, sem mover as rodas. Inspeção visual do movimento livre. | Movimento livre da direção excessivo [por exemplo movimento de um ponto do aro superior a um quinto do diâmetro do volante ou não conforme com os requisitos (a)]. |  | X |  |
-|  | Com o veículo sobre uma fossa ou num mecanismo de elevação, e com o peso do veículo assente nas rodas, o motor, se possível, a trabalhar (veículo com direção assistida) e as rodas direitas, rodar ligeiramente o volante, o máximo possível, no sentido dos ponteiros do relógio e no sentido inverso, sem mover as rodas. Inspeção visual do movimento livre. | Segurança da direção afetada. |  |  | X |
+| 2.3. Folgas na direção. | Com o veículo sobre uma fossa ou num mecanismo de elevação, e com o peso do veículo assente nas rodas, o motor, se possível, a trabalhar (veículo com direção assistida) e as rodas direitas, rodar ligeiramente o volante, o máximo possível, no sentido dos ponteiros do relógio e no sentido inverso, sem mover as rodas.<br>Inspeção visual do movimento livre. | Movimento livre da direção excessivo [por exemplo movimento de um ponto do aro superior a um quinto do diâmetro do volante ou não conforme com os requisitos (a)]. |  | X |  |
+|  | Segurança da direção afetada. |  |  | X |  |
 | 2.4. Alinhamento das rodas (X) (b). | Inspecionar o alinhamento das rodas da direção com equipamento adequado. | Alinhamento não conforme com os dados ou requisitos do fabricante do veículo (a). | X |  |  |
 |  |  | Condução em linha reta; estabilidade direcional comprometida. |  | X |  |
 | 2.5. Placa giratória de eixo de direção de reboque. | Inspeção visual com um detetor de folgas especialmente adaptado. | (a) Componente ligeiramente danificado. |  | X |  |
-| 2.5. Placa giratória de eixo de direção de reboque. | Inspeção visual com um detetor de folgas especialmente adaptado. | Componente fortemente danificado ou fendido. |  |  | X |
+| Componente fortemente danificado ou fendido. |  |  | X |  |  |
 |  |  | (b) Folga excessiva. |  | X |  |
 |  |  | Condução em linha reta; estabilidade direcional comprometida. |  |  | X |
 |  |  | (c) Acessório defeituoso. |  | X |  |
 |  |  | Acessório seriamente afetado. |  |  | X |
 | 2.6. Direção assistida eletrónica (EPS). | Inspeção visual e verificação da coerência entre o ângulo do volante e o ângulo das rodas ao ligar/desligar o motor e/ou utilizando o interface eletrónico do veículo (OBD). | (a) Falha do sistema assinalada pelo indicador luminoso de avaria da EPS. |  | X |  |
-|  | Inspeção visual e verificação da coerência entre o ângulo do volante e o ângulo das rodas ao ligar/desligar o motor e/ou utilizando o interface eletrónico do veículo (OBD). | (b) Incoerência entre o ângulo do volante e o ângulo das rodas. |  | X |  |
+|  | (b) Incoerência entre o ângulo do volante e o ângulo das rodas. |  | X |  |  |
 |  |  | Direção afetada. |  |  | X |
 |  |  | (c) Assistência à direção não funciona. |  | X |  |
 |  |  | (d) O sistema indica a falha através do interface eletrónico do veículo (OBD). |  | X |  |
-| 3. Visibilidade | 3. Visibilidade | 3. Visibilidade | 3. Visibilidade | 3. Visibilidade | 3. Visibilidade |
+| 3. Visibilidade |  |  |  |  |  |
 | 3.1. Campo de visão. | Inspeção visual a partir do banco do condutor. | Obstrução dentro do campo de visão do condutor que afeta objetivamente a visão frontal ou lateral deste (fora da zona de varrimento dos limpa-para-brisas). | X |  |  |
 |  |  | Dentro da zona de varrimento dos limpa-para-brisas ou espelhos exteriores não visíveis. |  | X |  |
 | 3.2. Estado dos vidros. | Inspeção visual. | (a) Vidros ou painéis transparentes (se autorizados) rachados ou descoloridos (fora da zona de varrimentos dos limpa-para-brisas). | X |  |  |
@@ -511,15 +527,15 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 | 3.5. Lava-para-brisas. | Inspeção visual e em funcionamento. | Mau funcionamento do lava-para-brisas (falta de líquido de lavagem, mas bomba a funcionar; jato de água desalinhado). | X |  |  |
 |  |  | Lava-para-brisas não funciona. |  | X |  |
 | 3.6. Sistema de desembaciamento (X) (b). | Inspeção visual e em funcionamento. | Sistema inoperacional ou claramente defeituoso. | X |  |  |
-| 4. Luzes, refletores e equipamento elétrico | 4. Luzes, refletores e equipamento elétrico | 4. Luzes, refletores e equipamento elétrico | 4. Luzes, refletores e equipamento elétrico | 4. Luzes, refletores e equipamento elétrico | 4. Luzes, refletores e equipamento elétrico |
-| 4.1. Faróis | 4.1. Faróis | 4.1. Faróis | 4.1. Faróis | 4.1. Faróis | 4.1. Faróis |
+| 4. Luzes, refletores e equipamento elétrico |  |  |  |  |  |
+| 4.1. Faróis |  |  |  |  |  |
 | 4.1.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Luz/fonte luminosa defeituosa ou inexistente (lâmpadas/fontes luminosas múltiplas; no caso das LED, menos de 1/3 não funcionam). | X |  |  |
 |  |  | Luzes/fontes luminosas únicas; no caso dos LED visibilidade seriamente afetada. |  | X |  |
 |  |  | (b) Sistema de projeção ligeiramente defeituoso (refletor e lente). | X |  |  |
 |  |  | Sistema de projeção muito defeituoso ou inexistente (refletor e lente). |  | X |  |
 |  |  | (c) Luz mal fixada. |  | X |  |
 | 4.1.2. Alinhamento. | Determinar a inclinação horizontal de cada farol com as luzes de cruzamento (médios) acesas, utilizando um dispositivo de regulação de faróis ou o interface eletrónico do veículo (OBD). | (a) Inclinação do farol fora dos limites estabelecidos nos requisitos (a). |  | X |  |
-|  | Determinar a inclinação horizontal de cada farol com as luzes de cruzamento (médios) acesas, utilizando um dispositivo de regulação de faróis ou o interface eletrónico do veículo (OBD). | (b) O sistema indica a falha através do interface eletrónico do veículo (OBD). |  | X |  |
+|  | (b) O sistema indica a falha através do interface eletrónico do veículo (OBD). |  | X |  |  |
 | 4.1.3. Interruptores. | Inspeção visual e em funcionamento ou via o interface eletrónico do veículo (OBD). | (a) Interruptor não funciona de acordo com os requisitos (a) (número de faróis acesos ao mesmo tempo). | X |  |  |
 |  |  | Excedido o valor máximo de intensidade luminosa para a frente. |  | X |  |
 |  |  | (b) Mau funcionamento do dispositivo de comando. |  | X |  |
@@ -528,13 +544,13 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (b) Presença, na lente ou na fonte luminosa, de produtos que reduzem claramente a intensidade luminosa ou alteram a cor emitida. |  | X |  |
 |  |  | (c) Fonte luminosa e farol incompatíveis. |  | X |  |
 | 4.1.5. Dispositivos de regulação da inclinação (se obrigatórios). | Inspeção visual e em funcionamento, se possível, ou via o interface eletrónico do veículo (OBD). | (a) Dispositivo não funciona. |  | X |  |
-| 4.1.5. Dispositivos de regulação da inclinação (se obrigatórios). | Inspeção visual e em funcionamento, se possível, ou via o interface eletrónico do veículo (OBD). | (b) Dispositivo manual não utilizável a partir do banco do condutor. |  | X |  |
+| (b) Dispositivo manual não utilizável a partir do banco do condutor. |  | X |  |  |  |
 |  |  | (c) O sistema indica falha através do interface eletrónico do veículo (OBD). |  | X |  |
 | 4.1.6. Dispositivo de limpeza dos faróis (se obrigatório). | Inspeção visual e em funcionamento, se possível. | Dispositivo não funciona. | X |  |  |
-| 4.1.6. Dispositivo de limpeza dos faróis (se obrigatório). |  | No caso de faróis de descarga de gás. |  | X |  |
-| 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas | 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas | 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas | 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas | 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas | 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas |
+|  | No caso de faróis de descarga de gás. |  | X |  |  |
+| 4.2. Luzes de presença dianteiras e traseiras, luzes de presença laterais, luzes delimitadoras do veículo e luzes diurnas |  |  |  |  |  |
 | 4.2.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Fonte luminosa defeituosa. |  | X |  |
-| 4.2.1. Estado e funcionamento. |  | (b) Lentes defeituosas. |  | X |  |
+|  | (b) Lentes defeituosas. |  | X |  |  |
 |  |  | (c) Luz mal fixada. | X |  |  |
 |  |  | Risco muito sério de cair. |  | X |  |
 | 4.2.2. Interruptores. | Inspeção visual e em funcionamento | (a) Interruptor não funciona de acordo com os requisitos (a). |  | X |  |
@@ -544,7 +560,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Luz vermelha orientada para a frente ou luz branca orientada para a retaguarda; intensidade luminosa fortemente reduzida. |  | X |  |
 |  |  | (b) Presença, na lente ou na fonte luminosa, de produtos que reduzem claramente a intensidade luminosa ou alteram a cor emitida. | X |  |  |
 |  |  | Luz vermelha orientada para a frente ou luz branca orientada para a retaguarda; intensidade luminosa fortemente reduzida. |  | X |  |
-| 4.3. Luzes de travagem | 4.3. Luzes de travagem | 4.3. Luzes de travagem | 4.3. Luzes de travagem | 4.3. Luzes de travagem | 4.3. Luzes de travagem |
+| 4.3. Luzes de travagem |  |  |  |  |  |
 | 4.3.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Fonte luminosa defeituosa (fontes luminosas múltiplas; no caso dos LED, menos de 1/3 não funcionam). | X |  |  |
 |  |  | Fontes luminosas únicas; no caso das LED, menos de 2/3 a funcionar. |  | X |  |
 |  |  | Todas as fontes luminosas não funcionam. |  |  | X |
@@ -560,7 +576,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) As luzes do travão de emergência não funcionam ou funcionam incorretamente. |  | X |  |
 | 4.3.3. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | Farol, cor emitida, posição, intensidade luminosa ou marcação não conforme com os requisitos (a). | X |  |  |
 |  |  | Luz branca orientada para a retaguarda; intensidade luminosa fortemente reduzida. |  | X |  |
-| 4.4. Luzes indicadoras de mudança de direção e luzes de perigo | 4.4. Luzes indicadoras de mudança de direção e luzes de perigo | 4.4. Luzes indicadoras de mudança de direção e luzes de perigo | 4.4. Luzes indicadoras de mudança de direção e luzes de perigo | 4.4. Luzes indicadoras de mudança de direção e luzes de perigo | 4.4. Luzes indicadoras de mudança de direção e luzes de perigo |
+| 4.4. Luzes indicadoras de mudança de direção e luzes de perigo |  |  |  |  |  |
 | 4.4.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Fonte luminosa defeituosa (fontes luminosas múltiplas; no caso dos LED, menos de 1/3 que não funcionam). | X |  |  |
 |  |  | Fontes luminosas únicas; no caso das LED, menos de 2/3 a funcionar. |  | X |  |
 |  |  | (b) Lentes ligeiramente defeituosas (sem influência na luz emitida). | X |  |  |
@@ -571,7 +587,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Totalmente inoperacionais. |  | X |  |
 | 4.4.3. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | Farol, cor emitida, posição, intensidade luminosa ou marcação não conforme com os requisitos (a). |  | X |  |
 | 4.4.4. Frequência da intermitência. | Inspeção visual e em funcionamento. | Frequência da intermitência não conforme com os requisitos (a) (desvio da frequência superior a 25 %). | X |  |  |
-| 4.5. Luzes de nevoeiro dianteiras e traseiras | 4.5. Luzes de nevoeiro dianteiras e traseiras | 4.5. Luzes de nevoeiro dianteiras e traseiras | 4.5. Luzes de nevoeiro dianteiras e traseiras | 4.5. Luzes de nevoeiro dianteiras e traseiras | 4.5. Luzes de nevoeiro dianteiras e traseiras |
+| 4.5. Luzes de nevoeiro dianteiras e traseiras |  |  |  |  |  |
 | 4.5.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Fonte luminosa defeituosa (fontes luminosas múltiplas; no caso das LED, menos de 1/3 sem funcionar). | X |  |  |
 |  |  | Fontes luminosas únicas; no caso das LED, menos de 2/3 a funcionar. |  | X |  |
 |  |  | (b) Lentes ligeiramente defeituosas (sem influência na luz emitida). | X |  |  |
@@ -584,41 +600,41 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Inoperacionais. |  | X |  |
 | 4.5.4. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | (a) Farol, cor emitida, posição, intensidade luminosa ou marcação não conforme com os requisitos (a). |  | X |  |
 |  |  | (b) Sistema não funciona de acordo com os requisitos (a). |  | X |  |
-| 4.6. Luzes de marcha atrás | 4.6. Luzes de marcha atrás | 4.6. Luzes de marcha atrás | 4.6. Luzes de marcha atrás | 4.6. Luzes de marcha atrás | 4.6. Luzes de marcha atrás |
+| 4.6. Luzes de marcha atrás |  |  |  |  |  |
 | 4.6.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Fonte luminosa defeituosa. | X |  |  |
-| 4.6.1. Estado e funcionamento. |  | (b) Lentes defeituosas. | X |  |  |
+|  | (b) Lentes defeituosas. | X |  |  |  |
 |  |  | (c) Luz mal fixada. | X |  |  |
 |  |  | Risco muito sério de cair. |  | X |  |
 | 4.6.2. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | (a) Farol, cor emitida, posição, intensidade luminosa ou marcação não conforme com os requisitos (a). |  | X |  |
 |  |  | (b) Sistema não funciona de acordo com os requisitos (a). |  | X |  |
 | 4.6.3. Interruptores. | Inspeção visual e em funcionamento. | Interruptor não funciona de acordo com os requisitos (a). | X |  |  |
 |  |  | É possível ligar a luz de marcha atrás sem a marcha atrás estar engatada. |  | X |  |
-| 4.7. Luz da placa de matrícula da retaguarda | 4.7. Luz da placa de matrícula da retaguarda | 4.7. Luz da placa de matrícula da retaguarda | 4.7. Luz da placa de matrícula da retaguarda | 4.7. Luz da placa de matrícula da retaguarda | 4.7. Luz da placa de matrícula da retaguarda |
+| 4.7. Luz da placa de matrícula da retaguarda |  |  |  |  |  |
 | 4.7.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | (a) Lâmpada emite feixe luminoso direto ou luz branca para a retaguarda. | X |  |  |
 |  |  | (b) Fonte luminosa defeituosa (Fontes luminosas múltiplas). | X |  |  |
 |  |  | Fonte luminosa defeituosa (Fonte luminosa única). |  | X |  |
 |  |  | (c) Luz mal fixada. | X |  |  |
 |  |  | Risco muito sério de cair. |  | X |  |
 | 4.7.2. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | Sistema não funciona de acordo com os requisitos (a). | X |  |  |
-| 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda | 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda | 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda | 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda | 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda | 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda |
+| 4.8. Retrorrefletores, marcações (retrorrefletoras) de conspicuidade e placas indicadoras à retaguarda |  |  |  |  |  |
 | 4.8.1. Estado. | Inspeção visual. | (a) Equipamento refletor defeituoso ou danificado. | X |  |  |
 |  |  | Reflexão afetada. |  | X |  |
 |  |  | (b) Refletor mal fixado. | X |  |  |
 |  |  | Em risco de cair. |  | X |  |
 | 4.8.2. Cumprimento dos requisitos (a). | Inspeção visual. | Dispositivo, cor refletida ou posição não conforme com os requisitos (a). | X |  |  |
 |  |  | Dispositivo inexistente ou cor vermelha refletida para a frente ou cor branca refletida para a retaguarda. |  | X |  |
-| 4.9. Avisadores obrigatórios para o equipamento de iluminação | 4.9. Avisadores obrigatórios para o equipamento de iluminação | 4.9. Avisadores obrigatórios para o equipamento de iluminação | 4.9. Avisadores obrigatórios para o equipamento de iluminação | 4.9. Avisadores obrigatórios para o equipamento de iluminação | 4.9. Avisadores obrigatórios para o equipamento de iluminação |
+| 4.9. Avisadores obrigatórios para o equipamento de iluminação |  |  |  |  |  |
 | 4.9.1. Estado e funcionamento. | Inspeção visual e em funcionamento. | Não funcionam. | X |  |  |
-| 4.9.1. Estado e funcionamento. |  | Não funcionam para os máximos ou para a luz de nevoeiro traseira. |  | X |  |
+|  | Não funcionam para os máximos ou para a luz de nevoeiro traseira. |  | X |  |  |
 | 4.9.2. Cumprimento dos requisitos (a). | Inspeção visual e em funcionamento. | Não conformes com os requisitos (a). | X |  |  |
 | 4.10. Ligações elétricas entre o veículo trator e o reboque ou semirreboque. | Inspeção visual (se possível, examinar a continuidade elétrica da ligação). | (a) Componentes fixos mal fixados. | X |  |  |
-| 4.10. Ligações elétricas entre o veículo trator e o reboque ou semirreboque. | Inspeção visual (se possível, examinar a continuidade elétrica da ligação). | Tomada solta. |  | X |  |
-| 4.10. Ligações elétricas entre o veículo trator e o reboque ou semirreboque. | Inspeção visual (se possível, examinar a continuidade elétrica da ligação). | (b) Isolamentos danificados ou deteriorados. | X |  |  |
+| Tomada solta. |  | X |  |  |  |
+| (b) Isolamentos danificados ou deteriorados. | X |  |  |  |  |
 |  |  | Risco de curto-circuitos. |  | X |  |
 |  |  | (c) Mau funcionamento das ligações elétricas do reboque ou do veículo trator. |  | X |  |
 |  |  | Luzes do travão do reboque totalmente inoperacionais. |  |  | X |
 | 4.11. Cablagem. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação, incluindo, em certos casos, no interior do compartimento do motor (se aplicável). | (a) Cablagem mal ou incorretamente fixada. | X |  |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação, incluindo, em certos casos, no interior do compartimento do motor (se aplicável). | Fixações soltas, contacto com arestas vivas, ligações em risco de se desligarem. |  | X |  |
+|  | Fixações soltas, contacto com arestas vivas, ligações em risco de se desligarem. |  | X |  |  |
 |  |  | Cablagem em risco de tocar em peças quentes ou em rotação ou no chão, ligações desligadas (peças relacionadas com a travagem ou com a direção). |  |  | X |
 |  |  | (b) Cablagem ligeiramente deteriorada. | X |  |  |
 |  |  | Cablagem fortemente deteriorada. |  | X |  |
@@ -639,37 +655,37 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (c) Interruptor (se exigido) defeituoso. |  | X |  |
 |  |  | (d) Fusíveis (se exigidos) defeituosos. |  | X |  |
 |  |  | (e) Ventilação (se exigida) inadequada. |  | X |  |
-| 5. Eixos, rodas, pneus e suspensão | 5. Eixos, rodas, pneus e suspensão | 5. Eixos, rodas, pneus e suspensão | 5. Eixos, rodas, pneus e suspensão | 5. Eixos, rodas, pneus e suspensão | 5. Eixos, rodas, pneus e suspensão |
-| 5.1. Eixos | 5.1. Eixos | 5.1. Eixos | 5.1. Eixos | 5.1. Eixos | 5.1. Eixos |
+| 5. Eixos, rodas, pneus e suspensão |  |  |  |  |  |
+| 5.1. Eixos |  |  |  |  |  |
 | 5.1.1. Eixos. | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada a utilização de detetores de folgas em rodas sempre que possível e para veículos com massa máxima superior a 3,5 t. | (a) Eixo fraturado ou deformado. |  |  | X |
-| 5.1.1. Eixos. | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada a utilização de detetores de folgas em rodas sempre que possível e para veículos com massa máxima superior a 3,5 t. | (b) Má fixação ao veículo. |  | X |  |
-| 5.1.1. Eixos. | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada a utilização de detetores de folgas em rodas sempre que possível e para veículos com massa máxima superior a 3,5 t. | Estabilidade comprometida, funcionamento afetado: folga excessiva em relação às fixações. |  |  | X |
+| (b) Má fixação ao veículo. |  | X |  |  |  |
+| Estabilidade comprometida, funcionamento afetado: folga excessiva em relação às fixações. |  |  | X |  |  |
 |  |  | (c) Modificação insegura (c). |  | X |  |
 |  |  | Estabilidade comprometida, funcionamento afetado, insuficiente espaço livre em relação a outras partes do veículo ou ao chão. |  |  | X |
 | 5.1.2. Mangas de eixo. | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. Aplicar uma força vertical ou lateral a cada roda e registar o movimento entre o eixo e a manga de eixo. | (a) Manga de eixo fraturada. |  |  | X |
-|  | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. Aplicar uma força vertical ou lateral a cada roda e registar o movimento entre o eixo e a manga de eixo. | (b) Desgaste excessivo da cavilha e/ou dos casquilhos. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou um mecanismo de elevação. É recomendada utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. Aplicar uma força vertical ou lateral a cada roda e registar o movimento entre o eixo e a manga de eixo. | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |
+|  | (b) Desgaste excessivo da cavilha e/ou dos casquilhos. |  | X |  |  |
+|  | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |  |
 |  |  | (c) Movimento excessivo entre a manga de eixo e o eixo. |  | X |  |
 |  |  | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |
 |  |  | (d) Cavilha da manga de eixo mal fixada. |  | X |  |
 |  |  | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |
 | 5.1.3. Rolamentos das rodas. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. Fazer oscilar a roda ou aplicar-lhe uma força lateral e registar o movimento ascendente da roda em relação à manga de eixo. | (a) Folga excessiva num rolamento. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. Fazer oscilar a roda ou aplicar-lhe uma força lateral e registar o movimento ascendente da roda em relação à manga de eixo. | Estabilidade direcional comprometida; perigo de desmontagem. |  |  | X |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. Fazer oscilar a roda ou aplicar-lhe uma força lateral e registar o movimento ascendente da roda em relação à manga de eixo. | (b) Rolamento demasiado apertado ou encravado. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. Fazer oscilar a roda ou aplicar-lhe uma força lateral e registar o movimento ascendente da roda em relação à manga de eixo. | Perigo de sobreaquecimento; perigo de desmontagem. |  |  | X |
-| 5.2. Rodas e pneus | 5.2. Rodas e pneus | 5.2. Rodas e pneus | 5.2. Rodas e pneus | 5.2. Rodas e pneus | 5.2. Rodas e pneus |
+|  | Estabilidade direcional comprometida; perigo de desmontagem. |  |  | X |  |
+|  | (b) Rolamento demasiado apertado ou encravado. |  | X |  |  |
+|  | Perigo de sobreaquecimento; perigo de desmontagem. |  |  | X |  |
+| 5.2. Rodas e pneus |  |  |  |  |  |
 | 5.2.1. Cubo da roda. | Inspeção visual. | (a) Porcas ou pernos das rodas inexistentes ou mal apertados. |  | X |  |
 |  |  | Fixação inexistente ou mal apertada de tal modo que afeta seriamente a segurança rodoviária. |  |  | X |
 |  |  | (b) Cubo gasto ou danificado. |  | X |  |
 |  |  | Cubo gasto ou danificado de um modo que afeta a segurança da fixação das rodas. |  |  | X |
 | 5.2.2. Rodas. | Inspeção visual de ambos os lados de cada roda com o veículo sobre uma fossa ou num mecanismo de elevação. | (a) Fraturas ou defeitos de soldadura. |  |  | X |
-|  | Inspeção visual de ambos os lados de cada roda com o veículo sobre uma fossa ou num mecanismo de elevação. | (b) Anéis de retenção dos pneus mal montados. |  | X |  |
+|  | (b) Anéis de retenção dos pneus mal montados. |  | X |  |  |
 |  |  | Risco de saírem. |  |  | X |
 |  |  | (c) Roda fortemente deformada ou gasta. |  | X |  |
 |  |  | Segurança da fixação no cubo afetada; segurança da fixação do pneu afetada. |  |  | X |
 |  |  | (d) Dimensões, compatibilidade ou tipo de roda não conformes com os requisitos (a) e que afetam a segurança rodoviária. |  | X |  |
 | 5.2.3. Pneus. | Inspeção visual de todo o pneu, fazendo girar a roda numa posição suspensa, com o veículo sobre uma fossa ou num mecanismo de elevação, ou fazendo avançar e recuar o veículo sobre uma fossa. | (a) Dimensão, capacidade de carga, marca de homologação ou categoria de velocidade dos pneus não conformes com os requisitos (a) e que afetam a segurança rodoviária. |  | X |  |
-|  | Inspeção visual de todo o pneu, fazendo girar a roda numa posição suspensa, com o veículo sobre uma fossa ou num mecanismo de elevação, ou fazendo avançar e recuar o veículo sobre uma fossa. | Capacidade de carga ou categoria de velocidade insuficiente para a utilização efetiva; o pneu toca partes fixas do veículo, comprometendo a segurança da condução. |  |  | X |
+|  | Capacidade de carga ou categoria de velocidade insuficiente para a utilização efetiva; o pneu toca partes fixas do veículo, comprometendo a segurança da condução. |  |  | X |  |
 |  |  | (b) Pneus de dimensões diferentes no mesmo eixo ou num rodado duplo. |  | X |  |
 |  |  | (c) Pneus de construção diferente (radial/diagonal) no mesmo eixo. |  | X |  |
 |  |  | (d) Pneu com grandes danos ou cortes. |  | X |  |
@@ -682,36 +698,36 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Camadas de proteção das telas afetadas. |  |  | X |
 |  |  | (h) Sistema de monitorização da pressão dos pneus a funcionar mal ou pneu obviamente pouco cheio. | X |  |  |
 |  |  | Claramente inoperacional. |  | X |  |
-| 5.3. Sistema de suspensão | 5.3. Sistema de suspensão | 5.3. Sistema de suspensão | 5.3. Sistema de suspensão | 5.3. Sistema de suspensão | 5.3. Sistema de suspensão |
+| 5.3. Sistema de suspensão |  |  |  |  |  |
 | 5.3.1. Molas e estabilizador. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Recomenda-se a utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. | (a) Molas mal fixadas no quadro ou no eixo. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Recomenda-se a utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. | Movimento relativo visível; fixações demasiado soltas. |  |  | X |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Recomenda-se a utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. | (b) Componente de mola danificado ou fraturado. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Recomenda-se a utilização de detetores de folgas em rodas para veículos com massa máxima superior a 3,5 t. | Mola (folha) principal ou outras folhas muito seriamente afetadas. |  |  | X |
+|  | Movimento relativo visível; fixações demasiado soltas. |  |  | X |  |
+|  | (b) Componente de mola danificado ou fraturado. |  | X |  |  |
+|  | Mola (folha) principal ou outras folhas muito seriamente afetadas. |  |  | X |  |
 |  |  | (c) Mola inexistente. |  | X |  |
 |  |  | Mola (folha) principal ou outras folhas muito seriamente afetadas. |  |  | X |
 |  |  | (d) Modificação insegura (c). |  | X |  |
 |  |  | Espaço livre insuficiente em relação a outras partes do veículo; sistema de molas inoperacional. |  |  | X |
 | 5.3.2. Amortecedores. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação ou utilizando equipamento específico, se disponível. | (a) Amortecedores mal fixados no quadro ou no eixo. | X |  |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação ou utilizando equipamento específico, se disponível. | Amortecedores soltos. |  | X |  |
+|  | Amortecedores soltos. |  | X |  |  |
 |  |  | (b) Amortecedor danificado, mostrando sinais de grande fuga de óleo ou de mau funcionamento. |  | X |  |
 | 5.3.2.1. Ensaio de eficiência do amortecimento (X) (b). | Utilizar equipamento específico e comparar os resultados obtidos entre os lados esquerdo e direito. | (a) Diferença significativa entre os lados esquerdo e direito. |  | X |  |
-| 5.3.2.1. Ensaio de eficiência do amortecimento (X) (b). | Utilizar equipamento específico e comparar os resultados obtidos entre os lados esquerdo e direito. | (b) Eficiência de amortecimento inferior aos valores mínimos indicados. |  | X |  |
+| (b) Eficiência de amortecimento inferior aos valores mínimos indicados. |  | X |  |  |  |
 | 5.3.3. Tubos de torção, tensores, forquilhas e braços da suspensão. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. | (a) Componentes mal fixados no quadro ou no eixo. |  | X |  |
-| 5.3.3. Tubos de torção, tensores, forquilhas e braços da suspensão. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas para veículos com massa máxima superior a 3,5 t. | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |
+| Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |  |  |
 |  |  | (b) Componentes danificados ou excessivamente corroídos. |  | X |  |
 |  |  | Estabilidade do componente afetada ou componente fraturado. |  |  | X |
 |  |  | (c) Modificação insegura (c). |  | X |  |
 |  |  | Espaço livre insuficiente em relação a outras partes do veículo; sistema inoperacional. |  |  | X |
 | 5.3.4. Articulações da suspensão. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas em veículos com massa máxima superior a 3,5 t. | (a) Desgaste excessivo da cavilha e/ou dos casquilhos ou das articulações da suspensão. |  | X |  |
-|  | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. É recomendada a utilização de detetores de folgas em veículos com massa máxima superior a 3,5 t. | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |
+|  | Em risco de se soltarem; estabilidade direcional comprometida. |  |  | X |  |
 |  |  | (b) Guarda-pó muito deteriorado. | X |  |  |
 |  |  | Guarda-pó inexistente ou com rotura. |  | X |  |
 | 5.3.5. Suspensão pneumática. | Inspeção visual. | (a) Sistema inoperacional. |  |  | X |
 |  |  | (b) Componentes danificados, modificados ou deteriorados de um modo que afeta negativamente o funcionamento do sistema. |  | X |  |
 |  |  | Funcionamento do sistema seriamente afetado. |  |  | X |
 |  |  | (c) Fuga audível no sistema. |  | X |  |
-| 6. Quadro e acessórios do quadro | 6. Quadro e acessórios do quadro | 6. Quadro e acessórios do quadro | 6. Quadro e acessórios do quadro | 6. Quadro e acessórios do quadro | 6. Quadro e acessórios do quadro |
-| 6.1. Quadro (ou estrutura) e acessórios do quadro | 6.1. Quadro (ou estrutura) e acessórios do quadro | 6.1. Quadro (ou estrutura) e acessórios do quadro | 6.1. Quadro (ou estrutura) e acessórios do quadro | 6.1. Quadro (ou estrutura) e acessórios do quadro | 6.1. Quadro (ou estrutura) e acessórios do quadro |
+| 6. Quadro e acessórios do quadro |  |  |  |  |  |
+| 6.1. Quadro (ou estrutura) e acessórios do quadro |  |  |  |  |  |
 | 6.1.1. Estado geral. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. | (a) Ligeira fratura ou deformação de uma longarina ou travessa. |  | X |  |
 |  |  | Grande fratura ou deformação de uma longarina ou travessa. |  |  | X |
 |  |  | (b) Chapas de reforço ou fixações soltas. |  | X |  |
@@ -719,25 +735,25 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (c) Corrosão excessiva que afeta a rigidez da montagem. |  | X |  |
 |  |  | Peças pouco resistentes. |  |  | X |
 | 6.1.2. Tubos de escape e silenciadores. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. | (a) Sistema de escape mal fixado ou com fugas. |  | X |  |
-| 6.1.2. Tubos de escape e silenciadores. | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. | (b) Entrada de gases de escape na cabina ou no habitáculo. |  | X |  |
+| (b) Entrada de gases de escape na cabina ou no habitáculo. |  | X |  |  |  |
 |  |  | Perigo para a saúde de passageiros. |  |  | X |
 | 6.1.3. Depósito e tubagens de combustível (incluindo o seu aquecimento). | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Utilização de dispositivos de deteção de fugas no caso dos sistemas GPL/GNC/GNL). | (a) Depósito ou tubagens mal fixados gerador de risco de incêndio. |  |  | X |
-| 6.1.3. Depósito e tubagens de combustível (incluindo o seu aquecimento). | Inspeção visual com o veículo sobre uma fossa ou num mecanismo de elevação. Utilização de dispositivos de deteção de fugas no caso dos sistemas GPL/GNC/GNL). | (b) Fuga de combustível ou tampão do bocal de enchimento inexistente ou ineficaz. |  | X |  |
+| (b) Fuga de combustível ou tampão do bocal de enchimento inexistente ou ineficaz. |  | X |  |  |  |
 |  |  | Risco de incêndio; perda excessiva de matérias perigosas. |  |  | X |
 |  |  | (c) Tubagens com sinais de fricção. | X |  |  |
 |  |  | Tubagens danificadas. |  | X |  |
 |  |  | (d) Mau funcionamento da válvula de corte de combustível (se exigida). |  | X |  |
-|  |  | (e) Risco de incêndio devido a: - Fuga de combustível. - Depósito de combustível ou escape mal protegido. - Estado do compartimento do motor. |  |  | X |
+|  |  | (e) Risco de incêndio devido a:<br>- Fuga de combustível.<br>- Depósito de combustível ou escape mal protegido.<br>- Estado do compartimento do motor. |  |  | X |
 |  |  | (f) Sistema de GPL/GNC/GNL ou de hidrogénio não conforme com os requisitos, componentes do sistema defeituosos (a). |  |  | X |
 | 6.1.4 - Para-choques, proteções laterais e dispositivos de proteção à retaguarda antiencastramento. | Inspeção visual. | (a) Má fixação ou danos passíveis de causar lesões mediante contacto. |  | X |  |
-| 6.1.4 - Para-choques, proteções laterais e dispositivos de proteção à retaguarda antiencastramento. |  | Risco de queda de peças; funcionalidade fortemente afetada. |  |  | X |
+|  | Risco de queda de peças; funcionalidade fortemente afetada. |  |  | X |  |
 |  |  | (b) Dispositivo claramente não conforme com os requisitos (a). |  | X |  |
 | 6.1.5. Suporte de roda de reserva (se montado). | Inspeção visual. | (a) Suporte em mau estado. | X |  |  |
-| 6.1.5. Suporte de roda de reserva (se montado). | Inspeção visual. | (b) Suporte fraturado ou mal fixado. |  | X |  |
-| 6.1.5. Suporte de roda de reserva (se montado). | Inspeção visual. | (c) Roda de reserva mal fixada no suporte. |  | X |  |
+| (b) Suporte fraturado ou mal fixado. |  | X |  |  |  |
+| (c) Roda de reserva mal fixada no suporte. |  | X |  |  |  |
 |  |  | Risco muito sério de cair. |  |  | X |
 | 6.1.6. Engate mecânico e dispositivo de reboque. | Inspeção visual do desgaste e do funcionamento correto, dando especial atenção aos dispositivos de segurança montados, e/ou utilização de instrumentos de medição. | (a) Componentes danificados, defeituosos ou fissurados (se não estiverem a ser utilizados). |  | X |  |
-|  | Inspeção visual do desgaste e do funcionamento correto, dando especial atenção aos dispositivos de segurança montados, e/ou utilização de instrumentos de medição. | Componentes danificados, defeituosos ou fissurados (se estiverem a ser utilizados). |  |  | X |
+|  | Componentes danificados, defeituosos ou fissurados (se estiverem a ser utilizados). |  |  | X |  |
 |  |  | (b) Componentes com desgaste excessivo. |  | X |  |
 |  |  | Desgaste abaixo do limite. |  |  | X |
 |  |  | (c) Má fixação. |  | X |  |
@@ -764,10 +780,10 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Guarda-pó inexistente ou fraturada. |  | X |  |
 |  |  | (h) Modificação não regulamentar do conjunto propulsor. |  | X |  |
 | 6.1.8. Apoios do motor. | Inspeção visual, não necessariamente sobre uma fossa ou num mecanismo de elevação. | (a) Apoios deteriorados, clara e gravemente danificados. |  | X |  |
-|  | Inspeção visual, não necessariamente sobre uma fossa ou num mecanismo de elevação. | (b) Apoios mal fixados ou fraturados. |  |  | X |
+|  | (b) Apoios mal fixados ou fraturados. |  |  | X |  |
 | 6.1.9. Desempenho do motor (X) (b). | Inspeção visual e/ou utilizando o interface eletrónico (OBD). | (a) Modificação da unidade de controlo que afeta a segurança e/ou o ambiente. |  | X |  |
 |  |  | (b) Modificação do motor que afeta a segurança e/ou o ambiente. |  |  | X |
-| 6.2. Cabina e carroçaria | 6.2. Cabina e carroçaria | 6.2. Cabina e carroçaria | 6.2. Cabina e carroçaria | 6.2. Cabina e carroçaria | 6.2. Cabina e carroçaria |
+| 6.2. Cabina e carroçaria |  |  |  |  |  |
 | 6.2.1. Estado. | Inspeção visual. | (a) Painel ou peça mal fixado ou danificado, passível de causar lesões. |  | X |  |
 |  |  | Em risco de cair. |  |  | X |
 |  |  | (b) Pilar da carroçaria mal fixado. |  | X |  |
@@ -777,7 +793,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) Modificação insegura (c). |  | X |  |
 |  |  | Espaço livre insuficiente entre peças em rotação ou móveis e a estrada. |  |  | X |
 | 6.2.2. Fixação. | Inspeção visual sobre uma fossa ou num mecanismo de elevação. | (a) Carroçaria ou cabina mal fixada. |  | X |  |
-|  | Inspeção visual sobre uma fossa ou num mecanismo de elevação. | Estabilidade afetada. |  |  | X |
+|  | Estabilidade afetada. |  |  | X |  |
 |  |  | (b) Carroçaria/cabina claramente desenquadrada do quadro. |  | X |  |
 |  |  | (c) Má fixação ou fixação inexistente da carroçaria/cabina ao quadro ou às travessas e em caso de simetria. |  | X |  |
 |  |  | Má fixação ou fixação inexistente da carroçaria/cabina ao quadro ou às travessas de modo a pôr seriamente em risco a segurança rodoviária. |  |  | X |
@@ -789,7 +805,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (c) Portas, dobradiças, fechos ou pilares deteriorados. | X |  |  |
 |  |  | Portas, dobradiças, fechos ou pilares inexistentes ou mal fixados. |  | X |  |
 | 6.2.4. Piso. | Inspeção visual sobre uma fossa ou num mecanismo de elevação. | (a) Piso mal fixado ou muito deteriorado. |  | X |  |
-|  | Inspeção visual sobre uma fossa ou num mecanismo de elevação. | (b) Estabilidade insuficiente. |  |  | X |
+|  | (b) Estabilidade insuficiente. |  |  | X |  |
 | 6.2.5. Banco do condutor. | Inspeção visual. | (a) Banco com estrutura defeituosa. |  | X |  |
 |  |  | Banco mal fixado. |  |  | X |
 |  |  | (b) Mecanismo de regulação não funciona corretamente. |  | X |  |
@@ -804,12 +820,12 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Estabilidade insuficiente. |  | X |  |
 |  |  | (b) Degrau ou estribo num estado passível de causar lesões aos utilizadores. |  | X |  |
 | 6.2.9. Outros acessórios e equipamentos (interiores e exteriores). | Inspeção visual. | (a) Má fixação de outros acessórios ou equipamentos. |  | X |  |
-| 6.2.9. Outros acessórios e equipamentos (interiores e exteriores). |  | (b) Outros acessórios ou equipamentos não conformes com os requisitos (a). | X |  |  |
+|  | (b) Outros acessórios ou equipamentos não conformes com os requisitos (a). | X |  |  |  |
 |  |  | Risco de peças montadas causarem lesões; segurança de funcionamento afetada. |  | X |  |
 |  |  | (c) Equipamento hidráulico com fugas. | X |  |  |
 |  |  | Perda importante de matérias perigosas. |  | X |  |
 | 6.2.10. Guarda-lamas (abas), dispositivos antiprojeção. | Inspeção visual. | (a) Inexistentes, mal fixados ou muito corroídos. | X |  |  |
-| 6.2.10. Guarda-lamas (abas), dispositivos antiprojeção. |  | Risco de lesões; em risco de cair. |  | X |  |
+|  | Risco de lesões; em risco de cair. |  | X |  |  |
 |  |  | (b) Espaço livre insuficiente em relação à roda (dispositivos antiprojeção). | X |  |  |
 |  |  | Espaço livre insuficiente em relação à roda (guarda-lamas). |  | X |  |
 |  |  | (c) Não conforme com os requisitos (a). | X |  |  |
@@ -818,12 +834,12 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (b) Não conforme com os requisitos (a). |  | X |  |
 |  |  | (c) Risco de se soltar com o veículo em movimento. |  |  | X |
 | 6.2.12. Punhos e apoios dos pés. | Inspeção visual. | (a) Inexistentes, mal fixados ou muito corroídos. |  | X |  |
-| 6.2.12. Punhos e apoios dos pés. |  | (b) Não conformes com os requisitos (a). |  | X |  |
-| 7. Outros equipamentos | 7. Outros equipamentos | 7. Outros equipamentos | 7. Outros equipamentos | 7. Outros equipamentos | 7. Outros equipamentos |
-| 7.1. Cintos de segurança, fechos e sistemas de retenção | 7.1. Cintos de segurança, fechos e sistemas de retenção | 7.1. Cintos de segurança, fechos e sistemas de retenção | 7.1. Cintos de segurança, fechos e sistemas de retenção | 7.1. Cintos de segurança, fechos e sistemas de retenção | 7.1. Cintos de segurança, fechos e sistemas de retenção |
+|  | (b) Não conformes com os requisitos (a). |  | X |  |  |
+| 7. Outros equipamentos |  |  |  |  |  |
+| 7.1. Cintos de segurança, fechos e sistemas de retenção |  |  |  |  |  |
 | 7.1.1. Segurança das fixações dos cintos de segurança/fecho. | Inspeção visual. | (a) Pontos de fixação muito deteriorados. |  | X |  |
-| 7.1.1. Segurança das fixações dos cintos de segurança/fecho. |  | Estabilidade afetada. |  |  | X |
-| 7.1.1. Segurança das fixações dos cintos de segurança/fecho. |  | (b) Fixação solta. |  | X |  |
+|  | Estabilidade afetada. |  |  | X |  |
+|  | (b) Fixação solta. |  | X |  |  |
 | 7.1.2. Estado dos cintos de segurança/fecho. | Inspeção visual e em funcionamento. | (a) Cinto de segurança obrigatório inexistente ou não montado. |  | X |  |
 |  |  | (b) Cinto de segurança danificado. | X |  |  |
 |  |  | Cortes ou sinais de estiramento. |  | X |  |
@@ -846,7 +862,7 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (b) Com funcionamento defeituoso. |  | X |  |
 |  |  | Trancamento ou bloqueio acidental. |  |  | X |
 | 7.4. Triângulo de pré-sinalização (se exigido) (X) (b). | Inspeção visual. | (a) Inexistente ou incompleto. | X |  |  |
-| 7.4. Triângulo de pré-sinalização (se exigido) (X) (b). |  | (b) Não conforme com os requisitos (a). | X |  |  |
+|  | (b) Não conforme com os requisitos (a). | X |  |  |  |
 | 7.5. Caixa de primeiros socorros (se exigida) (X) (b). | Inspeção visual. | Inexistente, incompleta ou não conforme com os requisitos (a). | X |  |  |
 | 7.6. Calços (cunhas) de rodas (se exigidos) (X) (b). | Inspeção visual. | Inexistentes ou em mau estado, estabilidade ou dimensão insuficiente. |  | X |  |
 | 7.7. Avisador sonoro. | Inspeção visual e em funcionamento. | (a) A funcionar mal. | X |  |  |
@@ -855,19 +871,19 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) Não conforme com os requisitos (a). | X |  |  |
 |  |  | (e) Som emitido suscetível de ser confundido com sirenes das autoridades. |  | X |  |
 | 7.8. Velocímetro. | Inspeção visual ou em funcionamento durante ensaio em estrada, ou com meios eletrónicos. | (a) Não montado de acordo com os requisitos (a). | X |  |  |
-|  | Inspeção visual ou em funcionamento durante ensaio em estrada, ou com meios eletrónicos. | (b) Inexistente (se exigido). |  | X |  |
+|  | (b) Inexistente (se exigido). |  | X |  |  |
 |  |  | (c) Funcionamento deficiente. | X |  |  |
 |  |  | (d) Totalmente inoperacional. |  | X |  |
 |  |  | (e) Iluminação insuficiente. | X |  |  |
 |  |  | (f) Sem nenhuma iluminação. |  | X |  |
 | 7.9. Tacógrafo (se montado/exigido). | Inspeção visual. | (a) Não montado de acordo com os requisitos (a). |  | X |  |
-| 7.9. Tacógrafo (se montado/exigido). | Inspeção visual. | (b) Inoperacional. |  | X |  |
+| (b) Inoperacional. |  | X |  |  |  |
 |  |  | (c) Selos defeituosos ou inexistentes. |  | X |  |
 |  |  | (d) Placa de verificação inexistente, ilegível ou desatualizada. |  | X |  |
 |  |  | (e) Interferência ou manipulação clara. |  | X |  |
 |  |  | (f) Tamanho dos pneus incompatível com os parâmetros de verificação. |  | X |  |
 | 7.10. Dispositivo de limitação de velocidade (se instalado/exigido). | Inspeção visual e em funcionamento, se houver equipamento disponível. | (a) Não instalado de acordo com os requisitos (a). |  | X |  |
-| 7.10. Dispositivo de limitação de velocidade (se instalado/exigido). | Inspeção visual e em funcionamento, se houver equipamento disponível. | (b) Claramente inoperacional. |  | X |  |
+| (b) Claramente inoperacional. |  | X |  |  |  |
 |  |  | (c) Velocidade programada incorreta (se verificada). |  | X |  |
 |  |  | (d) Selos defeituosos ou inexistentes. |  | X |  |
 |  |  | (e) Placa inexistente ou ilegível. |  | X |  |
@@ -875,64 +891,64 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 | 7.11. Conta-quilómetros, se disponível (X) (b). | Inspeção visual e/ou via o interface eletrónico (OBD). | (a) Claramente manipulado (fraude) para reduzir ou falsear o registo da distância percorrida. |  | X |  |
 |  |  | (b) Claramente inoperacional. |  | X |  |
 | 7.12. Controlo eletrónico de estabilidade (ESC), se instalado/exigida. | Inspeção visual e/ou via o interface eletrónico (OBD). | (a) Sensores de velocidade das rodas inexistentes ou danificados. |  | X |  |
-| 7.12. Controlo eletrónico de estabilidade (ESC), se instalado/exigida. |  | (b) Cablagens danificadas. |  | X |  |
+|  | (b) Cablagens danificadas. |  | X |  |  |
 |  |  | (c) Outros componentes inexistentes ou danificados. |  | X |  |
 |  |  | (d) Interruptor danificado ou com funcionamento incorreto. |  | X |  |
 |  |  | (e) Indicador de mau funcionamento do sistema ESC indica falha. |  | X |  |
 |  |  | (f) O sistema indica falha através do interface eletrónico do veículo (OBD). |  | X |  |
-| 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) | 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) | 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) | 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) | 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) | 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) |
-| 7.13.1. Instalação e configuração. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico. Em nenhum dos casos se realizará uma chamada de teste. | (a) Sistema ou componente inexistente. |  | X |  |
-| 7.13.1. Instalação e configuração. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico. Em nenhum dos casos se realizará uma chamada de teste. | (b) Versão do software incorreta. | X |  |  |
-| 7.13.1. Instalação e configuração. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico. Em nenhum dos casos se realizará uma chamada de teste. | (c) Codificação incorreta do sistema. | X |  |  |
+| 7.13. eCall (se instalado, em conformidade com a legislação da UE em matéria de homologação) |  |  |  |  |  |
+| 7.13.1. Instalação e configuração. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico.<br>Em nenhum dos casos se realizará uma chamada de teste. | (a) Sistema ou componente inexistente. |  | X |  |
+| (b) Versão do software incorreta. | X |  |  |  |  |
+| (c) Codificação incorreta do sistema. | X |  |  |  |  |
 | 7.13.2. Condição. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso a uma interface eletrónica. Em nenhum dos casos se realizará uma chamada de teste. | (a) Sistema ou componentes danificados. | X |  |  |
-|  | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso a uma interface eletrónica. Em nenhum dos casos se realizará uma chamada de teste. | (b) eCall MIL indica qualquer tipo de falha do sistema. | X |  |  |
-|  | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso a uma interface eletrónica. Em nenhum dos casos se realizará uma chamada de teste. | (c) Avaria da unidade de controlo eletrónico do eCall. | X |  |  |
+|  | (b) eCall MIL indica qualquer tipo de falha do sistema. | X |  |  |  |
+|  | (c) Avaria da unidade de controlo eletrónico do eCall. | X |  |  |  |
 |  |  | (d) Falha do dispositivo de comunicação da rede móvel. | X |  |  |
 |  |  | (e) Falha do sinal GPS. | X |  |  |
 |  |  | (f) Componentes áudio não ligados. | X |  |  |
 |  |  | (g) Fonte de alimentação não ligada ou carga insuficiente. | X |  |  |
 |  |  | (h) O sistema indica a falha através do interface eletrónico do veículo. | X |  |  |
-| 7.13.3. Desempenho. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico. Em nenhum dos casos se realizará uma chamada de teste. | (a) Conjunto mínimo de dados incorreto. | X |  |  |
-|  | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico. Em nenhum dos casos se realizará uma chamada de teste. | (b) Componentes áudio com deficiências de funcionamento. | X |  |  |
-| 8. Emissões | 8. Emissões | 8. Emissões | 8. Emissões | 8. Emissões | 8. Emissões |
-| 8.1. Ruído | 8.1. Ruído | 8.1. Ruído | 8.1. Ruído | 8.1. Ruído | 8.1. Ruído |
+| 7.13.3. Desempenho. | Inspeção visual complementada, sempre que possível, pelas características técnicas do veículo e sempre que sejam disponibilizados os dados necessários, com recurso ao interface eletrónico.<br>Em nenhum dos casos se realizará uma chamada de teste. | (a) Conjunto mínimo de dados incorreto. | X |  |  |
+|  | (b) Componentes áudio com deficiências de funcionamento. | X |  |  |  |
+| 8. Emissões |  |  |  |  |  |
+| 8.1. Ruído |  |  |  |  |  |
 | 8.1.1. Sistema de supressão de ruído. | Avaliação subjetiva (exceto se o inspetor considerar que o nível de ruído está próximo do limite, caso em que pode ser medido o ruído com o veículo imobilizado utilizando um equipamento de medição do nível sonoro). | (a) Níveis de ruído superiores aos permitidos nos requisitos (a). |  | X |  |
 |  |  | (b) Componente do sistema de supressão de ruído mal fixado, danificado, mal montado, inexistente ou claramente modificado de um modo que afeta negativamente os níveis de ruído. |  | X |  |
 |  |  | Risco muito sério de cair. |  |  | X |
-| 8.2. Emissões de escape | 8.2. Emissões de escape | 8.2. Emissões de escape | 8.2. Emissões de escape | 8.2. Emissões de escape | 8.2. Emissões de escape |
-| 8.2.1. Emissões de motores de ignição comandada | 8.2.1. Emissões de motores de ignição comandada | 8.2.1. Emissões de motores de ignição comandada | 8.2.1. Emissões de motores de ignição comandada | 8.2.1. Emissões de motores de ignição comandada | 8.2.1. Emissões de motores de ignição comandada |
+| 8.2. Emissões de escape |  |  |  |  |  |
+| 8.2.1. Emissões de motores de ignição comandada |  |  |  |  |  |
 | 8.2.1.1. Equipamento de controlo das emissões de escape. | Inspeção visual. | (a) Equipamento de controlo das emissões instalado pelo fabricante inexistente, modificado ou claramente defeituoso. |  | X |  |
 |  |  | (b) Fugas passíveis de afetar a medição das emissões. |  | X |  |
-| 8.2.1.2. Emissões de gases. | - Para os veículos até à classe de emissão EURO 5 e Euro V (6): Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão Euro 6 e Euro VI (7): Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a). Medições não aplicáveis a motores a dois tempos. | (a) As emissões de gases excedem os níveis especificados pelo fabricante. |  | X |  |
-|  | - Para os veículos até à classe de emissão EURO 5 e Euro V (6): Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão Euro 6 e Euro VI (7): Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a). Medições não aplicáveis a motores a dois tempos. | (b) Ou, se estas informações não estiverem disponíveis, as emissões de CO são superiores a: |  | X |  |
-|  | - Para os veículos até à classe de emissão EURO 5 e Euro V (6): Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão Euro 6 e Euro VI (7): Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a). Medições não aplicáveis a motores a dois tempos. | Veículos não equipados com um sistema avançado de controlo das emissões, - 4,5 %, ou - 3,5 % |  |  |  |
-|  | - Para os veículos até à classe de emissão EURO 5 e Euro V (6): Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão Euro 6 e Euro VI (7): Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a). Medições não aplicáveis a motores a dois tempos. | de acordo com a data da primeira matrícula ou entrada em circulação especificada nos requisitos (a). |  |  |  |
-|  | - Para os veículos até à classe de emissão EURO 5 e Euro V (6): Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão Euro 6 e Euro VI (7): Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a). Medições não aplicáveis a motores a dois tempos. | ii) Veículos equipados com um sistema avançado de controlo das emissões, - Com o motor em marcha lenta: 0,5 % - Com o motor acelerado: 0,3 % ou |  |  |  |
-|  |  | - Com o motor em marcha lenta: 0,3 % (8) - Com o motor acelerado: 0,2 % |  |  |  |
+| 8.2.1.2. Emissões de gases. | - Para os veículos até à classe de emissão EURO 5 e Euro V (6):<br>Medição com um analisador de gases de escape de acordo com os requisitos (1) ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape, para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência e a legislação aplicável à homologação do veículo, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos.<br>- Para os veículos da classe de emissão Euro 6 e Euro VI (7):<br>Medição com um analisador de gases de escape de acordo com os requisitos (a) ou leitura do OBD, de acordo com as recomendações do construtor e outros requisitos (a).<br>Medições não aplicáveis a motores a dois tempos. | (a) As emissões de gases excedem os níveis especificados pelo fabricante. |  | X |  |
+|  | (b) Ou, se estas informações não estiverem disponíveis, as emissões de CO são superiores a: |  | X |  |  |
+|  | Veículos não equipados com um sistema avançado de controlo das emissões,<br>- 4,5 %, ou<br>- 3,5 % |  |  |  |  |
+|  | de acordo com a data da primeira matrícula ou entrada em circulação especificada nos requisitos (a). |  |  |  |  |
+|  | ii) Veículos equipados com um sistema avançado de controlo das emissões,<br>- Com o motor em marcha lenta: 0,5 %<br>- Com o motor acelerado: 0,3 % ou |  |  |  |  |
+|  |  | - Com o motor em marcha lenta: 0,3 % (8)<br>- Com o motor acelerado: 0,2 % |  |  |  |
 |  |  | i) De acordo com a data da primeira matrícula ou entrada em circulação especificada nos requisitos (a). |  |  |  |
 |  |  | (c) Valor de lambda fora do intervalo 1(mais ou menos)0,03 ou não conforme com as especificações do fabricante. |  | X |  |
 |  |  | (d) Leitura do dispositivo OBD indica mau funcionamento significativo. |  | X |  |
-| 8.2.2. Emissões de motores de ignição por compressão | 8.2.2. Emissões de motores de ignição por compressão | 8.2.2. Emissões de motores de ignição por compressão | 8.2.2. Emissões de motores de ignição por compressão | 8.2.2. Emissões de motores de ignição por compressão | 8.2.2. Emissões de motores de ignição por compressão |
+| 8.2.2. Emissões de motores de ignição por compressão |  |  |  |  |  |
 | 8.2.2.1. Equipamento de controlo das emissões de escape. | Inspeção visual. | (a) Equipamento de controlo das emissões instalado pelo fabricante inexistente ou claramente defeituoso. |  | X |  |
-| 8.2.2.1. Equipamento de controlo das emissões de escape. |  | (b) Fugas passíveis de afetar a medição das emissões. |  | X |  |
-| 8.2.2.2. Opacidade Os veículos matriculados ou que entraram em circulação antes de 1 de janeiro de 1980 estão isentos deste requisito. | - Para os veículos até à classe de emissão EURO 5 e EURO V (6): Medição da opacidade dos gases de escape em aceleração livre (sem carga, desde a velocidade de marcha lenta até à velocidade de corte), em ponto morto e com o pedal da embraiagem a fundo ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos. - Para os veículos da classe de emissão EURO 6/VI (9): | (a) No caso dos veículos matriculados ou que entraram em circulação pela primeira vez após a data especificada nos requisitos, a opacidade excede o nível indicado na placa afixada pelo construtor do veículo. |  | X |  |
+|  | (b) Fugas passíveis de afetar a medição das emissões. |  | X |  |  |
+| 8.2.2.2. Opacidade<br>Os veículos matriculados ou que entraram em circulação antes de 1 de janeiro de 1980 estão isentos deste requisito. | - Para os veículos até à classe de emissão EURO 5 e EURO V (6):<br>Medição da opacidade dos gases de escape em aceleração livre (sem carga, desde a velocidade de marcha lenta até à velocidade de corte), em ponto morto e com o pedal da embraiagem a fundo ou leitura do OBD. Por defeito, deve realizar-se o ensaio do tubo de escape para a avaliação da emissão de gases de escape. Tendo por base uma avaliação de equivalência, os Estados-Membros podem autorizar a utilização do OBD, de acordo com as recomendações do fabricante e outros requisitos.<br>- Para os veículos da classe de emissão EURO 6/VI (9): | (a) No caso dos veículos matriculados ou que entraram em circulação pela primeira vez após a data especificada nos requisitos, a opacidade excede o nível indicado na placa afixada pelo construtor do veículo. |  | X |  |
 |  | Medição da opacidade dos gases de escape em aceleração livre (sem carga, desde a velocidade de marcha lenta até à velocidade de corte), em ponto morto e com o pedal da embraiagem a fundo ou leitura do OBD, em conformidade com as recomendações do fabricante e outros requisitos (a). |  |  |  |  |
-|  | Precondicionamento do veículo: 1. Os veículos podem ser ensaiados sem precondicionamento, embora, por razões de segurança, se deva verificar se o motor está quente e num estado mecânico satisfatório. |  |  |  |  |
-|  | 2. Requisitos de pré-condicionamento: (i) O motor deve estar bem quente; por exemplo, a temperatura do óleo do motor, medida com uma sonda introduzida no tubo da vareta de medição do nível de óleo, deve ser de, pelo menos, 80ºC - ou a temperatura normal de funcionamento, caso esta seja inferior - ou a temperatura do bloco do motor, medida pelo nível da radiação infravermelha, deve ser, pelo menos, uma temperatura equivalente. Se, devido à configuração do veículo, essa medição for impraticável, a verificação da temperatura normal de funcionamento do motor pode ser efetuada por outros meios, por exemplo através do funcionamento da ventoinha de arrefecimento do motor. |  |  |  |  |
+|  | Precondicionamento do veículo:<br>1. Os veículos podem ser ensaiados sem precondicionamento, embora, por razões de segurança, se deva verificar se o motor está quente e num estado mecânico satisfatório. |  |  |  |  |
+|  | 2. Requisitos de pré-condicionamento:<br>(i) O motor deve estar bem quente; por exemplo, a temperatura do óleo do motor, medida com uma sonda introduzida no tubo da vareta de medição do nível de óleo, deve ser de, pelo menos, 80ºC - ou a temperatura normal de funcionamento, caso esta seja inferior - ou a temperatura do bloco do motor, medida pelo nível da radiação infravermelha, deve ser, pelo menos, uma temperatura equivalente. Se, devido à configuração do veículo, essa medição for impraticável, a verificação da temperatura normal de funcionamento do motor pode ser efetuada por outros meios, por exemplo através do funcionamento da ventoinha de arrefecimento do motor. |  |  |  |  |
 |  | (ii) O sistema de escape deve ser purgado durante, pelo menos, três ciclos de aceleração livre ou por um método equivalente. |  |  |  |  |
-|  |  | (b) Se esta informação não estiver disponível ou os requisitos (a) não permitirem a utilização de valores de referência, aplica-se: - Para motores com aspiração normal: 2.5 m(elevado a -1), - Para motores sobrealimentados: 3.0 m(elevado a -1), ou - Para os veículos identificados nos requisitos (a) ou matriculados ou que entraram em circulação pela primeira vez após a data especificada nos requisitos (a): |  | X |  |
-|  |  | 1.5 m(elevado a -1).(10) ou 0.7 m(elevado a -1) (11) |  |  |  |
-|  | Método de ensaio: 1 - O motor e qualquer dispositivo de sobrealimentação instalado devem estar em marcha lenta sem carga antes do início de cada ciclo de aceleração livre. Para isso, no caso dos motores diesel de grande capacidade, é necessário esperar, pelo menos, 10 segundos depois da libertação do acelerador. 2 - Para iniciar cada ciclo de aceleração livre, o pedal do acelerador deve ser totalmente premido rápida e continuamente (em menos de 1 segundo), mas não violentamente, de modo a obter o débito máximo da bomba de injeção. |  |  |  |  |
-|  | 3 - Durante cada ciclo de aceleração livre, o motor deve atingir a velocidade de corte - ou, no caso dos veículos com transmissões automáticas, a velocidade especificada pelo fabricante ou, se este dado não estiver disponível, dois terços da velocidade de corte - antes de se libertar o acelerador. Isto pode ser verificado, por exemplo, monitorizando o regime do motor ou deixando decorrer um período suficiente entre a depressão inicial e a libertação do acelerador - o qual, no caso dos veículos das categorias M(índice 2), M(índice 3), N(índice 2) ou N(índice 3), deve ser de, pelo menos, dois segundos. 4 - Um veículo só pode ser reprovado se a média aritmética de, pelo menos, os três últimos ciclos de aceleração livre for superior ao valor-limite. O cálculo pode ser efetuado ignorando as medições que se afastem significativamente da média medida; pode também utilizar-se o resultado de qualquer outro cálculo estatístico que tenha em conta a dispersão das medições. Os Estados-Membros podem limitar o número máximo de ciclos de ensaio. 5 - Para evitar ensaios desnecessários, os Estados-Membros podem reprovar veículos para os quais se tenham medido valores significativamente superiores aos valores-limite depois de menos de três ciclos de aceleração livre ou dos ciclos de purga. Ainda para evitar ensaios desnecessários, os Estados-Membros podem aprovar veículos para os quais se tenham medido valores significativamente inferiores aos valores-limite depois de menos de três ciclos de aceleração livre ou dos ciclos de purga. |  |  |  |  |
-| 8.3. Supressão de interferências eletromagnéticas | 8.3. Supressão de interferências eletromagnéticas | 8.3. Supressão de interferências eletromagnéticas | 8.3. Supressão de interferências eletromagnéticas | 8.3. Supressão de interferências eletromagnéticas | 8.3. Supressão de interferências eletromagnéticas |
+|  |  | (b) Se esta informação não estiver disponível ou os requisitos (a) não permitirem a utilização de valores de referência, aplica-se:<br>- Para motores com aspiração normal: 2.5 m(elevado a -1),<br>- Para motores sobrealimentados: 3.0 m(elevado a -1), ou<br>- Para os veículos identificados nos requisitos (a) ou matriculados ou que entraram em circulação pela primeira vez após a data especificada nos requisitos (a): |  | X |  |
+|  |  | 1.5 m(elevado a -1).(10) ou<br>0.7 m(elevado a -1) (11) |  |  |  |
+|  | Método de ensaio:<br>1 - O motor e qualquer dispositivo de sobrealimentação instalado devem estar em marcha lenta sem carga antes do início de cada ciclo de aceleração livre. Para isso, no caso dos motores diesel de grande capacidade, é necessário esperar, pelo menos, 10 segundos depois da libertação do acelerador.<br>2 - Para iniciar cada ciclo de aceleração livre, o pedal do acelerador deve ser totalmente premido rápida e continuamente (em menos de 1 segundo), mas não violentamente, de modo a obter o débito máximo da bomba de injeção. |  |  |  |  |
+|  | 3 - Durante cada ciclo de aceleração livre, o motor deve atingir a velocidade de corte - ou, no caso dos veículos com transmissões automáticas, a velocidade especificada pelo fabricante ou, se este dado não estiver disponível, dois terços da velocidade de corte - antes de se libertar o acelerador. Isto pode ser verificado, por exemplo, monitorizando o regime do motor ou deixando decorrer um período suficiente entre a depressão inicial e a libertação do acelerador - o qual, no caso dos veículos das categorias M(índice 2), M(índice 3), N(índice 2) ou N(índice 3), deve ser de, pelo menos, dois segundos.<br>4 - Um veículo só pode ser reprovado se a média aritmética de, pelo menos, os três últimos ciclos de aceleração livre for superior ao valor-limite. O cálculo pode ser efetuado ignorando as medições que se afastem significativamente da média medida; pode também utilizar-se o resultado de qualquer outro cálculo estatístico que tenha em conta a dispersão das medições. Os Estados-Membros podem limitar o número máximo de ciclos de ensaio.<br>5 - Para evitar ensaios desnecessários, os Estados-Membros podem reprovar veículos para os quais se tenham medido valores significativamente superiores aos valores-limite depois de menos de três ciclos de aceleração livre ou dos ciclos de purga. Ainda para evitar ensaios desnecessários, os Estados-Membros podem aprovar veículos para os quais se tenham medido valores significativamente inferiores aos valores-limite depois de menos de três ciclos de aceleração livre ou dos ciclos de purga. |  |  |  |  |
+| 8.3. Supressão de interferências eletromagnéticas |  |  |  |  |  |
 | Interferências radioelétricas (X) (b). |  | Incumprimento de qualquer requisito (a). | X |  |  |
-| 8.4. Outros itens relativos ao ambiente | 8.4. Outros itens relativos ao ambiente | 8.4. Outros itens relativos ao ambiente | 8.4. Outros itens relativos ao ambiente | 8.4. Outros itens relativos ao ambiente | 8.4. Outros itens relativos ao ambiente |
+| 8.4. Outros itens relativos ao ambiente |  |  |  |  |  |
 | 8.4.1. Fugas de fluidos. |  | Fuga de fluido excessiva, que não seja água, passível de prejudicar o ambiente ou de representar um risco de segurança para os outros utentes da via pública. |  |  |  |
 |  |  | Formação continua de pingos, o que constitui um risco muito sério. |  |  | X |
-| 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 | 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 | 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 | 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 | 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 | 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 |
-| 9.1. Portas | 9.1. Portas | 9.1. Portas | 9.1. Portas | 9.1. Portas | 9.1. Portas |
+| 9. Inspeções complementares aos veículos de transporte de passageiros das categorias M2 e M3 |  |  |  |  |  |
+| 9.1. Portas |  |  |  |  |  |
 | 9.1.1. Portas de entrada e de saída. | Inspeção visual e em funcionamento. | (a) Mau funcionamento. |  | X |  |
-| 9.1.1. Portas de entrada e de saída. |  | (b) Deterioração. | X |  |  |
+|  | (b) Deterioração. | X |  |  |  |
 |  |  | Risco de provocar lesões. |  | X |  |
 |  |  | (c) Comando de emergência defeituoso. |  | X |  |
 |  |  | (d) Telecomando de portas ou dispositivos de aviso defeituosos. |  | X |  |
@@ -945,25 +961,25 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (d) Não conformes com os requisitos (a). | X |  |  |
 |  |  | Largura insuficiente ou acesso bloqueado. |  | X |  |
 | 9.2. Sistema de desembaciamento e degelo (X) (b). | Inspeção visual e em funcionamento. | (a) Não funciona corretamente. | X |  |  |
-| 9.2. Sistema de desembaciamento e degelo (X) (b). |  | Afeta a utilização do veículo em condições de segurança. |  | X |  |
+|  | Afeta a utilização do veículo em condições de segurança. |  | X |  |  |
 |  |  | (b) Emissão de gases tóxicos ou de escape para o interior da cabina ou do habitáculo. |  | X |  |
 |  |  | Perigo para a saúde dos passageiros. |  |  | X |
 |  |  | (c) Degelo (se obrigatório) deficiente. |  | X |  |
 | 9.3. Sistema de ventilação e de aquecimento (X) (b). | Inspeção visual e em funcionamento. | (a) Mau funcionamento. | X |  |  |
-| 9.3. Sistema de ventilação e de aquecimento (X) (b). |  | Perigo para a saúde dos passageiros. |  | X |  |
+|  | Perigo para a saúde dos passageiros. |  | X |  |  |
 |  |  | (b) Emissão de gases tóxicos ou de escape para o interior da cabina ou do habitáculo. |  | X |  |
 |  |  | Perigo para a saúde dos passageiros. |  |  | X |
-| 9.4. Bancos | 9.4. Bancos | 9.4. Bancos | 9.4. Bancos | 9.4. Bancos | 9.4. Bancos |
+| 9.4. Bancos |  |  |  |  |  |
 | 9.4.1. Bancos de passageiros (incluindo bancos para tripulantes). | Inspeção visual. | Bancos rebatíveis (se autorizados) sem funcionamento automático. | X |  |  |
-| 9.4.1. Bancos de passageiros (incluindo bancos para tripulantes). |  | Bloqueio de uma saída de emergência. |  | X |  |
+|  | Bloqueio de uma saída de emergência. |  | X |  |  |
 | 9.4.2. Banco do condutor (requisitos suplementares). | Inspeção visual. | (a) Dispositivos especiais (como proteção ou cortina antiencandeamento) defeituosos. | X |  |  |
 |  |  | Campo de visão diminuído. |  | X |  |
 |  |  | (b) Proteção do condutor mal fixada ou não conforme com os requisitos (a). | X |  |  |
 |  |  | Risco de lesões. |  | X |  |
 | 9.5. Dispositivos de iluminação interior e de indicação de destino (X) (b). | Inspeção visual e em funcionamento. | Dispositivo defeituoso ou não conforme com os requisitos (a). | X |  |  |
-| 9.5. Dispositivos de iluminação interior e de indicação de destino (X) (b). |  | Totalmente inoperacional. |  | X |  |
+|  | Totalmente inoperacional. |  | X |  |  |
 | 9.6. Corredores, áreas para passageiros de pé. | Inspeção visual. | (a) Piso mal fixado. |  | X |  |
-| 9.6. Corredores, áreas para passageiros de pé. |  | Estabilidade afetada. |  |  | X |
+|  | Estabilidade afetada. |  |  | X |  |
 |  |  | (b) Corrimãos ou pegas defeituosas. | X |  |  |
 |  |  | Mal fixados ou inutilizáveis. |  | X |  |
 |  |  | (c) Não conformes com os requisitos (a). | X |  |  |
@@ -975,16 +991,16 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | (c) Não conformes com os requisitos (a). | X |  |  |
 |  |  | Largura insuficiente ou altura excessiva. |  | X |  |
 | 9.8. Sistema de comunicação de passageiros (X) (b). | Inspeção visual e em funcionamento. | Sistema defeituoso. | X |  |  |
-| 9.8. Sistema de comunicação de passageiros (X) (b). |  | Totalmente inoperacional. |  | X |  |
+|  | Totalmente inoperacional. |  | X |  |  |
 | 9.9. Avisos (X) (b). | Inspeção visual. | (a) Avisos inexistentes incorretos ou ilegíveis. | X |  |  |
 |  |  | (b) Não conformes com os requisitos (a). | X |  |  |
 |  |  | Informações falsas. |  | X |  |
-| 9.10. Requisitos relativos ao transporte de crianças (X) (b) | 9.10. Requisitos relativos ao transporte de crianças (X) (b) | 9.10. Requisitos relativos ao transporte de crianças (X) (b) | 9.10. Requisitos relativos ao transporte de crianças (X) (b) | 9.10. Requisitos relativos ao transporte de crianças (X) (b) | 9.10. Requisitos relativos ao transporte de crianças (X) (b) |
+| 9.10. Requisitos relativos ao transporte de crianças (X) (b) |  |  |  |  |  |
 | 9.10.1. Portas. | Inspeção visual. | Proteção das portas não conforme com os requisitos (a) aplicáveis a este tipo de transporte. |  | X |  |
 | 9.10.2. Sinalização e equipamentos especiais. | Inspeção visual. | Sinalização ou equipamentos especiais inexistentes ou não conformes com os requisitos (a). | X |  |  |
-| 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) | 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) | 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) | 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) | 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) | 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) |
+| 9.11. Requisitos relativos ao transporte de pessoas com mobilidade reduzida (X) (a) |  |  |  |  |  |
 | 9.11.1. Portas, rampas e dispositivos de elevação. | Inspeção visual e funcionamento. | (a) Mau funcionamento. | X |  |  |
-| 9.11.1. Portas, rampas e dispositivos de elevação. |  | Segurança de funcionamento afetada. |  | X |  |
+|  | Segurança de funcionamento afetada. |  | X |  |  |
 |  |  | (b) Deteriorado. | X |  |  |
 |  |  | Estabilidade afetada; risco de provocar lesões. |  | X |  |
 |  |  | (c) Comando(s) defeituoso(s). | X |  |  |
@@ -993,20 +1009,20 @@ A inspeção deve incidir pelo menos, nos pontos a seguir indicados, aplicando-s
 |  |  | Totalmente inoperacionais. |  | X |  |
 |  |  | (e) Não conformes com os requisitos (a). |  | X |  |
 | 9.11.2. Sistema de retenção de cadeira de rodas. | Inspeção visual e em funcionamento, se aplicável. | (a) Mau funcionamento. | X |  |  |
-| 9.11.2. Sistema de retenção de cadeira de rodas. |  | Segurança de funcionamento afetada. |  | X |  |
+|  | Segurança de funcionamento afetada. |  | X |  |  |
 |  |  | (b) Deteriorado. | X |  |  |
 |  |  | Estabilidade afetada; Risco de provocar lesões. |  | X |  |
 |  |  | (c) Comando(s) defeituoso(s). | X | X |  |
 |  |  | Segurança de funcionamento afetada. |  |  |  |
 |  |  | (d) Não conformes com os requisitos (a). |  | X |  |
 | 9.11.3 - Sinalização e equipamentos especiais. | Inspeção visual | Sinalização ou equipamentos especiais inexistentes ou não conformes com os requisitos (a). |  | X |  |
-| 9.12. Outros equipamentos especiais (X) (b) | 9.12. Outros equipamentos especiais (X) (b) | 9.12. Outros equipamentos especiais (X) (b) | 9.12. Outros equipamentos especiais (X) (b) | 9.12. Outros equipamentos especiais (X) (b) | 9.12. Outros equipamentos especiais (X) (b) |
+| 9.12. Outros equipamentos especiais (X) (b) |  |  |  |  |  |
 | 9.12.1. Instalações para preparação de alimentos. | Inspeção visual. | (a) Instalações não conformes com os requisitos (a). |  | X |  |
-| 9.12.1. Instalações para preparação de alimentos. |  | (b) Instalação de tal forma danificada que é perigoso o seu uso. |  | X |  |
+|  | (b) Instalação de tal forma danificada que é perigoso o seu uso. |  | X |  |  |
 | 9.12.2. Instalações sanitárias. | Inspeção visual. | Instalações não conformes com os requisitos (a). | X |  |  |
 |  |  | Risco de provocar lesões. |  | X |  |
 | 9.12.3. Outros dispositivos (por exemplo sistemas audiovisuais). | Inspeção visual. | Não conformes com os requisitos (a). | X |  |  |
-| 9.12.3. Outros dispositivos (por exemplo sistemas audiovisuais). |  | Comprometida a utilização do veículo em condições de segurança. |  | X |  |
+|  | Comprometida a utilização do veículo em condições de segurança. |  | X |  |  |
 
 (1) Semirreboques homologados antes de 1 de janeiro de 2012: 43 %.
 
@@ -1106,10 +1122,10 @@ QUADRO I
 
 Equipamento mínimo necessário para as inspeções técnicas
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Veículos | Categoria | Equipamento necessário dos itens referidos no ponto i |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Veículos | Veículos | Categoria | Categoria | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i | Equipamento necessário dos itens referidos no ponto i |
 |  | Massa máxima |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1. Motociclos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | L3e, L4e | G | x |  |  |  |  |  |  |  | x | x |  | x | x | x |  |
 |  |  | L3e, L4e | D | x |  |  |  |  |  |  |  | x |  | x | x | x | x |  |
@@ -1132,8 +1148,8 @@ Equipamento mínimo necessário para as inspeções técnicas
 | 4. Veículos especiais derivados de veículos da categoria N, T1b, T2b, T3b, T4.1b, T4.2b e T4.3b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Até 3500 kg, inclusive | N1 | G | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x |
 |  | Até 3500 kg, inclusive | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x |  |
-|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b e T4.3b | G | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |
-|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b e T4.3b | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x |  |
+|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b,<br>T4.2b e T4.3b | G | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |
+|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b,<br>T4.2b e T4.3b | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x |  |
 | 5. Reboques |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 750 kg e (igual ou menor que) 3500 kg | O2 |  | x | x |  | x |  |  |  |  |  |  |  |  | x |  |  |
 |  | (maior que) 3500 kg | O3, O4 |  | x | x | x |  |  | x | x | x |  |  |  |  | x |  |  |
@@ -1157,7 +1173,7 @@ Veículos 1 a 9 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepubl
 |  |  |
 | --- | --- |
 | 1 - Todas as observações e verificações correspondentes a uma inspeção periódica: | Pontos a controlar que constam do anexo i da presente portaria. |
-| 2 - Observação visual detalhada, quando há dúvidas relacionadas com a identificação do veículo: | Verificar os elementos de identificação: Marca; Modelo; Número de quadro; |
+| 2 - Observação visual detalhada, quando há dúvidas relacionadas com a identificação do veículo: | Verificar os elementos de identificação:<br>Marca;<br>Modelo;<br>Número de quadro; |
 |  | Distância entre eixos; |
 |  | Categoria; |
 |  | Tipo; |
@@ -1166,14 +1182,14 @@ Veículos 1 a 9 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepubl
 |  | Lotação; |
 |  | Gravações e chapas. |
 |  | Verificar a respetiva localização no veículo e a conformidade com os elementos originais indicados pelo fabricante ou constantes da homologação. |
-| 3 - Observação visual exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras. 3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras. 3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina e da caixa. 3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas. 3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas. 3.6 - Observação da correção das ligações, nomeadamente das soldaduras. 3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
-| 4 - Verificação tridimensional em veículos com estrutura monobloco, autoportante, ou quadro com longarinas, quando a inspeção não seja feita exclusivamente por razões de identificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior. 4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão. |
-|  | 4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos: a) Quatro pontos na zona danificada; b) Dois pontos na fixação superior da suspensão da frente; c) Quatro pontos nas restantes zonas. |
-| 5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros, quando a inspeção não seja feita exclusivamente por razões de identificação: | 5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio. 5.2 - Devem ser verificados os valores dos seguintes ângulos: a) Sopé; b) Avanço; |
-|  | c) Convergência; d) Saída; e) Impulso; f) Viragem. |
-|  | 5.3 - Na falta de indicação expressa do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável: a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo; b) O valor máximo de 30' para o ângulo de impulso; |
+| 3 - Observação visual exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.<br>3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.<br>3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina e da caixa.<br>3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.6 - Observação da correção das ligações, nomeadamente das soldaduras.<br>3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
+| 4 - Verificação tridimensional em veículos com estrutura monobloco, autoportante, ou quadro com longarinas, quando a inspeção não seja feita exclusivamente por razões de identificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.<br>4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão. |
+|  | 4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:<br>a) Quatro pontos na zona danificada;<br>b) Dois pontos na fixação superior da suspensão da frente;<br>c) Quatro pontos nas restantes zonas. |
+| 5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros, quando a inspeção não seja feita exclusivamente por razões de identificação: | 5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio.<br>5.2 - Devem ser verificados os valores dos seguintes ângulos:<br>a) Sopé;<br>b) Avanço; |
+|  | c) Convergência;<br>d) Saída;<br>e) Impulso;<br>f) Viragem. |
+|  | 5.3 - Na falta de indicação expressa do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável:<br>a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo;<br>b) O valor máximo de 30' para o ângulo de impulso; |
 |  | c) Um diferencial máximo de 30' (veículos ligeiros) e de 1º (veículos pesados) entre as medições para os lados direito e esquerdo, considerando estes como as diferenças do valor angular entre as duas rodas diretrizes da frente, estando a roda interior virada a 20°. |
-| 6 - Verificação das características do motor e transmissão em veículos ligeiros de passageiros, nos casos em que haja dúvidas sobre a identificação da marca, modelo ou cilindrada do motor: | A verificação da conformidade das características do motor em relação às indicadas pelo fabricante, nomeadamente evolução da potência em função do número de rotações. Esta verificação é feita em banco de ensaio de potência, sendo também avaliados o bom estado de funcionamento do sistema de transmissão e o cumprimento dos limites poluentes da emissão de gases de escape. |
+| 6 - Verificação das características do motor e transmissão em veículos ligeiros de passageiros, nos casos em que haja dúvidas sobre a identificação da marca, modelo ou cilindrada do motor: | A verificação da conformidade das características do motor em relação às indicadas pelo fabricante, nomeadamente evolução da potência em função do número de rotações.<br>Esta verificação é feita em banco de ensaio de potência, sendo também avaliados o bom estado de funcionamento do sistema de transmissão e o cumprimento dos limites poluentes da emissão de gases de escape. |
 | 7 - Verificação do sistema de direção em veículos pesados, quando a inspeção não seja feita exclusivamente por razões de identificação: | A verificação da geometria do alinhamento e variação angular das rodas deve basear-se tanto quanto possível em indicações do fabricante do veículo. Na falta de expressa indicação do fabricante, deverá recorrer-se, pelo menos, à simetria relativa ao plano longitudinal médio do veículo. |
 
 Veículos 10 a 12 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual
@@ -1192,7 +1208,7 @@ Veículos 1 a 9 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepubl
 | --- | --- |
 | 1 - Todas as observações e verificações correspondentes a uma inspeção periódica: | Pontos a controlar que constam do anexo i da presente portaria. |
 | 2 - Observação visual relacionada com a identificação do veículo: | Verificar e registar a conformidade dos elementos de identificação: |
-| 2 - Observação visual relacionada com a identificação do veículo: | Marca; |
+| Marca; |  |
 |  | Modelo; |
 |  | Número do quadro; |
 |  | Distância entre eixos; |
@@ -1204,8 +1220,8 @@ Veículos 1 a 9 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepubl
 |  | Peso bruto, peso bruto rebocável e tara; |
 |  | Pneus; |
 |  | e a respetiva localização no veículo, gravações e chapas, com os elementos originais indicados pelo fabricante ou constantes da homologação. |
-| 3 - Observação visual do veículo, exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras. 3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras. 3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina ou da caixa. 3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas. 3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas. 3.6 - Observação da correção das ligações, nomeadamente das soldaduras. 3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
-| 4 - Verificação tridimensional em veículos ligeiros com estrutura monobloco, autoportante ou quadro com longarinas, sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior. 4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão. 4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos: a) Quatro pontos na zona danificada; b) Dois pontos na fixação superior da suspensão da frente; c) Quatro pontos nas restantes zonas. |
+| 3 - Observação visual do veículo, exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.<br>3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.<br>3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina ou da caixa.<br>3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.6 - Observação da correção das ligações, nomeadamente das soldaduras.<br>3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
+| 4 - Verificação tridimensional em veículos ligeiros com estrutura monobloco, autoportante ou quadro com longarinas, sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.<br>4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão.<br>4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:<br>a) Quatro pontos na zona danificada;<br>b) Dois pontos na fixação superior da suspensão da frente;<br>c) Quatro pontos nas restantes zonas. |
 | 5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros quando é feita a verificação tridimensional: | 5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio. |
 |  | 5.2 - Devem ser verificados os valores dos seguintes ângulos: |
 |  | a) Sopé; |
@@ -1223,3 +1239,5 @@ Veículos 1 a 9 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepubl
 Veículos 10 a 12 do anexo i do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual
 
 7 - Todas as observações e verificações correspondentes a uma inspeção periódica, com as devidas adaptações.
+
+116964069

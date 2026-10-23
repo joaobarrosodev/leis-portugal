@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65/2023/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2023-208124555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce874d64c650d5e931e929f19f736f192553fe1c3ea205e0b4135db6348a7b5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d3f6f4b554753c8d1b0b9a4751e57199f2be0fe040ac3424a4a440cd8478fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Auditoria
+- Dispositivo de Protecção
 - Estrada
-- Regulamentação de Atos Legislativos
-- Rede de Estradas
 - Fiscalização Rodoviária
 - Limite de Velocidade
-- Segurança Rodoviária
 - Prevenção Rodoviária Portuguesa
-- Dispositivo de Protecção
+- Rede de Estradas
+- Regulamentação de Atos Legislativos
+- Segurança Rodoviária
 - Sinalização de Segurança
 - Tráfego Rodoviário
 - Trânsito
@@ -92,6 +92,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/84-b/2022/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/84-b/2022/12/09/p/dre
+- type: cites
+  target: pt:dre:204552602:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32008L0096
   label: null
@@ -103,13 +107,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:32Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +154,7 @@ h) Avaliação qualitativa dos perigos detetados nas inspeções específicas de
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 23 de fevereiro de 2023.**
+O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco, em 23 de fevereiro de 2023.
 
 ## ANEXO I — Elementos indicativos das avaliações de impacto sobre a segurança rodoviária
 
@@ -644,16 +648,18 @@ Os perigos detetados nas inspeções específicas de segurança rodoviária deve
 
 Gravidade dos acidentes, em função da velocidade de circulação dos veículos motorizados e do tipo de embate
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
 
 Para qualificar o nível de probabilidade de ativação do perigo e, consequentemente, da frequência de ocorrência dos acidentes, consideram-se como indicadores úteis os valores do tráfego médio diário anual (TMDA). São considerados quatro níveis de frequência: «Rara», «Ocasional», «Frequente» e «Muito frequente».
 
 Probabilidade de ocorrência dos embates, em função do TMDA de veículos motorizados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
 
 A atribuição de prioridades de intervenção pode ser efetuada através do quadro que se segue, em função da gravidade e da probabilidade de ocorrência dos acidentes.
 
 Prioridades de intervenção (de 1, mais elevada, a 4, menos elevada), em função da gravidade esperada e da probabilidade dos acidentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04500/0004600055.pdf)
+
+116216681

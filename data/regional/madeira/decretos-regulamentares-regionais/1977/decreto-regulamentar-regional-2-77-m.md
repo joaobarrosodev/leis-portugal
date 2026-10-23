@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1977-250395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0935a1a53cb96f599651be8e64bba1098ece12b66d06238ce30ff00942eeba24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93239c32abfa2e95eab9e795105bf89f5df2cb6a55fe1cc327e09c637b4ef893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administrador
+- Centro Hospitalar do Funchal
+- Comissão de Farmácia e Terapêutica
+- Conselho Clínico
+- Conselho de Administração
+- Conselho Médico
+- Definição de Competências
+- Diretor de Serviços
+- Estabelecimento Hospitalar
+- Estatuto
+- Gestão Administrativa
+- Gestão Financeira
+- Internato Médico
+- Madeira.região Autónoma
+- Médico
+- Presidente
+relationships:
+- type: cites
+  target: pt:dre:141029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:53Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +114,25 @@ Cumprindo entretanto regulamentar a sua estrutura orgânica, nos termos da alín
 
 ESTATUTO DO CENTRO HOSPITALAR DO FUNCHAL
 
-###### Artigo 1.º O Centro Hospitalar do Funchal (Centro) tem como fim primário o tratamento e reabilitação dos doentes, competindo-lhe ainda colaborar com os serviços de saúde pública na educação sanitária das populações, nos planos de prevenção da doença e ainda na formação técnica dos profissionais de saúde e na investigação científica.
+Artigo 1.º O Centro Hospitalar do Funchal (Centro) tem como fim primário o tratamento e reabilitação dos doentes, competindo-lhe ainda colaborar com os serviços de saúde pública na educação sanitária das populações, nos planos de prevenção da doença e ainda na formação técnica dos profissionais de saúde e na investigação científica.
 
-###### Art. 2.º - 1. Os estabelecimentos integrados no Centro funcionarão em estreita coordenação com vista à sua maior eficiência e economia.
+Art. 2.º - 1. Os estabelecimentos integrados no Centro funcionarão em estreita coordenação com vista à sua maior eficiência e economia.
 
 2. Com vista ao disposto no número precedente, poderão ser criados serviços comuns aos estabelecimentos integrados.
 
-###### Art. 3.º O pessoal do Centro fará parte de um quadro único, sem prejuízo da sua distribuição pelas unidades integradas.
+Art. 3.º O pessoal do Centro fará parte de um quadro único, sem prejuízo da sua distribuição pelas unidades integradas.
 
-###### Art. 4.º - 1. O pessoal poderá optar livremente por qualquer unidade do Centro como local de trabalho, desde que tal opção não se revele inconveniente por razões técnicas ou de serviço.
+Art. 4.º - 1. O pessoal poderá optar livremente por qualquer unidade do Centro como local de trabalho, desde que tal opção não se revele inconveniente por razões técnicas ou de serviço.
 
 2. Compete ao conselho de gerência apreciar e autorizar os pedidos de transferência.
 
-###### Art. 5.º O Centro elaborará orçamento comum para os estabelecimentos integrados, sem prejuízo da especificação das receitas e despesas por unidades e serviços.
+Art. 5.º O Centro elaborará orçamento comum para os estabelecimentos integrados, sem prejuízo da especificação das receitas e despesas por unidades e serviços.
 
-###### Art. 6.º - 1. São órgãos de gestão do Centro o conselho de administração e o conselho de gerência.
+Art. 6.º - 1. São órgãos de gestão do Centro o conselho de administração e o conselho de gerência.
 
 2. Ao administrador do Centro compete também a prática de actos de gestão, quer no desempenho de funções normais, quer no uso da competência que lhe for delegada.
 
-###### Art. 7.º - 1. O conselho de administração tem a seguinte composição:
+Art. 7.º - 1. O conselho de administração tem a seguinte composição:
 
 a) Um representante da Secretaria Regional dos Assuntos Sociais e Saúde, que preside e nomeará o seu substituto;
 
@@ -124,7 +148,7 @@ e) Um representante da Assembleia Regional.
 
 3. Os membros referidos nas alíneas d) e e) do n.º 1 anterior são designados, por um mandato renovável de dois anos, pelas entidades que representam, às quais compete também a sua substituição ou recondução.
 
-###### Art. 8.º - 1. O conselho de administração pode reunir desde que esteja presente a maioria dos seus membros em exercício.
+Art. 8.º - 1. O conselho de administração pode reunir desde que esteja presente a maioria dos seus membros em exercício.
 
 2. As deliberações são tomadas por maioria simples de votos dos presentes, tendo o presidente voto de qualidade.
 
@@ -132,21 +156,21 @@ e) Um representante da Assembleia Regional.
 
 4. A ordem de trabalhos só pode ser alterada por unanimidade.
 
-###### Art. 9.º - 1. Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
+Art. 9.º - 1. Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
 
 2. O presidente não pode recusar a convocação que lhe for pedida pelo conselho de gerência ou pelo mínimo de um terço dos membros do conselho de administração.
 
 3. Qualquer dos membros do conselho de administração pode pedir a inscrição de assuntos na ordem de trabalhos, mas, quando houver dúvida quanto à competência do conselho, a este compete decidir.
 
-###### Art. 10.º O conselho de administração reunirá de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
+Art. 10.º O conselho de administração reunirá de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
 
-###### Art. 11.º - 1. Os membros do conselho de administração referidos nas alíneas d) e e) do n.º 1 do artigo 7.º terão direito ao abono de senhas de presença.
+Art. 11.º - 1. Os membros do conselho de administração referidos nas alíneas d) e e) do n.º 1 do artigo 7.º terão direito ao abono de senhas de presença.
 
 2. Os membros previstos nas alíneas d) e e) do n.º 1 do artigo 7.º têm também direito ao abono de despesas de deslocação e ajudas de custo, quando tiverem de se deslocar, segundo o montante que for devido ao escalão mais elevado da função pública.
 
 3. As despesas previstas neste artigo são suportadas pelo orçamento próprio do Centro.
 
-###### Art. 12.º - 1. O conselho de administração é responsável pela definição das linhas gerais de política do Centro Hospitalar, acompanhamento da sua execução e pela respectiva avaliação periódica.
+Art. 12.º - 1. O conselho de administração é responsável pela definição das linhas gerais de política do Centro Hospitalar, acompanhamento da sua execução e pela respectiva avaliação periódica.
 
 2. Em especial, compete ao conselho de administração:
 
@@ -168,7 +192,7 @@ g) Apreciar e deliberar sobre os demais assuntos que forem inscritos na ordem de
 
 4. Em caso algum poderá o conselho de administração fazer a aplicação das orientações e directivas que definir.
 
-###### Art. 13.º - 1. O conselho de gerência tem a seguinte constituição:
+Art. 13.º - 1. O conselho de gerência tem a seguinte constituição:
 
 a) Um médico proposto pela respectiva assembleia do sector entre os clínicos que tenham pelo menos cinco anos de carreira hospitalar e façam parte do pessoal permanente dos hospitais do Centro;
 
@@ -184,19 +208,19 @@ d) Um administrador, que é membro nato.
 
 4. A duração do mandato dos membros não permanentes do conselho de gerência será de três anos, podendo ser reconduzidos.
 
-###### Art. 14.º - 1. Compete ao conselho de gerência a prática de todos os actos de gestão que não estejam reservados a outros órgãos.
+Art. 14.º - 1. Compete ao conselho de gerência a prática de todos os actos de gestão que não estejam reservados a outros órgãos.
 
 2. O conselho reunirá sempre que necessário e pelo menos uma vez por semana e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
 
-###### Art. 15.º - 1. Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
+Art. 15.º - 1. Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei sejam prosseguidas em situação económica e financeira equilibrada.
 
 2. As medidas a tomar pelo conselho de gerência com vista a atingir ou manter o equilíbrio económico e financeiro respeitarão a qualidade de assistência prestada pelos serviços e procurarão evitar a diminuição da sua actividade.
 
-###### Art. 16.º - 1. Compete ao conselho de gerência responsabilizar os serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos.
+Art. 16.º - 1. Compete ao conselho de gerência responsabilizar os serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos.
 
 2. Para este efeito poderá o conselho de gerência exigir dos serviços a elaboração de planos de acção e proceder ao contrôle da sua execução.
 
-###### Art. 17.º - 1. Compete, em especial, ao conselho de gerência:
+Art. 17.º - 1. Compete, em especial, ao conselho de gerência:
 
 a) Preparar os planos gerais da actividade do Centro, incluindo os respectivos orçamentos, e submetê-los à apreciação do conselho de administração e das instâncias de tutela quando for legalmente exigido;
 
@@ -216,7 +240,7 @@ h) Exercer as restantes atribuições que lhe são incumbidas neste diploma.
 
 2. As atribuições constantes das alíneas d) e e) podem ser delegadas no administrador do Centro com a faculdade ou não de subdelegação nos administradores dos hospitais integrados, reservando o conselho para si a faculdade de controlar o seu exercício nos termos e com a amplitude que entender conveniente.
 
-###### Art. 18.º - 1. Em matéria de autorização de despesas com aquisição de bens de consumo compete ao conselho de gerência:
+Art. 18.º - 1. Em matéria de autorização de despesas com aquisição de bens de consumo compete ao conselho de gerência:
 
 a) Autorizar a introdução de novos produtos no consumo do Centro, desde que deles resultem incidências qualitativas ou económicas, numa perspectiva de normalização de produtos;
 
@@ -228,7 +252,7 @@ c) Aprovar a constituição das comissões de escolha de bens ou produtos de con
 
 3. As despesas consideradas de consumo cuja realização tenha sido precedida de concurso ou consulta consideram-se autorizadas, até aos limites constantes daquelas, pelo respectivo despacho de autorização.
 
-###### Art. 19.º - 1. No tocante a despesas de aquisição de material ou equipamento de utilização permanente, compete ao conselho de gerência, em execução das dotações orçamentais:
+Art. 19.º - 1. No tocante a despesas de aquisição de material ou equipamento de utilização permanente, compete ao conselho de gerência, em execução das dotações orçamentais:
 
 a) Preparar planos de investimentos dos meios disponíveis, submetê-los ao conselho de administração e assegurar a execução dos que forem aprovados;
 
@@ -238,13 +262,13 @@ b) Autorizar todas as aquisições de custo superior a 100 contos que não for p
 
 3. Em qualquer dos casos previstos nos números precedentes será dada audiência prévia aos órgãos de direcção interessados.
 
-###### Art. 20.º - 1. As despesas com obras de construção, beneficiação, ampliação ou remodelação das instalações carecem sempre de autorização do conselho de gerência, em execução de plano aprovado pelo conselho de administração e sem prejuízo da competência dos órgãos de tutela.
+Art. 20.º - 1. As despesas com obras de construção, beneficiação, ampliação ou remodelação das instalações carecem sempre de autorização do conselho de gerência, em execução de plano aprovado pelo conselho de administração e sem prejuízo da competência dos órgãos de tutela.
 
 2. As despesas de simples conservação e reparação das instalações e do equipamento são da competência do administrador do Centro até ao limite do montante global que o conselho de gerência fixar.
 
 3. As despesas de substituição de equipamento insusceptível de reparação económica são da competência do conselho de gerência ou do administrador, conforme atinjam ou não 200 contos.
 
-###### Art. 21.º - 1. Compete ao administrador do Centro:
+Art. 21.º - 1. Compete ao administrador do Centro:
 
 a) Praticar os actos subsequentes à autorização das despesas previstas nos artigos precedentes, designadamente a autorização das quantidades de bens ou serviços a requisitar e do respectivo pagamento, desde que se confirmem com as decisões iniciais da autorização que executem;
 
@@ -256,7 +280,7 @@ d) Despachar todos os processos de movimentação de pessoal, com as restriçõe
 
 2. Precedendo de autorização do conselho de gerência, o administrador do Centro pode delegar a sua competência específica ou subdelegar os poderes que lhe forem conferidos noutros funcionários da carreira hospitalar, nomeadamente nos administradores dos hospitais do Centro, não sendo, porém, delegável o contrôle de funcionamento que deve ser por ele exercido.
 
-###### Art. 22.º - 1. Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
+Art. 22.º - 1. Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervindo na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
 
 2. Relativamente às deliberações de decisiva importância, pode qualquer dos membros pedir às instâncias de tutela a suspensão da deliberação, dando do facto conhecimento ao próprio conselho, tudo no prazo de cinco dias contados da reunião ou do conhecimento da deliberação.
 
@@ -264,7 +288,7 @@ d) Despachar todos os processos de movimentação de pessoal, com as restriçõe
 
 4. São, porém, sempre consideradas de decisiva importância as deliberações ou ausência de actuação do conselho de que resultem as situações de responsabilidade referidas no artigo seguinte.
 
-###### Art. 23.º Existirá responsabilidade do conselho de gerência designadamente nos seguintes casos:
+Art. 23.º Existirá responsabilidade do conselho de gerência designadamente nos seguintes casos:
 
 a) Quando a facturação dos serviços prestados pelo Centro não for emitida nos termos legais e regulamentares e feitas com previsão necessária as diligências convenientes para obter a cobrança das receitas;
 
@@ -274,7 +298,7 @@ c) Quando, relativamente aos assuntos que devam ser decididos pelo conselho de a
 
 d) Quando, na impossibilidade de obter maiores receitas de bens próprios e do funcionamento dos serviços, não apresentar a situação do Centro, devidamente fundamentada, às instâncias superiores, tentando obter solução em tempo oportuno.
 
-###### Art. 24.º - 1. A direcção clínica do Centro será constituída pelo director clínico e por três adjuntos, que superintendem, respectivamente, o serviço de urgência, o internato médico e a comissão de avaliação do funcionamento dos serviços.
+Art. 24.º - 1. A direcção clínica do Centro será constituída pelo director clínico e por três adjuntos, que superintendem, respectivamente, o serviço de urgência, o internato médico e a comissão de avaliação do funcionamento dos serviços.
 
 2. Nos hospitais do Centro, excepto o Pediátrico de Santa Isabel, que constitui anexo do Hospital do Dr. João de Almada, poderá ser designado um médico responsável pela coordenação e eficiência dos serviços de acção médica perante o director clínico, devendo, sempre que possível, ter a categoria de director de serviços.
 
@@ -300,7 +324,7 @@ d) Quando, na impossibilidade de obter maiores receitas de bens próprios e do f
 
 13. Se na votação prevista no n.º 10 não ficar eleita nenhuma das listas, o Secretário Regional dos Assuntos Sociais e Saúde nomeará livremente uma direcção clínica, que ficará em exercício durante seis meses, findos os quais se reabrirá o processo de eleição.
 
-###### Art. 25.º - 1. A direcção clínica terá como órgão de apoio técnico o conselho médico, que terá a seguinte constituição:
+Art. 25.º - 1. A direcção clínica terá como órgão de apoio técnico o conselho médico, que terá a seguinte constituição:
 
 a) Membros da direcção clínica;
 
@@ -312,7 +336,7 @@ c) Direcção do internato médico.
 
 3. O conselho médico poderá funcionar em plenário ou através de comissões especializadas, constituindo comissões restritas, de acordo com o que se dispuser no regulamento interno do Centro.
 
-###### Art. 26.º Compete, em especial, ao conselho médico:
+Art. 26.º Compete, em especial, ao conselho médico:
 
 a) Pronunciar-se sobre o rendimento médico do Centro e propor o que julgar útil para a sua melhoria;
 
@@ -324,13 +348,13 @@ d) Apreciar os aspectos do exercício da medicina hospitalar que se prendam com 
 
 e) Dar parecer, quando consultado pela direcção clínica ou pelos órgãos de gestão, sobre as queixas e reclamações que sejam formuladas acerca da correcção técnica e profissional da assistência prestada aos doentes.
 
-###### Art. 27.º - 1. O desenvolvimento da actuação do conselho médico visa apenas a melhoria do funcionamento do Centro e dos seus serviços.
+Art. 27.º - 1. O desenvolvimento da actuação do conselho médico visa apenas a melhoria do funcionamento do Centro e dos seus serviços.
 
 2. As considerações relativas à apreciação de aspectos de exercício da medicina hospitalar que envolvem princípios de deontologia médica não devem ultrapassar o âmbito do próprio conselho, pelo que a direcção clínica dará, directamente, seguimento adequado às recomendações formuladas.
 
 3. A actuação do conselho só poderá estar na base disciplinar através do exercício da competência para ele prevista na alínea e) do artigo anterior.
 
-###### Art. 28.º - 1. A direcção do internato médico será constituída pelo elemento da direcção clínica referido no n.º 1 do artigo 24.º anterior, que preside, e por três internos do Centro eleitos entre eles.
+Art. 28.º - 1. A direcção do internato médico será constituída pelo elemento da direcção clínica referido no n.º 1 do artigo 24.º anterior, que preside, e por três internos do Centro eleitos entre eles.
 
 2. Compete à direcção do internato médico:
 
@@ -344,7 +368,7 @@ d) Propor as medidas que julgar convenientes, transmitindo-as através da direc�
 
 e) Pronunciar-se sobre os assuntos que lhe sejam submetidos pela direcção clínica, designadamente os relativos à gestão do internato médico.
 
-###### Art. 29.º - 1. Para apreciação dos assuntos relacionados com o serviço poderá existir uma comissão do serviço de urgência, presidida pelo elemento da direcção clínica referido no n.º 1 do artigo 24.º anterior, à qual competirá, designadamente:
+Art. 29.º - 1. Para apreciação dos assuntos relacionados com o serviço poderá existir uma comissão do serviço de urgência, presidida pelo elemento da direcção clínica referido no n.º 1 do artigo 24.º anterior, à qual competirá, designadamente:
 
 a) Propor a constituição tipo das equipas de serviço;
 
@@ -356,7 +380,7 @@ d) Propor, através da direcção clínica, as medidas que entender convenientes
 
 2. A comissão do serviço de urgência será constituída pelo adjunto da direcção clínica, por um médico dos serviços de cirurgia e outro de medicina pertencentes ao mapa de pessoal permanente e pelo enfermeiro responsável pelo serviço.
 
-###### Art. 30.º No regulamento interno do Centro será prevista uma comissão responsável pela direcção do bloco operatório, à qual compete, designadamente:
+Art. 30.º No regulamento interno do Centro será prevista uma comissão responsável pela direcção do bloco operatório, à qual compete, designadamente:
 
 a) Distribuição dos tempos operatórios pelos serviços;
 
@@ -366,11 +390,11 @@ c) Vigilância das condições de funcionamento do bloco;
 
 d) Propor, através da direcção clínica, as medidas que entender convenientes.
 
-###### Art. 31.º Para o estudo de problemas específicos podem ser constituídas na dependência da direcção médica comissões técnicas especiais de natureza permanente ou meramente transitória, conforme os casos.
+Art. 31.º Para o estudo de problemas específicos podem ser constituídas na dependência da direcção médica comissões técnicas especiais de natureza permanente ou meramente transitória, conforme os casos.
 
-###### Art. 32.º A direcção de cada serviço de acção médica compete ao respectivo director ou, não o havendo, ao médico de grau mais elevado da carreira designado para desempenhar as suas funções.
+Art. 32.º A direcção de cada serviço de acção médica compete ao respectivo director ou, não o havendo, ao médico de grau mais elevado da carreira designado para desempenhar as suas funções.
 
-###### Art. 33.º Compete, em especial, ao médico em funções de direcção do serviço:
+Art. 33.º Compete, em especial, ao médico em funções de direcção do serviço:
 
 a) Vigiar, no dia-a-dia, a execução das medidas que forem aprovadas, assinalar os desvios que verificar e sugerir as acções correctivas que entender necessárias para seu integral cumprimento;
 
@@ -398,23 +422,23 @@ m) Propor ao conselho de gerência, através da direcção clínica, o seu subst
 
 n) Exercer outras funções que lhe sejam incumbidas ou se mostrem necessárias.
 
-###### Art. 34.º O relatório referido na alínea e) do artigo precedente deve respeitar a toda a actividade do serviço, tanto pelo que se reporta à participação no ensino e na colaboração no aperfeiçoamento do pessoal, evidenciando os meios necessários, designadamente o equipamento a adquirir segundo a prioridade que lhe é atribuída.
+Art. 34.º O relatório referido na alínea e) do artigo precedente deve respeitar a toda a actividade do serviço, tanto pelo que se reporta à participação no ensino e na colaboração no aperfeiçoamento do pessoal, evidenciando os meios necessários, designadamente o equipamento a adquirir segundo a prioridade que lhe é atribuída.
 
-###### Art. 35.º - 1. A direcção dos serviços de enfermagem incumbirá ao conselho dos enfermeiros-gerais do Centro.
+Art. 35.º - 1. A direcção dos serviços de enfermagem incumbirá ao conselho dos enfermeiros-gerais do Centro.
 
 2. Como órgão de apoio ao conselho dos enfermeiros gerais haverá um conselho de enfermagem.
 
-###### Art. 36.º - 1. Fazem parte do conselho dos enfermeiros-gerais o enfermeiro superintendente, que presidirá, e os enfermeiros-gerais, sendo um por cada hospital do Centro, excepto o hospital pediátrico, que ficará na dependência do enfermeiro-geral do Hospital do Dr. João de Almada.
+Art. 36.º - 1. Fazem parte do conselho dos enfermeiros-gerais o enfermeiro superintendente, que presidirá, e os enfermeiros-gerais, sendo um por cada hospital do Centro, excepto o hospital pediátrico, que ficará na dependência do enfermeiro-geral do Hospital do Dr. João de Almada.
 
 2. O conselho designará entre si, para o período renovável de dois anos, aqueles que proporá ao conselho de gerência, para assegurar as funções de superintendente quando o lugar não estiver preenchido, e proporá também o seu substituto.
 
 3. Quando estiver vago o lugar de enfermeiro-geral de qualquer hospital do Centro, o pessoal de enfermagem respectivo proporá ao conselho de gerência, de entre o pessoal de enfermagem, aquele que deverá substituí-lo enquanto a vaga se mantiver.
 
-###### Art. 37.º - 1. O conselho de enfermeiros-gerais reunirá com regularidade, em princípio uma vez por semana, se outra periodicidade se não mostrar conveniente, incumbindo-lhe a definição das orientações gerais a seguir na direcção dos serviços de enfermagem e a apreciação dos assuntos mais relevantes ou que careçam de ser executados coordenadamente.
+Art. 37.º - 1. O conselho de enfermeiros-gerais reunirá com regularidade, em princípio uma vez por semana, se outra periodicidade se não mostrar conveniente, incumbindo-lhe a definição das orientações gerais a seguir na direcção dos serviços de enfermagem e a apreciação dos assuntos mais relevantes ou que careçam de ser executados coordenadamente.
 
 2. O conselho de enfermeiros-gerais poderá sectorizar as responsabilidades que lhe competem, quer formando grupos de serviços a cargo de cada um dos seus membros, quer em função dos assuntos que a cada um competirá tratar, sem prejuízo do disposto no número anterior.
 
-###### Art. 38.º - 1. Compete, em especial, ao conselho dos enfermeiros-gerais:
+Art. 38.º - 1. Compete, em especial, ao conselho dos enfermeiros-gerais:
 
 a) Orientar e coordenar a enfermagem dos serviços, velando pela correcção e qualidade técnica e humana dos cuidados prestados aos doentes;
 
@@ -434,7 +458,7 @@ h) Colaborar com a direcção clínica e com os restantes órgãos ou serviços 
 
 2. O conselho de enfermeiros-gerais pode constituir comissões ou grupos de trabalho para estudar problemas específicos do sector ou para dar a colaboração em atribuições como a prevista na alínea f) do número anterior.
 
-###### Art. 39.º - 1. O conselho de enfermagem será presidido pelo enfermeiro superintendente, tendo como vogais:
+Art. 39.º - 1. O conselho de enfermagem será presidido pelo enfermeiro superintendente, tendo como vogais:
 
 a) Os restantes membros do conselho dos enfermeiros-gerais;
 
@@ -458,11 +482,11 @@ e) Elaboração de regulamntação interna para o sector de enfermagem;
 
 f) Outros assuntos submetidos à sua apreciação nos termos do n.º 3 ou a pedido dos órgãos de gestão do Centro.
 
-###### Art. 40.º - 1. A chefia de enfermagem de cada um dos serviços será assegurada nos termos previstos na respectiva carreira.
+Art. 40.º - 1. A chefia de enfermagem de cada um dos serviços será assegurada nos termos previstos na respectiva carreira.
 
 2. A chefia de enfermagem dos serviços responde pelo desempenho das suas funções perante o conselho dos enfermeiros-gerais, sem prejuízo da colaboração devida ao responsável do serviço.
 
-###### Art. 41.º - 1. Como órgão de apoio ao administrador do Centro, haverá uma comissão de administração e organização constituída pelos profissionais da carreira de administração hospitalar e pelos chefes ou responsáveis pelos sectores de apoio geral.
+Art. 41.º - 1. Como órgão de apoio ao administrador do Centro, haverá uma comissão de administração e organização constituída pelos profissionais da carreira de administração hospitalar e pelos chefes ou responsáveis pelos sectores de apoio geral.
 
 2. Compete ao administrador convocar com regularidade a comissão, por sua iniciativa ou a pedido de três ou mais dos membros desta.
 
@@ -482,7 +506,7 @@ f) Estudar os critérios para transferência do pessoal ou serviços de apoio ge
 
 g) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos órgãos de gestão do hospital.
 
-###### Art. 42.º - 1. Será criada uma comissão de farmácia e terapêutica, com igual número de médicos e farmacêuticos, designados pela direcção clínica e pelo pessoal técnico superior dos serviços farmacêuticos, respectivamente.
+Art. 42.º - 1. Será criada uma comissão de farmácia e terapêutica, com igual número de médicos e farmacêuticos, designados pela direcção clínica e pelo pessoal técnico superior dos serviços farmacêuticos, respectivamente.
 
 2. Compete à comissão de farmácia e terapêutica:
 
@@ -502,25 +526,25 @@ g) Pronunciar-se obrigatoriamente sobre a aquisição de medicamentos extraformu
 
 h) Propor o que tiver por conveniente, dentro da matéria da sua competência e das solicitações que receber da direcção clínica, do conselho médico ou dos serviços farmacêuticos.
 
-###### Art. 43.º Em cada hospital do Centro, excepto o Hospital Pediátrico de Santa Isabel, que constitui anexo do Hospital do Dr. João de Almada, exercerá actividade um administrador hospitalar, que será responsável, perante o administrador do Centro, pela coordenação e eficiência dos serviços de apoio geral, competindo-lhe também exercer os poderes que lhe forem delegados.
+Art. 43.º Em cada hospital do Centro, excepto o Hospital Pediátrico de Santa Isabel, que constitui anexo do Hospital do Dr. João de Almada, exercerá actividade um administrador hospitalar, que será responsável, perante o administrador do Centro, pela coordenação e eficiência dos serviços de apoio geral, competindo-lhe também exercer os poderes que lhe forem delegados.
 
-###### Art. 44.º - 1. Os órgãos de expressão da vontade dos trabalhadores terão regulamentação própria no seguimento da legislação especial que vier a ser publicada para o funcionalismo do Estado.
+Art. 44.º - 1. Os órgãos de expressão da vontade dos trabalhadores terão regulamentação própria no seguimento da legislação especial que vier a ser publicada para o funcionalismo do Estado.
 
 2. Até à existência dessa regulamentação os órgãos de gestão do Centro reconhecerão, como órgãos de formação e expressão da vontade dos trabalhadores, as assembleias de sector profissional e a assembleia geral.
 
-###### Art. 45.º - 1. Será facultado local para realização das assembleias dentro das possibilidades do Centro, desde que convocadas para hora que não colida com o horário de funcionamento dos serviços.
+Art. 45.º - 1. Será facultado local para realização das assembleias dentro das possibilidades do Centro, desde que convocadas para hora que não colida com o horário de funcionamento dos serviços.
 
 2. As assembleias dos sectores profissionais que trabalham em regime de turnos cobrindo as vinte e quatro horas do dia deverão ser marcadas para o turno que permita ao maior número de profissionais assistirem às reuniões sem prejuízo da regularidade de funcionamento dos serviços.
 
-###### Art. 46.º Os órgãos de gestão e direcção deverão proceder à auscultação da vontade e aspirações dos trabalhadores e dar-lhes satisfação, dentro dos imperativos legais e sem prejuízo das finalidades do hospital.
+Art. 46.º Os órgãos de gestão e direcção deverão proceder à auscultação da vontade e aspirações dos trabalhadores e dar-lhes satisfação, dentro dos imperativos legais e sem prejuízo das finalidades do hospital.
 
-###### Art. 47.º - 1. Compete às actuais comissões instaladoras do Centro dinamizar a execução deste regulamento orgânico, mantendo-se em exercício até à constituição e início de funções do conselho de gerência.
+Art. 47.º - 1. Compete às actuais comissões instaladoras do Centro dinamizar a execução deste regulamento orgânico, mantendo-se em exercício até à constituição e início de funções do conselho de gerência.
 
 2. A posse do conselho de gerência deverá verificar-se dentro dos primeiros trinta dias subsequentes à entrada em vigor deste regulamento.
 
 3. O conselho de gerência dinamizará subsequentemente a constituição e a entrada em funcionamento dos restantes órgãos previstos.
 
-###### Art. 48.º - 1. O conselho de gerência deverá elaborar e apresentar à aprovação do Secretário Regional dos Assuntos Sociais e Saúde, no prazo de um ano a partir da sua posse, o regulamento interno do Centro.
+Art. 48.º - 1. O conselho de gerência deverá elaborar e apresentar à aprovação do Secretário Regional dos Assuntos Sociais e Saúde, no prazo de um ano a partir da sua posse, o regulamento interno do Centro.
 
 2. O regulamento interno poderá propor soluções que permitam o melhor ajustamento deste diploma às necessidades do Centro.
 
@@ -530,10 +554,10 @@ h) Propor o que tiver por conveniente, dentro da matéria da sua competência e 
 
 5. No regulamento interno, além dos aspectos previstos nos números precedentes, serão definidos os graus de autonomia e o esquema de órgãos de cada estabelecimento do Centro.
 
-###### Art. 49.º As dúvidas resultantes da aplicação do presente regulamento serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais e Saúde.
+Art. 49.º As dúvidas resultantes da aplicação do presente regulamento serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais e Saúde.
 
-**O Presidente do Governo Regional, Jaime Ornelas Camacho.**
+O Presidente do Governo Regional, Jaime Ornelas Camacho.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

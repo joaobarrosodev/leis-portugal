@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128/2011/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-2011-277584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fe9b412ca72cdb6b49b57b2ffe5a76ca6309c98accad81a55575c0c86381aa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9691157f9484cf5ce4bc4135e4bb17109d562e1addb205f134162018caf072c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Garantia
-- Direito de Acesso
-- Jogos de Fortuna e Azar
-- Publicidade
-- Estabelecimento de Jogos
+- Bingo
 - Conta Bancária
-- Informática
+- Contrato de Seguro
+- Direito de Acesso
+- Estabelecimento de Jogos
+- Fardamento
 - Fiscalização
-- Recrutamento de Pessoal
-- Seguro
-- Simbolo de Identificação
+- Garantia
+- Gratificação
+- Informática
 - Inspecção Geral de Jogos
 - Instituto de Turismo de Portugal
-- Bingo
+- Jogos de Fortuna e Azar
 - Licenciamento
 - Pessoal dos Casinos
 - Prémio
+- Publicidade
 - Receita
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Regulamento do JOGO do Bingo
-- Gratificação
-- Fardamento
+- Seguro
+- Simbolo de Identificação
 - ZONA de JOGO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/31/2011/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/31/2011/03/04/p/dre
+- type: cites
+  target: pt:dre:279439:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:50Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +196,7 @@ Constituem instrumentos do jogo os cartões, um conjunto de bolas numeradas de 1
 
 1 - Podem ser editadas as seguintes séries de cartões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/06500/0190401912.pdf))](https://files.diariodarepublica.pt/1s/2011/04/06500/0190401912.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/06500/0190401912.pdf)
 
 2 - As séries distinguem-se pela cor dominante no reverso e os valores faciais pela cor dominante no anverso dos cartões.
 
@@ -662,4 +666,4 @@ e) Porteiro-contínuo.
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 18 de Março de 2011.**
+O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 18 de Março de 2011.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2017/03/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2017-106578570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af0da51e090cf785e8e71a945f8f0d4103dafe4932fd6362555623bd31495ac1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de75738ef7e96d7b6539625f6856ccdf03939a1a29eb4804fe59381f860870ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA da Madeira
+- Área Protegida do Cabo Girão
 - BENS Classificados
 - Comissão Consultiva
-- Ordenamento do Território
 - Contra-ordenação
 - Definição de Competências
-- Fiscalização
-- Proteção do Ambiente
 - Diversidade Biológica
+- Fiscalização
+- ILHA da Madeira
 - Madeira.região Autónoma
+- Ordenamento do Território
+- Parque Natural Marinho do Cabo Girão
+- Proteção do Ambiente
 - Sanção
 - Secretaria Regional do Ambiente e Recursos Naturais
-- Parque Natural Marinho do Cabo Girão
-- Área Protegida do Cabo Girão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/242/2015/10/15/p/dre
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105820646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70693924:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:14Z'
   warnings: []
   errors: []
 ---
@@ -360,11 +384,11 @@ O presente decreto legislativo regional entra em vigor 30 dias após a sua publi
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de dezembro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 14 de fevereiro de 2017.**
+Assinado em 14 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -372,7 +396,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 A Área Protegida do Cabo Girão engloba na sua parte marinha o Parque Natural Marinho do Cabo Girão, nos termos definidos no seu diploma de criação e na sua parte terrestre o Monumento Natural do Cabo Girão e a Paisagem Protegida do Cabo Girão conforme descrito seguidamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
 
 Memória Descritiva do Parque Natural Marinho do Cabo Girão
 
@@ -382,13 +406,13 @@ Memória Descritiva do Monumento Natural do Cabo Girão
 
 Os limites territoriais do Monumento Natural do Cabo Girão englobam toda a área de encosta definida a este pelo Boqueirão e a oeste pela Ribeira da Quinta Grande, estando o limite a sul definido pela linha de base da arriba e o limite a norte definido pela linha de início do desnível orográfico (excluindo os terrenos agrícolas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
 
 Memória Descritiva da Paisagem Protegida do Cabo Girão
 
 Os limites territoriais da Paisagem Protegida do Cabo Girão englobam toda a área de terrenos agrícolas das Fajãs, delimitada a este pelo Boqueirão e a oeste pela Ribeira da Quinta Grande.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
 
 Parque Natural Marinho do Cabo Girão
 
@@ -398,8 +422,8 @@ Lista de Coordenadas de Delimitação da Área
 
 Monumento natural do Cabo Girão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
 
 Paisagem Protegida do Cabo Girão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf))](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/04900/0130501315.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/06300/0180901809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/124/2011/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-2011-277601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfa03a1d4d47b6a66736b27ad1831388dc30bc5c2c4621abc6fb2b24cec54295
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb2c4bdbc83f785731ca66f0a295db441db5411f9e4291ca907efe0cdbdd3bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Distribuição de Gás
-- Instalação de GÁS
 - Estatuto das Entidades Instaladoras e Montadoras de Redes de Gás
+- Gás Natural
+- Instalação de GÁS
 - Responsabilidade Civil
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -77,16 +77,25 @@ relationships:
   target: pt:dre:178804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178804:por
+  label: "Revogada pela PORT.191/2012.18.06.2012.MEE, DR.IS [116] de 18.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-2012-178804
+  date: '2012-06-18'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:49Z'
   warnings: []
   errors: []
 ---
@@ -105,4 +114,4 @@ Manda o Governo, pelo Secretário de Estado da Energia e da Inovação, ao abrig
 
 O valor mínimo do seguro obrigatório de responsabilidade civil a celebrar pelas entidades instaladoras de redes de gás e pelas entidades montadoras de aparelhos de gás, a que se refere o artigo 5.º do seu Estatuto, constante do anexo i do [Decreto-Lei n.º 263/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1989-619284), de 17 de Agosto, mantém-se para o ano de 2011 em (euro) 580 993,64.
 
-**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 23 de Março de 2011.**
+O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 23 de Março de 2011.

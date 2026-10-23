@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1982-377290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6988221092a63b0cbb9c74b8d98342f8244d618e4936f5160c058a6ed69ae49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebf1a944b673b51f95d4d6b7a76a0051bc589777b38cbdff453a33a73dd3da8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Parque Natural da Madeira
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:48Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +107,15 @@ A instalação do Parque só é possível com ordenamento silvo-pastoril que con
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, na dependência da Secretaria Regional da Agricultura e Pescas, o Parque Natural da Madeira, adiante designado por PNM, com as áreas delimitadas na descrição e mapa anexos a este diploma.
+Artigo 1.º É criado, na dependência da Secretaria Regional da Agricultura e Pescas, o Parque Natural da Madeira, adiante designado por PNM, com as áreas delimitadas na descrição e mapa anexos a este diploma.
 
-###### Art. 2.º São atribuições do PNM:
+Art. 2.º São atribuições do PNM:
 
 a) O ordenamento biofísico das serras da Madeira com vista ao recreio de ar livre e à protecção da natureza;
 
 b) A promoção económica, social e cultural das populações, abrangidas na sua área, com participação activa das mesmas, de maneira que o Parque Natural seja uma forma orgânica de desenvolvimento, com respeito pelas bases biofísicas e ecológicas do ambiente e pelas tradições culturais das populações.
 
-###### Art. 3.º Para efeitos da classificação das várias áreas que serão objecto das medidas de defesa e conservação, consideram-se as seguintes definições:
+Art. 3.º Para efeitos da classificação das várias áreas que serão objecto das medidas de defesa e conservação, consideram-se as seguintes definições:
 
 A) Reserva natural integral. - Zona destinada à protecção absoluta de todos os elementos naturais, a qual ficará sujeita às recomendações internacionais sobre este assunto e cujo acesso só será autorizado para fins de estudo e investigação científica. Será vedado à pastorícia;
 
@@ -128,7 +139,7 @@ F) Zona de caça. - Zona onde é possível o exercício cinegético, sujeita ao 
 
 G) Zonas de pastoreio. - É uma área onde é possível haver pastoreio, embora condicionado a um ordenamento silvo-pastoril.
 
-###### Art. 4.º O Parque engloba as seguintes zonas com características e regulamentos específicos, sendo elaborados oportunamente, à medida que se for pondo em funcionamento cada uma das zonas referidas:
+Art. 4.º O Parque engloba as seguintes zonas com características e regulamentos específicos, sendo elaborados oportunamente, à medida que se for pondo em funcionamento cada uma das zonas referidas:
 
 1 - Reserva natural integral do Lombo Barbinhas.
 
@@ -210,13 +221,13 @@ e) Zona do Cascalho (São Jorge);
 
 f) Zona do Pico do Eixo e Cova da Roda.
 
-###### Art. 5.º - 1 - O Parque goza de personalidade jurídica e de autonomia administrativa e financeira e fica na dependência da Secretaria Regional da Agricultura e Pescas.
+Art. 5.º - 1 - O Parque goza de personalidade jurídica e de autonomia administrativa e financeira e fica na dependência da Secretaria Regional da Agricultura e Pescas.
 
 2 - O Parque é administrado por um director nomeado pelo Governo Regional sob proposta do Secretário Regional da Agricultura e Pescas.
 
 3 - O director será assistido por uma comissão científica e por uma comissão consultiva.
 
-###### Art. 6.º - 1 - Compete ao director do Parque Natural da Madeira a administração do Parque e em especial:
+Art. 6.º - 1 - Compete ao director do Parque Natural da Madeira a administração do Parque e em especial:
 
 a) Autorizar as despesas e providenciar pela arrecadação das receitas;
 
@@ -232,9 +243,9 @@ e) Estabelecer contacto directo com as comissões científica e consultiva e com
 
 3 - O lugar de director do PNM é provido em comissão de serviço, nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 7.º O director será substituído nas suas faltas e impedimentos por pessoa indicada pelo Secretário Regional da Agricultura e Pescas.
+Art. 7.º O director será substituído nas suas faltas e impedimentos por pessoa indicada pelo Secretário Regional da Agricultura e Pescas.
 
-###### Art. 8.º - 1 - A comissão científica é um órgão de consulta para as questões culturais e científicas e será constituída por:
+Art. 8.º - 1 - A comissão científica é um órgão de consulta para as questões culturais e científicas e será constituída por:
 
 a) 1 representante do jardim botânico;
 
@@ -244,13 +255,13 @@ c) 1 representante da Secretaria Regional do Equipamento Social;
 
 d) 1 representante do Governo Regional, com representação dos sectores da educação e da cultura.
 
-###### Art. 9.º Compete à comissão científica:
+Art. 9.º Compete à comissão científica:
 
 a) Emitir parecer sobre todas as iniciativas de carácter científico e cultural relacionadas com o Parque;
 
 b) Emitir recomendações que contribuam para a defesa e salvaguarda do património e para o desenvolvimento científico e cultural do Parque.
 
-###### Art. 10.º A comissão consultiva é presidida pelo director do Parque e tem como vogais:
+Art. 10.º A comissão consultiva é presidida pelo director do Parque e tem como vogais:
 
 a) Os presidentes das câmaras municipais das áreas envolvidas;
 
@@ -260,15 +271,15 @@ c) 1 representante da Secretaria Regional do Planeamento e Finanças;
 
 d) 1 representante das comissões de pastores definida no regime silvo-pastoril.
 
-###### Art. 11.º Compete à comissão consultiva dar pareceres de ordem social e económica, ou de propaganda com interesse para o Parque, e sugerir ao director do mesmo acções que conduzam à efectivação dos objectivos para que foi criado.
+Art. 11.º Compete à comissão consultiva dar pareceres de ordem social e económica, ou de propaganda com interesse para o Parque, e sugerir ao director do mesmo acções que conduzam à efectivação dos objectivos para que foi criado.
 
-###### Art. 12.º As comissões consultiva e científica reunirão ordinariamente 2 vezes por ano e podem reunir extraordinariamente por solicitação do Governo Regional, por convocação do director do Parque ou por iniciativa de um mínimo de dois terços dos seus membros.
+Art. 12.º As comissões consultiva e científica reunirão ordinariamente 2 vezes por ano e podem reunir extraordinariamente por solicitação do Governo Regional, por convocação do director do Parque ou por iniciativa de um mínimo de dois terços dos seus membros.
 
-###### Art. 13.º O director e os membros dos órgãos a que se referem os artigos 6.º e 8.º tomam posse perante o Presidente do Governo Regional.
+Art. 13.º O director e os membros dos órgãos a que se referem os artigos 6.º e 8.º tomam posse perante o Presidente do Governo Regional.
 
-###### Art. 14.º Os membros dos órgãos a que se refere o artigo anterior têm direito a transporte e ajudas de custo, quando, para exercício das suas funções, tenham de deslocar-se das respectivas residências.
+Art. 14.º Os membros dos órgãos a que se refere o artigo anterior têm direito a transporte e ajudas de custo, quando, para exercício das suas funções, tenham de deslocar-se das respectivas residências.
 
-###### Art. 15.º Constituem receitas do Parque:
+Art. 15.º Constituem receitas do Parque:
 
 a) A dotação expressamente inscrita no orçamento geral da Região Autónoma da Madeira;
 
@@ -282,11 +293,11 @@ e) Os juros de capitais depositados;
 
 f) O saldo de orçamentos anteriores.
 
-###### Art. 16.º Serão devidas taxas pelo acesso ao Parque, nos casos e montantes a tipificar pelo plenário do Governo Regional.
+Art. 16.º Serão devidas taxas pelo acesso ao Parque, nos casos e montantes a tipificar pelo plenário do Governo Regional.
 
-###### Art. 17.º O organigrama do PNM será o constante do anexo n.º 2 a este diploma.
+Art. 17.º O organigrama do PNM será o constante do anexo n.º 2 a este diploma.
 
-###### Art. 18.º Constitui contravenção:
+Art. 18.º Constitui contravenção:
 
 a) O exercício da caça nos terrenos do Parque sem a licença prevista neste diploma:
 
@@ -296,7 +307,7 @@ c) A prática do campismo, nos terrenos situados no Parque, fora das zonas desti
 
 d) O pastoreio fora das zonas, para esse efeito já determinadas pelo regime silvo-pastoril, ou de outras que posteriormente venham a ser interditas à apascentação de gado por diploma do Governo da Região Autónoma da Madeira.
 
-###### Art. 19.º As contravenções previstas no artigo anterior serão punidas com multa de:
+Art. 19.º As contravenções previstas no artigo anterior serão punidas com multa de:
 
 a) 1000$00 a 10000$00, as das alíneas a) e b);
 
@@ -304,29 +315,29 @@ b) 1000$00, a prática do campismo prevista na alínea c);
 
 c) As sanções para a infracção prevista na alínea d) serão as previstas no Decreto Regional n.º 21/79/M, que criou o regime silvo-pastoril.
 
-###### Art. 20.º O Plenário do Governo Regional definirá, através de decreto regulamentar regional, as várias zonas de reserva previstas no artigo 3.º deste diploma com os respectivos regulamentos específicos.
+Art. 20.º O Plenário do Governo Regional definirá, através de decreto regulamentar regional, as várias zonas de reserva previstas no artigo 3.º deste diploma com os respectivos regulamentos específicos.
 
-###### Art. 21.º A título provisório e enquanto não estiverem em funcionamento os órgãos do PNM, será nomeada pelo Governo Regional uma comissão instaladora, que terá por funções:
+Art. 21.º A título provisório e enquanto não estiverem em funcionamento os órgãos do PNM, será nomeada pelo Governo Regional uma comissão instaladora, que terá por funções:
 
 a) Exercer as competências atribuídas aos órgãos do PNM por este diploma;
 
 b) Elaborar e propor a aprovação dos diplomas que hão-de criar as zonas sujeitas à protecção e os respectivos regulamentos específicos.
 
-###### Art. 22.º O Governo Regional, sob proposta da comissão instaladora ou da direcção do Parque Natural da Madeira, definirá por decreto regulamentar regional a protecção de indivíduos ou formações vegetais ou unidades geomorfológicas de reconhecido interesse científico ou paisagístico fora das zonas definidas neste diploma.
+Art. 22.º O Governo Regional, sob proposta da comissão instaladora ou da direcção do Parque Natural da Madeira, definirá por decreto regulamentar regional a protecção de indivíduos ou formações vegetais ou unidades geomorfológicas de reconhecido interesse científico ou paisagístico fora das zonas definidas neste diploma.
 
-###### Art. 23.º Fica o Governo Regional autorizado a, mediante decreto regulamentar regional, proceder às adaptações do Decreto Regional n.º 21/79/M, de 27 de Setembro, exigidas pela execução do presente diploma.
+Art. 23.º Fica o Governo Regional autorizado a, mediante decreto regulamentar regional, proceder às adaptações do Decreto Regional n.º 21/79/M, de 27 de Setembro, exigidas pela execução do presente diploma.
 
-###### Art. 24.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas.
+Art. 24.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas.
 
-###### Art. 25.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 25.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 23 de Junho de 1982.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 11 de Outubro de 1982.**
+Assinado em 11 de Outubro de 1982.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 ## ANEXO I — Limites do Parque Natural da Madeira
 
@@ -430,4 +441,4 @@ Desce o ribeiro do Cabouco até à cota dos 480 m, e a este nível vai ao encont
 
 E pelo leito da ribeira da Janela desce até à confluência deste com o seu afluente da margem esquerda, onde teve início.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/26000/37703774.pdf))](https://files.diariodarepublica.pt/1s/1982/11/26000/37703774.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/26000/37703774.pdf)

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:973669:por
-title: Portaria n.º 1684/2001(2.ªsérie)
+title: Portaria n.º 1684/2001 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1684-2001-973669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c85379a0d30310531a78b7807c235ab83772a7ec7b209a8b5cb94bba11d684e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 415e6d2b3f8e4b5b2ba805642d8b1d359246a8051f11e500dcffbae6ea389418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Contrato
+- Direcção Geral do Património
+- Equipamento Informático
+relationships:
+- type: cites
+  target: pt:dre:158264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:18:39Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1684/2001(2.ªsérie)
+# Portaria n.º 1684/2001 (2.ª série)
 
 Portaria n.º 1684/2001 (2.ª série). - Considerando que o Estado, através da Direcção-Geral do Património, celebrou com a sociedade anónima Beltrão Coelho o contrato público de aprovisionamento n.º 911 850, para fornecimento de material informático, relativo a microcomputadores da marca CASIO, que veio a ser homologado pela [Portaria n.º 161/99](https://diariodarepublica.pt/dr/detalhe/portaria/161-1999-158264), de 23 de Fevereiro, e cuja validade foi prorrogada pelas Portarias n.os [640/2000](https://diariodarepublica.pt/dr/detalhe/portaria/640-2000-324160), de 7 de Abril, e [596/2001](https://diariodarepublica.pt/dr/detalhe/portaria/596-2001-322482), de 21 de Março;
 

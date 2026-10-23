@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/294/2011/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476500249ba5fb372f1d764ecabe817725bd83b96ac50d9416c38ff2a852ee43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ac84668fe47f1fed8963ab6ae9fbaa97d00ced2385d1999578256872963c8f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca por arte de cerco
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Página na Internet
 - Embarcação de Pesca
+- Página na Internet
+- Pesca
+- Pesca por arte de cerco
 - Sardinha
 relationships:
+- type: amended_by
+  target: pt:dre:67444555:por
+  label: Alterado, a partir de 09.06.2015 e com efeitos a 01.06.2015, o art. 3.º da Port 251/2010 de 04-mai, na redação do
+    presente diploma, pelo(a) Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-a-2015-67444555
+  date: '2015-06-08'
+- type: amended_by
+  target: pt:dre:73752569:por
+  label: Alterado o art. 3.º da Port 251/2010, de 04-mai, na redação do presente diploma pelo(a) Portaria n.º 34-A/2016 -
+    Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-a-2016-73752569
+  date: '2016-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -86,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/251/2010/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/251/2010/05/04/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:43Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +170,9 @@ c) ...
 
 5 - O período de interdição de captura referido no número anterior é fixado com uma antecedência mínima de sete dias relativamente ao início do respectivo período de aplicação e publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.
 
-###### Artigo 3.º — Limitação de desembarque
+Artigo 3.º
+
+Limitação de desembarque
 
 1 - O máximo de desembarque anual autorizado da espécie sardinha para a frota portuguesa bem assim como a respectiva repartição, nos termos dos números seguintes, são estabelecidos por despacho do membro do Governo responsável pela área das pescas, depois de ouvida a comissão de acompanhamento a que se refere o artigo 7.º, e publicitados no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.
 
@@ -162,7 +192,9 @@ b) 3 % para o grupo constituído pelas demais embarcações.
 
 7 - Para o ano de 2011, o máximo de desembarque é fixado em 55 000 t.
 
-###### Artigo 4.º — Proibição de pesca
+Artigo 4.º
+
+Proibição de pesca
 
 1 - Por despacho do director-geral das Pescas e Aquicultura, a publicitar através do sítio da DGPA, em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas, é determinada a proibição de captura, manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda de sardinha capturada com arte de cerco sempre que ocorra uma das seguintes situações:
 
@@ -178,4 +210,4 @@ c) ...
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de Novembro de 2011.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de Novembro de 2011.

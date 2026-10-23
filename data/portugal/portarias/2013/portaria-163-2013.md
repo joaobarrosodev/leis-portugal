@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/163/2013/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-2013-260901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcb74e1f82188fae4bad98c5f171c351534279a852e199c3405d21f4ca6025f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50649976ddcab3aa45c47d3f065d3f245a862d25267b44561cb5f1d942127893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aborto
 - Análises Clínicas
+- Apoio Domiciliário
 - Assistência Médica
 - Assistência Medicamentosa
-- Lares
-- Instituto Português do Sangue e da Transplantação
-- Consulta Médica
-- Internamento Hospitalar
-- Serviço Nacional de Saúde
-- Aborto
 - Centro de Saúde
+- Cirurgia
+- Consulta Médica
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto Português de Oncologia de Francisco Gentil
+- Instituto Português do Sangue e da Transplantação
+- Internamento Hospitalar
+- Lares
 - Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Cuidados Médicos
-- Apoio Domiciliário
 - Regime Ambulatório
-- Instituto Português de Oncologia de Francisco Gentil
-- Estabelecimento Hospitalar
-- Cirurgia
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Tabela de Cuidados de Saúde
 - Transporte de Doentes
@@ -101,16 +101,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/839-a/2009/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/839-a/2009/07/31/p/dre
+- type: cites
+  target: pt:dre:242066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570684:por
+  label: "Revogada, a partir de 03.02.2014, pela PORT.20/2014.29.01.2014.MS, DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2014-570684
+  date: '2014-01-29'
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:53Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +156,7 @@ São aprovadas as tabelas de preços a praticar pelo Serviço Nacional de Saúde
 
 3. A presente portaria não é aplicável para efeitos do cálculo de índice de case mix e de doentes equivalentes no âmbito dos contratos de gestão em regime de Parceria Público Privada, mantendo-se, exclusivamente para aqueles efeitos, em vigor a Portaria n.º 132/2009, de 30 de janeiro, alterada pela [Portaria n.º 839-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/839-a-2009-242066), de 31 de julho, sem prejuízo do cumprimento integral das regras dos referidos contratos, nomeadamente em matéria de codificação.
 
-**O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de abril de 2013.**
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de abril de 2013.
 
 ## ANEXO I — Regulamento das Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde
 
@@ -513,204 +526,204 @@ Tabela Nacional Grupos de Diagnóstico Homogéneo
 
 All Patient DRG 27
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela II
 
 GDH Médicos de Ambulatório - Procedimentos Contemplados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela III
 
-###### Artigo 9.º, n.º 1, GDH para faturação dos procedimentos 96.72- Ventilação mecânica contínua por 96 horas ou mais horas consecutivas
+Artigo 9.º, n.º 1, GDH para faturação dos procedimentos 96.72- Ventilação mecânica contínua por 96 horas ou mais horas consecutivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela IV
 
-###### Artigo 9.º, n.º 7, GDH para faturação do procedimento 02.93- IMPLANTAÇÃO DE NEUROESTIMULADOR INTRACRANIANO
+Artigo 9.º, n.º 7, GDH para faturação do procedimento 02.93- IMPLANTAÇÃO DE NEUROESTIMULADOR INTRACRANIANO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela V
 
-###### Artigo 9.º, n.º 8, GDH para faturação do procedimento 03.93- INSERÇÃO OU SUBSTITUIÇÃO DE NEUROESTIMULADOR MEDULAR
+Artigo 9.º, n.º 8, GDH para faturação do procedimento 03.93- INSERÇÃO OU SUBSTITUIÇÃO DE NEUROESTIMULADOR MEDULAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela VI
 
-###### Artigo 9.º, n.º 9, GDH para faturação do procedimento 04.92- IMPLANTAÇÃO OU SUBSTITUIÇÃO DE NEUROESTIMULADOR PERIFÉRICO
+Artigo 9.º, n.º 9, GDH para faturação do procedimento 04.92- IMPLANTAÇÃO OU SUBSTITUIÇÃO DE NEUROESTIMULADOR PERIFÉRICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela VII
 
-###### Artigo 9.º, n.º 14, GDH para faturação de Radiocirurgia
+Artigo 9.º, n.º 14, GDH para faturação de Radiocirurgia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela VIII
 
-###### Artigo 9.º, n.º 15, GDH para faturação de Desfibrilhador cardíaco
+Artigo 9.º, n.º 15, GDH para faturação de Desfibrilhador cardíaco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 Tabela IX
 
-###### Artigo 9.º, n.º 16, GDH para faturação de prótese da anca
+Artigo 9.º, n.º 16, GDH para faturação de prótese da anca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 ## ANEXO III — TABELA DE ANATOMIA PATOLÓGICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE ANESTESIOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE CARDIOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE CIRURGIA MAXILO-FACIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE CRIOCONSERVAÇÃO E CULTURA DE TECIDOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE DERMATOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE ESTOMATOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE ESTUDOS DO SONO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE GASTRENTEROLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE GENÉTICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE GINECOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE IMUNOALERGOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE IMUNOHEMOTERAPIA / MEDICINA TRANSFUSIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE MEDICINA DA DOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE MEDICINA FÍSICA E DE REABILITAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE MEDICINA NUCLEAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE MEDICINA DA REPRODUÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE NEFROLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE NEUROFISIOLOGIA, NEUROLOGIA E OUTROS PROCEDIMENTOS DE DISCIPLINAS NEUROLÓGICAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE OBSTETRÍCIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE OFTALMOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE ONCOLOGIA MÉDICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE ORTOPEDIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE OTORRINOLARINGOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PATOLOGIA CLÍNICA - BIOQUÍMICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PATOLOGIA CLÍNICA - HEMATOLOGIA E HEMOSTASE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PATOLOGIA CLÍNICA - IMUNOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PATOLOGIA CLÍNICA - MICROBIOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PNEUMOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE PROCEDIMENTOS DE NEURODESENVOLVIMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE RADIOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE RADIOTERAPIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE REUMATOLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE SAÚDE MENTAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE SERVIÇOS E TÉCNICAS GERAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE TRANSPLANTAÇÃO DE TECIDOS E ÓRGÃOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DAS UNIDADES TERAPÊUTICAS DE SANGUE E OUTROS SERVIÇOS PRESTADOS PELO IPST, IP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
 
 TABELA DE UROLOGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf))](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/08000/0249502606.pdf)

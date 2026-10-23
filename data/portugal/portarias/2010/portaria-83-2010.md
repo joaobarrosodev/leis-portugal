@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/2010/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-2010-617076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cfe40b122208aca536364e176bae4a8b4db82382a3afe19a1142733fdf2b630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef3d8406e977b7d65aea922ad6dc7588b3815a0bc0dced58fd68a817d2f6b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH
+- Agricultura
 - Água
-- Instituto da ÁGUA
+- ARH
 - Aveiro
-- Recursos Hídricos
+- Beja
+- Controlo Sanitário
 - Definição de Competências
 - Direito Comunitário
-- Controlo Sanitário
 - Elvas
-- Saúde Pública
 - Esposende
 - Faro
+- Fertilizante
 - Fiscalização
+- Instituto da ÁGUA
 - Instituto Nacional de Recursos Biológicos
 - Licenciamento
 - MIRA
-- Proteção do Ambiente
-- Fertilizante
-- Beja
-- Programa de Acção
-- VILA do Conde
-- Poluição da água
-- Programa Acção
-- Produção Agrícola
 - Pesticida
-- Agricultura
+- Poluição da água
+- Produção Agrícola
+- Programa Acção
+- Programa de Acção
+- Proteção do Ambiente
+- Recursos Hídricos
 - Sanção
+- Saúde Pública
 - Tavira
+- VILA do Conde
 relationships:
 - type: amended_by
   target: pt:dre:174783:por
@@ -106,16 +106,21 @@ relationships:
   target: celex:32003L0035
   label: null
   source: http://data.europa.eu/eli/dir/2003/35/oj
+- type: repealed_by
+  target: pt:dre:174783:por
+  label: "Revogada pela PORT.259/2012.28.08.2012.MAMAOT, DR.IS [166] de 28.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/259-2012-174783
+  date: '2012-08-28'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:41Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +163,7 @@ São revogadas as Portarias n.os 556/2003, de 12 de Julho, 557/2003, de 14 de Ju
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 25 de Janeiro de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 25 de Janeiro de 2010.
 
 ## ANEXO — Programa de Acção para as Zonas Vulneráveis de Portugal Continental
 
@@ -538,49 +543,49 @@ TABELA II.1
 
 Zona vulnerável n.º 1 (Esposende-Vila do Conde)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 TABELA II.2
 
 Zonas vulneráveis n.º 2 (Aveiro) e n.º 4 (Mira)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 TABELA II.3
 
 Zonas vulneráveis n.º 3 (Faro) e n.º 8 (Luz-Tavira)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 TABELA II.4
 
 Zona vulnerável n.º 5 (Tejo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 TABELA II.5
 
 Zonas vulneráveis n.º 6 (Beja) e n.º 7 (Elvas-Vila Boim)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 ## ANEXO III — (a que se refere n.º 2 do artigo 5.º)
 
 Limitações às culturas e às práticas agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 8 do artigo 7.º)
 
 Ficha de registo de fertilização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 ## ANEXO V — (a que se refere o n.º 1 do artigo 8.º)
 
 Quantidade máxima de azoto a aplicar às culturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 ## ANEXO VI — (a que se refere o n.º 3 do artigo 9.º)
 
@@ -646,16 +651,16 @@ QUADRO VII.1
 
 Capacidade das infra-estruturas de armazenamento da exploração agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 QUADRO VII.2
 
 Quantidade de efluentes pecuários produzidos na exploração agrícola, adquiridos externamente e vendidos/cedidos a terceiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
 
 QUADRO VII.3
 
 Aplicação de efluentes pecuários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf))](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/02800/0038000392.pdf)

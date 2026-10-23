@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decminrepram/3/2000/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica-para-regiao-autonoma-madeira/3-2000-615039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb04cf6f2ad8de723a316976522802f9d9d8b939cdbf1cbd33bb839001875947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c357afa52db7fcfd52840148d4b6ea3a38a9913bfde6a6b98b6f6807e7167aa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Presidente do Governo Regional
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
+- Presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:551187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551187:por
+  label: "Exonerado pelo DEC.1/2004.16.11.2004.MR-RAM, DR.IS-A [269] de 16.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-ministro-republica-para-regiao-autonoma-madeira/1-2004-551187
+  date: '2004-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
@@ -82,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:08Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +115,8 @@ de 14 de Novembro
 
 Nos termos do n.º 3 do artigo 231.º da Constituição da República e do n.º 1 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, com as alterações introduzidas pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, nomeio Presidente do Governo Regional da Região Autónoma da Madeira o Dr. Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 14 de Novembro de 2000.**
+Assinado em 14 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

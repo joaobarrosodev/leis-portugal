@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00600/0000400046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/2025/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2025-902786114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5be3f139100a7e63e247553349704225a2612081a7158b8403327a7ae5b83661
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c06d6d4e3b09e87be9269aac75a730194d72c4f6c31b49974afd05ef9469c39c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Corpo da Guarda Prisional
-- Regulamentação de Atos Legislativos
-- Descrição de Funções
 - Avaliação do Pessoal
+- Corpo da Guarda Prisional
+- Descrição de Funções
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/2012/09/28/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/9-a/2017/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/9-a/2017/01/05/p/dre
+- type: cites
+  target: pt:dre:105711795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606115:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:05:16Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +143,7 @@ A presente portaria procede à identificação das unidades orgânicas e dos int
 
 2 - Compete ao diretor-geral da DGRSP homologar as avaliações do desempenho e exercer as demais competências atribuídas ao diretor nacional da PSP na portaria referida no número anterior.
 
-3 - Junto do diretor-geral da DGRSP funciona uma comissão paritária de âmbito nacional, podendo aquele determinar, por despacho, a constituição e o âmbito de outras comissões paritárias, cuja composição e o respetivo processo eleitoral obedecem às regras previstas nos n.<sup>os</sup>4 a 6 do artigo 25.º e no artigo 26.º da [Portaria n.º 9-A/2017](https://diariodarepublica.pt/dr/detalhe/portaria/9-a-2017-105711795), de 5 de janeiro.
+3 - Junto do diretor-geral da DGRSP funciona uma comissão paritária de âmbito nacional, podendo aquele determinar, por despacho, a constituição e o âmbito de outras comissões paritárias, cuja composição e o respetivo processo eleitoral obedecem às regras previstas nos n.os4 a 6 do artigo 25.º e no artigo 26.º da [Portaria n.º 9-A/2017](https://diariodarepublica.pt/dr/detalhe/portaria/9-a-2017-105711795), de 5 de janeiro.
 
 4 - É competente para avaliar, na qualidade de primeiro avaliador, o trabalhador que exerce as funções de chefe dos serviços de vigilância e segurança, integrado na categoria de comissário prisional ou chefe principal, consoante se trate, respetivamente, de unidade orgânica de nível de segurança especial ou alta e grau de complexidade de gestão elevado ou de nível de segurança alta ou média e grau de complexidade de gestão médio.
 
@@ -157,7 +173,7 @@ e) Guarda.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 3 de janeiro de 2025. - A Ministra da Justiça, Rita Alarcão Júdice, em 2 de janeiro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 3 de janeiro de 2025. - A Ministra da Justiça, Rita Alarcão Júdice, em 2 de janeiro de 2025.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -167,7 +183,8 @@ A - Aplicação
 
 1 - Matriz de competências e ponderações:
 
-![](https://files.diariodarepublica.pt/images/902786114/902702646.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702646.png) |
+| --- |
 
 2 - Grupos de pessoal:
 
@@ -517,90 +534,125 @@ A - Fichas de autoavaliação
 
 1 - Grupo A - Comissário
 
-![](https://files.diariodarepublica.pt/images/902786114/902702647.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702647.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702648.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702648.png) |
+| --- |
 
 2 - Grupo B - Chefe principal
 
-![](https://files.diariodarepublica.pt/images/902786114/902702649.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702649.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702650.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702650.png) |
+| --- |
 
 3 - Grupo C - Chefe
 
-![](https://files.diariodarepublica.pt/images/902786114/902702651.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702651.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702652.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702652.png) |
+| --- |
 
 4 - Grupo D - Guarda principal
 
-![](https://files.diariodarepublica.pt/images/902786114/902702653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702653.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702654.png) |
+| --- |
 
 5 - Grupo E - Guarda
 
-![](https://files.diariodarepublica.pt/images/902786114/902702655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702655.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702656.png) |
+| --- |
 
 B - Ficha biográfica
 
-![](https://files.diariodarepublica.pt/images/902786114/902702657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702657.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702658.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702659.png) |
+| --- |
 
 C - Fichas de avaliação do desempenho
 
 1 - Grupo A - Comissário
 
-![](https://files.diariodarepublica.pt/images/902786114/902702660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702660.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702661.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702662.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702663.png) |
+| --- |
 
 2 - Grupo B - Chefe principal
 
-![](https://files.diariodarepublica.pt/images/902786114/902702664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702664.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702665.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702666.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702666.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702667.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702667.png) |
+| --- |
 
 3 - Grupo C - Chefe
 
-![](https://files.diariodarepublica.pt/images/902786114/902702668.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702668.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702669.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702669.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702670.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702670.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702671.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702671.png) |
+| --- |
 
 4 - Grupo D - Guarda principal
 
-![](https://files.diariodarepublica.pt/images/902786114/902702672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702672.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702673.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702673.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902702674.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902702674.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902788175.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902788175.png) |
+| --- |
 
 5 - Grupo E - Guarda
 
-![](https://files.diariodarepublica.pt/images/902786114/902788176.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902788176.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902788177.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902788177.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902788178.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902788178.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/902786114/902788179.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902786114/902788179.png) |
+| --- |
+
+118528446

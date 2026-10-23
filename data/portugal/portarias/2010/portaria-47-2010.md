@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/01300/0019600196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/2010/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-2010-616820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5014acc32242e9a1409daafcb2d8d43e1c2b753bc827b3cdf5b6da30e396d0ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 693d837fd64108315e594be0408a667d68efc2307861d92f0a91698a78b7a499
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Campanha Vinícola
-- Vinho
+- Comércio
+- Financiamento
 - Países Terceiros
 - Promoção de Produtos
 - Regime de Apoio
 - Regulamento
 - Taxa
-- Comércio
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:499213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543069:por
+  label: "Dada nova redação ao art. 10º e substituído o anexo III do Regulamento do Apoio à Promoção de Vinhos em Mercados\
+    \ de Países Terceiros, aprovado pela Port 1384-B/2008, de 02-dez, alterado pelo presente diploma, pela PORT.43/2012.10.02.2012.MAMAOT,\
+    \ DR.IS [30] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-2012-543069
+  date: '2012-02-10'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -99,16 +106,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1384-b/2008/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1384-b/2008/12/02/p/dre
+- type: cites
+  target: pt:dre:341805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499213:por
+  label: "Revogada, a partir de 14.08.2013, a Port 1384-B/2008, de 02-dez, que aprova o Regulamento do Apoio à Promoção de\
+    \ Vinhos em Mercados de Países Terceiros, na redação da presente portaria, pela PORT.257/2013.13.08.2013.MAGM, DR.IS [155]\
+    \ de 13.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-2013-499213
+  date: '2013-08-13'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:33Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +163,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01300/0019600196.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01300/0019600196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01300/0019600196.pdf)
 
 ###### Artigo 2.º — Entrada em vigor e produção de efeitos
 

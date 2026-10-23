@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/317/2013/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ac6f66220710bd061529f1b1c01a86a9e58dc0845a93ddb046391c570e86b9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db92ff5e632cdd18aac1d710e0a59a6927ef70af9cf0f418e49e6cab18a2eead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Pesca
 - Apoio ao Investimento
+- Definição de Competências
+- Financiamento
 - IFAP
 - Intervenção Operacional Pescas
+- Pesca
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 11.º do Regulamento do Regime de Apoio das Ações previstas na medida Desenvolvimento sustentável\
+    \ das Zonas de Pesca aprovado como anexo III da Port 828-A/2008 de 08-ago (republicado pela Port 1237/2010 de 13-dez),\
+    \ na redação do presente diploma, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/828-a/2008/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/828-a/2008/08/08/p/dre
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:45Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +141,9 @@ Os artigos 11º, 13º, 14º, 15º, 17º e 20º do Regulamento do Regime de Apoio
 
 4 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 1 - ...
 
@@ -148,7 +157,9 @@ Os artigos 11º, 13º, 14º, 15º, 17º e 20º do Regulamento do Regime de Apoio
 
 6 - O IFAP, após a receção do contrato devidamente assinado, dispõe de 10 dias para o outorgar e devolver um exemplar ao beneficiário.
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 1 - Os pagamentos dos apoios relativos à execução dos projetos aprovados no âmbito das ações previstas nas alíneas a) a c) do artigo 2.º são efetuados pelo IFAP, após emissão da competente autorização de despesa pelo gestor, que será proferida depois da verificação pelo grupo ou pela competente DRAP, consoante o caso, dos pedidos de pagamento apresentados pelo beneficiário em formulários próprios, nos seguintes termos:
 
@@ -158,7 +169,9 @@ b) O apoio é pago proporcionalmente à realização do investimento elegível e
 
 2 - ...
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 1 - O promotor poderá solicitar ao grupo a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
@@ -178,7 +191,9 @@ b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o p
 
 7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 14º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
 
-###### Artigo 17º — [...]
+Artigo 17º
+
+[...]
 
 1 - ...
 
@@ -200,7 +215,9 @@ c) ...
 
 4 -...
 
-###### Artigo 20º — [...]
+Artigo 20º
+
+[...]
 
 1 - ...
 
@@ -208,16 +225,20 @@ c) ...
 
 3 - O Regulamento específico pode ser alterado pelo grupo, mediante prévia autorização do gestor.
 
-###### Artigo 2º — Disposição transitória
+Artigo 2º
+
+Disposição transitória
 
 1 - Os promotores de candidaturas enquadráveis nas alíneas a) a c) do artigo 2º do Regulamento do Regime de Apoio da medida «Desenvolvimento sustentável das zonas de pesca», que, à data da entrada em vigor da presente portaria, já tenham solicitado adiantamentos, nos termos e condições previstos no artigo 15º do mencionado Regulamento, na redação conferida pela Portaria nº 106/2010, de 19 de fevereiro, podem solicitar nos competentes organismos intermédios a concessão de um complemento de adiantamento, de forma que o mesmo totalize até 50% do apoio concedido, ficando, nesse caso, obrigados a demonstrar a realização de 50% do investimento elegível no prazo de seis meses, mediante a apresentação dos correspondentes comprovativos de despesa.
 
 2 - O prazo fixado no número anterior conta-se a partir da data de entrada em vigor da presente portaria.
 
-###### Artigo 3º — Entrada em vigor e produção de efeitos
+Artigo 3º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - As alterações introduzidas pela presente Portaria aos artigos 13º, 14º, 15º e 17º do Regulamento do Regime de Apoio da medida «Desenvolvimento sustentável das zonas de pesca», aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 10 de outubro de 2013.

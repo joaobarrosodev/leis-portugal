@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2013/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cbdf199f19f15fe49ffc85ba826a22844e8ce5479fb88400ac5eb1584dbe5fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ddb74a3880ac826f5e63b0b9a931ef5f453ad13f8754783d6595e53e3e6a80a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
 - Acesso ao Emprego
 - Aicep
 - Ajuda Comunitária
-- Financiamento
-- Bolsa de Estágio
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Impulso Jovem
-- Programa de Estágios Profissionais Passaporte Emprego
-- Mudança Tecnológica
-- Internacionalização Empresarial
 - Apoio ao Investimento
+- Bolsa de Estágio
+- Contrato de Trabalho
+- Desenvolvimento Económico
+- Emprego
+- Financiamento
+- Formação Profissional
+- IAPMEI
+- Impulso Jovem
+- Instituto do Turismo de Portugal
+- Internacionalização Empresarial
+- Investigação Científica e Tecnológica
 - Jovem
 - Mercado de Emprego
-- Instituto do Turismo de Portugal
-- Desenvolvimento Económico
-- Programa Comunitário
-- Qualificação Profissional
-- Emprego
+- Mudança Tecnológica
 - Pequenas e Médias Empresas
-- Contrato de Trabalho
-- Regulamento
 - PME
-- IAPMEI
+- Programa Comunitário
+- Programa de Estágios Profissionais Passaporte Emprego
+- Qualificação Profissional
+- Regulamento
+- Subsídio de Alimentação
 - Subsídio de Transporte
 - Unidade de Gestão
 - VIDA Activa
@@ -104,15 +104,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/408/2012/12/14/p/dre
 article_structure:
-  article_count: 50
+  article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:51Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +163,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São destinatários das Medidas Passaporte Emprego Industrialização e Passaporte Emprego Internacionalização os jovens entre os 18 e os 30 anos, com ou sem ensino secundário completo, licenciatura e ou mestrado, inscritos nos centros de emprego.
 
@@ -175,7 +177,9 @@ c) [...].
 
 5- [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -183,11 +187,15 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O estágio tem a duração de doze meses, não prorrogável.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A entidade promotora obriga-se a proporcionar formação profissional, em competências transversais, em empreendedorismo ou em área de formação necessária para o desempenho do estágio na entidade beneficiária, designadamente:
 
@@ -207,7 +215,9 @@ b) Formação realizada por entidade formadora certificada, com uma carga horár
 
 5 - A formação referida na alínea b) do n.º 2 do presente artigo deve estar prevista no Catálogo Nacional de Qualificações.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -229,7 +239,9 @@ e) Decorrido o prazo de 18 meses após o início do estágio, incluindo-se naque
 
 5 - A cessação do contrato, nas situações previstas no n.º 1, nas alíneas b) a e) do n.º 2 e nos ns.º 3 e 4, deve igualmente ser comunicada aos Organismos Intermédios definidos no n.º 3 do artigo 24.º do presente regulamento, pela entidade promotora até ao dia seguinte ao do início da respetiva produção de efeitos pela forma referida no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -243,7 +255,9 @@ c) [Anterior alínea b)].
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]:
 
@@ -265,7 +279,9 @@ i. 1,65 vezes do valor correspondente ao IAS, para o estagiário com qualificaç
 
 ii. 2,25 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 8 do QNQ.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]:
 
@@ -289,7 +305,9 @@ b) [...];
 
 c) Ao prémio devido pelo seguro de acidentes de trabalho, até ao valor correspondente a 3% do valor total da bolsa de estágio referida na subalínea iii. da alínea a) do artigo 16.º, reportado ao período de duração do estágio respetivo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -301,7 +319,9 @@ ii. Relativamente aos estagiários com deficiência e incapacidade, caso não as
 
 3 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 Os Passaportes Emprego 3i referidos no presente regulamento recebem financiamento comunitário proveniente dos Programas Operacionais Regionais das regiões de convergência NUTS II Norte, Centro ou Alentejo e na parte relativa ao prémio de integração respeitam o Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de dezembro, relativo aos auxílios minimis.»
 
@@ -329,7 +349,7 @@ São revogadas a alínea a) do n.º 5 do artigo 1.º e a alínea b) do n.º 2 do
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 1 de abril de 2013.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 1 de abril de 2013.
 
 ## Anexo — Republicação do Regulamento Específico Passaportes 3i, anexo à Portaria n.º 408/2012, de 14 de dezembro
 
@@ -403,7 +423,7 @@ Podem candidatar-se aos Passaportes Emprego 3i as entidades previstas na alínea
 
 São entidades beneficiárias, no âmbito dos Passaportes Emprego 3i, as empresas de qualquer natureza e sob qualquer forma jurídica com projetos de investimento num dos seguintes Sistemas de Incentivos:
 
-a) SI l&DT;
+a) SI l&DT
 
 b) SI Inovação;
 

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/144/2011/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-2011-278026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de53cd604024b751330967dc8b721cccbe92a0d4be93fa4075b433a1d6609c52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9910988186475f9d6b5758b419cfa89a722b34bec8434ce6fd6bb1fab9a20d44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato Coletivo de Trabalho
+- Indústria Alimentar
 - Regime Laboral
 - Regulamento de Extensão
-- Indústria Alimentar
 - Relações de Trabalho
 - Remuneração
 - Trabalhador por Conta de Outrem
@@ -80,13 +80,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:55Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +145,4 @@ b) Às relações de trabalho entre empresas filiadas nas associações de empre
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da sua entrada em vigor, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 10 de Fevereiro de 2011.**
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 10 de Fevereiro de 2011.

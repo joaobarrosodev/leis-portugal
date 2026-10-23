@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/55/2014/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-2014-572148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c69ecfa0285d34dc2580633089f4cd7f48eaaab884686c05a3c029d24eb5a7d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3df100e46a7f21d33d2d78f80cfa1825ee20ce7ebf9307bac1129800f4f7f5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Espetáculos e Divertimentos Públicos
+- Base de Dados
 - Claque
-- Ministério da Administração Interna
-- Violência
 - Combate ao Crime
 - Definição de Competências
-- Segurança Pública
-- Secretaria Geral
-- Base de Dados
-- Informatização
-- Segurança da Informação
+- Desporto
+- Direcção Geral de Infra-estruturas e Equipamentos
+- Espetáculos e Divertimentos Públicos
 - GNR
+- Informatização
+- Ministério da Administração Interna
 - Normas de Segurança
 - Organização Desportiva
+- PSP
+- Secretaria Geral
+- Segurança da Informação
 - Segurança das Instalações
-- Direcção Geral de Infra-estruturas e Equipamentos
-- Desporto
+- Segurança Pública
+- Violência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/2012/10/09/p/dre
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260420:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:46Z'
   warnings: []
   errors: []
 ---
@@ -282,4 +298,4 @@ Nas situações de inoperacionalidade da PIRPED é admissível o recurso à requ
 
 2- Os utilizadores a que se refere o artigo 5.º devem dar cumprimento ao conjunto de obrigações a que se referem os artigos 5.º e 7.º até à data a que se refere o número anterior.
 
-**O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 17 de fevereiro de 2014.**
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 17 de fevereiro de 2014.

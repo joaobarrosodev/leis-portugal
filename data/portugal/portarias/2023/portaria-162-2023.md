@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11400/0001000014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/162/2023/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-2023-214278019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ab0b7a93246f5bdfbd3757b0f53097acffdab1d88f4c4f5b05252ce188564ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99711df488e4e39145ac4999948250a4221f70f89bc9b605485cceb245366e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direção Geral de Política do Mar
 - Orgânica
+- Pessoal Dirigente
 relationships:
+- type: amended_by
+  target: pt:dre:221518926:por
+  label: Com efeitos a 03 de julho de 2023, é criada a estrutura orgânica flexível da Direção-Geral de Política do Mar, e
+    fixada a estrutura nuclear, pelo(a) Aviso n.º 17584/2023 - Diário da República n.º 177/2023, Série II de 2023-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17584-2023-221518926
+  date: '2023-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2022/05/30/p/dre
   label: null
@@ -86,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/2012/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/2012/09/28/p/dre
+- type: cites
+  target: pt:dre:175540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186521681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:38Z'
   warnings: []
   errors: []
 ---
@@ -282,4 +308,6 @@ A dotação máxima de chefes de equipa da DGPM é fixada em um.
 
 A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 26 de maio de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 9 de junho de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 30 de maio de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 26 de maio de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva, em 9 de junho de 2023. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 30 de maio de 2023.
+
+116561085

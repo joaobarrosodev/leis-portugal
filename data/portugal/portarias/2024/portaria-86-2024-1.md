@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0000300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/86/2024/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T16:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d85a21340a7a3c1531bf3f30b0d150d60c7c471da5f833a72a3aec78c02ba3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 070f57a459724506f0ca367b5c96a5d9f252279d2ca49d8084ec1cebe9eafd0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Enfermagem
-- Regulamentação de Atos Legislativos
 - Enfermagem
 - Entidade Reguladora da Saúde
 - Especificação Técnica
+- Informação do Consumidor
 - Licenciamento
 - Normas de Construção
 - Normas de Segurança
 - Pessoal de Enfermagem
-- Informação do Consumidor
 - Recursos Humanos
+- Regulamentação de Atos Legislativos
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
 - type: cites
@@ -92,16 +92,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205049459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:801/2010
+  label: Revoga, a partir de 12 de março de 2024, nos termos do artigo 21.º do presente diploma, a Portaria n.º 801/2010,
+    de 23 de agosto, Diário da República n.º 163/2010, Série I
+  source: null
+  date: '2010-08-23'
+- type: repeals
+  target: pt:numero:portaria:1056-A/2010
+  label: Revoga, a partir de 12 de março de 2024, nos termos do artigo 21.º do presente diploma, a Portaria n.º 1056-A/2010,
+    de 14 de outubro, Diário da República n.º 200/2010, 1º Suplemento, Série I
+  source: null
+  date: '2010-10-14'
 article_structure:
   article_count: 23
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:02:43Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +156,7 @@ O protelamento da publicação das portarias que regulamentam o [Decreto-Lei n.�
 
 Assim:
 
-Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os</sup>1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.os1 e 5 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -398,7 +426,9 @@ São aprovadas especificações técnicas no que diz respeito aos compartimentos
 
 Sempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nas respetivas portarias.
 
-###### Artigo 20.º — Livro de reclamações
+###### Artigo 20.º
+
+## Livro de reclamações
 
 Os centros de enfermagem estão sujeitos à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -416,7 +446,7 @@ Os centros de enfermagem estão sujeitos à obrigatoriedade de existência e dis
 
 ###### Artigo 22.º — Norma revogatória
 
-São revogadas as Portarias n.<sup>os</sup>801/2010, de 23 de agosto, e 1056-A/2010, de 14 de outubro.
+São revogadas as Portarias n.os801/2010, de 23 de agosto, e 1056-A/2010, de 14 de outubro.
 
 ###### Artigo 23.º — Entrada em vigor
 
@@ -424,7 +454,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 1 de março de 2024.
 
-**A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — (a que se refere o artigo 18.º)
 
@@ -432,7 +462,7 @@ Centros de enfermagem
 
 Compartimentos a considerar
 
-| Designação | Função do compartimento | Área útil mínima (m<sup>2</sup>) | Largura mínima (m) | Observações |
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima<br>(m) | Observações |
 | --- | --- | --- | --- | --- |
 | Área de Acolhimento |  |  |  | Possibilidade de partilha no caso de coexistência de várias tipologias de atividade |
 | Receção/secretaria | Secretaria com zona de atendimento de público | – | – |  |
@@ -489,3 +519,5 @@ Equipamento médico e geral a considerar
 2 - Todos os compartimentos dedicados à prestação de cuidados devem ser dotados de dispensador de sabão líquido, SABA (solução antissética de base alcoólica), porta-toalhetes e balde de lixo acionado por pedal.
 
 3 - Nas salas de tratamento, devem existir recipientes para a triagem e recolha de resíduos hospitalares, de acordo com a legislação em vigor.
+
+117429243

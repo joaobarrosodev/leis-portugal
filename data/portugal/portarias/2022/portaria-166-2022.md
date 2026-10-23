@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12400/0000800008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/166/2022/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-2022-185390586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a625df0411e33c0c347baf737bc2ea5ac11419b1fb5f814c0387be4b27b739b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bec91f1b9c5e66172f575759066aacf8b46a80f0d5d12e2679beda189045a19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Financiamento
-- Estabelecimento Comercial
-- Equipamento
-- Indústria de Plásticos
+- Agência Portuguesa do Ambiente
+- Eliminação de Resíduos
 - Embalagem
-- Proteção do Ambiente
-- Política do Ambiente
+- Equipamento
+- Estabelecimento Comercial
+- Financiamento
+- Fundo Ambiental
+- Gestão de Resíduos
+- Indústria de Plásticos
 - Informação do Consumidor
+- Política do Ambiente
 - Prémio
 - Projeto
-- Eliminação de Resíduos
-- Fundo Ambiental
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152-d/2017/12/11/p/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/202/2019/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/202/2019/07/03/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122891077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177088820:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:16Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +161,6 @@ O n.º 1 do artigo 2.º da [Portaria n.º 202/2019](https://diariodarepublica.pt
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba, em 27 de junho de 2022.**
+O Secretário de Estado do Ambiente e da Energia, João Saldanha de Azevedo Galamba, em 27 de junho de 2022.
+
+115460408

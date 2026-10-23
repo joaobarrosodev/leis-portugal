@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15100/0510205107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/846/2009/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2009-494021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a418390b7c394f7ca67a9f28b71fdb048ede07894c88ae6e0c41b3084e4a0a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce7a5ffeccd8bfd838af200f9e1a9819622d47af8c5d3e3d34a9f031257c0975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/355/2007/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/355/2007/03/30/p/dre
+- type: corrected_by
+  target: pt:dre:490417:por
+  label: "Rectificado o art. 2.º [na parte em que adita o artigo 14.º ao anexo da Portaria n.º 355/2007, de 30 de Março],\
+    \ do presente diploma e rectificado ainda o art. 2.º da republicação do anexo da Port 355/2007 de 30-Mar, no que se refere\
+    \ ao art. 14.º, pela DECL-RECT.68/2009.23.09.2009.PCM, DR.IS [185] de 23.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/68-2009-490417
+  date: '2009-09-23'
+- type: repealed_by
+  target: pt:dre:190608:por
+  label: "Revogada a Port 355/2007, de 30-mar, na redação do presente diploma, pela PORT.393/2012.29.11.2012.MF, DR.IS [231]\
+    \ de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2012-190608
+  date: '2012-11-29'
 article_structure:
-  article_count: 25
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:38Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +162,9 @@ l) Departamento de Apoios Comunitários na Região Autónoma da Madeira.
 
 6 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -171,7 +186,9 @@ h) Assegurar a gestão dos pedidos de ajudas no âmbito do Sistema Integrado de 
 
 i) Assegurar a gestão do processo de liquidação e cobrança da taxa de financiamento do sistema de recolha de cadáveres de animais mortos na exploração.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -191,7 +208,9 @@ g) Promover e assegurar a recuperação de verbas em caso de incumprimentos cont
 
 h) Assegurar a gestão do sistema de identificação animal, bem como dos respectivos protocolos e acordos celebrados.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -211,7 +230,9 @@ g) Assegurar a informação e apoio aos beneficiários;
 
 h) Assegurar a elaboração de estudos e pareceres que o conselho directivo do IFAP, I. P., entenda solicitar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -225,7 +246,9 @@ d) ...
 
 e) Assegurar, no âmbito do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a gestão e operação das infra-estruturas na área das tecnologias de informação e comunicação (TIC).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 ...
 
@@ -261,7 +284,9 @@ e) Assegurar o funcionamento do Sistema de Gestão Documental do IFAP, I. P.;
 
 f) Assegurar a elaboração de normativos internos de procedimentos.
 
-###### Artigo 14.º — Departamento da Região Autónoma da Madeira
+Artigo 14.º
+
+Departamento da Região Autónoma da Madeira
 
 Compete ao Departamento da Região Autónoma da Madeira, abreviadamente designado por DRAM:
 
@@ -287,7 +312,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 31 de Julho de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
 
 ## ANEXO — Estatutos do Instituto de Financiamento da Agricultura e Pescas, I. P.
 

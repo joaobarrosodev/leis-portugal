@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23900/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/433/2023/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665e690d72a9821ad16f05993afff5c911cb01f28e499bfc60a701460ce01dbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 951671367051aa6d9e9aec9e83f36c2d03f96a30afcd1b3a43dbca4577257328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Regulamentação de Atos Legislativos
 - Administração Pública
+- Formação Profissional
 - INA
 - Orgânica
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:100-B/2021
+  label: Altera, a partir de 14 de dezembro de 2023, nos termos do artigo 3.º do presente diploma, os artigos 2.º, 3.º, 4.º,
+    5.º e 6.º e revoga a alínea i) do n.º 1 e o n.º 2 do artigo 3.º, as alíneas a), b), d), i), j), k), m), n), o), p), q)
+    e s) do artigo 4.º, as alíneas b), h), i) e j) do artigo 5.º e as alíneas c) e o) do artigo 6.º da Portaria n.º 100-B/2021
+    de 11 de maio, Diário da República n.º 91/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-05-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/2021/03/15/p/dre
   label: null
@@ -92,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/100-b/2021/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/100-b/2021/05/11/p/dre
+- type: cites
+  target: pt:dre:159432382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163154513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200731098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:15Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +184,9 @@ d) Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimon
 
 5 - O número de unidades orgânicas flexíveis não pode exceder, em cada momento, o limite máximo de sete.
 
-###### Artigo 3.º — Formação
+Artigo 3.º
+
+Formação
 
 1 - À Formação compete:
 
@@ -184,7 +218,9 @@ m) [...]
 
 2 - (Revogado.)
 
-###### Artigo 4.º — Conhecimento
+Artigo 4.º
+
+Conhecimento
 
 À Conhecimento compete:
 
@@ -250,7 +286,9 @@ dd) Participar em redes de informação bibliográfica em áreas de interesse pa
 
 ee) Assegurar a gestão, funcionamento e desenvolvimento da INA Editora e respetiva loja online, planeando e promovendo a edição de publicações, em suporte papel ou digital, com interesse para o INA, I. P., e para a Administração Pública.
 
-###### Artigo 5.º — Cooperação
+Artigo 5.º
+
+Cooperação
 
 À Cooperação compete:
 
@@ -282,7 +320,9 @@ m) Assegurar a internacionalização da oferta formativa desenvolvida pelo INA, 
 
 n) Assegurar e apoiar a representação do INA, I. P., em reuniões internacionais.
 
-###### Artigo 6.º — Recursos
+Artigo 6.º
+
+Recursos
 
 À Recursos compete:
 
@@ -334,4 +374,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 7 de dezembro de 2023.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia.
+
+117145938

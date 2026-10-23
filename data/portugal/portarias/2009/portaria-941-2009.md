@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/941/2009/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/941-2009-488138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e17f4bae75e23ae3a9c8c031cd92e19bd9c5b6806b99274005b74ee0d9be00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b06c3df799102985da2a72fa7b3c1bcae6e288670e691545f0be151c4858cb31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Pedagógica
-- Formação Profissional
 - Colégio Internato dos Carvalhos
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Profissional
 - Estabelecimento de Ensino
+- Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -108,16 +108,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/189/2005/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/189/2005/02/16/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3189842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499211:por
+  label: "Revogada pela PORT.260/2013.13.08.2013.MECI, DR.IS [155] de 13.08.2013, de acordo com o calendário de produção de\
+    \ efeitos do art. 15.º desta portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-2013-499211
+  date: '2013-08-13'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:11Z'
   warnings: []
   errors: []
 ---
@@ -258,58 +300,58 @@ O Colégio Internato dos Carvalhos deverá elaborar anualmente um relatório de 
 
 É revogada a [Portaria n.º 189/2005](https://diariodarepublica.pt/dr/detalhe/portaria/189-2005-603267), de 16 de Fevereiro.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 10 de Agosto de 2009.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 10 de Agosto de 2009.
 
 ## ANEXO — Colégio Internato dos Carvalhos
 
 Curso Científico-Tecnológico de Química, Ambiente e Qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Biotecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Animação Sócio-Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Electrotecnia e Automação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Electrónica e Telecomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Contabilidade e Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Informática de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Marketing e Estratégia Empresarial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Línguas e Relações Empresariais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Assessoria Jurídica e Documentação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Património e Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
 
 Curso Científico-Tecnológico de Artes e Indústrias Gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16100/0548205486.pdf)

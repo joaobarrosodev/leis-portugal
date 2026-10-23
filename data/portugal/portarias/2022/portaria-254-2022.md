@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20500/0007400075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254/2022/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2022-202552710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88e7f9672f6e770485fcd9b298702d2a0eb2d31f726898874b114fd5776bfd7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 590b4c75bb3c4ed6e74516e00fcc1043a61182ca821439dfe3d39dca9cc43c84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
 subjects:
 - Análises Clínicas
 - Certificado de Conformidade
-- Estabelecimento Comercial
-- Infarmed
-- Direção Geral da Saúde
-- Definição de Competências
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
-- Serviço Nacional de Saúde
+- Definição de Competências
+- Direção Geral da Saúde
+- Doença
+- Doença Infecciosa
+- Embalagem
+- Epidemia
+- Estabelecimento Comercial
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
-- Embalagem
+- Infarmed
 - Meios Complementares de Diagnóstico
-- Doença Infecciosa
-- Epidemia
-- Doença
-- Comércio
+- Saúde Pública
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/2009/06/17/p/dre
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/66-a/2022/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/66-a/2022/09/30/p/dre
+- type: cites
+  target: pt:dre:201773286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494558:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:52Z'
   warnings: []
   errors: []
 ---
@@ -142,4 +150,6 @@ A presente portaria estabelece um regime excecional relativo à disponibilizaç�
 
 2 - A presente portaria produz efeitos a 1 de outubro de 2022.
 
-**O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 20 de outubro de 2022.**
+O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 20 de outubro de 2022.
+
+115802106

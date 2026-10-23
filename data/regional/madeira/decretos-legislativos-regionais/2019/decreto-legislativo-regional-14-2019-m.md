@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2019/09/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd1c9b53c7323ae2c1890156e77ea550beacbc1737c7f118ac40d2fc8e967d20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b51f9b20f287accd2a156e409e9ba3bce33eb5adcdf7af0b20bb402b7afeaf8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- GADO
-- Multa
-- Proteção dos Animais
+- Agência Portuguesa do Ambiente
+- Câmara Municipal
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
+- Controlo Sanitário
 - Direcção Regional de Agricultura
 - Direcção Regional do Ordenamento do Território e Ambiente
 - Direcção Regional do Trabalho
-- Controlo Sanitário
 - Exploração Pecuária
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
+- GADO
+- Instituto de Administração da Saúde e Assuntos Sociais
 - Licenciamento
 - Madeira.região Autónoma
-- Câmara Municipal
-- Registo de Animais
+- Multa
 - Pecuária
-- Taxa
+- Produção Animal
+- Proteção dos Animais
+- Registo de Animais
 - Saúde Animal
-- Instituto de Administração da Saúde e Assuntos Sociais
-- Agência Portuguesa do Ambiente
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165/2014/11/05/p/dre
@@ -130,16 +130,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/631/2009/06
   label: null
   source: http://data.dre.pt/eli/port/631/2009/06
+- type: cites
+  target: pt:dre:118748847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70054442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:22Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +236,9 @@ Os artigos 5.º, 6.º, 7.º e 13.º do [Decreto Legislativo Regional n.º 7/2015
 
 2 - Para a atividade pecuária enquadrada na classificação «Classe 2» em sistema extensivo, e para a atividade pecuária enquadrada na classificação «Classe 2» até um máximo de 60 CN, independentemente do seu sistema de produção, os elementos instrutórios da declaração prévia a que se refere o n.º 4 da Secção II do Anexo III referido no número anterior, são os constantes do anexo III ao presente diploma, e que dele faz parte integrante.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -204,13 +254,17 @@ Os artigos 5.º, 6.º, 7.º e 13.º do [Decreto Legislativo Regional n.º 7/2015
 
 7 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As atividades pecuárias enquadradas na classificação «detenção caseira» e «Classe 3», já licenciadas ou autorizadas ao abrigo de legislação anterior que não possuam título válido ou atualizado, e desde que não configurem situações de desconformidade com os instrumentos de gestão territorial, devem promover junto da Direção Regional de Agricultura até 31 de março de 2020, a atualização do registo da exploração e solicitar a legalização da sua atividade pecuária, com a atualização do cadastro de acordo com as disposições do presente decreto legislativo regional, das portarias regulamentares e demais legislação aplicável, bem como solicitar a emissão das licenças ou títulos complementares à atividade pecuária que sejam exigidos.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -256,11 +310,11 @@ O presente Decreto Legislativo Regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira de 11 de julho de 2019.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 26 de julho de 2019.**
+Assinado em 26 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -272,7 +326,7 @@ TABELA
 
 Classificação das atividades pecuárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -412,7 +466,7 @@ TABELA
 
 Classificação das atividades pecuárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 6.º)
 
@@ -420,7 +474,7 @@ TABELA DE CONVERSÃO
 
 Equivalências em cabeças normais (CN) (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17300/0007200082.pdf)
 
 (1) Cabeça normal - CN - unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva.
 
@@ -461,3 +515,5 @@ C - Peças gráficas:
 a) Planta de localização e enquadramento à escala de 1:10.000, com indicação dos limites do terreno afeto ao estabelecimento, se aplicável;
 
 b) Planta de implantação à escala não inferior a 1:200 com indicação dos limites e modelação de terreno e implantação de edifícios, se aplicável.»
+
+112488681

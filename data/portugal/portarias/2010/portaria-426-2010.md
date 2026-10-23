@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/2010/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eb404af2e83343ac90651845d0cceaacbf258b3bd974d3e92840f100b8d72e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44159ebb2805bbe6d2862942db628f35b4231fe1e1d62182c2f9f716794c85dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,41 @@ reuse:
 subjects:
 - Acesso à Informação
 - BENS Imóveis
-- Modernização Administrativa
 - Certidão
-- Serviços de Registo e Notariado
-- Instituto dos Registos e do Notariado
 - Documento Autentico
-- Registo Automóvel
+- Documento Eletrónico
+- Documento Único Automóvel
+- Documentos do Veículo
 - Formulário Eletrónico
+- Instituto dos Registos e do Notariado
+- Internet
+- Modernização Administrativa
+- Modernização Tecnológica
 - Pagamento
+- Página na Internet
+- Registo Automóvel
+- Registo Predial
+- Serviços de Registo e Notariado
+- Taxa
 - Transmissão da Propriedade
 - Veículo
-- Documentos do Veículo
-- Documento Eletrónico
-- Modernização Tecnológica
-- Página na Internet
-- Internet
-- Documento Único Automóvel
-- Registo Predial
-- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:176062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176062:por
+  label: "Alterado, a partir de 01.10.2012, o art. 2º da Port 622/2008, de 18-jul, na redação do presente diploma, pela PORT.286/2012.20.09.2012.MJ,\
+    \ DR.IS [183] de 20.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2012-176062
+  date: '2012-09-20'
+- type: amended_by
+  target: pt:dre:70686128:por
+  label: Alterado, a partir de 01.11.2015, o art. 16.º da Port 99/2008 de 31-jan, com a redação dada pelo presente diploma,
+    pelo(a) Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2015-70686128
+  date: '2015-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1416-a/2006/12/19/p/dre
   label: null
@@ -104,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1535/2008/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1535/2008/12/30/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444230:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:17Z'
   warnings: []
   errors: []
 ---
@@ -224,4 +256,4 @@ d) Os n.os 2, 4 e 5 do artigo 6.º da [Portaria n.º 1513/2008](https://diarioda
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto de Sousa Martins, em 17 de Junho de 2010.**
+O Ministro da Justiça, Alberto de Sousa Martins, em 17 de Junho de 2010.

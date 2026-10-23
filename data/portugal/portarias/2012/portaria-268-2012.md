@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-2012-174822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e05bdb87602cffb8fa221f3714556359b58c8d1e94aff6a9a1ae79b5f61bc805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adeb52c3056e31e0037e8f777c0ecba8812473ab7360af45a1d75d5415068d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:174821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 74
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:15Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ Manda o Governo, pelo Ministro da Educação e Ciência, o seguinte:
 
 São aprovados os Estatutos do IADE-U Instituto de Arte, Design e Empresa - Universitário, em anexo à presente portaria, da qual fazem parte integrante.
 
-**O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 22 de agosto de 2012.**
+O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 22 de agosto de 2012.
 
 ## ANEXO — ESTATUTOS DO IADE-U INSTITUTO DE ARTE, DESIGN E EMPRESA - UNIVERSITÁRIO
 
@@ -690,7 +698,9 @@ c) Dirigir o respetivo Departamento Académico do IADE-U em todos os aspetos adm
 
 2 - O mandato do diretor de departamento é de um ano letivo.
 
-##### SUBSECÇÃO VIII — Artigo 38.º
+##### SUBSECÇÃO VIII
+
+###### Artigo 38.º
 
 Disposições comuns aos órgãos académicos
 
@@ -720,7 +730,7 @@ Disposições comuns aos órgãos académicos
 
 ###### Artigo 39.º — Designação
 
-**O presidente do Conselho Geral é nomeado pelo conselho de administração da entidade instituidora.**
+O presidente do Conselho Geral é nomeado pelo conselho de administração da entidade instituidora.
 
 ###### Artigo 40.º — Competências do presidente
 
@@ -838,7 +848,9 @@ d) Contribuir para a preparação de um código de direitos e deveres a respeita
 
 e) Emitir parecer sobre ações a desenvolver na melhoria da qualidade do ensino-aprendizagem, em resultado da análise sistemática das questões que lhe são colocadas.
 
-##### SUBSECÇÃO VI — Artigo 49.º
+##### SUBSECÇÃO VI
+
+###### Artigo 49.º
 
 Designação e competências dos restantes órgãos individuais
 

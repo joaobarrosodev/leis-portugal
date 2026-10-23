@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/2011/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-2011-276834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24cc4b8f677ffd91ee6d7277873e483ce1a77c7e8da3bc6469a4539777ca6d5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 802d153263c15377e6b2acd2000268c6aa3d52876865d84f8c112def8839a5dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,24 @@ subjects:
 - Acesso ao Emprego
 - Aicep
 - Apoio Técnico
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Comércio Internacional
+- Criação de Emprego
 - Definição de Competências
 - Desempregado
+- Desenvolvimento Económico
+- Documento Eletrónico
+- Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Internacionalização Empresarial
 - Jovem
-- Programa Inov-export
-- Documento Eletrónico
-- Criação de Emprego
-- Página na Internet
-- Desenvolvimento Económico
-- Programa de Emprego
-- Estágio de Formação
 - Jovem Empresário
-- Política de Emprego
+- Página na Internet
 - Pequenas e Médias Empresas
+- Política de Emprego
+- Programa de Emprego
+- Programa Inov-export
 - Regulamento
 relationships:
 - type: cites
@@ -106,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115/2009/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/2009/12/15/p/dre
+- type: cites
+  target: pt:dre:233715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:56Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +168,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 7.º do Regulamento da Medida INOV-Exp
 
 O presente Regulamento aplica-se à medida INOV Export - programa de estímulo ao emprego de especialistas em comércio internacional preferencialmente nas pequenas e médias empresas (PME) nacionais exportadoras ou potencialmente exportadoras, promovida, gerida e executada pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), em articulação com o Instituto do Emprego e Formação Profissional (IEFP, I. P.).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -166,7 +180,9 @@ b) Consolidar o conhecimento sobre mercados internacionais nas empresas exportad
 
 c) Estimular as exportações e o processo de internacionalização das empresas exportadoras ou potencialmente exportadoras.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -176,7 +192,9 @@ b) Empresas potencialmente exportadoras ou que exportam pontualmente, com produt
 
 c) Associações empresariais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São susceptíveis de aceder ao Programa INOV-Export as entidades que cumpram os seguintes requisitos:
 
@@ -192,7 +210,9 @@ e) (Revogada.)
 
 2 - Sem prejuízo do disposto no número anterior, as entidades mencionadas na alínea c) do artigo 4.º terão de apresentar um projecto de internacionalização aprovado ao abrigo do QREN para aceder ao Programa INOV-Export.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -214,7 +234,9 @@ g) ...
 
 3 - Sem prejuízo do disposto na alínea e) do n.º 1, no caso de existirem candidatos com mais de 35 anos de idade, será analisada a experiência profissional e os conhecimentos curriculares, em matéria de comércio internacional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -240,4 +262,4 @@ A presente portaria produz efeitos desde dia 1 de Março de 2011.
 
 Em 24 de Março de 2011.
 
-**O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.**
+O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.

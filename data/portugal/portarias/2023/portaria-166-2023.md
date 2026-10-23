@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/166/2023/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-2023-214618955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f1db92d903e2be27ebad74e3dcff58a8b974a274b6fea6a552c2481b52f1e98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4299fbc37945fed3ee40b91ede86dd55a625e6a81e74717afa15e2cae5f380a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,26 +70,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Contrato de Seguro
+- Agricultura
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
+- Alteração Climática
+- Catástrofe
+- Clima
+- Contrato de Seguro
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Catástrofe
-- IFAP
 - Exploração Agrícola
+- Financiamento
+- Fruticultura
+- IFAP
 - Organização de Produtores
-- Produto Hortícola
-- Programa Operacional
 - Política Agrícola
 - Produção Agrícola
-- Regulamento CE
-- Fruticultura
-- Agricultura
-- Alteração Climática
-- Clima
 - Produto Agrícola
+- Produto Hortícola
+- Programa Operacional
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32013R1306
@@ -115,16 +115,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/306/2019/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/306/2019/09/12/p/dre
+- type: cites
+  target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124642995:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:39Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +181,9 @@ Os artigos 7.º, 10.º, 15.º, 21.º, 30.º, 31.º, 32.º e 39.º da [Portaria n
 
 6 - Para efeitos do disposto no n.º 4, caso se verifique uma redução do valor de um produto de, pelo menos, 35 %, devido a catástrofes naturais, fenómenos climáticos adversos, doenças de plantas ou pragas, por motivos alheios à responsabilidade e ao controlo da organização de produtores, considera-se que o VPC desse produto representa 85 % do seu valor no período de referência anterior, devendo a organização de produtores apresentar os respetivos motivos justificativos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -185,7 +195,9 @@ Os artigos 7.º, 10.º, 15.º, 21.º, 30.º, 31.º, 32.º e 39.º da [Portaria n
 
 5 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Podem ser objeto de operações de retiradas do mercado, sem prejuízo do disposto no n.º 7:
 
@@ -205,13 +217,17 @@ b) [...]
 
 7 - Em situações excecionais, por despacho do membro do Governo responsável pela área da agricultura e da alimentação, podem ser definidos outros destinos admissíveis para os produtos retirados, bem como os produtos em causa, ao abrigo do disposto nos artigos 45.º e 46.º do [Regulamento Delegado (UE) 2017/891](https://diariodarepublica.pt/application/external/eurolex?17R0891), na sua redação atual, devendo o despacho fixar igualmente o montante do apoio.
 
-###### Artigo 21.º — Prémio de seguro
+Artigo 21.º
+
+Prémio de seguro
 
 1 - [...]
 
 2 - (Revogado.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -249,7 +265,9 @@ b) A modificação das características técnicas de um determinado investimento
 
 10 - (Revogado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -257,13 +275,17 @@ b) A modificação das características técnicas de um determinado investimento
 
 3 - A análise e a decisão dos pedidos são efetuadas pelas DRAP ou pelos serviços competentes das RA, sendo a decisão notificada à organização de produtores até ao dia 31 de dezembro do ano de apresentação.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
 2 - Nos casos previstos no n.º 3 do artigo 30.º-B, a execução tem início até 31 de janeiro do ano da aprovação.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -283,19 +305,25 @@ Os anexos II, III e IV da [Portaria n.º 295-A/2018](https://diariodarepublica.p
 
 [...]
 
-## ANEXO III — Limites das ações e medidas
+ANEXO III
+
+Limites das ações e medidas
 
 (a que se refere o n.º 4 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf)
 
-## ANEXO IV — Montantes de apoio às retiradas de mercado
+ANEXO IV
+
+Montantes de apoio às retiradas de mercado
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf))](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/11900/0002300029.pdf)
 
-###### Artigo 5.º — Aditamento à [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2018-116877128), de 2 de novembro
+Artigo 5.º
+
+Aditamento à [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2018-116877128), de 2 de novembro
 
 São aditados à [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2018-116877128), de 2 de novembro, na sua redação atual, os n.os 7 e 8 do artigo 7.º, os artigos 30.º-A e o 30.º-B e o n.º 4 do artigo 31.º com a seguinte redação:
 
@@ -319,7 +347,9 @@ São aditados à [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/deta
 
 8 - Caso se verifique uma diminuição da produção causada por uma calamidade natural, um acontecimento climático adverso, doenças dos animais ou das plantas, ou pragas, qualquer indemnização recebida de uma seguradora, por essas causas, a título de medidas de seguros de colheita ou de medidas equivalentes geridas pela organização de produtores ou pelos seus membros, pode ser incluída no VPC do período de referência de 12 meses em que é efetivamente paga.
 
-###### Artigo 30.º-A — Regras específicas para as alterações do ano em curso
+Artigo 30.º-A
+
+Regras específicas para as alterações do ano em curso
 
 1 - Para além do referido no n.º 4 do artigo anterior, considera-se uma alteração no ano em curso:
 
@@ -343,7 +373,9 @@ e) A introdução de uma nova ação resultante de factos alheios à organizaç�
 
 6 - As alterações ao programa operacional que resultem numa alteração do fundo operacional ficam limitadas até um aumento máximo de 25 % do fundo operacional ou a uma redução até 40 % do montante inicialmente aprovado.
 
-###### Artigo 30.º-B — Regras específicas de alteração para o ano seguinte
+Artigo 30.º-B
+
+Regras específicas de alteração para o ano seguinte
 
 1 - Para além do referido no n.º 4 do artigo 30.º, considera-se uma alteração para o ano seguinte:
 
@@ -359,7 +391,9 @@ d) Redução do número de anuidades, quando a organização de produtores tenha
 
 3 - Em casos excecionais devidamente fundamentados, a DRAP pode proferir a decisão até 20 de janeiro do ano seguinte ao pedido de alteração e prever que as despesas sejam elegíveis a partir de 1 de janeiro desse ano.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -369,18 +403,26 @@ d) Redução do número de anuidades, quando a organização de produtores tenha
 
 4 - Em casos excecionais devidamente fundamentados, a decisão pode ser proferida até ao dia 20 de janeiro do ano seguinte ao pedido de alteração e prever que as despesas sejam elegíveis a partir do dia 1 de janeiro desse ano.»
 
-###### Artigo 6.º — Norma revogatória
+Artigo 6.º
+
+Norma revogatória
 
 São revogados as alíneas a) e c) do artigo 3.º, o artigo 18.º, o n.º 2 do artigo 21.º, o artigo 27.º, o artigo 28.º, o artigo 29.º, os n.os 6, 7, 8, 9 e 10 do artigo 30.º e o artigo 44.º, todos da [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2018-116877128), de 2 de novembro, na sua redação atual.
 
-###### Artigo 7.º — Produção de efeitos e aplicação no tempo
+Artigo 7.º
+
+Produção de efeitos e aplicação no tempo
 
 1 - A presente portaria produz efeitos a 1 de janeiro de 2023.
 
 2 - Os pedidos de alteração aos programas operacionais apresentados nos termos do artigo 30.º da [Portaria n.º 295-A/2018](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2018-116877128), de 2 de novembro, ainda não decididos, podem sê-lo, ao abrigo das alterações introduzidas pela presente portaria, mediante apresentação de requerimento das organizações de produtores.
 
-###### Artigo 8.º — Entrada em vigor
+Artigo 8.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 15 de junho de 2023.**
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 15 de junho de 2023.
+
+116577034

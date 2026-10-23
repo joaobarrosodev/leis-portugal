@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1979-369840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 389486f4f697e7a82e3d9976bcd56ea29c4ac8f9e658176f64206243a312d1bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b5f3440488aac69a1d236b506445a1286566e360d422179ce135c00dc180e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Atividade Agrícola
+- Criação de Serviços
+- Estatuto
+- Fundo de Previdência Agro-pecuária
+- Madeira.região Autónoma
+- Pecuária
+- Previdência Social
+- Secretaria Regional da Agricultura e Florestas
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:309886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309886:por
+  label: "Revogado pelo DLR.2/83/M.07.03.1983.ARM, DR.IS [54] de 07.03.1983, mantendo-se, todavia, em vigor o regime adoptado\
+    \ no que respeita ao seguro pecuário \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1983-309886
+  date: '1983-03-07'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:27Z'
   warnings: []
   errors: []
 ---
@@ -107,27 +131,27 @@ Seleccionados os riscos, as culturas agrícolas e os gados, de acordo com o que 
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º É criado o Fundo de Previdência Agro-Pecuária (FPA), dotado de autonomia administrativa e financeira, que funciona na dependência do Secretário Regional de Agricultura e Pescas.
+Artigo 1.º É criado o Fundo de Previdência Agro-Pecuária (FPA), dotado de autonomia administrativa e financeira, que funciona na dependência do Secretário Regional de Agricultura e Pescas.
 
-###### Art. 2.º É aprovado o Estatuto do FPA, que figura em anexo ao presente diploma e dele faz parte integrante.
+Art. 2.º É aprovado o Estatuto do FPA, que figura em anexo ao presente diploma e dele faz parte integrante.
 
-###### Art. 3.º O FPA reger-se-á ainda por outras disposições legais que vierem a ser publicadas posteriormente por iniciativa do Secretário Regional de Agricultura e Pescas, ouvido, sempre que esteja em causa matéria financeira, o Secretário Regional do Planeamento e Finanças.
+Art. 3.º O FPA reger-se-á ainda por outras disposições legais que vierem a ser publicadas posteriormente por iniciativa do Secretário Regional de Agricultura e Pescas, ouvido, sempre que esteja em causa matéria financeira, o Secretário Regional do Planeamento e Finanças.
 
-###### Art. 4.º - 1 - Fica a cargo do FPA a administração e o desenvolvimento do sistema de previdência agro-pecuária, pelo qual serão protegidos os agricultores contra riscos ainda não cobertos pelo seguro e resultantes de acidentes, nomeadamente provocados por agentes meteorológicos, doenças e pragas não controláveis, através de esquemas de compensação de prejuízos sofridos pelas culturas e pelo gado.
+Art. 4.º - 1 - Fica a cargo do FPA a administração e o desenvolvimento do sistema de previdência agro-pecuária, pelo qual serão protegidos os agricultores contra riscos ainda não cobertos pelo seguro e resultantes de acidentes, nomeadamente provocados por agentes meteorológicos, doenças e pragas não controláveis, através de esquemas de compensação de prejuízos sofridos pelas culturas e pelo gado.
 
 2 - A acção do FPA estender-se-á por toda a área da Região Autónoma da Madeira e incidirá sobre as culturas, espécies pecuárias e riscos determinados no Estatuto do FPA, os quais podem, posteriormente, ser alterados.
 
-###### Art. 5.º O Secretário Regional de Agricultura e Pescas providenciará para que o Fundo de Previdência Pecuária, a que se refere o [Decreto-Lei n.º 31570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31570-1941-370073), de 13 de Outubro de 1941, criado na extinta Junta dos Lacticínios da Madeira, com regulamento aprovado por despacho ministerial de 6 de Junho de 1942, seja integrado no FPA, com respeito absoluto pelos direitos dos funcionários que prestam serviço naquele Fundo de Previdência.
+Art. 5.º O Secretário Regional de Agricultura e Pescas providenciará para que o Fundo de Previdência Pecuária, a que se refere o [Decreto-Lei n.º 31570](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31570-1941-370073), de 13 de Outubro de 1941, criado na extinta Junta dos Lacticínios da Madeira, com regulamento aprovado por despacho ministerial de 6 de Junho de 1942, seja integrado no FPA, com respeito absoluto pelos direitos dos funcionários que prestam serviço naquele Fundo de Previdência.
 
-###### Art. 6.º O Secretário Regional de Agricultura e Pescas providenciará para que os serviços dependentes da Secretaria que dirige prestem ao FPA a necessária colaboração e assistência em todas as acções de estudo, implementação e desenvolvimento do sistema de protecção.
+Art. 6.º O Secretário Regional de Agricultura e Pescas providenciará para que os serviços dependentes da Secretaria que dirige prestem ao FPA a necessária colaboração e assistência em todas as acções de estudo, implementação e desenvolvimento do sistema de protecção.
 
-###### Art. 7.º - 1 - O conselho administrativo do FPA pode recrutar o pessoal indispensável à execução dos seus serviços, competindo ao Secretário Regional de Agricultura e Pescas, sob proposta do mesmo conselho, fixar por portaria o respectivo quadro e remunerações, de acordo com as disposições legais em vigor.
+Art. 7.º - 1 - O conselho administrativo do FPA pode recrutar o pessoal indispensável à execução dos seus serviços, competindo ao Secretário Regional de Agricultura e Pescas, sob proposta do mesmo conselho, fixar por portaria o respectivo quadro e remunerações, de acordo com as disposições legais em vigor.
 
 2 - O Secretário Regional de Agricultura e Pescas pode autorizar que pessoal da sua Secretaria seja destacado para prestar serviço no FPA, continuando, consequentemente, os vencimentos e outros abonos deste pessoal a serem pagos pelos serviços de origem, ou requisitado, ficando, neste caso, o respectivo vencimento e outros abonos a cargo do FPA.
 
 3 - Em caso de requisição, o tempo de serviço prestado no FPA conta para todos os efeitos legais como prestado ao serviço de origem, podendo o respectivo lugar ser provido interinamente.
 
-###### Art. 8.º O FPA terá como receitas:
+Art. 8.º O FPA terá como receitas:
 
 a) A contribuição dos beneficiários da previdência agro-pecuária, a deduzir no preço da comercialização dos produtos ou por eles paga, em termos a regulamentar;
 
@@ -137,21 +161,21 @@ c) As dotações para o efeito inscritas, em cada ano, no Orçamento do Governo 
 
 d) Outras receitas e rendimentos que lhe venham a ser consignados ou afectos.
 
-###### Art. 9.º São despesas do FPA as que resultarem do exercício das funções a que se destina e as emergentes da sua administração.
+Art. 9.º São despesas do FPA as que resultarem do exercício das funções a que se destina e as emergentes da sua administração.
 
-###### Art. 10.º Logo que seja criado o seguro agrícola a nível nacional, o Secretário Regional de Agricultura e Pescas providenciará no sentido da revisão ou adaptação da legislação do FPA às normas legais de índole geral que forem estabelecidas.
+Art. 10.º Logo que seja criado o seguro agrícola a nível nacional, o Secretário Regional de Agricultura e Pescas providenciará no sentido da revisão ou adaptação da legislação do FPA às normas legais de índole geral que forem estabelecidas.
 
-###### Art. 11.º O disposto no presente diploma e no Estatuto que dele faz parte integrante terá natureza transitória durante o prazo de três anos, a contar do início da sua vigência, findo o qual será revisto à luz da experiência entretanto recolhida.
+Art. 11.º O disposto no presente diploma e no Estatuto que dele faz parte integrante terá natureza transitória durante o prazo de três anos, a contar do início da sua vigência, findo o qual será revisto à luz da experiência entretanto recolhida.
 
-###### Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 18 de Julho de 1979.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 6 de Agosto de 1979.**
+Assinado em 6 de Agosto de 1979.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.
 
 Fundo de Previdência Agro-Pecuária
 
@@ -159,33 +183,33 @@ ESTATUTO
 
 ### CAPÍTULO I — Natureza, fins e objecto
 
-###### Artigo 1.º O Fundo de Previdência Agro-Pecuária (FPA), dotado de autonomia administrativa e financeira, funciona na dependência da Secretaria Regional de Agricultura e Pescas, sob tutela do respectivo Secretário.
+Artigo 1.º O Fundo de Previdência Agro-Pecuária (FPA), dotado de autonomia administrativa e financeira, funciona na dependência da Secretaria Regional de Agricultura e Pescas, sob tutela do respectivo Secretário.
 
-###### Art. 2.º O FPA tem a sua sede na cidade do Funchal e exercerá a sua actividade em toda a área da Região Autónoma da Madeira.
+Art. 2.º O FPA tem a sua sede na cidade do Funchal e exercerá a sua actividade em toda a área da Região Autónoma da Madeira.
 
-###### Art. 3.º - 1 - O FPA tem por objectivo principal assegurar a protecção dos agricultores contra riscos ainda não cobertos pelo seguro e resultantes de acidentes, nomeadamente provocados por agentes meteorológicos, doenças e pragas não controláveis, através de um esquema de compensação dos prejuízos sofridos pelas culturas e pelo gado.
+Art. 3.º - 1 - O FPA tem por objectivo principal assegurar a protecção dos agricultores contra riscos ainda não cobertos pelo seguro e resultantes de acidentes, nomeadamente provocados por agentes meteorológicos, doenças e pragas não controláveis, através de um esquema de compensação dos prejuízos sofridos pelas culturas e pelo gado.
 
 2 - O FPA, numa primeira fase, abrange somente as culturas de vinha, banana, cana-de-açúcar, batata (semilha), batata-doce, tomate e as culturas hortícolas sob coberto e o gado bovino (de leite e carne), mas visará o alargamento progressivo do sistema de protecção ou de previdência agro-pecuária através da realização de estudos e da criação das condições necessárias.
 
 3 - Os riscos a cobrir pelo FPA são, para as culturas, os de granizo, inundações, trombas de água e ventos fortes que ultrapassem determinado grau da escala de Beaufort, a fixar em regulamento interno, e para o gado, os de morte por doença ou acidente e incapacidade funcional, nos termos que vierem a ser estabelecidos também em regulamento interno.
 
-###### Art. 4.º - 1 - O FPA indemnizará directamente os agricultores na base de uma percentagem de 70% dos prejuízos apurados nas culturas relativamente aos riscos cobertos ou de 70% do valor dos animais sinistrados.
+Art. 4.º - 1 - O FPA indemnizará directamente os agricultores na base de uma percentagem de 70% dos prejuízos apurados nas culturas relativamente aos riscos cobertos ou de 70% do valor dos animais sinistrados.
 
 2 - O direito dos agricultores à indemnização depende não só da sua inscrição no FPA, onde deverá ser feito o registo das culturas e ou dos animais anteriormente à ocorrência do sinistro, mas também da verificação dos pressupostos legais e factuais do mesmo direito.
 
-###### Art. 5.º O FPA poderá ainda compensar, se para tal for superiormente decidido, os agricultores inscritos pelos prejuízos sofridos pelas suas culturas, mesmo que não incluídas no n.º 2 do artigo 3.º, em consequência de riscos resultantes de causas não consideradas no n.º 3 do artigo 3.º, nomeadamente doenças, pragas e outros acidentes, desde que esses prejuízos tenham um carácter imprevisível e generalizado.
+Art. 5.º O FPA poderá ainda compensar, se para tal for superiormente decidido, os agricultores inscritos pelos prejuízos sofridos pelas suas culturas, mesmo que não incluídas no n.º 2 do artigo 3.º, em consequência de riscos resultantes de causas não consideradas no n.º 3 do artigo 3.º, nomeadamente doenças, pragas e outros acidentes, desde que esses prejuízos tenham um carácter imprevisível e generalizado.
 
 ### CAPÍTULO II — Órgão de gestão
 
-###### Art. 6.º O órgão de gestão do FPA é o conselho administrativo.
+Art. 6.º O órgão de gestão do FPA é o conselho administrativo.
 
-###### Art. 7.º - 1 - O conselho administrativo é constituído por três membros, nomeados por três anos, em comissão de serviço, por despacho do Secretário Regional de Agricultura e Pescas, podendo o mandato ser renovado por iguais períodos.
+Art. 7.º - 1 - O conselho administrativo é constituído por três membros, nomeados por três anos, em comissão de serviço, por despacho do Secretário Regional de Agricultura e Pescas, podendo o mandato ser renovado por iguais períodos.
 
 2 - De entre esses membros o Secretário Regional de Agricultura e Pescas designará o presidente.
 
 3 - O funcionamento do conselho administrativo, as remunerações e demais condições do exercício doa cargos pelos seus membros serão definidos em decreto regulamentar do Governo Regional.
 
-###### Art. 8.º Para a prossecução dos fins do FPA compete ao conselho administrativo:
+Art. 8.º Para a prossecução dos fins do FPA compete ao conselho administrativo:
 
 a) Elaborar, anualmente, o orçamento da receita e da despesa do FPA para o ano seguinte e submetê-lo à aprovação do Secretário Regional da tutela;
 
@@ -197,25 +221,25 @@ d) Propor ao Secretário Regional de Agricultura e Pescas o alargamento da cober
 
 e) Exercer a gestão corrente do FPA.
 
-###### Art. 9.º - 1 - O presidente do conselho administrativo é substituído, nas suas faltas e impedimentos, por outro membro do conselho, segundo nomeação do Secretário Regional de Agricultura e Pescas.
+Art. 9.º - 1 - O presidente do conselho administrativo é substituído, nas suas faltas e impedimentos, por outro membro do conselho, segundo nomeação do Secretário Regional de Agricultura e Pescas.
 
 2 - Verificando-se o impedimento definitivo, bem como a renúncia ou destituição de qualquer membro do conselho administrativo, será nomeado novo membro pelo Secretário Regional de Agricultura e Pescas.
 
-###### Art. 10.º - 1 - Para a movimentação das contas bancárias do FPA é necessária a assinatura conjunta de dois membros do conselho administrativo.
+Art. 10.º - 1 - Para a movimentação das contas bancárias do FPA é necessária a assinatura conjunta de dois membros do conselho administrativo.
 
 2 - Para actos de mero expediente basta a assinatura de um membro do conselho administrativo.
 
 ### CAPÍTULO III — Regime financeiro
 
-###### Art. 11.º Constituem receitas do FPA as mencionadas no artigo 8.º do decreto regional que o criou, devendo as referidas nas alíneas a) e b) ser estabelecidas por decreto regulamentar do Governo Regional.
+Art. 11.º Constituem receitas do FPA as mencionadas no artigo 8.º do decreto regional que o criou, devendo as referidas nas alíneas a) e b) ser estabelecidas por decreto regulamentar do Governo Regional.
 
-###### Art. 12.º O FPA procederá à liquidação das quantias correspondentes às taxas que forem criadas de acordo com normas e instruções a publicar em portaria conjunta do Secretário Regional do Planeamento e Finanças, de Agricultura e Pescas e da Economia.
+Art. 12.º O FPA procederá à liquidação das quantias correspondentes às taxas que forem criadas de acordo com normas e instruções a publicar em portaria conjunta do Secretário Regional do Planeamento e Finanças, de Agricultura e Pescas e da Economia.
 
-###### Art. 13.º - 1 - As receitas do FPA serão entregues na tesouraria do Governo Regional como receita deste, mediante guia passada pelo mesmo Fundo, e serão escrituradas em rubrica própria, consignadas às despesas previstas por este diploma.
+Art. 13.º - 1 - As receitas do FPA serão entregues na tesouraria do Governo Regional como receita deste, mediante guia passada pelo mesmo Fundo, e serão escrituradas em rubrica própria, consignadas às despesas previstas por este diploma.
 
 2 - O Governo Regional providenciará para que o excedente num ano económico das receitas a que se refere o número anterior e que não haja sido utilizado pelo FPA seja escriturado como receita do ano seguinte.
 
-###### Art. 14.º - 1 - Constituem despesas do FPA:
+Art. 14.º - 1 - Constituem despesas do FPA:
 
 a) As indemnizações ou subsídios de compensação;
 
@@ -223,12 +247,12 @@ b) As despesas administrativas de funcionamento.
 
 2 - Para o caso de o montante das indemnizações ultrapassar as verbas disponíveis, o Governo Regional deverá possibilitar ao FPA os meios necessários para solver os seus compromissos.
 
-###### Art. 15.º O pagamento das despesas do FPA será normalmente feito por meio de cheques passados à ordem dos interessados.
+Art. 15.º O pagamento das despesas do FPA será normalmente feito por meio de cheques passados à ordem dos interessados.
 
 ### CAPÍTULO IV — Indemnizações ou subsídios de compensação
 
-###### Art. 16.º - 1 - As indemnizações ou subsídios de compensação aos agricultores só serão processados após avaliação dos prejuízos sofridos feita pelo pessoal técnico do FPA ou dos serviços da Secretaria Regional de Agricultura e Pescas, de acordo com normas a definir pelo conselho administrativo e aprovadas pelo Secretário Regional de Agricultura e Pescas.
+Art. 16.º - 1 - As indemnizações ou subsídios de compensação aos agricultores só serão processados após avaliação dos prejuízos sofridos feita pelo pessoal técnico do FPA ou dos serviços da Secretaria Regional de Agricultura e Pescas, de acordo com normas a definir pelo conselho administrativo e aprovadas pelo Secretário Regional de Agricultura e Pescas.
 
 2 - No caso de discordância sobre o montante dessas indemnizações ou subsídios de compensação por parte dos agricultores beneficiários, a questão será decidida pelo Secretário Regional de Agricultura e Pescas.
 
-###### Art. 17.º Os subsídios de compensação a que se refere o artigo 5.º deste Estatuto, relativamente a culturas não previstas ou a riscos não abrangidos, serão fixados, em cada caso, pelo Governo Regional.
+Art. 17.º Os subsídios de compensação a que se refere o artigo 5.º deste Estatuto, relativamente a culturas não previstas ou a riscos não abrangidos, serão fixados, em cada caso, pelo Governo Regional.

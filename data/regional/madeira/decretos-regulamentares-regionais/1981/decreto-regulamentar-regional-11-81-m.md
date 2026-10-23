@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20200/23482349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb8c997567ad0d3541e816c19fa3f01a417eee0c765f9b7def8d7fccd9f05725
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e29bc32183f57d9af44327496e03d5b9010a2f73b114aabf98cba8feac67c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Empresa
+- Gestão de Recursos Humanos
+- IAPMEI
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional do Comércio e Transportes
+- Secretário Regional do Comércio e Transportes
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:484577:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557796:por
+  label: "Revogado o quadro de pessoal anexo ao presente diploma, pelo DRR.20/90/M.13.09.1990.GR-RAM, DR.IS [212] de 13.09.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1990-557796
+  date: '1990-09-13'
+- type: repealed_by
+  target: pt:dre:484577:por
+  label: "Revogado pelo DLR.28-A/99/M.1999.11.22.ALR-RAM, DR.IS-A [279]SUPL de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-a-1999-484577
+  date: '1999-11-22'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:04Z'
   warnings: []
   errors: []
 ---
@@ -93,35 +136,35 @@ Pelo [Decreto-Lei n.º 268/80](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Nos termos daquele decreto-lei, o Governo Regional, usando da faculdade que lhe confere a alínea b) do n.º 1 do artigo 229.º da Constituição e a alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º É criado na Secretaria Regional do Comércio e Transportes o Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, o qual se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É criado na Secretaria Regional do Comércio e Transportes o Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, o qual se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º As atribuições e competências cometidas ao Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI) pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro, e demais legislação complementar, transferidas para a Região Autónoma da Madeira pelo artigo 1.º do [Decreto-Lei n.º 268/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1980-470420), de 9 de Agosto, passam a ser exercidas pela Secretaria Regional do Comércio e Transportes, através do SAPMEI.
+Art. 2.º As atribuições e competências cometidas ao Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI) pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro, e demais legislação complementar, transferidas para a Região Autónoma da Madeira pelo artigo 1.º do [Decreto-Lei n.º 268/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1980-470420), de 9 de Agosto, passam a ser exercidas pela Secretaria Regional do Comércio e Transportes, através do SAPMEI.
 
-###### Art. 3.º O pessoal do IAPMEI a que se refere o artigo 4.º do [Decreto-Lei n.º 268/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1980-470420) será integrado, nos termos desta disposição legal, no quadro do SAPMEI, constante do mapa anexo à Lei Orgânica agora aprovada.
+Art. 3.º O pessoal do IAPMEI a que se refere o artigo 4.º do [Decreto-Lei n.º 268/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1980-470420) será integrado, nos termos desta disposição legal, no quadro do SAPMEI, constante do mapa anexo à Lei Orgânica agora aprovada.
 
-###### Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e da Lei Orgânica anexa serão resolvidas por despacho do Secretário Regional do Comércio e Transportes.
+Art. 4.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e da Lei Orgânica anexa serão resolvidas por despacho do Secretário Regional do Comércio e Transportes.
 
-###### Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Plenário do Governo Regional da Madeira de 17 de Junho de 1981.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 4 de Agosto de 1981.**
+Assinado em 4 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Lei Orgânica do Serviço de Apoio às Pequenas e Médias Empresas Industriais
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, é um serviço dependente da Secretaria Regional do Comércio e Transportes, ao qual incumbe, basicamente, estudar e promover a execução das medidas que integram a política de apoio às pequenas e médias empresas, em colaboração com os demais órgãos e serviços da Secretaria Regional do Comércio e Transportes e em cooperação com o Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI) e outros departamentos ou serviços públicos.
+Artigo 1.º O Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, é um serviço dependente da Secretaria Regional do Comércio e Transportes, ao qual incumbe, basicamente, estudar e promover a execução das medidas que integram a política de apoio às pequenas e médias empresas, em colaboração com os demais órgãos e serviços da Secretaria Regional do Comércio e Transportes e em cooperação com o Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI) e outros departamentos ou serviços públicos.
 
-###### Art. 2.º A acção do SAPMEI orientar-se-á no sentido de dinamizar o potencial produtivo de que disponham as pequenas e médias empresas industriais, ajudando-as a superar as suas limitações, carências e deficiências, tendo como objectivo a sua modernização e independência.
+Art. 2.º A acção do SAPMEI orientar-se-á no sentido de dinamizar o potencial produtivo de que disponham as pequenas e médias empresas industriais, ajudando-as a superar as suas limitações, carências e deficiências, tendo como objectivo a sua modernização e independência.
 
-###### Art. 3.º Compete especialmente ao SAPMEI:
+Art. 3.º Compete especialmente ao SAPMEI:
 
 a) Promover a reorganização e a reconversão das empresas susceptíveis de se tomarem competitivas e económica e socialmente válidas, auxiliando-as na superação das suas deficiências de ordem técnica, económica, financeira e de organização;
 
@@ -143,7 +186,7 @@ i) Colaborar em acções que visem a intervenção do sector público na reestru
 
 j) Apoiar e impulsionar, através dos organismos e serviços competentes, a instalação de empresas em parques industriais.
 
-###### Art. 4.º No cumprimento das suas atribuições, poderá o SAPMEI:
+Art. 4.º No cumprimento das suas atribuições, poderá o SAPMEI:
 
 a) Propor superiormente a efectivação dos estudos e acções que repute necessários à prossecução dos seus objectivos;
 
@@ -151,7 +194,7 @@ b) Obter junto de quaisquer serviços públicos, dependentes ou não da Secretar
 
 c) Contactar, mediante autorização superior, com quaisquer entidades nacionais, estrangeiras ou internacionais, promovendo as ligações, acordos e associações que se revistam de interesse para a realização dos objectivos da política de apoio às pequenas e médias empresas definida pelo Governo Regional.
 
-###### Art. 5.º - 1 - Nos termos do estipulado na alínea d) do artigo 3.º, poderá o SAPMEI:
+Art. 5.º - 1 - Nos termos do estipulado na alínea d) do artigo 3.º, poderá o SAPMEI:
 
 a) Informar e propor a concessão de avales, pelo Governo Regional, nas condições determinadas pela legislação em vigor;
 
@@ -163,7 +206,7 @@ c) Apoiar, a solicitação dos interessados, junto das instituições de crédit
 
 3 - O apoio a que se refere a alínea c) do n.º 1 será normalmente acompanhado de parecer sobre a validade e os méritos económicos do empreendimento.
 
-###### Art. 6.º Com vista à realização e concretização da política de apoio às pequenas e médias empresas industriais, poderá ainda o SAPMEI propor o financiamento:
+Art. 6.º Com vista à realização e concretização da política de apoio às pequenas e médias empresas industriais, poderá ainda o SAPMEI propor o financiamento:
 
 a) Da realização de estudos de análise de mercados e de viabilidade económica;
 
@@ -181,14 +224,14 @@ g) De acções de formação, aperfeiçoamento, reciclagem ou reconversão profi
 
 h) Da execução de quaisquer outras medidas de promoção industrial.
 
-###### Art. 7.º O SAPMEI será dirigido por um técnico superior, o qual superintenderá no serviço de acordo com as instruções e directivas dimanadas do Secretário Regional do Comércio e Transportes.
+Art. 7.º O SAPMEI será dirigido por um técnico superior, o qual superintenderá no serviço de acordo com as instruções e directivas dimanadas do Secretário Regional do Comércio e Transportes.
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 8.º O quadro do pessoal do SAPMEI é o constante do mapa anexo à presente Lei Orgânica, do qual faz parte integrante.
+Art. 8.º O quadro do pessoal do SAPMEI é o constante do mapa anexo à presente Lei Orgânica, do qual faz parte integrante.
 
-###### Art. 9.º O pessoal do SAPMEI será integrado em carreiras, de harmonia com as disposições constantes do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e demais legislação complementar.
+Art. 9.º O pessoal do SAPMEI será integrado em carreiras, de harmonia com as disposições constantes do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e demais legislação complementar.
 
 Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20200/23482349.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20200/23482349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20200/23482349.pdf)

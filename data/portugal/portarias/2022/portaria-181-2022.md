@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13600/0000700011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/181/2022/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2022-186166483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf71864ec35574955ffe28c24f2e53b6d1b59e700390b36d3488675ad2b2ccb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed063c7dc6e239c367edafb53c2094a36cad8b977d579eb11a784ddcd82e8de8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Fundo Português de Apoio ao Investimento em Moçambique
 - Moçambique
-- Regulamentação de Atos Legislativos
-- Apoio ao Investimento
 - Projeto de Investimento
+- Regulamentação de Atos Legislativos
 - Regulamento
 relationships:
 - type: cites
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/815/2010/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/815/2010/08/30/p/dre
+- type: cites
+  target: pt:dre:115276179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124750738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614290:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:22Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +157,7 @@ Nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 42/2010](https://diar
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 8 de julho de 2022.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 8 de julho de 2022.
 
 ## ANEXO — REGULAMENTO DE GESTÃO DO FUNDO PORTUGUÊS DE APOIO AO INVESTIMENTO EM MOÇAMBIQUE
 
@@ -276,3 +296,5 @@ O Fundo beneficia das condições e outros benefícios de carácter geral consig
 1 - As receitas apuradas pelo Fundo são prioritariamente afetas ao reinvestimento, não devendo as disponibilidades ascender, a qualquer momento, a mais de 12 milhões de dólares americanos.
 
 2 - Na ausência de utilização deste montante por um período superior a 12 meses, o mesmo deve ser transferido para os participantes do Fundo, na proporção do capital subscrito.
+
+115503419

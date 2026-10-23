@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/712/2010/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-2010-343613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99449703535f49e2d0fffa014cb1ae4b530e5e253a88995d845f3b2f83846d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7bcf59dd8986bd728b0088b90e0b59629b00873e2cac75b7188e05e542f7535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Produto Petrolífero
 - Combustível
 - Fiscalização
 - Licenciamento
 - Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/159/2004/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/159/2004/02/14/p/dre
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580358:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:01Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +136,4 @@ O n.º 2.º da [Portaria n.º 159/2004](https://diariodarepublica.pt/dr/detalhe/
 
 Em 30 de Junho de 2010.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva.

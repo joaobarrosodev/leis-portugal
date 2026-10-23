@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/177/2012/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f414cdf38d5b281e3c4c26f875ea2f6b7df386da3b55bc90b09d185a22044736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8047886198b009a07a5f6b45eade665b8f905f2d78212ef2cf617909f818005b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
-- Gestão dos Recursos
-- Recursos do Mar
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Quota de Pesca
-- Regulamento CE
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:261123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os art.s 1.º e 4.º da Port 187/2009, de 20-fev, na redação do presente diploma, pela PORT.186/2013.21.05.2013.MAMAOT,\
+    \ DR.IS [97] de 21.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-05-21'
+- type: amended_by
+  target: pt:dre:261123:por
+  label: "Alterados os art.s 1.º e 4.º da Port 187/2009, de 20-fev, na redação do presente diploma e republicada em anexo,\
+    \ pela PORT.186/2013.21.05.2013.MAMAOT, DR.IS [97] de 21.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2013-261123
+  date: '2013-05-21'
 - type: cites
   target: celex:32012R0044
   label: null
@@ -87,15 +99,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/187/2009/02/20/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:40Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +164,9 @@ c) A percentagem remanescente da quota nacional destina-se a acomodar eventuais 
 
 9 - Eventuais aumentos da quota nacional resultantes da não utilização integral da quota do ano anterior são repartidos numa quantidade fixa por todas as embarcações com quota atribuída, constantes dos n.os 1 e 6 do presente artigo.
 
-###### Artigo 4.º — Esforço de pesca
+Artigo 4.º
+
+Esforço de pesca
 
 1 - ...
 
@@ -188,4 +202,4 @@ Todas as referências à «Direção-Geral das Pescas e Aquicultura» e à «DGP
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 28 de maio de 2012.**
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 28 de maio de 2012.

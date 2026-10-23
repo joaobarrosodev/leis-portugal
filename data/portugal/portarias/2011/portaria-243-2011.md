@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/243/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-2011-670281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0b28ef08be5b88afd9994b79bf42d5065b1eba31d2fbd806de3ece06d13eb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c93d122fe255560757c6de575a2d2775e377619b0e6a6df5c38271da15f7a84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Ajuda Alimentar
 - Aquisição de Bens e Serviços
+- Estabelecimento de Ensino
 - Estudante
 - Fruto
 - Política de Educação
-- Estabelecimento de Ensino
 - Produto Hortícola
 relationships:
 - type: cites
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:25Z'
   warnings: []
   errors: []
 ---
@@ -128,10 +128,10 @@ Para o ano lectivo de 2010-2011, são elegíveis os frutos e produtos hortícola
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 6 de Junho de 2011. - Pela Ministra da Saúde, Óscar Manuel de Oliveira Gaspar, Secretário de Estado da Saúde, em 9 de Junho de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 9 de Junho de 2011.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 6 de Junho de 2011. - Pela Ministra da Saúde, Óscar Manuel de Oliveira Gaspar, Secretário de Estado da Saúde, em 9 de Junho de 2011. - A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 9 de Junho de 2011.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
 Produtos elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803638.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0363803638.pdf)

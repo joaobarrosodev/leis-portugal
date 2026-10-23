@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25100/0697906980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372/2013/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-2013-483660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6581586a8ce70dcc7ed89463cde88d665446eca477e88db013a11ac594f5bba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa3d7c5bc55fb1afab5ec151bd1b31130e6b58ca4d9af2189e573ddb0870a4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Declaração de Rendimentos
+- Documento Eletrónico
 - Formulário Eletrónico
 - Impresso
-- IRS
-- Documento Eletrónico
 - IRC
+- IRS
 relationships:
 - type: cites
   target: celex:32003L0049
@@ -83,16 +83,29 @@ relationships:
   target: celex:32011L0016
   label: null
   source: http://data.europa.eu/eli/dir/2011/16/oj
+- type: repealed_by
+  target: pt:dre:70445164:por
+  label: Revogadas (a partir de 06.10.2015) as instruções de preenchimento da declaração modelo 30 aprovadas pela presente
+    portaria, pelo(a) Portaria n.º 332-A/2015 - Diário da República n.º 194/2015, 1º Suplemento, Série I de 2015-10-05 que
+    aprova, em anexo, as novas instruções de preenchimento da declaração modelo 30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-a-2015-70445164
+  date: '2015-10-05'
+- type: repealed_by
+  target: pt:dre:162753746:por
+  label: Revogado, a partir de 06.05.2021, o presente diploma, pelo(a) Portaria n.º 98/2021 - Diário da República n.º 87/2021,
+    Série I de 2021-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2021-162753746
+  date: '2021-05-05'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:56:05Z'
   warnings: []
   errors: []
 ---
@@ -145,6 +158,6 @@ Os impressos aprovados pela presente portaria devem ser utilizados a partir de 1
 
 A presente portaria entra em vigor no dia 1 de janeiro de 2014.
 
-**O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.**
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/25100/0697906980.pdf))](https://files.diariodarepublica.pt/1s/2013/12/25100/0697906980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/25100/0697906980.pdf)

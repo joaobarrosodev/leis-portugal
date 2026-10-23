@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238/2022/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e5d996baf219471ed8b0e1c78fe72b880cde386366b65e36d26f6dc73a159b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2296a032bcfe1e04dc7e692a118bf91c2017ff85cae72d252eb1ccd0fb730903
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
-- Regulamentação de Atos Legislativos
-- Pesca
 - Lagoa de Óbidos
+- Pesca
+- Regulamentação de Atos Legislativos
 - Regulamento
 relationships:
 - type: cites
@@ -95,16 +95,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/483/2007/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/483/2007/04/19/p/dre
+- type: cites
+  target: pt:dre:120696372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160201375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572899:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:57:46Z'
   warnings: []
   errors: []
 ---
@@ -293,12 +329,14 @@ Sem prejuízo do disposto na presente portaria, o exercício da pesca nas zonas 
 
 É revogado o Regulamento da Pesca na Lagoa de Óbidos, aprovado pela [Portaria n.º 567/90](https://diariodarepublica.pt/dr/detalhe/portaria/567-1990-572899), de 19 de julho, alterado pela [Portaria n.º 483/2007](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), de 19 de abril, e o [Despacho n.º 3230/2021](https://diariodarepublica.pt/dr/detalhe/despacho/3230-2021-160201375) (2.ª série), de 25 de março.
 
-**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 5 de setembro de 2022.**
+A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 5 de setembro de 2022.
 
 ## ANEXO I — [a que se refere a alínea h) do n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do n.º 2 do artigo 5.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17900/0000400010.pdf)
+
+115670077

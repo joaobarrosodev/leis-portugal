@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 243/2023, 1º Suplemento, Série I de 2023-12-19
   number: '243'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 34-(2) a 34-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24301/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/445-a/2023/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-a-2023-808130617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T16:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9275454ad426a472b373167c4195d73441cbc50fcf89c5e2412243353bf41895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e5a223c700d3d41434a6a7e703997e13665e506259a9ecbe1c15a0bfaa9581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:00:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Apoio Psicológico
 - Educação
-- FEDER
 - Educação dos Adultos
-- FSE
 - Ensino
+- FEDER
+- Financiamento
+- FSE
 - PORTUGAL 2020
 - Programa Operacional Temático Capital Humano
 - Regulamento Específico do Domínio do Capital Humano
 relationships:
+- type: amends
+  target: pt:numero:portaria:60-C/2015
+  label: Altera, a partir de 20 de dezembro de 2023, os artigos 29.º e 31.º do Regulamento Específico do Domínio do Capital
+    Humano, publicado em anexo à Portaria n.º 60-C/2015 de 2 de março, Diário da República n.º 42/2015, 2º Suplemento, Série
+    I
+  source: null
+  date: '2015-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
   label: null
@@ -117,16 +124,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/60-c/2015/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/60-c/2015/03/02/p/dre
+- type: cites
+  target: pt:dre:105347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114426059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122376531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135711318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165797128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175264443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202899921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66646042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67618688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74498467:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:00:19Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +238,9 @@ São alterados os artigos 29.º e 31.º do Regulamento Específico do Domínio d
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -211,4 +276,6 @@ m) [...]
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 19 de dezembro de 2023.**
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 19 de dezembro de 2023.
+
+117178662

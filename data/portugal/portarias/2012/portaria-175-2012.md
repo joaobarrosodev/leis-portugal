@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/175/2012/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-2012-177805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd7f261c389863e6fd635408641f6e36b1ed4dab70269baf570297bc3c4ae846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 172e223aa50007ad219d75e433655bcabc9c0163730cec96a9989ab3c8c9e06b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Balneares
-- Praia Fluvial
 - Domínio Público Hídrico
-- Vigilância nas Praias
+- Praia Fluvial
 - Praia Marítima
+- Vigilância nas Praias
 - ZONA Balnear
 relationships:
 - type: cites
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:226186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636071:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:39Z'
   warnings: []
   errors: []
 ---
@@ -143,16 +163,16 @@ São consideradas praias de banhos de águas fluviais e lacustres as constantes 
 
 2 - A presente portaria vigora até ao dia 31 de dezembro de 2012.
 
-**O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 21 de maio de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 15 de maio de 2012.**
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 21 de maio de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 15 de maio de 2012.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 Praias de banhos marítimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
 Praias de banhos de águas fluviais e lacustres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/10400/0281002816.pdf)

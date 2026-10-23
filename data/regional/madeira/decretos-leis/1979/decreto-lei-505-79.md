@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 295/1979, 1º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(20) a 3334-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29501/00200021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1979-393860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bdf42b55c9559715465e779b57f06b17a2002bfd81bbb2c4263a6604a3fbd40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e015338e6d47fe55e5a6dbf72d0a1c007f68e29685f6c9a6f8502904b6dbaebf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Madeira.região Autónoma
+- Previdência Social
 relationships:
 - type: amended_by
   target: pt:dre:649554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:363951:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649554:por
+  label: "Revogado, a partir de 01.08.1991, o Dec Lei 433/79, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.236/91.28.06.1991.MESS,\
+    \ DR.IS-A [146] de 28.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1991-649554
+  date: '1991-06-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:02Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +110,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 12.º do [Decreto-Lei n.º 433/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1979-363951), de 31 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 12.º do [Decreto-Lei n.º 433/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1979-363951), de 31 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - Na Região Autónoma da Madeira o regime de pagamento das contribuições será efectuado de acordo com as alíneas a) e b) do artigo 2.º
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Lino Dias Miguel - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

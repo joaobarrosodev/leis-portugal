@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1981-573357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5022bf4ca395ffdf252efeac46329c7d01e9b8f5b7abb01e064c173c0c8bacfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5204d139c8dfdc3377b06f687fa2415d43fb20b7c6800267ab860da0f410cd61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Legislativa Regional
+- Estatuto do Deputado
+- Madeira.região Autónoma
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:645725:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645725:por
+  label: "Mantido transitoriamente em vigor o disposto no art. 12º pelo DLR.1/93/M.05.02.1993.ALR-RAM, DR.IS-A [30] de 05.02.1993,\
+    \ nos termos do n.º 3 do seu art. 3º.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-1993-645725
+  date: '1993-02-05'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446085:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:43:46Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +108,9 @@ Estatuto do Deputado
 
 Dando execução às disposições constitucionais e estatutárias respeitantes aos deputados regionais, as quais constituem condição indispensável ao normal exercício das suas funções, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, e bem assim dos artigos 22.º e seguintes do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-### CAPÍTULO I — ARTIGO 1.º
+### CAPÍTULO I
+
+###### ARTIGO 1.º
 
 (Irresponsabilidade)
 
@@ -102,7 +122,9 @@ Os deputados não respondem civil, criminal ou disciplinarmente pelos votos e op
 
 2 - Movido procedimento criminal contra algum deputado e indiciado este por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena maior, a Assembleia deliberará se o deputado deve ser ou não suspenso para efeito de seguimento do processo.
 
-### CAPÍTULO II — ARTIGO 3.º
+### CAPÍTULO II
+
+###### ARTIGO 3.º
 
 (Direitos e regalias)
 
@@ -208,7 +230,9 @@ Os deputados têm direito a utilizar gratuitamente os serviços postais, telegr�
 
 Os subsídios percebidos pelos deputados estão sujeitos ao regime fiscal aplicável aos funcionários públicos.
 
-### CAPÍTULO III — ARTIGO 17.º
+### CAPÍTULO III
+
+###### ARTIGO 17.º
 
 (Suspensão do mandato)
 
@@ -284,7 +308,9 @@ d) Sejam judicialmente condenados por participação em organizações de ideolo
 
 4 - Não haverá substituição se já não existirem candidatos efectivos ou suplentes na lista do deputado substituído.
 
-### CAPÍTULO IV — ARTIGO 23.º
+### CAPÍTULO IV
+
+###### ARTIGO 23.º
 
 (Encargos)
 
@@ -300,8 +326,8 @@ d) Sejam judicialmente condenados por participação em organizações de ideolo
 
 Aprovado em sessão plenária aos 24 de Março de 1981.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 26 de Março de 1981.**
+Assinado em 26 de Março de 1981.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

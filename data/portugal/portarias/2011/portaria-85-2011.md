@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/85/2011/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-2011-278910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8099515c4a87112cd245726cb94b2f9642a0e268edc1615227fce38792f84946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba19477f3f87a24e40261ac31d993e945ab56d0e8dd99c582285078f0aa326cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- RIO TEJO
 - Pesca
 - Regulamento
+- RIO TEJO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
@@ -107,16 +107,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/900/1995/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/900/1995/07/17/p/dre
+- type: cites
+  target: pt:dre:156388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682253:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:12Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +209,15 @@ Objecto
 
 O presente Regulamento tem por objecto estabelecer normas reguladoras do exercício da pesca nas águas interiores não marítimas do rio Tejo.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não marítimas do estuário do rio Tejo, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição da Capitania do Porto de Lisboa, limitadas, a montante, pela linha cabo de Vila Franca de Xira-foz do esteiro do Dr. Nogueira e, a jusante, pela linha Torre do Bugio-Torre do Forte de São Julião.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -169,7 +225,9 @@ a) ...
 
 b) Pesca lúdica, quando praticada apenas com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente.
 
-###### Artigo 4.º — Artes de pesca autorizadas
+Artigo 4.º
+
+Artes de pesca autorizadas
 
 1 - ...
 
@@ -201,11 +259,15 @@ l) Berbigoeiro para a captura de bivalves.
 
 3 - ...
 
-###### Artigo 5.º — Quem pode exercer a pesca
+Artigo 5.º
+
+Quem pode exercer a pesca
 
 A pesca comercial na zona só é permitida a inscritos marítimos quando exercida com auxílio de embarcações, podendo ser exercida também por apanhadores ou pescadores apeados devidamente licenciados, se se tratar de pesca sem auxílio de embarcação.
 
-###### Artigo 7.º — Períodos de defeso
+Artigo 7.º
+
+Períodos de defeso
 
 1 - Os períodos de defeso para cada uma das espécies são fixados anualmente por despacho do membro do Governo responsável pelo sector das pescas mediante proposta da Direcção-Geral das Pescas e Aquicultura (DPGA), sob parecer do Instituto Nacional de Recursos Biológicos, I. P. (L-IPIMAR), e ouvida a Capitania do Porto de Lisboa.
 
@@ -213,17 +275,23 @@ A pesca comercial na zona só é permitida a inscritos marítimos quando exercid
 
 3 - Sem prejuízo do disposto no n.º 1, é, desde já, interdita a captura de polvo (Octopus spp.) durante os meses de Julho e Agosto, meses em que não é autorizado o uso de piteira e de covos ou armadilhas de gaiola de classe de malhagem 30 mm a 50 mm.
 
-###### Artigo 10.º — Sinalização das artes
+Artigo 10.º
+
+Sinalização das artes
 
 1 - As artes fundeadas devem ser sinalizadas nos termos do disposto no [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho.
 
 2 - Em derrogação do previsto no número anterior, os mastros a colocar nas bóias devem ter uma altura mínima de 1 m.
 
-###### Artigo 11.º — Identificação das artes
+Artigo 11.º
+
+Identificação das artes
 
 Para fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -253,7 +321,9 @@ m) ...
 
 n) Não é permitido o exercício da pesca em áreas cujo nível das águas possa fazer perigar a conservação da fauna aquícola, salvo em casos excepcionais autorizados pela DGPA, sob parecer do Instituto Nacional de Recursos Biológicos, I. P. (L-IPIMAR), e ouvida a Capitania do Porto.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -281,13 +351,17 @@ b) ...
 
 2 - No caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto no ponto 8) da alínea a) do n.º 1, bem como nos casos de abandono de artes na água, deverá desses factos ser dado conhecimento imediato à Capitania do Porto ou à delegação marítima mais próxima.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Não é permitido o exercício da pesca na Reserva Integral de Pancas, tal como é delimitada pelo n.º 1 do artigo 3.º do [Decreto-Lei n.º 565/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1976-430600), de 19 de Julho.
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +373,9 @@ c) ...
 
 2 - A composição das capturas efectuadas e retidas a bordo deve incluir, no mínimo, 30 % de camarão da espécie Crangon crangon.
 
-###### Artigo 18.º — Condicionamentos no exercido da pesca com rede de emalhar fundeada de um pano
+Artigo 18.º
+
+Condicionamentos no exercido da pesca com rede de emalhar fundeada de um pano
 
 1 - ...
 
@@ -313,7 +389,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 19.º-B — Exercício da pesca com a arte de ganchorra manobrada com sarilho
+Artigo 19.º-B
+
+Exercício da pesca com a arte de ganchorra manobrada com sarilho
 
 1 - O exercício da pesca com a arte de ganchorra manobrada com sarilho é proibido aos sábados e domingos e nos dias feriados de 1 de Janeiro, 25 de Abril, 1 de Maio, 10 de Junho e 25 de Dezembro.
 
@@ -333,9 +411,13 @@ c) ...
 
 6 - (Revogado.)
 
-### CAPÍTULO III — Pesca lúdica
+CAPÍTULO III
 
-###### Artigo 21.º — Exercício da pesca
+Pesca lúdica
+
+Artigo 21.º
+
+Exercício da pesca
 
 1 - A pesca lúdica na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida no n.º 1 do artigo 9.º do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro, com cana de pesca ou linha de mão, não podendo cada pescador lúdico utilizar mais de duas canas ou linhas.
 
@@ -351,19 +433,27 @@ c) ...
 
 7 - A Capitania do Porto poderá autorizar competições de pesca desportiva na zona desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos.
 
-###### Artigo 22.º — Caça submarina
+Artigo 22.º
+
+Caça submarina
 
 Na zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca lúdica referida no artigo 6.º do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro.
 
-###### Artigo 23.º — Regime contra-ordenacional
+Artigo 23.º
+
+Regime contra-ordenacional
 
 Às infracções ao disposto no presente Regulamento é aplicável o [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, e no que se refere à pesca lúdica os correspondentes artigos do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Sem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições aplicáveis do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, e do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, e, no que respeita à pesca lúdica, às do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 151/2012, 1º Suplemento, Série I de 2012-08-06
   number: '151'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4116-(2) a 4116-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15101/0000200003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233-a/2012/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-a-2012-405362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e82679f89f7436a7e715d1634b1ca7111b8c2b9f4ebb088d92602aee6b27abd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10fcdfa6517a8ef25f6111593641b210c63e3ad32fd2fd114215da27d68043ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Empresa
-- Controlo de Qualidade
-- Internacionalização Empresarial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Controlo de Qualidade
+- Empresa
+- Internacionalização Empresarial
 - Investimento
+- Projeto de Investimento
+- QREN
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:191523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191523:por
+  label: "Alterados os art.s 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de PME,\
+    \ anexo à Port 1463/2007, de 15-nov, na redação do presente diploma, pela PORT.369/2012.06.11.2012.MEE, DR.IS [214] de\
+    \ 06.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2012-191523
+  date: '2012-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2007/08/17/p/dre
   label: null
@@ -99,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/47-a/2012/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/47-a/2012/02/24/p/dre
+- type: cites
+  target: pt:dre:162811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:03Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +176,9 @@ b) No caso dos projetos conjuntos definidos na alínea b) do n.º 1 do artigo 6.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +260,9 @@ c) ...
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -263,4 +294,4 @@ e) Os apoios concedidos aos investimentos previstos no n.º 2 do artigo 12.º, q
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 31 de julho de 2012.**
+O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 31 de julho de 2012.

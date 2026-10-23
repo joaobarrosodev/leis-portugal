@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/295/2013/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-2013-500408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c3723d82aebec0048d022054b57561bf2347b9480ab43b82c80a1a87fe42009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3447f5be72119e47db6f3fd37bdd05960113e1e81db552942a269189fb41dd57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituição de Crédito
-- Beneficiário
-- Crédito Bonificado
-- Exploração Pecuária
-- Pagamento
-- JURO Bonificado
-- Linha de Crédito
-- Exploração Agrícola
 - Agricultor
 - Agricultura
 - Alteração Climática
+- Beneficiário
+- Crédito Bonificado
+- Exploração Agrícola
+- Exploração Pecuária
+- Financiamento
+- Instituição de Crédito
+- JURO Bonificado
+- Linha de Crédito
+- Pagamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2012/05/11/p/dre
@@ -87,16 +87,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/300/2012/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/300/2012/10/02/p/dre
+- type: cites
+  target: pt:dre:552034:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:55:37Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +133,4 @@ O artigo 3.º da Portaria n.º 300/2012, de 2 de outubro, passa a ter a seguinte
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de entrada em vigor da Portaria n.º 300/2012, de 2 de outubro.
 
-**A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 11 de setembro de 2013. - Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em substituição, em 3 de setembro de 2013.**
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 11 de setembro de 2013. - Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em substituição, em 3 de setembro de 2013.

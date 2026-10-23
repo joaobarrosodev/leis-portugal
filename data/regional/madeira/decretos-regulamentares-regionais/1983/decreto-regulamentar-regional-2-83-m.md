@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02200/02290232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1983-308501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e502dc0f89f3addc2f00a9a49db33c013cdc59f0d5e04bb36d3ad5c0aa7d8a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0c6d3c52c2a4a546ba02abdbfb8146d4082a2a8b1fb10c01c1d7267007a865f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Proteção Civil
+- Serviço Regional de Protecção Civil da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:575140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600106:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575140:por
+  label: Revogado pelo DRR.11/90/M.08.06.1990.GR-RAM, DR.IS [132] de 08.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1990-575140
+  date: '1990-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:19Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +123,9 @@ Considerando que, nos termos do disposto no artigo 27.º do aludido diploma, com
 
 O Governo Regional, ao abrigo do disposto no artigo 27.º do [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro, e no uso dos poderes conferidos pela alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º O Serviço Regional de Protecção Civil da Madeira, designado abreviadamente por SRPCM, é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, dispondo de património próprio, estruturado na dependência directa da Presidência do Governo Regional, com as atribuições, missões, competência e órgãos definidos no [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro.
+Artigo 1.º O Serviço Regional de Protecção Civil da Madeira, designado abreviadamente por SRPCM, é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, dispondo de património próprio, estruturado na dependência directa da Presidência do Governo Regional, com as atribuições, missões, competência e órgãos definidos no [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro.
 
-###### Art. 2.º São órgãos do SRPCM:
+Art. 2.º São órgãos do SRPCM:
 
 a) Presidente;
 
@@ -106,25 +135,25 @@ c) Comissão Coordenadora (CCPCM);
 
 d) Centro Operacional (COPCM).
 
-###### Art. 3.º Os lugares de presidente e vice-presidente do SRPCM são equiparados, para todos os efeitos, a director regional e a director de serviços, respectivamente.
+Art. 3.º Os lugares de presidente e vice-presidente do SRPCM são equiparados, para todos os efeitos, a director regional e a director de serviços, respectivamente.
 
-###### Art. 4.º - 1 - Compete ao Governo Regional fixar as directivas e os objectivos a atingir, de acordo com a política definida em matéria de protecção civil, e superintender na sua execução, através do Presidente do Governo Regional, que poderá delegar a sua competência em qualquer outro membro do Governo Regional.
+Art. 4.º - 1 - Compete ao Governo Regional fixar as directivas e os objectivos a atingir, de acordo com a política definida em matéria de protecção civil, e superintender na sua execução, através do Presidente do Governo Regional, que poderá delegar a sua competência em qualquer outro membro do Governo Regional.
 
 2 - Enquanto não for estabelecida a delegação referida, o Secretário Regional dos Assuntos Sociais terá as competências consignadas no artigo 18.º do [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro.
 
 3 - Para o cumprimento do disposto nos números anteriores, o Presidente do Governo Regional, ou o secretário regional competente, é directamente coadjuvado pelo CRPCM.
 
-###### Art. 5.º - 1 - Para execução da política de protecção civil superiormente definida para a Região, todas as secretarias regionais, departamentos e instituições colaborarão no desenvolvimento dos planos e programas globais de protecção civil, realizando as acções que no âmbito da sua actividade derivem de tais planos e programas.
+Art. 5.º - 1 - Para execução da política de protecção civil superiormente definida para a Região, todas as secretarias regionais, departamentos e instituições colaborarão no desenvolvimento dos planos e programas globais de protecção civil, realizando as acções que no âmbito da sua actividade derivem de tais planos e programas.
 
 2 - Os planos e programas referidos no número anterior são da responsabilidade do SRPCM, carecendo de parecer do CRPCM e da aprovação do Presidente do Governo Regional.
 
-###### Art. 6.º Na administração financeira e patrimonial, o SRPCM orientar-se-á segundo os princípios de gestão por objectivos, aplicando o disposto no [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro, e, subsidiariamente, as regras legais em vigor para os serviços dotados de autonomia administrativa e financeira.
+Art. 6.º Na administração financeira e patrimonial, o SRPCM orientar-se-á segundo os princípios de gestão por objectivos, aplicando o disposto no [Decreto Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600106), de 17 de Fevereiro, e, subsidiariamente, as regras legais em vigor para os serviços dotados de autonomia administrativa e financeira.
 
-###### Art. 7.º Com base no plano de actividades para cada ano económico, o SRPCM promoverá a elaboração do respectivo orçamento privativo anual em cada ano económico, podendo, no entanto, ser aprovadas revisões e alterações orçamentais, nos termos da lei geral e regional.
+Art. 7.º Com base no plano de actividades para cada ano económico, o SRPCM promoverá a elaboração do respectivo orçamento privativo anual em cada ano económico, podendo, no entanto, ser aprovadas revisões e alterações orçamentais, nos termos da lei geral e regional.
 
-###### Art. 8.º Os saldos apurados na gerência de cada ano económico transitarão como saldo para aplicação no ano ou anos económicos seguintes.
+Art. 8.º Os saldos apurados na gerência de cada ano económico transitarão como saldo para aplicação no ano ou anos económicos seguintes.
 
-###### Art. 9.º - 1 - O pessoal permanente do SRPCM é o constante do quadro anexo ao presente diploma, do qual faz parte integrante, e agrupa-se de harmonia com a classificação seguinte:
+Art. 9.º - 1 - O pessoal permanente do SRPCM é o constante do quadro anexo ao presente diploma, do qual faz parte integrante, e agrupa-se de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -138,7 +167,7 @@ d) Pessoal operário e auxiliar.
 
 3 - As regras de organização dos quadros e as condições de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários do SRPCM são, para as respectivas categorias, as estabelecidas no [Decreto Regulamentar Regional n.º 10/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1982-391831), de 2 de Junho, no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, no [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, e na demais legislação regional e geral complementar aplicável.
 
-###### Art. 10.º - 1 - O cargo de coordenador geral poderá ser exercido em comissão de serviço, no caso em que o provimento recaia em funcionário da administração pública central, regional ou local.
+Art. 10.º - 1 - O cargo de coordenador geral poderá ser exercido em comissão de serviço, no caso em que o provimento recaia em funcionário da administração pública central, regional ou local.
 
 2 - Tal cargo poderá, todavia, ser exercido por indivíduo não vinculado à função pública, mediante contrato, do qual constará a remuneração e as demais condições que forem estipuladas.
 
@@ -146,23 +175,23 @@ d) Pessoal operário e auxiliar.
 
 4 - A comissão de serviço ou contrato a que se refere o presente artigo terá a duração de 1 ano, renovável por despacho do presidente do SRPCM.
 
-###### Art. 11.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades eventuais, transitórias ou extraordinárias que não possam ser asseguradas pelo pessoal permanente.
+Art. 11.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades eventuais, transitórias ou extraordinárias que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O contrato a que se refere o n.º 1 será celebrado por prazo não superior a 1 ano e até ao limite de 3 anos, podendo ser renovado com a dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas.
 
 3 - O regime de pessoal contratado além do quadro será o que estiver estabelecido na legislação geral aplicável, nomeadamente naquela em que se contém o regime do pessoal nomeado e que não seja incompatível com a natureza do vínculo contratual.
 
-###### Art. 12.º - 1 - A realização de estudos, acções de formação, inquéritos e outros trabalhos técnicos de carácter eventual que não seja possível assegurar pelos serviços do SRPCM poderá ser confiada, mediante contrato, a indivíduos ou a entidades nacionais ou estrangeiros estranhos aos serviços.
+Art. 12.º - 1 - A realização de estudos, acções de formação, inquéritos e outros trabalhos técnicos de carácter eventual que não seja possível assegurar pelos serviços do SRPCM poderá ser confiada, mediante contrato, a indivíduos ou a entidades nacionais ou estrangeiros estranhos aos serviços.
 
 2 - O contrato referido no número anterior reger-se-á pelas disposições previstas na lei geral quanto a despesas públicas em matéria de aquisição de serviços, deverá ser reduzido a escrito e nele fixadas as condições da sua prestação e o prazo de duração.
 
 3 - O exercício da actividade prevista no n.º 1 não confere por si a qualidade de agente administrativo.
 
-###### Art. 13.º - 1 - O pessoal que prestava serviço na extinta Comissão Regional de Protecção Civil da Madeira, qualquer que seja a sua forma de provimento ou vínculo, será integrado no quadro do SRPCM, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
+Art. 13.º - 1 - O pessoal que prestava serviço na extinta Comissão Regional de Protecção Civil da Madeira, qualquer que seja a sua forma de provimento ou vínculo, será integrado no quadro do SRPCM, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação previstas no número anterior deste artigo serão efectuadas por despacho do presidente, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e publicação no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 14.º - 1 - O primeiro provimento dos lugares do quadro de pessoal anexo a este diploma será feito prioritariamente, e com o acordo dos interessados, de entre os funcionários afectos aos quadros regionais ou que nos mesmos venham a prestar ou tenham prestado serviço permanente a qualquer título durante 2 anos, pelo menos.
+Art. 14.º - 1 - O primeiro provimento dos lugares do quadro de pessoal anexo a este diploma será feito prioritariamente, e com o acordo dos interessados, de entre os funcionários afectos aos quadros regionais ou que nos mesmos venham a prestar ou tenham prestado serviço permanente a qualquer título durante 2 anos, pelo menos.
 
 2 - A integração do pessoal referido no número anterior será realizada de acordo com as seguintes regras:
 
@@ -174,7 +203,7 @@ c) Para categoria correspondente às funções que o agente actualmente desempen
 
 3 - Ao pessoal integrado no quadro do SRPCM é contado, para todos os efeitos legais, designadamente para a transição, ingresso ou progressão na carreira, o tempo de serviço prestado na categoria, carreira e quadros em que se encontrou incluído anteriormente.
 
-###### Art. 15.º - 1 - A carreira de técnico auxiliar de protecção civil desenvolver-se-á pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 15.º - 1 - A carreira de técnico auxiliar de protecção civil desenvolver-se-á pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 a) O recrutamento para ingresso na carreira de técnico auxiliar de protecção civil far-se-á de entre os indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
@@ -194,7 +223,7 @@ a) O recrutamento para ingresso na carreira de desenhador far-se-á de entre os 
 
 b) A progressão na carreira de desenhador verificar-se-á de harmonia com a legislação em vigor para a função pública.
 
-###### Art. 16.º - 1 - O provimento do pessoal não dirigente do quadro do SRPCM será feito, por nomeação provisória ou comissão de serviço, pelo período de 1 ano.
+Art. 16.º - 1 - O provimento do pessoal não dirigente do quadro do SRPCM será feito, por nomeação provisória ou comissão de serviço, pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -212,7 +241,7 @@ b) Como prestado no lugar do quadro do SRPCM em que vier a ser provido definitiv
 
 5 - No caso previsto no número anterior, os funcionários serão providos definitivamente ou regressarão aos lugares de origem decorrido que seja 1 ano sobre o início da comissão de serviço, conforme for julgado mais conveniente para os serviços.
 
-###### Art. 17.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependa, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
+Art. 17.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependa, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
 
 2 - O período de requisição, que será previamente fixado, terá a duração máxima de 1 ano, prorrogável por uma só vez.
 
@@ -224,44 +253,44 @@ b) Como prestado no lugar do quadro do SRPCM em que vier a ser provido definitiv
 
 6 - O pessoal do quadro do SRPCM poderá, nas condições previstas nos números anteriores, ser requisitado para outros departamentos da Administração Pública.
 
-###### Art. 18.º - 1 - O pessoal do quadro a que se refere o presente diploma poderá ser transitoriamente destacado para exercer funções em qualquer serviço ou organismo público e, inversamente, poderá o pessoal de outros serviços ou organismos ser destacado para o SRPCM.
+Art. 18.º - 1 - O pessoal do quadro a que se refere o presente diploma poderá ser transitoriamente destacado para exercer funções em qualquer serviço ou organismo público e, inversamente, poderá o pessoal de outros serviços ou organismos ser destacado para o SRPCM.
 
 2 - Os destacamentos previstos no número anterior dependem do acordo dos interessados, não podem exceder o período de 6 meses, prorrogável até ao limite de 1 ano, e não prejudicam de qualquer forma a situação dos funcionários perante os serviços de que dependem, os quais continuarão a assegurar as suas remunerações.
 
 3 - Os destacamentos carecem de autorização do membro do Governo de que dependa o funcionário, obtido o parecer favorável dos dirigentes dos serviços ou organismos competentes, cabendo a estes acordar quanto ao programa e à duração da colaboração ou dos trabalhos a efectuar em comum pelos respectivos funcionários.
 
-###### Art. 19.º Os funcionários poderão exercer, temporariamente, funções em regime de comissão de serviço, destacamento, requisição, interinidade ou substituição, considerando-se, para todos os efeitos, como prestado no quadro de origem, para todos os funcionários, o tempo de serviço prestado no SRPCM.
+Art. 19.º Os funcionários poderão exercer, temporariamente, funções em regime de comissão de serviço, destacamento, requisição, interinidade ou substituição, considerando-se, para todos os efeitos, como prestado no quadro de origem, para todos os funcionários, o tempo de serviço prestado no SRPCM.
 
-###### Art. 20.º Aos membros dos órgãos do SRPCM que não pertençam ao quadro anexo a este diploma é conferido o direito ao abono de senhas de presença pela sua participação nas respectivas reuniões, nos termos que se encontram estabelecidos para a função pública.
+Art. 20.º Aos membros dos órgãos do SRPCM que não pertençam ao quadro anexo a este diploma é conferido o direito ao abono de senhas de presença pela sua participação nas respectivas reuniões, nos termos que se encontram estabelecidos para a função pública.
 
-###### Art. 21.º Aos membros dos órgãos do SRPCM é conferido o direito à percepção de abono para transportes, ajudas de custo e outras remunerações acessórias, nos termos prescritos para a função pública.
+Art. 21.º Aos membros dos órgãos do SRPCM é conferido o direito à percepção de abono para transportes, ajudas de custo e outras remunerações acessórias, nos termos prescritos para a função pública.
 
-###### Art. 22.º Os membros dos órgãos do SRPCM e o seu pessoal, assim como os colaboradores do sistema de protecção civil, terão direito a cartão de identidade próprio, de modelo a aprovar pelo Presidente do Governo Regional, precedendo proposta do presidente do SRPCM.
+Art. 22.º Os membros dos órgãos do SRPCM e o seu pessoal, assim como os colaboradores do sistema de protecção civil, terão direito a cartão de identidade próprio, de modelo a aprovar pelo Presidente do Governo Regional, precedendo proposta do presidente do SRPCM.
 
-###### Art. 23.º - 1 - Sempre que houver necessidade de garantir o funcionamento dos serviços continuadamente para além do período normal de trabalho, poderão ser organizados horários de trabalho por turnos rotativos, que são havidos como períodos normais de trabalho, independentemente do dia da semana em que recaiam.
+Art. 23.º - 1 - Sempre que houver necessidade de garantir o funcionamento dos serviços continuadamente para além do período normal de trabalho, poderão ser organizados horários de trabalho por turnos rotativos, que são havidos como períodos normais de trabalho, independentemente do dia da semana em que recaiam.
 
 2 - Os turnos referidos no número anterior serão determinados por despacho do presidente do SRPCM e assegurados pelos operadores de telecomunicações ou telefonistas e, quando necessário, por outro pessoal, aplicando-se o regime estabelecido na lei geral e regional.
 
-###### Art. 24.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Presidente do Governo Regional e, quando estiverem em causa matérias da sua competência, por despacho conjunto do Presidente do Governo Regional e do Secretário Regional do Planeamento e Finanças.
+Art. 24.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Presidente do Governo Regional e, quando estiverem em causa matérias da sua competência, por despacho conjunto do Presidente do Governo Regional e do Secretário Regional do Planeamento e Finanças.
 
-###### Art. 25.º O presente diploma será revisto no prazo máximo de 3 anos após a sua entrada em vigor, com vista a adaptá-lo na base da experiência decorrida e das exigências funcionais próprias, resultantes da prossecução dos objectivos específicos do SRPCM e dos pressupostos e finalidades da protecção civil.
+Art. 25.º O presente diploma será revisto no prazo máximo de 3 anos após a sua entrada em vigor, com vista a adaptá-lo na base da experiência decorrida e das exigências funcionais próprias, resultantes da prossecução dos objectivos específicos do SRPCM e dos pressupostos e finalidades da protecção civil.
 
-###### Art. 26.º O SRPCM poderá criar e adoptar um distintivo ou emblema próprio, que inclua, como símbolos básicos, o distintivo internacional de protecção civil e o especial relativo à Região Autónoma da Madeira.
+Art. 26.º O SRPCM poderá criar e adoptar um distintivo ou emblema próprio, que inclua, como símbolos básicos, o distintivo internacional de protecção civil e o especial relativo à Região Autónoma da Madeira.
 
-###### Art. 27.º O SRPCM poderá, quando for julgado conveniente ou necessário, instituir na Região um número telefónico de emergência, com a colaboração dos Correios e Telecomunicações de Portugal, a solicitação da Presidência do Governo Regional.
+Art. 27.º O SRPCM poderá, quando for julgado conveniente ou necessário, instituir na Região um número telefónico de emergência, com a colaboração dos Correios e Telecomunicações de Portugal, a solicitação da Presidência do Governo Regional.
 
-###### Art. 28.º O presente diploma entra imediatamente em vigor.
+Art. 28.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em plenário em 18 de Novembro de 1982.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 10 de Dezembro de 1982.**
+Assinado em 10 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro de pessoal do Serviço Regional de Protecção Civil da Madeira, a que se refere o n.º 1 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/02200/02290232.pdf))](https://files.diariodarepublica.pt/1s/1983/01/02200/02290232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/02200/02290232.pdf)

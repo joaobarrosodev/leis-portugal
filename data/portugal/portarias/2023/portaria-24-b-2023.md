@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 6/2023, 1º Suplemento, Série I de 2023-01-09
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(3) a 31-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24-b/2023/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-b-2023-205928630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f2da7df33bac79c1563eee41c0924b13cbaebb52f4174951670803b36c1054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 882feb97f6135810e4fb1c2509bc914f481fa0079b7716546db0c106eafa5148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,61 +65,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Actualização de Pensões
 - Aposentação
 - Aposentado
-- Profissão Artística
 - Associação de Socorros Mútuos
+- Atividade Agrícola
 - Banco de Angola
 - Beneficiário
-- Pescador
+- Caixa de Previdência
 - Caixa de Previdência do Pessoal da Marinha Mercante Nacional
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Câmara dos Despachantes Oficiais
 - Centro Nacional de Pensões
 - Complemento Extraordinario de Solidariedade
-- Regulamentação de Atos Legislativos
-- Pensão por Incapacidade Permanente para o Trabalho
-- Caixa Geral de Aposentações
-- IAS
-- Indústria Fosforeira
+- Doença Profissional
 - Fundo de Desenvolvimento da Mão-de-obra
-- Caixa de Previdência
-- Reforma Antecipada
+- IAS
+- Incapacidade Permanente
+- Indústria Fosforeira
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Preço de Sangue
+- Pensão de Reforma
 - Pensão de Reserva
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
-- Doença Profissional
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Social
 - Pensão Unificada
 - Pensionista
 - Pensões
+- Pescador
 - Prestações Complementares
 - Prestações da Segurança Social
+- Profissão Artística
 - Proteção Social
 - Reforma
+- Reforma Antecipada
 - Reformado
 - Regime Contributivo da Segurança Social
 - Regime de Protecção Social Convergente
 - Regime Especial de Segurança Social
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
+- Regulamentação de Atos Legislativos
 - Regulamento do Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos
 - Segurança Social
 - Sistema Previdencial
-- Incapacidade Permanente
 relationships:
 - type: amended_by
   target: pt:dre:229857700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:212379455:por
+  label: Atualizados, com efeitos a partir de 01.07.2023, as pensões regulamentares de invalidez e de velhice do regime geral
+    de segurança social e demais pensões, subsídios e complementos, atribuídos antes de 01.01.2022 e atribuídos durante o
+    ano de 2022, previstos no presente diploma, bem como as pensões do regime de proteção social convergente da Caixa Geral
+    de Aposentações, I. P., pelo(a) Decreto-Lei n.º 28/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28 nos termos
+    do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2023-212379455
+  date: '2023-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
@@ -160,16 +169,154 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1116497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115578262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158054820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185719065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202455960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857700:por
+  label: Revogada ,com efeitos a partir de 01.01.2024, pelo(a) Portaria n.º 424/2023 - Diário da República n.º 237/2023, Série
+    I de 2023-12-11 nos termos do art. 29.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-2023-229857700
+  date: '2023-12-11'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:59:05Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +381,7 @@ c) 3,89 %, para as pensões de montante superior a (euro) 2882,58.
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
 
 3 - Os valores mínimos fixados nos n.os 1 e 2 deste artigo:
 
@@ -248,7 +395,7 @@ c) São aplicáveis aos beneficiários abrangidos pelos regulamentos especiais d
 
 Os valores mínimos garantidos às pensões de aposentação, reforma e invalidez pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são os constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
 
 ###### Artigo 6.º — Atualização das pensões de sobrevivência
 
@@ -280,7 +427,7 @@ c) 3,89 %, para as pensões de valor global superior a (euro) 1441,29.
 
 Os valores mínimos garantidos às pensões de sobrevivência pagas pela CGA, em função do tempo de serviço considerado no respetivo cálculo, são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
 
 ###### Artigo 10.º — Atualização das pensões limitadas
 
@@ -394,8 +541,10 @@ As pensões unificadas atribuídas ao abrigo da [Portaria n.º 642/83](https://d
 
 A presente portaria produz efeitos a partir de 1 de janeiro de 2023.
 
-**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de janeiro de 2023.**
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 6 de janeiro de 2023. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de janeiro de 2023.
 
 ## ANEXO I — Tabela de coeficientes de atualização de pensões para efeitos de cúmulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00601/0000300011.pdf)
+
+116045155

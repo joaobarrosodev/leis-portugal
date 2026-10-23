@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229/2011/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2011-670055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c4f909c4f7915d2c07557500f57f573cf0f89e9f1708d8105b0208752fd1401
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f25da78ee81c4f13fedbd26f30868c87fd52944c55ea209754f57ab715d156
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Beneficiários
-- Estatuto
 - Beja
-relationships: []
+- Estatuto
+relationships:
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:20Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +105,4 @@ Manda o Governo, ao abrigo dos artigos 1.º e 2.º do [Decreto Regulamentar n.º
 
 Homologo os Estatutos da Associação de Beneficiários do Ardila e Enxoé, constituída por escritura pública de 20 de Maio de 2011.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 1 de Junho de 2011.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 1 de Junho de 2011.

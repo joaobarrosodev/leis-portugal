@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 168/2010, 1º Suplemento, Série I de 2010-08-30
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3818-(2) a 3818-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/825-a/2010/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-a-2010-634331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c254f8f7f992c0e01dc880b289bd0042d960bbf81f4b09439e9792d28d2994f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee7e76828ccacc5a62b254a7240845da8568433a7de0c648c2f86c21d1086f41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Leite
-- Projeto de Investimento
+- Pecuária
 - Política Agrícola Comum
 - Produção Leiteira
+- Projeto de Investimento
 - Quota de Produção
-- Pecuária
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:70215251:por
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/177/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/177/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:424732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70215251:por
+  label: Revogada, a partir de 13.09.2015, a Port 177/2006 de 22-fev, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 189/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2015-70215251
+  date: '2015-09-08'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:40Z'
   warnings: []
   errors: []
 ---

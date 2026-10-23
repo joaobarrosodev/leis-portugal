@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/484/2010/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/484-2010-334344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9ea36fc6cb7d059c93d255c92ea86ffdfcdbdc3f78f73036ad99a39d7166818
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154d0aee107dacb092e1f8496e39a483c9f464e801bcbabb5521763ea7a208fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1160/2004/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1160/2004/09/14/p/dre
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617326:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:38Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +135,6 @@ Manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rura
 
 Esta portaria produz efeitos a partir de 15 de Setembro de 2010.
 
-**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 1 de Julho de 2010.**
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 1 de Julho de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0255102552.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0255102552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0255102552.pdf)

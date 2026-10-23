@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24800/0004600049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2024/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2024-901014292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd23396d2d915c2663f298127a362720466b347f54f3a5ba0baba5557813cac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d295fd177644486779aadac9f666f51aca6ea100357eba8b2460d0948aa0c80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Técnico Superior de Saúde
+- EPERAM
+- Estatuto Remuneratório
 - Integração de Trabalhadores
 - Madeira.região Autónoma
 - Reestruturação de Carreiras
 - Sesaram
-- Estatuto Remuneratório
-- EPERAM
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/5/2024/01/05/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214870723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117867:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:53Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +174,7 @@ Foi observado o procedimento de consulta estabelecido no artigo 470.º do Códig
 
 Assim:
 
-A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea m) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea m) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ### CAPÍTULO I — OBJETO E ÂMBITO
 
@@ -174,7 +206,7 @@ A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da a
 
 2 - Aos trabalhadores abrangidos pelo presente decreto legislativo regional cujo desempenho não tenha sido sujeito a avaliação, é atribuído, a título definitivo, um ponto por cada ano desde a data de início de funções no SESARAM, EPERAM, contabilizado nos termos do n.º 1 do artigo anterior, sem que seja possível a substituição dos mesmos, desde que se encontrem cumpridos os respetivos requisitos funcionais aplicáveis em cada momento.
 
-3 - Aos trabalhadores abrangidos por este diploma é aplicável o disposto nos n.<sup>os</sup>1 e 5 do artigo 2.º do [Decreto Legislativo Regional n.º 23/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2023-214870723), de 28 de junho.
+3 - Aos trabalhadores abrangidos por este diploma é aplicável o disposto nos n.os1 e 5 do artigo 2.º do [Decreto Legislativo Regional n.º 23/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2023-214870723), de 28 de junho.
 
 ### CAPÍTULO IV — REMUNERAÇÃO, ALTERAÇÃO DO POSICIONAMENTO REMUNERATÓRIO E DIREITO A FÉRIAS
 
@@ -226,10 +258,12 @@ O presente diploma entra em vigor no primeiro dia útil do segundo mês seguinte
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
-**Assinado em 18 de dezembro de 2024.**
+Assinado em 18 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118488879

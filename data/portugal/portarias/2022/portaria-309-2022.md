@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24800/0001600017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/309/2022/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-2022-205314087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:58:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 237906a7bae3c8a51ae1f638537248141458ab98346566c26bdcc604de968c52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d82cf1c5db4e4fac8d326fd01b3a43a0bb4f1e21ca0d22d1a6f98830f77d0f7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
 subjects:
 - Aeroporto
 - Aeroporto de Francisco SÁ Carneiro
+- Aeroporto Humberto Delgado
 - Aeroporto JOÃO Paulo II
-- ILHA de Porto Santo
-- Navegação Aérea
-- ILHA de são Miguel
-- Transporte Aéreo
-- Regulamentação de Atos Legislativos
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
+- Cascais
 - Faro
-- Lisboa
 - Horta
 - ILHA das Flores
-- NAV Portugal
+- ILHA de Porto Santo
 - ILHA de Santa Maria
+- ILHA de são Miguel
+- ILHA do Faial
+- Lisboa
+- Madeira.região Autónoma
+- NAV Portugal
+- Navegação Aérea
 - Ponta Delgada
+- Porto
 - Porto Santo
 - Preço
 - Prestação de Serviços
-- Madeira.região Autónoma
-- Aviação Civil
+- Regulamentação de Atos Legislativos
 - Regulamento CE
 - Segurança Aérea
-- Cascais
 - Taxa Aeroportuária
-- Porto
-- ILHA do Faial
-- Autoridade Nacional da Aviação Civil
-- Aeroporto Humberto Delgado
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:812826243:por
@@ -134,16 +134,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/328-b/2021/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/328-b/2021/12/30/p/dre
+- type: cites
+  target: pt:dre:144454620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186361752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498683:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:812826243:por
+  label: Revogado, a partir de 23.12.2023, com efeitos a partir de 01.01.2024, o presente diploma pelo(a) Portaria n.º 448/2023
+    - Diário da República n.º 246/2023, Série I de 2023-12-22, nos termos do art. 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-2023-812826243
+  date: '2023-12-22'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:58:09Z'
   warnings: []
   errors: []
 ---
@@ -186,4 +220,6 @@ A liquidação das taxas de terminal faz-se de acordo com o disposto no [Regulam
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2023.
 
-**O Secretário de Estado das Infraestruturas, Hugo Santos Mendes, em 21 de dezembro de 2022.**
+O Secretário de Estado das Infraestruturas, Hugo Santos Mendes, em 21 de dezembro de 2022.
+
+116004477

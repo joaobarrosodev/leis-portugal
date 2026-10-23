@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/2011/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 148da8ae8d4584502653acd7e3e425b11214064f1b701a1a2c15077a9dc56b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 318c2e3489ffaf38b1c5563eaac567ce76916239f3ec6120e0762f95dec3384a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Incêndio
-- Prevenção de Incêndios
-- Fiscalização
-- Normas de Segurança
-- Segredo Profissional
-- Segurança dos Edifícios
 - Autoridade Nacional de Protecção Civil
 - Equipamento de Combate a Incêndios
+- Fiscalização
+- Incêndio
+- Normas de Segurança
 - Prédio Urbano
+- Prevenção de Incêndios
+- Segredo Profissional
+- Segurança dos Edifícios
 - Vistoria
 relationships:
 - type: cites
@@ -87,16 +87,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/64/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/64/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:53Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +149,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +199,9 @@ ii) Elementos dos corpos de voluntários:
 
 c) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 

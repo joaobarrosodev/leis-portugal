@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2018/06/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2018-115609040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28500bf2564e51320a5f84ffd8ffc0e6cc523f0ef34e2e4b2f92262d252dec06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae629338fa71c262e0abda1d8e63b139f6cfdc4ee03a94a6a43813b8761c1641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- ILHA da Madeira
-- ILHA de Porto Santo
-- Educação Especial
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Integração de Trabalhadores
-- Ensino Secundário
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Contrato de Trabalho
-- Regime Jurídico
+- Educação Especial
+- Ensino Básico
+- Ensino Secundário
+- Habilitações Literárias
+- ILHA da Madeira
+- ILHA de Porto Santo
+- Integração de Trabalhadores
+- Madeira.região Autónoma
 - Mobilidade de Pessoal
+- Pessoal Docente
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Tempo de Serviço
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:163332294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163332294:por
+  label: Alterados, a partir de 15.05.2021, os arts. 2.º, 5.º, 9.º, 17.º, 18.º, 19.º, 36.º e 46.º do DLR 28/2016/M de 15-jul,
+    na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 9/2021/M - Diário da República n.º
+    94/2021, Série I de 2021-05-1418/M de 29-jun que procede à republicação do citado DLR 28/2016/M
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2021-163332294
+  date: '2021-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre
   label: null
@@ -133,16 +140,192 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69782195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74953321:por
+  label: null
+  source: null
 article_structure:
-  article_count: 84
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:42:22Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +404,9 @@ e) [Anterior alínea d).]
 
 10 - O disposto no número anterior é aplicável aos docentes dos demais níveis de ensino, em casos excecionais e devidamente fundamentados, designadamente quando não seja possível assegurar o cumprimento da componente letiva numa única escola, mediante a anuência do próprio, quando se trate de um docente do quadro de escola.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +450,9 @@ h)...
 
 i) Calendário indicativo das várias fases dos concursos.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -273,7 +460,9 @@ i) Calendário indicativo das várias fases dos concursos.
 
 3 - O apuramento das vagas necessárias à satisfação das necessidades permanentes das escolas básicas e secundárias é da responsabilidade do respetivo órgão de gestão, do delegado escolar no caso das escolas do 1.º ciclo do ensino básico não integradas e do diretor regional responsável pela área da educação quando se trate de uma instituição de educação especial.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 a)...
 
@@ -281,7 +470,9 @@ b)...
 
 c) (Revogada.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - As necessidades temporárias estruturadas em horários, completos ou incompletos, são recolhidas pela direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta do órgão de gestão das escolas básicas e secundárias, do delegado escolar no caso das escolas do 1.º ciclo do ensino básico não integradas e do diretor regional responsável pela área da educação quando se trate de uma instituição de educação especial.
 
@@ -295,13 +486,17 @@ c) (Revogada.)
 
 6 - A requisição de horários pelos órgãos de gestão das escolas com autonomia administrativa pressupõe a verificação prévia da regularidade financeira do respetivo encargo, designadamente a existência de cabimento orçamental.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A candidatura ao concurso de afetação é anual e obrigatória para os docentes dos quadros de zona pedagógica, independentemente da continuidade prevista no artigo 34.º
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +504,9 @@ c) (Revogada.)
 
 3 - A este concurso é aplicável o disposto nos artigos 16.º a 20.º, com as devidas adaptações.
 
-###### Artigo 34.º — Afetação quadrienal
+Artigo 34.º
+
+Afetação quadrienal
 
 1 - De modo a contribuir para a estabilidade do corpo docente, a afetação dos docentes dos quadros de zona pedagógica mantém-se durante um ciclo de quatro anos, se na escola em que o docente foi colocado subsistir componente letiva com a duração mínima de seis horas.
 
@@ -319,7 +516,9 @@ c) (Revogada.)
 
 4 - Anualmente são publicitadas as listas de docentes abrangidos pela continuidade referida no n.º 1.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +532,9 @@ c) (Revogada.)
 
 6 - A colocação dos docentes referidos no n.º 1 mantém-se até ao limite de quatro anos, se na escola em que o docente foi colocado subsistir componente letiva com a duração mínima de seis horas e, no caso dos docentes da alínea a) do n.º 1, desde que se mantenha a inexistência de horário com a duração mínima de seis horas na escola de origem.
 
-###### Artigo 43.º — Reserva de recrutamento
+Artigo 43.º
+
+Reserva de recrutamento
 
 1 - Os docentes de carreira de zona pedagógica a quem não é possível atribuir pelo menos 6 horas de componente letiva e os candidatos à contratação inicial, integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários surgidos após a contratação inicial.
 
@@ -363,7 +564,9 @@ c) (Revogada.)
 
 14 - (Anterior n.º 10.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -387,7 +590,9 @@ c) (Revogada.)
 
 11 - Em matéria de aceitação de colocação e de apresentação é aplicável o disposto no n.º 6 do artigo 9.º e nos n.os 10 a 14 do artigo 43.º
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima um ano escolar, incluindo o período de férias.
 
@@ -409,7 +614,9 @@ c) (Revogada.)
 
 10 - ...
 
-###### Artigo 48.º — Retribuição
+Artigo 48.º
+
+Retribuição
 
 1 - ...
 
@@ -423,15 +630,21 @@ c) (Revogada.)
 
 6 - Aos docentes contratados a termo resolutivo não licenciados ou não detentores de habilitação profissional é aplicada a tabela constante do anexo ao presente diploma.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 A contratação de pessoal docente em regime de contrato de trabalho a termo resolutivo depende de despacho de autorização do membro do Governo Regional responsável pelas áreas das finanças e da Administração Pública, nos termos do diploma que aprova o Orçamento da Região Autónoma da Madeira.
 
-## ANEXO — (a que se refere o n.º 6 artigo 48.º)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+(a que se refere o n.º 6 artigo 48.º)
 
-###### Artigo 3.º — Criação dos quadros de zona pedagógica 1 e 2
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+
+Artigo 3.º
+
+Criação dos quadros de zona pedagógica 1 e 2
 
 1 - É criado o quadro de zona pedagógica 1, cujo âmbito geográfico abrange todos os concelhos da ilha da Madeira e todos os níveis de educação e ensino.
 
@@ -439,7 +652,9 @@ A contratação de pessoal docente em regime de contrato de trabalho a termo res
 
 3 - A dotação de vagas dos quadros referidos nos números anteriores é aprovada através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e da administração pública e de educação, de acordo com o disposto no n.º 3 do artigo 30.º do Estatuto.
 
-###### Artigo 4.º — Transição dos docentes dos quadros de zona pedagógica
+Artigo 4.º
+
+Transição dos docentes dos quadros de zona pedagógica
 
 1 - Os docentes dos quadros de zona pedagógica A, B, C e único, transitam automaticamente, sem outras formalidades, para o quadro de zona pedagógica 1, à data da publicação da portaria referida no n.º 3 do artigo anterior, sem prejuízo do disposto no n.º 3 do presente artigo.
 
@@ -451,11 +666,15 @@ A contratação de pessoal docente em regime de contrato de trabalho a termo res
 
 5 - A partir da data da entrada em vigor da portaria referida no n.º 3 do artigo anterior, são extintos os quadros de zona pedagógica A, B, C e D previstos no [Decreto Legislativo Regional n.º 2/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1994-353534), de 23 de fevereiro, alterado pelos Decretos Legislativos Regionais n.os [9/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1996-423934), de 1 de julho, [4/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1998-176034), de 23 de abril, [12/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1999-544776), de 15 de abril, [14-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385), de 28 de maio, e [17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), de 22 de julho, e o quadro de zona pedagógica único, criado pelo artigo 56.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho.
 
-###### Artigo 5.º — Continuidade pedagógica
+Artigo 5.º
+
+Continuidade pedagógica
 
 À data da entrada em vigor do presente diploma, cessam as continuidades previstas no artigo 34.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho, com exceção dos docentes colocados através da mobilidade interna nos termos do n.º 1 do artigo 36.º e do n.º 2 do artigo 53.º daquele diploma, os quais poderão manter-se em continuidade até perfazerem o limite de quatro anos.
 
-###### Artigo 6.º — Concurso externo para 2018/2019
+Artigo 6.º
+
+Concurso externo para 2018/2019
 
 Para efeitos do concurso externo para o ano escolar 2018/2019, consideram-se também abrangidos pela 1.ª prioridade estatuída na alínea a) do n.º 3 do artigo 10.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho, os docentes que possuam os seguintes requisitos cumulativos:
 
@@ -465,55 +684,77 @@ b) Quatro contratos sucessivos celebrados com o departamento do Governo Regional
 
 c) Pelo menos dez anos de tempo de serviço docente, contabilizados nos termos dos n.os 7 e 8 do artigo 7.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho.
 
-###### Artigo 7.º — Ciclos quadrienais
+Artigo 7.º
+
+Ciclos quadrienais
 
 Para efeitos do disposto na alínea b) do n.º 1 do artigo 6.º e do n.º 1 do artigo 34.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho, na redação dada pelo presente diploma, considera-se o ciclo quadrienal o período entre os anos escolares 2018/2019 e 2021/2022, e assim sucessivamente.
 
-###### Artigo 8.º — Norma revogatória
+Artigo 8.º
+
+Norma revogatória
 
 É revogado o artigo 35.º do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho.
 
-###### Artigo 9.º — Republicação
+Artigo 9.º
+
+Republicação
 
 É republicado na íntegra, em anexo ao presente diploma, do qual faz parte integrante, o regime jurídico dos concursos para seleção, recrutamento e mobilidade do pessoal docente da educação, dos ensinos básico e secundário e do pessoal docente especializado em educação e ensino especial da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho, na sua redação atual e com as necessárias atualizações normativas e retificações materiais.
 
-###### Artigo 10.º — Entrada em vigor
+Artigo 10.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira de 7 de junho de 2018.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
-**Assinado em 18 de junho de 2018.**
+Assinado em 18 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO I — (a que se refere o n.º 6 artigo 48.º)
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+(a que se refere o n.º 6 artigo 48.º)
 
-## ANEXO II — (a que se refere o artigo 9.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 9.º)
 
 Republicação do [Decreto Legislativo Regional n.º 28/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2016-74953321), de 15 de julho
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-#### SECÇÃO I — Objeto e âmbito dos concursos
+Disposições gerais
 
-###### Artigo 1.º — Objeto
+SECÇÃO I
+
+Objeto e âmbito dos concursos
+
+Artigo 1.º
+
+Objeto
 
 1 - O presente diploma regula os concursos para seleção e recrutamento do pessoal docente da educação, dos ensinos básico e secundário e do pessoal docente especializado em educação e ensino especial da Região Autónoma da Madeira e os princípios a que obedece a contratação de pessoal docente, previstos, nomeadamente, no artigo 27.º e no n.º 4 do artigo 36.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, retificado pela [Declaração de Retificação n.º 21/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), de 24 de abril, e alterado pelos Decretos Legislativos Regionais n.os [17/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), de 18 de agosto, e [20/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), de 29 de agosto, adiante designado por Estatuto, constituindo este o processo normal e obrigatório de seleção e recrutamento do pessoal docente.
 
 2 - O presente diploma estabelece ainda os procedimentos necessários à operacionalização da mobilidade interna dos docentes colocados nos estabelecimentos públicos de educação e dos ensinos básico e secundário na dependência da Secretaria Regional de Educação.
 
-###### Artigo 2.º — Âmbito pessoal
+Artigo 2.º
+
+Âmbito pessoal
 
 As normas previstas no presente diploma são aplicáveis aos docentes de carreira cuja relação jurídica de emprego público é titulada por contrato de trabalho em funções públicas por tempo indeterminado e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no n.º 4 do artigo 44.º
 
-###### Artigo 3.º — Âmbito material
+Artigo 3.º
+
+Âmbito material
 
 1 - O disposto no presente diploma é aplicável à generalidade das modalidades de educação escolar, aos lugares das instituições de educação especial para os grupos de recrutamento de educação física, educação visual e tecnológica, educação musical, informática e à lecionação da componente sociocultural e científica dos cursos profissionais.
 
@@ -521,7 +762,9 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 3 - Para efeitos do presente diploma, entende-se por escola os estabelecimentos de educação, de ensino, instituições de educação especial e institutos e escolas profissionais públicas sob a superintendência e tutela da Secretaria Regional de Educação.
 
-###### Artigo 4.º — Quadros de pessoal
+Artigo 4.º
+
+Quadros de pessoal
 
 1 - Os quadros de pessoal docente da rede pública estruturam-se em quadros de escola, de zona pedagógica e de instituição de educação especial.
 
@@ -531,9 +774,13 @@ As normas previstas no presente diploma são aplicáveis aos docentes de carreir
 
 4 - A revisão dos quadros de pessoal docente é feita nos termos do n.º 2 do artigo 29.º e do artigo 31.º do Estatuto.
 
-#### SECÇÃO II — Natureza e objetivos dos concursos
+SECÇÃO II
 
-###### Artigo 5.º — Natureza e objetivos
+Natureza e objetivos dos concursos
+
+Artigo 5.º
+
+Natureza e objetivos
 
 1 - A satisfação das necessidades permanentes de pessoal docente das escolas efetua-se através dos seguintes concursos:
 
@@ -571,9 +818,13 @@ e) Oferta pública.
 
 10 - O disposto no número anterior é aplicável aos docentes dos demais níveis de ensino, em casos excecionais e devidamente fundamentados, designadamente quando não seja possível assegurar o cumprimento da componente letiva numa única escola, mediante a anuência do próprio, quando se trate de um docente do quadro de escola.
 
-#### SECÇÃO III — Procedimentos dos concursos
+SECÇÃO III
 
-###### Artigo 6.º — Abertura dos concursos
+Procedimentos dos concursos
+
+Artigo 6.º
+
+Abertura dos concursos
 
 1 - Sem prejuízo do disposto no número seguinte, a abertura dos concursos de seleção e recrutamento de pessoal docente obedece à seguinte periodicidade:
 
@@ -617,7 +868,9 @@ h) Motivos de exclusão da candidatura;
 
 i) Calendário indicativo das várias fases dos concursos.
 
-###### Artigo 7.º — Candidatura
+Artigo 7.º
+
+Candidatura
 
 1 - A candidatura aos concursos processa-se por via eletrónica, de forma a recolher a seguinte informação obrigatória:
 
@@ -655,7 +908,9 @@ c) A apresentação da fotocópia simples da declaração emitida onde o serviç
 
 9 - A falta de habilitação determina a nulidade da colocação e da subsequente relação jurídica de emprego, a declarar pelo diretor regional responsável pela área da administração e gestão das organizações escolares.
 
-###### Artigo 8.º — Âmbito das candidaturas
+Artigo 8.º
+
+Âmbito das candidaturas
 
 1 - Os candidatos ao concurso interno podem ser opositores, em simultâneo, à transferência de escola e de zona pedagógica e à transição de grupo de recrutamento, devendo indicar na candidatura a ordem de preferência.
 
@@ -663,7 +918,9 @@ c) A apresentação da fotocópia simples da declaração emitida onde o serviç
 
 3 - Os candidatos ao concurso de contratação são obrigatoriamente opositores ao concurso externo, quando a ele houver lugar.
 
-###### Artigo 9.º — Preferências
+Artigo 9.º
+
+Preferências
 
 1 - Os candidatos manifestam as suas preferências, por ordem decrescente de prioridade, da opção referida no n.º 1 do artigo anterior, por códigos de escolas, de concelhos ou de zona pedagógica.
 
@@ -687,7 +944,9 @@ b) Contratos de duração anual e contratos de duração temporária.
 
 6 - O tempo de serviço dos docentes colocados nos termos do disposto no número anterior, produz efeitos a 1 de setembro desse mesmo ano escolar, salvo quanto à remuneração.
 
-###### Artigo 10.º — Prioridades na ordenação dos candidatos
+Artigo 10.º
+
+Prioridades na ordenação dos candidatos
 
 1 - Os candidatos ao concurso interno são ordenados de acordo com as seguintes prioridades:
 
@@ -707,7 +966,9 @@ b) 2.ª prioridade: candidatos qualificados profissionalmente para o grupo de re
 
 5 - Os docentes de carreira dos grupos de recrutamento de educação e ensino especial do Continente e da Região Autónoma dos Açores que pretendam a mudança do lugar de vinculação, concorrem aos quadros de escola da Região Autónoma da Madeira na 1.ª prioridade referida na alínea a) do n.º 1, desde que portadores de qualificação profissional para o respetivo nível e grau de ensino e de formação especializada na área de educação especial nos termos do n.º 4, e quando opositores a esses grupos de recrutamento nas instituições de educação especial, desde que titulares de formação especializada na respetiva área.
 
-###### Artigo 11.º — Graduação dos candidatos opositores aos grupos de recrutamento de educação e ensino
+Artigo 11.º
+
+Graduação dos candidatos opositores aos grupos de recrutamento de educação e ensino
 
 1 - A graduação dos docentes para a docência é determinada pelo resultado da soma dos valores obtidos, nos termos das alíneas seguintes:
 
@@ -725,7 +986,9 @@ ii) Com o número de dias de serviço docente ou equiparado prestado anteriormen
 
 4 - Para efeitos da graduação profissional dos candidatos opositores ao grupo de recrutamento de educação e ensino especial, é aplicável o disposto no presente artigo, bem como nos artigos 12.º e 13.º, relevando para a classificação profissional a obtida pelo docente no curso de formação especializada que o qualifica para o ensino de crianças e jovens com deficiência ou com outras necessidades educativas especiais.
 
-###### Artigo 12.º — Classificação profissional dos candidatos opositores ao grupo de recrutamento de educação e ensino especial no respetivo nível e grau de ensino
+Artigo 12.º
+
+Classificação profissional dos candidatos opositores ao grupo de recrutamento de educação e ensino especial no respetivo nível e grau de ensino
 
 1 - A classificação profissional corresponde para todos os efeitos legais, à classificação final obtida no curso de formação especializada que qualifique para o ensino de crianças e jovens com deficiência ou com outras necessidades educativas especiais, considerado para o efeito do exercício de funções no âmbito da educação e ensino especial.
 
@@ -741,7 +1004,9 @@ d) 14 valores para o grau de mestre;
 
 e) 16 valores para o grau de doutor.
 
-###### Artigo 13.º — Ordenação de candidatos
+Artigo 13.º
+
+Ordenação de candidatos
 
 1 - A ordenação de candidatos para a docência faz-se, dentro dos critérios de prioridade fixados no artigo 10.º, por ordem decrescente da respetiva graduação nos termos dos artigos 11.º e 12.º
 
@@ -761,17 +1026,23 @@ d) Candidatos com maior idade;
 
 e) Candidatos com o número de candidatura mais baixo.
 
-###### Artigo 14.º — Grupos de recrutamento e habilitações profissionais das atividades de enriquecimento do currículo
+Artigo 14.º
+
+Grupos de recrutamento e habilitações profissionais das atividades de enriquecimento do currículo
 
 Os grupos de recrutamento das atividades de enriquecimento do currículo do 1.º ciclo do ensino básico e as respetivas habilitações profissionais são definidas por portaria do membro do Governo Regional responsável pela área da educação, ouvidas as associações sindicais.
 
-###### Artigo 15.º — Grupos de recrutamento de educação e ensino especial e áreas e domínios de especialização
+Artigo 15.º
+
+Grupos de recrutamento de educação e ensino especial e áreas e domínios de especialização
 
 1 - Os grupos de recrutamento de educação e ensino especial são definidos por portaria do membro do Governo Regional responsável pela área da educação, ouvidas as associações sindicais.
 
 2 - As áreas e domínios de especialização para os grupos de recrutamento de educação e ensino especial das instituições de educação especial são definidas por portaria do membro do Governo Regional responsável pela área da educação.
 
-###### Artigo 16.º — Listas provisórias
+Artigo 16.º
+
+Listas provisórias
 
 1 - Terminada a verificação dos requisitos de admissão aos concursos, são elaboradas as listas provisórias de candidatos admitidos e ordenados e de candidatos excluídos, as quais são publicitadas na página eletrónica da direção regional responsável pela área da administração e gestão das organizações escolares.
 
@@ -785,7 +1056,9 @@ Os grupos de recrutamento das atividades de enriquecimento do currículo do 1.º
 
 6 - São admitidas desistências totais e parciais do concurso, por via eletrónica até ao termo do prazo para as reclamações, não sendo, porém, admitidas quaisquer alterações às preferências inicialmente manifestadas.
 
-###### Artigo 17.º — Listas definitivas
+Artigo 17.º
+
+Listas definitivas
 
 1 - Esgotado o prazo de notificação referido no n.º 5 do artigo anterior, as listas provisórias convertem-se em definitivas, contendo as alterações decorrentes das reclamações julgadas procedentes e as provenientes das desistências.
 
@@ -795,13 +1068,17 @@ Os grupos de recrutamento das atividades de enriquecimento do currículo do 1.º
 
 4 - Das listas definitivas de colocação, de ordenação e de exclusão pode ser interposto recurso hierárquico, elaborado em formulário eletrónico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis.
 
-###### Artigo 18.º — Aceitação
+Artigo 18.º
+
+Aceitação
 
 1 - Os candidatos colocados na sequência de concurso interno ou externo, devem manifestar a aceitação da colocação, no prazo de cinco dias úteis, junto do órgão de administração e gestão do estabelecimento de educação ou de ensino onde foram colocados, e no caso dos candidatos opositores aos grupos de recrutamento das instituições de educação especial, a que se refere o n.º 2 do artigo 1.º, na direção regional responsável pela área da educação especial, mediante declaração datada e assinada.
 
 2 - Os candidatos colocados na sequência dos restantes concursos devem aceitar a colocação junto das entidades referidas no n.º 1, no prazo de quarenta e oito horas, correspondentes aos dois primeiros dias úteis seguintes à publicitação da lista de colocação, com exceção dos candidatos à contratação nos termos do n.º 6 do artigo 43.º e n.º 8 do artigo 44.º
 
-###### Artigo 19.º — Apresentação
+Artigo 19.º
+
+Apresentação
 
 1 - Os candidatos colocados nos concursos interno e externo devem apresentar-se na escola onde foram colocados no 1.º dia útil do mês de setembro.
 
@@ -811,7 +1088,9 @@ Os grupos de recrutamento das atividades de enriquecimento do currículo do 1.º
 
 4 - Os docentes de carreira dos quadros de zona pedagógica que aguardam colocação, devem apresentar-se no 1.º dia útil do mês de setembro, na última escola onde exerceram funções, a aguardar nova colocação.
 
-###### Artigo 20.º — Deveres de aceitação e apresentação
+Artigo 20.º
+
+Deveres de aceitação e apresentação
 
 1 - O não cumprimento dos deveres de aceitação e apresentação é considerado, para todos os efeitos legais, como não aceitação da colocação e determina a:
 
@@ -823,11 +1102,17 @@ c) Impossibilidade dos docentes não integrados na carreira serem colocados em e
 
 2 - O disposto na parte final da alínea c) do número anterior não é aplicável em situações devidamente fundamentadas e comprovadas pelo candidato.
 
-### CAPÍTULO II — Necessidades permanentes das escolas
+CAPÍTULO II
 
-#### SECÇÃO I — Dotação de pessoal
+Necessidades permanentes das escolas
 
-###### Artigo 21.º — Dotação das vagas
+SECÇÃO I
+
+Dotação de pessoal
+
+Artigo 21.º
+
+Dotação das vagas
 
 1 - A dotação de lugares dos quadros de escolas e de zona pedagógica realiza-se nos termos do n.º 2 do artigo 29.º, n.º 3 do artigo 30.º e do artigo 31.º do Estatuto.
 
@@ -835,7 +1120,9 @@ c) Impossibilidade dos docentes não integrados na carreira serem colocados em e
 
 3 - O apuramento das vagas necessárias à satisfação das necessidades permanentes das escolas básicas e secundárias é da responsabilidade do respetivo órgão de gestão, do delegado escolar no caso das escolas do 1.º ciclo do ensino básico não integradas e do diretor regional responsável pela área da educação quando se trate de uma instituição de educação especial.
 
-###### Artigo 22.º — Recuperação de vagas
+Artigo 22.º
+
+Recuperação de vagas
 
 1 - Sempre que uma vaga seja libertada por um candidato, é automaticamente colocada a concurso para ser preenchida pelo docente melhor posicionado na lista de ordenação, de acordo com a sua prioridade e as preferências por si manifestadas.
 
@@ -845,21 +1132,31 @@ c) Impossibilidade dos docentes não integrados na carreira serem colocados em e
 
 4 - Os candidatos aos concursos interno e externo podem indicar, de entre as suas preferências, a zona pedagógica ou as escolas em que pretendem ser colocados, independentemente de naquelas existirem vagas a ocupar à data de abertura do concurso.
 
-#### SECÇÃO II — Concurso interno
+SECÇÃO II
 
-###### Artigo 23.º — Vagas a concurso
+Concurso interno
+
+Artigo 23.º
+
+Vagas a concurso
 
 Para efeitos do concurso interno, são consideradas todas as vagas não ocupadas das escolas e as resultantes da recuperação automática prevista no artigo anterior, sem prejuízo do disposto no seu n.º 3.
 
-###### Artigo 24.º — Candidatos
+Artigo 24.º
+
+Candidatos
 
 1 - Podem ser opositores ao concurso interno os docentes de carreira que pretendam a transferência para outra escola, para a zona pedagógica ou a transição de grupo de recrutamento.
 
 2 - Os docentes de carreira na situação de licença sem vencimento de longa duração podem candidatar-se ao concurso interno, desde que, nos termos do artigo 50.º, tenham requerido o regresso à escola de origem até ao final do mês de setembro do ano escolar anterior àquele em que pretendem regressar e tenham sido informados de inexistência de vaga.
 
-#### SECÇÃO III — Concurso externo
+SECÇÃO III
 
-###### Artigo 25.º — Vagas a concurso
+Concurso externo
+
+Artigo 25.º
+
+Vagas a concurso
 
 Para efeitos do concurso externo, são consideradas:
 
@@ -869,21 +1166,29 @@ b) As vagas correspondentes às necessidades dos quadros de zona pedagógica;
 
 c) (Revogada.)
 
-###### Artigo 26.º — Candidatos
+Artigo 26.º
+
+Candidatos
 
 1 - Podem ser opositores ao concurso externo os candidatos referidos no n.º 3 do artigo 5.º
 
 2 - A relação jurídica de emprego público com os candidatos colocados no âmbito do concurso externo estabelece-se por contrato de trabalho em funções públicas por tempo indeterminado.
 
-#### SECÇÃO IV — Concurso interno por ausência de serviço
+SECÇÃO IV
 
-###### Artigo 27.º — Candidatos
+Concurso interno por ausência de serviço
+
+Artigo 27.º
+
+Candidatos
 
 1 - Compete ao diretor regional responsável pela área da administração e gestão das organizações escolares promover o concurso interno por ausência de serviço dos docentes de carreira de escolas e de zona pedagógica a quem não seja possível atribuir, pelo menos, seis horas de componente letiva ou que tenham perdido a sua componente letiva, designadamente por motivo de extinção, fusão, suspensão ou reestruturação.
 
 2 - O concurso interno por ausência de serviço docente realiza-se em momento anterior ao concurso interno, quando este se realize.
 
-###### Artigo 28.º — Procedimento de colocação
+Artigo 28.º
+
+Procedimento de colocação
 
 1 - Os docentes referidos no artigo anterior podem manifestar voluntariamente o seu interesse em concorrer ao concurso interno por ausência de serviço.
 
@@ -907,15 +1212,23 @@ b) Na falta de docentes voluntários suficientes, os candidatos são indicados p
 
 9 - Os docentes abrangidos pelo presente artigo podem candidatar-se ao concurso interno correspondente ao mesmo ano escolar.
 
-### CAPÍTULO III — Necessidades temporárias
+CAPÍTULO III
 
-#### SECÇÃO I — Identificação e suprimento das necessidades temporárias
+Necessidades temporárias
 
-###### Artigo 29.º — Necessidades temporárias
+SECÇÃO I
+
+Identificação e suprimento das necessidades temporárias
+
+Artigo 29.º
+
+Necessidades temporárias
 
 Consideram-se necessidades temporárias as que não forem satisfeitas pelos concursos interno e externo, as que resultarem das variações anuais de serviço docente e as correspondentes à recuperação automática dos horários da mobilidade interna.
 
-###### Artigo 30.º — Ordenação das necessidades temporárias
+Artigo 30.º
+
+Ordenação das necessidades temporárias
 
 Para a satisfação de necessidades temporárias das escolas, os docentes são ordenados de acordo com a sua graduação profissional e na seguinte sequência:
 
@@ -929,7 +1242,9 @@ d) Candidatos não colocados no concurso externo no ano da sua realização;
 
 e) Candidatos à contratação.
 
-###### Artigo 31.º — Procedimento de colocação
+Artigo 31.º
+
+Procedimento de colocação
 
 1 - As necessidades temporárias estruturadas em horários, completos ou incompletos, são recolhidas pela direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta do órgão de gestão das escolas básicas e secundárias, do delegado escolar no caso das escolas do 1.º ciclo do ensino básico não integradas e do diretor regional responsável pela área da educação quando se trate de uma instituição de educação especial.
 
@@ -943,15 +1258,21 @@ e) Candidatos à contratação.
 
 6 - A requisição de horários pelos órgãos de gestão das escolas com autonomia administrativa pressupõe a verificação prévia da regularidade financeira do respetivo encargo, designadamente a existência de cabimento orçamental.
 
-#### SECÇÃO II — Concurso de afetação
+SECÇÃO II
 
-###### Artigo 32.º — Candidatos
+Concurso de afetação
+
+Artigo 32.º
+
+Candidatos
 
 1 - A candidatura ao concurso de afetação é anual e obrigatória para os docentes dos quadros de zona pedagógica, independentemente da continuidade prevista no artigo 34.º
 
 2 - Os docentes referidos no número anterior que não se apresentem ao procedimento previsto na presente secção ficam sujeitos à instauração de processo disciplinar.
 
-###### Artigo 33.º — Manifestação de preferências
+Artigo 33.º
+
+Manifestação de preferências
 
 1 - Sem prejuízo do número seguinte, para efeitos de afetação às escolas, os docentes têm de manifestar as suas preferências de acordo com o disposto no artigo 9.º
 
@@ -959,7 +1280,9 @@ e) Candidatos à contratação.
 
 3 - A este concurso é aplicável o disposto nos artigos 16.º a 20.º, com as devidas adaptações.
 
-###### Artigo 34.º — Afetação quadrienal
+Artigo 34.º
+
+Afetação quadrienal
 
 1 - De modo a contribuir para a estabilidade do corpo docente, a afetação dos docentes dos quadros de zona pedagógica mantém-se durante um ciclo de quatro anos, se na escola em que o docente foi colocado subsistir componente letiva com a duração mínima de seis horas.
 
@@ -969,13 +1292,19 @@ e) Candidatos à contratação.
 
 4 - Anualmente são publicitadas as listas de docentes abrangidos pela continuidade referida no n.º 1.
 
-###### Artigo 35.º — Bolsa para substituições
+Artigo 35.º
+
+Bolsa para substituições
 
 (Revogado.)
 
-#### SECÇÃO III — Mobilidade interna
+SECÇÃO III
 
-###### Artigo 36.º — Candidatos
+Mobilidade interna
+
+Artigo 36.º
+
+Candidatos
 
 1 - A mobilidade interna destina-se aos candidatos que se encontrem numa das seguintes situações:
 
@@ -993,23 +1322,33 @@ b) 2.ª prioridade - docentes de carreira de escola do Continente e das escolas 
 
 6 - A colocação dos docentes referidos no n.º 1 mantém-se até ao limite de quatro anos, se na escola em que o docente foi colocado subsistir componente letiva com a duração mínima de seis horas e, no caso dos docentes da alínea a) do n.º 1, desde que se mantenha a inexistência de horário com a duração mínima de seis horas na escola de origem.
 
-###### Artigo 37.º — Manifestação de preferências
+Artigo 37.º
+
+Manifestação de preferências
 
 Para efeitos de colocação na mobilidade interna, os docentes têm de manifestar as suas preferências de acordo com o disposto no artigo 9.º
 
-###### Artigo 38.º — Procedimento
+Artigo 38.º
+
+Procedimento
 
 O procedimento da mobilidade interna é aberto anualmente pela direção regional responsável pela área da administração e gestão das organizações escolares, pelo prazo de cinco dias úteis, após a publicação do aviso da lista definitiva de colocação dos concursos interno e externo, quando a eles houver lugar.
 
-###### Artigo 39.º — Lista da mobilidade interna
+Artigo 39.º
+
+Lista da mobilidade interna
 
 1 - Terminada a verificação dos requisitos de admissão ao procedimento da mobilidade interna, são publicitadas na página eletrónica da direção regional referida no artigo anterior, as listas provisórias dos candidatos admitidos e excluídos.
 
 2 - A este concurso é aplicável o disposto nos artigos 16.º a 20.º, com as devidas adaptações.
 
-#### SECÇÃO IV — Contratação
+SECÇÃO IV
 
-###### Artigo 40.º — Contratação inicial
+Contratação
+
+Artigo 40.º
+
+Contratação inicial
 
 1 - As necessidades temporárias não satisfeitas por docentes de carreira são preenchidas por recrutamento de indivíduos detentores de habilitação profissional para a docência, mediante celebração de contrato de trabalho a termo resolutivo, nos termos do número seguinte.
 
@@ -1023,7 +1362,9 @@ O procedimento da mobilidade interna é aberto anualmente pela direção regiona
 
 6 - Os candidatos não colocados no concurso externo e os opositores à contratação inicial são ordenados numa prioridade única, de candidatos qualificados profissionalmente para o grupo de recrutamento a que se candidatam.
 
-###### Artigo 41.º — Procedimento
+Artigo 41.º
+
+Procedimento
 
 1 - Os candidatos não colocados no concurso externo, que pretendam ser opositores ao concurso de contratação inicial, declaram essa intenção na candidatura ao concurso externo nos termos da alínea f) do n.º 1 do artigo 7.º
 
@@ -1039,13 +1380,17 @@ O procedimento da mobilidade interna é aberto anualmente pela direção regiona
 
 7 - O disposto nos n.os 2 a 6 do artigo 16.º é aplicável, com as devidas adaptações, a este concurso.
 
-###### Artigo 42.º — Listas de contratação inicial
+Artigo 42.º
+
+Listas de contratação inicial
 
 1 - A lista de colocação para efeitos da contratação inicial é homologada pelo diretor regional responsável pela área da administração e gestão das organizações escolares.
 
 2 - Das listas de colocação, ordenação e exclusão, publicadas na página eletrónica da direção regional referida no n.º 1, pode ser interposto recurso hierárquico disponibilizado naquela página, em formulário eletrónico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis.
 
-###### Artigo 43.º — Reserva de recrutamento
+Artigo 43.º
+
+Reserva de recrutamento
 
 1 - Os docentes de carreira de zona pedagógica a quem não é possível atribuir pelo menos 6 horas de componente letiva e os candidatos à contratação inicial, integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários surgidos após a contratação inicial.
 
@@ -1075,7 +1420,9 @@ O procedimento da mobilidade interna é aberto anualmente pela direção regiona
 
 14 - Os contratos a termo resolutivo consideram-se celebrados na data da apresentação efetiva ao serviço.
 
-###### Artigo 44.º — Oferta de emprego
+Artigo 44.º
+
+Oferta de emprego
 
 1 - As necessidades residuais de pessoal docente que não puderem ser supridas nos termos dos artigos anteriores, as respeitantes a horários incompletos e as resultantes de duas não aceitações consecutivas referentes ao mesmo horário, são-no por contratação resultante de oferta de emprego.
 
@@ -1099,7 +1446,9 @@ O procedimento da mobilidade interna é aberto anualmente pela direção regiona
 
 11 - Em matéria de aceitação de colocação e de apresentação é aplicável o disposto no n.º 6 do artigo 9.º e nos n.os 10 a 14 do artigo 43.º
 
-###### Artigo 45.º — Documentos
+Artigo 45.º
+
+Documentos
 
 1 - No momento da celebração de contrato, o docente selecionado deve apresentar prova documental dos seguintes dados:
 
@@ -1115,9 +1464,13 @@ c) Certificado do registo criminal para efeitos do exercício de funções docen
 
 4 - Ao presente artigo é aplicável o disposto nos n.os 4 e 5 do artigo 7.º, com as necessárias adaptações.
 
-#### SECÇÃO V — Contrato
+SECÇÃO V
 
-###### Artigo 46.º — Limites do contrato
+Contrato
+
+Artigo 46.º
+
+Limites do contrato
 
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima um ano escolar, incluindo o período de férias.
 
@@ -1139,7 +1492,9 @@ c) Certificado do registo criminal para efeitos do exercício de funções docen
 
 10 - Para efeitos do previsto nos números anteriores, a cessação do contrato é comunicada à direção regional responsável pela área da administração e gestão das organizações escolares, pelo órgão de gestão das escolas.
 
-###### Artigo 47.º — Celebração do contrato
+Artigo 47.º
+
+Celebração do contrato
 
 1 - Os modelos destinados à celebração do contrato são aprovados pela direção regional responsável pela área da administração e gestão das organizações escolares, que os disponibilizará na sua página eletrónica.
 
@@ -1151,7 +1506,9 @@ c) Certificado do registo criminal para efeitos do exercício de funções docen
 
 5 - O candidato colocado que falte à celebração do contrato nos prazos estabelecidos, por motivo não atendível, fica impedido de prestar serviço nesse ano escolar e no seguinte em qualquer escola da Região Autónoma da Madeira.
 
-###### Artigo 48.º — Retribuição
+Artigo 48.º
+
+Retribuição
 
 1 - Os docentes contratados a termo resolutivo são remunerados pelo índice 167 da escala indiciária constante em anexo ao Estatuto, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
 
@@ -1165,7 +1522,9 @@ c) Certificado do registo criminal para efeitos do exercício de funções docen
 
 6 - Aos docentes contratados a termo resolutivo não licenciados ou não detentores de habilitação profissional é aplicada a tabela constante do anexo ao presente diploma.
 
-###### Artigo 49.º — Período experimental e denúncia de contrato
+Artigo 49.º
+
+Período experimental e denúncia de contrato
 
 1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano escolar.
 
@@ -1175,15 +1534,21 @@ c) Certificado do registo criminal para efeitos do exercício de funções docen
 
 4 - A denúncia do contrato pelo candidato fora do período experimental impede a celebração de qualquer outro contrato ao abrigo do presente diploma no mesmo ano escolar e a impossibilidade de concorrer no ano seguinte aos procedimentos concursais regulados no presente diploma.
 
-### CAPÍTULO IV — Situações especiais
+CAPÍTULO IV
 
-###### Artigo 50.º — Docentes em gozo de licença sem vencimento de longa duração
+Situações especiais
+
+Artigo 50.º
+
+Docentes em gozo de licença sem vencimento de longa duração
 
 1 - Os docentes que se encontram em licença sem vencimento de longa duração podem, nos termos do artigo 96.º do Estatuto, requerer até final do mês de setembro do ano anterior o regresso ao lugar de origem.
 
 2 - A autorização só é concedida se a escola dispuser de vaga e de horário nos termos dos artigos 73.º e 75.º do Estatuto.
 
-###### Artigo 51.º — Consolidação da mobilidade
+Artigo 51.º
+
+Consolidação da mobilidade
 
 Considerando o disposto no artigo 99.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pelas Leis n.os [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [84/2015](https://diariodarepublica.pt/dr/detalhe/lei/84-2015-69968702), de 7 de agosto, [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e [25/2017](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), de 30 de maio, é consolidada a mobilidade dos docentes portadores de deficiência visual total, com baixa visão ou que se deslocam em cadeira de rodas desde que satisfaçam os seguintes requisitos:
 
@@ -1193,7 +1558,9 @@ b) O docente tenha no presente ano componente letiva não inferior a 6 horas e s
 
 c) Seja requerida pelo docente.
 
-###### Artigo 52.º — Situações específicas de graduação profissional
+Artigo 52.º
+
+Situações específicas de graduação profissional
 
 1 - Os docentes de carreira com formação inicial conferente do grau académico de bacharelato que, complementarmente à formação profissional inicial, tenham concluído um dos cursos identificados nos despachos referidos nos n.os 2 e 3 do artigo 55.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, até à entrada em vigor do [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), de 19 de janeiro, podem optar, para efeitos de graduação profissional, entre a classificação profissional relativa à formação inicial ou a classificação conjunta da formação inicial e daquele curso.
 
@@ -1211,27 +1578,39 @@ i) Do número de dias de serviço docente ou equiparado, contado a partir do dia
 
 ii) Com o número de dias de serviço docente ou equiparado prestado anteriormente à obtenção da dispensa da profissionalização, ponderado pelo fator 0,5, com arredondamento à milésima.
 
-### CAPÍTULO V — Disposições transitórias
+CAPÍTULO V
 
-###### Artigo 53.º — Regime especial de afetação
+Disposições transitórias
+
+Artigo 53.º
+
+Regime especial de afetação
 
 1 - À data da entrada em vigor do presente diploma, cessam as continuidades previstas no n.º 4 do artigo 31.º do [Decreto Legislativo Regional n.º 25/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2013-497841), de 17 de julho, alterado pelos Decretos Legislativos Regionais n.os [7/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-55021038), de 25 de julho, e [5/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2015-69782195), de 10 de julho, sem prejuízo do disposto no número seguinte.
 
 2 - A colocação de docentes nos termos da alínea d) do n.º 1 e do n.º 4 do artigo 31.º do [Decreto Legislativo Regional n.º 25/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2013-497841), de 17 de julho, alterado pelos Decretos Legislativos Regionais n.os [7/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-55021038), de 25 de julho, e [5/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2015-69782195), de 10 de julho, mantém-se até ao limite previsto, desde que subsista a disponibilidade de horário letivo com um mínimo de 6 horas.
 
-###### Artigo 54.º — Autorização para a celebração de contratos a termo resolutivo
+Artigo 54.º
+
+Autorização para a celebração de contratos a termo resolutivo
 
 A contratação de pessoal docente em regime de contrato de trabalho a termo resolutivo depende de despacho de autorização do membro do Governo Regional responsável pelas áreas das finanças e da Administração Pública, nos termos do diploma que aprova o Orçamento da Região Autónoma da Madeira.
 
-###### Artigo 55.º — Educação moral e religiosa católica
+Artigo 55.º
+
+Educação moral e religiosa católica
 
 Até ao termo do ano escolar 2019/2020, o exercício temporário de funções docentes na disciplina de educação moral e religiosa católica faz-se nos termos do [Decreto Legislativo Regional n.º 18/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1990-575156), de 21 de junho, alterado pelo Decreto Legislativo Regional n.º [11/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1999-158035), de 11 de março, devendo entender-se que todas as remissões nele feitas para o [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de maio, passam a sê-lo para as disposições correspondentes do presente diploma.
 
-###### Artigo 56.º — Criação do quadro de zona pedagógica único
+Artigo 56.º
+
+Criação do quadro de zona pedagógica único
 
 É criado o quadro de zona pedagógica único, nos termos da portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das Finanças e da Administração Pública e de Educação, a aprovar de acordo com o disposto no n.º 3 do artigo 30.º do Estatuto.
 
-###### Artigo 57.º — Transição dos docentes do quadro de vinculação da Região Autónoma da Madeira
+Artigo 57.º
+
+Transição dos docentes do quadro de vinculação da Região Autónoma da Madeira
 
 1 - Os docentes do quadro de vinculação da Região Autónoma da Madeira transitam automaticamente, sem outras formalidades, para o quadro de zona pedagógica único, a partir da data de entrada em vigor da portaria conjunta referida no artigo anterior.
 
@@ -1239,17 +1618,23 @@ Até ao termo do ano escolar 2019/2020, o exercício temporário de funções do
 
 3 - É extinto o quadro de vinculação da Região Autónoma da Madeira criado pelo [Decreto Legislativo Regional n.º 22/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2013-497410), de 25 de junho, a partir da data da entrada em vigor da portaria referida no n.º 1.
 
-###### Artigo 58.º — Falsas declarações
+Artigo 58.º
+
+Falsas declarações
 
 1 - Às falsas declarações e confirmações dos elementos necessários à instrução dos procedimentos previstos no presente diploma é aplicado o disposto no n.º 1 do artigo 20.º, sem prejuízo dos procedimentos disciplinar e criminal a que haja lugar, nos termos da lei.
 
 2 - As confirmações indevidas dos elementos constantes da candidatura por parte das entidades intervenientes fazem incorrer os seus agentes em procedimento disciplinar.
 
-###### Artigo 59.º — Legislação subsidiária
+Artigo 59.º
+
+Legislação subsidiária
 
 Em tudo o que não estiver regulado no presente diploma é aplicável o Estatuto, o regime geral de recrutamento dos trabalhadores que exercem funções públicas e o regime geral de trabalho em funções públicas.
 
-###### Artigo 60.º — Norma revogatória e de produção de efeitos
+Artigo 60.º
+
+Norma revogatória e de produção de efeitos
 
 1 - São revogados:
 
@@ -1267,10 +1652,16 @@ f) O [Decreto Legislativo Regional n.º 6/2014/M](https://diariodarepublica.pt/d
 
 2 - O disposto na alínea e) do número anterior produz efeitos à data da entrada em vigor da portaria a que se refere o artigo 56.º do presente diploma.
 
-###### Artigo 61.º — Entrada em vigor
+Artigo 61.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação e é aplicável aos concursos relativos ao ano escolar 2016-2017 e aos posteriores.
 
-## ANEXO — (a que se refere o n.º 6 artigo 48.º)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+(a que se refere o n.º 6 artigo 48.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0282902846.pdf)
+
+111461957
